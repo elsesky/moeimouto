@@ -1,0 +1,224 @@
+//> right room1 mainL 0
+//$ dark.swa 0 255
+//%w
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<CLEAR><BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">
+　带着截然不同的表情，
+　三人看着倒在地上的东洋少年。
+
+//# sice 20
+//%sR
+<BOX type="5">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+「麦肯宁小姐，意下如何，
+　难道您不认为他是难得的人才么？」
+
+//# crou2^6 20 dummy 19
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+//%w
+<BOX type="2">
+　无视银发男人得意的微笑，转过视线，女子…克劳蒂娅·麦肯宁，瞥了一眼手臂负伤的女孩。
+
+<BOX type="5">
+//%sR
+「……真是不像样子啊，Ein」
+
+<BUSTUP NAME="crou" MODE="off">
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+//# elen1^7 19 dummy 20
+//%sL
+<BOX type="4">
+「……十分抱歉」
+
+//# sice 20 dummy 19
+//%sR
+<BUSTUP NAME="elen1" MODE="off">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">
+「您还满意吗？
+  这个少年既没有受过训练，也没有战术素养」
+
+「仅凭与生俱来的求生本能，
+　就能采取那样的行动」
+
+「他是天才
+  陷入生死攸关的窘境，才初次展现出才能的天才」
+
+「简直就像……」
+
+「为加入我们“Inferno”而生，您不这么认为吗？」
+
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">
+//# crou2^2 19 dummy 20
+//%sL
+「……即便如此，
+　他本人有这个意愿吗？」
+
+<BUSTUP NAME="crou2" MODE="off">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+//# sice 20 dummy 19
+//%sR
+<BOX type="5">
+「意愿……吗？」
+
+<BOX type="2">
+//# sice2 20
+//%w
+　如同听到荒唐的话语一般，
+　银发的男人苦笑着说。
+
+<BOX type="5">
+//%sR
+「世界上没有拒绝孵化的卵，也不存在拒绝发芽的种子。这不是个人意志的问题」
+
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">
+//# crou2^3 19 dummy 20
+//%sL
+「……用你最擅长的洗脑么」
+
+<BUSTUP NAME="crou2" MODE="off">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+//# sice 20 dummy 19
+<BOX type="5">
+//%sR
+「正是如此」
+
+「已经通过催眠和药物对他进行了处理，结果非常完美，常识和判断力得到保留，而关于自身的记忆则被封印」
+
+「可以说话，也知道自己看到的是什么。但即便如此，他依旧对自己一无所知」
+
+「姓名、家庭、朋友……
+　什么都无从回想」
+
+「对于洗脑而言，这是最佳的状态」
+
+「至于完成的程度，已经通过
+ “Ein”证明了……」
+
+//# elen1^2 19
+//%sL
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">
+「……」
+
+//# sice 20
+//%sR
+<BUSTUP NAME="crou2" MODE="off">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">
+「还望您理解，麦肯宁小姐，
+  这是我的慈悲」
+
+「他很不幸的出现在现场，本应是个被处理掉的目击者」
+
+「但是现在，我想再给他一次机会，让他踏上一个硕果累累的人生」
+
+「对于您来说，
+  也是这样考虑的吧？」
+
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+//# crou2^2 19 dummy 20
+//%sL
+<BOX type="4">
+「……」
+
+「……单独的旅行者么」
+
+「未成年，还是个日本人。
+　会有麻烦吧，那个国家的媒体介入的话」
+
+//# sice 20 dummy 19
+//%sR
+<BUSTUP NAME="crou2" MODE="off">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">
+「我已经派人抹消他的出入境记录,相关事务正在安排」
+
+「他的下落已经没有人能够查到了，保密措施是完美无瑕的」
+
+//# crou2^2 19 dummy 20
+//%sL
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">
+「……」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+//# crou2^6 19
+//%sL
+「……好吧。
+　赛斯·玛斯塔。
+　这个少年就交给你了」
+
+<BUSTUP NAME="crou" face="3" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+//# crou2^3 19
+//%sL
+「Ein,外加Zwei……
+　为你的弟子们命名，
+　再稍微用点心如何」
+
+<BUSTUP NAME="crou" MODE="off">
+<WIPE EFFECT="fade" TIME="10">
+//# dummy 19
+//%m
+<BOX type="3">
+　留下这样的话语，克劳蒂娅转身走出了房间。
+
+//# sice 19
+//%m
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+　身后，
+　名为赛斯·玛斯塔的男子,冷笑着目送她的背影离去。
+
+<BOX type="4">
+//%sL
+“你到底还能像这样对我指手画脚到几时呢？
+　大小姐……”
+
+<BUSTUP NAME="sice" face="3" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+//# sice3 19
+//%sL
+「已经够了，Ein。
+　退下处理伤口去吧」
+
+<BUSTUP NAME="sice" MODE="off">
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">
+//# elen1^3 20 dummy 19
+//%sR
+「……是、主人」
+
+<clear>
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="10" loop="on">
+<wait time="300">
+<A HREF="0020.txt" OPERATOR="">
+<A HREF="0020.txt" OPERATOR="">//~ 0020

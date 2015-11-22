@@ -1,0 +1,172 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夜の砂漠を、吹き渡る風。
+
+　今も昔も変わりなく、ここは、時の止まった場所。
+
+　始まったのは、ここだった。
+　やり直そうと決めたのも、ここだった。
+
+　なら……終わるのも、ここがいい。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　この期に及んで、もう逃げる気さえ起こらなかった。
+
+　いま逃げなければ、待ち受けるのは間違いなく死だけだろうが……
+　だから、どうだというのだ？
+
+　守ったものも、
+　信じたものも、
+　全てが潰え去った今……どうして、まだ生き延びる理由がある？
+
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……あのとき、日本に逃げていれば良かったのかもしれないが……
+　いいや、そうしたところで、空虚な人生が先延べになっただけのことだ。
+
+<A HREF="#クロウ" OPERATOR="0092r=1">
+<CLEAR><BACKGROUND SRC="0090p3">//# 0090p3 1
+<WIPE EFFECT="fade" TIME="10">
+<A HREF="#合流">
+<MARKER NAME="#クロウ">
+<CLEAR><BACKGROUND SRC="0092p2">//# 0090p3 1
+<WIPE EFFECT="fade" TIME="10">
+<MARKER NAME="#合流">
+<BOX type="0">//%w
+　いっそあのときの命令を、毅然と拒んで殺されていれば……
+
+<CLEAR><BACKGROUND SRC="0160x1">//# 0160x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いいや、むしろ最初に、アインから逃げていなければ……
+
+　責め苦は、短く終わっていたのだ。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　願わくば、最後ぐらいは、慈悲深く幕を降ろしてほしい。
+
+　恐怖もなく、
+　苦痛もなく、
+
+　忍び寄る気配さえ気付かせぬまま、
+　ただ一瞬の一撃で、慈悲深く幕を降ろしてほしい。
+
+　そんな、手練れがいるのであれば、
+　この場所も、用意に探し当てるだろう。
+
+　そして……
+
+<se id="1" src="hardShock" mode="normal" time="" loop="off" effect="">//!se hardShock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　致命傷を負ったとき、銃声は、自分自身には聞こえないと……
+　どこかで、そう聞いたことがある。
+
+　視覚も、聴覚も、すべて麻痺させるほどに強烈な衝撃が、
+　そのとき感じ取れた、すべてだった。
+
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　倒れ伏したあとから、かろうじて耳が捉えたのは、
+　廃墟に響き渡った銃声の、ほんのわずかな残響だけ。
+
+//> dream dummy center 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1 elen5^2 20
+<BUSTUP NAME="elen5" face="2" MODE="on" zoom="" ALIGN="right">//# factory2 1 elen5^2 20
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　……君……だったか……
+
+自分の鼓動が聞こえない。
+ただ、潮が退くように
+抜け落ちていく温もりだけを感じる。
+
+　心臓を撃ち抜かれたのだろう。
+
+　だが血流が途絶えても、
+　脳が死ぬまでは間がかかる。
+　どうせなら……
+　頭を狙ってくれれば良かったのに。
+
+　まあ……いい……
+　多くは望むまい……
+
+　概ね、願ったとおりの最後だよ……
+　……ありがとう……アイン……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right factory2 wide 255 elen6^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory2">//
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　とどめの一発は、必要なかった。
+
+　事切れた少年の骸を見下ろしながら、交わした言葉の数々を、アインは思い出す。
+
+　{姓}、{名}……
+
+　この限りなく非情な世界に身を置きながら、自分自身の意志で、行く手を切り開こうとしたばかりに……
+
+　なくした記憶を取り戻したばかりに、彼は人として生きることを強いられた。
+
+　そうでなければ、痛みを知らぬ機械で在り続けられたのに。
+
+　哀れだった。
+　不憫だった。
+
+　アインがもっとも恐れて止まぬ苦痛を、この少年は満身に受け止めて、逝ったのだ。
+
+　虚しくてもいい。
+　非情でもいい。
+　心など、
+　凍てついたままであればいい。
+<bgm src="" mode="fadeout" time="30" loop="on">//> right factory2 wide 255 elen6^2 20
+
+　だから少女は、
+　彼の死を、深く胸に刻みつけた。
+
+　名もなき暗殺者でしかない我が身の、戒めとするために。
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550

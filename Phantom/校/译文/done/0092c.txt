@@ -1,0 +1,222 @@
+　那辆叉车的确可以算是不错的遮蔽物。
+
+　从敌人的角度来看，如果第一发子弹没有击中的话，
+  也不必害怕从我这边发起的反击，依然可以安心地继续扫射。
+
+　我这边没有任何可供藏身的遮蔽物。而叉车却可以将对手彻底掩护起来，普通手枪的话根本拿他没有办法。
+
+　普通手枪的话……
+
+　仿佛在寻求答案一样，我把目光转向自己的右手。
+
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　0.44口径马格南弹究竟能发挥出多大的威力，
+  自己还从来没有试过。
+
+　但是，在威力的极限上，这把枪是个例外。
+　用这家伙的话，一定能做到吧。
+
+　在每天的训练中不知射击了多少次的、0.44口径马格南左轮的触感，让我这样确信着。
+
+　不管对方在那个叉车的什么地方、以什么样的姿势隐藏着……
+　被6发马格南子弹连续射击的话，也是不可能毫发无伤的。
+
+<CLEAR><BACKGROUND SRC="factory3">//# factory3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+这样分析完毕后，
+像羽毛落地一样，我轻轻地弯下腰……单膝跪地，双手伸向前方。
+举起马格南沉重的枪身，把视线与照门和准星重叠。
+
+　没有任何的不协调感，
+  身体上再现的，是不知做过多少次的射击姿势。
+  现在的自己，
+  就像是用录像机播放出的录像画面。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　是什么呢，这种平静的心情。
+
+　为什么，自己会这么沉着呢？
+
+　这不是训练。
+  如果对手还击的话，没有任何供自己躲避的地方
+
+　敌人真的在那里吗？
+  要是无谓地浪费子弹，
+  不就等于把自己的位置告诉不知躲在何处的敌人吗？
+
+　把6发子弹全部射出真的没问题吗？
+　在再装填的间隙遭受攻击的话，要怎么办？
+
+　想得越多，不安的要素就浮现得越多。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　但是不管怎样，在内心的最深处，
+　毫不动摇的自信……不，是坚信……真真切切地存在着。
+
+　比起任何的理论、铁则，自己更加确信无疑的东西……
+
+　那是，只要扣下扳机就可以击倒敌人的信心。
+
+<CLEAR><BACKGROUND SRC="factory3b">//# factory3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　没错。不靠直觉，不用预测。
+　自己“很清楚”猎物的位置……
+
+　即使眼睛看不到、耳朵听不到，
+  但我还能闻到猎物的气味。
+
+　被追赶的猎物所散发出的无法忍耐的愤怒与恐惧……
+　我闻到了这样的气味。
+
+　作为猎人，我用存在于灵魂最深处的东西掌握了现状的一切。
+
+　手指……
+　就像遵照事先做好的设定那样，
+  无意识地扣住了扳机。
+
+　从按在扳机上的食指腹部传来了冰冷坚硬的触感。
+
+　这触感，像是拂过水面的风一般……
+  在我的内心激起不安的波纹。
+
+　为什么，自己不会害怕？
+
+　是因为有自信吗？
+
+　不……不是这样。
+
+　与性命安危、战斗胜负无关
+  自己现在只是打算射击……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　对手……是活生生的人吧？
+
+　大脑中的某处保留着这样的想法……
+　食指则没有丝毫停滞地扣下了扳机……
+　这两件事究竟是哪件先发生的呢，自己已经分辨不出了。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　超乎想象却又在意料之中的、强烈的闪光与轰鸣声。
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　从手腕开始贯穿肩部的后坐力……
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　对于饱经训练的我，这样的事已经习惯了。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　每一次被子弹贯穿，叉车都猛烈地摇晃，
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　覆盖其上的厚厚的铁锈与灰尘，像粉尘一般四散飞扬。
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="factory3">//# factory3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　刺鼻的硝烟，还有嗡嗡的声音。
+
+<se id="1" src="02_08" mode="normal" time="" loop="off" effect="">//!se 
+　我马上推出手枪转轮，用退弹器将空弹壳取出。
+<se id="2" src="02_09" mode="normal" time="" loop="off" effect="">//!se 
+　不等空中飞舞着的弹壳落地，我已经用快速装弹器将新的6发子弹装入转轮，然后凭借手腕的力量将转轮复位。
+
+　这从旁边看来如同表演杂技一般麻利的手法，就是训练的成果。
+　没有观察手里动作的必要。
+　我的视线始终盯着被打成蜂窝一样的叉车。
+
+从开始退弹，到拿起再装填完毕的0.44马格南手枪，所需时间不到两秒。
+
+　可是……没有东西在动。
+
+　没有反击的火力，也没有在地面上奔跑的脚步声。
+
+　干掉了……吗？
+
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+　是因为刚才强烈闪光的缘故吧。
+  我感觉周围变得更加黑暗。
+
+　突然间意识到。
+  ……自己在做着什么傻事啊。
+
+　这不是在空无一人的废墟中、一个人表演着杂耍吗？
+
+　睁大眼睛，我凝视着叉车的残骸。
+
+　单凭从窗外漏进来的一点点的微光，
+  连叉车的残骸都看不太清楚。
+
+　好奇怪啊。刚才的确是……
+　我反复回想着刚才看到的那一幕。
+
+　与其说环境变暗了，
+  不如说像是空气的透明度发生了变化。
+
+　只有试着靠近了。
+
+　我蹑手蹑脚、小心翼翼地向叉车走去。
+
+<CLEAR><BACKGROUND SRC="factory3b">//# factory3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　终于能够更清楚地看到叉车残骸了，
+  已经到了伸手可及的距离，连铁锈味也能闻见了。
+
+　扑嚓……
+
+　脚尖落下的地方，传出这样湿滑的声音。
+
+　用鞋底蹭了蹭地面，有种黏糊糊的感觉。
+
+　仔细闻了闻，闻到的是刺鼻的恶臭。
+　不对……这不是铁锈的味道。
+
+　这是，血。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0090x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="0090x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在残骸下方的边上，沃列斯大尉倒在那里。
+
+　他的双眼因失去意志的光芒而变得浑浊，呼吸也已经没有了。
+
+　他的肩膀偶尔还会抽动，
+  每抽动一次，地上延展着的血海就扩大一点轮廓。
+  是动脉出血。大概不知是在什么地方中了两枪……
+
+　这是什么啊。
+
+　为什么这种东西会在这里啊？
+
+　我不明白。
+　这种不协调感是怎么回事？
+
+　向影子开枪时、平凡无奇的扳机的触感，
+　现在充斥鼻腔的、新鲜血液的腥臭味，
+　自己无论如何也不能把它们联系到一起。
+
+　只不过是扣动了一下扳机……
+　为什么，会有人死在这里？
+
+<A HREF="0092r.txt" OPERATOR="0090c=1">//~ 0092r
+<A HREF="0092t.txt" OPERATOR="">//~ 0092t

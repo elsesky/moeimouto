@@ -1,0 +1,598 @@
+//> left room0b4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="塉幒撪儖乕僾" mode="fadein" time="10" loop="on" effect="">//!se rain
+<BACKGROUND SRC="room0b4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="2" src="F40尞傪搉偡" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　把枪插进枪套，我从钥匙串上取下Taurus的车钥匙。
+　这样就算准备完毕了。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「Ein」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么？」
+
+<BOX type="0">//%w
+「……小心点」
+
+　试着说出这句话后，我突然意识到。
+  不习惯的言语，被自己非常自然地说了出来。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你也一样」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Ein也理所当然地那样回应了我……
+　这时，两人都感受到了一种不协调的氛围。
+
+　我们彼此之间，还从未在执行任务前，像这样毫无意义地交换宽慰的言语。
+
+　恐怕两人同时意识到了这一点，
+　我们相互对视了一下，之后双双陷入沉默。
+  我就这样无言地走出了阁楼。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="2" src="塉幒奜" mode="fadein" time="10" loop="on" effect="">//!se rain
+<CLEAR><BACKGROUND SRC="street0d">//# street0d 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　雨好像下得更大了。
+
+//<se id="1" src="塉幒奜儖乕僾" mode="fadeout" time="20" loop="off" effect="">//!se rain
+//> left nightWay4 wide 255
+<se id="2" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+
+<se id="1" src="塉幵幒撪儖乕僾" mode="fadein" time="10" loop="on" effect="">//!se rain
+<se id="2" src="儚僀僷乕" mode="fadein" time="20" loop="on" effect="">//!se rain
+<se id="3" src="僩乕儔僗憱峴幒撪壒" mode="fadein" time="20" loop="on" effect="">//!se rain
+
+<BACKGROUND SRC="nightWay4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我驶上高速公路，
+  经由地下隧道向美洲狮路前进。
+
+　克劳蒂娅的住宅在以聚集了众多高级住宅而闻名的玛丽坞，
+　随着我驾车深入，
+  周边热闹非凡的海岸，开始变成山间清闲的别墅区。
+
+　虽然我已经知道了地址门牌号，可是这里并不是每一个单元都有街区标示。
+　于是我大概确认了她家的所在位置，然后就只能根据建筑物的特征来寻找了。
+
+<se id="3" src="" mode="fadeout" time="30">
+<se id="2" src="" mode="fadeout" time="30">
+//<se id="2" src="儚僀僷乕" mode="fadeout" time="20" loop="off" effect="">//!se rain
+//> left houseC wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="houseC">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……找到了。
+
+　真是超乎我想象的豪宅啊。
+　克劳蒂亚独自拥有这样一整座的豪宅吗？
+
+<se id="1" src="" mode="fadeout" time="30">
+//<se id="1" src="塉幵幒撪儖乕僾" mode="fadeout" time="40" loop="on" effect="">//!se rain
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我站在门口，
+  身穿宽松居家服的克劳蒂娅亲自出来迎接我。
+
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「欢迎你，Zwei。没找错地方哦」
+
+<BOX type="0">//%w
+没想到房子的主人竟然亲自出来迎接……
+ 这么一说，我突然觉得与公寓的规模相比，房子里的气氛显得稍微有点冷清。几乎所有的窗户都没有亮灯。
+
+「其他的保镖呢？」
+
+<BOX type="5">//%sR
+「只有你一个哦」
+
+<BOX type="0">//%w
+　太乱来了吧。
+
+「……他们都休假了么？」
+
+<BOX type="5">//%sR
+「其他的保镖从来就没有哦，狗也没有。
+  一直以来都只有莉兹一个人。
+  剩下的就全部依靠感应器了」
+
+<BOX type="0">//%w
+　我的表情不知不觉间僵住了。
+　看到我这样，克劳蒂亚更添了几分笑意。
+
+<BUSTUP NAME="crou3" face="" MODE="on" zoom="" ALIGN="right">//# crou3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不必那么紧张。说到底，保镖不过是用来警戒的」
+
+<BOX type="0">//%w
+　和驾车兜风的时候一样……
+　看起来这个人对自己的处境向来不怎么在意啊。
+
+「我去周围巡逻一下」
+
+<BUSTUP NAME="crou3" face="7" MODE="on" zoom="" ALIGN="right">//# crou3^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是吗？
+  那，我去准备些饮料」
+
+<BOX type="5">//%sR
+「……你想喝什么呢？」
+
+<BOX type="0">//%w
+「我不喝带酒精的饮料」
+
+　自己这么说，一定很让人感到很无趣吧。
+
+//> left teras wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="teras">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　巡逻的结果令我大吃一惊。这座公寓的警备系统简直可以称得上是铜墙铁壁。
+
+ 对人用雷达、压力传感器、红外线、热感应器……
+ 在所有能想到的入侵的路线上都至少有三种以上的警报器。
+ 更厉害的是，还设置了催泪瓦斯和塑胶弹等非杀伤性的机关。
+
+　伪装得也很高超。
+  虽然这些机关从内部非常容易识别，
+  但在从外部侵入的时候，根本无法第一时间看破。
+
+　这里简直就是保安装置构成的要塞。
+  就算是由我来突破，恐怕也是不可能的。
+  大概对Ein来说也十分困难吧。
+
+　原来如此，有了这样奢侈的系统，
+  根本不需要人来保护了。
+  如果警报响起的话，
+  只要躲进室内，等待救援就可以了。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 crou3a 20
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# roomC1 1 crou3a 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「怎么了？」
+
+<BOX type="0">//%w
+「我不明白为什么让我来这里」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　没有开玩笑，我所说的是心里真实的感受。
+  可是克劳蒂娅却觉得很好笑似地笑了起来。
+
+<BOX type="5">//%sR
+「说了句很老实的话啊」
+
+「虽然你是莉兹的代理， 不过我希望你能和她一样，成为我重要的侍从」
+
+「我说过了吧？
+　不用那么紧张也行哦」
+
+<se id="1" src="僐僢僾偵昘" mode="normal" loop="off">
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　接着，克劳蒂娅把手中拿着的两个玻璃杯中的一个递给我。
+
+<BOX type="5">//%sR
+「来杯威士忌加苏打水怎么样？」
+
+<BOX type="0">//%w
+「……我现在在工作」
+
+<BOX type="5">//%sR
+「所以才让你不要那么紧张嘛」
+
+「喝一杯应该不会倒吧？
+  没接受过这样的训练吗？」
+
+<BOX type="0">//%w
+　这是当然的。
+　我到底要怎么说才能搪塞过去呢？
+
+「……我还是个孩子」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「噗嗤……啊哈哈哈……」
+
+<BOX type="0">//%w
+　我有点自暴自弃地说道，
+  结果，克劳蒂娅终于忍不住爆笑了起来。
+  她捂着肚子，两只手也无法好好地拿住酒杯。
+
+<BOX type="5">//%sR
+「好啦好啦，
+  是姐姐不好」
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……真是的，酒都洒出来了。
+  看来得重新调了」
+
+<BOX type="0">//%w
+　她的眼角渗出了眼泪。
+  不用笑到这个地步吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　回到酒吧间的克劳迪娅……
+　不知为何，又带着两杯酒回来了。
+
+<se id="1" src="僐僢僾偵昘" mode="normal" loop="off">
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「这是……」
+
+<BOX type="5">//%sR
+「你只要拿着就行了。
+  这是气氛的问题」
+
+<BOX type="0">//%w
+　是这个意思吗。
+
+　正在我拿着酒杯不知所措的时候，
+  克劳蒂娅用她的杯子轻轻地跟我的碰了碰。
+
+<se id="1" src="kanpai" mode="normal" time="" loop="off" effect="">//!se kanpai
+　叮……清脆的声音，在安静的屋子里响起。
+
+<BOX type="5">//%sR
+「一个人独饮实在是没有意思」
+
+<BOX type="0">//%w
+　这样做，没关系吗？
+
+　我不知道我来这里要做什么。
+  虽然有点愚蠢，但这是我的真心话。
+
+<CLEAR><BACKGROUND SRC="teras">//# teras 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　有那么先进的防护系统，保镖之类的就形同虚设。
+  在这个舒适的房间里，除了跟克劳蒂娅作伴以外，
+  真的再没有别的事情可以做了。
+
+　不过，那么先进的设备，
+  到底要花多少钱呢？
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　想到这里，我突然冒出一个疑问。
+
+　为什么不使用人呢？
+
+　这套装置的维护也便宜不到哪去。
+  如果有几个保镖长期驻扎的话，
+  在成本方面肯定会更划算一些。
+
+<CLEAR><BACKGROUND SRC="room3">//# room3 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// inferuno1 19 inferuno2 20
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# room3 1  inferuno1 19 inferuno2 20
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# room3 1  inferuno1 19 inferuno2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这么说的话……
+　其他的两个干部，马格维雅和维斯梅尔的身边，
+  从来都是跟着众多保镖和司机。
+
+　这也是理所当然的吧。
+　马格维雅是哥伦比亚的毒品大王……
+  维斯梅尔是掌握洛杉矶的暴力团伙“布拉迪兹”的头目。
+  身为Inferno创始人的两个人，都是当仁不让的犯罪大王。
+跟其他的Inferno组织的成员的身份是不同的。
+
+<CLEAR><BACKGROUND SRC="passage1">//# passage1 1 crou 20 rizy 19
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# passage1 1 crou 20 rizy 19
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# passage1 1 crou 20 rizy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，同为Inferno干部的克劳蒂娅，身边却只有莉兹一个人。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1  dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……我有个问题，可以问吗？　麦肯宁小姐」
+
+<BUSTUP NAME="crou3" face="0a" MODE="on" zoom="" ALIGN="right">//# crou3^0a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么？」
+
+<BOX type="0">//%w
+「其他的干部们，除了Inferno都拥有自己的独立组织……
+　那你呢？」
+
+<BOX type="0">//%w
+　克劳蒂娅苦笑了一下，抬头望着天花板。
+
+<BOX type="5">//%sR
+「我的立场……
+  是行使Inferno的实权对吧？」
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「像这样的工作，必须由不属于任何组织的人来做才行」
+
+「对加入Inferno的所有组织来说，
+  这样才能保证公平，对吧」
+
+「所以，我是独立的哦」
+
+<BUSTUP NAME="crou3" face="0a" MODE="on" zoom="" ALIGN="right">//# crou3^0a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这样说完，克劳蒂娅脸上浮现出了不一样的笑容……
+　那是，似乎有点自嘲的微笑。
+
+<BOX type="5">//%sR
+「以前，那个能让我安心生活的家……已经没有了」
+
+「已经，被Inferno消灭了。
+　活下来的只有我一个」
+
+<BOX type="0">//%w
+「……」
+
+　这样的事，
+  自己一点都没听说过。
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂喂，在想什么呢，全都写在脸上了哦」
+
+<BOX type="0">//%w
+「不……」
+
+　虽然被嘲弄了，不过自己没办法用言语还击。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不管怎么说，克劳迪娅的处境……
+  孤立无援的她，在组织中行使着中间人的职责。
+
+　Inferno，是犯罪界的野心家们为了寻求共同的利益而聚在一起的联盟。
+
+　置身于这样的组织中，对克劳蒂娅有什么好处呢？
+
+　答案是，没有。
+
+　没有后台的克劳蒂娅，根本没有与其他成员分享“共同利益”的机会。
+　也就是说，在Inferno的内部是不可能有野心存在的。
+
+　更具讽刺意味的是，组织的利益只与她的信用紧密相连。
+
+　克劳蒂娅不可能因为一己私欲而玩忽职守，或是滥用职权。
+  因为这样做的话，
+  她根本什么好处都得不到。
+　
+<CLEAR><BACKGROUND SRC="passage1">//# passage1 1 crou 20 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# passage1 1 crou 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　完全中立的第三者……换句话说，就是不知内情的被雇佣者。
+  
+　这样的她所承担的职责，
+  是谍报、防谍、暗杀、护卫……处理组织中最棘手的问题。
+  完全是一个受苦受累的职位。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「一个很辛苦的位置啊」
+
+克劳迪娅把手中的酒杯放了下来。
+ 这也是没办法的吧。
+听到旁边的人说出这么直接的话，酒也会变得无味吧。
+虽然我这么认为，不过她并没有显得心情烦躁。
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我并没有什么不满哦」
+
+「对于没有关系也没有经验的我来说，可以像这样使用手中的权利，已经像做梦一样了」
+
+「想要的东西，已经得到了」
+
+「我所过的就是这样刺激的生活哦」
+
+<BOX type="0">//%w
+　克劳蒂娅的视线看向远方，静静地低语道。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　只有自己幸存下来，
+　对杀害同伴的Inferno不惜粉身碎骨地效忠着的，克劳迪娅。
+
+　想要的东西，已经得到了……
+
+　这是假话吧。
+
+「你不觉得寂寞吗」
+
+　我贸然说出口的问题，
+  听上去实在有些冒昧。
+
+<BUSTUP NAME="crou3" face="0a" MODE="on" zoom="" ALIGN="right">//# crou3^0a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当然会寂寞」
+
+<BOX type="0">//%w
+　令我失望的是，
+  克劳蒂娅并没有介意我说的话，回答地很直接。
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……不过，
+  这种话不能在别人面前说」
+
+<BOX type="0">//%w
+　克劳迪娅向我这边转过身，
+  她的微笑中所带着的那份艳丽，渐渐变得黯淡。
+
+「现在，你就是在别人面前吧」
+
+<BOX type="5">//%sR
+「为什么，
+  我没有这样的感觉呢」
+
+<BOX type="0">//%w
+　她轻轻伸出手指，用指尖轻挑着我的下巴。
+　这样意料之外的举动，让我来不及做出反应。
+
+　虽然她的手指非常纤细，
+  但那要将我垂下的头抬起来的力量，似乎在向我传达着什么。
+
+「……你喝醉了吗？」
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「只有我一个人喝醉的话，
+  不觉得很失礼吗？」
+
+<BOX type="0">//%w
+「不会……」
+
+　看来是喝醉了。
+　大概这已经不是第一杯了吧。
+  说起来，她的脸好像比平时更红，就像发烧一样
+
+<BUSTUP NAME="crou3" face="0a" MODE="on" zoom="" ALIGN="right">//# crou3^0a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，对着酒却不喝是很失礼的哦」
+
+「这瓶酒在酒柜中忍耐了不知多少年」
+
+「一直在等待有一天，
+  让喝这瓶酒的人醉倒，对吧」
+
+<BOX type="0">//%w
+　温柔又甜美的恫吓声。不禁让人联想到在玩弄被捕获的猎物的猫。
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我这样说，你讨厌吗？」
+
+<BOX type="0">//%w
+「……并不觉得很高兴」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听到我说出这样的实话，
+  克劳迪娅就像变了个人一样，天真无邪地大笑起来。
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不许发牢骚。
+  今晚你的工作是我的护卫。」
+
+「喝醉也好，纠缠也好，
+  你都必须照顾我」
+
+<BOX type="0">//%w
+「……」
+
+　我没有发牢骚的理由。
+  与风雨吹打下埋伏在狙击点的Ein相比，
+  自己的工作要容易得多。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我下定决心，拿起手中的杯子一饮而尽。
+
+　像碳酸和烈性药一样的苦味刺激着我的喉咙。
+
+　因为已经做好心理准备了，所以没有被呛着。
+　不过，这种味道我并不喜欢。
+
+　我抑制住自己痛苦的表情，望着克劳迪娅。
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你啊，真的是不管做什么都像模像样啊」
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「根本不像是你这个年龄的毛头小子」
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+
+<BOX type="0">//%w
+　残留在舌头上的酒精的味道，瞬间消失得无影无踪。
+
+「……你，知道我的年龄吗？」
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="5">//%sR
+「连你的生日都知道哦」
+
+<BOX type="0">//%w
+「……为什么……」
+
+<A HREF="0190a.txt" OPERATOR="0092r=1">//~ 0190a
+<A HREF="0190a.txt" OPERATOR="0150=1">//~ 0190a
+<A HREF="0210.txt" OPERATOR="">//~ 0210

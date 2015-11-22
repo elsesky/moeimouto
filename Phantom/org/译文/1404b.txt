@@ -1,0 +1,16 @@
+<BOX type="0">//%w
+  虽然一开始我打算选择SIG-SAUER。
+  不过眼睛还是不由自主地落到了贝瑞塔上。
+
+　二者的性能可谓不相上下，不过现在我还没有习惯SIG的枪栓触感。
+
+　这样的话，就没有必要强行改换SIG了。
+　既然今后不会再用到强装弹了，我也就不必再担心贝瑞塔会发生枪栓开裂的故障了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

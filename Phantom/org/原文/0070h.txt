@@ -1,0 +1,28 @@
+「アイン……」
+
+//> left room1d wide 255 elen4 20
+<clear>
+<BACKGROUND SRC="room1d">//
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　声をかけると、彼女は素早く振り向いた。
+
+<BOX type="5">//%sR
+「まだ寝てなかったの？」
+
+<BOX type="0">//%w
+　いつも通りの静かな声。
+　肌も露わな格好なのに、アインは気後れした気配さえ見せない。
+
+　たしかに彼女は普通の女の子じゃない。肌をさらすのが恥ずかしいとか、そういった感性は持ってないのかもしれない。
+
+　……本当に今日、彼女は誰か殺してきたんだろうか？
+
+<A HREF="#スルー" OPERATOR="0030c=1">
+<CHOICE HREF="0070l.txt" TEXT="＊話をする" OPERATOR=""></A>//{ ＊話をする 0070l ＊背を向けて寝る 0070e
+<CHOICE HREF="0070e.txt" TEXT="＊背を向けて寝る" OPERATOR=""></A>//{ ＊話をする 0070l ＊背を向けて寝る 0070e
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="0070c.txt" TEXT="＊話をする" OPERATOR=""></A>//{ ＊話をする 0070c ＊背を向けて寝る 0070e
+<CHOICE HREF="0070e.txt" TEXT="＊背を向けて寝る" OPERATOR=""></A>//{ ＊話をする 0070c ＊背を向けて寝る 0070e

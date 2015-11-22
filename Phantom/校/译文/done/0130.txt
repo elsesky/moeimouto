@@ -1,0 +1,114 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right china wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="暷崙岎嵎揰拫" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="china">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　蒙特利帕克市，中华街。
+ （又译蒙特利公园市，地处洛杉矶附近，闽南语系华人较多，多数来自台湾）
+
+　带有祈福之意的深红色与金黄色，比加利福尼亚的阳光更加耀眼夺目。
+
+　像全世界的唐人街一样，这里也无视本地的风土，确立着自己独特的文化圈。
+
+　这里既是美国。
+　又不属于美国。
+
+　这里来来往往的都是亚裔的黄种人，
+  很难发现白人与黑人的身影。
+
+　往来的人群中，出现了两名男子。
+  虽然同为亚洲人，
+  但他们的身姿明显地与周围格格不入。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没搞错吧。
+　这里真的是洛杉矶么？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不管在什么国家，只要是中国人扎根的街道，都是这个样子」
+
+「所谓中国式的移民，除了运送人以外，连街道都会一并跨海带过来」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「切……
+　真是让人不爽」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……大哥」
+
+「事到如今，我的劝告您可能听不进去……」
+
+「不过，那个女人真的会讲信用吗」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「信用什么的都无所谓」
+
+「不管怎么说，她所指的方向的确有毒品和钱在等着我们」
+
+「我们就朝着那个目标一路猛冲下去吧」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「谁知道半路上会有什么在等着我们呢」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们有点过于相信她的话了」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「志贺啊……
+  不管伪装成多么牢靠的样子，摆出来的空架子还是一眼就会被识破的」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们现在能做的，
+  只有一路走下去了」
+
+「如果脚下有圈套的话，
+  就做好觉悟飞越它们吧」
+
+「如今日本的毒品流通，决不能被中国人切断」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果继续等待下去的话，再想掌控歌舞伎町就太迟了」
+
+（注：歌舞伎町，地处日本东京都新宿区，世界有名的大型红灯区，非法活动一度十分猖獗，町内日本黑帮住吉会及其他组织的事务所据点有上百处，其间活跃的黑帮成员达千人）
+
+<A HREF="0130b.txt" OPERATOR="">//~ 0130b

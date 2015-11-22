@@ -1,0 +1,222 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school2c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="school2c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　不知不觉间，夕阳的残照消失了。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　志贺咬牙切齿地望着在黑暗中化作朦胧夜影的校舍。
+
+　Zwei·Phantom，{姓}{名}……单单想起就令人想要诅咒的名字。
+
+　2年前、身为那个克劳蒂娅·麦肯宁的手下、接二连三地杀害同伴的暗杀者。
+
+　那个时候要是能早一点将他干掉的话……自己应该还有办法救下梧桐大辅。
+
+　因为没能做到，志贺才不得不丢车保帅。
+
+　这一切，仅仅是因为对付不了那样一个小鬼……
+
+　的确，志贺是为了保住梧桐组才意外地坐上了头目的宝座。
+　而代价则是他心中的信念、誓言和他最为珍视的东西。
+
+　现在还留在志贺心中的只有一个誓言。
+
+“代替那个人守护美绪……”
+
+　可是，这份誓言如今也被打破了。
+　凶手正是和2年前一样的那个男人。
+
+　自己答应死去的梧桐大辅要给予那位少女幸福。
+  可是，她却已经被死神蛊惑了。
+
+　只要一想起礼拜堂中发生的事，志贺的内心就会涌起一阵懊悔。
+
+　为什么就是听不进自己的话？
+　她被欺骗了、被利用了……自己明明苦口婆心的劝过她了。
+
+　志贺感受到和2年前的那个夜晚一样的痛苦的无力感，还有束手无策的恼怒。
+
+　那一夜，他亲手杀掉了梧桐大辅。
+
+　身后的小弟们正急不可待地等着出场。
+
+　只要志贺一声令下，他们就将如雪崩一般蜂拥杀入校舍。
+
+　虽然在礼拜堂遭受了重创，但志贺现在仍有不下10人的小弟可以调动。
+
+　Zwei应该也被消耗的不轻。
+　凭借人数优势一定可以一举将他干掉。
+
+　可是……
+　美绪还在Zwei手里。
+
+　怎么办？
+　怎样才能救出美绪呢？
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「当断不断必受其乱啊，志贺先生」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……赛斯!?」
+
+<BOX type="2">//%w
+　志贺不禁怀疑起自己的眼睛。
+　为什么，这个男人会……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　不仅如此，赛斯还带来了他自己的部下。
+
+<CLEAR><BACKGROUND SRC="3570x1">//# 3570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　就像人偶的队列一样、令人毛骨悚然地排成一排的少女们……
+
+　她们的脸上戴着狂欢节的面具，手中则拿着凶恶的军用自动步枪。
+
+<CLEAR><BACKGROUND SRC="school2c">//# siga^3 20 school4c 1
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 school4c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　他也在一直监视着Zwei吗。
+　可是，为什么他要在这个时候冒出来？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「您究竟在犹豫什么呢？
+　仇敌不就在眼前吗」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那家伙手里有人质，要是轻举妄动的话……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　就像是在否定志贺的话一样，赛斯冷冷地苦笑起来。
+
+<BOX type="4">//%sL
+「不应该算是人质吧」
+
+「那位少女不是还亲自协助Zwei逃跑吗」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这……」
+
+<BOX type="2">//%w
+　这家伙，全都看到了吗……
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「她以她自身的意志向梧桐组以及Inferno表明了敌意」
+
+「所以她已经成为了应当排除的障碍。
+  是这样没错吧」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「开什么玩笑!!」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　仿佛是对志贺的愤怒感到不可思议，赛斯惊讶地摇了摇头。
+
+<BOX type="4">//%sL
+「……真是令人叹息啊」
+
+「闻名天下的梧桐组少头目，从什么时候开始也搞起女学生的恋爱剧了？」
+
+<se id="1" src="巜傪柭傜偡" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　赛斯打了一个响指，
+　接着，他身后的少女齐刷刷地开始行动起来。
+
+<BOX type="4">//%sL
+「已经够了。
+　接下来就交给我们好了，请你们退场吧」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你、你想干什么!?」
+
+<CLEAR><BACKGROUND SRC="3570x1">//# 3570x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　卡拉什尼科夫的枪身散发出的冰冷、不祥的光泽，一下子令志贺紧张起来。
+
+　多说无用……
+　志贺马上就意识到已经没有交涉的余地了。
+
+　他立刻朝等待着指示的小弟们大声喊道。
+
+<CLEAR><BACKGROUND SRC="school2c">//# siga3^3 20 dummy 19 school4c 1
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19 school4c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「阻止他们!　赶快阻止他们!!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可惜啊，志贺先生」
+
+<BOX type="3">//%m
+　仿佛是为了呼应赛斯的叹息，以校舍为目标的假面少女们同时转过身，将枪口对准了梧桐组众人。
+
+<BOX type="4">//%sL
+「你我本应以朋友的身份友好相处下去的……」
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……混蛋!!」
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//# siga3^3 20 dummy 19 school4c 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="school4c">//# siga3^3 20 dummy 19 school4c 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<se id="1" src="" mode="fadeout" time="30">
+<A HREF="3890.txt" OPERATOR="">//~ 3890
+
+
+
+3890

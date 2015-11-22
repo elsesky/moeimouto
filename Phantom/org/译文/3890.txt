@@ -1,0 +1,289 @@
+//> left classroom4c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom4c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我望着窗外的黑暗。
+　太阳落山以后，校园里变得伸手不见五指。
+
+　刚才在礼拜堂方向响起的枪声……
+　不会错，是突击步枪。
+　而且不是一把两把，而是小队规模的齐射。
+
+　可在礼拜堂的时候，梧桐组众人的武装最好不过是猎枪而已。
+  根本没有人持有自动步枪。
+
+　除了梧桐组，还有别的势力在吗？
+　如果是那样，能想到的结果就只有一个了。
+
+　Inferno出动了。
+　而且正在与梧桐组交战……
+
+　他们终于舍弃了被美绪束缚住手脚的梧桐组，并与之大打出手吗。
+
+<BUSTUP NAME="mio1" face="e" MODE="on" zoom="" ALIGN="right">//# mio1^e 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美绪也察觉到了气氛的异常，不安地靠在我的身上。
+　为了不让她感到害怕……我只得隐藏起内心的焦躁，保持着沉着冷静。
+
+　以Inferno为对手的话，情况就复杂了。
+　他们可不是梧桐组那样的外行人。
+
+　当前最关键的问题是如何保护美绪。
+　让她跟我一起行动肯定不行，可这里又没有安全的藏身之所。
+
+　看来必须得想办法逃出校园了……可是，如果敌人已经完成了对这里的包围呢？
+  贸然冲出去的话无异于自寻死路。
+
+　让她行动起来还是留在原地呢，
+　对于美绪，我究竟该怎么办才好……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 classroom2c
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　走廊中传来的脚步声打断了我的思考。
+　有什么人来了。
+
+「……」
+
+　我将手指贴在嘴唇前示意美绪不要出声，接着悄悄朝教室外看去。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# siga3^2 20 passage7c 1
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……是志贺。
+　他身边没有小弟，正独自一人一边检查每间教室一边向这里靠近。
+
+　现在慌乱地躲起来并不是上策。
+　我考虑了一下，朝他这样喊道。
+
+「……喂」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「！」
+
+<BOX type="0">//%w
+　四目相对，志贺的表情瞬间便消失了。
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　走廊中响起H&K-P7M13的拉开枪栓的声音。
+
+（注：P7M13是H&K公司为满足德国警方需要而设计的自动手枪，现已成为德国警察和军队的制式武器，并为美国等军警部队使用。该枪长171mm，弹容量13发，使用9mm帕拉鲁姆弹）
+
+<BUSTUP NAME="mio1" face="0" MODE="on" zoom="" ALIGN="left">//# mio1^0 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^0 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「等等！」
+
+<BOX type="0">//%w
+　敏锐地感觉到杀气的美绪马上介入进来。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美绪小姐，这家伙是陷害了你哥哥的混蛋」
+
+「大辅先生就是被他害死的……」
+
+<BUSTUP NAME="mio1" face="0" MODE="on" zoom="" ALIGN="left">//# mio1^0 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^0 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「请不要随便信口开河！」
+
+「你的话我一句也不会再相信了」
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　不知为何，志贺一脸阴郁地低下了头。
+
+「你的同伴呢？」
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「只有我一个人逃出来了……」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「赛斯打算将所有人都斩尽杀绝，其中也包括美绪小姐」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你打算怎么办……」
+
+<BOX type="0">//%w
+　现在的志贺虽然还是一副冷静的样子……但他极力隐藏着的怒火早已通过愤怒的双眼表现了出来。
+
+虽然我并不清楚详情，
+不过对于志贺来说，美绪似乎并不仅仅是组长的私生女这样的存在。
+
+　……既然如此，就将美绪托付给他吧。
+
+「志贺先生，我有一个请求」
+
+「请你带着她逃走吧」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你说什么？」
+
+<BOX type="0">//%w
+　目瞪口呆的不止志贺一人。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么这样……那{姓}同学呢!?」
+
+<BOX type="0">//%w
+「如今的敌人不是梧桐组，将你作为人质这一招已经没用了」
+
+　我耐心地对慌张的美绪这样解释道。
+
+「与其一边保护你一边战斗，不如专心应战敌人。
+  这样的话我们才有胜算」
+
+「你快和志贺先生一起逃吧」
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　带着一副快要哭出来的表情，美绪的身体不住地颤抖着。
+
+「这不是永别，战斗结束以后我一定会去接你的」
+
+<BOX type="4">//%sL
+「可是……」
+
+<BOX type="0">//%w
+　说到这里，美绪偷偷看向志贺。
+　她的担心不是没有道理。
+　直到刚才，这个男人还在试图将我们分开。
+
+「志贺先生，请你答应我，让我和美绪在这一切结束以后能够再度相逢」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　为了让美绪接受，只能这么做了……
+　我朝志贺使了个眼色，头脑机敏的他立即明白了我的意思。
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好吧，美绪小姐，
+　我答应你们」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　接着，志贺朝我转过身来，
+
+<BOX type="5">//%sR
+「除了赛斯，敌人一共有6人。
+  全都持有机关枪」
+
+「在她们面前我们根本不堪一击……她们是真正的专家」
+
+<BOX type="0">//%w
+　我并不感到意外。
+　既然是赛斯亲自压阵，他的手下肯定有着与{ヒロイン}和自己同级别的实力。
+
+　这样的6个人……足以造成超出黑帮百人的威胁。
+  况且她们的武器也优于自己。
+
+　可是……除了应战，自己没有别的选择。
+
+「总之，我会尽可能地大闹一场」
+
+「敌人的目标是我，她们应该会将全部的注意力都放在我身上，你和美绪就趁此机会逃走」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我明白了」
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你要……当诱饵吗？」
+
+<BOX type="0">//%w
+　美绪怯怯地问道。
+
+「没关系，你只管逃跑就行了，后面的事就交给我吧」
+
+「你越早逃走，我的危险就越小，明白吗？」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="left">//# mio1^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　不想明白……低下头的美绪仿佛在这样说着。
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好了，我们走吧，美绪小姐」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　在志贺的催促下……
+　美绪又一次地对我投来充满诉求的目光。
+
+“我答应你”
+
+　我一边小声念着，一边坚定地看着她的眼睛。
+
+<BOX type="4">//%sL
+「……嗯」
+
+<calc workname="gun12" operator="1" mode="global">
+<A HREF="3915.txt" OPERATOR="">//~ 3915

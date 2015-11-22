@@ -1,0 +1,165 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……{ヒロイン}？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　助手席のドアを開け、車外に降りかかっていた彼女は、
+　肩越しに振り向き、何？　と目で問いかけてくる。
+
+　驚きも、慌てもせずに、彼女はごく自然に振り向いた。
+
+<BOX type="0">//%w
+「……いや、いい。何でもないんだ」
+
+「気をつけて」
+
+<se id="1" src="トーラス基本走行" mode="normal" loop="off">
+
+　頷く彼女を道端に残して、トーラスを再発進させる。
+
+//> left street9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　心の中の蟠りは、きれいに消えていた。
+
+　{ヒロイン}と呼ばれて応じたときの、
+　彼女の気負いのない素振りを思い起こす。
+　そう呼ばれることに、あの子は、何の抵抗も示さなかった。
+
+　そんな些細なことなのに、今は不思議なくらい勇気づけられている。
+
+　案外、うまくやっていけるんじゃないか？
+
+　かけらも望みがないように思えた前途に、
+　ほんの少しだけ、光明が射した気がした。
+
+　後はともかく、馴れることだ。彼女も、自分も。
+
+　{ヒロイン}。
+
+　これからは、たとえ心の中ででも、彼女をそう呼ぶことにしよう。
+
+　それが自然になればなるほど、
+　彼女の心も、癒えるのが早まるかもしれない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right street^c wide 255 elen1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+//<bgm src="shop" mode="fadein" old="fadeout" time="10" loop="on">//$ shop.swa 0 255
+<se id="1" src="米国交差点昼" mode="normal" loop="off">
+
+<BACKGROUND SRC="street^c">//
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不思議だった。
+
+　馴れないはずの呼びかけに、
+　なぜ、
+　ああも簡単に反応できたのか。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{ヒロイン}……」
+
+<BOX type="0">//%w
+　口に出して、また呟いてみる。
+
+　そう呼ばれ、
+　振り向いた自分の自然さに、
+　はたと違和感を感じたのは、
+　{名}のトーラスが
+　走り去ってからだった。
+
+　擬装のために、
+　偽名を使ったことは何度もある。
+　任務と思って集中すれば、
+　いくらでも自然体を装える……
+　その演技力にも自信はある。
+
+　だが不意に呼ばれて、
+ここまで無意識に振り向けたことが
+あっただろうか？
+
+　{ヒロイン}。
+　不思議な響きだった。
+　まるで魔法の呪文のような。
+
+<se id="1" src="" mode="fadeout" time="30">
+//<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　尾行の存在に気付くのが、
+　致命的なほど遅れたのは……
+　そんな、とりとめのない思考に
+　没頭していたせいだった。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　およそ10メートルほど後方、
+　冴えないスーツ姿の、いかにも
+　外回りの営業といった風体の
+　中年男。
+
+　だが明らかに、
+　さっきから自分を追尾している。
+
+　インフェルノの、追手……
+　だが、いつから？
+
+　こんな場所に
+　網を張っていたわけがない。
+　マークされたのは、ずっと前……
+　きっと、車を降りるより以前。
+
+　ということは、
+　すでに{名}の車も……
+
+　知らせなければ。
+　{名}と連絡を取らなければ。
+　だが、どうやって？
+
+　尾行は何人いる？
+　{名}は何人に追われている？
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　恐慌が、じわじわと
+　少女の心を蝕んでいく。
+
+　スーツの男は、
+　さらに距離を詰めてきた。
+
+　ただ尾けるだけにしては、
+　近すぎる。
+　もう行き先を探ろうというんじゃない。
+
+　……捕縛する気だ。
+
+策を練って捲こう……など、
+そういう冷静な判断を下す余裕は、
+もう今の彼女にはなかった。
+
+<se id="1" src="アイン走り3" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　人混みを押し割って、
+　彼女は走り出していた。
+
+<A HREF="0270b.txt" OPERATOR="">//~ 0270b

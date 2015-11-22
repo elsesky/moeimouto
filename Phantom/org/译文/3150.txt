@@ -1,0 +1,172 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<se id="1" src="phoneCall" mode="normal" time="" loop="off" effect="">//!se phoneCall
+<BOX type="0">//%w
+　电话响了很多次，但对面一直没人接听。
+
+<se id="1" src="phoneOver" mode="normal" time="" loop="off" effect="">//!se phoneOver
+　我叹了口气，放下了听筒。
+
+　从白天算起，这已经是我第3次拨打国际长途了，但还是联系不上——拨号的对象，是本该负责扮演{姓}兄妹“父母”的人。
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怎么了？」
+
+<BOX type="0">//%w
+　从刚才开始，{ヒロイン}望向我的目光中就充满了疑问，而我却一直假装没有看到。
+  最后，她终于开口问我了。
+
+　虽然不太情愿，但我还是应该向她说明一下吧。
+
+「我们的‘父母’没有接电话」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}的目光立刻变得紧张起来，我则将电话听筒递给了她。
+
+「你能和冯联系上吗？到底发生了什么事」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}接过听筒，看都不看电话簿就毫不犹豫地开始拨号。
+<se id="1" src="phoneCall" mode="normal" time="" loop="off" effect="">//!se phoneCall
+
+　几声呼叫音过后，
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　{ヒロイン}开始用流畅的粵语与对方交谈起来。
+
+　除了英语和日语以外，{ヒロイン}还可以自如使用德语、俄语和粵语，这也许是赛斯英才教育的成果吧。
+  不管怎么说，她的才能对我们的逃亡生活实在是提供了莫大的帮助。
+
+　她说的话我一句都听不懂，只听出她在最后说了一声『谢谢』。
+<se id="1" src="phoneOver" mode="normal" time="" loop="off" effect="">//!se phoneOver
+　{ヒロイン}一脸阴沉地挂断了电话。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「冯好象已经死了」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「一群不明身份的人闯入他家，逼着他说出了关于我们的所有事情」
+
+<BOX type="0">//%w
+「……是Inferno吗」
+
+<BOX type="5">//%sR
+「应该是他们」
+
+<BOX type="0">//%w
+　终于被他们发现了。
+  我们心里都清楚，这一天迟早会到来的。
+
+　可是，为什么事到如今，自己的内心会如此忐忑不安呢。
+
+　实证就摆在眼前。
+　傍晚的时候遇到了“她”……这件事必须要告诉{ヒロイン}才行。
+
+「我今天回来的时候，在路上遭到了袭击」
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……警告么？」
+
+<BOX type="0">//%w
+「算是吧」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+{ヒロイン}看起来也有些迷惑。
+她也非常了解Inferno这个组织。这种毫无意义的示威行为并非Inferno的行事风格。
+
+<BOX type="5">//%sR
+「为什么要特意……」
+
+<BOX type="0">//%w
+「因为她恨我」
+
+「她不希望让这一切简单地了解。
+  猎捕、追杀，将我弄得精疲力竭后再杀掉……」
+
+「这应该就是她想表达的意思吧」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　私怨……
+　{ヒロイン}马上就明白这件事的本质。
+
+　今天放学时那次杀机四伏的会面，不是Inferno的指令，而是那个杀手的个人行为。
+  即是说，这件事与组织无关，完全是出自个人的憎恨。
+
+<BOX type="5">//%sR
+「……你遇到那个人，是谁？」
+
+<BOX type="0">//%w
+「一个死人」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「我曾发誓要保护她、约定好一定会回到她身边……可是，最后却让她孤零零地死去」
+
+「今天我见到的，是她的亡灵」
+
+<BOX type="5">//%sR
+「也就是说……那个女孩活了下来，并加入了Inferno？」
+
+<BOX type="0">//%w
+「不管怎么想，她会恨我都是理所当然的」
+
+「因为是我将她的人生搅得乱七八糟」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「看来我们必须要逃了」
+
+<BOX type="0">//%w
+「嗯，是啊」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我打开窗子，闻着夜风的味道。
+
+夜里的风仍旧很凉，但已经没有了冬夜那种锐利的冷气。
+风中有着从霜冻中解放出来的泥土的味道、日益繁茂的草木的味道，还有不知名的微香。
+
+「必须要逃了啊……」
+
+　在这轻柔的夜风中，路边的樱花也开始发芽了吧。
+  ……本来还想等到鲜花盛开的春天。
+
+　现在看来……我们已经不可能等到那一天了。
+
+「这样的生活也没能持续多久啊」
+
+<A HREF="3140_2a.txt" OPERATOR="3120=1">//
+<A HREF="3158.txt" OPERATOR="">//~ 3158

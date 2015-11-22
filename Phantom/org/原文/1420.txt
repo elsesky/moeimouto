@@ -1,0 +1,334 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……しかし、なにもこんな所で合流しなくても良さそうなもんだが、
+　何か訳あってのことなのか？
+
+<CLEAR><BACKGROUND SRC="bay9">//# bay9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　リズィの姿を探して周囲を見回すと、
+　少し先の暗がりに彼女のヴァイパーが停まっているのが見えた。
+
+<CLEAR><BACKGROUND SRC="bay9d">//# bay9d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「おい、リズィ？」
+
+　歩み寄りながら声をかけるが、返答がない。
+
+　……何だ？
+
+<CLEAR><BACKGROUND SRC="bay9c">//# bay9c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　何かおかしいと気付いたそのとき、
+　ヴァイパーのヘッドライトが不意に点灯し、
+　ハイビームを顔面に浴びせてきた。
+
+　目を庇って腕を上げたその瞬間……
+
+<BOX type="5">//%sR
+「よォし、そのままだ。そのまま
+　手ぇ上げといてもらおうか」
+
+<BOX type="0">//%w
+　聞き覚えのある野太い声が、光芒の奥で轟いた。
+
+　リズィじゃ……ない？
+
+<se id="1" src="車のドア開ける" mode="normal" loop="off">
+　ヴァイパーの運転席から、リズィよりさらに屈強な人影が降り立つ。
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　あれは……梧桐大輔だ。
+
+　まだロスにいるとは聞いていたが、何故ここに？
+
+<se id="1" src="集団走り1" mode="normal" loop="off">
+
+　さらにヴァイパーの後方の物陰から、続々と、
+　銃を手にした男たちが姿を現す。
+　この前の会談で、梧桐がロスに呼び寄せていたヤクザたち……
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　リズィもいた。
+　頭の後ろで手を組まされ、二人の男に銃を突き付けられている。
+
+<BOX type="4">//%sL
+「……済まねぇ」
+
+「マジにアタシ、あんたの
+　足引っ張ってばっかだな」
+
+<BOX type="0">//%w
+　まったく状況が見えてこないが、
+　不穏な事態なのは火を見るより明らかだった。
+
+<CLEAR><BACKGROUND SRC="bay3">//# godo^3 20 dummy 19 bay3 1
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19 bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「聞いたぜ坊主。お前さんが
+　あのファントムなんだってな」
+
+「どうりでウチの若い衆らが、
+　あっさりバラされてったわけだ」
+
+<BOX type="0">//%w
+「……何だと？」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「芝居は要らねぇ。
+　もう見飽きたよ」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こちとら、お前さんの
+　ブロマイドまで持ってるぜ」
+　……ほれ」
+
+<BOX type="0">//%w
+　フリスビーの要領で、梧桐は封筒を鋭く投げよこす。
+
+　受け止めたその封筒には、
+　四つ切サイズにプリントされた2枚の写真が……
+
+<clear>
+<BACKGROUND SRC="写真">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　内容を見て、愕然とした。
+
+　片方は、ラスベガスで室戸の死体を見つけ、
+　凶器らしい剃刀を拾い上げた瞬間。
+
+　もう一方は、LAタイムズの屋上で謎の銃声を聞き、
+　ライフルのスコープでボナベンチャーホテルを覗っている瞬間。
+
+　盗撮されていたというだけでも驚きだが、
+　よりによって、この狙いすましたタイミングのシャッターは何なのだ？
+
+　たしかに、こんなものを見せられたら、
+　ヤクザたちが怒り狂うのも当然だ。
+
+<CLEAR><BACKGROUND SRC="bay3">//
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「何の話をしてるんだ、おい？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　はめられた。
+
+　この写真は明らかに、冤罪をかける目的で撮られている。
+
+　だが、誰が？
+　……当然、真犯人とその一味だ。
+
+　もはや直感以上の確信が、告げていた。
+
+　敵はワイズメルじゃなかった。ヤクザを殺した連中は他にいる。
+
+「ミスタ梧桐、誤解だ。この写真は……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「醜態さらす前に、まぁ聞けよ」
+
+「お前ら兵隊が、上の命令で
+やらされたことを、責めてみたって
+始まらねぇのは承知してらぁ」
+
+「こっちはただ、
+　裏が取りてぇだけなのさ」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「俺達が襲われたのは、
+　3回が3回とも、
+　クロウディアの差し金だった」
+
+「……違うか？」
+
+<BOX type="0">//%w
+「違う!!」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　依然、話の見えていないリズィも、この梧桐の言葉には色を失った。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「テメェら、気は確かか!?」
+
+「テメェらをインフェルノに加えるために、クロウディアがどれだけ骨折ったと思ってんだよ!!」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　梧桐はただ冷笑を返すばかりだ。
+
+　駄目だ。
+　落ち着き払って話してはいるが、その実、梧桐は完全に激昂している。
+　まともな話し合いにはならない。
+
+　そういえば、いつも側にいる志賀とかいう参謀はどこへ行った？
+　あの男なら冷静なぶん、まだ話になっただろうに……
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「忠義心ってのも、
+　嫌いじゃねぇがな」
+
+「あの女は、
+　お前らがそこまで義理立てして
+　尽くす相手じゃないぜ」
+
+「踊らされてんだよ。お前らも」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ふざけるな!!」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なぁ黒い姐さんよ。
+　俺たちゃ、この場所で会うのは
+　初めてじゃないんだぜ」
+
+「まるきり覚えてねぇのかい？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　梧桐の妙な言いぐさに、狐につままれたような顔をするリズィ。
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ありゃぁ思い出深い夜だったぜ。
+　そう……あれから、
+　かれこれ1年になるか」
+
+<BOX type="0">//%w
+　1年前……
+　この、夜のロサンゼルス＝ハーバーで？
+
+　ふと繋がった連想に、戦慄する。
+
+　そうだ、おおよそ1年前。
+　謎の集団がインフェルノの密輸船を襲い、
+　{ヒロイン}とリズィの同士討ちが起こった夜……
+
+「……あんたたち、だったのか？」
+
+「あんたたちが、サイスと組んで……」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「サイスなんて奴は、知らねぇよ」
+
+「お膳立てしたのは
+　クロウディアさ」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「な……」
+
+<BOX type="0">//%w
+　何……だと？
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ヤクの流れをチャイニーズマフィアに握られて弱りきってた俺たちにあの女が声をかけてきたんだよ」
+
+「0.5トンのコカインを奪わせてやる。手筈はぜんぶ整えて、バックアップの人間もつける……」
+
+「ついては一丁、ロスでひと暴れ
+　してみないか、ってな」
+
+<BOX type="0">//%w
+「何で……」
+
+「何で彼女が、そんなことを……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「代わりに梧桐組は、ほとぼり冷めた頃合いに、そしらぬ顔でインフェルノに加盟しろって条件だ」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こっちも最初は面食らったが、
+あの女の立場を聞いて納得できた」
+
+「あいつぁインフェルノの中に、
+　自分の後ろ盾になる集団を
+　作りたかったのさ」
+
+「はぐれ者でいる限り、
+　一生デカい顔はできないからな」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「俺達が、昔は他から
+　ヤクを仕入れてたってのはな、
+　ありゃ真っ赤な嘘さ」
+
+「梧桐一家の麻薬流通は、この1年で俺がおっ立てたんだよ。あんたらから拝借したコカインを元手にな」
+
+<BOX type="0">//%w
+「じゃぁ、サイスは……」
+
+<BOX type="5">//%sR
+「ああ、事の帳尻を合わすために、とばっちりをくった阿呆がいたとは聞いてるぜ」
+
+「そいつのことか？
+　サイスってのは」
+
+<A HREF="1430.txt" OPERATOR="1285b=1">//~ 1430
+<A HREF="1430.txt" OPERATOR="1280b=1">//~ 1430
+<A HREF="1440.txt" OPERATOR="">//~ 1440

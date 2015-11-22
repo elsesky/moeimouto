@@ -1,0 +1,467 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　囚われの身になってから、
+　3度目の夜。
+
+　味わったこともない虜囚の暮らしに、美緒は心身ともども磨り減っていた。
+
+　3月とはいえ、
+　夜気の冷たさは、まだ堪える。
+
+　薄汚い毛布と、飢えない程度の食事は与えられていたが……
+　もとより、こんな体験など想像したこともなかった美緒だ。
+
+自分の体臭が気になった。
+こっそり自慢にしていた長い黒髪も
+指を通そうとすると重く絡まる。
+
+　ほんの数秒だっていい。
+　暖かいお風呂に入りたかった。
+　それが駄目なら、
+　せめて下着だけでも換えたい。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あんたも結構、辛抱強いね」
+
+<BOX type="3">//%m
+　少し離れた場所では、
+　窓枠に腰かけて、
+　キャルが銃の手入れをしている。
+
+<BOX type="4">//%sL
+「もっと泣きわめいたり、暴れたりするもんかと思ってたけど」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私、動物じゃありませんから」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そうじゃなくても、女だろ？」
+
+「あの男にまんまと騙されて、
+　それであんたは今、
+　こんな目に遭わされてるんだよ」
+
+「もっと悔しがっても
+　よさそうなもんじゃん」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたみたいに？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　じろりと、キャルは威圧的に
+　美緒を一瞥する。
+
+<BOX type="4">//%sL
+「舐めた口、
+　きいてくれるじゃない」
+
+<BOX type="3">//%m
+　優しい声色は、
+　なまじ威圧的な声よりも、
+　むしろ空恐ろしい気配があった。
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　それでも負けじと、
+　美緒は言葉で挑発する。
+
+<BOX type="5">//%sR
+「あなたこそ、信じられないわ」
+
+「どうしてそんなに単純に、
+　人を憎んだりできるの？」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたのこと、彼に聞いたわ」
+
+「どうして、解ってあげないの？」
+
+「あなた一人が、
+　悲しい思いをしたわけじゃない。
+　あの人だって苦しんだのよ」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「じゃあ、あんたには解るのか？」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　そう……薄々、勘付いてはいた。
+　
+　{名}が、美緒に対して、何か自責めいたものに苛まれていたことは。
+
+　さりげない眼差しや言葉の隙間の沈黙に、それはしばしば窺えた。
+
+　理由は、
+　まるで解らなかったが……
+　今ならば、
+　理解できそうな気がする。
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……解るわ」
+
+<BOX type="2">//%w
+　確信と、そして{名}を想う意地を込めて、きっぱりと美緒は言った。
+
+<BOX type="5">//%sR
+「解らないはずなんてない。
+　彼のこと、本気で
+　想ったことがあるなら」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……ハッ」
+
+<BOX type="3">//%m
+　突如、爆ぜるようにしてキャルは笑い出した。
+
+<BOX type="4">//%sL
+「あんたは、嘘つきだ」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「{名}も、あんたも、
+　嘘つきだ。
+　この国の連中は皆そうなのか？」
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　向き直ったキャルと
+　目が合って……
+　美緒は凍りついた。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　その目に湛えられた、静かな、
+　だが底知れない怒り。
+
+　そのとき初めて、美緒はキャルを本気で怒らせてしまったことに気付いた。
+
+　これまで美緒に向けられてきた悪意など、悪ふざけも同然のものだったのだ。
+
+　いまキャルが顕わにしている怒気に比べれば……
+
+<BOX type="4">//%sL
+「あんた、
+　寒さに凍えたことあるか？」
+
+「三日三晩、食うものもなしに
+　暮らしたことあるかい？」
+
+「こんなタワケた国で、
+何不自由なく暮らしてるあんたに、
+何が解るっていうんだい？」
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　美緒の襟首を掴んで引き寄せ、
+　キャルは怒気を孕んだ息を吹きかける。
+
+<BOX type="4">//%sL
+「……解りゃしないんだよ。
+　他人の痛みなんて」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「だから、味わうしかないのさ」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+<CLEAR><BACKGROUND SRC="white">//#! dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3560p1">//#! 3560p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　そしてキャルは、美緒を突き飛ばしざまに、襟首を掴んだ服を引き裂いた。
+
+<BOX type="4">//%sL
+「きゃぁっ!!」
+
+<se id="2" src="床に転がる" mode="normal" time="" loop="off" effect="">//!se down
+
+<BOX type="3">//%m
+　初めて耳にする、美緒の、掛け値なしの恐怖の悲鳴。
+　その声に、鳥肌の立つほどの心地よさを、キャルは感じていた。
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<CLEAR><BACKGROUND SRC="ruins3">//# drei^6 19 ruins3 1
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19 ruins3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　何様のつもりだ？　この娘は。
+
+　どうしてそこまで、
+　嘗めてかかれる？
+　自分を傷つけるものなんて、
+　この世に何ひとつないと、
+　本気でそう思っているのか？
+
+　おまえ一人が、皆から宝物のように大事にされて……
+　それが当然だとでもいうのか？
+
+　ふざけるんじゃない。
+
+心の奥深いところから、怒りが、憎しみが、汲めども尽きぬ泉のように湧き出して、心の中を埋めていく。総身に染み渡っていく。
+
+　ぶち壊してやる……
+　まずは、お前からだ。
+
+<BOX type="4">//%sL
+「あたしはね、
+　余所行きの服なんて、
+　一着しか持ってなかったよ」
+
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+<CLEAR><BACKGROUND SRC="3560p2">//# 3560p2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　キャルは恨めしげに呟きながら、
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+床に頽れた美緒のブラを、ショーツを、力任せに引きむしる。
+
+<BOX type="5">//%sR
+「や、やめて……」
+
+<BOX type="2">//%w
+抗おうにも美緒の手首は、どちらも破れた服の袖に捕らわれたままで、後ろ手に縛られているも同然だ。
+
+　羞恥に震える白い肌を、覆い隠すことさえできないまま、美緒はただ悲鳴だけで訴えるしかなかった。
+
+そんな美緒を、嘲る眼差しで見下ろしながら、その声に耳を愉しませつつ、キャルは革手袋をはめたままの手で、乱暴に乳房を鷲掴みにする。
+
+<BOX type="5">//%sR
+「い、痛い……」
+
+<BOX type="4">//%sL
+「ケッ……いったい何食って育ちゃあ、こんなスベスベのお肌になれるんだい？　お姫様」
+
+<BOX type="3">//%m
+　キャルは嘲る口調で言いながら、まず美緒の右足首を膝で押さえ、それから左の足首を、乱暴に左手で掴んだ。
+
+<BOX type="5">//%sR
+「な……何を……」
+
+<BOX type="4">//%sL
+「あたしの国じゃ、
+週に何人の娘がレイプされてるか、
+知ってるかい？」
+
+<BOX type="3">//%m
+　低い声で囁きながらキャルは、
+　掴んだ美緒の足首を、
+　ゆっくりと横に広げていく。
+
+死にもの狂いで美緒は抵抗するものの、鍛えられたキャルの腕力には、抗いようもない。
+
+　空いた右手で、キャルは腰の後ろから、S&Wを引き抜いた。
+
+<BOX type="4">//%sL
+「あいにく、
+　あたしも男じゃないんでね」
+
+「どんなモンか教えてやるわけには
+　いかないが……」
+
+<BOX type="5">//%sR
+「そんな……嫌……」
+
+<BOX type="2">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　喉の奥で笑いながら、キャルは銃のスライドを口で銜えて引き開け、スライドストップを押し上げて固定する。
+
+　剥き出しになった丸いバレルの筒先を、震える美緒の白い肌に触れ、いらうように動かすと、美緒は激しく身悶えした。
+
+<BOX type="5">//%sR
+「嫌、嫌ぁ、
+　やめて、死んじゃう!!」
+
+<BOX type="4">//%sL
+「暴れんな。暴発するよ」
+
+<BOX type="5">//%sR
+「ひ……」
+
+<BOX type="2">//%w
+　無論、こんな状態の自動拳銃から弾が出るわけはないが、そんな知識は美緒にはない。
+
+　すでにこの銃で人が撃ち殺されるところを、美緒は目の当たりにしている。
+
+　恐怖に凍りついたものの、それでも震えだけは止められない美緒の下腹を、まるで蛇が這うように、冷たい金属の触感が伝い下りていく。
+
+<BOX type="5">//%sR
+「やめて……お願いです。
+　やめて下さい……」
+
+<BOX type="4">//%sL
+「イ・ヤ・だ・ね」
+
+<CLEAR><BACKGROUND SRC="3560p3">//# 3560p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+銃口が、柔らかい茂みを掻き分け始めると、ついに美緒は泣き出した。
+
+　さっきキャルを糺した勇気は、
+もう、とうの昔に消し飛んでいる。
+
+<BOX type="4">//%sL
+「安心しなよ。本物の男のよりは、
+　ずっと細いんだからさ」
+
+<BOX type="3">//%m
+　艶めかしく囁きながら、キャルは銃口を美緒の秘所に押し当てた。
+
+<BOX type="5">//%sR
+「ひぃっ!!」
+
+<BOX type="2">//%w
+　もっとも過敏な場所に触れた金属の感触は、氷の棒も同然の冷たさだった。
+
+<BOX type="5">//%sR
+「嫌だ……こんなの嫌……」
+
+「助けて……お母さん……」
+
+<BOX type="2">//%w
+だが美緒が怯えれば怯えるほどに、キャルの嗜虐心は煽られ、歪んだ欲望を募らせていく。
+
+<BOX type="4">//%sL
+「ほら、もっと感じて濡れねぇと、
+　痛いばっかりだよ」
+
+<BOX type="3">//%m
+　嘲るように言いながら、キャルは美緒の腹から乳房まで唇を這わせ、乳首を舌先でくすぐった。
+
+　快感と呼ぶには、
+　あまりにもおぞましい刺激が、
+　美緒の全身を蹂躙する。
+
+<BOX type="5">//%sR
+「うぅ、あうぅうぅ……」
+
+<BOX type="4">//%sL
+「ハッ。まるきり動物じゃんかよ」
+
+<BOX type="3">//%m
+そこには、毅然としてキャルの嘲りをはねのけていた美緒の姿は、もうなかった。
+
+<BOX type="4">//%sL
+「そぉれ」
+
+<BOX type="3">//%m
+　充血しはじめた陰唇の間に、
+　キャルは銃口を浅く押し沈める。
+
+<BOX type="5">//%sR
+「いやぁぁぁぁッ!!」
+
+<BOX type="2">//%w
+　悲痛な、あまりにも悲痛な、
+　断末魔を思わせる悲鳴を上げて、
+　とうとう美緒は失禁した。
+
+<BOX type="5">//%sR
+「いや……嫌……ぁ……」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="2">//%w
+　美緒の内側で、
+　何かが限界を越え……
+　そしてあっけなく崩壊した。
+
+　恐怖に引き攣っていた全身から、一斉に力が抜ける。
+
+<CLEAR><BACKGROUND SRC="3580p4">//#! 3580p4 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="2">
+<CLEAR><BACKGROUND SRC="ruins3">//#!  ruins3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　その途端、キャルの中で渦巻いていた狂おしいほどの喜悦が、嘘のように消え失せた。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　抵抗する力も、泣き叫ぶ気力も失って、露わな秘所を曝したまま、壊れた人形のように四肢を投げ出している美緒。
+
+　たしかにそれは、キャルの求めていた通りの光景だったが……
+
+　なら、何なのだ？
+　このたまらなく虚しい心地は。
+
+　キャルが身を離した後も、美緒は冷たい床板に身を横たえたまま、死んだように動かなかった。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　弱々しいすすり泣きの声を聞きながら、キャルは、ただ途方に暮れたまま、己の中に見出した空虚と向かい合っていた。
+
+<A HREF="3570.txt" OPERATOR="">//~ 3570
+
+

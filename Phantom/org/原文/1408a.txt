@@ -1,0 +1,18 @@
+<BOX type="0">//%w
+　ベレッタから移行したシグ＝ザゥアーは、悪くない感触だった。
+
+　トリガー後部に配されたデコッキングレバーは、
+　ベレッタより圧倒的に使いやすい。
+　サイズもコンパクトながら、
+　心なしか、精度はむしろベレッタより高い印象があった。
+
+　これなら、文句はない。
+
+<CALC WORKNAME="射撃音" OPERATOR="21_03">//
+<CALC WORKNAME="銃" OPERATOR="シグ">//
+<CALC WORKNAME="銃画像" OPERATOR="シグ">//
+<CALC WORKNAME="射撃画像" OPERATOR="シグ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用">//
+<CALC WORKNAME="1408a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

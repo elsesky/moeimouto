@@ -1,0 +1,301 @@
+//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+
+<wait time="900">
+<BACKGROUND SRC="nightWay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　手握着雪佛兰Astro的方向盘，虽然一点也不刺激，
+  然而紧张感却不亚于驾驶F40飞驰的那个时候。
+
+（注：雪佛兰Astro，通用推出的造型古老、卡车底盘的面包车）
+
+　毕竟，后备箱中藏有25千克的可卡因。
+
+　不久，Astro经由普利茅斯港向康普顿进发。
+
+//> left street2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　作为无法无天的贫民区，南部中心地区堪与纽约的布鲁克斯地区齐名。
+
+<se id="1" src="" mode="fadeout" time="30">
+　路灯已经坏了很久了，
+　照着不开车灯的Astro的前路的，只有淡淡的月光。
+
+　在这里，夜晚的寂静也有着与其他地方不同的意义。
+  蕴藏着威胁的那份黑暗，就像是未开化的原始森林一样。
+
+「我们在这样的地方进行交易吗？」
+
+<BOX type="5">//%sR
+「这里呢，在很早以前就是布拉迪兹的地盘」
+
+<BOX type="0">//%w
+　维斯梅尔最初的据点吗……
+
+<BOX type="5">//%sR
+「在洛杉矶，已经没有人敢在这里惹麻烦、跟布拉迪兹作对了」
+
+「所以对于Inferno来说，这里是最安全的地方」
+
+
+
+<CLEAR><BACKGROUND SRC="street5">//# street5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……看到了。
+　透过夜幕，在大概30m远的地方，有一个明显不是废车的车影。
+　与约定的一样，车型是福特野马。
+
+　可是，当我们按照约定，用车头灯的亮灭打出暗号的时候，
+  对方的车却丝毫没有反应。
+
+　墓场一般的静寂。
+
+<se id="1" src="F40僪傾奐偔" mode="normal" loop="off">
+
+　对方的样子有些奇怪。
+　我一边小心地观察着周围，一边慢慢打开了车门。
+
+　钻进车内的寒冷的夜风中，夹杂着些许硝烟的味道。
+
+<BOX type="5">//%sR
+「……{名}？」
+
+<BOX type="0">//%w
+　克劳蒂娅发出不安的声音。
+  她好象很紧张。
+
+「呆在车里别动。引擎不要关」
+
+　说完，我从Astro上下来。
+<se id="1" src="doorClose" mode="normal" time="" loop="off" effect="">//!se doorClose
+
+　小心谨慎地朝着野马走去。
+　没有人问话，也没有任何人活动的迹象。
+　途中，我闻到一股硝烟和血的味道。
+
+　来不及多想，我马上从怀中拔出枪，拉开枪机。　
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　首先，一个黑社会的人倒在车前，已经断了气。
+
+<CLEAR><BACKGROUND SRC="UZI">//# UZI 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　他手中的乌兹冲锋枪，是每分钟能够打出600发9mm子弹的凶器。
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　死因是……枪伤。腹部与脸上各中了一枪。
+
+　应该是相当大的口径……大概，是被0.45口径级别的手枪子弹所射中的。
+　伤口裂得很大。
+
+　尸体还残留着微微的体温。死了应该还不到15分钟。
+
+<CLEAR><BACKGROUND SRC="street7">//# street7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+车的另一侧还有一个人。
+ 然后在稍微远一点的垃圾箱旁，还有路灯支柱的阴影里又各有一个人，全都是黑社会的成员。
+
+　这三个人的武器也都是乌兹。不过……
+　令我感到惊讶的，是其中两个人的死因。
+
+　一个是颈动脉被割断。还有一个人胸口挨了一刀，直插心脏。
+
+<CLEAR><BACKGROUND SRC="street6">//# street6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我环视了一下周围的墙壁，上面密密麻麻的全是弹孔。
+
+　这是4把乌兹的成果。
+  他们肯定曾经没有瞄准地乱射一气。
+
+　当其中一人被袭击的时候，这些黑社会成员肯定打算向四周散开后展开迎击。
+  可是，这种分散的打法反而害了他们。
+
+袭击者恐怕是单独的一人。
+ 凶器是大型匕首和安装了消音器的手枪。
+他应该是在黑暗中，将陷入恐慌的猎物一个一个无声地干掉了。
+
+　更惊人的是，这些手持机关枪的男人都是被匕首杀死的……
+　看来这个杀手知道如何利用黑暗来帮助自己。
+
+　目标……果然是钱吗。
+
+　黑社会为这次交易所准备的500万美元，到处都没有发现。
+
+　从尸体的样子来看，肯定是刚刚被杀。
+
+　杀手趁着我们来之前的这段时差逃跑了吗……
+
+　或者也可能没有逃掉，还潜藏在附近某个地方。
+
+<CLEAR><BACKGROUND SRC="street7">//# street7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……」
+
+　这时，我感到背后有人走近。
+
+　在恐慌和焦急之前，
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　我条件反射似地转过身，举起了枪。
+
+<BUSTUP NAME="crou2" face="5" MODE="on" zoom="" ALIGN="right">//# crou2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!?」
+
+<BOX type="0">//%w
+　……是克劳蒂娅。
+  幸好没有开枪，我不禁倒吸了一口冷气。
+
+「……我不是说了别下车吗」
+
+<BUSTUP NAME="crou2" face="3" MODE="on" zoom="" ALIGN="right">//# crou2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是怎么回事？」
+
+<BOX type="0">//%w
+「就是说，今晚的交易泡汤了」
+
+　我把枪收进枪套，松了一口气。
+  附近感觉不到敌人的气息。
+  看来，暂时不会有威胁逼近。
+
+<BOX type="5">//%sR
+「今天晚上的交易，应该没有泄露到外部」
+
+<BOX type="0">//%w
+「可是，凶手的手法非常专业，不是路过的打劫者」
+
+<BOX type="5">//%sR
+「究竟是谁干的!?」
+
+<BOX type="0">//%w
+「谁知道呢」
+
+　我观察了一下他们的服装，搜了一下一个看起来身份最低的黑社会成员的尸体，果然从他的裤子后面的口袋中发现了福特的钥匙。
+
+「不管怎样，这里不是考虑事情的地方」
+
+「你自己先回去吧。我随后就到」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　说完我转过身，背对克劳蒂娅，开始搬运他们的尸体。
+
+<BOX type="5">//%sR
+「……你呢？」
+
+<BOX type="0">//%w
+「事后处理」
+
+　我姑且先将尸体一个一个装进野马车的后备箱中。
+
+　虽然不很正式，但毕竟他们是Inferno的客人。
+  如果尸体落入警察的手中，不知道会引起什么样的麻烦。
+
+　我没有确认克劳蒂娅离开时的表情，
+　不过，当我将尸体全部搬运妥当的时候，听到Astro的引擎声已经渐渐远去。
+
+　我也不能在这里磨蹭了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left street2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<se id="1" src="僱僆儞僄儞僕儞僗僞乕僩" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　当我坐上装满尸体的福特，启动引擎的时候，突然注意到了。
+
+　在亮着的车头灯的照射下，视野内的一个角落里……
+　一个街区外的十字路口的拐角处，还有一个人倒在那里。
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="street8">//# street8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我小心地将车慢慢开过去。
+
+　那个人被用大衣盖住了脸，仰面躺在那里。
+　然而并不是在睡觉，可以看见身体下面有一滩血。
+
+　我将福特停住，从车上下来。将大衣掀开查看了一下。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="1030x1">//# 1030x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　从她的身体来看应该是妓女。是一个黑人女性，还很年轻。
+
+　她闭着眼睛，双手交叉在胸口呈仰卧的样子，
+  看起来就像是在安静地睡觉。
+
+　但是，她的眉心上有一个指尖大小的黑色弹孔。
+
+  这不是0.45口径子弹的弹孔。
+  看样子她应该是被那些黑社会的人所带的乌兹的9mm子弹击中的。
+
+　是袭击黑社会的杀手的同伙吗。
+  还是一个被流弹击中了的倒霉的过路人呢……
+
+　不管是哪一种假设，她的死法都很奇怪。
+
+　被击中头的尸体，不可能以如此安详的睡相倒下去。
+  而且也不可能自己给自己盖上大衣。
+
+　肯定有人动过这具尸体。
+
+　将手交叉放在胸前，把眼睑合上。然后为了遮住她那可怜的身体，还给她盖上了大衣。
+　
+　虽然略显简朴……但这的确是殡礼的处理措施。
+
+　究竟是什么人呢？
+　杀死黑社会们的那种老练冷酷的手法和对这具尸体的温情，无论如何都无法结合到一起。
+
+这样看来应该是过路人吧。
+ 可是，从黑社会被袭击到我们到达这里，之间只有短短的几分钟而已。
+
+<CLEAR><BACKGROUND SRC="street8">//# street8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，从马路的另一边传来了警车的警报声。
+　我不能再在这里长时间逗留了。
+
+　我回到福特的驾驶席，
+//<se id="1" src="carStart" mode="normal" time="" loop="off" effect="">//!se carStart
+//<se id="1" src="僱僆儞僄儞僕儞僗僞乕僩" mode="normal" loop="off">
+<wait time="800">
+　暂时忘记多余的事，踩下了油门。
+
+<se id="2" src="僩乕儔僗婎杮憱峴" mode="normal" loop="off">
+<wait time="2000">
+<se id="2" src="" mode="fadeout" time="20">
+<A HREF="1045.txt" OPERATOR="">//~ 1045

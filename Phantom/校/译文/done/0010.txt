@@ -1,0 +1,200 @@
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="#ffffff">//# pict3 1
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="6">//%w
+<font color="#010101">
+……会被杀……逃不掉的话就会被杀……
+
+……逃不掉的话，就会被杀……
+
+<CLEAR><BACKGROUND SRC="傾僀儞捛愓_1">//# pict2 1
+<WIPE EFFECT="fade" TIME="10">
+追来了…… 
+
+……黑暗、冰冷的枪口，<K>
+以及那更加黑暗、冰冷的瞳孔……
+
+不逃的话，就会被杀…… 
+
+<CLEAR><BACKGROUND SRC="傾僀儞捛愓_2">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+……但是，不可能逃得掉。<K>
+追上来了。不管逃到哪里都会被追上。
+
+怎么办……才好？ 
+
+<CLEAR><BACKGROUND SRC="傾僀儞捛愓_3">//# pict4 1
+<WIPE EFFECT="fade" TIME="10">
+……不杀的话……
+
+……逃不掉的话，就去杀吧。
+
+不杀的话，就会被杀……
+
+</font>
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room1 wide 255 dummy 20 dummy 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　从梦中醒来，看到的是未曾见过的房间。
+　身上穿着睡衣一样的衣服，躺在硬邦邦的床上。 
+
+　起身，环顾一下四周。
+　房间里到处都是灰尘，充斥着机油一样的味道。 
+　还有难以忍受的……寒冷。
+
+　……有谁，正站在我旁边。
+
+<CLEAR><BACKGROUND SRC="0010p2">//# 0010p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　是个女孩子。
+  大概……和自己相仿的年龄。
+
+　黑暗、深邃、冰冷的眼睛。
+　就像冬夜里的湖水……
+
+<BOX type="5">//%sR
+「醒了吗？」
+
+<BOX type="0">//%w
+　听到少女的询问，我暧昧的点了一下头。
+　这里，究竟是什么地方？ 
+
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时才发现，屋子里还有另外两个人。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# sice 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　是外国人。
+  银发的男人，以及棕褐色头发的女性。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Good morning boy.
+　How are you?」
+
+<BOX type="0">//%w
+　银发外国人用英语跟我说话。
+　他看我的眼神很不礼貌，语气中带着些戏谑。
+
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# crou2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　女人则保持着沉默。
+  仿佛在鉴定我一般，那尖锐的眼神。 
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……Ok，“Phantom”」
+
+<BOX type="0">//%w
+　这时，银发男人对刚才的少女说，
+
+<BOX type="5">//%sR
+「Let's start his test.
+　Don't be too hard」
+
+<BOX type="0">//%w
+　……在说什么。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Yes，master」
+
+<BOX type="0">//%w
+　女孩这次也用英语回答。
+
+　男人好象叫那个女孩为“Phantom”……
+  确实这么听到了。这是她的名字吗？ 
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　女孩抓住我的手，让我握住了什么。
+
+<CLEAR><BACKGROUND SRC="knife_000">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……是一把刀。
+
+　看起来很像在军队所使用的，厚重的军刀。
+ （注：survive knife）
+
+　究竟，是要干什么？
+
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 21 elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「站起来」
+
+<BOX type="0">//%w
+　女孩催促道。
+  不知什么时候起，她的右手也握着一把同样的刀。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「喂，这到底是……」
+　还是要先问清楚为好。
+
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　突然，少女手上的刀像闪电一样劈了过来。 
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　刀刃从我的鼻端呼啸而过，
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　
+  我慌乱地躲过，从床上滚落地面。
+
+　如果稍慢一步的话，我就……
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　在我还趴在地上发愣的时候，
+　少女用利落的步法从床的侧面接近。
+
+<BOX type="5">//%sR
+「不想死的话，
+　就拿出真本事来吧。」
+
+<BUSTUP NAME="elen2" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……完全搞不懂。
+
+　要和我打吗？用这把刀？ 
+
+　太荒唐了……
+
+　话说回来，这里到底是哪里？
+  为什么我会睡在这种房间里啊？ 
+
+　不过现在并不是可以胡思乱想的场合。
+  拿着刀的女孩，已经来到眼前。 
+
+<calc workname="gun24" operator="1" mode="global">
+<CHOICE HREF="0010b.txt" TEXT="＊请求帮助" OPERATOR=""></A>//{ ＊助けをもとめる 0010b ＊逃げる 0010c
+<CHOICE HREF="0010c.txt" TEXT="＊设法逃跑" OPERATOR=""></A>//{ ＊助けをもとめる 0010b ＊逃げる 0010c
+

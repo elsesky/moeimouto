@@ -1,0 +1,109 @@
+「我真的很高兴……但是，我不能接受」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「实在对不起」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，不，你不用道歉的」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪慌张得话都说不出来……随后，她脸上却浮现出了笑容。
+
+<BUSTUP NAME="mio1" face="7" MODE="on" zoom="" ALIGN="right">//# mio1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是这样啊……哈，对不起，真的……」
+
+<BOX type="0">//%w
+从她脸上勉强而又僵硬的笑容中，我可以看出隐藏在她心中的莫大失落。
+她并不是在虚张声势地死撑面子，而是不想让对方过意不去……真是个坚强的女孩。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个，请你不要介意」
+
+「我只是一时有点胡思乱想而已，真的……」
+
+<BOX type="0">//%w
+「……是吗」
+
+　我明白她的心情，
+  她想当作这一切都没有发生过。
+
+<CLEAR><BACKGROUND SRC="classroom2a">//# dummy 20 classroom2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　与其笨拙地安慰她，倒不如表现得坦率一些。
+  想到这里，我站起身来，头也不回地走出了教室。
+
+　要是用冷酷男人的印象使她的幻想破灭，应该就能让她尽早忘记我了吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left court2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="court2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我坐在中庭的长椅上，深深地叹了口气。
+
+　欺骗她的恋慕心，果然还是太过分了。
+
+　不论怎样我都没法抛开自己的感情……
+　说实话，自己对{ヒロイン}那种装出虚伪友情的做法很是反感。
+
+　自己和{ヒロイン}之间有什么不同呢？
+　我仰望着天空中的晚霞，陷入了漠然的思索。
+
+　大概……是对如今栖身的这个世界的眷恋程度不同吧。
+
+　同我堕落为杀手之前相比，这个世界并未发生任何变化。
+
+　所以，我才会感到怀念，才能得到慰藉。
+
+　我希望这里的空气能够永远清澄，也希望生活在其中的美绪和早苗能够永远这样天真无邪。
+
+　我已经不想再与那个血腥肮脏的世界有任何的联系了。
+
+　这样就行了。
+　试着结束一切，重新开始生活吧。
+
+　{ヒロイン}的话……一定会生气吧。她应该不会就此放弃自己的计划吧。
+
+　我光顾着思考这些事情，以至于没能及时注意到有人在像往常一样从背后偷偷接近。
+
+　哎？　察觉到的瞬间，后脑挨了重重的一击……
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　而且这一次，力度比以往任何一次都要更大。
+
+　我一边捂住生疼的脑袋，一边回过头去。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　早苗正怒气冲冲地站在那里。
+
+<BOX type="5">//%sR
+「想听吗？　我的说教」
+
+<BOX type="0">//%w
+「……如果我说不想听呢？」
+
+<BOX type="5">//%sR
+「不许说不想听」
+
+<A HREF="3130.txt" OPERATOR="">//~ 3130

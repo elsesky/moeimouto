@@ -1,0 +1,120 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="door3" mode="normal" time="" loop="off" effect="">//!se door3
+<BACKGROUND SRC="room0b3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+<BOX type="0">//%w
+　玄関口で、静かにドアが開閉する気配。
+
+　アインも、戻ったらしい。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　おかえり、ただいま……
+　そんな挨拶を交わしたことは一度もない。
+
+　わざわざ音を立てなくても、
+　部屋に入ってきたのがアインなのは気配でわかる。
+　彼女の方も、室内にいるのが誰なのかは気付いているだろう。
+
+　声をたてたり、視線をまじえたりする必要は、
+　二人には、ない。
+
+　シャワールームで、さざめくような水音が湧き……
+　しばらくしてそれが止むと、空気に湿気が香りはじめた。
+
+　彼女はたぶん、いつものようにシャワーを浴びて、
+　今は身体を拭いている。
+
+　恥じらいもなければ、遠慮もない。
+　ただ、役目を終えて犬小屋に戻った猟犬が二頭。
+　そんな関係にも、もう慣れてしまった。
+
+　……ふと、気がついた。
+　部屋の中の空気の動きが静まっている。
+
+<CLEAR><BACKGROUND SRC="アイン風呂上り">//# night1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　何の気なしに振り向くと、
+　裸のままのアインが、じっとこちらを凝視していた。
+
+「……どうした？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　アインは答えない。
+
+　何故だろうか。
+　ただ黙って見つめられているだけなのに、
+　何か……言葉に尽くせないものを問いかけられてくるような、
+　そんな気分になる。
+
+<CLEAR><BACKGROUND SRC="アイン風呂上り2">//# night1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……何でもないわ」
+
+<BOX type="0">//%w
+　長かったようにも、短かったようにも思える沈黙の末に、
+　彼女はようやく口を開いた。
+
+<BOX type="5">//%sR
+「ただ……
+　あなたが、怖かっただけ」
+
+<BOX type="0">//%w
+「え？」
+
+//<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何でもない。気にしないで」
+
+<BACKGROUND SRC="room0b3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そう言いながら、アインはくるりと背を向けて、
+　ベッドに入ってしまった。
+
+　……聞き違いか？
+
+　そうでもなければ、有り得ない言葉だ。
+
+　だが今、確かにアインは……
+　
+　“怖い”と……そう、口にしたように思う。
+
+　彼女に、これほど似つかわしくない言葉があるだろうか。
+
+<CLEAR><BACKGROUND SRC="street0c">//# street0c 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　言葉の意味を考えながら、視線を窓の外にさまよわせる。
+
+　白みゆく空の下で、
+　景色が徐々に色と輪郭を取り戻していくのを目で追って……
+　どれほどの時間、そうしていただろうか。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　……たぶん、聞き違いだ。
+
+　それが結局、
+　辿り着いた結論だった。
+
+<A HREF="0120b.txt" OPERATOR="0030c=1">//~ 0120b
+<A HREF="0120b.txt" OPERATOR="0070l=1">//~ 0120b
+<A HREF="0125.txt" OPERATOR="">//~ 0125

@@ -1,0 +1,491 @@
+<se id="1" src="F40僄儞僕儞僗僞乕僩" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　我没有回答，
+  取而代之的是拧下汽车钥匙，再次发动了引擎。
+
+//<se id="1" src="F40cell" mode="normal" time="" loop="off" effect="">//!se F40cell
+　再次醒来的V8气筒，响起了吓人的空转声。
+
+<se id="2" src="F40幒撪傾僀僪儕儞僌" mode="normal" time="" loop="off" effect="">//!se F40idol
+　隐藏在这轰鸣声中的狰狞的力量，
+  自己已经亲身体验过了。
+
+　所以，无需畏惧，
+  我再一次地打开了吓人箱。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「越来越熟练了嘛」
+
+<BOX type="0">//%w
+「……我可以把这当成是赞扬吗？」
+
+<BOX type="5">//%sR
+「当然」
+
+「我喜欢不怕失败的人哦」
+
+<BOX type="0">//%w
+<se id="1" src="" mode="fadeout" time="10">
+<se id="3" src="F40壛懍4" mode="normal" time="" loop="off" effect="">//!se F40go2
+  这一次启动时，车身依旧咔嗒咔嗒地抖动着，
+  尽管如此，汽车还是成功发动了。
+
+<se id="2" src="" mode="fadeout" time="20">
+<se id="1" src="F40僋儖乕僕儞僌2" mode="normal" time="" loop="off" effect="">//!se F40run
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_speed" mode="fadein" old="fadeout" time="10" loop="on">//$ speed.swa 0 255
+<BACKGROUND SRC="0140x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="3" src="" mode="fadeout" time="20">
+<BOX type="0">//%w
+　虽然看上去非常有气势，
+  不过，F40果然不是用一般方法可以对付的机器。
+
+　圣莫尼卡高速公路、好莱坞高速公路……
+
+　我不断更换着线路，
+  虽然经过一番苦斗，但自己还是找不到控制这辆车的感觉。
+
+　这样下去，不但没法驾驭这辆车，
+  反倒是驾驶一方的我会被它蹂躏。
+
+<se id="2" src="F40憱峴幒撪壒1" mode="normal" time="" loop="off" effect="">//!se F40run
+<se id="1" src="" mode="fadeout" time="20">
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　首先，对加速踏板的掌控需要超出一般的精确。
+
+　稍稍大意的话，后轮就会打滑，
+  这种感觉，就像是在用脚尖处理炸弹一样。
+
+　这辆车在加速的时候脾气尤其的坏。
+  虽然会对加速踏板上略为加大的力量有所反应，
+  但反应的结果总是要慢一拍。
+
+　涡轮所需的空气量应该是非常大的。
+　所以从打开节流阀到涡轮运作之间会产生间歇。
+
+　结果，为了保持速度的稳定，
+  只好将转速控制在5000转左右，
+  在这样的转速下尽可能的让涡轮持续运作。
+
+<se id="2" src="" mode="fadeout" time="30">
+<se id="1" src="" mode="fadeout" time="30">
+//<se id="1" src="F40corner" mode="normal" time="" loop="off" effect="">//!se F40corner
+//<se id="3" src="F40憱傝嫀傝" mode="normal" time="" loop="off" effect="">//!se F40corner
+　可一旦转弯的话，就会瞬间失去大量转速，
+  从而陷入像驮马一样的低速状态。
+
+　……这种偏重马力而忽略操作性的机器，
+  究竟是谁为了回应何种要求而设计出来的呢？
+
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="F40憱峴幒撪壒2" mode="normal" time="" loop="off" effect="">//!se F40corner
+<CLEAR><BACKGROUND SRC="0140x2">//# 0140x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「好像稍稍理解了呢」
+
+<CLEAR><BACKGROUND SRC="0140x3">//# 0140x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「需要的话，我可以示范给你看哦」
+
+<BOX type="0">//%w
+　这可是个令人感激的提议。
+  现在这辆车那烈马一般的气势正在逐渐地减弱着。
+
+「拜托你了」
+
+<se id="1" src="" mode="fadeout" time="30">
+　我把车停在临时停车带上，和克劳蒂亚交换了位置。
+
+<CLEAR><BACKGROUND SRC="0140x6">//# 0140x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「我还记得，自己最初是坐在这辆车的副驾驶席上看着驾驶者操作的哦」
+
+「即便如此，轮到自己驯服这辆车的时候，还是花了不少时间」
+
+<BOX type="0">//%w
+「这辆车曾经是别人的吗？」
+
+<BOX type="4">//%sL
+「这可就说来话长了」
+
+<BOX type="0">//%w
+　望向天空的克劳蒂娅一边小声嘟囔着，
+  一边把手放在变速箱的控制杆上。
+
+<se id="1" src="F40媫敪恑" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　从1档启动的F40，
+  作出了不可思议的动作。
+
+　就像划过水面的水鸟一般，法拉利平滑地开动了。
+
+　……同样的车，在不同驾驶者面前也会变得不同吗？
+
+<se id="2" src="F40壛懍3" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　转速表上的指针，
+  以能够展现这台机器本性的4500转的刻度线为目标，
+  一点一点地向上逼近着。
+
+<BOX type="4">//%sL
+「好了，Zwei」
+
+「差不多，
+  该教你如何驾驭法拉利了」
+
+<se id="1" src="F40僞乕儃巒摦" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="2" src="" mode="fadeout" time="30">
+
+<CLEAR><BACKGROUND SRC="0140x7a">//# 0140x7a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　4500转，涡轮启动。
+  铁锤一般的重力压在了身上。
+
+<se id="2" src="F40憱峴250" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+　但是……车体没有摇晃。
+
+　她说要给我做示范，并不是在吹牛。
+  不……倒不如说她是刻意做到这种可供我参考的程度。
+
+　女式皮鞋的鞋尖，像机器一样精密地操控着加速踏板。
+  这名为双涡轮的恶魔，已经对她唯命是从。
+
+<se id="3" src="F40憱峴250幒撪" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="2" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「刚才转弯的时候，
+  感到有些苦恼吧」
+
+<BOX type="0">//%w
+　被看破了吗……
+　不管怎样，会感到棘手是肯定的吧。
+
+　说起来……我思考着，在脑中打开路线图。
+
+　前方大约两公里处，刚好有一个右转弯。
+
+<se id="2" src="F40壛懍4" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="F40憱峴250" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+<CLEAR><BACKGROUND SRC="0130x1a">//# 0130x1a 1
+<WIPE EFFECT="fade" TIME="10">
+
+<BOX type="0">//%w
+　但是出乎我的意料，克劳蒂娅没有减速的意思，
+  她就以这种简直是乱来的速度向着弯道直奔弯道而去。
+
+「……你这是？」
+
+<BOX type="4">//%sL
+「既然是法拉利，
+  就要用法拉利的转弯方法」
+
+「可能会有些粗暴哦」
+
+<BOX type="0">//%w
+　前方100米的地方，防护栏在闪着炫目的白光。
+  如果被处刑的话，断头台的刀刃应该就是这样的吧
+
+　喂，这可不是闹着玩的啊……
+
+　这个时候，克劳蒂娅踩在加速踏板上的脚尖，
+  很明显地向上大幅抬起。
+
+　正如克劳蒂亚最初告诫我的一样，
+  由于引擎被制动，车体开始急剧减速。
+
+　理所当然地，
+  车身的重心由于过度转向而发生偏移，
+  车尾开始向边侧滑出……
+
+　克劳蒂娅迅速回转着方向盘，
+  就像是在优雅地舞动着双手一样。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="3" src="F40僪儕僼僩" mode="normal" time="" loop="off" effect="">//!se driftIn
+<CLEAR><BACKGROUND SRC="0140x4">//# 0140x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　通过巧妙地反打方向盘，F40的车尾向左滑出，
+  车头则向右偏离，正好朝着弯道的前端出口的方向。
+
+　加速踏板对其上力量的变化迅速做出了反应，
+　后轮从打滑开始变为空转。
+　当然，这都是在保持着漂移的状态下进行的。
+
+　用这种速度……控制漂移吗!?
+
+　在我即将惊叫出来的时候，
+  克劳蒂娅通过逆转向牢牢抓住了打算逃脱控制的后轮，
+  将侧滑的力量转变为前进的动力……
+
+<se id="3" src="" mode="fadeout" time="10">
+<se id="2" src="F40僇乕僽" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="0140x7">//# 0140x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　F40保持着子弹一样的速度，恢复了直行。
+
+<se id="1" src="F40憱峴150幒撪" mode="normal" time="" loop="off" effect="">//!se driftOut
+
+<CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「就是这种感觉」
+
+<BOX type="0">//%w
+　克劳蒂娅干脆地说道，
+  在她的脸上看不出一丝紧张。
+
+<BOX type="4">//%sL
+「像那样转弯的话，
+  就不需要关闭涡轮了」
+
+「掌握这个的话，
+  你就可以独自驾驶F40了哦」
+
+<BOX type="0">//%w
+「……啊」
+
+　也就是说，
+  只有能够使用这种魔法的人，才能驾驭F40吗。
+
+<se id="1" src="" mode="fadeout" time="20">
+<se id="2" src="F40壛懍4" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140x7a">//# 0140x7a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　维持着转速将弯道突破了的F40，
+  在延续着的直线上，如鱼得水一般地持续加速着。
+
+<se id="1" src="F40憱峴250幒撪" mode="normal" time="" loop="off" effect="">//!se F40accel
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　终于，克劳蒂娅挂上了最高档位。
+
+　侧面车窗外的景色已经无法辨别。
+  一切都像流星一般拖着尾巴，形成令人眩晕的条状花纹。
+
+　我偷偷看了眼时速计，时速……320公里。
+
+　这个时候，自己听到了什么。
+  虽然一开始我还怀疑自己的耳朵……但确确实实是听到了。
+
+　与隆隆叫着的引擎声相对的，
+　就像小溪的流水声一般的……轻快地跃动着的笑声。
+
+<se id="1" src="" mode="fadeout" time="15">
+<se id="2" src="F40憱峴250幒撪" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140p5">//# 0140p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　她，在笑着。
+
+　这个人，没有恐惧感这种东西吗？
+　还是说，她打算用这样没有道理的行为唤回麻痹了的感觉吗。
+
+　不过，从克劳蒂娅脸上涌现出的笑容，
+  看不到任何病态的氛围。
+
+　她……在单纯地享受着。
+
+　对成人而言，早已被忘记了的、特别的笑容。
+
+　就像淘气的孩子一样。
+　那做过什么恶作剧之后的、淘气鬼的笑脸。
+
+　速度让她的心裸露出来。
+
+　危险、风险、无处不在的愚行……
+　将这一切统统抛开，只是单纯地享受快乐。
+　现在的她，就是这样无忧无虑地品味着喜悦的表情。
+
+　这是对于身为Inferno的干部、
+  被理性氛围所禁锢的克劳迪娅来说，最为不合适的表情。
+
+　不过……
+　合适也好，不合适也好。
+
+　这样欢笑着的克劳迪娅，
+  给我的感觉，简直就像是另一个人……
+
+<se id="2" src="" mode="fadeout" time="30">
+<se id="1" src="F40憱峴250" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「在想什么呢？」
+
+<BOX type="0">//%w
+　由于问的太突然，
+  我差一点就老实回答她了。
+
+「……」
+
+「……不，没什么」
+
+“很可爱啊”什么的……
+　这样的话绝对不能说出口。
+  不管怎么说，我们之间的立场是截然不同的
+
+<CLEAR><BACKGROUND SRC="0140x4">//# 0140x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　噗嗤一声笑了出来，
+<se id="2" src="F40僪儕僼僩" mode="normal" time="" loop="off" effect="">//!se driftOut
+　克劳蒂娅再一次巧妙地用漂移突破了弯道。
+
+　为什么她在交谈的同时，还能展现这样的技艺啊？
+
+<se id="1" src="F40憱峴150幒撪" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「莉兹在平常的时候，明明也是开Viper的」
+
+（注：克莱斯勒公司出品的高级跑车）
+
+<se id="2" src="" mode="fadeout" time="30">
+「偏偏只有我的车，她是绝对不坐的」
+
+「你也会害怕吗？」
+
+<BOX type="0">//%w
+「这个嘛……」
+
+　害怕。这是当然的。
+
+　但是，看到这样开心的克劳迪娅……
+  不管怎样，我不能示弱。
+  不然一定会因为胆怯而被她嘲笑吧。
+
+「肯定是因为她只能坐在副驾驶席上」
+
+<CLEAR><CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「喔，很会说话嘛」
+
+「想要再坐一次驾驶席吗？」
+
+<BOX type="0">//%w
+　疯狂的涡轮增压机，就像顺从的猎狗一样沉默下来。
+
+　她减速的技术已经炉火纯青，连座椅都没有摇晃一下。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="0130p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我注意到，窗外是自己一小时前见过的景色。
+
+　我们绕着圣莫尼卡转了一圈，又返回到高速公路上。
+
+　法拉利缓缓驶进的这个汽车餐馆，停着我的高尔夫。
+  我和克劳蒂娅两人就是在这里汇合的。
+
+<CLEAR><BACKGROUND SRC="0130p2">//# 0130p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「呼，好累啊」
+
+<BOX type="0">//%w
+　克劳迪娅像长长松了一口气一样，揉着自己的脖子。
+
+<BOX type="5">//%sR
+「好久没像这样紧张地开车了，
+  真是累坏我了」
+
+<BOX type="0">//%w
+「稍微休息一下吧？」
+
+<BOX type="5">//%sR
+「嗯，就这样吧」
+
+<se id="1" src="F40尞傪搉偡" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　这么说着，克劳蒂娅再次把法拉利的钥匙扔给了我。
+
+<BOX type="5">//%sR
+「你开着它出去转转吧，
+  不必有什么顾虑」
+
+「大概1小时后回来就行了」
+
+<BOX type="0">//%w
+　……没问题吗？
+　把车交给我一个人。
+
+<BOX type="5">//%sR
+「是你的话就没问题，
+  应该不会弄到叫救护车的地步」
+
+「这可是难得的机会，
+  我希望你熟悉这辆车的用法」
+
+<BOX type="0">//%w
+「什么意思？」
+
+　没有回答，克劳蒂娅只是对我微微一笑。
+
+<BOX type="5">//%sR
+「飞起来吧，Zwei」
+
+「在这世界上，有的景色只有跑起来才能看得到哦」
+
+「是你的话，应该很快就能理解」
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在我考虑这话蕴含着什么意思的时候，
+  克劳蒂亚转过身，走进了餐厅。
+
+　……算了，要考虑的话，什么时候都可以。
+
+　现在，就来好好品味一下久违了的自由吧。
+
+<se id="1" src="F40僪傾奐偗傞" mode="normal" loop="off">
+
+　心里由于兴奋而刺痒难耐，
+  伴随着这样的感觉，
+  我第三次坐在了驾驶席上。
+
+　1小时……
+　这样的话，自己要去哪里呢？
+
+<A HREF="0150.txt" OPERATOR="">//~ 0150
+0

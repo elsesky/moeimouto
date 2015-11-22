@@ -1,0 +1,273 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left roomc2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="roomc2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="callsine" mode="normal" time="" loop="off" effect="">//!se callsine
+　{ヒロイン}のベストのポケットから、通信機のコール音が漏れた。
+
+　誰の呼び出しかは、考えるまでもない。
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+　スイッチを押すなり、あの耳障りな声を聞くより先に、言ってやった。
+
+「あんたのアインは……手強かったよ。サイス＝マスター」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……ほう？』
+
+<BOX type="0">//%w
+　空電音の向こう側で、驚きの声が上がる。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『その声……ツヴァイか。まさか、もう決着がついていたとはな』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「俺をツヴァイなんて呼ぶんじゃない」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『フフ……それもそうだ』
+
+『君のその素晴らしい成長ぶりに
+　敬意を込めて、私もファントムと
+　呼ばせてもらうとしよう』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「その呼び名だって、もう古い」
+
+「俺はもうインフェルノの人間じゃない。そんな異名は、お門違いだ」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『滅多なことを言うもんじゃない。
+　まるでインフェルノから離反する
+　ような言いぐさではないか』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「白々しいよ。サイス」
+
+「こっちは切り札を握ってる。俺とクロウディアの勝ちだ」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『ガンビーノにでも
+　寝返る気かね？』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……」
+
+　お見通しか。
+　だがこの慧眼こそサイスの武器だ。
+　梧桐もワイズメルも、そしてクロウディアでさえも、
+　まんまと踊らされてしまったのだから。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『なるほど、裏切り上手で名高い
+　クロウディア＝マッキェネン。
+　いかにも考えそうなことだな』
+
+『まさか、のこのこ後をついていく気ではあるまいな？　ファントム』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「それがどうした？」
+
+　まぜかえすと、サイスは大仰に溜息をついた。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『成長は目覚ましいが、
+　状況分析はまだまだ未熟だな』
+
+『まず冷静に考えてみることだ。
+　君は決して愚かな人間ではない』
+
+『ガンビーノ一家に鞍替えする上で
+　クロウディアに何が必要か』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「もうこっちには……インフェルノの極秘情報がある」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『そんなものだけで、
+　誠意というのは
+　示せるものではない』
+
+『いつの時代も、
+　最高の貢ぎ物とは……生け贄だ』
+
+『たとえば、そうだな……
+　かつてファミリーのナンバー2を
+　殺した下手人の首』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+　冷笑混じりの声に、目の前が暗くなるほどの怒りを覚えた。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『恨み連なるファントムの首級を
+持ち込めば、ニューヨークでは
+かなりの歓待を受けられるだろう』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+　サイスの理屈は通っている。
+　腹立たしいほどに、許しがたいほどに、正しい。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『我らがクロウディア嬢ならではの
+　常套手段だ』
+
+『あの女は約束通り、
+　君を連れていくことだろう』
+
+『……心臓に鉛弾を
+　撃ち込んだ上で、だが』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……何の確証があって」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『ロメロという少年の末路について
+　君は聞いたことがあるかね？』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『君までもが、
+　そんな末路を辿るべきではない』
+
+『君にはインフェルノこそ、
+　活躍の場に相応しいのだよ。
+　ファントム』
+
+『幸いにして、いま君は、
+　またひとつ功績を立てる機会に
+　恵まれている』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……なに？」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『裏切り者クロウディアの処刑』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『その手であの女狐に引導を渡し、
+　改めて組織への
+　忠誠の証としたまえ』
+
+『わたしの名において、
+　君の処遇は保証する』
+
+『今回の一件、インフェルノの
+　人的損害は甚大なのだ』
+
+『組織は今、君のような
+　才能と忠義心に溢れたスタッフを
+　必要としている』
+
+『むろん即答する必要はない。
+　私はいつでも、
+　君の判断力を信じて……』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「糞食らえだ。サイス」
+
+　それ以上、反吐の出そうな声音には耐えられず、
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+　通信機を床に叩きつけて砕いた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bedRoom2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="bedRoom2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　人目を考えると、血染めの服を着て行くわけにもいかなかったが、
+　幸い、クロウディアの部屋には着替えを置いてあった。
+
+//> left driveInn2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="driveInn2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　トラブルのせいで、
+　約束のドライブインに到着したのは刻限ぎりぎりだったが、
+　クロウディアが現れたのは、さらに30分を過ぎた後だった。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ごめんなさい。
+　遅くなったわね」
+
+<BOX type="0">//%w
+「……交渉が難航したのかい？」
+
+<BOX type="5">//%sR
+「そんなところ」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だけど先方は、条件を呑んだわ」
+
+「ディスクは？」
+
+<BOX type="0">//%w
+　死闘を経て持ち帰ったそれを、指先に挟んでクロウディアに示す。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……これで、勝ったわね。
+　{名}」
+
+「ティワナにいる彼らの連絡員と
+　合流して、空路で脱出よ」
+
+「刻限は、今日の夜明け。
+　すぐにも出発しないとね」
+
+<BOX type="0">//%w
+「……そうだな」
+
+<A HREF="1700.txt" OPERATOR="">//~ 1700

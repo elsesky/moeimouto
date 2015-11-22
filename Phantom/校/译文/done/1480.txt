@@ -1,0 +1,39 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="nightWay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　现在每分每秒的决断，都关乎着我的生死。
+
+　当然，如果我还想活命的话，现在回到阁楼是极其愚蠢的选择……
+
+　可是，那又怎么样？
+　因为这样的理由，我就要置凯尔的生死于不顾吗。
+
+　无视道路标识与信号灯，碍事的车就从对向行车线超过去。
+  我向着诺曼底大街一路狂奔。
+
+　要是有警车前来妨碍我的话，就算用枪对射我也不在乎。
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　所幸路上遇到的只有汽车的喇叭声和驾驶员的咒骂。
+  我总算是安然无事地回到了诺曼底大街。
+
+　从这里开始，就是战场了。
+
+　我将高尔夫停在2个街区外的地方。一边警惕地窥视着周围的情况，一边步行前进。
+
+<A HREF="1480a.txt" OPERATOR="">//~ 1480a

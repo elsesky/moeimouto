@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+  今夜带这把9mm口径的贝瑞塔就行了。
+  帮忙跟踪的话，用这家伙就足够了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

@@ -1,0 +1,42 @@
+「Ein……」
+
+//> left room1d wide 255 elen4 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　听到我的声音，她回过头来。
+
+　说起来，
+　和Ein共同居住在同一房间内的事，自己一次都没有注意过。
+
+　每天晚上都是我自己先睡下，而早上则是被她叫醒。
+
+　大概每一天，她都在我睡着后整理好场地，又在我醒来前做好训练的准备工作吧。
+
+　一直以来，她都以这样的姿态睡在我旁边……
+　想到这里，自己突然有种微妙的害羞感。
+
+<BOX type="5">//%sR
+「你还没睡么？」
+
+<BOX type="0">//%w
+　和往常一样、平静的声音。
+　明明在我面前露出这样的姿态，却看不出Ein有任何羞怯的样子。
+
+　的确，她并不是普通的女孩子。对于裸露肌肤而感到害羞，这种事她应该是意识不到的。
+
+　……今天，她真的是杀掉什么人之后才回来的吧？
+
+<A HREF="#スルー" OPERATOR="0030c=1">
+<CHOICE HREF="0070l.txt" TEXT="＊询问她关于今天的事" OPERATOR=""></A>//{ ＊今日のことについて訊く 0070l ＊黙って見つめる 0070d
+<CHOICE HREF="0070d.txt" TEXT="＊沉默地看着" OPERATOR=""></A>//{ ＊今日のことについて訊く 0070l ＊黙って見つめる 0070d
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="0070c.txt" TEXT="＊询问她关于今天的事" OPERATOR=""></A>//{ ＊今日のことについて訊く 0070c ＊黙って見つめる 0070d
+<CHOICE HREF="0070d.txt" TEXT="＊沉默地看着" OPERATOR=""></A>//{ ＊今日のことについて訊く 0070c ＊黙って見つめる 0070d

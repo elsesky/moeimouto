@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+　ボディガードが役目とはいえ、
+　それでも念のために.45口径を選ぶことにした。
+　いざという時、一発で着実に相手の抵抗力を奪えるのは、これだ。
+
+<CALC WORKNAME="射撃音" OPERATOR="11_02">//
+<CALC WORKNAME="銃" OPERATOR="コルト">//
+<CALC WORKNAME="銃画像" OPERATOR="ガバメント">//
+<CALC WORKNAME="射撃画像" OPERATOR="ガバメント2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用CV">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

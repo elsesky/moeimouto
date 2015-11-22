@@ -1,0 +1,49 @@
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あのぅ……」
+
+<BOX type="0">//%w
+　細く遠慮がちな声を背中にかけられて、
+　ようやく美緒の存在に気がついた。
+
+「や、やぁ」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　微笑みの影の、一抹の寂しさは……
+　多分、先に気付いてやれなかったせいだろう。
+　ずっとこの廊下にいたんだろうか？
+
+「御免な。ちょっと急いでたから……」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、ご、ごめんなさい」
+
+「忙しかった……ですか？」
+
+<BOX type="0">//%w
+　声をかけただけで謝らなくても良かろうに。
+
+「いや、用事ってわけじゃなくて……」
+
+「腹減ってたんだよ。ほら、うちの購買って、すぐ売り切れるから」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ……そうですか」
+
+<BOX type="0">//%w
+　相変わらず美緒は、怯えと緊張のない交ぜになった気後れに捕らわれて、
+　かちかちに固くなっている。
+
+<A HREF="#選択肢" OPERATOR="1450b=1">
+<A HREF="#選択肢" OPERATOR="1330=1">
+<A HREF="3190.txt" OPERATOR="">//~ 3190
+<MARKER NAME="#選択肢">
+<CHOICE HREF="3185.txt" TEXT="＊すぐ学食に行く" OPERATOR=""></A>//{ ＊すぐ学食に行く 3185 ＊しばらく美緒と話す 3190
+<CHOICE HREF="3190.txt" TEXT="＊しばらく美緒と話す" OPERATOR=""></A>//{ ＊すぐ学食に行く 3185 ＊しばらく美緒と話す 3190

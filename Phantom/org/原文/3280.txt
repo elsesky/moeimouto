@@ -1,0 +1,621 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　土曜日……
+　午前中の3単元かぎりで、授業はつつがなく終了した。
+
+　2年B組、{姓}江漣の欠席は、誰が気に留めることもなかった。
+
+　生徒たちはまだ日が中天にあるうちに、校門から解放される。
+
+　そんな人混みに紛れながら、周囲の会話を耳に挟めば、
+今日はとりわけ、だれもが週末の予定について、熱を込めて語らっている。
+　まるで、それが切迫した課題であるかのように。
+
+「何だか、みんな焦ってないか？」
+
+　何の気もなく、隣を歩く早苗にそう訊いた。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そりゃ、もう来週から
+　期末一週間前だもの」
+
+<BOX type="0">//%w
+　ああ、そうか。
+　羽を伸ばせる週末は、今日明日限り、ということか。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　期末試験……
+　{ヒロイン}の計画通りに事が運べば、
+　その頃にはもう、偽りの学生生活は、幕を降ろしている。
+
+　皆の緊張とも、
+　そして、そこから逃れるささやかな喜びとも、
+　もう既に、無縁なのだ。
+
+<CLEAR><BACKGROUND SRC="schoolway2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　何となく寂しい話だが……
+　こちらこそ、そんな感傷に浸っていられる暇はない。
+　成績どころか、命がかかっている。
+
+　{ヒロイン}は今頃、見ず知らずの街で、
+　密輸商人とコンタクトを取っている頃だ。
+　うまく事は進んでいるだろうか……
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ね～{姓}、
+　明日って何か予定入ってる？」
+
+<BOX type="0">//%w
+「いや、別に……」
+　
+　ついうっかり、そう返事をしてしまった後で、早苗の意図に気がついた。
+
+「また、例の洋楽漁りか？」
+
+　だいたい月に1度のペースで、
+　早苗は都内のめぼしい専門店を巡り歩いて、
+　輸入CDを大量に買い漁ってくる。
+
+　洋楽の歌詞の意訳を手伝わされるうち、話の流れに逆らえず、
+　早苗の買い付けに付き合わされたことが、過去にも何度かあった。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なによ陰気な顔して？」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もっと素直に喜びなさいよ。女の子連れで街を歩ける機会なんて、あんた、他にはないんだから」
+
+<BOX type="0">//%w
+「うるさい」
+
+「お前、いいのか？　試験の準備は」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それに専念するためにも、
+　明日1日で煩悩を解消しておく
+　必要があるのよ」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんただって、まさか律儀に明日から勉強始めるわけじゃないでしょ？　ね、付き合ってよ」
+
+<BOX type="0">//%w
+　どうしたものか……
+　試験はともあれ、今はそれどころではないのだが。
+
+　だがそこで、ふと感傷に囚われた。
+　日本の街を、のんびり散策する機会なんて、
+　あるとするなら明日が最後だ。
+
+　どのみち、{ヒロイン}が小樽から戻るまでは、
+　一人で何が出来るわけでもない。
+
+　用心という点で言うなら、単身で安アパートに立て籠もっているより、
+　いっそ人混みに紛れていた方が安心かもしれない。
+
+「まぁ、いいか」
+
+「で、何時から？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「1時に、駅で待ち合わせましょ」
+
+<BOX type="0">//%w
+「わかった」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left station_day wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mob2" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="station_day">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　午後1時……
+　待ち合わせの時間には余裕がある。
+
+　賑わう日曜の雑踏の中を、のんびりと、歩を進める。
+
+　そういえば……
+　せっかく日本に戻っておきながら、
+　こんな風に日常の光景に身を浸したことはなかった。
+
+　耳に届く喧噪が、日本語だという、ただそれだけで……
+　これほどに心が和むものだろうか。
+
+<bgm src="" mode="fadeout" time="40" loop="on">
+「……ん？」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ……！」
+
+<BOX type="0">//%w
+　どうして、ここに美緒が……？
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こ、こんにちは」
+
+<BUSTUP NAME="mio2" face="5" MODE="on" zoom="" ALIGN="right">//# mio2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　こちこちに固くなりながら、気まずそうに笑う美緒。
+
+　まさに奇遇、というところだが……
+　間が悪いことこの上ない。
+
+「どこか行くのかい？　これから」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はい、その……」
+
+「早苗ちゃんが、
+　映画に誘ってくれて」
+
+<BOX type="0">//%w
+　……なに？
+
+「で、早苗は？」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いま、ちょっとお手洗いに」
+
+<BOX type="0">//%w
+「……ああ、そう」
+
+<BUSTUP NAME="mio2" face="5" MODE="on" zoom="" ALIGN="right">//# mio2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの、{姓}さんは、
+　今日は……？」
+
+<BOX type="0">//%w
+「いや、俺も早苗に呼ばれたんだが」
+
+　美緒が来るというのも、映画の話も初耳だが、
+　まぁ、会ってから問い質せばいい。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left station_day wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mob2" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="station_day">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……遅いな」
+
+<BUSTUP NAME="mio2" face="4" MODE="on" zoom="" ALIGN="right">//# mio2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「遅いですよね」
+
+<BOX type="0">//%w
+　ここで待ち始めてから、かれこれ20分以上経つ。
+　いくら何でも妙だ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadeout" time="40" loop="on">//> left station_day wide 255
+<BOX type="0">//%w
+<se id="1" src="phoneCall" mode="normal" time="" loop="on" effect="">//!se phoneCall
+　携帯電話で呼び出してみる。
+　……が、繋がらない。
+
+　早苗が持っているのはPHSだから、
+　こんな繁華街なら、たとえ地下にいても繋がるはずだ。
+　それとも、電源を切っているのか……
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+「帰るか？」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え、でも……」
+
+<BOX type="0">//%w
+「どんな事情にしろ、
+　これだけ待たせたら、もう行き違いになっても怒りやしないさ」
+
+<BUSTUP NAME="mio2" face="4" MODE="on" zoom="" ALIGN="right">//# mio2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、私、
+　荷物を預かってるんです」
+
+<BOX type="0">//%w
+　そうは言うものの、美緒が手に携えているのは、
+　小さなハンドバッグがひとつだけだ。
+
+「……荷物？」
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ええ」
+
+<BOX type="0">//%w
+　早苗はハンドバックから、チケットの封筒を出す。
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これ、私が持ってろって」
+
+<BOX type="0">//%w
+「……」
+
+　どうやら、筋書きが見えてきた。
+
+　ただトイレに行くためだけに、
+　さして嵩張るわけでもない封筒ひとつを預けていくわけがない。
+
+「待つだけ、無駄だな」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え？」
+
+<BOX type="0">//%w
+「早苗は来ないよ。探しても無駄だ。……いや」
+
+　言葉を切って、苛立ち半分、呆れ半分に、周囲の雑踏を見渡す。
+
+「……ひょっとしたら、今もどこかから見張っているかもしれない」
+
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　お人好しの美緒も、ようやく奸計に気がついた様子だった。
+
+　待ちぼうけを食わされた二人。
+　手元には指定席のチケットが2枚。
+　あとは……美緒の一押しで決まり、か。
+
+　まるきり、やり手婆ぁの手口だが、
+　そこがいかにも早苗らしい。
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、あ、あ、あの……」
+
+<BOX type="0">//%w
+　途端に、狼狽も露わにどもりだす美緒。
+　まるで爆弾か何かのように、おっかなびっくりの手つきで、
+　封筒を差し上げる。
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これ……どうしましょう？」
+
+<BOX type="0">//%w
+　押しつけられたからといって、なにも無理に使う必要はない。
+　後日、早苗と会ったときに突っ返せば済むことだ。
+
+　だが……
+　いつぞやの放課後、
+　早苗にこっぴどく叱られていた美緒の様を思いだした。
+
+　ここで二人が別れたら、またも美緒は、
+　早苗に“失態”を責められる羽目になるんだろう。
+　美緒は美緒で、大きなお世話だと突っぱねてしまえばいいのだが、
+　それができる彼女ではない。
+
+　どうにも美緒が気の毒になってきた。
+
+「一緒に、行くかい？」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え……」
+
+<BOX type="0">//%w
+　結局のところ、これが一番穏便な解決だ。
+
+　とりあえず早苗の思惑通りに動いておけば、
+　あの世話焼き娘も難癖はつけまい。
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの……そんな……」
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……いいんですか？
+　お時間、頂いちゃって」
+
+<BOX type="0">//%w
+「せっかくだからね」
+
+　そういえば……
+　万が一の監視に備えて、美緒の側に貼りついていろと、
+　そんな指示を{ヒロイン}から受けてもいた。
+
+　必要以上に美緒を利用するのは気が引けていたので、
+　実行するつもりはなかったが……
+　期せずして、{ヒロイン}の指示に従う形になってしまった。
+
+　とはいえ、やはり、気が進まない。
+　後ろ暗い事情を、美緒は何一つ知らないというのに……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left coffeeshop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="coffeeshop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒照れ">//# schoolway2 1
+<BOX type="5">//%sR
+「今日は、本当に……御免なさい」
+
+<BOX type="0">//%w
+「いや、そんな」
+
+　早苗には文句のひとつもつけたいが、美緒が謝る筋合いではない。
+
+<se id="1" src="kitchen4" mode="normal" time="" loop="off" effect="">//!se kitchen4
+<CLEAR><BACKGROUND SRC="喫茶店美緒困惑">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「迷惑……ですよね？
+　私なんかに、
+　付きまとわれるのって」
+
+<BOX type="0">//%w
+「藤枝さんこそ、どこがいいんだ？
+　俺なんかの」
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="喫茶店美緒悲しみ">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　すぐには答えず、美緒は沈黙した。
+　……困らせてしまっただろうか。
+
+　だが、軽く俯いたまま、じっと前を見つめている美緒は、
+　返答に窮しているというより、
+　むしろ、うまく答えを表現できる言葉を探している風だった。
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒困惑2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}さんって、その、
+　何て言うか……」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒照れ2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不思議な人、ですから……」
+
+<BOX type="0">//%w
+「まぁ……帰国子女だしな」
+
+　困ったときの殺し文句は、これに尽きる。
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒通常">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、もう、日本に来てから随分たちますよね？」
+
+「江漣なんて、今はぜんぜん私たちと変わりませんよ」
+
+「たまに、本場の発音の英語を聞かされて、あ、そういえばって思い出すくらいですから」
+
+<BOX type="0">//%w
+「……」
+
+　彼女を引き合いに出されると、また違った意味で言葉に窮するのだが。
+
+「あいつは……ほら、場に馴染みやすいタチっていうか……」
+
+「俺なんかその点、まだ友達っていうほどの友達もいないし」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒驚き">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、早苗ちゃんは……」
+
+<BOX type="0">//%w
+「あいつにはオモチャにされてるだけだ」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒おびえ">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BOX type="0">//%w
+　美緒は困ったように言葉に詰まる。
+　そういえば、早苗は美緒の親友なわけだし、
+　あまり悪し様に言うのもまずい。
+　……いいように遊ばれているのは本当なんだが。
+
+「……そういえば、このまえ『性格的欠陥』を指摘されたよ。
+　大人ぶってて不愉快だって」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒驚き">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うわぁ……」
+
+「そんな言い方したんですか？
+　彼女」
+
+<BOX type="0">//%w
+　驚きつつも美緒は、さもありなん、という口振りだった。
+　きっと彼女も、何度か“指摘”を受けているんだろう。
+
+「藤枝さんも、そう思うかい？」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒困惑2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え？　いえ、そんな……」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒悲しみ">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}さんは、
+　多分……
+　ものの見方が違うんです」
+
+「いつも{姓}さんって、木とか、空とか……」
+
+「何でもないものを
+　眺めてるだけなのに、
+　ものすごく感動してますよね？」
+
+<BOX type="0">//%w
+「……」
+
+　そんな場面を、観察されていたんだろうか。
+　まるで気がつかなかった。
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒通常">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私には、
+　何の変哲もない景色でも」
+
+「それが{姓}さんの目には、まるで違って見えてるんじゃないかな、って」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒照れ2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だから、{姓}さんのこと見てると……」
+
+「どんな事にも意味があるんだって
+　そんな風に思えるんです」
+
+「つまらなく思えたり、
+　飽き飽きするような事でも……」
+
+「本当はとっても素晴らしい意味があって、ただ、誰も気付かないだけなんじゃないかって」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒困惑">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ごめんなさい。
+　勝手な思い込みですよね」
+
+<BOX type="0">//%w
+「いいや……」
+
+　口を衝いて、言葉が出た。
+
+「ここは確かに、素晴らしい場所だよ」
+
+<CLEAR><BACKGROUND SRC="coffeeshop">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　死ぬ必要も、殺す必要もない。
+
+　誰かを騙し、陥れ、すべてを奪い尽くしてまで……
+　そうまでして戦う必要もない。
+
+　ただ、眠るだけで、明日が来る。
+
+　生き残りを賭けて戦って、勝ち取って……
+　そんなことを繰り返さなくても、いい。
+
+　明日もまた生きる。
+　それがまるで当然のように、誰もかもに許されている。
+
+　ここはまるで、天国だ。
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒通常">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　はたと、美緒の視線に気がついた。
+
+<BOX type="5">//%sR
+「やっぱり、不思議です。
+　{姓}さんって」
+
+<BOX type="0">//%w
+　この子は……
+　どうあっても、巻き込みたくない。
+
+　美緒の無垢で優しい笑顔を見て、改めて切に思った。
+
+<A HREF="3310.txt" OPERATOR="">//~ 3310
+
+
+
+
+
+
+
+
+
+
+
+
+0
+<BOX type="0">//%w
+　そんな会話で、
+　気持ちが緩んでいたからだろうか。
+
+<A HREF="3310.txt" OPERATOR="">//~ 3310

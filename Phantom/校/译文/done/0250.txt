@@ -1,0 +1,432 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left fieldWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="fieldWay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　太阳落山的时候，我们穿过了约塞米蒂的自然公园。
+
+　淡季的观光地，就像是被遗忘了一样，十分冷清。
+
+　从刚才开始，我和Ein之间一直都没有什么交谈。
+
+　Ein在想什么呢？
+  还是在担心着赛斯吗？。
+
+　虽然我们已经共同生活了几个月，
+  可是在这段时间中，
+  别扭、客气，这样的情感彼此都从未有过。
+
+　我们两人从未将对方看做是有血有肉的人类，对自己也是一样。
+  彼此都只是全心全意地扮演着庞大组织中的一个齿轮而已。
+
+　不过说实话，我们之间的关系没准还是有机会变得融洽的。
+  毕竟这会是场漫长的旅行……
+
+“不，说不定会意想不到地过早结束哦”
+
+　……我摇了摇头，打消这些自嘲的话语。
+　
+　一定要活下去……自己不是已经这样决定了吗。
+
+<CLEAR><BACKGROUND SRC="fieldWay2">//# fieldWay2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「感觉怎么样？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　Ein没有回答。
+  本来我以为她只是不愿意回答而已，
+  可是当我转头看向她时，才发现她的脸色很差。
+
+　果然，在车上没办法好好休息。
+
+　虽然我还想连夜赶路，
+  可是对受伤的人来说，这样会受不了的。
+
+　那么就在前面的汽车旅馆里休息一个晚上吧。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+//> left motel2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　汽车旅馆里有很多空房间，
+  不过我还是选择了一间便宜的卧室。
+
+如果使用信用卡之类的东西，就等于在告诉组织我们所处的位置。
+另一方面，我们身上带的现金又不多。
+
+　所以在搞到逃亡资金之前，我们必须要尽可能节省费用。
+
+//> left motel wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「唔，有点挤，你忍耐一下吧」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Ein环顾了一下房间，没有任何表示。
+
+<BOX type="5">//%sR
+「我要擦一下身体」
+
+<BOX type="0">//%w
+「嗯？　啊」
+
+　是啊，现在淋浴的话会妨碍伤口的。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　意识到这点，我把准备好的毛巾扔给她，
+  可是Ein没有动，只是看着我。
+
+「……？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我想把衣服脱掉」
+
+<BOX type="0">//%w
+「……啊，对不起」
+
+　我讪讪地走出了房间。
+
+//> left motel3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　总之还是先找点东西来解渴吧
+
+　这样想着，我开始到处找起自动贩卖机来。
+  这时，我突然想到。
+
+
+　从前Ein在我面前全裸的时候，
+  明明一次都没有害羞过。
+
+　她也意外地有可爱的一面啊。
+
+　……。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　……意外过头了吧？
+
+　伴随着直觉带来的警报，
+<se id="1" src="楁擇憱傝4" mode="normal" time="" loop="off" effect="">//
+　我发疯一样地跑回房间。
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="0">
+<CLEAR><BACKGROUND SRC="傾僀儞巰偵偨偄">//#! motel 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一脚踹开廉价的门锁冲了进去。
+  屋子里，Ein正坐在床尾，
+  出神地看着手中的剃须刀片。
+
+<CLEAR><BACKGROUND SRC="motel">//#! motel 1
+<WIPE EFFECT="fade" TIME="0">
+　我不由分说地夺下了她手中的刀片。
+  她没有任何抵抗。
+
+「……你想干什么啊？」
+
+　好像是放弃了，又好像在怜惜着什么……
+  Ein嘴角闪过一丝无力的微笑
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「果然不行啊」
+
+「对别人下手时什么问题都没有」
+
+「可是对自己下手，真的很害怕啊」
+
+<BOX type="0">//%w
+「……Ein，你……」
+
+<BUSTUP NAME="elen1" face="8" MODE="on" zoom="" ALIGN="right">//# elen1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我已经厌倦了，已经累了」
+
+「所以，拜托你」
+
+「{名}，
+　用你的手让我解脱吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<BOX type="0">//%w
+　我反应过来的时候，自己的耳光已经打了出去。
+
+「……你太任性了吧」
+
+「为什么这么想死？」
+
+「我可是不想让你死啊？
+  我做了这么多傻事，都是想让你活下去啊！」
+
+「……你这样做，我的努力不就白费了吗？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「说起来很容易啊，
+  活下去这种事」
+
+<BOX type="0">//%w
+　被打了耳光的Ein没有感觉似地反问道。
+
+<BOX type="5">//%sR
+「我和你都在被Inferno追杀」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果现在Inferno的人追到这里来的话，我们怎么办？」
+
+「你打算向他们跪地求饶吗？」
+
+<BOX type="0">//%w
+「……」
+　
+　一瞬之间，我无言以对。
+
+这不是盲点。
+ 如果说我从没考虑过这个问题，那是假话。
+只不过，我不愿正视它而已。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　被发现的话就逃吗？
+　还是说，默默地任由他们处置吗？
+
+　不……我要战斗。
+  为了活下去。
+
+　但是，这不是为了谁的命令，
+  我是为了保护自己才去杀人。
+
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我抚摸着插在怀中的手枪的枪把。
+  那份重量，似乎在询问着我。
+
+　要拔枪吗？
+　还要射击吗？
+
+不再是作为杀手的Zwei。
+名为{姓}{名}的自己……还能杀掉活生生的人吗？
+
+　到那个时候，自己的双手就会真真正正地被鲜血染红。
+
+　是的。
+  虽然是被逼无奈，
+  可是实际上，我还没有越过最后的底线
+
+　我还从来没有凭自己的意志杀过人。
+
+　可是……
+
+<CLEAR><BACKGROUND SRC="motel">//# motel 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「做得到」
+
+　我冷静地这样告诉Ein。
+
+「下一次射击的时候……我会以自己的意志扣动扳机」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen1" face="8" MODE="on" zoom="" ALIGN="right">//# elen1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　打破了沉默的，是Ein的叹息
+
+<BOX type="5">//%sR
+「……你真坚强啊，{名}」
+
+「昨天之前，我都只把你当作是Zwei」
+
+<BOX type="0">//%w
+　那是一张带着些许哀伤的微笑面孔。
+
+　Ein的目光中，已经没有那份尖锐与顽固了。
+
+　可是，那就是她眼中的一切。
+
+　失去了那样锐利的眼神，Ein的眼中就什么都没有了，
+  现在，她的双眼是如此的空虚。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="5">//%sR
+「为什么，你为了活下去能做到这种地步？」
+
+「你要我也像你一样活下去吗？」
+
+<BOX type="0">//%w
+「……你不愿意吗？」
+
+<BUSTUP NAME="elen1" face="9" MODE="on" zoom="" ALIGN="right">//# elen1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是当然的啊!!」
+
+<BOX type="0">//%w
+　悲痛的叫声，将冷静的假面从里侧撕破。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　早应干涸了的眼角里，渗出了一滴眼泪。
+
+　那个Ein……
+  那个不管什么时候都格外冷静的女孩……
+
+　只因为一句话，就失去了控制。
+
+「……Ein，你怎么了？」
+
+　我不明白。
+
+　她的心是那么的坚强、冷静……
+
+　不管什么时候，她都不会犹豫，赴汤蹈火在所不惜，
+  可是现在……
+
+「你不是比我更坚强的人吗……」
+
+<BOX type="5">//%sR
+「你是不会明白的」
+
+<BOX type="0">//%w
+　虽然她极力想抑制住自己的声音，但是没有任何效果。
+
+<BOX type="5">//%sR
+「你当然是没有关系了。
+  已经知道了自己是谁」
+
+「又有了自己的信念。
+  什么都不会再失去了」
+
+「可是我呢？舍弃组织，背叛主人……现在的我又算什么呢？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「只有当我是Ein的时候，
+  我才能忍耐住所有的事情」
+
+「不会迷惘，不必沉思」
+
+「只要照着主人所期望的去做就好」
+
+「所以，我可以始终保持平静」
+
+「不会感到恐惧，不会感到痛苦，什么都不会感觉得到」
+
+<BUSTUP NAME="elen1" face="0" MODE="on" zoom="" ALIGN="right">//# elen1^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「就像这样……直到永远。
+　作为主人的Ein而活，
+　作为主人的Ein而死」
+
+「今天早上的时候，还来得及」
+
+「如果那时没有逃走的话，
+  我还可以作为Ein而死」
+
+<BOX type="0">//%w
+　伴随着眼泪，她的真实想法从纤细的喉咙里慢慢地吐露了出来。
+  那里包含着少女的所有秘密。
+
+　她并不坚强。
+  并不是什么都感觉不到。
+
+　不管遇到多大的挫折，她都只是默默地一个人承受。
+
+　痛苦、恐惧、悲哀、绝望……
+  她背负着所有的一切，将它们掩藏在身体中。
+
+　只有把自己当成木偶，才能不断地自欺欺人。
+
+　这才是她的那份坚强的本来面目吧。
+
+　可是，这已经行不通了。
+
+　离开了赛斯的指令，现在的她已经不是Ein了。
+
+<BOX type="5">//%sR
+「……现在的我，
+  如果手里不握着枪就睡不着觉」
+
+「如果在梦中碰到过去被我杀掉的人，我根本没法为自己辩解」
+
+「大家肯定都会问我，
+ “你为什么要杀我，
+   为什么你现在还活着”」
+
+「可是，我却已经无法回答了」
+
+「因为，我已经谁都不是了」
+
+「已经没有活下去的理由，也没有任何用处了」
+
+<BOX type="0">//%w
+<CHOICE HREF="0260.txt" TEXT="＊安慰她" OPERATOR=""></A>//{ ＊慰める 0260 ＊そっとしておく 0260b 
+<CHOICE HREF="0260b.txt" TEXT="＊让她自己静一静" OPERATOR=""></A>//{ ＊慰める 0260 ＊そっとしておく 0260b 

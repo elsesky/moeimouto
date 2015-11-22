@@ -1,0 +1,295 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……话说回来，在这种地方碰头总归不太好吧。
+　她有什么事必须要当面说吗？
+
+<CLEAR><BACKGROUND SRC="bay9">//# bay9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　为了寻找莉兹的身影，我环视了一下四周，
+　发现她的Viper停在不远处的阴影里。
+
+<CLEAR><BACKGROUND SRC="bay9d">//# bay9d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「喂，莉兹？」
+
+　我边走边打招呼，可是没有回应。
+
+　……怎么回事？
+
+<CLEAR><BACKGROUND SRC="bay9c">//# bay9c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　就在我感觉有些奇怪的时候，Viper的前灯突然亮了起来，照在了我的脸上。
+
+　正当我抬起手挡住眼睛的时候……
+
+<BOX type="5">//%sR
+「很好，就这样不要动，把手举起来」
+
+<BOX type="0">//%w
+　从灯光中传出了听上去很熟悉的粗鲁的声音。
+
+　不是……莉兹？
+
+<se id="1" src="幵偺僪傾奐偗傞" mode="normal" loop="off">
+　这时，从Viper的副驾驶席上走下了一个比莉兹强壮许多的身影。
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　那是……梧桐大辅。
+
+　虽然听说他还在洛杉矶，可是为什么会出现在这里？
+
+<se id="1" src="廤抍憱傝1" mode="normal" loop="off">
+
+　随即，从Viper后面的阴影里，持枪的男人一个接一个地跑了出来。
+　是在之前的会谈中，梧桐大辅带到洛杉矶的梧桐组成员们……
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹也在。
+  她正双手抱头，被两个男人用枪押着。
+
+<BOX type="4">//%sL
+「……抱歉啊」
+
+「我总是拖你的后腿」
+
+<BOX type="0">//%w
+　虽然我完全不了解眼下的状况，不过很明显，自己目前的处境十分危险。
+
+<CLEAR><BACKGROUND SRC="bay3">//# godo^3 20 dummy 19 bay3 1
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19 bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我可是听说了哦，小鬼，你就是那个Phantom吧」
+
+「难怪我那些年轻的兄弟这么轻易就被干掉了」
+
+<BOX type="0">//%w
+「……你说什么？」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不用再演戏了，我已经看够了」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我可是拿着你的精彩剧照哦……自己看吧」
+
+<BOX type="0">//%w
+　梧桐大辅像扔飞盘一样，将一个信封刷地一下丢了过来。
+
+　信封中装着两张四开大小的打印照片……
+
+<clear>
+<BACKGROUND SRC="幨恀">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　看到照片上的内容，我不禁大吃一惊。
+
+　一张是在拉斯维加斯时，我发现了室户的尸体，拿起应该是凶器的剃刀的瞬间。
+
+　另一张则是在洛杉矶时代杂志编辑部大楼楼顶上，我听到神秘枪声后，用狙击镜向伯纳海滩酒店窥视的瞬间。
+
+　被偷拍我就已经很惊讶了，更没想到的是竟然会被人拍到这种场面。
+
+　看到这个，梧桐组的人不发飙就怪了。
+
+<CLEAR><BACKGROUND SRC="bay3">//
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「说些什么啊，喂？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　被陷害了。
+
+　这两张照片，很明显是为了诬陷我才拍的。
+
+　可是，是谁呢？
+　……应该真正的犯人的同伙吧。
+
+　这一点毫无疑问。
+
+　看来敌人并不是维斯梅尔。杀害梧桐组的另有其人。
+
+「梧桐先生，这是误会。这两张照片是……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在你丑态毕露之前还是听我说吧」
+
+「我早就知道这是上头要你干的了」
+
+「我们只是想找到黑幕而已」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们受的3次袭击都是克劳蒂娅指使的」
+
+「……没错吧？」
+
+<BOX type="0">//%w
+「不是的!!」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　依然不明白事情来龙去脉的莉兹，也对梧桐大辅的话大吃一惊。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「没搞错吧!?」
+
+「你以为克劳蒂娅为了让你们加入Inferno费了多少心思啊!!」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　梧桐大辅只是冷笑了一下。
+
+　不行了。
+　虽然梧桐大辅看起来是很冷静地在说话，可实际上，他的情绪已经完全失去了控制。
+  我们根本没法好好交谈。
+
+　话说回来，一直在他身边的参谋志贺去哪里了？
+  他在的话，说不定还可以好好谈谈……
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然我并不讨厌所谓的忠义心」
+
+「不过，那女人可不是值得你们效忠到如此地步的人啊」
+
+「我们都被耍了啊」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「少胡说八道了!!」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，这位黑人小姐。我们不是第一次在这里见面了吧」
+
+「不记得了吗？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听到梧桐大辅这样奇怪的话语，莉兹一脸的狐疑。
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那可是个值得回忆的夜晚哦。
+　对了……到现在都快1年了吧」
+
+<BOX type="0">//%w
+　1年前……在那个晚上的洛杉矶港口？
+
+　突然间，我被一连串的联想惊呆了。
+
+　没错，大概在1年前，神秘集团袭击了Inferno的秘密货船、{ヒロイン}和莉兹的同伙发生冲突的那个晚上……
+
+「……原来是你们？」
+
+「是你们跟赛斯联手……」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我可不认识什么赛斯」
+
+「安排这事的可是克劳蒂娅啊」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什……」
+
+<BOX type="0">//%w
+　他说……什么？
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在毒品流通被中国黑帮控制、我们已经走投无路的时候，那女人突然跑来跟我们磋商」
+
+「让我们抢到了500公斤的可卡因。她不但做好了事前的准备，还派人掩护我们……」
+
+「然后，就在洛杉矶发生了那场大暴乱」
+
+<BOX type="0">//%w
+「为什么……」
+
+「为什么她要这么做……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「条件是等这事平息以后，梧桐组要通过她的介绍加盟Inferno」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然我们最初也不知所措，但在知道那个女人的立场以后还是同意了」
+
+「那个女人想在Inferno里拥有能当自己后盾的集团」
+
+「如果一直独来独往，那她一辈子都不可能出人头地」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们以前从别的地方购入毒品，那都是胡说的」
+
+「梧桐组的毒品市场，是拜你们的可卡因所赐，在这1年里建立起来的」
+
+<BOX type="0">//%w
+「那，赛斯……」
+
+<BOX type="5">//%sR
+「哦，说起来，有个呆子在那起事件里受到了牵连呢」
+
+「就是那个家伙吗？你们说的赛斯」
+
+<A HREF="1430.txt" OPERATOR="1285b=1">//~ 1430
+<A HREF="1430.txt" OPERATOR="1280b=1">//~ 1430
+<A HREF="1440.txt" OPERATOR="">//~ 1440

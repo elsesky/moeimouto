@@ -1,0 +1,247 @@
+　名为Ein的那个女孩子……
+
+<CLEAR><BACKGROUND SRC="0010p2">//# 0010p2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　她应该是真正的杀手吧。
+　拿刀时的那种气势，不带丝毫迟疑的动作……
+　只是想一想背后就生出一股寒意。
+
+　从她那种轻车熟路的架势来看，
+　这个女孩一定已经杀了许多人吧。
+
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　回想起那双冰冷深邃而又清澈的眼睛。
+　那个时候，为什么她的目光让人感到如此的悲伤……
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　杀人的时候，会是什么样的感觉呢……
+　自己无法想象，也不愿去想象。
+　但是能做这种事的人，一定是相当无情的吧。
+
+　那么Ein呢，她也是如此残酷无情的性格么？
+　……我不知道。
+　但是那时，自己的确看到了，
+  那个女孩仿佛在哀悼着什么的、悲戚的眼神。
+
+<CLEAR><BACKGROUND SRC="0020p1">//# 0020p1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　话说回来，她曾经这么说过……
+『只有去杀人，自己才能活下来』……
+　这究竟是什么意思？
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　想的越深，自己的好奇心就变得越重。
+　她究竟是个怎样的人呢？
+　为什么会成为杀手呢？
+
+　从现在起，
+　就要暂时和她一起在这座废工厂里生活了。
+　在这期间，由她来负责把我训练成杀手的吧。
+　既然如此，那么有些事就不得不考虑。
+
+　照她所说，想要活下去，就必须成为杀手吧。
+　但是为此而夺去别人的性命，
+　这样的事自己真的做得到吗……
+
+　说实话，自己也不知道。
+
+　明天早上，还是和Ein试着谈谈吧。
+　要变成她那样的人的话，还是先对她有所了解才好。
+　……就这样决定吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left field wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+拂晓时分，Ein乘车归来。 与Ein一同下车的两名身着深色西服的男子，正在从后备箱中取出各式各样的行李。大概是为了在这座废弃工厂中生活所必须的器材吧。
+
+//> left factory wide 255 elen1 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　双目相对，Ein就这样用沉默催促我作出回应。
+
+　对于即将开始的新的生活，接受，还是拒绝……
+　这是我必须回答的问题。
+
+「问几个问题，可以吗？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我并没有什么能够回答你的」
+
+<BOX type="0">//%w
+　她大概也想到了我会有很多问题吧。
+　那是当然，如果问题够多的话，就算没什么可回答，
+　自己总归能够或多或少的知道一些什么吧。
+
+「说明什么的就不必了」
+
+「我想知道的，是关于你的事」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……关于我的事？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　有一瞬间，Ein的脸上显出了诧异的表情，
+　但是马上又恢复到之前的样子。
+
+「你也是日本人吗？」
+
+<BOX type="5">//%sR
+「为什么这么说？」
+
+<BOX type="0">//%w
+「……这是因为，你看，我们两个都在讲日语不是么」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大概……不是这样的吧。」
+
+「日语是我后来才学到的」
+
+<BOX type="0">//%w
+　大概……？
+　我对Ein的话有些在意。
+
+「“大概”是什么意思？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为，我也没有过去的记忆」
+
+<BOX type="0">//%w
+　听到Ein淡淡地说出这句话，
+　我仿佛感到连时间都停止了。
+
+「你说……什么？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说过的吧。
+　你和我是一样的」
+
+「我也是被消除了记忆后才成为杀手的」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我是主人第一个制作成功的实验体，所以叫Ein」
+
+<BOX type="0">//%w
+　这么说来，之前好像听说过。
+　Ein不就是德语中的数字“1”么。
+　那么数字“2”就是……“Zwei”。
+
+　这个女孩……也是和我一样的境遇吗？
+
+「……这样说的话，你是什么时候被……？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「两年前，那还是在主人加入“Inferno”之前的事呢。」
+
+<BOX type="0">//%w
+「很痛苦吗？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不会啊……」
+
+<BOX type="0">//%w
+　Ein的语气非常平静。
+　难道说被夺走记忆这种事，自己已经不在意了吗。
+　还是说……两年的时光，已经让她忘记痛苦了么。
+
+「我可是……很痛苦啊」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样的感觉，我已经忘记了」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在的我，仅仅是活在当下这个瞬间的杀手而已」
+
+「对我来说，过去的事也好，将来的事也好，都不再有任何意义。
+  记忆什么的，是不必要的」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没关系的。
+　很快，你也会变得什么都感受不到，
+　连考虑这些的时间都没有」
+
+<BOX type="0">//%w
+  重新再好好地想一想。她究竟是个怎样的人呢。
+  她在想什么，相信着什么，
+  她到底见到过什么，有过什么样的遭遇……
+
+  但是，从她毫无表情的侧脸上，我什么都窥测不出。
+
+　尽管如此，我依旧注视着Ein……看来只有接受她的训练了。
+　处在和我一样的境遇下，这个女孩已经撑过了两年时间。
+　纵使自己不能理解她的想法，至少可以模仿她去做。
+
+　这样的话、
+　或许自己也可以变得像她一样强吧。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「换上这个吧」
+
+<BOX type="0">//%w
+  Ein递过来的，是无袖运动衫和用发硬的布料制成的野战服短裤。
+
+<BOX type="5">//%sR
+「从今天开始，二十四小时你都要和我一起，我的指示要全部服从，明白了吗」
+
+<BOX type="0">//%w
+「嗯……」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那么，开始吧」
+
+<CALC WORKNAME="0030c" OPERATOR="1">//
+<A HREF="0040.txt" OPERATOR="">//~ 0040

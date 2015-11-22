@@ -1,0 +1,47 @@
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……」
+
+<BOX type="0">//%w
+　听到身后传来细小的、怯怯的声音，我才注意到美绪的存在。
+
+「哎？啊」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她的微笑中透出一丝寂寞……大概是因为我直到刚才都没能注意到她吧。
+　难道说，她一直都待在这个走廊里吗？
+
+「抱歉，刚才有点太着急了……」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对、对不起」
+
+「很忙……吗？」
+
+<BOX type="0">//%w
+　没有必要因为打招呼而道歉吧。
+
+「不是的，没什么要紧的事……」
+
+「只是有点饿了。
+  你看，不快点的话就买不到了」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……是这样啊」
+
+<BOX type="0">//%w
+　美绪依旧是一副怯生生的样子，仿佛被胆怯和紧张束缚住了一样。
+
+<A HREF="#慖戰巿" OPERATOR="1450b=1">
+<A HREF="#慖戰巿" OPERATOR="1330=1">
+<A HREF="3190.txt" OPERATOR="">//~ 3190
+<MARKER NAME="#慖戰巿">
+<CHOICE HREF="3185.txt" TEXT="＊马上去食堂" OPERATOR=""></A>//{ ＊すぐ学食に行く 3185 ＊しばらく美緒と話す 3190
+<CHOICE HREF="3190.txt" TEXT="＊再和美绪聊聊" OPERATOR=""></A>//{ ＊すぐ学食に行く 3185 ＊しばらく美緒と話す 3190

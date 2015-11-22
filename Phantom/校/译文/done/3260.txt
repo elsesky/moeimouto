@@ -1,0 +1,353 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right yakuza wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="yakuza">//
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「大哥，有您的电话」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯？这个时间，会是谁呢？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这个……」
+
+「他自称是“克劳蒂娅的心腹”」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……接过来」
+
+<BOX type="2">//%w
+　压制着内心的不安，志贺拿起了话筒。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……2年不见了啊，志贺透』
+
+<BOX type="3">//%m
+　对方的声音惊人地年轻，而且透出一种极其冰冷的压迫感。
+
+　流畅的日本语……这肯定是他的母语。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是谁？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『我已经自我介绍过了吧』
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　2年前……
+　克劳蒂娅·麦肯宁……
+　总是跟在她身边的东洋小鬼……
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　杀手……Phantom。
+
+听说自从他逃跑后，Inferno一直在全力追捕他。
+事到如今，这个Phantom还想干什么？
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『这可不是国际电话哦。
+　和你一样，我们现在也在日本』
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那又如何……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『顺便说一句，我们现在的身份是蓧仓学院的学生』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　不安的感觉像丛云一样，在志贺的胸中一点一点扩散开来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『再说一句，我们和藤枝美绪是非常亲密的朋友』
+
+『你应该也知道的吧，那孩子是梧桐海典的女儿』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你这家伙」
+
+<BOX type="2">//%w
+　志贺自己也发觉了……自己拿着话筒的手正在颤抖。
+
+<BOX type="5">//%sR
+「……你自己也知道吧？
+　你们已经触犯到了不可触犯的东西」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『放心吧。再过一周我们就会离开日本』
+
+『只要我们没出事的话，就不会对美绪出手』
+
+『……只要没出事的话』
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么意思？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『现在，Inferno的杀手正在追杀我们』
+
+『阻止他们，志贺透。你必须要限制在日本的Inferno』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　这么说来……
+
+直到现在还不打算离开日本的赛斯和莉兹。
+还有，那个坏脾气的金发女子……据说她是Phantom的袭名者。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『别忘了，我们是两个人。
+无论何时总会有一个人待在藤枝美绪的身边』
+
+『如果我们中的一个死了，另一个就会将美绪杀死』
+
+『被枪杀也好，遭到事故也好。
+　只要一个人死了，另一个人就会动手。明白了吗？』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「等一下……」
+
+<BOX type="2">//%w
+　志贺想起在横滨中华街的那场大屠杀。
+
+　这可不是开玩笑。
+　梧桐家不是军队，根本不可能阻止那些乱来的家伙。
+
+　可是，仿佛没有听到志贺的抗议一般，电话的那一头继续无情地说道。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『此外，要是你的手下被我们发现的话……』
+
+『我们就会将美绪监禁起来，把一切都告诉她』
+
+『告诉她究竟是因为谁的缘故她才会遭此不幸……而且，在我们离开日本以前，她都会一直被当成人质』
+
+『就这些了。
+不是什么复杂的条件，你应该能明白吧？』
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　冷静下来，现在即使慌乱也是于事无补……志贺这样告诫自己。
+
+<BOX type="5">//%sR
+「Inferno的肆意妄为与我们无关」
+
+「为什么要让我们梧桐组去阻止他们？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『为什么……』
+
+　话筒中传出令人毛骨悚然的笑声。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『大概是为了美绪小姐平安无事吧』
+
+『真是个可爱的小姑娘。如果可能的话，我们真舍不得把她杀掉』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　这家伙已经疯了……志贺这样确信着。
+
+由于Inferno来到日本，这小子已经被逼的走投无路了吧。
+他就像受伤的野兽一样，要是不小心刺激了他，不知道他会做出什么事来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『你就好好尽力吧，志贺透』
+
+『我曾经也是被称作Phantom的男人。
+还是不要期待我会手下留情的好』
+
+<se id="1" src="揹榖愗傜傟傞" mode="normal" loop="off">
+<wait time="500">
+<se id="2" src="tootoo" mode="normal" loop="off">
+<BOX type="3">//%m
+　接着，在一阵瘆人的笑声中，电话被突然挂断了。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可恶!!」
+<se id="2" src="" mode="fadeout" time="1">
+
+<BOX type="2">//%w
+　由于内心的焦躁，
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　志贺将话筒狠狠摔到座机上。
+
+　藤枝美緒……
+
+　他不应该知道梧桐组的电话……
+　他不应该知道……这个名字……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　放下电话，我长出了一口气，将紧绷的神经放松下来。
+
+「……这样就可以了吧？」
+
+<BUSTUP NAME="elen7" face="8" MODE="on" zoom="" ALIGN="right">//# elen7^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你也变成演员了呢」
+
+<BOX type="0">//%w
+「跟你可没法比」
+
+　虽然声音中充满了威胁与恫吓，可我的双膝自始至终都在颤抖着。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　今天的电话如果真的能对志贺起到威胁的效果……
+　接下来，就只能将一切都寄托在他对Inferno的影响力上了……
+
+　尽早离开日本的话，就没事了。
+
+　虽然明知道是为了配合计划的进行，但自己还是一点都不想实施威胁。
+
+　当这一切全都结束的时候，美绪应该不会有任何变化吧。
+
+　她应该会对此一无所知、继续自己的校园生活吧。
+　她的密友与心上人的命运……或许是失踪，或许是猝死……
+　不管哪一个，都会让心地善良的她深深地感到悲伤吧。
+
+　但即便如此，也比让她知道全部真相要好得多。
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我现在要立刻去一趟小樽」
+
+
+（注：小樽，日本地名，位于北海道石狩湾附近）
+
+<BOX type="0">//%w
+「……怎么了，这么急」
+
+<BOX type="5">//%sR
+「我要去进行直接的交涉」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有一艘偷运日本车的俄罗斯货船。只要给他们钱，就可以让我们偷渡到俄罗斯去」
+
+「昨天我已经和船长的代理人取得了联系，交涉在本周末进行」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「下一班船会在下下周过来……顺利的话，我们就能乘上那艘船」
+
+<BOX type="0">//%w
+「你一个人没问题吗？」
+
+　虽然他们是我们的救命稻草。但在见到对方之前，我们也只知道他们是身份不明的罪犯。
+  这并非普通的商业谈判，我不可能不担心。
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你待在美绪身边吧」
+
+「为了扭转被胁迫的处境，志贺说不定会采取行动」
+
+「你必须要让他看到自己和美绪在一起」
+
+<BOX type="0">//%w
+「志贺会……采取行动？」
+
+　我刚刚才威胁过他不要出现在我们面前……难道他会如此轻率地行动吗。
+
+<BOX type="5">//%sR
+「还是小心点好，对吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我明后天晚上就会回来。
+明天一天事情就能搞定，你先做好准备吧」
+
+<A HREF="3270.txt" OPERATOR="">//~ 3270

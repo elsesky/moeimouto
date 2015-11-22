@@ -1,0 +1,265 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school2c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="school2c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　夕闇の残照も、ついに消えた。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　宵闇の中、
+　朧な影になってそそり立つ
+　校舎を見上げながら、
+　志賀は一人、歯噛みする。
+
+　ツヴァイ＝ファントム、
+　{姓}{名}……
+　思い返すだけでも
+　呪わしい名前だった。
+
+　2年前、あのクロウディア＝マッキェネンの手先となって、次々と仲間を葬っていった暗殺者。
+
+　あのとき、もう少し早く奴の化けの皮を剥いでいれば……
+　梧桐大輔を守り抜く策は、まだいくらでもあっただろうに。
+
+　それが叶わなかったばかりに、
+　志賀は、すべてを
+　切り捨てる羽目になった。
+
+　あんな小僧一人を
+　持て余したばかりに……
+
+　たしかに志賀は組を守り、期せずして若頭の座まで手に入れていた。
+　胸の内に信じたもの、誓ったもの、尊かったすべてのものと引き替えに。
+
+　そんな志賀の中に、今日まで残っていたものは、たったひとつの約束だった。
+
+“あの人に代わって、
+　美緒を守る……”
+
+　だが、それすらも打ち砕かれた。
+　2年前と同じ、あの男に。
+
+　死んだ大輔との誓いに賭けて、
+　幸せにする筈だった少女。
+　だが彼女は、死神に魅入られた。
+
+　礼拝堂での顛末を振り返るたび、志賀の胸を痛恨の想いが焼く。
+
+　なぜ、聞き届けてくれない？
+　騙され、利用されているだけだと……
+　声を涸らして言った筈なのに。
+
+　志賀を苛む無力感と、
+　やり場のない怒りは、
+　2年前の夜と同じだった。
+
+　梧桐大輔を、
+　その手で殺めた、あの夜と。
+
+　血気に逸る舎弟たちは、
+　背後で出番を待っている。
+
+　志賀の一声で、みな一斉に校舎の中へと雪崩れ込むだろう。
+
+　礼拝堂では手痛い反撃を被ったが、それでもまだこちらの手勢は、10人を下らない。
+
+　かたやツヴァイは、
+　もう相当に消耗しているだろう。
+　数で圧倒すれば充分に勝てる。
+
+　だが……
+　美緒は依然、奴の手の内だ。
+
+　どうすればいい？
+　どうやって、美緒を救い出す？
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「即断あるのみですぞ。
+　ミスタ志賀」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……サイス!?」
+
+<BOX type="2">//%w
+　志賀は目を疑った。
+　なぜ、この男が……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　しかもサイスは、
+　独自に手勢を引き連れていた。
+
+<CLEAR><BACKGROUND SRC="3570x1">//# 3570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　まるで人形の隊列のように、
+　不気味なほどの統制で
+　整列した少女たち……
+
+　顔には謝肉祭の仮面を被り、
+　手には見るからに凶悪な
+　軍用の自動小銃を携えている。
+
+<CLEAR><BACKGROUND SRC="school2c">//# siga^3 20 school4c 1
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 school4c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　奴もまた、ツヴァイを監視し続けていたんだろうか。
+　だが、だとしたら何故、なぜ今頃になって？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いったい何を
+　躊躇しておられるのです？
+　仇敵は目前ではありませんか」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やつは人質をとってるんだ。
+　迂闊には……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　サイスは冷ややかな失笑で、
+　志賀の言葉を一蹴した。
+
+<BOX type="4">//%sL
+「人質とは異なことを」
+
+「あの少女は自ら進んでツヴァイの逃亡を幇助したではありませんか」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……それは……」
+
+<BOX type="2">//%w
+　こいつ、成り行きをすべて
+　見守っていたのか……
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「彼女は彼女自身の意志で、
+梧桐組、ひいてはインフェルノに
+敵意を表明した」
+
+「ならば彼女も、今となっては、
+　排除すべき障害でしかない。
+　違いますかな」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ふざけるな!!」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　志賀の剣幕に、
+　呆れ果てたとばかり、
+　かぶりを振るサイス。
+
+<BOX type="4">//%sL
+「……嘆かわしい。
+　まったくもって嘆かわしい」
+
+「天下の梧桐組若頭が、いったい
+　いつまで、女学生の恋愛劇に
+　振り回されるおつもりか？」
+
+<se id="1" src="指を鳴らす" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　サイスが指を鳴らすと、
+　後ろに控えていた少女たちが、
+　一斉に進み出る。
+
+<BOX type="4">//%sL
+「もう結構です。
+　あとは我々に任せて、
+　あなた達は舞台を降りなさい」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「な、何をする気だ!?」
+
+<CLEAR><BACKGROUND SRC="3570x1">//# 3570x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　カラシニコフの銃身の、
+　冷たく禍々しい輝きが、
+　志賀の背筋を凍らせる。
+
+　もはや何を言っても通じない……
+　たちどころに志賀は、これ以上の交渉が無益なのを知った。
+
+　即座に志賀は、指示を待っていた舎弟たちを一喝する。
+
+<CLEAR><BACKGROUND SRC="school2c">//# siga3^3 20 dummy 19 school4c 1
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19 school4c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「止めろ!　こいつらを止めろ!!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「嘆かわしいですなぁ、
+　ミスタ志賀」
+
+<BOX type="3">//%m
+　サイスの嘆息に呼応するように、校舎を目指していた仮面の少女たちは、一斉に踵を返して、居並ぶヤクザ達に銃口を向けた。
+
+<BOX type="4">//%sL
+「あなたとは、
+　よき友人で居続けられる
+　はずだったのだが……」
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……貴様ら!!」
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//# siga3^3 20 dummy 19 school4c 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="school4c">//# siga3^3 20 dummy 19 school4c 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<se id="1" src="" mode="fadeout" time="30">
+<A HREF="3890.txt" OPERATOR="">//~ 3890
+
+
+
+3890

@@ -1,0 +1,203 @@
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　敵が攻め寄せてくるのは、左右の窓と正面の出入り口……
+　そうだ、さらに裏口がある。
+　右手の神父室に、礼拝堂の裏手へと抜ける勝手口があった。
+
+　挟撃されたら一巻の終わりだ……
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　そう思った矢先に、神父室の扉が内側から荒々しく開け放たれる。
+
+　今いる位置では身を隠せない。
+　出てきた瞬間を撃ち倒すしか……
+　絶望的な思いで、{銃}の銃口を向ける。
+
+　だが……
+　新たな侵入者は堂内にまで入り込まず、
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　代わりに扉の奥から轟いた軽快な連射音が、
+　正面から押し寄せる梧桐組の連中を薙ぎ倒した。
+
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="right">//# elen5^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}、こっちよ!!」
+
+<BOX type="0">//%w
+　短い叱咤とともに、{ヒロイン}はさらにもう1連射、
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　スコーピオン短機関銃を撃ちまくる。
+　.32ACP弾の雨を浴び、
+　窓から銃口を突っ込んでいた射手が、怯えたように顔を引っ込める。
+
+　どうして……またここに？
+
+<BOX type="5">//%sR
+「早く！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　戸惑っている場合ではない。
+　促されるまま、{ヒロイン}の援護射撃に守られながら、
+　祭壇を駆け出て神父室に転がり込む。
+
+「君は、とっくに逃げてる筈じゃ……」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうしなくて正解だったわ」
+
+<BOX type="0">//%w
+　皮肉……にしては抑揚もなく言い捨てて、
+<se id="1" src="13_03" mode="normal" time="" loop="off" effect="">//!se 
+　{ヒロイン}はスコーピオンの弾倉を交換する。
+
+<BOX type="5">//%sR
+「ともかく、ここは脱出よ」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right church3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="church3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　銃声が途絶えてまもなく、黄昏の残照も消えた。
+
+　死闘の舞台となった礼拝堂では、梧桐組の若衆たちが、負傷した仲間の介抱や、死んだ仲間の躯を確かめている。
+
+　自分で立って歩ける者は、わずか十指に満たなかった。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“20人動員して……これか？”
+
+<BOX type="0">//%w
+　あまりに悲惨な結末に、志賀は頭を掻きむしりたい心境だった。
+
+<BOX type="5">//%sR
+“いったい奴らは、何者なんだ？”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　歯噛みする志賀の後ろで、誰かが大仰に溜息をつく。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「やれやれ……
+　ご忠告した筈ですぞ。
+　ミスタ志賀」
+
+「プロとアマチュアの戦力比は、
+　数で補えるものではありません」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　胸の内で志賀は舌打ちした。
+　こいつ、どこから嗅ぎつけて、
+　やってきたのやら……
+
+　あるいは志賀たちと同じく、ファントムの暴走以降、{姓}{名}を監視し続けていたんだろうか？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「しかし、意外ですなぁ」
+
+<BOX type="3">//%m
+　サイスは礼拝堂の惨状に、冷笑めいた一瞥をくれる。
+
+<BOX type="4">//%sL
+「あなたにしては、
+また随分と派手な挙に出たものだ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「相手が……相手だったからな」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　苦虫を噛み潰したような表情で言い捨てる志賀に、サイスは会心の笑みを向けた。
+
+<BOX type="4">//%sL
+「それをご理解いただけたなら、
+　話が早い」
+
+「なにぶん、相手が相手です。今夜の宴は、いささか度を越して盛大なものになるかもしれません」
+
+<se id="1" src="指を鳴らす" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="3570x1">//# dummy 19 3570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　サイスが指を鳴らすと、
+　森の闇の中から、白く異様な影が浮かび上がる。
+
+　まるで人形の隊列のように、不気味なほどの統制で整列した少女たち……
+
+　顔には謝肉祭の仮面を被り、手には見るからに凶悪な軍用の自動小銃を携えている。
+
+<CLEAR><BACKGROUND SRC="church3">//# sice 19 dummy 20 church3 1
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20 church3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「この期に及んで、
+慎み深くあれとは言いますまいな？
+ミスタ志賀」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　いかに癇に障ろうと、騒動の火蓋を切って落としたのは、他ならぬ志賀自身である。
+　手勢だけでは、あの二人に勝ち目がないのも、もはや明白だ。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……いいだろう。
+　我々は撤収する」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あとは、あんた達だけで、
+　せいぜい盛大にやるがいい」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「感謝しますよ。我が盟友」
+
+<calc workname="gun09" operator="1" mode="global">
+<A HREF="3650.txt" OPERATOR="">//~ 3650
+
+」
+
+<A HREF="3650.txt" OPERATOR="">//~ 3650

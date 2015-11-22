@@ -1,0 +1,456 @@
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　没有犹豫的时间了。
+
+　在这段时间里，
+  Ein正在慢慢地变得虚弱。
+
+　我不能眼睁睁地看着她死去。
+
+//> left room1d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　可是，怎样才能救Ein呢……？
+
+　如果送去医院的话，从这个地方走恐怕来不及，
+  更重要的是，可能会被Inferno发现。
+
+　突然间，我彻底明白了当前的状况。
+　
+　想救她的话，就只有在这个地方由我亲手动手。
+
+　取出子弹……
+
+　我的确接受过相关的训练，
+  但是还没有过任何的实践。
+
+<CLEAR><BACKGROUND SRC="factory4">//# factory4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　顾不得那么多了……
+　我跑回到Taurus那里，从后备箱中取出急救设备。
+
+<CLEAR><BACKGROUND SRC="room1d">//# room1d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，能派上用场的，也只有消毒酒精之类的东西。
+
+  脑中闪过一个想法，
+  我把Ein的克里斯里夫刀从鞘中拔出来，
+  在刀把末端拧入钢笔的笔帽，在里面装入缝合用的针和线。
+
+（注：克里斯里夫公司，即Chris-Reeve，以高水准的直柄刀和叫做Sebenza的边锁折刀而闻名于世）
+
+<se id="1" src="zipper" mode="normal" time="" loop="off" effect="">//!se zipper
+　我拉开Ein的作战服的拉锁，里面沾满了血。
+
+　这么严重的出血……
+
+　现在容不得我发呆。
+  我鼓起勇气，把这件由于沾满血而紧贴在身上的衣服扒了下来。
+
+　枪伤，在右腹部……
+  光滑的肌肤上，
+  只有那块地方像是被异物入侵了一样，开着一个很难看的口子。
+
+「Ein……Ein，你能听到我说话吗？」
+
+　Ein微微张开了眼睛。
+
+「现在，我要把你伤口里的子弹取出来」
+
+「没有……麻醉药。只能靠你自己的意志力了。好吗」
+
+　她好像能听到我说话，但是不知道能不能明白我的意思……
+  她没有出声，看着我的眼神空洞而又虚弱。
+
+「……我不会让你死的」
+
+　脑袋里不由自主地传出一阵阵低语，
+  仿佛里面有另一个自己在嘲笑着、讽刺着。
+
+“别骗自己了。取出子弹这种事，明明是做不到的吧”
+
+“用那把刀帮她解脱怎么样？
+  这也是一种慈悲哦”
+
+「我绝对不会让你死的。
+  所以，你要相信我，要坚持住啊」
+
+　我用低沉有力的声音这样说着，
+  这些话，既是说给已经不能回答的Ein，也是为了给自己鼓劲。
+
+　Ein再次闭上了双眼。
+
+　她的样子，感觉就像是在点头一样……
+
+　无论有什么，自己都将默默承受……
+　她闭上眼睛，就是要表现出这样的决心……
+  这是我的错觉吧。
+
+　……开始吧。
+　犹豫不决才是现在最大的敌人。
+
+<CLEAR><BACKGROUND SRC="僫僀僼">//# 僫僀僼 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　小刀的刀刃，明晃晃的，闪着不祥的光芒。
+
+　我把刀尖放到伤口处，
+  透过刀，我感觉到Ein在颤抖。
+
+<se id="1" src="彎岥傪峀偘傞" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="0230p1">//# 0230p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我咬紧牙关，一下子割开了伤口。
+
+<BOX type="4">//%sL
+「……啊啊啊啊啊!!」
+
+<BOX type="0">//%w
+　拖长的呻吟声，与其说是疼痛难耐的喊声，
+  不知说是发泄内心悲伤的恸哭。
+
+　无法思考，什么都无法思考……
+
+　为了不胆怯退缩，我狠下心来……
+  把两根手指伸进了切开的伤口中。
+
+<se id="1" src="彎岥偵巜傪擖傟傞" mode="normal" time="" loop="off" effect="">//
+　身体第二次被异物侵入。
+　这一次停留的时间更长，而且还在体内蠕动着……
+
+<BOX type="4">//%sL
+「……呜……啊啊……!!」
+
+<BOX type="0">//%w
+　悲鸣只叫了一声就停住了，此时的Ein，即使想叫也叫不出声了，
+  她只能从嗓子里挤出一丝声音，身体不住颤抖。
+
+　在哪里？
+　子弹在哪里啊！？
+
+　像是要诉诸痛苦一样，Ein的手在空中乱抓着，
+  随即，她牢牢地抓住了我的肩膀。
+
+　伤口中的手指每动一次，
+  Ein的手就狠狠地在我的肩上紧扣一次。
+
+　她死命地抓着我的肩，
+  在这样的力道下，肩部的骨头开始吱嘎作响。
+
+　可是，这样的疼痛，与Ein此时受到的折磨相比……
+
+　多么用力地抓住我都没关系。
+　让我更多地分担你的痛苦吧。
+　让我更多地替你承担折磨吧。
+
+　所以，拜托了Ein，再忍耐一下吧……
+
+　可恶!子弹到底在哪里!?
+
+　就在这时，指尖碰到了一个硬硬的东西。
+
+　是这个吗!
+
+　我紧紧地捏住找到的子弹，小心地将手指从伤口里拔了出来。
+
+<se id="1" src="彎岥偐傜抏傪庢傞" mode="normal" time="" loop="off" effect="">//
+<BOX type="4">//%sL
+「……哇啊!!」
+
+<BOX type="0">//%w
+　Ein又一次惨叫起来。
+
+　不过在这之后，她粗重的呼吸慢慢平息了下来，
+  筋疲力尽地瘫倒在了床上。
+　最痛苦的时刻，已经过去了。
+
+　阻止住子弹的是，肠子……这身体里最有弹性的部位，
+  真是不幸中的万幸。
+
+　如果伤到了内脏，弹头在体内破碎、飞散，
+  那我就无能为力了吧。
+
+<CLEAR><BACKGROUND SRC="room1d">//# room1d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我把手中这颗不祥的子弹扔到了地上。
+
+<se id="1" src="iject" mode="normal" time="" loop="off" effect="">//!se iject
+　还带着血丝的子弹落到水泥地面上，发出硬邦邦的声音。
+
+　但是，现在安心还太早了。
+
+　之前紧紧抓着我肩膀的Ein的手，早已因为失去力气而垂落。
+
+　我用力将Ein的胳膊抬起来，让她的手再一次抓住我的肩膀。
+
+「Ein，再忍耐一下」
+
+<CLEAR><BACKGROUND SRC="0230p1">//# 0230p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我在她耳边说着，左手紧紧抱住了她的肩膀，让她靠在我的怀中，
+  空着的右手拧开了消毒液的盖子，向伤口上倒去。
+
+<se id="1" src="彎岥偵傾儖僐乕儖" mode="normal" time="" loop="off" effect="">//
+　嘶的一声，白色的泡沫在她裸露的伤口上烧灼起来。
+
+<BOX type="4">//%sL
+「……呜!!　……呜!!」
+
+<BOX type="0">//%w
+　Ein虽然咬紧牙关，抑制着不叫出声来，
+  可是身体却在激烈地晃动，手指使劲地抠进我的肩膀。
+
+「没事了，没事了」
+
+　我握住她一直紧抓着我肩膀的手，对她说道。
+
+「已经没事了，你表现得很好」
+
+//仛傑偝偐傝丗夋憸捛壛
+<clear>
+<BACKGROUND SRC="0230p3">//
+<WIPE EFFECT="fade" TIME="20">
+　一直强忍着剧痛的Ein的脸，慢慢地缓和了下来。
+
+　这时，我才发现自己被濡湿的脸上，除了汗水还有别的东西。
+
+　是眼泪，是久违了的眼泪。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room1d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　在与苦痛的激战中耗尽全部体力的Ein，
+  已经连对疼痛做出反应的力气都没有了。
+
+　即使是在缝合伤口的时候，她就像睡着了一样一动不动。
+
+　不论怎么说，自己的缝合技术都谈不上娴熟，
+  不过，如果她只是这样安静地躺着，伤口是不会裂开的。
+
+　初步处理告一段落。
+
+　接下来就是要让她休息一下。
+
+　不过，还是不能大意。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　虽然刚才处理过程中的失血量并不足以致命。
+
+　但问题是，我不知道她在逃到这个工厂之前，到底流了多少血。
+
+　透过水泥墙吹进来的夜晚沙漠的冷气，
+  无时无刻不在夺去Ein的体温。
+
+　必须想办法给她暖和身体才行。
+
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我在一个风吹不到的死角铺上毯子，
+  坐在上面，把脱去衣服浑身颤抖的Ein抱入怀中。
+
+　透过Ein裸露的肌肤，我感觉到她的身体是如此的冰冷，
+  自己简直就像是抱着一尊石膏像。
+
+　……这样下去就糟了。
+
+　为了更好地保持体温，
+  我用毛毯将两个人紧紧地裹了起来。
+
+　不过我的右手留在了毯子的外面，
+  握着枪放在膝盖上。
+
+　今夜，一定会很漫长吧。
+
+　在太阳升起，温度上升，Ein恢复意识之前，
+  我一刻都不能疏忽大意。
+
+　可是……
+
+//> left room1d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　Inferno的追兵，会在深夜追到这个地方吗。
+
+　Ein驾驶的那辆高尔夫……
+　我来的时候没有看到，大概被好好地藏起来了吧。
+  不过，Taurus还停在入口那里
+
+　要是我和她像这样被发现的话……
+　
+　就再也没有解释的余地了。
+
+　虽然有些不安，但是现在我不能离开她的身边。
+
+　冷静下来……
+　首先，试着整理一下情报吧。
+
+//> left bay1 wide 255 sepia 22
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay1">//
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+今晚，我和Ein两人所接受的指令，是为袭击毒品运输船的行动提供掩护。
+船上装着的货物是中国黑帮的东西……本来应该是这样。
+
+　但是情报是假的，船也好货物也好，全都属于Inferno，
+  为袭击行动提供援护的Ein，现在正遭到组织的追杀。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　赛斯背叛了……
+　克劳蒂亚是这么说的。
+
+　也就是说，赛斯与不知道什么人进行合作，
+  企图夺取Inferno的毒品……
+
+　Phantom被交付虚假的指令，
+  为袭击者提供了支援……
+　是这样吧？
+
+//> left bay2 wide 255 sepia 22
+<clear>
+<BACKGROUND SRC="bay2">//
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　的确，对于负责袭击货船的小队，无论是武装配备还是人员数量，
+  我们都一无所知。
+
+　这么说的话……
+
+　发出指令的赛斯，从一开始就打算要舍弃我们两个人。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　突然被克劳蒂亚叫走，只能说是我的幸运。
+　自己不但没有中赛斯的奸计，还取回了被夺走的记忆。
+
+<CLEAR><BACKGROUND SRC="0220p3">//# 0220p3 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是……这份幸运的代价，要靠使Ein陷入绝境来支付。
+
+　想到这里，我的胸口一阵绞痛。
+
+　如果按照赛斯的命令，我们两人前往码头的话……
+　虽然会让那家伙阴谋得逞，
+  但是那样的话，我就可以好好地掩护Ein。
+
+<CLEAR><BACKGROUND SRC="bay2">//# bay2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那样的话，她可能就不会被击中。
+
+　虽然我们两人会因此陷入困境，但如果能安然无恙地返回……
+  一定可以想出什么对策吧
+
+<CLEAR><BACKGROUND SRC="room1d">//# room1d 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那样的话，就不必像这样担惊受怕地等待天明了。
+
+　这算是……什么幸运呢。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0230p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="0230p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「Ein……」
+
+　为了不让自己睡着，我贴近Ein熟睡中的脸，悄悄地小声说道。
+
+「今天晚上，我在克劳蒂娅的家里……想起了一切」
+
+「出生的地方，名字，全都知道了……我知道我可以回什么地方了」
+
+「{姓}{名}，这是我的名字。
+　比Zwei什么的要好听多了吧？」
+
+　真是不可思议。
+　我仿佛正在同不发一语的Ein交谈着……
+
+　比起独自烦恼，
+  这样的交谈让我可以更清晰地了解自己的心情。
+
+「……可是啊，不知道为什么，我高兴不起来」
+
+「这么说来，早上的时候，你对我说过那样的话」
+
+「正如你所说的。
+　我真的想不明白。
+  要回去吗……
+　回去真的没问题吗」
+
+「我，已经不是从前的那个我了」
+
+//> left room1d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　想起来还真是讽刺，
+  我冒着危险救了Ein，反而使自己得到了考虑的时间。
+
+　至少为了不后悔，做出决定吧。
+  早晨，还离得很远。
+
+<CALC WORKNAME="0230" OPERATOR="1">//
+<A HREF="#スルー" OPERATOR="0190a=1">
+<A HREF="0240a.txt" OPERATOR="">//~ 0240a
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="0245.txt" TEXT="＊返回组织" OPERATOR=""></A>//{ ＊組織に戻る 0245 ＊組織から逃げる 0240a
+<CHOICE HREF="0240a.txt" TEXT="＊逃离组织" OPERATOR=""></A>//{ ＊組織に戻る 0245 ＊組織から逃げる 0240a
+

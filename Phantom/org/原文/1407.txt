@@ -1,0 +1,13 @@
+<BOX type="0">//%w
+　別段、パイソンでも良かったのだが、折角の貰い物だ。
+　たまにはこのマテバを使ってみるのも悪くない。
+
+　特殊な機構が、能書き通りの性能を発揮しているといいのだが。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="マテバ">//
+<CALC WORKNAME="銃画像" OPERATOR="マテバ">//
+<CALC WORKNAME="射撃画像" OPERATOR="マテバ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用MB">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

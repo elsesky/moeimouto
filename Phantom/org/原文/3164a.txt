@@ -1,0 +1,14 @@
+<BOX type="0">//%w
+　結局、またしても……
+　こいつを手に取ることになったか。
+
+　かつて慣れ親しんだ感触の銃把は、
+　長いブランクを経た後もなお、
+　掌の中に、まるで吸い付くように収まった。
+
+<CALC WORKNAME="射撃音" OPERATOR="02_01">//
+<CALC WORKNAME="銃" OPERATOR="ベレッタ">//
+<CALC WORKNAME="銃画像" OPERATOR="ベレッタ3">//
+<CALC WORKNAME="射撃画像" OPERATOR="ベレッタ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用BS2">//
+<A HREF="3170.txt" OPERATOR="">//~ 3170

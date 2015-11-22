@@ -1,0 +1,288 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left shop3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="シッピングモール" mode="normal" loop="off">
+
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="shop3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一緒に歩いていると、どうにも周囲の視線が痛い。
+　何だってこう奇異の視線が集まるんだろうか？
+
+　……ああ、そうか。
+
+　ありあわせの古着をかき集めただけと一目で判るキャルの服装は、
+　他の買い物客からは、あからさまに浮いている。
+　別段、不潔なわけでもないのだが、
+　それでも浮浪児を彷彿とさせるのは否めない。
+
+　店先で品物を物色していても、店員は万引きを警戒してか、
+　露骨に警戒を露わにしてくる。
+
+「なあキャル、その服、どうにかならないか？」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうにかしろって、
+　言われてもさぁ」
+
+<BOX type="0">//%w
+　周囲からの白い目も、無論、キャルにとっては何処吹く風だ。
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これで駄目なら、
+　裸になるしかないよね」
+
+<BOX type="0">//%w
+　しれっとして、とんでもないことを言う。
+
+　……仕方あるまい。
+　これからのこともある。
+
+「買い物は、後回しだ。先に服を買おう」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「服って、あたしの？」
+
+<BOX type="0">//%w
+「そうだ。もっといい服を買ってやる」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　キャルのことだから、ぬけぬけと喜色を見せるかと思ったのだが、
+　どういうわけか、今度は妙におろおろと戸惑っている。
+
+「どうした？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「嫌か？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「う、うぅん。
+　嫌なんかじゃなくて」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……いいの？」
+
+<BOX type="0">//%w
+「どうしたっていうんだ？　いきなり畏まって」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いや、だって……」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お店で服、
+　買ってもらうなんて……
+　その、初めてだから」
+
+<BOX type="0">//%w
+　ハンバーガー20個を買い漁り、
+　冷蔵庫のビールを一掃した子の台詞とは思えない。
+　それとこれとは、どう違うっていうのか。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいの？
+　ホントにホントにいいの？」
+
+<BOX type="0">//%w
+「ああ、いいよ」
+
+　キャルの反応があまりに面白かったので、快諾した。
+
+「靴まで全部、新調してやるよ。好きなのを選ぶといい」
+
+<se id="2" src="" mode="fadeout" time="30">
+
+//> left shop4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="シッピングモール" mode="normal" loop="off">
+
+<wait time="900">
+<BACKGROUND SRC="shop4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……どうだ？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　すでに2時間以上経つ。
+　店ももう5件目だった。
+
+　が、キャルはなかなか買う服を決めようとしない。
+
+　よほど好みがうるさいのか……
+　最初はそう思ったが、どうやら、そういう訳でもなさそうだ。
+
+　とりあえず棚の品を、次から次へと手にとってはみるものの、
+　視線がよそを泳いでいる。
+　選り好みして迷っているというよりは、
+　ただ単に、途方に暮れているだけにしか見えない。
+
+「この辺の店じゃ、駄目か？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……う～ん、と、ねぇ」
+
+<BOX type="0">//%w
+　言いにくそうに言葉を濁していたキャルだが、ようやく最後に、
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……わかんないの」
+
+<BOX type="0">//%w
+　と、小声で言った。
+
+「欲しい服とか、ないのか？」
+
+<BOX type="5">//%sR
+「うぅん、いっぱいある。
+　いっぱいあるんだけど……」
+
+「どれか選べ、って言われると、
+　どうしていいのかわからなくて」
+
+<BUSTUP NAME="cyall" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だって、ここにある服ぜんぶ、
+　同じくらい欲しいんだもん」
+
+「どれかひとつ選んだら、
+　残りはぜんぶ諦めなきゃならない
+　……わけじゃん？」
+
+<BOX type="0">//%w
+　どうしてそういう発想になるんだ？
+
+「あのなぁ、キャル」
+
+「そんなこと言ってたら、買い物できないぞ」
+
+「どうしても気に入った服は、また今度買いにくればいいじゃないか」
+
+「すぐに売り切れたりはしないって」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……また、今度？」
+
+<BOX type="0">//%w
+「なんでそう、いちいち驚くんだ」
+
+「一生に一度の買い物だとでも思ったのか？」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……うん」
+
+<BOX type="0">//%w
+　そんな大袈裟な。
+　メッカの巡礼じゃあるまいし……
+
+　……いや、だが以前のキャルの暮らしからすれば、
+　それと同じくらいの一大イベントかもしれない。
+
+「また今度、連れてきてやるよ。ここに」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ほんとに？」
+
+「そしたらまた、
+　服買っていいの？」
+
+<BOX type="0">//%w
+「いいよ」
+
+　ふとバーガーキングでの散財を思い出し、もう一言付け加える。
+
+「言っておくが、毎日来たりはしないぞ」
+
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うん!!」
+
+<se id="2" src="" mode="fadeout" time="30">
+
+//> left 1127p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1127p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　帰り道のキャルは、終始、くるくる回ったり飛び跳ねたりで、
+　ほんのいっときも真っ直ぐ歩こうとしなかった。
+
+<BOX type="4">//%sL
+「ね、ね、似合ってる？
+　可愛い？」
+
+<BOX type="0">//%w
+「ああ、似合ってるって」
+
+　何度そう答えても、
+　数分後にはまた確かめるように、同じことを訊いてくる。
+　ここまで度外れた感激ぶりを見せられると、
+　むしろこっちが途方にくれる。
+
+<BOX type="4">//%sL
+「スゴイよ、軽くてサラサラ!
+　こんな服着るのはじめて!!」
+
+<BOX type="0">//%w
+「そ、そうか」
+
+　衣装代で言ったら、クロウディアの靴一足に満たないんだが。
+
+　こんなに喜んでくれるなら、また暇を見て連れてきてやろう。
+
+<CALC WORKNAME="1127" OPERATOR="1">//
+<A HREF="1127b.txt" OPERATOR="1022a=1">//~ 1127b
+<A HREF="1127e.txt" OPERATOR="">//~ 1127e

@@ -1,0 +1,270 @@
+　裸体上溅满了鲜血……但这样的凯尔仍旧格外美丽，宛如品尝着活祭品鲜血的狩猎女神雕像。
+
+<CLEAR><BACKGROUND SRC="classroom1c">//# classroom1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「凯尔……」
+
+<BOX type="5">//%sR
+「吓到你了，抱歉哦」
+
+<BOX type="0">//%w
+　她的脸上充满了天真无邪的微笑。
+  刚才杀死一个人后露出的那种残忍和凶猛早已消失得无影无踪。
+
+　就像什么都没发生过一样，凯尔自然地穿起扔在地上的衣服。
+
+　看着这样的她，我不禁呆呆地问道。
+
+「你不是已经放弃了吗……」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，那个吗？我果然还是讨厌死亡啊」
+
+<BOX type="0">//%w
+　更换了S&W的弹夹以后，凯尔挠了挠鼻子。
+
+「讨厌……么」
+
+<BUSTUP NAME="drei" face="0" MODE="on" zoom="" ALIGN="right">//# drei^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为，{名}在里面射出来了嘛」
+
+<BOX type="0">//%w
+　凯尔用手抚摸着腹部，害羞地说道。
+
+<BOX type="5">//%sR
+「这里说不定会有小宝宝，不是吗？」
+
+<BOX type="0">//%w
+「……」
+
+　她是认真的还是在开玩笑呢，我无法判断。
+  不过，凯尔马上一脸严肃地说道。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我是不会死的，也不会让{名}死的」
+
+「我们好不容易才重逢，无论怎样都要活下去」
+
+<BOX type="0">//%w
+「……你……」
+
+<BUSTUP NAME="drei" face="0" MODE="on" zoom="" ALIGN="right">//# drei^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不要摆出那么正经的表情嘛，总会有办法的」
+
+<BOX type="0">//%w
+「我们……能逃掉吗？」
+
+　敌人的人数、武装状况都不清楚。
+　而且，就算逃出这所校舍，接下来又该怎么办呢？
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔～这个嘛……」
+
+「走一步看一步好了」
+
+「{名}你不要勉强自己，只要躲起来就行了」
+
+「不管怎样我们都得开始行动了。
+  好啦，快把衣服穿上」
+
+<BOX type="0">//%w
+　凯尔将被杀死的那3人的枪集中起来，检查状态后选择了其中的一把。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她刚才还在潸然泪下、还在忘我地和我做爱……此刻却毅然决然地准备迎接战斗。
+
+　女人这种生物，竟然能够如此雄壮威猛……并且令人感到可怕吗？
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school5c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="school5c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　奇袭失败了……
+  Fünf、Sechs、Seiben没有回答，已经不需要再怀疑了。
+
+　分散在校园里的剩余3人……Vier、Acht、Neun，通过叩响牙齿发出特有的信号，通过对讲机开始讨论对策。
+
+　由于对对手疏忽大意，只有3个人攻入了西校舍。
+  看来她们太小看Drei了。
+
+<CLEAR><BACKGROUND SRC="court3c">//# zs8 20 court3c 1
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="right">//# zs8 20 court3c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……这时，潜伏的中庭的Acht发出了危急的信号。
+
+<BOX type="5">//%sR
+“Drei似乎正经由走廊向东校舍移动……”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　奇怪。
+　根据Fünf死前的最后通信，Zwei应该正和她在一起。
+
+　陷阱？诱饵？
+
+　不过，不管面对什么样的局面，经过统一调教的少女们经过战术思考立刻导出了同样的判断。
+
+<CLEAR><BACKGROUND SRC="schooltop3">//# schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“Vier、Acht前往东校舍追击Drei”
+
+“在此期间，Neun对西校舍内进行搜索，在确认Zwei的生死后通过其它路径对Drei发动奇袭”
+
+“通过夹击歼灭敌人……”
+
+<BOX type="0">//%w
+　带着假面的少女们按照部署好的分工，开始行动起来。
+
+//> left classroom3c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom3c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我并不想让凯尔独自战斗，但身上的伤却令自己连动一动脚都特别费劲。
+  我只能无可奈何地听从她的指示，悄悄地躲藏在西校舍的3楼。
+
+　而凯尔则前往东校舍，引出剩余的敌人并将她们全部歼灭。
+
+<se id="1" src="18_02b" mode="normal" time="" loop="on" effect="">//!se 
+　……可是，她的想法似乎太天真了。
+  持续不断的枪声清晰地从楼下传来。
+
+　室内战的理论便是……从某一端向敌人可能藏身的地方发动全方位扫射，将其打成蜂窝。
+
+　为了慎重起见，至少会有一个人留在西校舍里，持续进行扫荡工作。
+
+　没办法了。
+　看来不得不凭借自己的实力闯出一条生路了。
+
+可是，要怎么做呢？
+在高贯穿力的突击步枪子弹面前，桌子、柜橱这种程度的隐蔽物根本起不到任何作用。
+要是愚蠢地躲起来，肯定会和隐蔽物一起被打成蜂窝的。
+
+　不过，如果敌人是按照从1楼到2楼的顺序向上进攻的话，自己还有时间做些准备工作。
+
+<se id="1" src="" mode="fadeout" time="100">
+<CLEAR><BACKGROUND SRC="passage5d">//# passage5d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我先依次进入每个教室，从收纳扫除用具的柜子里收集水桶和拖把，并将它们分成五份。
+  接着，我用枪柄打坏自动板擦机，取走了沿墙设置的电线。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　然后，我抱起战利品朝走廊中的男女厕所走去。
+
+<CLEAR><BACKGROUND SRC="toilet">//# toilet 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　虽然女厕所里面的隔间较多，但首先受到扫荡的应该是离楼梯较近的男厕所。
+
+　我打开水龙头，向五个水桶里灌水……然后将它们分别拎到一个个隔间里，放在座便器上。
+
+　由于只有一条右臂能够使用，所以没多久我便累得额头上渗出汗水，伤口也传来一阵剧痛。
+  但我已经顾不了这么多了。
+
+　将水桶放好后，我将拖布靠在内开式的门上，通过拖布杆的重量关上了门。
+
+//<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+　像这样将5个隔间的门都关上以后，我拔下厕所最里面的换气扇的电线，将它与从教室里收集的电线连在一起，加长到刚好能够垂到瓷砖地面的长度。
+
+　虽说是很简单的陷阱，但顺利的话足以干掉一个人了。
+　接下来，自己该藏在哪里呢……
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　卡拉什尼科夫的咆哮越来越近，看来对方已经蹂躏到2楼来了。
+
+　终于……要来了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage8d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="30">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="passage8d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="drei4" face="4" MODE="on" zoom="" ALIGN="right">//# drei4^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“可恶”
+
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　子弹漫天飞舞的东校舍2楼走廊……
+　凯尔正因计划出现偏差而咬牙切齿。
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　总计6人的数字姐妹。
+  除去刚才解决掉的家伙，还剩下3人。
+
+<se id="3" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　可是，被凯尔引诱到东校舍的似乎只有2人。
+
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　而{名}藏身的西校舍从刚才开始就持续响起毫不留情的扫射声。
+
+<BUSTUP NAME="drei4" face="8" MODE="on" zoom="" ALIGN="right">//# drei4^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“糟糕……大事不妙了！”
+
+<BOX type="0">//%w
+　{名}有伤在身。
+　单枪匹马的他根本对付不了突击步枪。
+
+　不能再磨蹭下去了。
+　自己不能再在这里浪费时间，必须迅速解决掉她们……然后去救{名}。
+
+卡拉什尼科夫的子弹已经所剩无几。
+只能放手一搏了。
+
+　可是，要怎么做？
+
+　在焦躁的驱使下，凯尔暂时中止了枪击，转身跑上了安全通道。
+
+<se id="1" src="僪儔僀憱傝" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+　有没有什么方法能将她们一网打尽呢……
+
+<A HREF="3760.txt" OPERATOR="">//~ 3760
+
+
+
+　

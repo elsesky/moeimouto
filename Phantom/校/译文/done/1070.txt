@@ -1,0 +1,623 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……今天晚上我试着去找一下他」
+
+「明天再继续谈吧」
+
+　如果改天再谈的话，她应该就能明白我要去见多么令人畏惧的家伙了。
+  比如说，莉兹……
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔，明天吗……」
+
+<BOX type="0">//%w
+「不方便吗？」
+
+<BOX type="5">//%sR
+「唔。只是，我在想明天之前的这段时间怎么办」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，{名}，今晚能让我在你那住一晚吗？」
+
+<BOX type="0">//%w
+「……啊？」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我今晚没有地方住」
+
+「茱蒂的房子欠了不少房租，所以今天早上，房东把我赶了出来……」
+
+<BOX type="0">//%w
+　……原来如此。
+  那么她手上拿的应该是行李吧。
+
+虽然可能性不大，不过……
+这个小女孩不是为了确保今晚有个安稳的被窝才故意不告诉我真相吧？
+
+　不管怎样我都摸不清这个名叫凯尔的小女孩的真实意图。
+　从刚才开始，自己就一直被她牵着鼻子走。
+
+　……她不是在故意折腾我吧？
+
+「……好吧」
+
+　算了。
+　在听到实话之前，只好由着她了。
+
+//> left room0c1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0c1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是个……冷清的屋子啊」
+
+<BOX type="0">//%w
+　凯尔看到我那毫无生活感的房间后，非常惊讶。
+
+<CLEAR><BACKGROUND SRC="room0a1">//# dummy 20 room0a1 1
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「我总是住在外面，不怎么回来……」
+
+　说着，我从屋子里面取出吸尘器。
+
+　我没怎么在这里住过，屋子不是很乱。但是房间里的角落里都积满了灰尘，让人看着也不太舒服。
+
+「稍等一下」
+
+　我为了快点打扫完，暂时将注意力全都放在了打扫上。不过马上我就感到把凯尔一个人扔在那里实在有些不妥。
+
+　她并不是个会客气的孩子。
+  应该叮嘱她“不要随便动东西”之类的吧……
+
+<se id="1" src="coolbox" mode="normal" time="" loop="off" effect="">//!se coolbox
+<BOX type="5">//%sR
+「哎，冰箱里只有啤酒啊」
+
+<BOX type="0">//%w
+　……已经晚了吗。
+
+<CLEAR><BACKGROUND SRC="room0b1">//# room0b1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔已经把吃剩的汉堡当成是自己的东西，使劲地往冰箱里塞着。
+
+　看来，她的愿望好象只是『看着吃不完的汉堡』而已。
+  观赏用的十几个汉堡被她全部打包带了回来。
+
+　难道是想在汉堡坏掉之前全部吃完吗……不，难道说，她想在吃完之前一直待在这里吗？
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，电视能看吗？」
+
+<BOX type="0">//%w
+「……只有无线电视节目而已」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唉」
+
+<CLEAR><BACKGROUND SRC="room0a1">//# dummy 20 room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　如果擦去地板上半年份的积尘，给床换上床罩，应该就能暂且在这里过一夜了。
+
+<CLEAR><BACKGROUND SRC="room0b1">//# room0b1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　说起来，凯尔好像成功地把所有的汉堡塞进了冰箱中。
+  不过相对的，里面的啤酒全都被摆在了桌子上。
+
+「……喂」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，这些吗？
+  冰箱里面装不下了，对不起啊」
+
+<BOX type="0">//%w
+　凯尔一点都没有被我吓住。
+
+「这些啤酒要怎么办啊」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「太碍事了，全都喝掉吧」
+
+<BOX type="0">//%w
+　我连哭的心都有了。
+
+「你，多大了？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}呢？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「怎么看，都不像是超过20岁的样子吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果你要为未成年人饮酒这件事反省的话，我可以帮你把这些啤酒扔掉哦」
+
+<BOX type="0">//%w
+　这个小丫头……
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1 dummy 20
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「喂喂，不要皱着眉头，坐下来喝啊」
+
+「不然啤酒就都不凉了哦」
+
+<BOX type="0">//%w
+　还没等我回答，凯尔就打开了啤酒罐的拉环。
+
+「你喝酒真的没问题吗？」
+
+<BOX type="5">//%sR
+「没事没事。我经常陪着茱蒂喝酒的」
+
+「干——杯」
+
+<BOX type="0">//%w
+　如果她喝醉的话，或许会一股脑地把一切都告诉我。
+  虽然我觉得那么做有些不妥，不过还是试着说服了自己。
+
+「话说回来，你到底多大？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　虽然她非常机灵，不过想一想，就算她不说，应该也就是看上去这样的年龄吧。
+
+<BOX type="5">//%sR
+「{名}多大呢？」
+
+<BOX type="0">//%w
+「你看呢？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔」
+
+<BOX type="0">//%w
+　凯尔仔仔细细地盯着我看。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然不太可能，难道说你……比我还要小？」
+
+<BOX type="0">//%w
+　这样的回答吓了我一跳，以至于把啤酒都喝进了气管里。
+
+　看到我呛住的样子，凯尔却没有一丝反省的意思。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「抱歉抱歉，开玩笑的」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还是说，和我同岁？」
+
+<BOX type="0">//%w
+「……比你年长哦」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「骗人的吧!?」
+
+<BOX type="0">//%w
+　凯尔尽力地掩饰着自己的惊讶。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎呀，怎么说呢，那个……你还真是年轻啊」
+
+<BOX type="0">//%w
+　亚洲人的年龄就算再怎么不容易看出，也不至于和比自己年轻的人一样吧。
+
+「你啊，难不成以为会有比你还小的小鬼开着车充当黑市商人吗？」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+　不过，凯尔好像对我的问法感到不可思议。
+
+<BOX type="5">//%sR
+「当然啦，有很多啊」
+
+<BOX type="0">//%w
+　……说起来，正是如此。
+　她是南部地区的居民。
+
+　作为暴力团伙的巢穴，那个地区的犯罪低龄化，正朝着难以置信的方向发展。
+
+　这些暴力团伙的主体，正是那些十来岁的孩子，
+  成员中甚至包含有小学生。
+
+　即使是学校，也会因害怕校内各种团伙之间的争斗而请警察驻扎进来。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　原来如此。
+　要是我把她当成普通的小孩子来对待，马上就会被她反将一军。
+
+　从刚才开始自己就被凯尔牵着鼻子走……这其中的原因，我总算明白了。
+
+　如果是居住在南部地区的孩子，就算单凭一个人与成年人竞争，也没有什么稀奇的。
+
+　酒量也很惊人。
+　从刚才开始，啤酒就一罐接一罐地被喝空。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呼啊——」
+
+「什么嘛？这啤酒还真是好喝啊」
+
+「这个牌子我没见过。你在哪里买到的啊？」
+
+<BOX type="0">//%w
+　说起来，这不是街上卖着的啤酒，估计是进口货吧。
+　虽然莉兹时常成箱地送给我，不过我还从没好好看过上面的标签。
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}，你果然还是挺有钱的吧？」
+
+<BOX type="0">//%w
+「喂喂，吐字都不清楚了哦」
+
+　果然还是喝的太快了。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没事没事。啤酒不趁凉喝就太浪费了」
+
+<BOX type="0">//%w
+　……
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}，你没有家人吗？」
+
+<BOX type="0">//%w
+「都在天国了」
+
+　这不是说谎。
+  现在，我的家人都生活在比天国还遥远的地方。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……唔」
+
+「孤零零的一个人啊，跟我一样呢」
+
+<BOX type="0">//%w
+「……你的父母已经？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不知道，忘记了」
+
+「我的老爹是个无耻的小流氓」
+
+「所以我就逃到这里了」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+　不必再说什么了。
+　在这个病态的国家，这种故事数不胜数。
+
+「……自己一个人住在洛杉矶？」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不是一个人啊。茱蒂把我捡了回去」
+
+「不然我早就死了，那时我才5岁」
+
+<BOX type="0">//%w
+「……这样啊」
+
+　我突然觉得有些伤感，不知道该说什么好。
+  沉默了片刻，我继续说道。
+
+「所以是姐妹……吗」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没错，她是我的姐姐」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BOX type="0">//%w
+　凯尔的眼神黯淡下来。声音也失去了力量，变得低沉。
+
+<BOX type="5">//%sR
+「那时茱蒂说过。
+『我的父亲也是个流氓』」
+
+「因为我们的父亲都是流氓，所以我们就是姐妹」
+
+<BUSTUP NAME="cyall" face="b" MODE="on" zoom="" ALIGN="right">//# cyall^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以，我们就……一起生活了……」
+
+<BOX type="0">//%w
+　大滴大滴的泪珠落到了桌子上面。
+
+在社会最底层长大的少女……
+或许确实不能把她看作一个孩子，或许她比很多差劲的大人要强得多。
+
+　可是，现在的她还不到喝醉了就会怀念起死者的年纪。
+
+<BOX type="5">//%sR
+「为什么，一定要死呢？」
+
+<BOX type="0">//%w
+　无法回答。
+  这个问题任谁都无法回答。
+
+<BOX type="5">//%sR
+「茱蒂究竟做过什么？」
+
+「只不过偶然在那个晚上，路过那条路而已……为什么会被杀死呢？」
+
+<BOX type="0">//%w
+「是谁干的？」
+
+　酒后吐真言……
+　我是有这个企图的。
+
+　我还真是卑鄙啊。
+
+<BOX type="5">//%sR
+「我不知道啊！」
+
+<BOX type="0">//%w
+　凯尔不顾一切地喊道。
+
+<BOX type="5">//%sR
+「那么黑的地方，我什么都看不到」
+
+<BOX type="0">//%w
+　少女在我的引导下，慢慢地将大部分的真相都吐露了出来。
+
+　我将手放在她的肩上，轻轻地拍打着安慰她。
+
+「人的死法有很多种」
+
+「有人会很痛苦地死去，有人死去却没有人为他伤心，悄无声息地就从这个世界上消失了」
+
+「与这些相比，茱蒂有你肯为她伤心流泪，已经很幸福了」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「凯尔，休息吧」
+
+　哭过之后估计有些疲惫了吧，凯尔不仅没有了说话的力气，甚至连支撑身体的力气也没有了。
+
+<CLEAR><BACKGROUND SRC="room0f1">//# dummy 20 room0f1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我抱起瘦弱纤细的她，向里面的床走去。
+
+<CLEAR><BACKGROUND SRC="1070p1">//# 1070p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　将她放到刚换过床单的床上时，她已经闭上了噙满泪水的眼睛，发出了轻微的鼾声。
+
+<BOX type="5">//%sR
+「茱蒂……」
+
+<CLEAR><BACKGROUND SRC="1070p2">//# 1070p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　从她闭着的眼睛缝隙中，流出了泪水。
+
+　昨晚到底失去了什么东西？
+  如果被这样问道，要怎么回答呢。
+
+　组织的信誉，4条人命，还有500万美元的钞票。
+
+　可是，这个少女的回答应该不是这样的吧。
+
+　凯尔失去的，是唯一的亲人，还有可以回去住的房子。
+
+　为了失去的东西，需要得知真相……虽然话是一样的，意思却有着天壤之别。
+
+　合作？　帮忙？
+　这不过是谎言罢了。
+
+　我不断扩大着这个孩子心中的伤口，可最后又得到了什么情报呢？
+
+//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　算了吧。
+  不能再把凯尔卷进来了。
+
+明天早上，就跟她分别吧。
+让她回到属于她的人生中去吧。
+虽然让这么小的少女一个人生活非常残酷，然而总比跟Inferno扯上关系要好得多。
+
+　不过……今晚暂且让她在这里休息一下吧，这样至少也能让我减轻一些罪恶感。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0b1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　就在我洗完澡，正准备要睡觉的时候，
+<se id="1" src="knock" mode="normal" time="" loop="off" effect="">//!se knock
+　大门被重重地敲响了。
+
+<CLEAR><BACKGROUND SRC="room0d1">//# room0d1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这么晚了会是谁呢？
+
+　为了小心起见，我把枪拿在手里，用刚刚擦完头发的毛巾盖起来。
+
+<CLEAR><BACKGROUND SRC="儗僀僕晹壆尯娭">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　从猫眼往外看去，发现几个出乎意料的身影正站在走廊中。
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 randy 19
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 20 randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　艾扎克·维斯梅尔和他身边的一位彪形大汉……
+  没记错的话，应该是传说中具有惊人力气的、他的保镖兰迪·韦伯。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　除此之外，不知道为什么莉兹也一起来了。
+
+<CLEAR><BACKGROUND SRC="room0d1">//# room0d1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「快开门，臭小子！」
+
+<BOX type="0">//%w
+　维斯梅尔的怒吼在这一带估计都能听得到。
+
+　虽然我感觉有点不爽，不过对方毕竟是Inferno的干部，不能太过怠慢。
+
+<CLEAR><BACKGROUND SRC="room0c1">//# room0c1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我打开门的保险链，刚用钥匙开了门，
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se doorslam
+　门就被粗暴地踢开了。
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 randy 19
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 20 randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　维斯梅尔和他的保镖把这当成自己家一样，粗暴地闯了进来。
+
+<BOX type="5">//%sR
+「你的窝……还真是大煞风景啊，Phantom」
+
+<BOX type="0">//%w
+「请问有何贵干？」
+
+　为了不使气氛闹僵，我尽量让口气缓和下来，故作冷静地问道。
+
+<BOX type="5">//%sR
+「别这么见外嘛」
+
+「拜你的老板克劳蒂娅所赐，我现在不得不接受一件极其麻烦的差事……」
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们发现莉兹小姐像街头老鼠一样鬼鬼祟祟地找着什么东西」
+
+「便从她口中听说了不少有趣的事」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　维斯梅尔得意地说着，他身后的莉兹则苦着一张脸低下了头。
+
+　我去搜查茱蒂的事情暴露了吗。？
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个小丫头，在这里面吗？」
+
+<BOX type="0">//%w
+「我再问一次，你来这里做什么」
+
+　我承认自己的语气有点过于粗暴。
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「听着，我的时间也很宝贵」
+
+「给克劳蒂娅擦屁股的时间，多一秒我都觉得是浪费」
+
+「让我和那个小丫头谈谈。
+  我要让她把知道的都说出来」
+
+<A HREF="1075.txt" OPERATOR="">//~ 1075
+
+说出来」
+
+<A HREF="1075.txt" OPERATOR="">//~ 1075

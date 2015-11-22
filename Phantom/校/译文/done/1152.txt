@@ -1,0 +1,80 @@
+<CALC WORKNAME="hkUSP" OPERATOR="1">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哟，Phantom，今天什么风把你吹来了」
+
+<BOX type="0">//%w
+「弹药的存货不足了，我来补充一下」
+
+<BOX type="5">//%sR
+「说起来你的枪也是0.45口径的吧」
+
+<BOX type="0">//%w
+「嗯」
+
+　像我这种明明很年轻，却拿着过时的柯尔特手枪的家伙，估计常被别人在背后议论吧。
+
+<BOX type="5">//%sR
+「给你这个……」
+
+「这是我弟弟给我的礼物，怎么样，要用吗？」
+
+<clear>
+<BACKGROUND SRC="h&k_usp_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「是Heckler&Koch的产品啊……」
+
+（注：Heckler&Koch，简称H&K，世界著名枪械公司，始创于1949年 ）
+
+H&K的USP自动手枪。
+虽然与柯尔特同为0.45口径，但这把枪却是使用复列弹仓，可以携带12发子弹的新型枪械。
+
+　由于性能出众，该系列中名为Mk23的一款被美军特殊作战部队『SOCOM』所选中，从此名声大噪。
+
+<clear>
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「把这枪给我……真的没关系么？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不管怎么说你都不会喜欢塑料枪柄的握感吧」
+
+<BOX type="0">//%w
+　像是格洛克和西格玛手枪一样，如今，大部分零部件用树脂材料制成的手枪已经成为主流。
+  不过，金属枪栓与树脂框架的组合也开始出现流行的趋势。
+
+<BOX type="0">//%w
+「那我就心存感激地收下喽」
+
+<calc workname="gun07" operator="1" mode="global">
+<A HREF="#暘婒" OPERATOR="1127=1">
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+<MARKER NAME="#暘婒">
+<A HREF="1158a.txt" OPERATOR="1150=1">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

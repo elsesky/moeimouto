@@ -1,0 +1,361 @@
+　接下来必须去救{名}……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+　正当她打算站起身来的时候，伴随着一声尖锐的枪响，花坛的黑土被打的四处飞溅。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔马上拔出S&W，寻找敌人的踪迹。
+
+从校园的一角传来了抿嘴的笑声。
+那是只要听过一次就不可能忘记的、冷酷而又恶心的笑声。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="right">//# drei2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「赛斯……」
+
+<se id="2" src="" mode="fadeout" time="60">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「干得漂亮，Drei」
+
+<BOX type="3">//%m
+　躲在暗处的赛斯对凯尔送出了喝彩。
+
+<BOX type="4">//%sL
+「加上Vier和Acht，想不到你竟然一手干掉了5个人」
+
+「现在已经没有什么能阻止你继承Phantom之名了」
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="right">//# drei2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「难不成你想要和那个Phantom正面对抗吗？」
+
+<BOX type="2">//%w
+　凯尔无畏地说道。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么会呢」
+
+「我可一直都不是那种信心满满的人」
+
+<BOX type="3">//%m
+　说着，一个人影从阴影中飞了出来。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="right">//# drei2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　凯尔马上调整好枪口……可接着，她一下子战栗起来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　飞出的人影……无力地摔倒在地上。
+　那是……被扔出来的、早已失去意识的{姓}{名}的身体。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「放心吧，他还没死」
+
+<BOX type="3">//%m
+　赛斯低沉的声音中充满了嘲讽，而且愈发显得冷酷。
+
+<BOX type="4">//%sL
+「不过，接下来就要看你的了，Phantom」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「混蛋……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　不等凯尔骂完，校舍的阴影中便再次响起了枪声……
+  {名}的腿上鲜血四溅。
+
+　痛苦的呻吟声击打着凯尔的耳朵。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「说话的方式还是小心点好」
+
+<BOX type="3">//%m
+　赛斯的声音充满了嗜虐的喜悦。
+
+<BOX type="4">//%sL
+「马上把你的枪全部扔掉，扔到我看得到的地方」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　凯尔恨得咬牙切齿……但赛斯并没有给她犹豫的时间。
+<se id="1" src="gunfall2" mode="normal" loop="off">
+　不得已，她将2把S&W扔到了倒地的{名}身边。
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「全部扔掉，我是这么说的吧」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“可恶……”
+
+<se id="2" src="gunfall" mode="normal" loop="off">
+<BOX type="2">//%w
+　伴随着一股绝望感涌上心头，凯尔从袖口里拿出一把ATM，扔了出去。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「很好」
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="left">//# sice5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　在确认了3把枪以后，赛斯大摇大摆地从阴影里走了出来。
+
+<BOX type="4">//%sL
+「就这样结束，真是有些遗憾啊，Drei」
+
+<BOX type="3">//%m
+　这样说着的赛斯，看起来非常悲伤。
+
+<BOX type="4">//%sL
+「为了一个将死之人，居然扔掉了自己的武器……真是致命的温柔啊」
+
+「终究只是个小姑娘。距离Phantom还差得远啊」
+
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="court^c">//#! court^c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　接着，赛斯从容地举起鲁格，对准{名}的脚又开了一枪。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　{名}长长的苦闷声几乎要撕裂凯尔的胸口。
+
+<BOX type="5">//%sR
+「赛斯……你这个混蛋!!」
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="left">//# sice5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+凯尔的眼中满是仇恨的泪水。
+可见到此景的赛斯反而愈加欣喜起来。
+
+<BOX type="4">//%sL
+「不管怎么说……你都是美丽的，Drei」
+
+<BOX type="3">//%m
+　一边沉沉地叹息，一边陶然地沉醉。
+  赛斯轻轻地摇了摇头。
+
+<BOX type="4">//%sL
+「这纯粹的憎恶之相，简直如同天然的宝石一般」
+
+<CLEAR><BACKGROUND SRC="儖僈乕傾僢僾">//#! court^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　接着，鲁格的枪口慢慢地对准了凯尔。
+
+<BOX type="4">//%sL
+「可惜啊，真是太可惜了。
+  你是我的……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="court^c">//#! court^c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　枪声响起。
+　血浆四溅，宛如绽放的花蕾。
+
+　接着……
+　赛斯露出了惊恐的眼神。
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　枪声再次响起。这一次，赛斯终于翻倒在地。
+<se id="3" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+　不知道发生了什么的凯尔赶忙跑上前去……越过头部和腹部中枪的赛斯，检查{名}的情况。
+
+　没有性命之忧……子弹也全部贯穿了身体，只要止住血就没有大问题了。
+
+　凯尔抽出{名}的皮带，扎住他被击中的大腿。
+　这时，她终于看到了从背后开枪击毙赛斯的人。
+
+　穿着水手服的少女背倚校舍的墙壁而坐，无力地低着头，乍看上去仿佛已经咽了气。
+
+<BOX type="2">//%w
+　感觉到凯尔走近，少女才缓缓地抬起眼皮。
+
+<BOX type="5">//%sR
+「Ein……」
+
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="3770p1">//# 3770p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……{名}呢……？」
+
+<BOX type="2">//%w
+　躺在凯尔怀中的Ein这样开口问道。
+
+<BOX type="4">//%sL
+「他没事」
+
+<BOX type="5">//%sR
+「……是吗」
+
+<BOX type="2">//%w
+　听到凯尔的回答，Ein的脸上浮现出安心的笑容……她已是命不久矣了。
+
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　不知该说什么的凯尔确认起Ein的伤势。
+
+　胸口和腹部都受了致命伤，而且经过了太长的时间，已经连处理都不可能了。
+
+　攻入礼拜堂时，梧桐组采用的是人海战术，即便是那样强大的Ein也无法应对。
+　
+
+<BOX type="5">//%sR
+「{名}就拜托你了。
+　如果是你的话……一定能够守护他的」
+
+<BOX type="4">//%sL
+「可是……」
+
+<BOX type="3">//%m
+　凯尔想起礼拜堂中那场的决斗给她留下的痛苦回忆。
+
+<BOX type="4">//%sL
+「可是，我比不上你……」
+
+<BOX type="3">//%m
+　Ein轻轻地摇了摇头。
+
+<BOX type="5">//%sR
+「没关系。如果是你的话……一定能变得更强……」
+
+<BOX type="4">//%sL
+「……」
+
+<BOX type="5">//%sR
+「我……讨厌你……」
+
+「我从未想象过自己会像这样如此讨厌一个人」
+
+<BOX type="2">//%w
+　就像在目送自己的灵魂远去一般，Ein淡淡地说道。
+
+<BOX type="5">//%sR
+「终于……明白了。
+　我……爱着{名}……
+　就像……美绪那样」
+
+<BOX type="4">//%sL
+「因为……你也是女孩子啊」
+
+<BOX type="3">//%m
+　听到凯尔的细语，Ein轻轻地露出了微笑。
+
+<BOX type="5">//%sR
+「这算是……嘲弄吗？
+　还是说，是赞美呢？」
+
+<BOX type="4">//%sL
+「……谁知道呢」
+
+<BOX type="3">//%m
+　这时，凯尔感觉自己胸中最后的一团恨意，在最后时刻冰释了。
+
+<CLEAR><BACKGROUND SRC="3770p2">//# 3770p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……是哪一个都没关系」
+
+「虽然直到最后才明白……不过，我……真的很幸福」
+
+<BOX type="2">//%w
+　接着，凯尔怀中的Ein失去了最后的力气，沉沉地睡去了。
+
+//> right court^c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="court^c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　将安稳死去的少女轻轻放在地上，凯尔站起身来。
+
+<BOX type="5">//%sR
+“她，的确……”
+
+<BOX type="2">//%w
+　{ヒロイン}……{名}是这么称呼她的。
+
+　一丝悔恨涌上凯尔的心头。
+
+　{ヒロイン}……在最后的时刻，自己至少应该这样称呼她才对。
+
+<CALC WORKNAME="3770" OPERATOR="1">//
+<A HREF="4000.txt" OPERATOR="">//~ 4000

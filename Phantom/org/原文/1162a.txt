@@ -1,0 +1,20 @@
+<BOX type="0">//%w
+　何があろうと裏切らないのは、結局、この一挺だけか。
+
+　銃把の感触と重みを手で確かめると、
+　不安な心境にも関わらず、ある種の安堵にも似た感慨が湧く。
+
+　無論、そんな思い込みが何の役に立つわけでもないし、
+　任務の特性を考えれば、
+　もっと小さくて携行に向いた銃を選ぶべきなのは解りきっている。
+
+　いつの間にやら、懐に吊る銃は、これ以外に考えられなくなっていた。
+
+<CALC WORKNAME="射撃音" OPERATOR="03_01">//
+<CALC WORKNAME="銃" OPERATOR="M29">//
+<CALC WORKNAME="銃画像" OPERATOR="44マグナム">//
+<CALC WORKNAME="射撃画像" OPERATOR="44マグナム2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Sm">//
+<CALC WORKNAME="1162a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

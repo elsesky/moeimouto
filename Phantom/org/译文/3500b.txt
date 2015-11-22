@@ -1,0 +1,8 @@
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あたしを女にしたのは、
+　あいつだよ」
+
+<A HREF="3500c.txt" OPERATOR="">//~ 3500c

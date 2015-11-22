@@ -1,0 +1,10 @@
+//> left USP wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="USP">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<CALC WORKNAME="‚f‚t‚r‚o" OPERATOR="1" MODE="global">//
+<A HREF="1166.txt" OPERATOR="">//~ 1166

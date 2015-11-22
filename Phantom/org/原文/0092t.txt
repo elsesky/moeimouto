@@ -1,0 +1,341 @@
+　……ウォレス大尉は、動かない。
+
+　さっきまで人だったモノ。
+
+　死にたくない、生き延びたい。そう思って歯を食いしばって……
+　さっきまで生きていたモノ。
+
+<clear>
+<BACKGROUND SRC="ウォルス目">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　空洞のような、虚ろな瞳。
+
+　力無く半開きになった口。
+　まるで何かを言いかけて忘れてしまったような。
+
+　……こんなの嘘だろ？
+　全部まやかしなんだろう？
+
+　決闘は終わった。勝負はついた。
+　なら、これでゴールのはずだろ？
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="900">
+<wait time="200">
+<box type="0">
+精一杯がんばったんだ。
+さんざん辛いことに耐えてきたんだ。
+
+　だからもう、終わりにしてくれ。
+　こんな悪夢からは覚ましてくれ。
+
+　こうして目を瞑っている間に、
+　何もかも消してくれ。
+　どこか違う場所に連れてってくれ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+<BOX type="0">//%w
+　風が哭いていた。
+　窓から射し込む冷たい月光。
+　まるで時の終わりまで、この景色が変わらないとでもいう風に。
+
+　……嘘だろう？
+
+//> left 0090p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="0090p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　細く白い手が、そっと肩に載せられた。
+
+　……アイン？
+　いつの間に……
+
+<BOX type="4">//%sL
+「また、泣いてるのね。ツヴァイ」
+
+<BOX type="0">//%w
+　アイン……
+　どうしてだよ……
+　夢のはずだろ？　こんなのは。
+
+<BOX type="4">//%sL
+「言ったでしょう。
+　長い夢になるって」
+
+「だからこれは、夢の続き。
+　あなたが死ぬか、狂うまで……
+　決して覚めない夢よ」
+
+<BOX type="0">//%w
+　そんなの、耐えられるわけないじゃないか。
+　覚めない夢なんて……冗談じゃない……
+
+<BOX type="4">//%sL
+「終わらせたい？」
+
+<BOX type="0">//%w
+　頷いた。
+
+<BOX type="4">//%sL
+「なら、終わらせられるわ。
+　あなた次第よ」
+
+<BOX type="0">//%w
+「……どうやって？」
+
+<BOX type="4">//%sL
+「あなたが、
+　あなたでなくなればいい」
+
+「あなたの目も、あなたの耳も、
+　あなたの心も捨てなさい」
+
+「そして、ただの“ツヴァイ”に
+　なりなさい」
+
+「何もかも、ツヴァイの目で見て、
+　ツヴァイの耳で聞けばいい」
+
+「そうすれば、
+　もう何も恐くない。悲しくない」
+
+「楽に、なれるわ」
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+「……僕は……」
+
+「……僕は、ツヴァイなんて、
+　名前じゃ、ない……」
+
+『そうね……
+　そうだったわね』
+
+//> left 0090p3 wide 255
+<clear>
+<BACKGROUND SRC="0090p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　固く冷たい感触が、こめかみに押しつけられた。
+
+<BOX type="4">//%sL
+「どう？」
+
+<BOX type="0">//%w
+　感じる。銃口の角度。銃身の向き。
+
+　撃ち出された銃弾は、間違いなく小脳を貫くだろう。
+　痛みさえ感じる間はあるまい。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　撃鉄の引き起こされる音……その振動が、じかに頭蓋まで伝わった。
+
+<BOX type="4">//%sL
+「どうする？」
+
+<BOX type="0">//%w
+　恐怖はなかった。
+
+　ただ、枕に顔を埋めたような安息感が……
+
+　身体から、すべての力が抜けていくような開放感だけがあった。
+
+<BOX type="4">//%sL
+「どうしてほしい？　わたしに」
+
+<BOX type="0">//%w
+　遠いところから、まるで福音のように、アインの声が届いてくる。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　……撃ってくれ。
+
+　殺してくれ。
+　そしてすべてを終わらせてくれ。
+
+　目の前から、何もかも消してくれ。
+
+　この自分ごと、消してくれ……
+
+//> dream 0090p3 dream 255
+<clear>
+<BACKGROUND SRC="0090p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+
+<se id="1" src="23-03b" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="10">
+　張りつめた夜の大気に、
+　撃鉄の落ちる金属音が、
+　雷鳴のように轟いた。
+
+　この容赦なく残酷な世界の、
+　終わりの刻を告げる音。
+
+　生命のスイッチの切れる音。
+
+　空っぽの意識の中で、
+　その小さく乾いた音は、
+　まるで大伽藍での反響のように、
+　いつまでも尾を引いた。
+
+//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不発だったのか、それとも最初から弾など入っていなかったのか、
+　結局、アインの銃は火を噴かず、鉛玉が頭を貫くこともなかった。
+
+　ただ、撃鉄の音だけが、すべてに区切りをつけてくれた。
+　教えてくれた。
+
+　絶望の果てにある、限りなく静かな安らぎを……
+
+　力の抜けた身体が、アインの腕を滑り落ち、床に頽れる。
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+　コンクリートの床の冷たさを頬で感じ、
+　すぐ横に転がるウォレス大尉の死骸を、
+　同じ目の高さから見つめながら……
+　思った。
+
+　この身体と、あの死骸との差は、何だろう？
+
+　目が見えて、
+　耳が聞こえて、
+　声を出せて、手足が動いて……
+
+　その程度じゃないのか？
+　それ以上、何の違いがある？
+
+　胸に手をあててみる。
+　ゆるやかな心臓の鼓動。
+
+　……だが、こんなもの、命の証でも何でもない。
+
+　体組織に血流を送り込む、ただそれだけの無意味なポンプ音だ。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<wait time="900">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　さっきまでの恐怖は、
+　どこに行ってしまったのか？
+
+……そうだ、死んでしまったんだ。
+死ぬことに怯え、
+殺すことに戦慄いていた魂もろとも。
+
+　哀れな少年の、ちっぽけな死。
+
+　記憶を奪われ、無理矢理、
+　殺し屋として訓練され……
+　ついに最後まで、
+　耐え抜くことができなかった。
+
+だがもう、彼はこの世にない。
+死を望み、死の意味を知ったとき、
+彼は死んだ。この世界から消滅した。
+
+　その身体だけが残されて、
+　今、ここにある。
+
+//> left factory2 wide 255 elen^5
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<BUSTUP NAME="elen" face="5" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「立ちなさい、ツヴァイ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ツヴァイ……それが、この抜け殻になった身体の名。
+
+　つまりは、ただ、それだけのことだ。
+
+　頭が軽い。
+　心は凪いだ海のように静まっていた。
+
+　そうとも、苦しむ理由なんてない。
+
+　痛みも、悲しみも、すべて生者の背負うものだ。
+
+　ツヴァイという名の屍が、何を感じる必要がある？
+
+　今はもう、自分で冷笑めいたものさえ浮かべて見せる余裕がある。
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　どうしたんだ、アイン？
+　どうして、そんな寂しそうな顔をする？
+
+　君のおかげで救われたのに。
+　こんなに、楽な気持ちになれたのに。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「見事な腕前ね、ツヴァイ」
+
+<BOX type="0">//%w
+　ウォレス大尉の死骸を一瞥し、アインは言った。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「試験は、合格」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これであなたは、
+　インフェルノの一員よ」
+
+<A HREF="0100.txt" OPERATOR="">//~ 0100

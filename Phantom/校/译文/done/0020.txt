@@ -1,0 +1,530 @@
+//> black dummy center 255
+//$ 0 _1 0
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="2000">
+<BOX type="0">
+  抬起眼皮的话，
+  就可以从梦中醒来……
+  这样祈祷着，睁开双眼。
+
+//<bgm src="l_phantom" mode="fadein" old="fadeout" time="10" loop="on">
+//> left room1 wide 255
+//$ dream.swa 0 255
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+  ……看样子只是虚幻的期望啊。
+  和刚才一样的房间，同样的床，同样味道的空气。
+  唯一不同的，只是身边没有人的气息。
+
+  头好痛……身体的关节也是。
+  记得没错的话，我是被打昏过去了。
+  ……对啊，明明应该被杀掉的啊。
+
+  起身，看着自己的双手，
+  没有问题，还可以活动。
+  我……还活着。
+
+  好冷……
+  身上穿着的，依旧是那件像医院检查时所穿的白色睡衣一样的衣服。
+
+  但是这里应该不是医院之类的地方吧。
+  重新审视四周。
+  如同空荡荡的仓库一般，煞风景的房间。
+
+  墙上、地上都有开裂的地方，露出了水泥。
+  天花板附近有一个小的窗户，但位置太高难以窥视。
+
+<CLEAR><BACKGROUND SRC="岺応撪晹壆僪傾暵偠>//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  出口……是一扇锈迹斑斑的铁门。
+
+  简陋地吊在那里的、孤零零的电灯泡，
+  就像痉挛着一样，灯光忽明忽暗。
+  看起来电压并不十分稳定。
+
+  这一切……果然，自己还是在梦中吧。
+  恍惚地想着，我光着脚踩到地面。
+
+  水泥地面带来的冰冷、发麻的感觉刺向脚心。
+  这种强烈的感觉……看来，不是梦啊。
+
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se knock
+<CLEAR><BACKGROUND SRC="岺応撪晹壆僪傾奐偒>//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  本以为锁上了的铁门，想不到简单一推就开了。
+
+//!se doorOpen
+//> left factory3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+  这里……应该是废弃的工厂之类的吧。
+  空间非常开阔，月光从窗外照了进来。
+  透过玻璃残缺不全的窗口，夜间的冷风毫不留情地吹着我的身体。
+
+//# factory2 1
+<CLEAR><BACKGROUND SRC="factory2>//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  眼睛稍稍习惯了黑暗以后，我踮起脚尖走在冰冷的水泥地面上。
+
+  墙上有一块写着什么注意事项的金属板，
+  但全都是英文，自己根本读不懂。
+
+  偶然抬头，一块花纹边饰的警告牌映入眼帘。
+
+  “MAX HEADROOM 15 FEET”
+
+  ……「高度限制」的警告么
+  单位是英尺……这里，难道是美国吗。
+
+  我离开建筑物，来到外面。
+
+//> left nightField wide 255
+//$ wind.swa 0 255
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+  周围能看到的是无尽的荒野，只有风呜呜地吹过。
+  ……这样的景色，只在电视上见过，
+  不管怎么想，这里都不是日本吧。
+
+<BOX type="5">//%sR
+「你醒了？」
+
+<BOX type="0">//%w
+  背后，传来曾经听到过的声音。
+
+//# 0020p1 1
+<CLEAR><BACKGROUND SRC="0020p1">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  ……我不由得向后退了一步。
+
+<BOX type="5">//%sR
+「不用害怕也没有关系。
+  已经不会再袭击你了」
+
+<BOX type="0">//%w
+  还是一样的冷静，看不出任何感情的口气。
+  手里拿着的不再是闪着凶光的小刀，
+  取而代之的，是一件带有毛皮领口的防寒服。
+
+  这个女孩……究竟是什么人
+
+「你是……」
+
+<BOX type="5">//%sR
+「名字的话，没有呐」
+
+<BOX type="0">//%w
+  不等我接着问下去，女孩低声喃喃地说。
+
+<BOX type="5">//%sR
+「称呼的话就用Ein好了，
+  一直以来别人都是这么叫我的」
+
+<BOX type="0">//%w
+  Ein……
+  感觉像是绰号之类的东西吧
+
+  虽然想知道的事情很多，但是一时之间我却不知道从哪里问起。
+
+//# factory4 1
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……之前，为什么要做那样的事情？」
+
+  最先从口中发出的疑问。
+
+  恐怕不是单纯的玩笑或恶作剧，
+  那个时候，她……Ein是抱着明显的杀意挥舞小刀的。
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为了证明你的才能」
+
+<BOX type="0">//%w
+「……才能？」
+
+  完全听不懂她在说什么。
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你，有着与生俱来的才能」
+
+「……杀人的才能，
+  生存的才能，
+  成为暗杀者的才能」
+
+<BOX type="0">//%w
+「怎么会……」
+
+  听到了令人吃惊的话。这家伙，突然间说什么啊。
+
+「我说啊，不要说让人搞不懂的话，究竟凭什么为依据的啊……」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你，没有被我杀掉」
+
+<BOX type="0">//%w
+「什……」
+
+  突然之间，我找不出可以反驳的句子。
+
+  刚才的战斗……
+  回想起来，还是不明白为什么会有那样的事。
+
+那个时候，在想什么？做了什么？大概，自己只是不顾一切的对少女刀刃相向……
+除此之外什么都想不起来。
+虽然还是自己的身体，却像别的什么人那样思考着。
+
+  但是毫无疑问，自己确实想要杀了她。
+  憎恨着，渴求着胜利，恐怕就是这样。
+  这么说来……
+
+最后还是Ein赢了啊。
+被她击打的瞬间，如果我的动作稍慢一步的话……不过，我真的刺中她了么。
+
+  想到这里，恐惧不禁在胸中扩散开来。
+
+//# elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「普通人的话，在那种状况下，首先会变得慌乱」
+
+「搞不清楚自己所处的状况，不知所措，最后一定会被杀掉的吧」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「但是你不同。 优先把握现状，寻找应对的方法，这就是你的才能」
+
+<BOX type="0">//%w
+「……」
+
+  这算什么……太荒唐了。
+
+<BOX type="5">//%sR
+「的确，到目前为止，你都没有察觉到自己的才能」
+
+「在平稳的生活中是无法体会的，只有当危险迫近的时刻，你的能力才会显现」
+
+<BOX type="0">//%w
+  这么说起来，Ein的右臂包着绷带。
+  难道说，是我的缘故……
+
+「所以，就要对我持刀相向吗」
+
+  就为了这种荒唐的理由？
+
+<BOX type="5">//%sR
+「是的」
+
+<BOX type="0">//%w
+  ……开什么玩笑！
+  在想什么啊，这个女孩？
+
+「毫无道理啊！差一点我就死掉了啊」
+
+<BOX type="5">//%sR
+「是这样」
+
+<BOX type="0">//%w
+  Ein一动不动的站着。
+  
+  相比焦虑，我更多的是感到困惑，
+  这个女孩，真的没有一丝感情么。
+
+「……一点都不在意吗？刚才你可是拼了命的要杀我哦？」
+
+//# elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我，是为了杀人而活着的」
+
+//# elen1^3 20
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不能杀人的时候，也就是我的死期」
+
+<BOX type="0">//%w
+  丝毫没有停顿的语调，Ein如此说道。
+
+  为了杀人而被赋予生命……吗？
+  偶然间，想起刚才那个银发的外国人。
+  对女孩下了什么命令的男人。
+
+「你是……杀手什么的吗」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯，是杀手」
+
+<BOX type="0">//%w
+  目瞪口呆……
+  没错，就是这种感觉。
+
+  Ein究竟多大呢？
+  的确，她给人以成年人的印象……
+  但仔细想一想，其实还是个孩子吧
+
+  这样的、可以说正值少女年纪的女孩子，是杀手？
+
+  开玩笑的吧？
+  没错，一笑了之就好了吧。
+
+  ……没错，不可能一笑了之。
+
+  手持小刀攻过来的Ein的姿态，
+  现在还深深印在脑海中。
+
+  无法忘记，那时的恐怖。
+
+「……那么，对我进行的测试，结果是什么」
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你也可以成为杀手，Zwei」
+
+<BOX type="0">//%w
+  我不由得感到愤怒，目光阴沉下来。
+
+「开什么玩笑……
+  为什么我非要这么做！？」
+
+//# elen1^6b 20
+<BUSTUP NAME="elen1" face="6b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为了活下去」
+
+<BOX type="0">//%w
+  Ein这样简短地回答了我。非常自然，仿佛所说的一切都顺理成章。
+
+<BOX type="5">//%sR
+「你，是Zwei。
+  排在我之后的第二名」
+
+「所以，不去杀人的话，你也不会被容许存在」
+
+<BOX type="0">//%w
+「不要用奇怪的方式称呼我！」
+
+  给我适可而止吧！控制不住焦躁的情绪，我这样怒吼道。
+
+「我可是，有着自己的名字啊……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ dark.swa 0 255
+  ……说到这里，喉咙梗塞住了。
+
+  为什么？为什么想不起来？
+  为什么说不出自己的名字？
+
+//$ requiem.swa 0 255
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+「我的……名字……」
+
+//# elen1^7b 20
+<BUSTUP NAME="elen1" face="7b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「已经，没有了」
+
+<BOX type="5">//%sR
+「再怎么想都是没用的，
+  你的记忆已经被全部消去了」
+
+<BOX type="0">//%w
+  怎么会……
+  开玩笑的吧……
+
+//# dummy 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  对了，说起来……确实什么都搞不明白。
+  这里究竟是哪里？
+  来这里之前我在哪儿？
+  在那张硬床上醒来之前的事，什么都想不起来……
+
+  可以使用语言，眼睛看到的东西也都能理解。
+  但是，这样的知识是在哪里取得、怎么取得的呢？
+
+  ……真的有这种荒唐的事吗？
+  我到底，来自哪里啊……？
+
+「……是你……做的么？」
+
+  刚刚Ein说过，我的记忆被『消去』了。
+  不是事故，那么一定是被谁故意从头脑中消除的。
+
+//# elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……不是我。是赛斯·玛斯塔」
+
+「……我的主人，
+“Inferno”组织的一员，是他处理了你的记忆」
+
+<BOX type="0">//%w
+  赛斯·玛斯塔……
+  那个银发的外国人么……
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你看到了不应当看到的东西，
+  本来应该被抹杀」
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「但是主人注意到你的才能，
+  认为这样让你死掉太过可惜」
+
+「所以他夺去了你的记忆，为了你的另一个人生」
+
+「成为Inferno的一员，
+  作为暗杀者的人生」
+
+//# elen1^6b 20
+<BUSTUP NAME="elen1" face="6b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你已经脱胎换骨般的改变了」
+
+//# dummy 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  冷冷的风，
+  刮过空旷无物的荒野，
+  还有，变得一无所有的，空洞的心灵。
+
+<CLEAR><BACKGROUND SRC="媰偒偔偢傟傞儗僀僕">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  我跪在地上，像祈愿一般地将头贴上地面。
+  风，为什么如此寒冷。
+
+「为什么啊……为什么，我会遇到这样的事啊……」
+
+「我到底，做了什么啊！」
+
+//# elen1^2 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……拒绝的话，也可以呐」
+
+<BOX type="0">//%w
+  比刮过荒野的寒风更加冰冷刺骨，Ein的声音响起。
+
+<BOX type="5">//%sR
+「那时，按照最初的计划，
+  你将死在这里」
+
+「我的任务，本来就是要将你杀掉」
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「但是，现在不同了，从明天开始，你将在这里学习作为暗杀者所需掌握的一切」
+
+//# elen1^6b 20
+<BUSTUP NAME="elen1" face="6b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「然后，你将成为名副其实的Zwei……我的分身」
+
+//# dummy 20
+<CLEAR><BACKGROUND SRC="媰偒偔偢傟傞儗僀僕">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  眼泪滴落在干涩的沙地上，留下了不起眼的黑色斑点。
+
+  自己失去了什么？
+  失去的有多么珍贵？
+  这一切，都无从知晓。  
+
+  残留下的，只有恐惧、孤独。
+  心中，仿佛被撕开了一个空虚的大洞……
+  好深，好暗，自己在不住的害怕着，
+  泪水，止不住的流淌下来。
+
+//# elen1^7b 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<BUSTUP NAME="elen1" face="7b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「能哭的话，就痛快地哭出来吧」
+
+「因为，
+  哭泣的机会，已经不多了」
+
+//# dummy 20
+<BOX type="0">//%w
+「……这是梦，一定，只是梦而已」
+
+「……全部都是骗人的，这一切，全都只是噩梦而已……」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这么想能够安慰自己的话，
+  就把这当成是一场梦吧」
+
+「……只不过，这场梦，将会很长……」
+
+<A HREF="0030.txt" OPERATOR="">//~ 0030
+
+.

@@ -1,0 +1,284 @@
+<BOX type="0">//%w
+「……那个」
+
+　我叫住了正打算离去的克劳蒂娅，
+　但自己究竟想说什么，却还没有想好。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她那双明亮的淡褐色眼睛，又一次望向了我这边。
+
+<BOX type="5">//%sR
+「什么事？」
+
+<BOX type="0">//%w
+「那个……」
+
+　谢谢。
+　其实只要说出这句话就够了。
+　但是，无法抑制的感情，涌上了我的胸膛。
+
+　为什么会这样啊。
+　她明明是第一个鼓励我、安慰我的人。
+　自己明明那样发自内心的欣喜……
+
+　虽然没有实际应用的信心，但是嘴里说出来的毫无疑问是英语。
+
+「Ein说……
+　她是以杀人为生的」
+
+「而且，我终有一天也会变得和她一样」
+
+　是这样啊，我终于说出了自己的心里话。
+　但是自己为什么会那么在意克劳蒂娅的感受呢。
+
+「刚才你说过了吧，给予我的也不会少。
+　就是说你们会给我报酬吧？」
+
+「但是事实上，正如Ein所说……
+　我只能按照Inferno的命令，像奴隶一样活着吧？」
+
+　处在这样的境地，即使有更委婉的说法，自己也只能佯装不知。
+　感谢什么的，根本做不到。
+
+「这样的生存方式下，你说我还能得到什么？」
+
+　用英语表达让我有些言语不清，
+　但即便如此，那份情感还是真真切切地表达了出来。
+
+　作为组织的干部，听到这样令人不快的话却不辩解，
+  心情一定大为受损了吧。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还真是能说会道啊」
+
+<BOX type="0">//%w
+　带着微笑，克劳蒂娅用英语说道……
+　但是，话语中不带丝毫讥讽，有的只是单纯的赞赏。
+
+<BOX type="5">//%sR
+「的确，如果你没有被我们牵连进来的话，应该会过着更加幸福安稳的生活吧」
+
+「我们剥夺了这种可能性，强迫你选择另一种生活方式……」
+
+「但你并不是什么奴隶，你仍然有着自由」
+
+<BOX type="0">//%w
+「……自由？」
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样说吧……」
+
+<BOX type="0">//%w
+　仿佛是为了寻找合适的表达方法，
+　克劳蒂亚一边思考，一边抬起头，视线漫无目的地飘荡
+
+<BOX type="5">//%sR
+「这样……
+　我们把人生看做是一次驾车旅行」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「普通的司机，可以自己决定行驶的路线，这的确是你所没有的自由」
+
+「但是，即使在只有一条的既定线路上行驶。对司机而言，也是有他的自由的」
+
+<BOX type="0">//%w
+「……？」
+
+　完全不明白，她到底在说什么啊。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「重要的是速度呦，Zwei」
+
+<BOX type="0">//%w
+　克劳蒂亚断然说道。
+
+<BOX type="5">//%sR
+「即使是在规定好的路线上，但是选择将这条路如何走下去，不正是你的自由吗？」
+
+「只要你期望着，并且尽自己最大的努力……就能够加速去到任何地方」
+
+「这样的话，
+　你就可以超越竞争对手，
+  终有一天会到达成功的顶点」
+
+「选择生存的方式，或是用这种生存方式成为胜利者，这两者可是完全不同的哦」
+
+<BOX type="0">//%w
+　这样的生存方式……确实存在。
+
+　而且自己感觉她的话并不是痴人说梦。
+
+　克劳蒂亚真挚的话语，与其说是给我建议，
+  倒不如说……是为了让我相信她。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们为你准备的，正是可以让你走向成功的路线」
+
+「这种生存方式将使你充分利用自身的才能和潜力，最终达到无人能及的高度」
+
+<BOX type="0">//%w
+「……成为杀手？」
+
+　苦闷的声音中，我的话语脱口而出。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没有错，而且是成为最强的杀手」
+
+<BOX type="0">//%w
+　说到这里，克劳蒂亚顿了一下，又补充了一句。
+
+<BOX type="5">//%sR
+「如果你……那样期望着的话」
+
+<BOX type="0">//%w
+「……」
+
+　那样……期望着的话……
+
+<BOX type="5">//%sR
+「不要再把自己当做是奴隶」
+
+「只要你还抱有那种想法，在你轻蔑自己的同时，也将成为胜者的机会拱手相让」
+
+<BOX type="0">//%w
+　说到这里，克劳蒂亚刚才决然的表情缓和了下来。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然我还有很多话想跟你说
+　……不过已经没有时间了」
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「再见了，Zwei，
+  下次再会吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「那个……克劳蒂亚小姐……」
+
+　再一次的，我叫住了即将离去的她。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这次，我非常清楚自己应该说什么。
+
+「……谢谢你」
+
+<BUSTUP NAME="crou2" face="4" MODE="on" zoom="" ALIGN="right">//# crou2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂亚回过头来，
+  露出了我今天见到的最明朗的微笑。
+
+<BOX type="5">//%sR
+「下次见面的时候。
+  你肯定会成长到令我刮目相看的，对吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　说完，她就离开了这座建筑。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left sunset wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　真是格外漫长的一天啊。
+
+　就这样望着太阳沉入地平线，
+  这种心情已经很久没有过了。
+
+<CLEAR><BACKGROUND SRC="nightfield">//# nightfield 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　夜晚，荒野上传来风吹过的声音，之后是无尽的沉默。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="radioCH" mode="normal" time="" loop="off" effect="">//!se radioCH
+我一个人听着收音机播放的节目。
+<se id="1" src="radioCH2" mode="normal" time="" loop="off" effect="">//!se radioCH2
+虽然自己已经可以听懂节目的主要内容，
+但不知为何，今夜无论怎么听，都还是连一句话都听不进去。
+
+　单调的日常练习被打乱了节奏，情况开始变得混乱。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　白天的时候，预料之外的来访者……克劳蒂亚·麦肯宁。
+
+<BUSTUP NAME="crou2" face="4" MODE="on" zoom="" ALIGN="right">//# crou2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“下次见面的时候。
+  你肯定会成长到令我刮目相看的，对吧”
+
+<BOX type="0">//%w
+　是这样吗。
+　应该是这样吗？
+
+　他人对自己寄予了期望……
+　这会带来多大的鼓励与力量么，
+  一切都是未知，
+  现在自己明白的，只有其中的痛苦。
+
+　有了她的这句话，多么严酷的挑战自己都可以跨越吧……
+　为了那样的期待，一步步努力下去吧。
+
+　既然如此，
+　我就这样按照克劳蒂亚的期待，在训练中拿出干劲来吧……
+　不过，自己真的应该成为优秀的杀手吗？
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“如果你那样期望着的话”
+
+//> left room1d wide 255 dummy 20 dummy 22
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　没有可以打发时间的事可做，我决定早早睡觉。
+　不过，自己也不清楚是不是比平时睡的还要早。
+
+　……果然还是睡不着啊。
+
+　我就这样凝视着黑暗，在一片沉寂中聆听着，等待着。
+　……Ein会回来吧。还是说，先到来的是明日的黎明吗？
+
+<CALC WORKNAME="0060a" OPERATOR="1">//
+<A HREF="0070.txt" OPERATOR="">//~ 0070

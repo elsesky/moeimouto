@@ -1,0 +1,103 @@
+<CALC WORKNAME="M2006" OPERATOR="1">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哟，Phantom，今天什么风把你吹来了」
+
+<BOX type="0">//%w
+「弹药的存货不足了，我来补充一下」
+
+<BOX type="5">//%sR
+「你来的正是时候」
+
+「你的崇拜者有东西送给你」
+
+<BOX type="0">//%w
+「崇拜者？」
+
+　我想不出会是谁。
+
+<BOX type="5">//%sR
+「冈宾诺家的那个迈尔·卡尔罗尼嘛」
+
+<BOX type="0">//%w
+「哦……」
+
+　莉兹这么一说我才想起来。
+  两周以前，我曾经帮他摆平了冈宾诺的那个顾问。
+
+<BOX type="5">//%sR
+「他不知从哪打听出你偏爱左轮手枪」
+
+「无论如何也希望伟大的Phantom大人使用这把枪……喏，就是这把」
+
+<BOX type="0">//%w
+「……MATEBA？」
+
+　又是一把奇特的枪……
+
+（注：MATEBA，意大利枪械公司，以生产可以发射出转轮最下面子弹的架空左轮手枪而闻名）
+
+<BOX type="5">//%sR
+「什么嘛，你知道的啊？
+  真是没意思」
+
+「这把枪怪里怪气的，我可是弄不明白」
+
+<clear>
+<BACKGROUND SRC="mataba_long_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　莉兹会困惑也不是没有道理。
+　这把风格独特的意大利左轮手枪，有着与众不同的构造。
+
+　与一般的左轮手枪相比，这把枪的构造可以说是上下颠倒。
+  枪管对着的是气缸的下部，也就是说，子弹会从转轮最下面的那一发开始射出。
+
+　由于枪管较为靠近手腕，因而在射击时可以有效抑制枪身的震动，从而减轻后坐力的影响……至少理论上是这样。
+
+「……这一次就试试这把枪好了」
+
+　这把枪用的是与“蟒蛇”一样的0.357口径马格南弹。
+　如果说这种奇特的结构能够取得意想不到的效果，那么换着用一用倒也不错。
+
+<clear>
+<BACKGROUND SRC="passage1">//
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「居然连这种枪都要试一试，你还真是喜欢左轮啊……」
+
+<BOX type="0">//%w
+「你才是，使用枪身那么长的HARDBALLER，不会感到碍事吗？」
+
+<BOX type="5">//%sR
+「啰嗦，用不着你来操心」
+
+<calc workname="gun05" operator="1" mode="global">
+<A HREF="#暘婒" OPERATOR="1127=1">
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+<MARKER NAME="#暘婒">
+<A HREF="1158a.txt" OPERATOR="1150=1">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

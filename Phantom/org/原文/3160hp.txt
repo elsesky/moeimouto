@@ -1,0 +1,11 @@
+//> left USP wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="USP">//
+<WIPE EFFECT="fade" TIME="20">
+<CALC WORKNAME="‚f‚t‚r‚o" OPERATOR="1" MODE="global">//
+<wait time="200">
+<A HREF="3166a.txt" OPERATOR="1406a=1">//~ 3166a
+<A HREF="3166.txt" OPERATOR="">//~ 3166

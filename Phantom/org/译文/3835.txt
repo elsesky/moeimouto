@@ -1,0 +1,320 @@
+//> right church2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="church2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这……这是干什么!?」
+
+<BOX type="2">//%w
+　在怒吼声中，黑社会众人挥舞着武器蜂拥杀向礼拜堂……明白了他们意图的美绪用悲痛的声音朝志贺喊道。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　但志贺只是悲伤望了美绪一眼，便扭过头开始专心指挥部下的进攻。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「太田、本庄……用车把美绪小姐送走」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　两只大手客气但有力地搭在了美绪的肩上。
+
+　保护美绪……
+
+　志贺的言中之意与美绪所希望的结果相去甚远。
+
+　志贺和梧桐组的手下想要将对美绪的安全构成威胁的人统统抹杀掉。
+
+　{名}和{ヒロイン}都是他们的目标……
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「等一下、等一下!」
+
+<BOX type="2">//%w
+　没有人在意少女的呼喊。
+
+　自己即将被强行拉回到没有{名}的世界。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不要!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　美绪拼尽全身力气甩开牢牢抓着自己的男人的手，朝着化为战场的礼拜堂跑去。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="INchurch4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　Vz61的子弹打光了。
+
+　就像正等着这一刻一样，一个手持日本刀的家伙从侧廊迎面朝我冲来。
+
+<BUSTUP NAME="億儞搧" face="2" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喝啊啊啊啊!!」
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　怒喝声中，刀身猛然挥下……
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　千钧一发之际，我像使用十手那样用Vz61的枪管和枪柄将刀架住了。
+
+（注：十手，江户时代捕吏所持的约1尺5寸长、近柄处有钩的铁制捕棍）
+
+我就这样用Vz61牵制住日本刀，同时将手枪顶住对手的腹部扣下扳机。
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="#ffffff">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="INchurch4">//# INchurch3mob 1 dummy 19
+<BUSTUP NAME="億儞搧" face="3" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="5">//%sR
+「咳啊!!」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　内脏四散横飞。
+  男人像被子弹击飞了一样朝礼拜席的方向倒了过去。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　还有多少人……
+　还有多少人在？
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　我一边朝所有移动的东西射击，一边在内心发出这样的哀嚎。
+　当前的状况令人绝望。
+  一旦手枪的子弹打光，就万事休矣了。
+
+　可恶……到此为止了吗……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BOX type="5">//%sR
+「{名}同学!!」
+
+<CLEAR><BACKGROUND SRC="3835p3">//# 3835p3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="旤弿懌壒" mode="normal" loop="off">
+<BOX type="0">//%w
+　在男人的怒吼声中响起了一个绝不可能出现的声音，我不禁怀疑起自己的耳朵。
+
+　在场的梧桐组众人也统统目瞪口呆地愣在了原地。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　仿佛是时间停止的魔法起了效果，在突然降临的静寂中，她径直朝我跑来。
+　水手服的下摆在硝烟与血腥味中飘荡着。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="書偒偟傔傞" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="3835p2">//# dummy 20 3835p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「{名}同学!!」
+
+<BOX type="0">//%w
+「……美绪？」
+
+  长长的黑发伴随着泪水散在空中，美绪一头扎进了我的怀里。
+
+<BOX type="4">//%sL
+「{名}同学、{名}同学……」
+
+<BOX type="0">//%w
+　她将头埋进我的胸口，不住地哭喊着。
+
+<BOX type="4">//%sL
+「见到了……
+　我又一次见到你了……」
+
+<BOX type="0">//%w
+　为什么……美绪会在这里？
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# INchurch3mob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，一个我曾经见过的人推开惊愕的梧桐组众人走了进来。
+
+　是志贺。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga3^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「美绪小姐，快闪开!
+　这家伙可是把你……」
+
+<BUSTUP NAME="mio1" face="0" MODE="on" zoom="" ALIGN="right">//# mio1^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不要!!」
+
+<BOX type="0">//%w
+　美绪用还带着泪水的大眼睛愤怒地瞪着志贺。
+
+<BOX type="5">//%sR
+「不要过来！」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="left">//# siga3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……冷静一下吧，美绪小姐。
+　这个男人一直都在欺骗你」
+
+<CLEAR><BACKGROUND SRC="3835p1">//# dummy 19 3835p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　美绪无言地抓住了我拿着Vz61的那只手。
+
+「……美绪？」
+
+<BOX type="0">//%w
+　接着，她将枪身上抬，对准了自己。
+
+　在场的所有人一瞬间全都紧张起来。
+
+<BOX type="4">//%sL
+「{名}同学。
+  如果这些人敢动一下的话……」
+
+「就请朝我开枪吧」
+
+<BOX type="0">//%w
+「……美绪」
+
+<BOX type="4">//%sL
+「我不知道该怎么战斗，也没有{ヒロイン}同学那样的勇气」
+
+「所以无法成为你的力量……为此我很不甘心，但又没有办法」
+
+「但是现在……只有在现在，我可以为你提供帮助」
+
+<BOX type="0">//%w
+　这里明明是你绝对不应涉足的地方……
+
+　为什么你会来？
+　只是为了这样的理由吗……
+
+<BOX type="4">//%sL
+「请告诉他们。
+  告诉他们你会开枪」
+
+<BOX type="0">//%w
+「……」
+
+　我轻轻地将手绕过美绪的肩膀。
+  在外人看来，自己就像是在用力地勒着她的脖子。
+
+「所有人都给我慢慢地放下武器」
+
+　我就这样抱着美绪的肩膀营造出控制住她的假象，同时用低沉的声音威胁志贺一伙人。
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# siga3^3 19 dummy 20 INchurch3mob 1
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20 INchurch3mob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……全都扔掉。
+　按他说的去做」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<BUSTUP NAME="棎擖傗偔偞" face="" MODE="on" zoom="" ALIGN="right">//# siga3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听到志贺的声音，梧桐组众人显得有些犹豫。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20 INchurch3mob 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「全都扔掉!!」
+　
+　在志贺的严令下，男人们非常不甘地扔掉了武器。
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+
+「……把路让开」
+
+　充满杀意的人群中如分开红海一般出现了一条通路。
+
+　我们两个人小心地走了进去。
+
+“到了出口就开始跑，明白了吗……”
+
+　听到我在耳边的细语，美绪轻轻地点了点头。
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# siga3^3 19 dummy 20 INchurch1 1
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20 INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「美绪小姐……」
+
+<BOX type="0">//%w
+　听到志贺困苦的声音，美绪轻轻对着他摇了摇头。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「你们可不要动哦……」
+
+　逃出包围圈以后，我最后一次对梧桐组众人这样威胁道。
+
+「要是敢追过来我就杀了她，听明白了吗……」
+
+　说完，我松开绕在美绪脖子上的胳膊，接着拉住她的手……
+<se id="1" src="擇恖憱傞" mode="normal" time="" loop="off" effect="">//
+　如脱兔一般地跑出了礼拜堂。
+
+<CLEAR><BACKGROUND SRC="church2">//# church2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　和约定的一样，美绪也全力奔跑起来。
+　令人吃惊的是，她的速度很快，双脚既轻盈又充满力量。
+
+<A HREF="3860.txt" OPERATOR="">//~ 3860

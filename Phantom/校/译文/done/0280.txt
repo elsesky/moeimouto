@@ -1,0 +1,343 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　虽然不知是从什么时候开始的，
+  不过，看来我们两人早就被Inferno盯上了。
+
+　估计他们猜测我们会与赛斯接触，
+  为了将我们当成诱饵，才没有采取行动。
+
+　可是到最后，
+  尽管我们来到了盐湖城，赛斯却没有出现。
+  失去耐心的Inferno终于决定抓捕我们。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left tortureroom wide 255 dummy 20 dummy 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　地下室的拷问已经进入了第三天。
+
+　虽然我没有参与码头的袭击，
+  可是之后带着负伤的{ヒロイン}逃跑却是不争的事实。
+
+　尽管我已经经受了数次的拳打脚踢，
+  不过现在肉体上的伤痛对我来说已经没有感觉了。
+
+　这次我是真的觉得自己要死了。
+
+　我已经走投无路，脱身乏力了。
+
+　好不容易找回来的{姓}{名}的人生……
+　仅仅过了3天就要结束了。
+
+　这么快就迎来死亡，就像是蜻蜓一样啊……
+　严酷拷问下的我，在意识朦胧中这样想着。
+
+　尽管这段时间极其短暂，
+  但自己的确因为获得自由而感到了喜悦吧。
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　颧骨再次受到重重的一击，我的眼前闪着白光。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「差不多也该交代了吧」
+
+「赛斯那家伙在哪里？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　鬼才知道。
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　又是一拳。
+  也不知道被打的是左脸还是右脸。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你带走的Phantom去哪里了!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我就算知道也不会告诉你。
+　我冷笑一声，表达着不屑。
+
+　幸好被Inferno捕获的只有我自己。
+
+　分开行动的{ヒロイン}好象把追兵甩掉逃跑了。
+
+　所以他们暂时还不会放弃。
+  与这些人作对手，我必须时刻保持警惕。
+
+　这时，正要再次挥拳的莉兹，不知被谁从背后叫住了。
+
+<BOX type="5">//%sR
+「你退下吧，莉兹」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可是……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「用那种方法是问不出什么的。
+  交给我好了」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……是么」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se doorslam
+<BOX type="0">//%w
+　砰的一声，门被重重地摔上，莉兹走了出去。
+  狭窄的地下室中，只剩下了我和克劳蒂娅。
+
+<clear>
+<BACKGROUND SRC="恞栤傪庴偗傞儗僀僕">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　像这样两人独处，自从那个暴风雨的夜晚后还是第一次。
+
+<BOX type="5">//%sR
+「窃听器已经切断了。
+  你现在想说什么都没关系」
+
+<BOX type="0">//%w
+「是这样吗」
+
+　在无言地对峙中，时间慢慢流逝着，
+  虽然没有交谈，
+  不过，拥有许多共存秘密的两人之间，没有什么交流的必要。
+
+<BOX type="5">//%sR
+「如果不抄近路的话，
+  说不定就不会被抓住了」
+
+<BOX type="0">//%w
+「是这样呢」
+
+　克劳蒂娅的声音冷冷的，这并不是没有道理。
+  我将她好不容易提供给我的机会，像垃圾一样扔掉了。
+
+「因为我想要的太多了」
+
+<BOX type="5">//%sR
+「你太傻了」
+
+<BOX type="0">//%w
+「你说的没错」
+
+　可是，我不后悔。
+
+「这才是真正的我」
+
+「为了自己的意愿而竭尽全力」
+
+「只不过最后没有成功，仅此而已」
+
+<BOX type="5">//%sR
+「你是这么想的吗？」
+
+「你还能呼吸、还能思考，四肢健全的待在这里」
+
+「可是你觉得你已经输了，是么？」
+
+<BOX type="0">//%w
+「……听你的口气，我好象还有机会」
+
+<BOX type="5">//%sR
+「没错」
+
+<BOX type="0">//%w
+　克劳蒂娅好象在责备我这种破罐子破摔的态度，用尖锐的话语打断了我。
+
+<BOX type="5">//%sR
+「如果大家真的怀疑你跟赛斯的关系」
+
+「那么审问就不会这么简单结束了，对吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「你的行为虽然可疑，但也不能证明你跟赛斯的背叛有关」
+
+「只不过，组织无法理解你在想什么」
+
+<BOX type="0">//%w
+「……杀人机器Zwei已经恢复了记忆这件事，还没有人发现吗」
+
+<BOX type="5">//%sR
+「正是如此」
+
+「所以你只要能证明自己的清白就可以了」
+
+<BOX type="0">//%w
+「证明……清白？」
+
+<BOX type="5">//%sR
+「你要用行动来证明自己的伙伴是谁，自己的敌人是谁」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「在所有人的面前，用你的手把赛斯杀掉吧」
+
+<clear>
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　结果还是这样吗。
+　不管遇到什么样的挫折，如果不踩着别人的尸体就寸步难行。
+  这样的人生，会被神所认同吗。
+
+「不要再对我提这样的事了。
+  我已经没有敌人，也没有伙伴了」
+
+「不管是赛斯还是Inferno，统统与我无关。
+  想要厮杀的话，就让他们随便厮杀好了」
+
+「……不要把我也卷进去」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　是的，就算离开这里……又能怎样呢？
+  不过是做回原来的杀手而已。
+  这样的生活，我已经厌倦了。
+
+<BOX type="5">//%sR
+「……那么，我想问一下」
+
+「Ein是你的敌人还是伙伴？」
+
+<BOX type="0">//%w
+　克劳蒂娅的这句话，比莉兹的拳头更加有效。
+
+<BOX type="5">//%sR
+「你想帮她吧？」
+
+「为此，你才放弃了回日本的机会。不是吗？」
+
+<BOX type="0">//%w
+「……你想说什么？」
+
+<BOX type="5">//%sR
+「现在Inferno依然在全力追查Phantom的下落」
+
+「因为她是找到赛斯藏身之处的关键」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果在发现她之前，能将赛斯收拾掉的话……」
+
+「Inferno就没有理由再疯狂地追杀Phantom了」
+
+「即使是组织，也有无暇应对的东西」
+
+「为此，就需要能够迅速摆平事件的、手段高明的杀手」
+
+<BOX type="0">//%w
+「……你就那么希望让我去杀他吗？」
+
+「为什么？」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为我希望你能离开这里」
+
+「希望你能为此杀死赛斯，重获组织的信任」
+
+「我不想让你死在这个无聊的地方」
+
+<BOX type="0">//%w
+　……这样的台词，自己也曾说过。
+
+　{ヒロイン}……
+
+　即使我会像蜻蜓一样死去，但在那之前，
+　如果能为她做些什么的话……
+　以这样的方式结束生命，对自己也不算坏吧。
+
+「赛斯的行踪呢？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们已经放弃继续追踪他了」
+
+「不过，我们已经布好了陷阱，就等他自投罗网了」
+
+<BOX type="0">//%w
+「……自投罗网？」
+
+<BOX type="5">//%sR
+「因为与Inferno的瓜葛，
+  他应该不会继续待在美国」
+
+「所以赛斯肯定会考虑向国外逃窜……」
+
+「因此，我们正监视着他有可能联系的组织」
+
+「如果他要行动的话，
+  应该就在今夜或明天……」
+
+「对于赛斯而言，最紧迫的就是时间，他不可能按兵不动」
+
+<BOX type="0">//%w
+「不被信任的我，会被列入追击者名单中吗？」
+
+<BOX type="5">//%sR
+「我会尽力帮你的」
+
+「所以，一切都靠你了」
+
+「……怎么样？肯做吗？」
+
+<BOX type="0">//%w
+「……」
+
+「我做」
+
+　可以做到……
+　说起来，最后的那个晚上，
+  我在{ヒロイン}的面前也这样发过誓。
+
+　下一次射击的时候……我会以自己的意志扣动扳机……
+
+「请让我来做吧」
+
+「赛斯，由我来杀死」
+
+<CALC WORKNAME="0280" OPERATOR="1">//
+<A HREF="0290.txt" OPERATOR="">//~ 0290

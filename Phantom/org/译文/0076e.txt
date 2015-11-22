@@ -1,0 +1,329 @@
+<CALC WORKNAME="pyson" OPERATOR="1">//
+<CALC WORKNAME="SWM29" OPERATOR="1">//
+<CALC WORKNAME="50AE" OPERATOR="1">//
+<BOX type="0">//%w
+「试试其他的枪吧……更大、更具威力的那种」
+
+<BOX type="5">//%sR
+「……我明白了」
+
+<A HREF="#嬋側偟" OPERATOR="0076d=1">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="#崌棳">
+
+<MARKER NAME="#嬋側偟">
+//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<MARKER NAME="#崌棳">
+<BOX type="0">//%w
+　虽然这么说，
+  Ein递给我的手枪，依旧和训练中用的那把没什么区别。
+
+「我说啊，这把枪……」
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 cm 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「试着打开弹匣看看」
+
+<BOX type="0">//%w
+<se id="1" src="02_03" mode="normal" time="" loop="off" effect="">//!se 
+　我照她说的打开枪栓，
+　将收纳子弹的转轮横着推出来。
+
+　没什么特别的嘛……虽然这么想，但自己马上注意到子弹尾部刻着与以往不同的印章。
+
+<CLEAR><BACKGROUND SRC="357抏">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+　我拔出一发子弹，仔细地观察。
+　的确，弹头的形状和材质与一般子弹不同，
+  给人一种说不清的不协调感。
+
+<se id="1" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是至今为止使用的0.38英寸口径的特制子弹」
+
+<BOX type="0">//%w
+　说着，Ein递给我一枚别的子弹。
+
+　将它们一对比，区别就很明显了，
+  递过来的子弹弹壳较短，
+  而从枪中拔出的子弹，则有着和转轮几乎一样的长度。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在装在转轮里的，是这把枪……柯尔特“蟒蛇”（Colt-Python）本来的专用弹」
+（柯尔特，世界著名枪械公司，由美国人萨穆尔-柯尔特创设，生产过如加特林、M16、M4等世界名枪）
+
+「0.357口径马格南弹。
+  弹体较长，因而装药量大，杀伤力之大远远超过其它子弹」
+（马格南，又译马格努姆，由美国史密斯-威森公司生产）
+
+「也因为这个原因，它的后坐力非常大，使用时需特别注意」
+
+//> left factory4b wide 255 dummy 20 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我拿着装好马格南弹的“蟒蛇”来到外面。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="僷僀僜儞3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　虽然之前Ein说了很多，不过持枪的感觉并没有什么不一样
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<CLEAR><BACKGROUND SRC="#ffffff">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="python_幩寕">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　虽然特别注意了，但我还是感受到极为强烈的后坐力，
+  枪声也比以前听过的要大得多。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……尽管如此，果然还是左轮手枪握起来更加容易。
+　相比自动手枪，可以更好地稳定住枪身。
+　这样的话，这种程度的后坐力我应该也能适应。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　被射穿的胶合板标靶上，留下了很漂亮的圆形弹痕。
+
+　用0.45口径自动手枪射击的时候，
+  留下的是更大的边缘参差不齐的弹痕……
+
+「它真的比0.45口径的更强吗？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是贯通力的原因。
+　二者的子弹初速是不可相比的」
+
+<BOX type="0">//%w
+　……原来如此。
+　又重又大的0.45口径ACP弹飞行速度较慢，
+　相反，0.357口径的马格南弹则因形体小、质量轻而可以高速飞行。
+  （注：ACP，即Automatic-Colt-Pistol，柯尔特自动手枪）
+
+　所以面对胶合板这种强度时，子弹会轻松贯穿目标，
+  威力无法完全发挥，只能留下小的弹痕……是这样吧
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「接下来是这把」
+
+<clear>
+<BACKGROUND SRC="magnum_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……这次的枪，外形出奇地大，而且异常沉重。
+  只是拿着它自己都感觉很辛苦。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「史密斯威森（Smith&Wesson）M29。使用0.44口径马格南弹……是被称为“手炮”的手枪」
+（注：手炮，即handcannon，又译掌炮、手持加农）
+
+「不要说是人，就连汽车引擎都可以一枪击毁。」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我试着架起枪。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　使用马格南弹，而且威力堪与0.45口径自动手枪匹敌……
+　这样的话后坐力会很惊人吧。
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　出乎意料地、比以往任何枪都要强烈的震动。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「打偏了呢」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「知道了」
+
+　慎重地瞄准，我再次打出一枪。
+
+<se id="1" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　仅仅是擦到，胶合板的下半部瞬间就被打飞，
+  这是何等的威力啊。
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……好的，自己稍稍有点明白了。
+
+　这把枪只能一发一发地点射，连射这种事根本没戏，
+  搞不好自己还会因后坐力失去平衡。
+
+　如果将这样的威力和自动手枪的机能结合起来，
+  结果一定是最强的吧……
+
+「马格南子弹的话，只有左轮手枪能使用吗？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　虽然我只是随便地问了问，但Ein却非常认真地回答了我。
+
+<BOX type="5">//%sR
+「不是的……也有使用马格南弹的自动手枪」
+
+「想试试吗？」
+
+//> left room2 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 Ie 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是以色列制造的沙漠之鹰」
+（注：沙漠之鹰，即Desert-Eagle，由以色列军事工业公司IMI制造）
+
+<clear>
+<BACKGROUND SRC="EAGLE_000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这家伙……是怎样的一把枪啊。
+
+　尺寸比柯尔特自动手枪大出两圈。
+  重量也凌驾于0.44口径马格南左轮之上。
+  再加上狂暴粗鲁的造型……
+
+　……怪物。
+　这样的形容再合适不过了。
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 Ie 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「0.50口径，装弹数7发……
+　世界最强的手枪」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，在这之前，
+  先得看你能不能驾驭它」
+
+<BOX type="0">//%w
+「……试试看吧」
+
+//> left factory wide 255 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　拉开枪栓，装好子弹……
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+　不愧是这样的尺寸，就连枪栓都有相当的重量。
+　单单是装填子弹都能感到手上沉重的触感，
+  简直就像在挥舞铁制哑铃一般。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　瞄准的时候，枪身怎么也稳定不下来。
+　枪把太粗，自己没法用上全力。
+
+　与其说握住，不如说抱住这把枪更贴切，
+  这家伙，自己真的搞的定吗……
+
+<se id="1" src="20_01a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　后坐力的确厉害。
+  不过由于自己早有准备，并没有出现被向后掀翻的状况。
+
+　由于这把枪自身过于沉重，
+  反而抑制了枪身的上跳吧。
+
+　但是这份重量的确是个问题。
+　本来就过于粗大的枪柄，再加上这样的重量，
+  想要用手臂的力量稳定住几乎是不可能的。
+
+　……果然，子弹朝着预期以外的方向飞去。
+
+　即使自己能撑住第一枪带来的震动，
+  继续进行第二次、第三次的瞄准、射击也是不可能的。
+  这么一来，自动手枪反而领先一分。
+
+「这枪我用不了啊」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这么想的话，再多练习几次吧」
+
+「并不是每次都能选择自己喜欢的武器呢」
+
+<calc workname="gun19" operator="1" mode="global">
+<calc workname="gun20" operator="1" mode="global">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079

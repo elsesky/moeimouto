@@ -1,0 +1,237 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　时间毫不留情地流逝着。
+
+　美绪还在烦恼。
+
+躲在这里。
+江漣……{ヒロイン}是这么说的。
+
+　可是，这样真的好吗？
+
+　已经不会再与他见面了……
+　一想起{ヒロイン}那冰冷的宣言，自己的胸口就像插进了一把尖刀一般痛苦难耐。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="2">//%w
+　不经意间，美绪听到走廊中传来厚重的皮鞋踩踏地板的声音……
+
+　有什么人来了。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……您没有受伤吧？」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是……」
+
+<BOX type="2">//%w
+　不是第一次见到的面孔。
+
+　虽然已经过去了很久，但自己依旧清晰地记得。
+　2年前，将梧桐大辅的遗物带给美绪、自称是大辅部下的男人……
+
+<BOX type="5">//%sR
+「没记错的话……是，志贺先生？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「好久不见了」
+
+「我已经将您被诱拐的事告知了您出差在外的母亲……」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……哎？」
+
+<BOX type="2">//%w
+　妈妈应该正待在英国才对，为什么他会知道联系方法？
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「除了死去的梧桐先生，你没有其他人能够依赖……」
+
+「虽然有点不自量力，但我还是接下了这次的事件」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「在警察的协助下，赎金已经顺利交了出去」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「赎、赎金？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「犯人也按照约定释放了美绪小姐……」
+
+「看来我没有做错啊」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　美绪有些混乱了。
+
+　收受赎金的犯人……是说凯尔吗？
+
+　可是，她的话又算什么呢？
+　突然出现、改换{ヒロイン}之名的江漣呢？
+
+<BOX type="5">//%sR
+「那个……那个……」
+
+「我不太明白……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「您不明白也不是没有道理。
+　被囚禁了3天，会疲劳是理所当然的」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「请您忘了这一切，好好休息吧。
+  我会负责将您送回家的」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　这时，美绪想到。
+　自己有一件关于梧桐大辅的事必须要问。
+　这个名叫志贺的男人应该会知道。
+
+<BUSTUP NAME="mio1" face="e" MODE="on" zoom="" ALIGN="right">//# mio1^e 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^e 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个，志贺先生……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什么？」
+
+<BUSTUP NAME="mio1" face="e" MODE="on" zoom="" ALIGN="right">//# mio1^e 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^e 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个，是关于我的哥哥……叔父的事」
+
+「他真的是黑社会吗……」
+
+<BUSTUP NAME="siga" face="4" MODE="on" zoom="" ALIGN="left">//# siga^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「黑社会？」
+
+<BOX type="3">//%m
+　吃了一惊的志贺不禁哑然失笑。
+
+<BOX type="4">//%sL
+「究竟是谁说了如此无礼的话？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐大辅是我们公司引以为傲的社员」
+
+「在洛杉矶的不幸是由集装箱在装载过程中导致起重机倒塌引起的」
+
+「那样的风言风语，请您忘了吧」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　志贺一边在还有些怀疑的美绪面前故作不知，一边环视着曾经囚禁美绪的房间……Drei·Phantom的藏身之所。
+
+……当然，这一切都是谎言。
+接下来必须要在美绪的母亲回国前联系她，和她统一口径。
+
+　虽然美绪现在还不能接受，但这也只是时间问题。
+
+　相比杀手、黑社会这样的离奇之言，为了金钱实施绑架的说法应该更能让美绪接受。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「好了。我们走吧」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……是……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　在美绪离开房间的时候，志贺最后望了一眼在房间的角落扔着的布片。
+
+　被撕破、舍弃的衣服……那恐怕是美绪的东西。
+
+　她现在穿着的制服非常干净，根本不像被囚禁了3天的样子。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　表面上志贺还是一副平静的面孔，但他的内心早已怒不可遏。
+
+　Phantom……
+　绝不能饶了那些家伙，必须要将他们斩尽杀绝。
+
+<A HREF="3620.txt" OPERATOR="3590a=1">//~ 3620
+<A HREF="3805.txt" OPERATOR="">//~ 3805

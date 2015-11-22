@@ -1,0 +1,234 @@
+<BOX type="0">//%w
+　万年筆を握った途端、筆先は滑るように動き出した。
+　{姓}{名}、{姓}{名}、{姓}{名}……
+
+　手は、指は、憶えていたのだ。
+　何百回、何千回と書き綴った文字列を。
+
+　期末試験、中間試験、毎日の小テスト……
+
+　3年D組、{姓}{名}……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　そして記憶が、頭の中で爆発した。
+
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="0210x2">//# 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　クラスの友達、部活の後輩、
+　泣いて、笑って、語り合った仲間たち……
+
+　初恋……憧れの女の子……
+
+　父さん……母さん……
+
+　受験勉強……入試……卒業式……
+
+<CLEAR><BACKGROUND SRC="0210x1">//# 0210x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　あのとき、桜並木は満開だった。
+
+　別れを惜しみ、門出を祝って舞い落ちる花びらを、
+　心底、きれいだと思った。
+
+　あれは桜。日本の花……
+　遠い彼方の、故郷の花……
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　割れる。
+　頭が割れる。
+
+<CLEAR><BACKGROUND SRC="street2a">//# street2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そうだった。
+　卒業祝いに、一人でアメリカ旅行に行ったんだ。
+
+　そして道に迷い、あれを見た。
+
+　人が、殺される瞬間を。
+　氷のような瞳の、殺し屋の女の子を……
+
+<CLEAR><BACKGROUND SRC="0210x2">//# 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{姓}{名}、{姓}{名}……
+　来る日も来る日も、同じ制服で、学校に通い……
+
+<CLEAR><BACKGROUND SRC="factory">//#! factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　訓練された……荒野の廃墟で、焼け付くような日差しの下で……
+
+<CLEAR><BACKGROUND SRC="0210x2">//#! 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まともな大学に行けるよう、まともな進学を志望して……
+
+<CLEAR><BACKGROUND SRC="factory4">//#! factory4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　銃とナイフの扱いを習い、急所の位置を覚え込み……
+
+<CLEAR><BACKGROUND SRC="0210x2">//#! 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いつか一流の会社に入り、家庭を持って、幸せに暮らせるように……
+
+<CLEAR><BACKGROUND SRC="ウォルス目">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　人を殺して。
+　殺して、
+　殺して、
+　何人も殺して……
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「何でだよ！」
+
+「何で今さら、教えるんだよ！
+　諦めてたのに、忘れる気になってたのに！」
+
+「僕の人生は……こんな筈じゃなかった……」
+
+<BUSTUP NAME="crou3" face="2" MODE="on" zoom="" ALIGN="right">//# crou3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「本当に信頼できる
+　部下が欲しいのよ。わたしは」
+
+<BOX type="0">//%w
+　クロウディアの眼差しには、同情も、慰めもなく、
+　感情を殺した声には、突き放すような響きさえあった。
+
+<BOX type="5">//%sR
+「強制ではなく、自分自身の意志で
+　わたしについてくる部下が」
+
+「だから、きみには全てを返すわ。
+{姓}{名}くん。きみはきみに戻りなさい」
+
+<BOX type="0">//%w
+　戻れ、だと……？
+
+　ここまで手を血に汚した後で、
+　取り返しのつかない罪を重ねた後で、
+
+　ただの学生に、戻れだと？
+
+<BOX type="5">//%sR
+「昔のきみを知る人たちは、
+　誰も今のきみを知らないわ」
+
+「証拠だって何もない。この国で
+　起こったことは、ただ、きみ一人の記憶の中にしかないのよ」
+
+「だから忘れればいい」
+
+「昔を忘れていたように、
+　今を忘れればいいのよ」
+
+<BOX type="0">//%w
+「できるもんか……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　目を閉じれば思い出す。恐怖に歪んだウォレスの死相……
+
+「……できるもんか……」
+
+<BUSTUP NAME="crou3" face="2" MODE="on" zoom="" ALIGN="right">//# crou3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それなら、
+　わたしと一緒に来る？」
+
+<BOX type="0">//%w
+　付け入るような優しさも、いざなう微笑みもなく、
+　それはクロウディアからの、掛け値なしの指名だった。
+
+<BOX type="5">//%sR
+「ここにだって、
+　きみの居場所はある。
+　きみを必要とする者がいる」
+
+「その手を、
+　もっと血に染めてくれるなら、
+　わたしはきみに約束するわ」
+
+「インフェルノの富と権力を。
+　世界を統べる愉悦を」
+
+「選んでちょうだい。
+　きみ自身の意志で」
+
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　改めて、パスポートの中を……
+　半年を隔てた過去から、見つめ返してくる自分と目を合わす。
+
+　{姓}{名}。
+　国家の名の許に人権を保護された、
+　正真正銘の日本国民。
+
+　これさえ、あれば……
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「みすみす、僕を逃がすつもりなのか……」
+
+<BUSTUP NAME="crou3" face="2" MODE="on" zoom="" ALIGN="right">//# crou3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　クロウディアは頷いた。
+
+<BOX type="5">//%sR
+「きみを失うことになったとしても
+　それは仕方ないことよ」
+
+「どのみち私には、今のファントムのような、従順なだけのロボットなんて必要ないの」
+
+「私に必要なのは、
+　私と同じ夢を懐いて、
+　同じ道を進むパートナー」
+
+「{姓}{名}が、そういう男である可能性に……賭けるだけよ」
+
+<BOX type="0">//%w
+「……考える時間を下さい」
+
+　一人になりたかった。
+　誰にも邪魔されずに、気持ちを整理したかった。
+
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もちろん」
+
+<BOX type="0">//%w
+　クロウディアは頷いた。
+　自分だけの意志で決めろと言ったのは、他ならぬ彼女なのだから。
+
+「この事を知っている人は？」
+
+<BOX type="5">//%sR
+「誰もいないわ。私一人の独断よ」
+
+「こっそりと姿を消せば、
+　誰にも追えはしないわ」
+
+<BOX type="0">//%w
+「……」
+
+<A HREF="0220.txt" OPERATOR="">//~ 0220

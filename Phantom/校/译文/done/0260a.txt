@@ -1,0 +1,130 @@
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{ヒロイン}……？」
+
+<BOX type="0">//%w
+「对，从今以后你就叫{ヒロイン}。
+　怎么样？」
+
+<BOX type="5">//%sR
+「{ヒロイン}……」
+
+<BOX type="0">//%w
+　好象为了练习发音一样，她一连重复了好几遍，
+  然后，她的脸上露出了那空虚寂寞的微笑。
+
+<BUSTUP NAME="elen1" face="8" MODE="on" zoom="" ALIGN="right">//# elen1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「感觉怪怪的」
+
+<BOX type="0">//%w
+「是吗？」
+
+　我这样笑着回答，同时看到了她那无力的眼神。
+  跟刚才一样空虚寂寞的笑容。
+  那份微笑，带着淡淡的哀伤。
+
+　我无法忍受胸中的痛，张开双臂抱住了她
+
+<se id="1" src="書偒偟傔傞" mode="normal" time="" loop="off" effect="">//
+<bgm src="daylight" mode="fadein" old="fadeout" time="10" loop="on">//$ daylight.swa 0 255
+<CLEAR><BACKGROUND SRC="0260p1">//# dummy 20 0260p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……{名}？」
+
+<BOX type="0">//%w
+　名字只是一个代号，
+  不过是为了让她安心而已。
+
+　只给她取个名字，
+  就能够抹去她心中的伤痕吗？
+
+　最后……还是会像泡沫一样转瞬即逝吧。
+　危险的事情、辛苦的事情，最终还是全部由她一个人承受……
+
+　只有我一个人取回了过去的一切。
+
+「我发誓。我会把你失去的一切都找回来」
+
+「你肯定也有过去……
+  肯定也曾怀抱着很多的愿望和梦想，
+  肯定也曾快乐地生活着」
+
+「所以，只要找回你的记忆……就能成为支撑你的动力。
+　所有的艰辛与恐惧就都能忍受了」
+
+「战斗，伤害……
+　即便如此，你也要坚持着活下去」
+
+「终有一天，我会让你尽情欢笑」
+
+「高兴的时候就欢笑，悲伤的时候就哭泣，
+  你也能变回那样普通的女孩」
+
+「认为活着是多么的美好……
+  你也可以享受那样的幸福」
+
+「所以在那一天到来之前，你一定要活下去」
+
+「不论多么艰辛，你也要忍耐下去」
+
+「你，由我来守护」
+
+<BOX type="5">//%sR
+「……」
+
+//> left 0230p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="傾僀儞媰偒怮">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　她的睡脸很柔和。
+
+　像昨晚一样，
+  今天晚上我依然是边看着她的睡脸，边等待黎明的到来。
+
+　紧闭的眼睑周围还闪着泪痕。
+
+　梦中的你也在哭泣着吗？
+　你又做可怕的噩梦了吗？
+
+　如果是的话，你要记住，
+　你已经不需要害怕了。
+
+　如果在梦中被死者责问的话……
+
+　那个时候，你就挺起胸膛告诉他们。
+　因为，我是{ヒロイン}。
+
+　我是像{ヒロイン}一样被称呼着、像{ヒロイン}一样被期望着，
+  这样活在这个世界上的。
+
+　这个世界的价值，这个世界存在的意义，
+  全都包含在这个名字里。
+
+　人的名字就是希望。
+  父母正是带着这样的希望，为孩子取下名字。
+
+　所以，只要你有名字……
+　只要身边有人呼喊你的名字……
+
+　你，就有活下去的理由。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left fieldWay wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="fieldWay">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<A HREF="0270.txt" OPERATOR="">//~ 0270

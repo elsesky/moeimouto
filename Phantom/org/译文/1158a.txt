@@ -1,0 +1,258 @@
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对了，怎么样，去喝一杯如何？」
+
+<BOX type="0">//%w
+「嗯……没问题」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left city5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="city5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　莉兹常去的酒馆在好莱坞大道上。
+  由于我常被她拉出去喝酒，所以知道那个地方。
+
+//> left bar wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bar">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「我之前听说过」
+
+「你和克劳蒂娅认识很久了吧？」
+
+<clear>
+<BACKGROUND SRC="儕僘傿僗僣乕儖">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可以说是从小一起长大的朋友哦」
+
+「不过，现在我们不大愿意对别人提起这件事」
+
+<BOX type="0">//%w
+「那你应该很清楚克劳蒂娅的事吧？」
+
+<clear>
+<BACKGROUND SRC="僶乕偱堸傓儕僘傿斶偟傒">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么说呢」
+
+<BOX type="0">//%w
+　莉兹毫无兴趣地小声嘟囔着，似乎在看向某个遥远的地方。
+
+<BOX type="5">//%sR
+「真正了解克劳的人，大概只有罗梅洛了吧？」
+
+<BOX type="0">//%w
+「……？」
+
+　第一次听到的名字。
+
+<clear>
+<BACKGROUND SRC="儕僘傿僗僣乕儖恀柺栚">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你不知道吗，他是克劳的弟弟哦」
+
+<BOX type="0">//%w
+「……她有个弟弟？」
+
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　这种事我还是第一次听说。
+
+<clear>
+<BACKGROUND SRC="儕僘傿僗僣乕儖">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「他们两人从小的时候就已经难舍难分了」
+
+「是非常亲密的一对姐弟哦」
+
+<BOX type="0">//%w
+「他现在在哪里呢？」
+
+<clear>
+<BACKGROUND SRC="僶乕偱堸傓儕僘傿斶偟傒">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「已经死了」
+
+<BOX type="0">//%w
+「……怎么回事？」
+
+<BOX type="5">//%sR
+「他加入了黑帮」
+
+「对于他们那些胡作非为的人来说，发生什么意外都不稀奇吧？」
+
+<BOX type="0">//%w
+　这种欺瞒的说话方式不是莉兹的风格。
+　在我眼神的持续追问下，莉兹犹豫了一阵，总算是投降了。
+
+<clear>
+<BACKGROUND SRC="儕僘傿僗僣乕儖恀柺栚">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……我知道的」
+
+「他被维斯梅尔杀了」
+
+<BOX type="0">//%w
+「……」
+
+　虽然有些动摇，但这些话还不足以让我感到震惊。
+
+　话说回来，很久以前我也曾听克劳蒂娅提起过。
+　她过去从属的组织，被Inferno消灭了……
+
+　她的弟弟罗梅洛，应该也是其中的一员吧。
+
+<BOX type="5">//%sR
+「那个时候，发生了很多事啊」
+
+「详细的情况我也不太清楚。那个时候，我正好在监狱里服刑」
+
+<BOX type="0">//%w
+「那么……」
+
+「对克劳蒂娅来说，维斯梅尔是……杀害弟弟的仇人？」
+
+<clear>
+<BACKGROUND SRC="僶乕偱堸傓儕僘傿搟傝">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「应该是这样吧」
+
+<BOX type="0">//%w
+　莉兹苦恼地皱起了眉，这样说道。
+
+<BOX type="5">//%sR
+「可是克劳把这些事分开对待了，我真不知道她是怎么想的」
+
+「她说，罗梅洛的死和与维斯梅尔合作是两码事」
+
+<clear>
+<BACKGROUND SRC="僶乕偱堸傓儕僘傿斶偟傒">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这就是我不能理解克劳的地方」
+
+<clear>
+<BACKGROUND SRC="bar">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这是怎么回事呢。
+
+　如莉兹所说的，克劳蒂娅与维斯梅尔的对抗仅仅是意见上的不同……仅此而已。
+
+　既然这样，为什么她不试着消除维斯梅尔的误解、让他安下心来，从而将事态导向安稳的发展趋势呢？
+
+　被平白无故怀疑的维斯梅尔一定会大发雷霆，要是再牵扯上权力行使的问题，那他就更加不能容忍了。
+
+　可即便如此……首先还是应该采取妥协避让的怀柔政策以求共存吧。
+
+　要是继续加深两人之间的对立，最终的结果便是爆发全面战争。
+  Inferno将会被一分为二。
+
+　可是，克劳蒂娅……
+　与其说她做出了错误的判断……倒不如说她看起来就是这样期望着的。
+
+　难道说，她找到能将维斯梅尔打得体无完肤的好机会了吗。
+
+<clear>
+<BACKGROUND SRC="僶乕偱堸傓儕僘傿斶偟傒">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个时候，发生了很多事啊」
+
+<BOX type="0">//%w
+　无视我的担忧，莉兹似乎沉浸在了对往事的回忆之中。
+
+<clear>
+<BACKGROUND SRC="儕僘傿僗僣乕儖">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「出狱后我真的是吃了一惊」
+
+「不知什么时候起，出现了Inferno这个庞大的联盟」
+
+「克劳蒂娅也成为了其中的一名干部」
+
+「人生这种东西，我真的是搞不懂啊」
+
+<BOX type="0">//%w
+「……」
+
+<clear>
+<BACKGROUND SRC="bar">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　大概是想转换一下心情吧，莉兹伸了个懒腰，从椅子上站了起来。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我来付账吧。毕竟对你灌输了奇怪的说教」
+
+「你就再好好喝上一阵子吧」
+
+<BOX type="0">//%w
+　我不禁苦笑起来。
+
+「你忘了吗？
+　我还没到能公然饮酒的年龄哦」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对啊，我都忘了」
+
+<BOX type="0">//%w
+　莉兹这样笑着，露出了洁白的牙齿。
+  在那之后，她突然又变回了像在思考着什么的严肃表情。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……啊，对了，有一件事我必须要提醒你」
+
+<BOX type="0">//%w
+「……什么事？」
+
+<BOX type="5">//%sR
+「是关于你和那个叫凯尔的孩子的事」
+
+「马格维雅想知道她成长到什么程度了」
+
+<BOX type="0">//%w
+「……」
+
+　虽然我不是没有任何思想准备，可听到这话的时候还是倒吸了一口冷气。
+
+<BOX type="5">//%sR
+「你至少也该教教她怎么用枪吧？」
+
+「在这个国家不会用枪的人可是很少的哦」
+
+<BOX type="0">//%w
+「……我知道了」
+
+的确，
+就算只是做做样子，至少也应该教会她那些基本的东西，不然实在是说不过去。
+
+<A HREF="1160.txt" OPERATOR="">//~ 1160

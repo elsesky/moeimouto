@@ -1,0 +1,14 @@
+<BOX type="0">//%w
+ 要说选择佩枪的话，当然是这把一直都在用的沙漠之鹰。把这家伙揣进怀里，果然给人不一样的安心感。
+
+　每次见到这把枪，莉兹都会被吃上一惊，其实她的那把HARDBALLER也相当夸张，跟我比无非是五十步笑百步罢了。
+  算了，人各有好吧。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="20_01a">//
+<CALC WORKNAME="廵" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僨僓乕僩僀乕僌儖2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Ie">//
+<CALC WORKNAME="1115a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

@@ -1,0 +1,195 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0b3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ねぐらに帰り着くと、午前4時を廻っていた。
+
+　アインはまだ戻っていないらしい。
+　シカゴの空港で別れたきり、
+　互いに乗る便さえ知らぬまま別行動をとったのだ。
+
+　ロサンゼルス市ノルマンディ通り、コリアンタウンの外れの、
+　もとは小さな町工場だった貸しロフト。
+　その一室が、アインと二人で暮らす隠れ家だった。
+
+　アメリカ第2の人口を誇る都市とはいえ、
+　白人の人口比率は5割に満たない移民の街だ。
+　東洋人でも、溶け込むのは造作ない。
+
+　きっと傍目には、親元を飛び出して自活している
+　学生カップルとでも思われているんだろう。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　なぜインフェルノが、
+　暗黒街の大物ばかりを
+　手当たり次第に暗殺しているのか？
+
+　そういった事情も、今では
+　おぼろげながら解ってきた。
+
+//> left factory wide 255 sepia 22 crou 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+“マフィアやギャングの、国連のようなもの”
+　
+　……いつだったか、クロウディアは組織のことを、
+　そんな風に説明していた。
+
+<CLEAR><BACKGROUND SRC="night3">//# night3 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　どうやらインフェルノというのは、
+　全米の犯罪組織の内通者が一致団結して作った集団らしい。
+
+　内通者といっても、末端の雑魚ではない。
+　インフェルノの構成員は、いずれも各組織のエリート……
+
+　出世の階段を駆け上ってきたものの、
+　最高権力の座だけは掴み取るチャンスを得られずにいる、
+　そういった実力派の若手幹部たちだ。
+
+　彼らは、先達たちが固守しているような
+　古い慣習や確執にはこだわらない。
+　互いに身内の情報をリークしあい、抗争を避けて、
+　より効率的な共存繁栄を目指している。
+
+<CLEAR><BACKGROUND SRC="street1">//# street1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そんな彼らにとって最も邪魔なのは……
+　たとえば今日殺したルシオ＝ヴァルサーニのような、
+　いま現在の裏社会を牛耳っている、古株の権力者たちだ。
+
+<CLEAR><BACKGROUND SRC="0110p3">//# 0110p3 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そこでファントムの出番となる。
+
+　古参幹部を片っ端から粛正することで、各組織の代替わりを早め、
+　インフェルノに加盟している者の出世を容易にする。
+
+<CLEAR><BACKGROUND SRC="night2">//# night2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　やがて彼らは、各々の組織のゴッドファーザーとして君臨するだろう。
+
+　そうなれば、インフェルノという組織は、
+　暗黒街の権力者が一堂に会するネットワークに発展する……
+
+//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　もちろん、そんな内幕は、把握したところで何の意味もない。
+　組織の末端にいる自分には、しょせん雲の上の物語だ。
+　理解の及ぶ話じゃないし、たとえ理解できたとしても、
+　何の足しになるわけでもない。
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　今日流された血によって、
+　何が変わり、何が守られたのか？
+
+　あの男はなぜ、
+　いったい誰の利害の関係で、
+　命を奪われることになったのか？
+
+　これでアメリカの裏社会に
+　何が起こるのか？
+
+　……そんなことは、見当もつかない。
+　いつだって、そうだ。
+
+//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　窓を開け、早朝の冷たい空気を吸い込みながら、
+　まだ寝静まっている街を見渡す。
+
+　まだ東に朱の射す時間ではないが、
+　空の色は次第に明るくなりつつある。
+
+　この部屋を拠点に、街での生活を始めて、
+　はや3ヶ月あまり。
+
+<CLEAR><BACKGROUND SRC="street0c">//# street0c 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　もう砂漠の真ん中で暮らしているわけではない。
+
+　目に映る色、耳に届く音……すべてが新鮮で、刺激に溢れ、
+　しかも日々変化を続けている。
+
+　そういった刺激を肌身で感じ取り、
+　あます所なく吸収する毎日。
+
+　目まぐるしさに翻弄される一方で……
+　心の底には、砂漠で過ごしていた頃と同じ、
+　空虚な倦怠感が溜まっている。
+
+　教わる事柄が違うだけだ。
+　本質的な事柄は、何一つ変わっていない。
+
+　名前もない。
+　故郷も知らない。
+
+　わかるのは銃と、
+　ナイフの扱い方だけ……
+
+<CLEAR><BACKGROUND SRC="night1">//# night1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　この街で、どれほどの数の人々が、
+　笑って、泣いて、人生を送っていようと、
+　そんなことはまったく関係ない。
+
+　笑うのは、念願の夢が実現したからだろう。
+　涙を流すのは、大切なものを失ったからだろう。
+
+　夢もなければ、失うものもない自分が、
+　そんな人々の営みに、割り込んでいけるわけがない。
+
+　彼らは、別の次元で生きている人間だ。
+　目に映り、声を聞き、触ることができたとしても、意味はない。
+　いないも同然の存在だ。
+
+　だから、ここは砂漠と変わらない。
+
+<A HREF="0120a.txt" OPERATOR="">//~ 0120a

@@ -1,0 +1,547 @@
+//> black dummy center 255
+//$ 0 _1 0
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="2000">
+<BOX type="0">
+瞼を上げたら、
+どうか夢から覚めていますように……
+そう祈りながら、目を開けた。
+
+//<bgm src="l_phantom" mode="fadein" old="fadeout" time="10" loop="on">
+//> left room1 wide 255
+//$ dream.swa 0 255
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……虚しい望みだったのかもしれない。
+　さっきまでと同じ部屋。同じベッド。同じ匂いの空気。
+　ただ今度は、辺りに人の気配はない。
+
+　頭痛がする。身体の節々も痛い。
+　たしか、殴られて気を失ったように思う。
+　……そうだ、殺されかかっていたはずなのに。
+
+　身体を起こし、両手を眺めて、
+　これといった支障もなく動くのを確かめた。
+　まだ、生きている。
+
+　ものすごく寒い。
+　身につけているのは、相変わらず、病院で検査を受ける時に着せられる、白いパジャマのような服だけだった。
+
+　でもここは、たぶん病院なんかじゃない。
+　改めて周囲を見渡す。
+　がらんとした倉庫のような、殺風景な部屋だった。
+
+　壁も床も剥き出しのコンクリート。
+　天井近くに小さな窓があるが、位置が高すぎて覗けない。
+
+<CLEAR><BACKGROUND SRC="工場内部屋ドア閉じ>//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　出入り口は……錆の浮いた鉄扉がひとつだけ。
+
+　ぞんざいに吊り下げられた裸電球が、
+　ときおり痙攣するように光を翳らせる。
+　電圧が安定していないらしい。
+
+　これは、やっぱり……まだ夢の中なんだろうか？
+　ぼんやりと、そんなことを考えながら、裸足のまま床に降りた。
+
+　痺れるほど冷たいコンクリートの感触が、足の裏に突き刺さる。
+　この鮮烈な感覚は……夢とは、思えない。
+
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se knock
+<CLEAR><BACKGROUND SRC="工場内部屋ドア開き>//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　施錠されているかとも思ったが、鉄扉は押しただけで簡単に開いた。
+
+//!se doorOpen
+//> left factory3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ここは……廃工場か何かだろうか。
+　だだっ広い空間が、窓からの月明かりに照らされていた。
+　窓ガラスは割れてなくなり、夜の冷気が容赦なく身体に吹きつけてくる。
+
+//# factory2 1
+<CLEAR><BACKGROUND SRC="factory2>//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　暗がりに目を凝らしながら、冷たい床を爪先立ちで、あてもなく歩いた。
+
+　壁に何かの注意書きのプレートがある。
+　だが全部アルファベットで、読めない。
+
+　ふと見上げると、虎縞模様で縁取られた警告板が目に入った。
+　
+“MAX HEADROOM 15 FEET”
+
+　……「高さ制限」の警告文、か？
+　単位がフィートということは……ここは、アメリカなんだろうか。
+
+　建物の外に出た。
+
+//> left nightField wide 255
+//$ wind.swa 0 255
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　見渡す限りの荒野を、風の唸りだけが渡っていく。
+　……こんな景色、テレビでしか見たことがない。
+　どう考えても、ここは日本じゃない。
+
+<BOX type="5">//%sR
+「目が覚めた？」
+
+<BOX type="0">//%w
+　背後で、聞き覚えのある声がした。
+
+//# 0020p1 1
+<CLEAR><BACKGROUND SRC="0020p1">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……思わず一歩、後ずさってしまった。
+
+<BOX type="5">//%sR
+「怖がらなくてもいいわ。
+　もう襲ったりしないから」
+
+<BOX type="0">//%w
+　相変わらず静かな、まったく感情の窺えない口調。
+　手には、今は凶々しく光るナイフではなく、
+　ボアのついた防寒服を抱えている。
+
+　この子は一体、何者なんだ？
+
+「君は……」
+
+<BOX type="5">//%sR
+「名前なら、ないわ」
+
+<BOX type="0">//%w
+　こちらから訊くより先に、低く呟くような声が返ってきた。
+
+<BOX type="5">//%sR
+「呼びにくければアインと呼んで。
+　いつもそう呼ばれてたから」
+
+<BOX type="0">//%w
+　アイン……
+　渾名か何かだろうか。
+
+　訊きたいことが多すぎて、何から訊くべきか判らない。
+
+//# factory4 1
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……さっきは何で、あんなことを？」
+　
+　最初に口をついて出た質問は、それだった。
+
+　ただの冗談や悪ふざけとは、思えない。
+　あのとき、彼女……アインは明らかに殺意を込めてナイフを振ってきた。
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたの才能を証明するためよ」
+
+<BOX type="0">//%w
+「……才能？」
+
+　まるっきり話が見えない。
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたには、
+　生まれついての才能があるのよ」
+
+「……人を殺す才能。
+　生き残る才能。
+　暗殺者としての才能が」
+
+<BOX type="0">//%w
+「そんな……」
+
+　呆れた話だった。いきなり何を言いだすかと思えば。
+
+「わけの解らないこと言わないでくれよ。大体、何の根拠があって……」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私を殺そうとしたじゃない」
+
+<BOX type="0">//%w
+「それは……」
+
+　だがすぐには、言い返す言葉が見つからなかった。
+
+　さっきの戦い……
+　今にして思えば、どうしてあんなことが出来たのか解らない。
+
+　あの時、何をどう考えて行動したんだろう？
+　ただ、がむしゃらに刃向かった……その程度しか覚えていない。
+　自分のことなのに、まるで他人のことを思い出しているかのようだ。
+
+　でも確かに、彼女を殺そうとしたのは本当のことだ。
+　憎いとか、勝ちたいとか、そんな風に思ったわけじゃない。
+　それなのに……
+
+　最後にはアインが勝った。
+　だがもし、彼女に殴られるのが一瞬でも遅ければ……
+　本当に、彼女を刺していたんだろうか？
+
+　今更のように、恐怖が胸に染み込んでくる。
+
+//# elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「普通の人なら、
+　あの状況ではまず間違いなく
+　パニックになるわ」
+
+「自分の置かれた状況を把握しようとして、混乱しているうちに殺されていたでしょう」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でもあなたは違った。状況を把握するより先に、状況に対処した。
+それが、あなたの才能よ」
+
+<BOX type="0">//%w
+「……」
+
+　そんな……無茶な。
+
+<BOX type="5">//%sR
+「たしかに今までは、そんな自分に気付かなかったでしょうね」
+
+「平穏な暮らしをしている限りは分からないわ。身の危険が迫った時にだけ、発現する能力だから」
+
+<BOX type="0">//%w
+　そういえば、アインは右腕に包帯を巻いている。
+　まさか、怪我を……？
+
+「それで、僕にナイフを持たせたの？」
+　
+　そんな出鱈目な理屈を立てるためだけに?
+
+<BOX type="5">//%sR
+「そう」
+
+<BOX type="0">//%w
+　……馬鹿な。
+　何を考えてるんだ、この子は？
+
+「無茶苦茶だよ！　一歩間違えたら死んでたぞ！」
+
+<BOX type="5">//%sR
+「そうね」
+
+<BOX type="0">//%w
+　アインはまったく動じない。
+　苛立ちより、むしろ当惑が先に立った。
+　この子には、感情ってものがないんだろうか。
+
+「……平気なのか？　君だって、命懸けだったんだろ？」
+
+//# elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしは人を殺すために
+　生かされているから」
+
+//# elen1^3 20
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「殺せない時は、死ぬ時だから」
+
+<BOX type="0">//%w
+　淀みない口調で、アインはそう言いきった。
+
+　人殺しのために、生かされてる……？
+　ふと、さっきいた銀髪の外人を思い出した。
+　彼女に何かを命令していた男。
+
+「君は……殺し屋か何かなのか？」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう。殺し屋よ」
+
+<BOX type="0">//%w
+　開いた口が塞がらない……
+　まさしく、そういう気分だった。
+
+　アインの歳は幾つだろう？
+　たしかに大人びた印象はあるが……
+　どう考えても、まだ子供だ。
+
+　こんな、少女と言っていい歳の女の子が、殺し屋だと？
+　冗談だろう？
+　そう、笑い飛ばしてしまいたかった。
+
+　……そう、笑い飛ばせなかったのは、
+　ナイフを手に襲いかかってくるアインの姿が、
+　いまも瞼の裏に焼きついているからだ。
+
+　忘れようがない。あのときの恐怖は。
+
+「……それで、僕を試して、どうするつもりだったんだ？」
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたにも
+　殺し屋になってもらうの。
+　ツヴァイ」
+
+<BOX type="0">//%w
+　怒りのあまり、目の前が暗くなる。
+
+「馬鹿言うなよ……
+　なんで僕が、そんなことやらなきゃならないんだよ!?」
+
+//# elen1^6b 20
+<BUSTUP NAME="elen1" face="6b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「生きるためよ」
+
+<BOX type="0">//%w
+　アインの返答は短かった。さも当然のことだとでもいう風に。
+
+<BOX type="5">//%sR
+「あなたはツヴァイ。
+　二人目のわたし」
+
+「だからあなたも、
+　人を殺すことでしか、
+　存在することを許されない」
+
+<BOX type="0">//%w
+「変な呼び方しないでくれよ!」
+
+　いい加減、苛立ちを抑えきれず、そう怒鳴りつけてしまった。
+
+「僕にはな、ちゃんとした名前が……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ dark.swa 0 255
+　……そこまで言ってから、言葉に詰まった。
+
+　なぜだ？　なぜ出てこない？
+　どうして自分の名前が言えないんだ？
+
+//$ requiem.swa 0 255
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+「……僕の……名前は……」
+
+//# elen1^7b 20
+<BUSTUP NAME="elen1" face="7b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ないのよ。もう」
+
+<BOX type="5">//%sR
+「考えるだけ無駄よ。
+　あなたの記憶は、
+　すべて消されてるから」
+
+<BOX type="0">//%w
+　そんな……
+　そんな馬鹿な……
+
+//# dummy 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そうだ、そういえば……たしかに何もわからない。
+　ここは一体どこなのか？
+　ここに来る前はどこにいたのか？
+　あの硬いベッドで目を覚ます前のことは、何ひとつ思い出せない……
+
+　言葉は喋れる。目に映るものが何なのかも理解できる。
+　でも、そんな知識をどこで、どうやって手に入れたのか？
+
+　……そんな馬鹿なことってあるか？
+　いったい、この自分は、どこの誰なんだ……？
+
+「……君が、やったのか？」
+
+　さっき、アインは言っていた。記憶は『消された』のだと。
+　事故なんかじゃない。誰かに故意に、頭の中をいじられたんだ。
+
+//# elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私じゃない。
+　サイス＝マスターよ」
+
+「……私の主で、
+　組織“インフェルノ”の一員。
+　彼があなたの記憶を処理したの」
+
+<BOX type="0">//%w
+　サイス＝マスター……
+　あの、銀髪の外人のことか？
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたは
+　見てはならないものを見たの。
+　だから殺されるはずだった」
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でもマスターは、
+　あなたの才能に気付いて、
+　死なせるのは惜しいと思ったの」
+
+「だからあなたの記憶を奪い、
+　もう一つの人生を用意したのよ」
+
+「インフェルノの一員の、
+　暗殺者としての人生を」
+
+//# elen1^6b 20
+<BUSTUP NAME="elen1" face="6b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あなたはね、
+　生まれ変わったようなものなの」
+
+//# dummy 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　冷たい風が、吹き抜けていく。
+　何もない荒野と、何もなくなった心の中を。
+
+<CLEAR><BACKGROUND SRC="泣きくずれるレイジ">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ひざまづき、祈るように頭を地面に押しつけた。
+　風が、こんなに冷たかったなんて。
+
+「どうしてだよ……どうして僕が、こんな目に……」
+
+「いったい僕が、何をしたっていうんだよ！」
+
+//# elen1^2 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……拒んでも、いいのよ」
+
+<BOX type="0">//%w
+　荒野を渡る風よりもなお、アインの声は冷たかった。
+
+<BOX type="5">//%sR
+「その時は、最初の予定通り、
+　あなたには死んでもらうわ。
+　今、ここでね」
+
+「わたしの役目は、
+　あなたを殺すことだった」
+
+//# elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、今は違う。あなたには明日からここで、わたしの全てを学んでもらうわ。暗殺者としての全てを」
+
+//# elen1^6b 20
+<BUSTUP NAME="elen1" face="6b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そしてあなたは、
+　正真正銘のツヴァイに……
+　わたしの分身になるの」
+
+//# dummy 20
+<CLEAR><BACKGROUND SRC="泣きくずれるレイジ">//# dummy 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　乾いた砂に落ちた涙の粒が、黒く小さな染みを作る。
+
+　何を失ったのか、
+　どれほど尊いものだったのか、
+　それすらも、わからない。
+
+　ただ、恐かった。寂しかった。
+　自分の心に開いてしまった、虚ろな大穴の……
+　その深さと暗さに怯えて、涙がとめどなく溢れ出た。
+
+//# elen1^7b 20
+<CLEAR><BACKGROUND SRC="factory4">//# dummy 1
+<BUSTUP NAME="elen1" face="7b" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「泣けるうちに泣いておくのね」
+
+「それって、
+　とても贅沢なことだから」
+
+//# dummy 20
+<BOX type="0">//%w
+「……夢だ。きっと、ただの夢だ……」
+
+「 ……こんなの嘘だ。全部、何もかも、悪い夢なんだ……」
+
+//# elen1^2 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう思うことで慰めになるなら、
+　構わないわ。
+　夢だと思っておきなさい」
+
+「 ……でも、長い夢になるわよ」
+
+<A HREF="0030.txt" OPERATOR="">//~ 0030
+
+.

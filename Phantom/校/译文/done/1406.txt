@@ -1,0 +1,10 @@
+<BOX type="0">//%w
+  常用的柯尔特政府型的确不错，不过偶尔用用这把USP也不坏。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="10_01">//
+<CALC WORKNAME="廵" OPERATOR="USP">//
+<CALC WORKNAME="廵夋憸" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="USP2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡UP">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

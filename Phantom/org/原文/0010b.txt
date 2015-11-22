@@ -1,0 +1,16 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そうだ、さっきの二人の外人……
+　どうして黙って見てるんだ!?
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# sice 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「助けてください、殺される！」
+　叫んでも、返事はない。
+　相変わらず女は無表情に、男は薄笑いを浮かべたまま、
+　平然とこちらを眺めている。
+
+<A HREF="0010d.txt" OPERATOR="">//~ 0010d

@@ -1,0 +1,227 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left court2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="court2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　一个满头银发的外国人正坐在中庭的长椅上，很是引人注目。
+
+　过往的学生都向他投去好奇的目光。
+
+虽然吸引了很多人的目光，但他本人好象并不在意。
+每当与别人四目相对时，他都会善意地露出微笑，怎么看都像一个友好的外国人。
+
+<CLEAR><BACKGROUND SRC="court3b">//# court3b 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一边躲在暗处观察，一边等待着时机。
+
+　那是……宣告午休结束的铃声响起，学生们返回教室的时候。
+
+　我不希望自己和这家伙的对峙被毫无关系的外人看到。
+
+//> left court2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="noonchim" mode="normal" time="" loop="off" effect="">//!se noonchim
+<BACKGROUND SRC="court2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+//<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不久，我期待着的铃声终于响起。
+  正在享受暂时解放的学生们都极不情愿地消失在校舍中。
+
+<se id="1" src="" mode="fadeout" time="5">
+//<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　随后，被世界遗忘般的静寂笼罩了整个中庭。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　情况有些不对劲。
+  中庭只剩下了赛斯一个人，可他仍旧悠然地看着面前的花木。
+
+　难道他已经察觉到我的气息了吗。
+
+　我再一次环视四周，确认周围没有人后，才走向赛斯坐着的长椅。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……真是让我好等啊」
+
+<BOX type="0">//%w
+　我没有回答。
+  自己对这家伙根本没什么好说的。
+
+取而代之的是，
+我向他投去骇人的目光，仿佛要刺穿他的喉咙、额头、动脉和内脏……
+
+　我打量着他，寻找着他全身上下的要害。
+
+不需要借助子弹。
+只要用我的手指，或是一记上踢，就能够让他那嘲讽般的笑容立刻消失，将他彻底变成一堆没有生命的肉块。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没错，你是能杀了我」
+
+「既非命令，也非被迫，而是出自自身的意愿」
+
+「这就是你的特别之处，Zwei」
+
+<BOX type="0">//%w
+「……」
+
+　赛斯平静地面对着我的杀意，丝毫没有表现出害怕的样子。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这家伙……究竟是为何而来？
+
+　赛斯从长椅上站起身来，冲着我开始发表个人演说，仿佛是一个站在讲台上的教师一般。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「通过洗脑强化心智的Ein，根本比不上拥有纯粹杀意的你」
+
+「打个比方的话，你们就好比钻石。人工的仿造品终究无法与天然结晶相提并论」
+
+「你在某种意义上来说可算是失败作。
+但即便如此，你还是为我的研究提供了一个新的方向」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「于是我将『憎恶』作为探索的主题」
+
+「你看到了吧？我引以为豪的第三个作品？」
+
+<BOX type="0">//%w
+　第三个……作品？
+
+　难道这家伙没有吸取教训，又培养了一个杀手……
+
+　我还没来得及恼怒，思维便突然绷紧了弦。一种如铅块般沉重的绝望压在心头。
+
+　脑海中浮现出的是，前天见面时……凯尔那冷酷的眼神。
+
+「……你对凯尔做了什么？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「从结论来说，我什么都没做」
+
+「既没有洗脑，也没有暗示，更没有操控她的记忆和情绪」
+
+「我只是彻底地激发出了她自身持有的憎恶」
+
+「……她的资质就像是一块天然钻石」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「将这样一位天才留给我，真是感激不尽啊」
+
+<BOX type="0">//%w
+　我已经愤怒到了极点。
+
+　我只有一个愿望……不希望凯尔走上与我相同的不归路。
+
+　可是，为什么结果会变成现在这样？
+  千不该万不该，她居然落到了这个男人的手中……
+
+「你这家伙……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「无法原谅我么？恨我入骨么？」
+
+<BOX type="0">//%w
+　赛斯的笑容变得愈发令人厌恶。
+
+<BOX type="4">//%sL
+「可是，你无法在这里杀了我，对吧？
+　因为风险太大了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……他说得没错。
+
+　如果只是杀死他的话，一点儿都不麻烦。我甚至不会给他叫喊的机会。
+
+　可是，尸体怎么办？
+
+　已经有无数人见过赛斯了，而且早苗也已经知道他是来找谁的。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯，不错的自制力」
+
+「除了纯粹的杀意，你还有着冷静的判断力。
+  真是美妙的平衡啊」
+
+「老实说，Drei时常会做的很过火」
+
+「她的憎恨过于强大，以至于完全无法自制」
+
+「如果她现在在场的话，肯定会毫不犹豫地将你和Ein杀死」
+
+「不过，她至少还知道要避人耳目。
+刚才的时候，Ein好像已经被她引走了」
+
+<BOX type="0">//%w
+　……什么!?
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Ein并不想逃走，而是出奇的镇定。看来她也想在没人的地方与Drei正面交锋」
+
+<BOX type="0">//%w
+　{ヒロイン}……你为什么要冒这种险？
+
+　如果周围有其他人的话，凯尔即使发现{ヒロイン}，也是不能出手的。
+
+　……难道说，她是主动想要和凯尔交手吗？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要去帮忙的话，就得赶快了。
+  她们就在校舍后面的那个方向」
+
+<BOX type="0">//%w
+「……」
+
+　最后，我还是不知道这个男人的目的究竟是什么。
+  但现在已经管不了那么多了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我转过身，背对赛斯那令人生厌的奸笑，
+<se id="1" src="楁擇憱傝2" mode="normal" time="" loop="off" effect="">//
+　头也不回地向校舍后面跑去。
+
+　{ヒロイン}与凯尔交锋的无人场所……就只有一个地方了……
+
+<se id="1" src="" mode="fadeout" time="20">
+<A HREF="3240.txt" OPERATOR="">//~ 3240

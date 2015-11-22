@@ -1,0 +1,35 @@
+<BOX type="0">//%w
+「……不行」
+
+<BUSTUP NAME="cyall2" face="3" MODE="on" zoom="" ALIGN="right">//# cyall2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，我不是你的助手吗!?」
+
+<BOX type="0">//%w
+「仅限今天而已，你已经充分尽到自己的职责了」
+
+「可是，接下来的工作让你参与还太早了，你只会成为累赘」
+
+<BUSTUP NAME="cyall2" face="4" MODE="on" zoom="" ALIGN="right">//# cyall2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　这么说可能对她有些残酷，可要是我露出温柔的表情，一定会被她缠住不放。
+
+「听好，凯尔。我一定会把杀害朱蒂的凶手干掉的，后面的就交给我吧」
+
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+　我不能再让凯尔涉足这个血腥肮脏的世界了。
+
+　不知畏惧的凯尔很容易就会陷入难以回头的深渊之中，因为她有着这个世界最为需要的天赋。
+
+　我不应该再让她深入进去了。
+
+<A HREF="1235.txt" OPERATOR="1150=1">//~ 1235
+<A HREF="1250.txt" OPERATOR="">//~ 1250

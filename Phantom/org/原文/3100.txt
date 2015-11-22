@@ -1,0 +1,458 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　八王子市郊外、
+　はるか西から甲府の山並みを継承する、小高い山の中腹に、
+　篠倉学園の校舎はある。
+
+　麓の街までは、つづら折りの坂道を30分近く通わなくてはならない。
+　もとが全寮制だけに、交通の便はきわめて悪い立地条件だった。
+
+　さらに上に登れば、
+　いまは廃墟となった女子寮が、そのままに放置されているという話だ。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　下校の時間帯がずれたせいで、道に他の生徒たちの姿はない。
+　
+　日の落ちた林の中、静寂だけが二人を包んでいた。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さっきから、隣を歩く美緒は無言のまま、
+　そわそわと視線だけを動かしている。
+　ひっきりなしに、何か思案を巡らせているといった風だ。
+
+<CLEAR><BACKGROUND SRC="jView3">//# dummy 20 jView3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　考えることは、いくらだってあるだろう。
+　
+　見知らぬ異国に来たようなものだ。
+　見慣れた風景も、すべて意味合いが違って目に映る。
+
+　彼女は、恋を遂げたのだ。
+　……多分、生まれて初めて。
+
+　それがどんなに残酷な嘘か、彼女には知る由もない。
+　願わくば、知ることなく終わってほしい。
+
+　ひとたび、彼女を欺いた時点で、もう腹の内は固めていた。
+
+　騙し抜こう。責任を持って。
+　決して彼女を傷つけはしない。
+
+　来月には、3年生に進級する。
+　偽りの学園生活も、あと1年が限度だ。
+
+　美緒の気持ちだって、変わらない筈はない。
+
+　さしたる面識のないままに、自分の内側だけで募らせ、育て上げた愛情。
+
+　それが悪いとは言わない。誰だって、初めはそういう未熟な恋をする。
+　相手を理解することを覚えるのは、それからだ。
+
+　麻疹のようだと、そんな薄情な喩えをよく聞くが、
+　それが的を得ているのも真実だ。
+
+　昴った情熱も、いつかは醒めていく。
+　それこそ、幼子の麻疹が癒えるように。
+
+　そうなった時に、愛情から友情へと、絆を切り替えていけるような、
+　そんな関係を目指せばいい。
+
+　こっちはこっちで、美緒の側にいる口実さえ出来れば、
+　それで目的は達成できる。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　これは下劣な嘘だ。
+　冷たく利己的な、見下げ果てた嘘だ。
+　だがそれなら、せめて責任だけは果たそう。
+
+　美緒には、綺麗な思い出のままで、今の気持ちを終わらせてほしい。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの……」
+
+<BOX type="0">//%w
+「ん？」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ごめんなさい。なんだか、
+　何も話すこと思いつかなくて」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……つまんないですよね？
+　私って」
+
+<BOX type="0">//%w
+「そんなこと、ないさ」
+　
+　慌ててそう否定した。
+　こっちだって、迂闊に話しかけられても、
+　話題についていけるか自信がない。
+
+　美緒のような女の子と、話題に共通点があるとは……
+　とても思えない。
+　
+　……その点、{ヒロイン}はつくづく凄いと思う。
+
+「藤枝さんこそ、つまんなくないか？　俺」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいえ、全然」
+
+「すごく、楽しいです」
+
+<BOX type="0">//%w
+「すごく？」
+　
+　さすがに呆れて、苦笑する。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「本当です」
+
+「何ていうか、その……
+　黙っていても、
+　息苦しくないっていうか」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なんだか、安心なんです。
+　嫌がられてないなって、
+　判るから」
+
+<BOX type="0">//%w
+「そりゃ……別に嫌じゃないからな」
+
+<BOX type="5">//%sR
+「楽しいんです。今、
+　どんなこと考えてるのかなって、
+　想像してるだけでも」
+
+<BOX type="0">//%w
+「……そうか」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……でも、やっぱり、
+　嫌ですか？」
+
+<BOX type="0">//%w
+「何で、嫌がるのさ」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ろくに知らないのに、
+　好意を持たれるなんて、
+　迷惑だって思ってません？」
+
+<BOX type="0">//%w
+　迷惑、か……
+　酷い話だが、最初は確かに、そう思った。
+
+「俺の、何が、好きなんだ？」
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　すぐには答えず、美緒は沈黙した。
+
+　……しまった。
+　困らせるような質問だったか。
+
+　だが、軽く俯いたまま、じっと前を見つめている美緒は、
+　返答に窮しているというより、
+　むしろ、うまく答えを表現できる言葉を探している風だった。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いつも見てたんです。{姓}さんが、木を眺めたり、空を見上げたりしてるところ」
+
+「そういう時の{姓}さんって、ものすごく感動しているみたいで……」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私には、
+　何の変哲もない景色なのに」
+
+「きっと{姓}さんの目には、まるで違って見えてるんじゃないかな、って」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だから、{姓}さんのこと見てると……」
+
+「どんな事にも意味があるんだって
+　そんな風に思えるんです」
+
+「つまらなく思えたり、
+　飽き飽きするような事でも……」
+
+「本当はとっても素晴らしい意味があって、ただ、誰も気付かないだけなんじゃないかって」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ごめんなさい。
+　全然、返事になってませんね」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私が勝手に
+　そう思い込んでるだけなのに」
+
+<BOX type="0">//%w
+「いいや……」
+
+「ここは確かに、素晴らしい場所だよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　死ぬ必要も、殺す必要もない。
+
+　誰かを騙し、陥れ、すべてを奪い尽くしてまで……
+　そうまでして戦う必要もない。
+
+　ただ、眠るだけで、明日が来る。
+
+　生き残りを賭けて戦って、勝ち取って……
+　そんなことを繰り返さなくても、いい。
+
+　明日もまた生きる。
+　それがまるで当然のように、誰もかもに許されている。
+
+　ここはまるで、天国だ。
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　はたと、美緒の視線に気がついた。
+
+　注がれる眼差しには、夢見るような優しさがある。
+
+<BOX type="5">//%sR
+「やっぱり、不思議です。
+　{姓}さんって」
+
+<BOX type="0">//%w
+「……帰国子女だしな」
+
+　困ったときの殺し文句は、これに尽きる。
+
+「君が思ってるほど、大それたことじゃない。
+　本当に珍しいんだよ。じかに日本で暮らすのって」
+
+<BOX type="5">//%sR
+「でも、半年もいたら、
+　馴れません？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私、ホームステイしたこと
+　あるんです。中学生のころ、
+　2ヶ月くらい」
+
+「最初はいろいろ驚いたけど、
+　でもすぐに、何もかも
+　当たり前になっちゃいました」
+
+「どこの国でも、人の暮らしって
+　変わらないんだなって」
+
+<BOX type="0">//%w
+「……そうかもな」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だから{姓}さんは、
+　少し違う気がする」
+
+「日本とかアメリカとか、
+　そういう国柄の差で
+　珍しがってるんじゃなくて」
+
+「もっと全然違う……
+　何て言うのかな、その……」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美緒の話を聞きながら、彼女と並んで歩くうち……
+　ふと、場違いなものが目についた。
+
+<CLEAR><BACKGROUND SRC="ドアティアップ">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　道の左側に、
+　丁度こちらに尻を向ける格好で、一台のバイクが停まっていた。
+
+　ライダーはシートに跨って、腕組みしたまま彫像のように動かない。
+　体型からして女性のようだが、
+　フルフェイスのヘルメットのせいで風貌は判らなかった。
+
+　どこに抜けるわけでもないこの坂道は、
+　いわば篠倉学園の私道のようなものだ。
+　生徒や関係者しか使う用はない。
+　
+　誰か、下校する生徒を待っているんだろうか？
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　隣を歩く美緒は、
+　自分の言葉を整理するのに手一杯で、気にも留めていない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　バイクの横を通り過ぎて、50メートルほど歩いただろうか。
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　やおら、けたたましい排気音が耳に届いた。
+　さっきの女ライダーが、エンジンを始動させたんだろう。
+
+　さっき目にした外見は中型バイクのようにも見えたが、
+　実際はかなりの大排気量のようだ……
+
+　だがもうひとつ、
+　そのエンジンの轟きの影に隠れて、別の音が鳴り響いた。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　聞き慣れた、あまりにも聞き慣れすぎた、
+　だが、こんな場所で聞くことは絶対あり得なかったはずの音。
+
+　振り向いた視界の隅で、プラスチックの白い破片が飛び散るのが見えた。
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+　美緒も、手に提げた学生鞄を、
+　何かに引っ張られるような感触を感じたのだろう。
+
+　鞄の端に吊してあったアクセサリーが、跡形もなく消えている。
+
+<BOX type="5">//%sR
+「……あれ？」
+
+<BOX type="0">//%w
+　途方に暮れる美緒は、もちろんさっきの音と、
+　消えたアクセサリーの因果関係など気付く由もない。
+
+　当たり前だ。彼女には聞き分けられるわけがない。
+　バイクのエンジン音に紛れた、9mmパラベラムの銃声など……
+
+<CLEAR><BACKGROUND SRC="3100p1">//# dummy 20 3100p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ライダーは、ヘルメットを脱いでいた。
+
+<CLEAR><BACKGROUND SRC="1100p1">//#! 1100p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　引っ詰めに結んだ金髪は、二年前よりも長かった。
+　
+　瑠璃色の瞳は、色こそ同じだが、輝きが違う。
+
+<CLEAR><BACKGROUND SRC="1160p1">//#! 1160p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 <WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　記憶の中のあの瞳は、もっと柔らかく、朗らかだった。
+
+　今、不敵な冷笑とともにこっちを睨んでいる、
+　刺し貫くような鋭い目とは……似ても似つかぬものだった。
+
+　だが、何よりも信じ難いのは、
+　あの面影に重なる記憶が、死者のものだということだ。
+
+<se id="1" src="ドカ走り去る" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　女はヘルメットを手首に引っかけたまま、
+　ハンドルクラッチを繋ぎ、やおらバイクを発進させた。
+
+　滑るような加速で、立ちすくむ二人の横を駆け抜けていくバイク。
+
+<CLEAR><BACKGROUND SRC="3100p2">//# 3100p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　擦れ違いざまに、瑠璃色の大きな瞳が、もう一度こちらに一瞥をよこす。
+<se id="2" src="ドカ通りすぎる" mode="normal" loop="off">
+
+　憎悪に燃え、殺意に凍えた一瞥を。
+
+　なぜ、そんな目を？
+　どうして、こんな場所にいる？
+
+　いや、それよりも……
+　本当に、おまえなのか？
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　生きて、いたのか？
+　キャル……
+
+<A HREF="3140.txt" OPERATOR="">//~ 3140

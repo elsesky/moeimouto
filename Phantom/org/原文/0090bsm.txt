@@ -1,0 +1,27 @@
+//> left 44マグナム wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="44マグナム">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　少し躊躇いがあったが、思い切って.44マグナムを選んだ。
+
+　お世辞にも使いやすい銃じゃない。
+
+　リボルバー式という単純な機構のせいだろうか、
+　装填された弾の破壊力が、握った銃把を通して
+　じかに腕に伝わってくるような感覚には、理屈抜きの頼もしさがある。
+
+<CALC WORKNAME="射撃音" OPERATOR="03_01">//
+<CALC WORKNAME="銃" OPERATOR="M29">//
+<CALC WORKNAME="銃画像" OPERATOR="44マグナム">//
+<CALC WORKNAME="射撃画像" OPERATOR="44マグナム2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Sm">//
+<CALC WORKNAME="Ｇマグナム" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<CALC WORKNAME="0090bSm" OPERATOR="1">//
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a
+

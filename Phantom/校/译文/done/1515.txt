@@ -1,0 +1,107 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　风吹过夜间的沙漠。
+
+　过去也好，现在也好，都没有任何变化。
+  这里是，时间停止了的地方。
+
+　这里是一切开始的地方，也是我决定找寻新的人生的地方。
+
+　既然如此……就在这里结束吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　没关系，她应该会明白。
+  不管多远，她都会赶到这里来吧。
+
+　所以，我只要在这里等她就可以了。
+
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0070p1">//# 0070p1 1
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 elen1^6 20
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# factory 1 elen1^6 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我想起了在这里与{ヒロイン}艾伦的点点滴滴。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这里没有丝毫的变化，让我觉得一切就像梦境一样生动可见。
+　
+　真的，那个时候的她仿佛就在我的身边。……
+
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">//# elen6^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　淡淡的月光中伫立着一个影子，如幻觉般朦胧……可是，不知道什么时候，影子变成了真人。
+
+<BOX type="5">//%sR
+「我想你会在这里」
+
+<BOX type="0">//%w
+「嗯。我想你会知道我在这里的」
+
+<BUSTUP NAME="elen6" face="7" MODE="on" zoom="" ALIGN="right">//# elen6^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说过让你逃跑的吧」
+
+<BOX type="0">//%w
+「可是，我打算在这等你」
+
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen5" face="2" MODE="on" zoom="" ALIGN="right">//# elen5^2 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="5">//%sR
+「我必须要杀了你」
+
+<BOX type="0">//%w
+　伴随着冰冷的宣言，{ヒロイン}举起了手中的枪。
+
+「那你就杀了我吧，这正是我所希望的」
+
+　我面对{ヒロイン}举着的枪口，无力地微笑着。
+
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="right">//# elen6^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}似乎感到很意外，寂静的眼瞳里闪过一丝动摇。
+
+<BOX type="5">//%sR
+「……为什么要这么说？」
+
+<BOX type="0">//%w
+「……我已经累了」
+
+　欺骗也好、背叛也好，靠杀戮别人苟活于世……这样残酷的生存方式也好。
+  我已经，受够了
+
+<A HREF="1520.txt" OPERATOR="">//~ 1520

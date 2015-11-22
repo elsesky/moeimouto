@@ -1,0 +1,522 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　握着触电而死的第二名少女的手，第三名少女也当场毙命。
+
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+<CLEAR><BACKGROUND SRC="巰偵庤B_640">//# 3660x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我将她的尸体翻过来，轻轻取下戴在脸上的假面。
+
+　这名少女大概和学园里的学生同龄。
+　如果命运能够让她走上不同道路的话，这个年龄段的少女应该会像早苗那样欢笑，像美绪那样恋爱吧。
+
+可是，这个孩子被赛斯蛊惑了。
+忘记了欢笑与泪水……然后，死去了。
+她与曾经的自己和{ヒロイン}有着相同的境遇。
+
+　在她早已失去光芒的眼中，依旧残留着恨意。
+
+　她在想着什么呢。
+  她究竟是伴随着多么强烈的仇恨死去的呢。
+
+　现在，已经无法追问了。
+
+　这样的事，究竟还会持续多久。
+
+　只要活着就会一直持续下去吗？
+　只要死去就可以迎来结束吗……？
+
+<CLEAR><BACKGROUND SRC="passage6c">//# passage6c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　现在没时间沉浸在伤感中。
+　剩下的3个人应该已经察觉到情况有变，估计马上就会赶过来。
+
+　我捡起死去少女的卡拉什尼科夫，经由走廊朝楼梯跑去。
+　现在该朝楼下逃了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school4c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="school4c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　即使不特意扭过头去，志贺也知道身旁的美绪正在哭着。
+
+　为什么，要为了那个男人……
+
+　不过，自己即使问了应该也得不到答案吧。
+　恐怕就连美绪自己也不知道答案。
+
+那家伙一边让自己带美绪逃走，一边又将两人作为诱饵干掉了一个敌人。
+不出所料，那家伙表面上用甜言蜜语安抚着美绪，内心肯定在打着什么卑劣的主意。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　那家伙的本性和鬣狗没什么两样。
+
+　可即便如此，美绪直到现在还在为他哭泣着。
+
+　不能再让他们见面了……志贺默默地下定了决心。
+
+　要是他再次出现在美绪的面前，自己就亲手送他下地狱吧。
+
+　违背这样的约定没有什么可耻的。
+　自己应该守护的，与梧桐大辅结下的决定。
+
+<CLEAR><BACKGROUND SRC="school1c">//# dummy 20 school1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　终于，2个人到达了停有车辆的校门前。
+
+　Phantom的摩托车、志贺的奔驰、运送梧桐组众人的货车统统展现在他们眼前。
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「快点坐上去吧!」
+
+<CLEAR><BACKGROUND SRC="3960p1">//# 3960p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+在美绪坐上助手席以后，志贺也坐进了驾驶席。
+这辆车原本的司机已经死了，不过志贺还有一把备用钥匙。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　在插入钥匙的一瞬间，志贺脑中突然冒出一串疑问。
+
+　赛斯他们的车在哪里？
+
+　这座校舍建在山里，他们不可能徒步前来。
+
+　那样的人数、那样的武装，使用普通轿车的话至少要2辆才行。
+
+　可是，校门外连一辆自己未曾见过的车都没有。
+
+　那些家伙把车藏起来了。
+　可是，为什么要这么做？
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　想到这里，志贺突然明白了赛斯的意图。
+
+　自从在校园中开始扫荡，赛斯就没打算让一个人逃离这所学校。
+　就算有人真的逃了出来，如果校门这里还有陷阱的话……
+
+<BOX type="4">//%sL
+「……？」
+
+<BOX type="3">//%m
+　或许是感受到了志贺的紧张，美绪一脸疑惑地望着他的侧脸。
+
+<BOX type="5">//%sR
+「……请您先下去，尽可能离这辆车远点」
+
+<BOX type="4">//%sL
+「……好、好的」
+
+<CLEAR><BACKGROUND SRC="school1c">//# school1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+美绪一头雾水地下了车。
+志贺也拔下钥匙，开始下车检查。
+
+　通过仔细观察，志贺发现奔驰车的确被动了手脚。
+
+　燃料箱的旋盖半开着，从里面伸出的2根电线一直延伸到车身下面。
+
+　伸进油箱里的是被剥去绝缘层、露出铜线的蓄电池用电缆线。
+
+　电线的另一头……伸进了汽车的前部。
+
+　志贺连忙打开发动机罩。不出所料，本应接在蓄电池上的电线已经被拔掉，取而代之的是从外部侵入的铜丝。
+
+　如果在不知情的情况下拧下车钥匙，被打着的便不是发动机而是油箱。
+　所有停在这里的车恐怕都被做了相同的手脚。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“真是太天真了……”
+
+<BOX type="2">//%w
+就算在夜间不易发现，不过这终究只是骗小孩的雕虫小技罢了。
+
+　难道说，这帮家伙认为对付慌乱逃窜的外行人做到这种程度就足够了吗。
+
+　接下来，要怎么办？
+
+最安全的办法是将赛斯他们乘坐的车抢过来。
+不过正因如此，他们才将车藏了起来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　奔驰车上的陷阱很容易就可以解除。现在还没有必要去找赛斯的车。
+
+　……不过，为了保险起见，车辆一旦被动过手脚就不应该再用了。
+  被动手脚的地方不一定只有一处。
+
+　但志贺否定了这样的可能性。
+　那些家伙应该不会做到这种地步。
+
+　敌人不敢轻视的只有Zwei一人。
+
+　考虑到猎物的危险性和校园的广阔，6个人并不算多。
+　敌人应该会将全部精力都用在追击Zwei上。
+
+　而对付自己这样的外行人，普通的陷阱就足够了。
+
+　只要将插头接好，奔驰车就能发动……
+
+　志贺决定为自己的判断赌一把。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　东校舍2楼……
+
+<BUSTUP NAME="zs4" face="" MODE="on" zoom="" ALIGN="right">//# zs4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　在重叠着倒在一起的Fünf和Neun的尸体旁，Vier、Seiben和Acht汇合了。
+
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="left">//# zs7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　由于遭到Zwei出乎意料的抵抗，她们的战斗力已经减半。
+　Fünf和Neun的卡拉什尼科夫被夺走使得事态更加严重。
+
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="right">//# zs8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+剩下的3个人要怎样展开狩猎呢……分散包围的话人数已经不够了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　这时，通话机传出赛斯·玛斯塔的指示。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……志贺透和藤枝美绪两人正在设法逃走，赶快想办法制止他们』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="zs4" face="" MODE="on" zoom="" ALIGN="left">//# zs4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　3个人互相看了看。
+　校门附近的车辆全都被Neun做过了手脚，不过看样子是被看穿了。
+
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="left">//# zs8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　不能让那两个人逃走，也不能中断对Zwei的追击。
+　……事到如今，只能再次分兵了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　决定。
+　Vier和Acht继续追击Zwei。
+　Seiben立即赶往校门，将两人处理后再回来汇合。
+
+　以上……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="school1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　虽然志贺已经很久没有亲自整备过汽车了，不过经过5分钟的尝试，他还是将蓄电池的配线修复了。
+
+　自己这边浪费了太多的时间。
+　知道刚才还轰鸣在校舍内的枪声突然平息了。
+
+Zwei的『拖延时间』战术似乎开始失效了……
+
+　不过，现在的首要问题是……就这样拧下车钥匙的话，结果会怎样。
+
+　虽说轮胎和刹车都没有异常，但志贺毕竟不是精通车辆的专家。
+
+　他根本无法保证奔驰车上的陷阱只有那个老套的电线陷阱而已。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美绪小姐」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是、是？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在开始我要试着发动汽车。
+　请你尽可能地远离……」
+
+<BOX type="2">//%w
+　话刚说到一半，志贺便四处张望起来。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……请你躲到校门的阴影里，我不叫你绝对不要露头」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　虽然不明白，但美绪还是照着志贺的话去做了。
+　她似乎已经明白，面前的这个男人会为了保护自己不惜粉身碎骨。
+
+<CLEAR><BACKGROUND SRC="3960x2">//# 3960x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　志贺做了一个深呼吸，之后再次坐进驾驶席，插上了车钥匙。
+
+　美绪正按他的指示躲在隐蔽处。
+　……就算奔驰车发生大爆炸，应该也不会波及到她。
+
+　每当这种时刻……志贺都会想起沉醉于危险、尤其喜爱以命搏命的梧桐大辅的口头禅。
+
+<BOX type="5">//%sR
+“『花道』……吗”
+
+<BOX type="2">//%w
+　说不定自己真的一生都无法理解。
+　如今的志贺还无法像梧桐大辅那样无畏地笑对一切。
+
+<BOX type="5">//%sR
+“我很害怕啊……
+　我真的很害怕啊，大哥”
+
+<BOX type="2">//%w
+　伴随着心中的自白，志贺拧下了奔驰车的钥匙。
+
+//<se id="1" src="cell" mode="normal" time="" loop="off" effect="">//!se cell
+<se id="1" src="儀儞僣僄儞僕儞僗僞乕僩" mode="normal" loop="off">
+　发动机痛苦地呻吟了一下。
+//<se id="1" src="motorStart" mode="normal" time="" loop="off" effect="">//!se motorStart
+　接着马上恢复了狂野的本色。
+
+　奔驰车的前灯将校门里的中庭照的如同白昼一般。
+
+　……什么异常状况都没有发生。
+
+　即使试着踩下油门让发动机空转，爱车依旧像往常一样以排气声做出了应答。
+
+<BOX type="5">//%sR
+“……成功了”
+
+<BOX type="2">//%w
+　安下心来的志贺感觉上肢顿时失去了力量。
+  他长出一口气，擦去了头上的汗。
+<se id="1" src="" mode="fadeout" time="10">
+
+<CLEAR><BACKGROUND SRC="school1c">//# school1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　好了，不能再这么傻坐着了。
+　赶快带着美绪逃跑吧。
+
+　正当志贺打开车门、打算呼喊美绪的时候，
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　伴随着卡拉什尼科夫的轰鸣声，发射炎在奔驰车前灯的光芒中闪现。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school5c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="school5c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　自己从未如此近距离地听到过机关枪的吼声。
+　为了不发出悲鸣，美绪死死地闭紧嘴巴，眼看着志贺的奔驰车被弹雨包围。
+
+　必须要逃走……
+　虽然这样想，双脚却一点也使不上力气。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　枪声平息后，一个带着奇怪假面的杀手从车灯的光芒中走了出来。
+
+　驾驶席的车门半开着，如同断线木偶的志贺从车里倒了出来。
+<se id="1" src="down2" mode="normal" time="" loop="off" effect="">//!se down2
+
+就像是沐浴在舞台灯光中的演员一样，
+假面杀手端着枪，以俯面倒地的志贺为目标，用优雅的脚步慢慢靠近。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“志贺先生……”
+
+<BOX type="2">//%w
+　美绪一边拼命忍耐住想要喊出来的冲动，一边难以抑制地颤抖起来。
+
+　假面杀手似乎没有发现她，就这样径直从她身边走过。
+
+<BOX type="5">//%sR
+“救救我……”
+
+<BOX type="2">//%w
+　美绪在心中这样喊着
+　喊着一定会到来的{名}的名字。
+
+<BOX type="5">//%sR
+“求求你，救救我……”
+
+//> right school1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+志贺透正一动不动地俯身倒在地上。
+不用看也知道他已经中了好几枪
+
+　站在一旁的Seiben用脚踢了踢志贺。
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock。
+　没有反应，果然已经死了。
+
+　藤枝美绪应该在车里吧？
+　为了寻找另一个目标，Seiben将身体探入车内窥视。
+
+<se id="1" src="24_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="school1c">//#! school1c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　这时，志贺突然转过身来，用藏在腹部的P7对准她持续射击，直到将弹夹打空。
+
+　在这样的距离，子弹是不可能打偏的。
+
+　13发9mm弹全都集中在Seiben的脸部和胸口，将她的上身打得血肉模糊。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="school1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……美绪小姐，我们走吧」
+
+<BOX type="2">//%w
+　望着似乎安然无恙、正催促着自己的志贺，美绪小心翼翼地问道。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……志贺先生，你不是被击中了吗……」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没关系，小伤而已」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="2">//%w
+　他的衣服上很明显地沾满了血，不过那也可能是溅上去的敌人的血。
+  黑色的西服让人难以判断伤口位置。
+  真的……没关系吗？
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……好了，快上车吧。
+　让我们赶快离开这里吧」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　在志贺的催促下，美绪将手搭在助手席的门把手上，同时再一次地回过头去，眺望了一眼没入夜幕的校舍。
+
+<BOX type="4">//%sL
+“{姓}同学……”
+
+<BOX type="3">//%m
+　他真的能够遵守约定……平安地回到自己身边吗？
+
+<A HREF="3970.txt" OPERATOR="">//~ 3970

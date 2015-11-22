@@ -1,0 +1,745 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="40">
+<wait time="2000">
+<wait time="900">
+<BACKGROUND SRC="2擭屻">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7">//%w
+<k>
+//仸俀擭屻
+
+//> after2 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+//$ 0 0 0
+<se id="1" src="noonchim" mode="normal" time="" loop="off" effect="">//!se noonchim
+<wait time="8000">
+//> left classroom1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="classroom1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　长长的铃声响起，宣告悠长而散漫的课程结束了。
+<se id="2" src="婘僈僞僈僞" mode="normal" loop="off">
+
+　学生们纷纷起立，弄得椅子和桌子发出咯吱咯吱的声音。
+  他们在行礼时弯腰的角度也是千奇百怪。
+
+如果连形式都不像样子的话，就说明根本没有用心。
+现在看来，这只是曾经重视礼仪、规矩的时代所残留下来的旧制而已。
+
+　不过，这样也好。
+
+　即使是早已失去意义的礼节，人们也还在继续维持着。
+<se id="1" src="峸攦晹" mode="normal" loop="off">
+
+　在这个国家中，每一个人都在无意识地表现着……这种早已湮灭的礼节的温柔一面。
+
+　课程结束，放学后的解放感一下子在学生中间涌现出来。
+  教师仿佛也迫于这种解放感的压力，静静地走下讲台。
+
+　学生们一边将教科书塞进书包，一边或沉默或谈笑地想着到明早前的自由时间。
+
+//> left classroom4a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom4a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　今天如昨天，
+  明日似往年，
+  学校中的风景不会有任何改变。
+
+　没有东西会威胁到这里。
+
+　所以，每个人都显得很温柔。
+　没有人对生活感到焦虑不安，没有人对他人感到畏惧胆怯。
+
+　每天，人们都过着安逸的生活，理所当然地接受着美好的现实，根本想象不出有朝一日这一切会被夺走。
+
+　即使度过了漫长的放荡生活……故乡仍旧会像慈母一般，带着不变的柔情和温暖，张开怀抱迎接她的孩子。
+
+<se id="1" src="" mode="fadeout" time="60">
+//> left classroom1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我一边静静地沉浸在感慨之中，一边和大家一起收拾东西准备回家。
+  突然，我察觉到有人正从身后接近。
+  现在的自己，只有神经还保持这种毫无必要的敏锐。
+
+又是早苗吗……
+她恐怕还想像往常那样猛击我的后背来吓唬我吧。
+从屏息静气、等待时机，到用书包猛击，这段时间已经成为我最近难以忘怀的回忆。
+
+<BOX type="5">//%sR
+「{姓}！
+　不要站着睡觉！」
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　伴随着一声大喝，一个学生书包砸在我的背上。
+
+　我像往常一样，老老实实地装出一副被吓了一跳的样子。
+
+<CLEAR><BACKGROUND SRC="classroom3a">//# sanae1^3 20 classroom3a 1
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20 classroom3a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「又在发呆啊，怎么了？
+　在和空中的电波对话吗」
+
+<BOX type="0">//%w
+　不带丝毫恶意，早苗心满意足地欣赏着恶作剧的成果。
+
+　在这个40人的班中，只有她还没对我这个转校生失去兴趣。
+
+「别再吓我了，真是的……万一心脏被吓得停止跳动可怎么办啊」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「到那时，我会为你做心脏按摩的，一直很想试一次呢」
+
+<BOX type="0">//%w
+每一天我都是这样被她当成玩具。
+虽然每次配合她搞恶作剧的我也有责任，但背后有人注视着自己的感觉要比想象中的好。
+
+　而且，这种恶作剧并不让我感到厌烦。
+
+　即使是这种不值一提的恶作剧，也能令我产生一种错觉……仿佛自己真的正作为一介学生而过着安稳的日常生活。
+
+　早已忘记的东西。
+　早已消失、放弃的东西。
+　虽然仅仅是表面上的感觉，但我真的觉得自己已经找回了这一切。
+
+　没有任何的不快。
+
+<BOX type="5">//%sR
+「其实，我有点事想和你商量」
+
+<BOX type="0">//%w
+「又是英语歌词吗？」
+
+　早苗是西洋音乐发烧友，对于歌词的意思和蕴含的感情，她总是会产生疑问。
+
+　归国子女这个身份，对我来说，是在表现出不通人情世故或做出离奇古怪的举止时的一个很方便的借口。     但对于早苗来说，这只是个外表漂亮的辞典的替代品。
+
+<BOX type="5">//%sR
+「今天可不是关于歌词的事哦」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对你来说也算是一件好事，所以表情看起来高兴点儿嘛」
+
+<BOX type="0">//%w
+「……先说来听听吧」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「先到屋顶去再说吧」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left schooltop2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 120
+<BACKGROUND SRC="schooltop2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　这个时间，渐渐带有春天温暖气息的阳光已经变弱，校舍屋顶上的风还是蛮冷的。
+
+　本以为不会有人的屋顶上，早已有一个人捷足先登了。
+
+<CLEAR><BACKGROUND SRC="3010p1">//# 3010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+一位少女站在那里。
+ 她任由自己的黑色长发随风飘动，目光正望向围墙外面的天空……脸上的表情似乎充满思虑。
+
+　她是……我虽然不知道她的名字，但确确实实见过她。
+
+　我们不是素不相识，应该打过几次招呼。
+　她应该是隔壁班的……名字应该是……
+
+<BOX type="4">//%sL
+「美绪！」
+
+<BOX type="0">//%w
+　听到早苗的喊声，那名少女仿佛猛然惊醒般地浑身一震，转过身来。
+
+<CLEAR><BACKGROUND SRC="schooltop2">//# schooltop2 1 mio1^6 20
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# schooltop2 1 mio1^6 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「那个，早苗……我还是……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sanae1^4 19
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 sanae1^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「啊，听不见，听不见」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我什么都看不见，什么都听不见。拜拜啦」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　早苗演戏似地大笑起来，然后以逃命般的速度消失在楼梯口。
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　结果，屋顶上只剩下处于尴尬的气氛中的两人。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　看样子，早苗将我叫到这里来并非有什么要事，而这个女生好象也不是找早苗有事。
+
+　这样的话……又是怎么一回事呢？
+
+「那个，你应该是……」
+
+　为了打破眼前的沉默，我开口说道。
+
+「江漣的朋友吧，是叫藤原还是啥来着？」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我叫藤枝」
+
+<BOX type="0">//%w
+　她慌忙对我的话加以纠正，然后却又闭口不语，仿佛因自己刚才的慌张而感到害羞。
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……藤枝美绪」
+
+<BOX type="0">//%w
+　对了。在隔壁班里上学的“双胞胎妹妹”江漣曾经为我介绍过……说是她最好的朋友。
+
+
+
+「你也认识早苗啊？」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是的……一年级的时候和她同班」
+
+<BOX type="0">//%w
+「是这样啊」
+
+　这名少女看起来十分温顺老实……与早苗正好相反。
+  同那个爆竹般的女孩在一起，她肯定也吃了不少苦头吧。
+
+「话说你找我有什么事吗？」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那个，其实我有件事情想问你……」
+
+<BOX type="0">//%w
+　她拼命地掩饰着自己言语的用意，视线与我相交后马上便会移开，看起来异常狼狈。
+
+　不过，我也感到有些紧张。
+　虽然我们也算认识，但不管怎么说，她只是“妹妹”的朋友而已。我们还从来没有像现在这样面对面地交谈过。
+
+　没想到自己会被她特意叫到这种地方来，还说有事情要问……
+
+「是关于江漣的事吗？」
+
+  有关“妹妹”的话题……我能想到的只有这个。
+
+　关于妹妹……{姓}江漣的言谈举止，她可能也开始感到疑惑了吧。
+  希望不是什么麻烦的事情……
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不，不是的」
+
+<BOX type="0">//%w
+　我的不安被美绪干脆地否定了。
+
+<BOX type="5">//%sR
+「那个，我想问的是……关于{名}同学的事情」
+
+<BOX type="0">//%w
+「关于我的事情？」
+
+<BOX type="5">//%sR
+「是的……」
+
+<BOX type="0">//%w
+　这就奇怪了。
+　她想问什么呢？我跟她应该一点都不熟才对。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}同学，现在……」
+
+<CLEAR><BACKGROUND SRC="旤弿崘敀">//# schooltop2 1 mio1^6 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「有喜欢的人吗？」
+
+<BOX type="0">//%w
+　如同触到静电一般，她的话让我吓了一跳。
+
+　难道说……她……
+
+<BOX type="5">//%sR
+「不过，像我这样的女孩……果然是没戏吧」
+
+<BOX type="0">//%w
+　美绪马上低下头去，眼望着地面轻声说道。
+
+　她那刻意压制的声音毫无抑扬顿挫，仿佛马上就要哭了出来似的。
+
+<CLEAR><BACKGROUND SRC="schooltop2">//# schooltop2 1 mio1^6 20
+<WIPE EFFECT="fade" TIME="10">
+　在弄清状况的一瞬间，我的脸上或许流露出了紧张的神情……应该是被她看见了吧。
+
+　通常来说，普通的男学生在遇到这种事情时肯定会感到异常欣喜。
+
+　然而，对于我这种隐藏身份、过着蛰伏生活的人来说，没有比这种事情更危险的了。
+  别人对自己的关注超出了感兴趣的程度……
+
+　笼罩着两人的沉默变得比刚才更加沉重，重重地压在我们的肩上。
+
+　如果接受的话，自然就是另外一回事了……但我能够若无其事地拒绝她吗？
+
+　如果她是那种不愿轻易放弃的人怎么办？如果她继续死缠烂打怎么办？
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「美绪？」
+
+<BOX type="0">//%w
+　从别处传来的一个声音打破了难忍的沉默。
+
+　这是，我们两人都很熟悉、但没想到会在这里听到的声音。
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……江漣……」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="left">//# elen3^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么了？你在这里做什么呢？」
+
+<BOX type="0">//%w
+　江漣歪着脑袋，摆出一副完全不理解现场情况的样子，
+  当然，她并无恶意。
+
+<BUSTUP NAME="elen3" face="8" MODE="on" zoom="" ALIGN="left">//# elen3^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「还以为你在跟谁说话呢……哥哥，你找美绪有什么事吗？」
+
+<BOX type="0">//%w
+「不……呃」
+
+　和往常一样……她的这种变化总是令我瞠目结舌。
+
+「……倒是你怎么会在这里？」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="left">//# elen3^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我来找美绪的」
+
+「我想吃金古屋的华夫饼，来问问美绪要不要一起去」
+
+（注：华夫饼，即Waffle，一种源于比利时、外形成一凸一凹的格子状的烤饼）
+
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="left">//# elen3^7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「呐，一起去吧？」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我……」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……还有一点事，今天就算了吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　说完，美绪便匆匆忙忙地从楼梯口离开了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left schooltop2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="schooltop2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一阵风掠过屋顶，仿佛要吹走残留在这里的沉闷空气。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「真令人为难啊」
+
+<BOX type="0">//%w
+　简直就像切换了开关一样，{ヒロイン}收起脸上虚伪的笑容，小声地说道。
+
+　2年B班，{姓}江漣……D班的{姓}{名}的双胞胎妹妹，同为蓧仓学园的学生。
+  这就是{ヒロイン}如今的身份。
+
+「……你都看到了？」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你没注意到吗？」
+
+「真是迟钝呢，{名}」
+
+<BOX type="0">//%w
+「在这里不需要一整天都绷紧神经吧？」
+
+　说不定，我真的是有些迟钝了。
+
+　自己已经作为蓧仓学园的学生度过了半年的潜伏生活。
+
+　现在即使站在窗边，我也不必去担心是否有狙击手在瞄准。
+  即使看到阴暗的角落，我也不必去探察那里是否有杀气。
+
+　因为，这里是日本。
+
+//> left school1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　自从逃离美国，不知不觉已经过去2年了。
+
+　我们先通过陆路从墨西哥前往秘鲁，然后经由大洋州前往菲律宾。
+
+　9个月前，在一个偶然的机遇下，我们认识了一名华侨。
+  在他的帮助下，我们成功地隐藏起自己的真实身份，潜入了日本。
+
+虽然花了一大笔钱，但也正因如此，我们的伪装身份才可以称得上是完美无缺，绝对不会露馅。
+
+<CLEAR><BACKGROUND SRC="school3a">//# school3a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{姓}{名}、{姓}江漣……父母在香港任职。
+
+　如果有人想要对证查实的话，香港会有姓{姓}的日本人装成我们的父母来应对的。
+
+　当{ヒロイン}提出潜入这所位于首都郊外的升学学校时，我还大吃一惊。
+  但在付诸行动后，我才发现学园的确是潜伏的最佳场所。
+
+<CLEAR><BACKGROUND SRC="school5a">//# school5a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　环境封闭，与外界缺乏联系。表面上似乎处于严格的管制下，但校园管理绝对称不上完备。
+  所以，这里完全没有针对伪证和入侵的防备。
+  不，与其说不害怕这些事态，到不如说学校根本没有考虑过这种事发生的可能性。
+
+　这就是单一民族的治安国家所持有的慢性危机管理的漏洞。
+
+//> left schooltop2 wide 255 elen7^6 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schooltop2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那么，你打算怎么处理这件事？」
+
+<BOX type="0">//%w
+「……」
+
+　问题就在这里。
+
+「果然……有些麻烦吧」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这可不一定哦」
+
+<BOX type="0">//%w
+　{ヒロイン}用一如既往的冷静语调给了我一个出乎意料的回答。
+
+<BOX type="5">//%sR
+「说不定是个好机会呢，藤枝同学的感情」
+
+<BOX type="0">//%w
+「……这是什么意思？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们边走边说吧」
+
+//> left passage8a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage8a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「藤枝同学的父亲在她小的时候就去世了」
+
+「她的父母在她出生后就离婚了」
+
+「藤枝是她母亲的旧姓。她从小就没见过自己父亲的样子」
+
+<BOX type="0">//%w
+「连面都见不到吗？」
+
+<BOX type="5">//%sR
+「她的父亲失踪了，下落不明」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……美绪就是听着这样的谎言长大的，直到现在她对此仍深信不疑」
+
+<BOX type="0">//%w
+「谎言？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她的父亲，可是能上报纸的大人物」
+
+<CLEAR><BACKGROUND SRC="court2a">//# dummy 20 court2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　十分自然的……不知道是不是下意识的，{ヒロイン}向礼拜堂走去。
+
+「是谁呢？　美绪的父亲」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「梧桐海典。
+　跨国暴力组织·梧桐組的组长」
+
+<BOX type="0">//%w
+「什么？」
+
+　这个名字与我们可谓因缘非浅。
+
+　梧桐大辅……
+　在2年前那场血债血还的复仇剧中成为了主角的男人。
+　他应该就是梧桐组组长的嫡子。
+
+　真是令人难以置信。
+　难道说，她一直都生活在如此巨大的谎言中吗。
+
+「……美绪本人知道些什么吗？」
+
+<BOX type="5">//%sR
+「她什么都不知道。
+就连梧桐组内部也只有极少数人知道她的存在」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美绪有两个哥哥。可是，次子梧桐宗介在5岁时便夭折了」
+
+「他是被诱拐后杀掉的，是梧桐组内部权力斗争的牺牲品」
+
+<BOX type="0">//%w
+「……」
+
+　听起来真的是很悲惨……
+　对于置身法外的人来说，他们的家庭得不到法律的保护，自然难免遭遇如此下场。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因此，美绪的母亲便带着刚刚出生的美绪离开了梧桐家，彻底断绝了与他们的联系」
+
+<BOX type="0">//%w
+「……这是当然的啊」
+
+<BOX type="5">//%sR
+「不过，长子梧桐大辅已经到了可以决定自己人生的年纪」
+
+「他继承了父亲留下的姓氏——梧桐」
+
+「一直以来，梧桐海典都将她们母女当成绝对的秘密」
+
+「他绝对允许自己的女儿跟黑道上的事扯上关系」
+
+「可是，他又无法光明正大地保护她。美绪是梧桐海典最大的弱点」
+
+<BOX type="0">//%w
+　那样一位柔弱的少女，却身处权力斗争的漩涡，背负着如此不幸的命运。
+  这样的事，谁能想像得到呢。
+
+　相比于惊讶，我更多的是感到不可思议——这种梧桐组的内部情报，{ヒロイン}居然知道的一清二楚。
+
+「为什么你会知道这种事……？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「赛斯·玛斯塔告诉我的……不过，已经是很久以前的事了」
+
+<BOX type="0">//%w
+　赛斯·玛斯塔……
+　即便是2年之后的今天，听到这个名字还是会让我不由得怒上心头。
+
+　在与梧桐组的决裂中自灭的克劳蒂娅。
+　还有与{ヒロイン}的再会……一切都是那家伙安排好的。
+
+　他唯一没有预料到的，应该是{ヒロイン}的逃亡吧。
+
+<BOX type="5">//%sR
+「我之前对你说过吧，玛斯塔逃离Inferno以后，曾经藏身于日本」
+
+<BOX type="0">//%w
+「嗯……」
+
+　我和{ヒロイン}已经将分别的一年间发生的一切毫无保留地告诉了对方。
+
+　如{ヒロイン}所说……
+　赛斯在被克劳蒂娅设计陷害、被迫逃离Inferno以后，曾经秘密地调查过失踪的可卡因的去向。
+  最后，他注意到了突然获得大批来历不明的毒品的梧桐组。
+
+　所以，在我们9个月前潜入日本的时候，{ヒロイン}才会对日本的状况出人意料地了解。
+
+<BOX type="5">//%sR
+「那个时候……在接触志贺以前，玛斯塔就已经对梧桐组进行了彻底的调查」
+
+「真有什么万一的话，他也会利用梧桐组的弱点」
+
+<BOX type="0">//%w
+『也会』……？
+
+「呐……」
+　
+　{ヒロイン}的话突然让我有种不好的预感。
+
+「难道说，{ヒロイン}，
+　你打算以藤枝为筹码威胁梧桐组吗……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「紧要关头，她可以成为我们的王牌」
+
+<BOX type="0">//%w
+　{ヒロイン}平静地说道。
+
+　现在的她应该是美绪的好友，可是……
+　难道说，好友的关系也和对别人的笑脸一样，只是演技而已吗。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在掌握着梧桐组实权的少当家，是Inferno的成员」
+
+「志贺透。
+　你应该见过他吧」
+
+<BOX type="0">//%w
+　前任少当家——梧桐大辅的兄弟，那个伶俐机敏的男人。
+  难道说他从那场大骚动中活了下来，并继承了当家的位置吗……
+
+「也就是说，虽然发生了那种事，Inferno还是接纳了梧桐组吗？」
+
+<BOX type="5">//%sR
+「因为梧桐组独占的日本毒品市场对Inferno有着巨大的魅力」
+
+「大概，他们是用梧桐大辅和克劳蒂娅的死为那场骚动画上了句号」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="school2a">//# elen7^6 20 school2a 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 school2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「这下你应该明白了吧？」
+
+「如果我们的藏身之地被Inferno发现……」
+
+「就要通过控制美绪来威胁梧桐组，进而对Inferno施加压力」
+
+<BOX type="0">//%w
+「……」
+
+　现在我们所讨论的，是抛开善恶、单单与那个『紧要关头』有关的事情。
+
+　可是，即便考虑了可能性……那样的计划，真的能够实现吗。
+
+「……为什么，不告诉我？」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是啊，应该事先告诉你的。
+要是早知道美绪对你怀有恋慕之心的话」
+
+<A HREF="3020.txt" OPERATOR="">//~ 3020

@@ -1,0 +1,11 @@
+//> left パイソン wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<CALC WORKNAME="Ｇパイソン" OPERATOR="1" MODE="global">//
+<A HREF="0183a.txt" OPERATOR="0100Cm=1">//~ 0183a
+<A HREF="0183.txt" OPERATOR="">//~ 0183

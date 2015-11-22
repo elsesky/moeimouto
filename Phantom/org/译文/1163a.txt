@@ -1,0 +1,17 @@
+<BOX type="0">//%w
+  虽然迈尔送我的MATEBA也不错，
+  可是我对这把枪的结构完全不熟悉，因而还是不能轻易信任它。
+
+　另一方面，同样使用0.357口径马格南子弹的“蟒蛇”则历史悠久，
+  经过半个世纪时光的打磨，已经成为了最优秀左轮手枪的代名词。
+
+　如果要托付生命的话，这家伙是唯一的选择。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<CALC WORKNAME="1163a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

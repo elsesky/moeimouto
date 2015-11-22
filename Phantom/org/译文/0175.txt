@@ -1,0 +1,124 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bay1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　洛杉矶港。
+  上午10点……
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「就是那边的码头」
+
+「今天晚上22点，会有中国国籍的货船从那里入港」
+
+「所运货物为陶器」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……还有从东海岸的中国黑社会运进来的，500千克可卡因」
+
+<BOX type="0">//%w
+「我们要把那些东西抢过来？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那确实是最终目的。
+  不过并不是我们的任务」
+
+<BOX type="0">//%w
+「？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「袭击部队已经另有安排，
+  我们的任务是掩护」
+
+「从这个位置全程掩护袭击部队」
+
+<BOX type="0">//%w
+　我放下望远镜，用肉眼目侧距离。
+
+「范围是从200码……到50码？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没错」
+
+<BOX type="0">//%w
+　我环视了一下四周，发现有一处不妥。
+
+「不能再离得远些吗？
+  在这个地方，如果被人发现并包围起来的话，我们就完了」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「能够打到货船甲板上的射角，只有这里才有」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我来射击，
+  Zwei，你负责周围的警戒」
+
+<BOX type="0">//%w
+「原来如此」
+
+　这样的话就万无一失了。
+  本来这个任务也只需要一个人的火力，
+  以Ein的实力已经绰绰有余了。
+
+「我们现在只有高处狙击用的武器，没问题吗？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我用H&K-Sniper-Rifle。
+  你用卡宾型AUG」
+
+<BOX type="0">//%w
+「AUG么……」
+
+　这是一把将弹夹收容在枪托部位的机关枪。
+　虽然拥有火力猛、便于携带的优点，
+　但卡宾型AUG重心偏于后部，这一点让我稍微有些不喜欢它。
+
+「用乌兹不行吗？」
+
+　如果能用使惯了的枪替换AUG的话……
+  虽然我这么想，但Ein却摇了摇头。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这里处于9毫米子弹的射程内，
+  被敌人靠近的话不是上策」
+
+「为了慎重起见，需要高速弹提供的强大火力。
+　所以要你使用AUG」
+
+<BOX type="0">//%w
+「我明白了」
+
+　在装备的选择上，Ein一直都是十分准确严格的。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「回去吧。必须要准备一下」
+
+<BOX type="0">//%w
+「那么，就在回去的路上解决午饭吧」
+
+<A HREF="0180.txt" OPERATOR="">//~ 0180

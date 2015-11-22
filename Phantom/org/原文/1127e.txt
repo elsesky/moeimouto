@@ -1,0 +1,40 @@
+<clear>
+<BACKGROUND SRC="street0b">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「晩御飯、どこかに食べに行こうか」
+
+<BUSTUP NAME="cyall2" face="7" MODE="on" zoom="" ALIGN="right">//# cyall2^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「えぇッ!?　ホント!?」
+
+<BOX type="0">//%w
+　服の時とはうって変わって、キャルは素直に喜びを露わにした。
+　どうやら飲食に関しては、遠慮は不要、ということらしい。
+
+　まぁ、それはそれで筋の通った価値観かもしれない。
+　贈り物と違って、食事は二人で分かち合うものだ。
+　奢られる方だけが、贅沢を楽しむわけじゃない。
+
+「せっかく買った服なんだし、もっと人に見せびらかしてやろう」
+
+<BOX type="5">//%sR
+「うん!!」
+
+<BOX type="0">//%w
+　クロウディアに教わって、洒落た店は何軒か知っている。
+　キャルには少々、空気が大人びているきらいもあるだろうが、
+　たまには、そういう雰囲気も、女の子の喜ぶ刺激かもしれない。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+「……今日は、
+　食いきれないほど頼むなよ」
+
+<A HREF="1135.txt" OPERATOR="">//~ 1135

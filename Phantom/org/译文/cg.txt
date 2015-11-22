@@ -1,0 +1,72 @@
+
+
+<MARKER NAME="#ein">
+
+<BACKGROUND SRC="extra\cg_back">
+//<LAYER SRC="mode\CG_name01" TRANSPARENT="100" NUM="0" x="178" y="63">
+<CHOICE HREF="#ein"   FILE="data\CGSW_EIN_001.png;data\CGSW_EIN_002.png;data\CGSW_EIN_003.png;data\CGSW_EIN_003.png"  x="54" y="0" disable="1">
+<CHOICE HREF="#cal"   FILE="data\CGSW_CAL_001.png;data\CGSW_CAL_002.png;data\CGSW_CAL_003.png" x="104" y="0">
+<CHOICE HREF="#claudia" FILE="data\CGSW_CLAUDIA_001.png;data\CGSW_CLAUDIA_002.png;data\CGSW_CLAUDIA_003.png" x="154" y="0">
+<CHOICE HREF="#mio"   FILE="data\CGSW_MIO_001.png;data\CGSW_MIO_002.png;data\CGSW_MIO_003.png" x="246" y="0">
+<CHOICE HREF="#others" FILE="data\CGSW_OTHERS_001.png;data\CGSW_OTHERS_002.png;data\CGSW_OTHERS_003.png" x="300" y="0">
+
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<system cmd="cgmode" list="einlist.txt" nextfile="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" nextx="545" nexty="25" backfile="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" backx="447" backy="25">
+
+<MARKER NAME="#cal">
+
+<BACKGROUND SRC="extra\cg_back">
+//<LAYER SRC="mode\CG_name01" TRANSPARENT="100" NUM="0" x="178" y="63">
+<CHOICE HREF="#ein"   FILE="data\CGSW_EIN_001.png;data\CGSW_EIN_002.png;data\CGSW_EIN_003.png"  x="54" y="0">
+<CHOICE HREF="#cal"   FILE="data\CGSW_CAL_001.png;data\CGSW_CAL_002.png;data\CGSW_CAL_003.png;data\CGSW_CAL_003.png" x="104" y="0"  disable="1">
+<CHOICE HREF="#claudia" FILE="data\CGSW_CLAUDIA_001.png;data\CGSW_CLAUDIA_002.png;data\CGSW_CLAUDIA_003.png" x="154" y="0">
+<CHOICE HREF="#mio"   FILE="data\CGSW_MIO_001.png;data\CGSW_MIO_002.png;data\CGSW_MIO_003.png" x="246" y="0">
+<CHOICE HREF="#others" FILE="data\CGSW_OTHERS_001.png;data\CGSW_OTHERS_002.png;data\CGSW_OTHERS_003.png" x="300" y="0">
+
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<system cmd="cgmode" list="callist.txt" nextfile="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" nextx="545" nexty="25" backfile="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" backx="447" backy="25">
+
+<MARKER NAME="#claudia">
+
+<BACKGROUND SRC="extra\cg_back">
+//<LAYER SRC="mode\CG_name01" TRANSPARENT="100" NUM="0" x="178" y="63">
+<CHOICE HREF="#ein"   FILE="data\CGSW_EIN_001.png;data\CGSW_EIN_002.png;data\CGSW_EIN_003.png"  x="54" y="0">
+<CHOICE HREF="#cal"   FILE="data\CGSW_CAL_001.png;data\CGSW_CAL_002.png;data\CGSW_CAL_003.png" x="104" y="0">
+<CHOICE HREF="#claudia" FILE="data\CGSW_CLAUDIA_001.png;data\CGSW_CLAUDIA_002.png;data\CGSW_CLAUDIA_003.png;data\CGSW_CLAUDIA_003.png" x="154" y="0" disable="1">
+<CHOICE HREF="#mio"   FILE="data\CGSW_MIO_001.png;data\CGSW_MIO_002.png;data\CGSW_MIO_003.png" x="246" y="0">
+<CHOICE HREF="#others" FILE="data\CGSW_OTHERS_001.png;data\CGSW_OTHERS_002.png;data\CGSW_OTHERS_003.png" x="300" y="0">
+
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<system cmd="cgmode" list="claudialist.txt" nextfile="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" nextx="545" nexty="25" backfile="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" backx="447" backy="25">
+
+<MARKER NAME="#mio">
+
+<BACKGROUND SRC="extra\cg_back">
+//<LAYER SRC="mode\CG_name01" TRANSPARENT="100" NUM="0" x="178" y="63">
+<CHOICE HREF="#ein"   FILE="data\CGSW_EIN_001.png;data\CGSW_EIN_002.png;data\CGSW_EIN_003.png"  x="54" y="0">
+<CHOICE HREF="#cal"   FILE="data\CGSW_CAL_001.png;data\CGSW_CAL_002.png;data\CGSW_CAL_003.png" x="104" y="0">
+<CHOICE HREF="#claudia" FILE="data\CGSW_CLAUDIA_001.png;data\CGSW_CLAUDIA_002.png;data\CGSW_CLAUDIA_003.png" x="154" y="0">
+<CHOICE HREF="#mio"   FILE="data\CGSW_MIO_001.png;data\CGSW_MIO_002.png;data\CGSW_MIO_003.png;data\CGSW_MIO_003.png" x="246" y="0" disable="1">
+<CHOICE HREF="#others" FILE="data\CGSW_OTHERS_001.png;data\CGSW_OTHERS_002.png;data\CGSW_OTHERS_003.png" x="300" y="0">
+
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<system cmd="cgmode" list="miolist.txt" nextfile="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" nextx="545" nexty="25" backfile="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" backx="447" backy="25">
+
+<MARKER NAME="#others">
+
+<BACKGROUND SRC="extra\cg_back">
+//<LAYER SRC="mode\CG_name01" TRANSPARENT="100" NUM="0" x="178" y="63">
+<CHOICE HREF="#ein"   FILE="data\CGSW_EIN_001.png;data\CGSW_EIN_002.png;data\CGSW_EIN_003.png"  x="54" y="0">
+<CHOICE HREF="#cal"   FILE="data\CGSW_CAL_001.png;data\CGSW_CAL_002.png;data\CGSW_CAL_003.png" x="104" y="0">
+<CHOICE HREF="#claudia" FILE="data\CGSW_CLAUDIA_001.png;data\CGSW_CLAUDIA_002.png;data\CGSW_CLAUDIA_003.png" x="154" y="0">
+<CHOICE HREF="#mio"   FILE="data\CGSW_MIO_001.png;data\CGSW_MIO_002.png;data\CGSW_MIO_003.png" x="246" y="0">
+<CHOICE HREF="#others" FILE="data\CGSW_OTHERS_001.png;data\CGSW_OTHERS_002.png;data\CGSW_OTHERS_003.png;data\CGSW_OTHERS_003.png" x="300" y="0" disable="1">
+
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<system cmd="cgmode" list="otherslist.txt" nextfile="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" nextx="545" nexty="25" backfile="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" backx="447" backy="25">
+
+
+<MARKER NAME="#back">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="extramenu" OPERATOR="">

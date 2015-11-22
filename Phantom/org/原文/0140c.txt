@@ -1,0 +1,501 @@
+<se id="1" src="F40エンジンスタート" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　答える代わりにイグニッションキーを捻り、
+　再びフェラーリのエンジンを始動させた。
+
+//<se id="1" src="F40cell" mode="normal" time="" loop="off" effect="">//!se F40cell
+　再び覚醒したV型8気筒が、威嚇的なアイドリング音を響かせる。
+
+<se id="2" src="F40室内アイドリング" mode="normal" time="" loop="off" effect="">//!se F40idol
+　この唸りの内に秘められた獰猛なパワーは、
+　もう身体で味わって知っている。
+
+　だから臆することはない。ビックリ箱に2度目はないのだ。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「きみのこと、
+　ますます気に入ったわ」
+
+<BOX type="0">//%w
+「……それは、誉め言葉と思っていいんですか？」
+
+<BOX type="5">//%sR
+「もちろん」
+
+「懲りない人って、好きよ」
+
+<BOX type="0">//%w
+<se id="1" src="" mode="fadeout" time="10">
+<se id="3" src="F40加速4" mode="normal" time="" loop="off" effect="">//!se F40go2
+　今度のスタートも、無様にがたつきはしたが、
+　それでも一発で発車させることはできた。
+
+<se id="2" src="" mode="fadeout" time="20">
+<se id="1" src="F40クルージング2" mode="normal" time="" loop="off" effect="">//!se F40run
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_speed" mode="fadein" old="fadeout" time="10" loop="on">//$ speed.swa 0 255
+<BACKGROUND SRC="0140x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="3" src="" mode="fadeout" time="20">
+<BOX type="0">//%w
+　意気込んではみたものの、
+　やはりF40は一筋縄ではいかないマシンだった。
+
+　PCHからサンタモニカ＝フリーウェイ、ハリウッド＝フリーウェイ……
+
+　高速道路を次々と乗り継ぎ、操縦感覚を掴もうと悪戦苦闘してみたが、
+　どうにもならない。
+
+　意のままに操縦できないどころか、駆ってるこっちが蹂躙されている。
+
+<se id="2" src="F40走行室内音1" mode="normal" time="" loop="off" effect="">//!se F40run
+<se id="1" src="" mode="fadeout" time="20">
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まず何より、アクセルワークに要求される精密さが並じゃない。
+
+　少しでも雑に扱えば、即座に後輪が滑りだす。
+　爪先で爆弾処理をしているような気分だ。
+
+　特に加速時のクセは意地が悪い。
+　わずかな踏み込みに過剰なパワーで応えるくせに、
+　応答そのものはワンテンポ遅れるのだ。
+
+　ターボユニットの要求する空気量が、きっと桁違いに多いんだろう。
+　だからスロットルの解放からターボの稼働までにタイムラグが生じる。
+
+　結局、スピードと安定を維持するには、
+　回転数を5000の手前あたりで維持し、
+　可能なかぎりターボを作動させ続けるしかない。
+
+<se id="2" src="" mode="fadeout" time="30">
+<se id="1" src="" mode="fadeout" time="30">
+//<se id="1" src="F40corner" mode="normal" time="" loop="off" effect="">//!se F40corner
+//<se id="3" src="F40走り去り" mode="normal" time="" loop="off" effect="">//!se F40corner
+　だがコーナーリングともなればそうもいかず、
+　あっという間に回転数を失って、
+　駄馬のような低トルク状態に陥ってしまう。
+
+　……ここまで操作性を無視したパワー偏重のマシンを、
+　いったい誰が、どういうニーズに応えて設計したんだ？
+
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="F40走行室内音2" mode="normal" time="" loop="off" effect="">//!se F40corner
+<CLEAR><BACKGROUND SRC="0140x2">//# 0140x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「だいぶ飲み込めてきたようね」
+
+<CLEAR><BACKGROUND SRC="0140x3">//# 0140x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「良かったら、手本を見せるわよ」
+
+<BOX type="0">//%w
+　ありがたい申し出だった。
+　いい加減、こいつのじゃじゃ馬ぶりに辟易していたところだ。
+
+「お願いします」
+
+<se id="1" src="" mode="fadeout" time="30">
+　路側帯に寄せて停車し、降りてクロウディアと席を交代する。
+
+<CLEAR><BACKGROUND SRC="0140x6">//# 0140x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「わたしもね、この車、最初は
+　助手席からドライバーを眺めて
+　乗り方を憶えたのよ」
+
+「それでも実際の運転に馴れるには
+　かなり時間がかかったけど」
+
+<BOX type="0">//%w
+「誰か、他の人の車だったんですか？」
+
+<BOX type="4">//%sL
+「ずいぶん、昔の話だけれどね」
+
+<BOX type="0">//%w
+　クロウディアは、宙を眺めてそう呟きながら、
+　ミッションレバーに細い手をかけた。
+
+<se id="1" src="F40急発進" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　1速での発進から、F40は見違えるような挙動を見せた。
+
+　まるで水面を行く水鳥のような、滑らかな滑り出し。
+
+　……同じ車が、乗り手の腕前でこうも変わるものか？
+
+<se id="2" src="F40加速3" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　タコメーターの針は、
+　マシンが本性を顕わす4500回転のボーダーラインを目指して、
+　にじり寄るように昇っていく。
+
+<BOX type="4">//%sL
+「さぁ、ツヴァイ」
+
+「そろそろ、
+　フェラーリのコックピットに
+　案内するわね」
+
+<se id="1" src="F40ターボ始動" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="2" src="" mode="fadeout" time="30">
+
+<CLEAR><BACKGROUND SRC="0140x7a">//# 0140x7a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　4500回転、ターボ作動。
+　ハンマーのようなGが身体をシートに押しつける。
+
+<se id="2" src="F40走行250" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+　だが……車体に揺れはない。
+
+　手本を見せるという言葉には、何の誇張もなかったのだ。
+　いや……むしろ格が違いすぎて、参考にできるようなレベルじゃない。
+
+　パンプスの爪先は、機械のような精密さでアクセルペダルを操っている。
+　ツインターボの悪魔は、完全に彼女の言いなりだった。
+
+<se id="3" src="F40走行250室内" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="2" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「さっきはカーブの抜け方で、
+　そうとう悩んでたわね」
+
+<BOX type="0">//%w
+　見破られていたか……
+　まあ、あれだけ手こずっていれば当然だが。
+
+　そういえば……思い当たって、頭の中に道路図を広げてみる。
+
+　2kmほど先に、ちょっとした右カーブがある。
+
+<se id="2" src="F40加速4" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="F40走行250" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+<CLEAR><BACKGROUND SRC="0130x1a">//# 0130x1a 1
+<WIPE EFFECT="fade" TIME="10">
+
+<BOX type="0">//%w
+　だが減速するかと思いきや、一向にそんな気配はない。
+　カーブに向けて、
+　クロウディアは無謀としか思えないスピードで突っ込んでいく。
+
+「……あの？」
+
+<BOX type="4">//%sL
+「フェラーリには、
+　フェラーリなりの
+　曲がり方があるの」
+
+「ちょっと乱暴だけどね」
+
+<BOX type="0">//%w
+　100メートル足らず先のガードレールが、白々と目に焼きつく。
+　断頭台に立たされたら、ギロチンの刃はあんな風に見えるんだろうか。
+
+　冗談じゃないぞ、おい……
+
+　そのとき、アクセルペダルの上のクロウディアの爪先が、
+　目に見えるほど大きく浮き上がった。
+
+　最初にクロウディアが戒めた、エンジンブレーキによる急減速。
+
+　当然のように、
+　車重は一気にオーバーステアに偏って、リアが滑り出す……
+
+　クロウディアの両手が、ハンドルの上でクルリと翻った。
+　まるで優雅な舞いの手つきのように。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="3" src="F40ドリフト" mode="normal" time="" loop="off" effect="">//!se driftIn
+<CLEAR><BACKGROUND SRC="0140x4">//# 0140x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　鮮やかな逆ハンドルで、F40の後輪が左に滑り出る。
+　フロントは右向きに、カーブの先の進行方向を向いたまま。
+
+　間髪入れずに踏み込んだアクセルに反応し、
+　リアタイヤはスリップから空転へと挙動を変えた。
+　もちろんドリフトアングルは維持したままだ。
+
+　ドリフトを……このスピードでコントロールしてるのか!?
+
+　驚きが声に出かかったその時、
+　さらにクロウディアは、
+　横に逃げようとするリアタイヤを逆ステアでねじ伏せて、
+　パワーを前進モーメントに変え……
+
+<se id="3" src="" mode="fadeout" time="10">
+<se id="2" src="F40カーブ" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="0140x7">//# 0140x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　F40は弾丸のようなスピードを維持したまま、直進を再開した。
+
+<se id="1" src="F40走行150室内" mode="normal" time="" loop="off" effect="">//!se driftOut
+
+<CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「と、まぁ、こんな感じ」
+
+<BOX type="0">//%w
+　さらりと言ってのけるクロウディアの顔には、緊張など片鱗もない。
+
+<BOX type="4">//%sL
+「あの程度のバンクなら、
+　ターボを止める必要もないわけ」
+
+「これが呑み込めたら、
+　一人前のF40使いよ」
+
+<BOX type="0">//%w
+「……はぁ」
+
+　言い直すなら、
+　今みたいな魔法の使える人間しか、F40は扱えないということか。
+
+<se id="1" src="" mode="fadeout" time="20">
+<se id="2" src="F40加速4" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140x7a">//# 0140x7a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　回転数を維持したままコーナーを突破したF40は、
+　続く直線でさらに水を得たように加速を続ける。
+
+<se id="1" src="F40走行250室内" mode="normal" time="" loop="off" effect="">//!se F40accel
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そしてとうとう、クロウディアはギアをトップに入れた。
+
+　サイドウィンドウの景色は、もう何も判別できない。
+　すべての色彩が流星のように尾を引いて、
+　眩暈のするような縞模様を成している。
+
+　スピードメーターを覗き見る。時速……320km。
+
+　そのとき、最初は耳を疑ったが……確かに聞こえた。
+
+　轟々と吠えるエンジン音の向こう側で、
+　まるで小川のせせらぎのように……軽やかに弾む笑い声を。
+
+<se id="1" src="" mode="fadeout" time="15">
+<se id="2" src="F40走行250室内" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140p5">//# 0140p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　彼女は、声を上げて笑っていた。
+
+　この人は、恐怖感ってものがないんだろうか？
+　麻痺してしまった感覚を呼び戻そうとして、こんな無茶をしているのか。
+
+　だが、クロウディアの顔から湧き出る笑顔には、
+　そんな病的な雰囲気は、ない。
+
+　彼女は……純粋に楽しんでいる。
+
+　大人なら、とっくに忘れてしまっているはずの、特別な笑顔。
+
+　悪戯っ子だ。
+　なにか痛快な悪ふざけをしでかした後の、悪戯っ子の笑顔だ。
+
+　スピードが、彼女の心を裸にさせる。
+
+　危険で、リスキーで、なんら得るところのない愚行なのに……
+　そういう打算を抜きにして、ただ無心に快感だけを汲み取っている、
+　無垢な喜びの表情だ。
+
+　インフェルノの幹部として、
+　理知的な雰囲気が板についているクロウディアには、
+　いちばん似つかわしくない表情のようにも思える。
+
+　だが……
+　似合っていない、わけでもない。
+
+　意外だし、まるで別人のようでもあるが、
+　こんな風に笑っているクロウディアも、また……
+
+<se id="2" src="" mode="fadeout" time="30">
+<se id="1" src="F40走行250" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「何を考えてるの？」
+
+<BOX type="0">//%w
+　ふいに問いかけられたので、
+　ついうっかり、正直に答えてしまいそうになる。
+
+「……」
+
+「……いや、別に」
+
+“可愛いと思った”なんて……
+　口が裂けても言えるもんじゃない。
+　いくら何でも、立場の違いってものがある。
+
+<CLEAR><BACKGROUND SRC="0140x4">//# 0140x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　クスッと笑いながら、
+<se id="2" src="F40ドリフト" mode="normal" time="" loop="off" effect="">//!se driftOut
+　またクロウディアは、鮮やかなドリフトワークでコーナーを突破する。
+
+　なんでこんな芸当を、会話しながらこなせるんだ？
+
+<se id="1" src="F40走行150室内" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「リズィだって、普段はヴァイパーに乗ってるくせに」
+
+<se id="2" src="" mode="fadeout" time="30">
+「わたしの車のナビ席だけは、
+　絶対に乗ろうとしないのよ」
+
+「恐い？　きみも」
+
+<BOX type="0">//%w
+「そりゃあ……」
+
+　恐い。あたりまえだ。
+
+　だが、嬉々としてはしゃぐクロウディアを見ていると……
+　ますます、弱気を面に出せない。
+　それこそ臆病を笑いものにされている気分になってしまうだろう。
+
+「きっと、ナビ席だからです」
+
+<CLEAR><CLEAR><BACKGROUND SRC="0140p6">//# 0140p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あら、言うじゃない」
+
+「もう一度、
+　こっち側に座ってみる？」
+
+<BOX type="0">//%w
+　猛り狂っていたターボチャージャーが、
+　まるで従順な番犬のように沈黙した。
+
+　シフトダウンしつつ減速していく手並みも、
+　馴れきっているだけに鮮やかだ。
+　シートには、ほとんど揺れがこない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="0130p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　はたと気付くと、窓の外は、つい小一時間ほど前に見た景色だった。
+
+　サンタモニカを一巡して、またPCHに戻ってきたのだ。
+
+　フェラーリが徐行で乗り入れたのは、ゴルフの停めてある、
+　二人が合流したドライブインだった。
+
+<CLEAR><BACKGROUND SRC="0130p2">//# 0130p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「はー、疲れちゃったわ」
+
+<BOX type="0">//%w
+　気の抜けたような声を上げながら、首筋を揉むクロウディア。
+
+<BOX type="5">//%sR
+「こんなに張り切って攻めたの、
+　ひさしぶりよ。もうクタクタ」
+
+<BOX type="0">//%w
+「少し休みますか？」
+
+<BOX type="5">//%sR
+「そうさせてもらうわ。私は」
+
+<se id="1" src="F40鍵を渡す" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　そう言って、再びクロウディアはフェラーリのキーを投げよこした。
+
+<BOX type="5">//%sR
+「あなたは、遠慮しないで
+　遊んでいらっしゃい」
+
+「一時間くらいしたら、
+　戻ってきて」
+
+<BOX type="0">//%w
+　……いいのか？
+　一人で、こんな車を預かってしまって。
+
+<BOX type="5">//%sR
+「きみなら大丈夫。
+　レッカー車を呼ぶ気遣いは
+　なさそうだから」
+
+「せっかくの機会だし、
+　馴れておいて欲しいの。
+　こういうものの扱い方に」
+
+<BOX type="0">//%w
+「どういう意味ですか？」
+
+　質問には答えずに、クロウディアは白い歯を見せた。
+
+<BOX type="5">//%sR
+「飛ばしていらっしゃい、
+　ツヴァイ」
+
+「走りながらでしか見えない
+　景色もあるわ。
+　きみなら、すぐに解るから」
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　含みのある言葉の意味を考えているうちに、
+　クロウディアは踵を返し、レストランに入っていってしまった。
+
+　……まあ、考えるだけなら、いつでもできる。
+
+　今は、今しか許されていない自由を、満喫する方が先だ。
+
+<se id="1" src="F40ドア開ける" mode="normal" loop="off">
+
+　むず痒いような興奮を覚えながら、
+　三たび、フルバケットシートに身を沈めた。
+
+　1時間……
+　それで、どのくらい走れるだろうか？
+
+<A HREF="0150.txt" OPERATOR="">//~ 0150
+0

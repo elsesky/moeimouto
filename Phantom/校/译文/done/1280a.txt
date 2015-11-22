@@ -1,0 +1,76 @@
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="0">//%w
+　我闭上眼睛，将所有的一切都封进黑暗之中。
+
+　忘却一切吧。
+
+　把之前的人生全都想象成是虚幻的吧。
+
+　只有现在这个瞬间才是真实的。
+
+　与脸颊融为一体的枪托、手指传来的扳机的触感。
+　随着脉搏跳动而晃动着狙击镜的十字线，突破音速冲出枪膛的子弹。
+  还有被一枪击毙的、不知名的目标。
+
+　真实存在的，仅此而已。
+
+　好了，完成任务吧。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="16_05慱寕" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　枪身由于后坐力而猛烈上跳。一瞬间，狙击镜失去了目标。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　干掉了……
+　虽然有了一击必杀的感觉，
+<se id="2" src="16_04" mode="normal" time="" loop="off" effect="">//!se 
+　但手臂还是下意识地拉动枪栓，将第2枚子弹推入枪膛。
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我重新调整好狙击镜，用一只眼仔细观察。
+　被放大的视野中，敌方的狙击手正像慢动作一样缓缓倒地。
+
+　借助狙击镜，仰面朝天的死者终于露出了本来的面貌。
+
+　用风衣包裹着身体的、高大的黑人男子……那是维斯梅尔的亲信，兰迪·韦伯。
+
+　原来是他……
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「看到了吧？　凯尔」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+「那家伙就是朱蒂的仇人。我已经将他送进地狱了」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+「这样一来，幕后黑手是谁也就清楚了，接下来……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="17_01" mode="normal" time="" loop="off" effect="">//!se rifle2
+<BOX type="0">//%w
+　远处传来的枪声，打断了我的话。
+
+<A HREF="1290.txt" OPERATOR="">//~ 1290

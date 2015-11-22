@@ -1,0 +1,65 @@
+//> right 1135p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1135p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「ねぇ、梧桐……」
+
+<BOX type="5">//%sR
+「安心しな。俺も手ぶらで
+　日本に帰る気はねぇよ」
+
+「ここでインフェルノと
+　パイプを繋げなきゃ、
+　筋書きが全部、御破産だ」
+
+「俺等は干上がって
+　お終ぇじゃねぇか」
+
+<BOX type="4">//%sL
+「でもあなたの部下たちは……」
+
+<BOX type="5">//%sR
+「志賀か？　心配ねぇ。
+　あいつは諌め役なんでな」
+
+「お前はお前の足許を見張ってな。
+　クロウディア」
+
+「やばいんだろ？　結構」
+
+<BOX type="4">//%sL
+「……お見通し？」
+
+<BOX type="5">//%sR
+「出る杭が打たれるってのは、
+　どこの国でも同じでな」
+
+「インフェルノからの仕入れが
+　固まれば、それで日本は
+　梧桐のもんさ」
+
+「中国も香港も台湾も、
+　もうヤクザのシマは荒らせねぇ」
+
+「あとは、梧桐一家3000人が、
+　お前を担ぐ」
+
+<BOX type="4">//%sL
+「頼もしいわ」
+
+<BOX type="5">//%sR
+「投資、だったんだろ？
+　ちゃんと配当はくれてやる」
+
+<A HREF="1140.txt" OPERATOR="1133=1">//~ 1140
+<A HREF="1152.txt" OPERATOR="1111a=1">//~ 1152
+<A HREF="1154.txt" OPERATOR="1113a=1">//~ 1154
+<A HREF="1156.txt" OPERATOR="1114a=1">//~ 1156
+<A HREF="1158.txt" OPERATOR="1127=1">//~ 1158
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

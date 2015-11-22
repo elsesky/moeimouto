@@ -1,0 +1,32 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left sibuya4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="sibuya4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　虽然我马不停蹄地一直奔波着，可{ヒロイン}却依然去向不明。
+
+　这样白白浪费时间，只会让自己更加焦躁。
+
+　现在我才明白，凯尔已经放弃了对我的监视。
+
+　虽然没有做出逃跑的举动，但现在的行动的确是非常可疑的。
+  如果凯尔真的在盯着我，应该会给我某种警告才对。
+
+　可是，自己的手机始终保持着沉默。
+
+　难道说，凯尔已经被{ヒロイン}亲手……
+
+　绝望的推测一下子让我跪倒在地。
+  但是，我马上对这样的自己加以训斥。
+
+　不要舍弃希望。
+　现在可不是该悲观的时候。
+
+<A HREF="3595.txt" OPERATOR="">//~ 3595
+
+5

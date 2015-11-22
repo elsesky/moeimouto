@@ -1,0 +1,73 @@
+//> left villa wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="villa">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="right">//# elen6^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……こんなところに、
+　どうして？」
+
+<BOX type="0">//%w
+　{ヒロイン}には、まったく解せない寄り道だったろう。
+
+　だが前回の逃避行と、同じ苦労をしたくはない。
+　咄嗟に閃いた着想だったが、危険を冒す価値はある。
+
+　アローヘッド湖畔、アイザック＝ワイズメルの別荘……
+　まさか再び、足を運ぶことになるとは思わなかった。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　案の定、スーツケースは、放り込んだそのままの場所にあった。
+
+　この数日間、立て続けにインフェルノを襲った衝撃のせいで、
+　もはやアイザックの死も、ヤクザの手から消えたこの金も、
+　記憶から葬られた過去なのだ。
+
+　500万ドル。
+　二人ぶんの逃亡資金としては、充分すぎる額だろう。
+
+　はじめてこの札束を目にした夜を思い出した。
+
+<CLEAR><BACKGROUND SRC="1050p1">//# 1050p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャル……
+
+　この札束に込められたのは、キャルの怒りと悲しみだった。
+　それを糧に、またものうのうと生き延びようとしているのだ。
+
+<CLEAR><BACKGROUND SRC="1070p2">//# 1070p2 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　最後まで騙して、利用し続けた。
+　結果的には、そうなのだ。
+　そしてもう、それを詫びて償うことも、叶わない。
+
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャル……
+
+　怒ってるよな。恨んでるよな。
+
+　だが、ごめんよ。
+　お前が待ってる世界には、まだもうしばらく、出向けない。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まだ、やり残したことが、あるんだよ……
+
+<A HREF="1580.txt" OPERATOR="">//~ 1580
+
+　

@@ -1,0 +1,507 @@
+<BOX type="0">//%w
+　クロウディア＝マッキェネン。
+　そうだ、彼女なら……
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だが目を合わせた途端、甘い期待は消し飛んだ。
+
+　あの目は、違う。
+　アインの留守に、話をした時の目ではない。
+
+　あれは……初めて会ったときの、冷たい目だ。
+
+　まるで見せ物でも眺めるような眼差しで、
+　アインとの勝負を見守っていた、あの時の……
+
+「クロウディア……さん？」
+
+<BOX type="5">//%sR
+「行きなさい、ツヴァイ」
+
+<BOX type="0">//%w
+　突き放すような、固く感情のない声。
+
+　わからない。
+　この前の優しい言葉は……嘘だったのか？
+
+　任務を前に竦み上がるような、そんな無能な奴に用はない……
+
+　鋭く容赦ない眼差しが、そう言い放っているように見える。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　諦めるしかない。
+　ここには、味方なんていないんだ。
+
+　いつまでも、こうして突っ立っているわけにはいかない。
+
+　踵を返し、重い足を引きずるようにして、廃工場を目指した。
+
+　手にした銃のグリップが、滑りそうなほど汗で濡れている。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right factory4BZ wide 255 inferuno1 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4bn">//
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……大丈夫なのかね？
+相手は現役のSEALS隊員だろう？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「問題ありません」
+
+「素養においては、
+　この“ファントム”をも上回る
+　逸材です」
+
+「皆様に、このような場所まで
+　御足労願ったのも……」
+
+「彼の能力を、その目で確かめて
+　いただきたいがためでして」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いつの間に、あんな少年を
+　スカウトしたのかね？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　答えずに、サイス＝マスターは
+　忠実な下僕を一瞥した。
+
+<BOX type="4">//%sL
+「ファントム、
+　お前ならどう見るね？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ウォレス大尉は訓練を受けたプロなので、パニックやプレッシャーの影響はないでしょう」
+
+「経験もツヴァイより豊富でしょうが、訓練の密度ではツヴァイが上かと思われます」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「このようなゲリラ戦に適した
+環境は、逃走者にアドバンテージを
+もたらしますが……」
+
+「地形を熟知しているのは
+　追跡するツヴァイの方です」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「結論として、どうなんだね？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「状況だけ見るなら五分五分です。
+　あとは当人たちの潜在能力で、
+　勝敗が決するでしょう」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ツヴァイに勝ち目は？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私はウォレス大尉の力量を
+　知りません」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……あの少年が負けた場合は、
+　どうなる？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大尉は次に、
+　我々に牙を剥くでしょうな」
+
+「この砂漠では、
+　どのみち逃げ場など
+　ありませんから」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「心配でしたら、
+　防弾車の中でお待ちになっては
+　いかがでしょうか？」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そうさせてもらおう、
+　クロウディア」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……リズィ、お供を」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ヤー」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%w
+　護衛のリズィを引き連れて、
+　マグワイヤはリムジンの中に
+　戻っていった。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……貴女は、
+　よろしいのですか？」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="right">//# crou^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お前が道楽以上の仕事をしたか、
+　確かめてくる」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　静かだった。
+
+　聞こえるのは、ただ、荒野を渡る風の音だけ。
+
+　初めての夜を思い出す。
+　奥の部屋で目を覚まし、一人、さまよい歩いた夜のことを。
+
+　あの時と同じ場所。
+　目に映る薄闇の景色は、なにひとつ変わっていない。
+
+　なのに今夜は、始めて足を踏み入れた別の場所のような気がする。
+
+　この暗闇のどこかに、ウォレス大尉は隠れている。
+　おそらくは、すでに武器を手に入れて。
+
+　落雷の前触れのような、張りつめた空気。
+
+　広い建物の空間が、空気以外のもので満たされている。
+　……恐怖と、憎悪と、そして剃刀のような殺気。
+
+　そんな気配に鳥肌を立てながら、そっと歩を進める自分もまた、
+　あの夜の自分じゃない。
+
+　さまざまな凶器の扱い方や、急所の位置を、頭いっぱいに詰め込み……
+
+　昼となく夜となく、手に貼り付いて感じるほどに使い込んだ銃を
+　握りしめて……
+
+　変わってしまったのだ。何もかも。取り返しがつかないほどに。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BOX type="5">//%sR
+「ツヴァイ、どこ？」
+
+<BOX type="0">//%w
+　ぎょっとして、銃を構えたまま振り向いた。
+
+　だが、あの声は……
+
+「クロウディア……さん？」
+
+<BOX type="5">//%sR
+「……そこにいるの？　ツヴァイ」
+
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一人じゃ心細いんでしょう？
+　手伝うわ」
+
+<BOX type="0">//%w
+　思わず、自分の耳を疑った。
+
+「でも、さっきは……」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ごめんね」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの場じゃ……
+　わたしの立場だと、人前で
+　甘いところは見せられないから」
+
+<BOX type="0">//%w
+　そうだったのか……
+　安堵のあまり、膝の力が抜けかかる。
+
+　一人じゃない。今この暗闇の中で、誰かが隣にいてくれる……
+　それが、どれほど支えになることか。
+
+　ほほえむクロウディアの眼差しは、やはり優しい。
+
+　この人だけは、本当の意味で、味方でいてくれるんだ。
+
+　だが……
+
+　クロウディアが懐から出したのは、38口径の護身用ピストルだった。
+　お世辞にも実戦向けとは言えない。
+
+　そういえば靴の踵も、素早く動くには高すぎる。
+
+「あの……」
+
+「こういうこと、馴れてるんですか？」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「全然」
+
+<BOX type="0">//%w
+　ばつの悪そうに微笑んで、かぶりを振るクロウディア。
+
+<BOX type="5">//%sR
+「この銃も、
+　まだ1度しか撃ったことないの」
+
+<BOX type="0">//%w
+「……」
+
+　いったい、どんな返事をするべきなのか。
+
+　相手は本職の軍人……しかも、もう武器庫に先回りしてる頃だ。
+　あそこにはマシンガンまで置いてある。
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「馬鹿みたいだと思ってる？」
+
+<BOX type="0">//%w
+「いや、その……」
+
+「……大丈夫なんですか？」
+
+　馬鹿げた質問だ。大丈夫なわけがない。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こんな言い方をして、
+　気を悪くしないで
+　ほしいんだけど……」
+
+「きみ一人に、
+　任せておけないのよ」
+
+「サイスは遊び半分のようだけど、裏切り者の処刑は、わたしが責任を負う類の仕事なの」
+
+「だから、あのウォレス大尉には、
+　どうあっても
+　死んでもらわなきゃならないわ」
+
+「でも、きみには、
+　できるかどうか判らない。
+　そうなんでしょ？」
+
+<BOX type="0">//%w
+「……」
+
+　そうです、と、頷きたかったが……
+　そうしたらクロウディアは本気で、
+　みずからウォレス大尉と戦う気なんだろうか？
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「きっと、きみはその銃を何百発も
+　撃ってるんでしょうけど」
+
+「わたしはこの銃で
+　人を殺したことがあるわ」
+
+<BOX type="0">//%w
+　少しショックだった。
+　この人にも、そんな経験が……
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ね、わたしの方が先輩でしょ？」
+
+<BOX type="0">//%w
+「はぁ……いや、でも」
+
+　いったいクロウディアが、どういう状況で誰を撃ったのか知らないが、
+　武装した兵隊と、真っ向から戦った末に……というわけじゃないだろう。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　今、これから始まるのは、れっきとした戦闘だ。
+　殺せるかどうかじゃなく、勝てるかどうかが問題なんだ。
+
+　……。
+
+　……そうか。
+
+　殺せるかどうかなんて……もう、考えている場合じゃない。
+
+　勝たなければ。
+　さもないと、こっちの身が危ない。
+　それだけじゃなく、
+　ここにいるクロウディアまで危険にさらすことになる。
+
+　今は……勝つことだけを考えなければ。
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「ミズ＝マッキェネン……」
+
+　クロウディアの肩に手を置き、傍らの鉄柱の影にしゃがませる。
+
+「あなたは、ここで動かずに、じっとしてて下さい」
+
+「僕が、一人でやります」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、ツヴァイ……」
+
+<BOX type="0">//%w
+　クロウディアは、真顔で沈黙した。
+
+<BOX type="5">//%sR
+「……きみには、
+　まだ無理なんじゃ……」
+
+<BOX type="0">//%w
+「たしかに、そう思ってました。僕なんかにできる筈がないって」
+
+「でも今の僕は……僕が知ってる“僕”じゃない」
+
+「だから、やってみます」
+
+「これは……今の僕になら、できる事なのかもしれない」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ツヴァイ……」
+
+<BOX type="0">//%w
+　頷いて、クロウディアは微笑んだ。
+
+　その笑顔を見て、思い出した。
+　以前クロウディアに会ったとき、別れしなにかけられた言葉を。
+
+　……『次に会うときは、見違えるほど成長してるでしょうね』……
+
+　銃を握りしめ、立ち上がった。
+
+　手にした銃の重さも、さっきほどには感じない。
+　いや、身体全体が軽くなったような気がする。
+
+　だが気持ちが静まるにつれて、余計なことにも勘がまわるようになった。
+
+「僕の代わりに戦おうとしたの……あれ、嘘ですね？」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　照れたように俯くクロウディア。
+
+「僕が心配だったんじゃなくて、本当は、ただ励ましに来たんでしょう？」
+
+<BOX type="5">//%sR
+「ごめんなさい。私……」
+
+<BOX type="0">//%w
+「いいんです」
+
+「嬉しいですよ。心配されるより、励まされる方が」
+
+　それだけ、信頼されていたってことだ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「じゃぁ、行ってきます」
+
+<BOX type="5">//%sR
+「ツヴァイ」
+
+<BOX type="0">//%w
+　数歩進んだところで、クロウディアに呼び止められる。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……頑張ってね」
+
+<BOX type="0">//%w
+　今度は、こちらが微笑んで頷く番だった。
+
+　口元に浮かべて見せた微笑のぎこちなさを、
+　クロウディアに見咎められただろうか？
+
+　やはり……この先に進むのは恐い。自信だってない。
+
+　ただ、悟らされただけだ。
+　……今はもう、不安や恐怖からは目を背け、突き進むしかないんだと。
+
+　もう、後には退けないのだから。
+
+<calc workname="gun25" operator="1" mode="global">
+<CALC WORKNAME="0090c" OPERATOR="1">//
+<A HREF="0092.txt" OPERATOR="">//~ 0092

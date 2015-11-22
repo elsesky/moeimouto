@@ -1,0 +1,144 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0270x3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="0270x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　没多久，我就在市区的一角发现一辆不错的车。
+
+　我在2个街区外的地方停下Taurus，
+  迅速把车内的指纹擦拭干净。
+
+　仪表盘上也没有留下任何线索。
+  这样的话扔在这里就没有问题了。
+
+　我走下Taurus，步行回到了刚才相中的车旁，装着若无其事地观察周围。
+
+　……运气不错，附近没有人。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+　开车锁用了30秒钟。
+  发动用了45秒。
+  就时间来看，还算快吧。
+
+　发动机启动后，我又看了一下周围。
+
+<CLEAR><BACKGROUND SRC="0270x2">//# 0270x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　突然发现在对角线的路边上，停了一辆车。
+  刚才那里明明还没有这辆车。
+
+　蓝色的道奇Viper。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　我的背后立即涌出一股寒意。
+
+　那是，莉兹的车…………
+
+<se id="1" src="廵偱幵憢僲僢僋" mode="normal" time="" loop="off" effect="">//!se knock
+<CLEAR><BACKGROUND SRC="0270x1">//# 0270x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，有人敲了敲驾驶席旁的玻璃。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="0">//%w
+　转头看去，一只0.45口径手枪的枪管抵在了窗上。
+
+「莉兹……」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　在柳眉倒竖的女保镖身边，克劳蒂娅阴沉着脸站在那里。
+
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　还没等我反应过来，
+  莉兹就一下子打破了玻璃，用左手揪住我的衣领。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　接着，她用一股不可思议的力量把我从打破的窗口中拽了出来。
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「死了心吧」
+
+<BOX type="0">//%w
+　我没有做出任何反抗。
+  刚滚到地上，胸口就被长筒靴底踩住了，
+  随即，一把枪的枪口对准了我。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^5 19
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「住手，莉兹」
+
+「他还不清楚情况」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是吗，
+  那就由我来告诉他吧」
+
+「为什么你会逃到盐湖城来？
+  兜风的话，开的太远了吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是赛斯的指示吧？」
+
+<BOX type="0">//%w
+　在这紧要关头，
+  克劳蒂亚似乎打算对我伸出援手。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「逃离洛杉矶，潜伏起来等待联络……大概就是这样吧」
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^4 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说啊克劳，这只是你的一厢情愿吧……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Zwei也好，Ein也好」
+
+「说到底，也只是被剥夺了判断力、如同机器人一般的孩子而已」
+
+「不能追究他们的责任哦」
+
+「首先要让他了解状况」
+
+「之后再从他那里问出与赛斯有关的情报吧」
+
+<BOX type="0">//%w
+　……{ヒロイン}怎么样了？
+
+　与等待着我的命运相比，我更加担心的是{ヒロイン}。
+
+<A HREF="0270f.txt" OPERATOR="0260=1">//~ 0270f
+<A HREF="0270e.txt" OPERATOR="">//~ 0270e

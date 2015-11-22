@@ -1,0 +1,13 @@
+<BOX type="0">//%w
+　別段、ベレッタでも良かったのだが、折角の貰い物だ。
+　たまにはこのシグ＝ザゥアーを使ってみるのも悪くない。
+
+　口径も装弾数も一緒なら、さして違和感もないだろう。
+
+<CALC WORKNAME="射撃音" OPERATOR="21_03">//
+<CALC WORKNAME="銃" OPERATOR="シグ">//
+<CALC WORKNAME="銃画像" OPERATOR="シグ">//
+<CALC WORKNAME="射撃画像" OPERATOR="シグ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

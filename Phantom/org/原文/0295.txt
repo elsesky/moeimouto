@@ -1,0 +1,174 @@
+//> right bay2 wide 255 elen1^3 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「マスター……」
+
+「マスターは何故……
+　こんなことを？」
+
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay2">//#! bay2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%m
+　即座にサイスの手の甲が、
+　アインの頬を打ち据えた。
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="left">//# sice3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どうしたのだ？　アイン」
+
+「いつからお前は、疑問など
+　口にするようになった？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 elen1^3 20
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……申し訳……ありません」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="left">//# sice3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　アインの様子は、
+　明らかにおかしい。
+
+　まるで
+　調律の狂った楽器のようだ。
+　調子の外れた音しか出てこない。
+
+　彼女の戦闘能力の要とも言える
+　絶対的な冷徹さに、
+　綻びが生じつつある。
+
+　ありていに言うなら……
+　落ち着きを失っている。
+
+　原因が、あの致命的な失敗の夜に
+　あることは間違いない。
+
+　そもそもアインが、かつてサイスが設定した思考パターンの通りに判断を下していたならば、彼女は生きてこの場にはいなかっただろう。
+
+　負傷し、
+　戦闘能力を失った時点で、
+　もっと自滅的な行動に
+　出ていたはずだ。
+
+　ところがアインはそうせずに、
+　ツヴァイにつられて
+　不可解な行動を取りはじめた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+“ひょっとすると……寿命か？”
+
+<BOX type="3">//%m
+　無類の完成度を誇ったアインではあるが、サイスとて、彼女の性能を永久に堅持できるものとは思っていない。
+
+　鋼でできた銃器さえ、
+　苛烈な実戦に投じれば、
+　部品の摩耗は避けられない。
+
+まして人間の精神構造は、
+さらに精密でデリケートなのだ。
+おのずと耐用年数は定まっている。
+
+いささか早すぎるのが惜しまれるが
+サイスにそれ以上の感慨はない。
+
+　むしろ興味は、この急激な劣化をもたらした原因の方に向けられる。
+
+　ツヴァイ……あの少年の豹変は、じつに興味深い。
+
+　できることなら、もう一度、彼には会ってみたいものだ。
+
+　フィールドワークの成果として、
+　予想外の結果を示したデータほど
+　貴重なものはない。
+
+　ともあれ、
+　今はそれどころではない。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どうやら、この国で最後の仕事を
+　果たしてもらわねば
+　ならないようだ」
+
+<BOX type="3">//%m
+　アインに向けてそう言いながら、サイスは胸の内で付け加える。
+
+<BOX type="4">//%sL
+“……あるいは、
+　お前の最後の仕事かな？”
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「銃は持っているか？」
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいえ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ふむ……」
+
+<BOX type="3">//%m
+　さりとて大佐の部下から借り受けるというのは、あまり様になる話ではない。
+
+　実のところ、
+　銃器は余るほど手元にある。
+
+　4つのスーツケースには、持ち出すために厳選した、クラシック＝ガンのコレクションが梱包してある。
+　各々に専用の実包も、少量ずつではあるが用意してある。
+
+　もっとも、貴重なコレクションを手荒に扱うというのは、気が引ける話だが。
+
+　いや、むしろ……
+
+　凶器を愛し、凶器の美の在処を弁えているサイスは、その美しさがもっとも輝く瞬間を知っている。
+
+　無論それは、獲物の血を吸う瞬間に他ならない。
+
+<CLEAR><BACKGROUND SRC="0295p1">//# 0295p1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「これを使え」
+
+<BOX type="3">//%w
+　今夜の舞台を飾るに相応しい小道具として、サイスはオートマグを選んだ。
+
+<BOX type="4">//%sR
+「予備のマガジンは二つある。
+　慎重に使え」
+
+「知っての通り機構の危うい銃だ。
+　可能な限り連射は避けるように」
+
+<BOX type="5">//%sL
+「……はい」
+
+<A HREF="0300.txt" OPERATOR="">//~ 0300

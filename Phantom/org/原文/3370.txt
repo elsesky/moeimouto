@@ -1,0 +1,91 @@
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen7^6 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……美緒は？」
+
+<BOX type="0">//%w
+「司書の当番。彼女、図書委員だからな」
+
+<CLEAR><BACKGROUND SRC="passage5b">//# passage5b 1 mio1^7 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="mio1" face="7" MODE="on" zoom="" ALIGN="right">//# passage5b 1 mio1^7 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ここ数日、美緒とはつかず離れずの毎日が続いていた。
+　放課後に、図書室で試験勉強の手伝ったりすることもある。
+
+　出題範囲の狭くなる3学期の期末試験では、
+　病欠してしまった1週間ぶんの授業を、
+　どうにかして補完しなければならない。
+
+　もちろん、ノートなんて誰に借りても一緒なのだから、
+　体の良い口実なのだが。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen7^5 20 INchurch2 1 
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 INchurch2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「気味が悪いぐらい、静かね」
+
+<BOX type="0">//%w
+「どうやら、首根を抑えられたかな」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうだと、いいけれど」
+
+<BOX type="0">//%w
+　楽観を戒めるように、{ヒロイン}は固い声を出す。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今日を含めて、あと五日……
+　気を抜かない方がいいわ」
+
+<BOX type="0">//%w
+　あと……五日、か。
+
+　長いんだろうか。
+　それとも短いんだろうか。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　先週末に{ヒロイン}が出向いた交渉は、上首尾に終わっていた。
+
+　密輸船の出港は月曜の夜半。
+　夜までには、小樽で迎えの人間と合流していなければならない。
+
+　逆算すると、月曜の朝までには、東京を発っておく必要がある。
+
+　誰に別れを告げることも、できない。
+　早苗とも、美緒とも……
+　平静を装って、金曜の放課後に別れ、あとは、それきりだ。
+
+　何の前触れもなく、煙のように失踪する兄妹。
+　すでに香港の“赴任中の両親”も音信不通……
+
+　残された人々が、何を思うかは知れないが、
+　謎が解けることは決してあるまい。
+
+　そして、忘れ去られる。
+　誰だって、限りある人生は、自分の日常と向き合うだけで精一杯だろう。
+　そこから逸脱した事柄に、長く心を囚われているようなゆとりはない。
+
+　……美緒もまた、そうだろうか？
+
+　そうあるべきだ、とは思う。
+　たとえ、いっとき悲嘆に暮れることになろうとも、
+　やがては不可解な思い出の、埒のあかない探求に飽きて、
+　もとの日常に戻ってくれるなら……
+
+　そうあるべきだ。
+　そうあってほしいと、自分もまた願うべきだ。
+
+　本当に美緒のためを、思うなら……
+
+<A HREF="3400.txt" OPERATOR="">//~ 3400

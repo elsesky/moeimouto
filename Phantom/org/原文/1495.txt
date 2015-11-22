@@ -1,0 +1,241 @@
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……{名}？」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<BOX type="0">//%w
+「!?」
+
+　空耳……そうとしか思えない声に、愕然として振り向いた。
+　そこには途方に暮れた表情のキャルがいた。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……何？　何があったの？」
+
+<BUSTUP NAME="cyall" face="3" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっと、あたしたちの部屋……
+　燃えてるじゃん!?」
+
+<BOX type="0">//%w
+「キャル……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　細い身体を、有無を言わさず抱きすくめる。
+
+<BOX type="5">//%sR
+「え、{名}……？」
+
+<BOX type="0">//%w
+　喜びよりも、安堵よりも、胸を苛むのは怯えだった。
+　たった今、絶望の淵で垣間見た……あまりにも冷たく、暗く、虚ろな世界。
+　キャルを失った後に、何が自分を待ち受けているのかを、まざまざと目にしてしまった。
+
+　もう嫌だ。もう二度とご免だ。
+　こんな形でキャルを失うなんて、耐えられるわけがない。
+
+　だが……だからといって、何ができる？
+　今だって、そうだ。たまたまキャルは外にいた。ただそれだけの偶然だった。
+　さもなければ彼女は死んでいた。
+　もしまた、こんなことが起こったら……
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}……ねぇ{名}、ちょっと」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ここにいるの、まずくない？
+　警察とか来たらさ……」
+
+<BOX type="0">//%w
+「……ああ、そうだな」
+
+　取り乱したあまり、そんな当然のことさえ気が回らなかった。
+　今はキャルの方がよほど冷静だ。
+
+「ここはまずい。逃げよう」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　気を取り直し、キャルの手を引いて、乗ってきた車に向かう。
+　逃げる先に宛は……ない。
+　それでも、今すべきことはこの場を離れることだった。少しでも遠くへ。
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　荒野の彼方の地平線から、徐々に夜が明けていく。
+　ひとまず安心と思える場所まで車を飛ばし、
+　二人はしばしの休憩をとっていた。
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ねー、{名}？」
+
+<BOX type="0">//%w
+「何だ？」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さっきはさ……あたしのこと、
+　死んだって思ったの？」
+
+<BOX type="0">//%w
+「……ああ。まさか留守とは思わなかったしな」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「直したビデオが動くかどうか、試そうと思ってレンタル屋に行ってたんだ。で、帰ってきてみたら……」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さも落胆したように、溜息をつくキャル。
+
+<BOX type="5">//%sR
+「何もかも、燃えちゃったね」
+
+<BOX type="0">//%w
+「ああ……」
+
+　殺伐とした日々の中、そこに戻れば安らぎがあった。
+
+　何でもないことのように思えて……だが失ってみてはじめて、
+　キャルと過ごしたあの部屋が、どれだけ大切な場所だったかよく解る。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あれって、ブラディーズの仕返し？　{名}がやったこと、ばれたの？」
+
+<BOX type="0">//%w
+「……まぁ、そんなとこだ」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もう、あの街には戻れないんだね」
+
+<BOX type="0">//%w
+「……寂しいか？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ううん、全然」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}と一緒なら、どこでもいいよ。帰りたいなんて思わない」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも……このまえ買ってもらった服だけ、ちょっと勿体なかったかな」
+
+<BOX type="0">//%w
+「……」
+
+　帰れないだけじゃない。行く宛てもないんだよ。キャル。
+
+　俺たちを追うのは、ブラディーズじゃない。インフェルノ……
+　それがどれだけ恐ろしい敵か、お前は知らないんだよな。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あのさ、{名}」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さっき、さぁ、{名}があたしに抱きついた時ね……」
+
+<BOX type="0">//%w
+「うん？」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたし、{名}のこと守ってるって……そんな風に思った」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<BOX type="0">//%w
+「……」
+
+　悪戯っぽく笑うキャルの顔を、まじまじと見つめた。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怒った？」
+
+<BOX type="0">//%w
+「いいや」
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+　眩しいほどに無垢なこの笑顔を、曇らせることのないように……
+　殺し屋をやめる。そう決意したばかりだった。
+
+　だがそんな目論見も、今となっては甘い夢だ。
+　インフェルノは容赦なく追ってくるだろう。
+
+　逃げて、逃げ続けて、その中でどれほどの血を流すのだろうか。
+　キャルと二人、生き延びる……そのためなら、悪魔にだって魂を売るだろう。
+　でも、そんな男の側にいて……
+　キャル、いつまでお前は、その笑顔を見せてくれるんだい？
+
+　いつかお前は、疲れて、望みを失って、笑うことを忘れてしまうだろう。
+　そうなるより前に、こんな暮らしからは抜け出さなきゃならない。
+　だがそれは……あまりにも虫のいい願望だ。
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……{名}？」
+
+<BOX type="0">//%w
+「ん？　……あぁ、いや。何でもない」
+
+　無理に笑顔を繕って、胸から悲観を追い払う。
+　今は、考えても詮無いことだ。
+
+「そろそろ、行くか」
+
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うん」
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　足取りも軽く車へと戻るキャルの背中を見守りながら、懐の{銃}に手を触れる。
+
+　今日より始まる、生き残りを賭けた日々の中、
+　この固く冷たい感触だけが……たったひとつ、これだけが頼りだ。
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550

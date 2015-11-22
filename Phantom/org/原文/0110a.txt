@@ -1,0 +1,233 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0110p4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight2" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="0110p4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　素早く、そして音もなく……
+　二人は影絵のような身のこなしで、裏路地から躍り出た。
+
+　姿勢を低くしたアインが突進する一方で、
+　こちらは路面に身を投げ出し、伏せ撃ちの体勢を取る。
+
+<CLEAR><BACKGROUND SRC="shopMobA">//# shopMobA 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不意を討たれたとはいえ、
+　それでもボディガードたちの対応は水際だったものだった。
+
+　後列の二人が、ドン＝ルシオをベンツの後部座席に押し込む一方で、
+　前列の３人は、突進してくるアインからルシオを守ろうと、
+　屏風のように横並びに立ちはだかる。
+
+　乱射しながら駆け寄ってくる襲撃者に対しては、
+　防弾チョッキに身を固めた男たちのスクラムは、
+　鉄壁の防御になっただろう。
+
+<CLEAR><BACKGROUND SRC="{銃画像}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だがプローンで精密射撃をかけるこちらからすれば、
+　囮のアインに気を取られている連中の頭は、
+　横一列に並んだ射的の標的でしかない。
+
+　冷静に狙いを定めて……
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+//<wait time="10">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　……3連射。
+　端から、続けざまに糸を切られていく人形のように、
+　3人の巨漢が頽れる。
+
+<CLEAR><BACKGROUND SRC="shopMobA">//# shopMobA 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一方で、前衛のアインは、ルシオやボディガードには目もくれず、
+　ベンツに向けて真っ正面から突っ込んだ。
+
+　ルシオを乗り込ませたベンツは、ドアを閉めるのも差し置いて、
+<se id="1" src="BMWブレーキ" mode="normal" time="" loop="off" effect="">//!se brake
+　急発進でアインを挽き潰そうとする。
+
+<se id="2" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+　そのバンパーを軽やかに飛び越えて、ボンネットの上に乗るアイン。
+　すかさず腹這いになり、パイソンをフロントグラスに突きつける。
+
+　どうせ窓も防弾だろうが……
+
+<se id="1" src="02_10" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="パイソン2">//#! パイソン2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　銃声の切れ目すら判らない、雷鳴のような6連射。
+
+　今回、彼女のパイソンに装填されているのは、
+　真鍮弾頭にテフロン加工を施したKTW徹甲弾だ。
+
+　それをわずか数センチの距離で、すべて1点に撃ち込まれては、
+　防弾も何もあったものではない。
+　ドライバーは即死だろう。
+
+<CLEAR><BACKGROUND SRC="shopMobA">//# shopMobA 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　残る二人のボディガードが、
+　ボンネットの上のアインを排除しようと銃を抜く。
+
+　だが一瞬速く、
+　アインは車体の反対側に身を転がし、フェンダーの影に身を隠す。
+
+<CLEAR><BACKGROUND SRC="{銃画像}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　二人の銃口がアインを追っている隙に、
+　こちらは、またしても落ち着いて照準することができた。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+//<wait time="200">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="shopMobC">//# shopMobC 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ドン＝ルシオの側近たちが全滅するまでに、わずか10秒たらず。
+　だがまだ油断は禁物だ。モール内に散開したヴァルサーニの兵隊たちが、
+　すぐにも駆けつけてくるだろう。
+
+<se id="1" src="BMWブレーキ" mode="normal" time="" loop="off" effect="">//!se brake
+　……そこへ間髪入れず、コンバーティブルのBMWが、
+　ステアリングを軋ませながら駆け込んできた。
+
+<CLEAR><BACKGROUND SRC="0110x6">//# 0110x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「さぁ、退場だ！」
+
+<BOX type="0">//%w
+　急停車したBMWのハンドルを握るのは、サイス＝マスター自身だった。
+　マスケラの覆面だけでなく、何のつもりか、
+　仰々しい羽根飾りの帽子とマントまでまとっている。
+
+　素早く身を起こして、周囲に視線を飛ばす。
+　辺りには、まだ恐慌をきたして逃げまどう市民しかいない。
+
+<CLEAR><BACKGROUND SRC="UZI2">//# UZI 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ドアは開けずに、BMWのリアシートに飛び乗った。
+
+<CLEAR><BACKGROUND SRC="UZI3">//# UZI 1
+<WIPE EFFECT="fade" TIME="5">
+　あらかじめ座席に用意してあったウズィ＝マシンガンを手に取り、
+<se id="1" src="13_01" mode="normal" time="" loop="off" effect="">//!se 
+　初弾を装填する。
+
+<CLEAR><BACKGROUND SRC="shopMobC">//# shopMobC 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　振り向くと、逃げる通行人の流れに逆行して、
+　ヴァルサーニ＝ファミリーの連中がモールから飛び出てくるのが見えた。
+
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　折しもアインは、再装填したパイソンで、
+　ドン＝ルシオ＝ヴァルサーニの眉間を撃ち抜いたところだった。
+
+<CLEAR><BACKGROUND SRC="0110x6">//# 0110x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「カーテンコールだ。
+　お答えしろ、ツヴァイ」
+
+<CLEAR><BACKGROUND SRC="shopMobC">//# shopMobC 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="15_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　サイスに命じられた通り、ウズィのフルオート掃射で、
+　敵の頭上を薙ぎ払う。
+
+　威嚇に怯み、路面に身を伏せるギャングたち。
+
+　その隙に、アインもBMWに飛び乗った。
+<se id="2" src="BMW急発進走行" mode="normal" time="" loop="off" effect="">//!se startdash
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="" mode="fadeout" time="30">
+
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+「……ご苦労だったな。二人とも」
+
+//> left street^a wide 255
+<clear>
+<BACKGROUND SRC="street^a">//
+<se id="1" src="ベンツ走行" mode="normal" time="" loop="off" effect="">//!se inCar
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　アインはマスケラを外し、車外へと投げ捨てた。
+
+　露わになった彼女の横顔は、平時と何ら変わらない。
+　緊張の名残もなければ、汗の一滴も滲ませず……
+
+　こうして死地をくぐり抜けた後も、
+　その貌が安堵や喜びの色を宿すことはない。
+
+<CLEAR><BACKGROUND SRC="0110p1">//# 0110p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ついさっき目にした、眩しいほどの笑顔や怒り顔……
+　目に焼きついたその残像を、いま見つめている横顔に重ねてみる。
+
+<CLEAR><BACKGROUND SRC="street^a">//# street^a 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だが、どうやっても、うまくはまりそうにはない。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="30">
+
+<wait time="900">
+
+<wait time="200">
+<box type="0">
+　無益に想像を働かせるのは止めて、
+　シートに背中を預け、目を閉じた。
+
+　このまま空港に向かうなら……
+　遅くとも明朝には、
+　ロスに戻っているだろう。
+
+<calc workname="gun02" operator="1" mode="global">
+<A HREF="0115.txt" OPERATOR="">//~ 0115

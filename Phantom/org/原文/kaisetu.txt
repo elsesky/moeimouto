@@ -1,0 +1,1038 @@
+
+
+<MARKER NAME="#gun01">
+<CLEAR><BACKGROUND SRC="ak_74_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="zs5x" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　AK-74。1974年よりロシア軍に制式採用されている突撃銃です。
+
+　ミハイル・カラシニコフにより設計され、共産圏に広く普及した
+　アブトマット・カラシニコバ47（1947年式カラシニコフ突撃小銃）は、
+　まずレシーバーをプレス加工にして生産性を向上させたAKMに進化し、
+　次いで西側各国の制式採用ライフルの小口径化に呼応して、
+　このAK-74に発展しました。
+
+<BUSTUP NAME="zs4x" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　最大の変更点はもちろん口径で、
+　AK-47、AKMで使用された7.62mmx39ロシアン・ショート弾に代わり、
+　AK-74では5.45mmx39ロシアン弾を使用します。
+
+　加えて銃口には、大型のマズル・コンペンセイターが装着されました。
+　これは発射時の銃身の跳ね上がりを抑制し、
+　さらに銃声を前方行に逃がす働きもあります。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="AK74">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun02">
+<CLEAR><BACKGROUND SRC="UZI">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　IMI UZIサブマシンガン。
+　建国当初から周囲のアラブ諸国との緊張関係にあったイスラエルが、
+　国防軍備のために開発したサブマシンガンだ。
+
+　開発に於いては、生産性、操作性、信頼性のすべての面で
+　高い水準が要求されたが、設計に当たった陸軍将校
+　ウズィル・ゲイル少佐の成果は、そのすべてを満たすものだった。
+
+　ゲイル少佐の功績を讃え『ウズィ』の名を冠されたこの銃は、
+　その後ベルギーのファブリックナショナル社、
+　アメリカのアクション・アームズ社など、
+　各国の兵器廠でライセンス生産されるようになり、
+　その優れた性能は世界的に認められている。              
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ウズィSMG">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun03">
+<CLEAR><BACKGROUND SRC="mp5_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K MP5。
+　9mmパラベラム弾を使用する短機関銃だ。
+
+　開発は1965年。ボルト解放式のSMGが主流だった当時に、
+　G3ライフルと同様のクローズドボルト・ローラーロッキングシステムを
+　採用したことで、他の追従を許さない命中精度を
+　世界市場にアッピールした。
+
+　以来、各国軍特殊部隊や特殊警察がこぞってこの銃を採用し、
+　現在では特殊部隊装備の代表格ともなっている。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="mp5_k_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　これはさらに銃身を切りつめ、ストックを省略したMP5K。
+　全長をわずか325mmに抑えている。
+
+　このサイズなら、ショルダーホルスターで携行したり、
+　アタッシュケースに内蔵するといった
+　コンシールド性を要求される任務にも対応できる。
+
+　主にシークレット・サービス向けの装備だな。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="H&K_MP5">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun04">
+<CLEAR><BACKGROUND SRC="m3_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　ベネリM3　スーパー90。
+　現在、全米のSWAT隊員にもてはやされている
+　コンバットショットガンだ。
+
+　オートマチック限定だった旧型のM1と違って、
+　このM3はポンプアクションに切り替えて操作することも可能だ。
+　アメリカ陸軍のJSCS（総合戦闘ショットガン）プログラムでも
+　採用されている。
+
+　事実上、世界でもっとも高く評価されている
+　ショットガンと言っていいだろう。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ベネリM3">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun05">
+ <CLEAR><BACKGROUND SRC="mataba_long_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　マテバM2006M。イタリア製のリボルバーだ。
+
+　このマテバ社ってのは妙なリボルバー拳銃を作るのに血道を上げててな、
+　ご多分に漏れずこのM2006Mもイロモノだ。
+
+　普通リボルバーってのは、
+　シリンダーの一番上にきた弾丸を撃発する仕組みなんだが、
+　こいつは構造が完全に上下逆になっている。
+　バレルとラグの位置も逆、ハンマーも下にある。
+
+　なんでこんな妙なデザインにしたかってぇと、
+　銃身の位置を腕の軸線に近づけたぶん、
+　反動を軽減しようってぇ魂胆なのさ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="mataba_short_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　さらにこの銃は、用途に合わせて銃身を簡単に交換できるのもウリだ。
+
+　これは最短の51mmバレルを取り付けた状態だが、
+　最長の153mmまで、7段階の長さのバレルが用意されている。
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="マテバ・モデル2006M">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun06">
+<CLEAR><BACKGROUND SRC="sig_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　シグ/ザゥワーP226。スイスとドイツの合併企業が開発した自動拳銃よ。
+
+　開発はシュヴァイツィッシュ・インダストリー・ゲゼルシャフト
+（スイス工業社）
+　製造はドイツのJ・P・ザゥワー＆ゾーンが行っているの。
+
+　母体となったP220シリーズは、優秀な火器の多分に洩れず、
+　世界中でコピーモデルの開発やライセンス生産が行われている拳銃なの。
+　日本の自衛隊でも、ミネベア製のものが制式採用されているわ。
+
+　このP226は、9mm口径で副列弾倉のフルサイズ＝モデル。
+　全長196mm、重量845g。装弾数は15+1発よ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="シグ_ザウアーP226">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun07">
+<CLEAR><BACKGROUND SRC="h&k_usp_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　ヘッケラー＆コック、モデルUSPだ。
+　USPってのはユニバーサル・セルフローディング・ピストルの略称。
+　メーカーはドイツだが、9mmが主流のヨーロッパじゃなくて、
+　.45が人気のアメリカ市場を意識して作られた銃だよ。
+
+　フレームはファイバー強化ポリマー製ってのも、昨今の流行だね。
+　こいつの9mmバージョンはP8の正式名称でドイツ軍に採用されたし、
+　さらに兄貴分のMk23は、
+　米軍特殊部隊の正式採用拳銃トライアル「SOCOM」に勝ち残った。
+　ま、性能はお墨付きってわけさ。
+
+　全長200mmで、重量は885g。マガジンは副列弾倉で12+1連発だ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="H&K_USP">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun08">
+<CLEAR><BACKGROUND SRC="ブレイザー2">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　SIGブレーザーR93。
+　ストレート＝プル＝アクションという独特の機構を持つライフルよ。
+
+　ボルトのロックを解除するために半回転させる必要がなく、
+　ワンアクションで操作できるの。
+
+<CLEAR><BACKGROUND SRC="ブレイザー">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　中でもこれはロング＝レンジ＝スポーターというモデルで、
+　バットプレート、チークピース、それにトリガーが自在に調整可能な
+　精密射撃専用タイプよ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ブレーザーR93タクティカル">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun09">
+<CLEAR><BACKGROUND SRC="vz61">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　VZ61スコーピオン。
+　冷戦下の旧チェコスロヴァキアで開発された小型のサブマシンガンよ。
+
+　使用する.32ACP弾は、威力の面では心許ないけれど、
+　コンパクトなサイズとコントロールの容易さが長所ね。
+
+　グリップ下側のレイト・リデューサー・ノブで、
+　発射速度を毎分最高750発まで調整できるのも特徴よ。
+
+　折り畳みストックのストッパーを兼ねたフロント・サイト・ガードや、
+　マガジンをフォアグリップとして兼用できるロック機構といった、
+　細やかな配慮も行き届いているわ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="スコーピオン">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun10">
+<CLEAR><BACKGROUND SRC="grock_19_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　グロッグ19。
+　現在、全米の警察で50%以上のシェアを誇るグロッグシリーズの1挺だ。
+
+　中でもこいつはグリップと銃身を詰めたコンパクトモデルで。
+　セルフディフェンスやバックアップ用として、
+　やたらに人気があるらしい。
+
+　最近流行りのポリマーフレームの草分けになった銃として有名だけど、
+　特徴はそれだけじゃない。
+
+　こいつはトリガーに指を触れただけで解除される独特のセイフティと、
+　落下などの衝撃による暴発を防ぐファイアリングピンロック機構を
+　組み込んだことで、マニュアルセイフティを省略してる。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　要するにだ、いざってときに安全装置をはずし忘れるような
+　ボケナスでも、グロッグなら安心して扱えるってわけさ。
+　な？　オマワリが喜びそうだろ。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　……あ～解ってるよ。いい銃だってのは。
+　世の中、便利に越したこたぁねぇからな。
+
+　全長174mm、重さ665グラム。なのに装弾数は15+1発。
+　ホント、嫌味なほどいい銃だよ。
+　……フン。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="グロック19">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun11">
+<CLEAR><BACKGROUND SRC="5906_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　こいつはS&W M5906。
+
+　スミス＆ウェッソンっていや
+　リボルバーメーカーっていう印象が強いだろうが、
+　M39から派生した一連のオートマチック・シリーズも忘れちゃいけない。
+
+　バリエーションをうじゃうじゃ作りすぎて、
+　一時期は4桁の型番で識別してたんだ。
+
+　まず頭二桁が口径とモデルを意味してて、
+　59ナンバーは9mm口径の副列弾倉モデルのこと。
+
+　で、3桁目が機構とサイズで、0はスタンダードサイズの
+　シングル/ダブルアクション兼用トリガーシステム。
+
+　最後の4桁目は材質で、6はステンレス・スチールの意味だよ。
+
+　まー要するに、シリーズ中、多弾倉オートマチックとして
+　一番オーソドックスなのが5906ってわけ。面倒くさい話だよね。
+
+　でも最近の新モデルはまた3桁ナンバーに戻ったり、
+　さらにポリマーフレームのシグマシリーズも加わったりで、
+　もう滅茶苦茶。
+　ま、名前なんてどうでもいいんだけどさ。
+
+　M5906は全長191mm、重さ990グラム。装弾数は15+1発だよ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="S&W_M5906">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun12">
+<CLEAR><BACKGROUND SRC="p7_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K P7M13。
+　新型の警察用拳銃を求めるニーズに応じて開発された銃です。
+
+試作段階ではPSP(ポリツァイ・セルフストラーデ・ピストーレ)と呼ばれ、
+セイフティメカニズムと操作の簡便性に重きを置いた設計になっています。
+
+　特徴は、銃身下に配置したガス・シリンダーに
+　チェンバーの火薬ガスを誘導し、スライドを圧迫して
+　排莢タイミングを調整するガス・ディレイド・ブローバック機構。
+
+　それと、グリップ前面のレバーを握りしめることで
+　撃針を撃発位置に起こすスクイズコッカーです。
+　このスクイズコッカーは
+　スライドストップを解除する役割も兼ねています。
+
+　このM13は全長175mm、重量900g。
+　口径9mmで、装弾数は副列弾倉で13+1発です。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="H&K_P7M13">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun13">
+<CLEAR><BACKGROUND SRC="m11_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　イングラムM11。
+　.45口径、ボルト解放式のイングラムM10サブマシンガンを、
+　さらに小型化するために、口径を.380ACPに落として、
+　ウズィからパクッたオーバーハング型ボルトを組み込んだのがコイツだ。
+
+　単純構造ならではのタフさとコンパクトさ、
+　毎分1200発をブチまける速射性がウリだな。
+
+　設計者のゴードン・Ｂ・イングラムは、
+　色々なメーカーに開発計画を持ちかけたんで、
+　製造元は二転三転してる。
+
+　中でも代表的なのはジョージア州のミリタリー・アーマメント.Coで、
+　MAC10、MAC11の愛称はここから来てる。
+
+　昔は特殊部隊やSWATで歓迎されてたんだが、
+　今じゃ命中精度で勝るH&K・MP5シリーズみたいな閉鎖式ボルトの
+　サブマシンガンにシェアを奪われちまってる。
+
+　まぁ、全長249mm、重さ1.57kgってサイズは、
+　MP5クルツも及ばねぇがな。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="イングラムM11">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun14">
+<CLEAR><BACKGROUND SRC="aug_0000">
+<WIPE EFFECT="fade" TIME="20">
+
+<A HREF="#gun14b" OPERATOR="gun14b=1">//
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　これ知ってるよ。ダイハードで敵役のカールが持ってたやつ。
+　なんかSFものに出てきそうな形してるよね。
+
+　中開けたら、部品までプラスチックだらけでびっくりしちゃった。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　……で、何て銃なの？　これ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ステアーAUG">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+<MARKER NAME="#gun14b">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　スタイアー・マンリッヒャーAUG。
+　オーストリア製の軍用アサルトライフルだよ。
+
+　ストックにレシーバーを収納するブルバップ構造や、
+　内部部品にまで大胆にプラスチックを多用した、
+　ハイテクライフルの走りになった銃だね。
+
+　開発は1976年と古いんだが、
+　当初からウェポン・システムとしても完成されてる。
+
+　機関部やバレルユニットが簡単に分解できるから、
+　左手射撃用に排莢方向をチェンジしたり、
+　銃身の交換でカービンや分隊火器に組み替えたりするのも一発なのさ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="aug_shorty_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　たとえば、これがカービンタイプ。全長は715mmだけど、
+　それでもバレルはグリップの後ろまであるわけだから、
+　銃身長は460mmもある。G3やカラシニコフと同クラスだよ。
+　これがブルバップ・タイプのオイシイとこだね。
+
+　AUGはお国もとのオーストリアだけじゃなく、
+　アイルランドや南半球の各国で、どんどん制式採用されてる。
+　ま、これだけ優秀な銃なら当然だけど。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ステアーAUG">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+
+<A HREF="gun2">
+
+
+
+
+<MARKER NAME="#gun15">
+<CLEAR><BACKGROUND SRC="m_93r_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　こいつが、あー、なんだ、
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　ベレッタM93R。
+イタリア内務省が、セキュリティ要員の装備として開発を要請したもので、
+販売対象は政府機関のみ。一般市場には流通していません。
+
+　通常の自動拳銃と異なり、
+　1回の射撃で3発の弾丸を発射する3点バースト機構を備えた、
+　ピストルとサブマシンガンの中間に位置する銃です。
+
+　連射の反動をコントロールするために、
+　マズル・コンペンセイターと折りたたみ式フォアグリップを装備し、
+　さらに専用のショルダー・ストックを装着することもできます。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　これは第2期生産型で、
+　現行のものはマズル・コンペンセイターの形状が変更されています。
+
+　全長240mm、重量1170グラム。装弾数は20+1発です。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　……だ、そうだ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ベレッタM93R">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun16">
+<CLEAR><BACKGROUND SRC="m16_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　強化プラスチックやアルミニウム系軽合金の多用で
+　現代軍用ライフルの形態を決定づけたM16は、
+　アメリカ軍の制式ライフルとして世界的に名高いが、
+　1982年末からは、その発展型のM16A2が配備されている。
+
+　口径は依然5.56mmx45だが、M16A2はベルギーFN社による新開発の
+　SS109弾薬にあわせて特化している。
+　貫通力に優れた新型弾を生かすため、かつてのM16より、
+　銃身のライフリングが倍近く急ピッチのものになっている。
+
+　また弾薬消費の激しいフルオート機構を廃し、
+　代わりにバースト・リミッターで連射を3発限りとしているのも特徴だ。
+
+　ただしカナダ向け輸出モデルのC7は、
+　従来通りのフルオート機構を搭載している。
+
+<CLEAR><BACKGROUND SRC="m16pistol_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　おおよそ35年の永きに渡って軍用制式ライフルの座にあった
+　M16シリーズには、カービンタイプや狙撃型、分隊支援用など、
+　数限りないバリエーションが存在するが、
+　中にはこのようにバレルとストックを極限まで切り詰め、
+　マシンピストルの域にまで小型化したものもある。
+
+突撃ライフルの火力をコンシールド・ウェポンとして携行できるのだから、
+用途によっては、これほど凶悪な武器もないだろうな。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="M16A2">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun17">
+<CLEAR><BACKGROUND SRC="automag_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　1970年、米国カリフォルニア州パサディナで歴史的な拳銃が誕生した。
+　それがこのAMT180、44オートマグだ。
+
+　全長295ミリ、重量1670グラム、装弾数は7+1発。
+
+　設計者はAMT社の社長、ハリー＝サンフォード。
+　彼はハンドガンにM16アサルトライフルと同様の
+　ロータリーボルト機構を組み込んで、反動を軽減し、
+　マグナムカートリッジの使用に耐える自動拳銃を作ろうとした。
+
+　完成した製品は、残念ながら実用に耐えるものではなく、
+　わずか11年で生産を終えたが、ハリー氏の果敢な挑戦は、
+　多くの理解者の称賛を得るところとなった。
+
+　無論、私もその一人だ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="オートマグ">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun18">
+<CLEAR><BACKGROUND SRC="HB_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　AMTハードボーラー。
+　コルト＝ガバメントをベースにした、
+　シューティングマッチ用のカスタムガンさ。
+
+　全長272ミリで、重量は1224グラム。
+　おおよそ並のコルトの2割増しってとこだ。装弾数は7+1発なんだがな。
+
+　7インチのロングスライドは弾丸初速を上げてくれる上に、
+　重さでマズルジャンプを抑える役目も果たしてる。
+　その気になればロングレンジでも頼りにできる相棒さ。
+
+　……長すぎて邪魔じゃないかて？
+　ウルサイね、アタシゃロングスライドが好きなんだよ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ハードボーラー">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun19">
+<CLEAR><BACKGROUND SRC="EAGLE_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　デザートイーグル50AE。
+　IMI（イスラエル＝ミリタリー＝インダストリー）が誇る
+　世界最強のハンドガンだ。
+
+　もともとデザートイーグルは、.357や.44口径の
+　リボルバー用マグナム弾を使用する自動拳銃として設計されたが、
+　このバージョンは、より一層強力な
+　.50口径アクション＝エクスプレス弾を使用する。
+
+　拳銃でありながら、突撃ライフルと同様のガス＝ブローバック機構を
+　採用しているため、作動の信頼性もきわめて高い。
+　マグナム＝オートマチックの完成形態と言えるだろう。
+
+　だが重量1760グラムとあっては、並の人間では扱えまい。
+　行き過ぎた進化の代償だ。サーベルタイガーの悲哀だな。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="デザートイーグル_50AE">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun20">
+<CLEAR><BACKGROUND SRC="magnum_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　スミス＆ウェッソンM29。.44口径のマグナム＝リボルバーだよ。
+
+　44マグナム弾の威力は、ほぼ同口径の45ACPと比べても、
+　初活力で倍以上……ケタ違いのパワーってわけさ。
+
+　この8インチモデルは、全長216ミリ、重さ1460グラム。
+　いいかい？　1.5キロっていや、小型のサブマシンガンなみだぜ。
+
+　まぁ戦闘よりは、猛獣相手のハンティング用だな。
+　使いこなせるってんなら別だが。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="S&W_M29">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun21">
+<CLEAR><BACKGROUND SRC="python_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　コルト＝パイソン。.357マグナム弾を使用するリボルバー拳銃よ。
+
+　開発は1955年。重さで銃身の跳ね上がりを抑制するフルラグバレルや、
+　加熱した銃身から陽炎が発生するのを防ぐベンチレートリブといった、
+　当時としては画期的なアイデアが盛り込まれているの。
+
+　精度もトップクラスで、競技用拳銃としても通用するわ。
+
+　これは4インチ銃身のモデルで、全長241ミリ。重さは1080グラム。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="パイソン_357マグナム">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun22">
+<CLEAR><BACKGROUND SRC="gava_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　コルト＝ガバメント。大口径オートマチック拳銃の定番ね。
+
+　1911年に米軍で制式採用されて以来、
+　多くのコピーや亜種を産んだ名銃よ。
+
+　9ミリ口径が主流のヨーロッパに対し、
+　.45口径が支持されているアメリカでは、今も現役で活躍しているわ。
+
+　これはマークIVシリーズ80と呼ばれる改良版。
+　全長216ミリで、重さ1075グラム。
+
+　作動はシングルアクションで、装弾数は8+1発。
+　新型の拳銃と比べると、さすがに見劣りするわね。
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<A HREF="#gun22b" OPERATOR="gun22b=1">//
+<CLEAR><BACKGROUND SRC="コルト・ガバメント">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+
+<A HREF="gun1">
+
+<MARKER NAME="#gun22b">
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<CLEAR><BACKGROUND SRC="combat_comander_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　これはガバメントのバリエーションのひとつ。
+　コンバット・コマンダーです。
+　銃身を短縮し、リング・ハンマーを採用して小型軽量化を計っています。
+
+　前身となったコマンダー・モデルは
+　軽量化のためにアルミニウム合金を使用したものの、
+　.45ACP弾を使用するには強度的に問題があり、
+　このコンバット・コマンダーでは、結局スチール材を採用しています。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="コルト・ガバメント">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun23">
+<CLEAR><BACKGROUND SRC="beretta_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　ベレッタM92FS。現在の米軍制式採用拳銃よ。
+
+　口径は9ミリで、装弾数は15+1発。ダブルアクションや
+　ハンマーデコッキングなどの機構を備えた、現代軍用拳銃の代表格ね。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　全長217ミリ。重さは975グラム……
+　わたしには、ちょっと大きすぎるかも。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ベレッタM92FS">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun24">
+<CLEAR><BACKGROUND SRC="knife_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　クリスリーブ＝プロジェクトII。
+　全長320ミリ。刃渡りは195ミリ。
+
+　鍛造炭素鋼を、インテグラル製法で削りだした一体成形のナイフよ。
+
+　グリップは中空で、柄のキャップを外せば、
+　サバイバルツールの収納もできるわ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="クリスリーブ">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun25">
+<CLEAR><BACKGROUND SRC="amt_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　これはAMTモデル・バックアップII。
+
+　AMTといえばオートマグやハードボーラーといった、
+　大口径拳銃の専門メーカーのように思われがちだけれど、
+　このバックアップ・シリーズみたいな、
+　護身用の小型拳銃も用意しているのよ。
+
+　口径は.380ACP。別名9mmショート弾とも呼ばれている弾ね。
+　護身用と思えば威力は充分。
+
+　撃発機構はシンプルな
+　シングル・アクション・ストライカー方式だけれど、
+　そのぶん安全性にも配慮して、グリップ・セイフティも備えているの。
+
+　全長127mm。重量510グラム。装弾数は5+1発よ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="AMTバックアップ">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun26">
+<CLEAR><BACKGROUND SRC="gepalt_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　ゲパルドM1アンチ・マテリアル・ライフル。
+　対物用の大口径ライフルよ。
+
+　対物ライフルは、対人よりむしろ
+　車両や離陸前の航空機を標的とすることを想定された銃器よ。
+　口径は概ね.50口径以上。有功射程も1000mを上回るものが普通なの。
+
+　このゲパルドM1はハンガリー製で、使用弾薬は12.7mmx107機関砲弾。
+　輸出用に、西側規格の12.7mmx99口径のものも製造されているわ。
+
+　作動は手動単発式。それもボルト操作ではなく、
+　いったん撃発機構のユニットをグリップごと引き抜いて、
+　その先端に弾薬を装填し、再度レシーバーに差し込む方式なの。
+
+　全長1570mm、うち銃身長が1100mm。
+　重量は19000グラム。もちろん二脚架での使用が前提よ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ゲパードM1アンチマテリアル">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun27">
+<CLEAR><BACKGROUND SRC="socom_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K MK23。別名USソーコム・ピストル。
+　米軍の特殊部隊向けに特別に開発された拳銃よ。
+
+　SOCOMはSpecial Operations Command（特殊作戦司令部）の略称。
+　陸・海・空・海兵の各軍の特殊部隊を、
+　別枠の統合軍として組織化したものなの。
+
+　このSOCOM採用拳銃の選定には、命中精度や耐久性について、
+　非常に厳しい要求が為されたけれど、
+　試作品トライアルではH&Kがコルトを破り、
+　MK23の開発契約が結ばれたのよ。
+
+　もっぱら特殊部隊向けなので、
+　コストやコンシールド性は度外視されているけれど、
+　性能面ではカスタムガンに匹敵するポテンシャルを持っているの。
+
+　さらにここでは、ナイツ社のサイレンサーと、
+　ウィルコックス社のレーザーモジュールを装着しているわ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ソコム・ピストル">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun28">
+<CLEAR><BACKGROUND SRC="g3_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K G3 SG/1。
+　SGはシャフシュッツ・ゲヴェアの略。ドイツ語で狙撃ライフルの意味。
+　西ドイツ軍に制式採用されていたG3ライフルの狙撃モデルよ。
+
+　量産されたG3ライフルのうち、
+　特に精度に秀でたものを製造ラインで選抜して狙撃用に改造したものよ。
+
+　一番の特徴は、
+　セミオート射撃時にヘアセット・トリガーに切り替えられる点。
+　これによって引金の重さを軽減し、射撃の精密を向上させられるの。
+
+　軍部よりむしろ治安部隊での狙撃銃として使用されるケースが多いわね。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="スナイパー・ライフル">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun29">
+<CLEAR><BACKGROUND SRC="ルガー">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　ルガーP08。我が伴侶たるこの一挺。
+
+　1890年代にヒューゴ・ボルクハルトの試作した自動拳銃を、ゲオルク・ルガーが改良し完成させた、第一次世界大戦における傑作拳銃だ。
+
+　特徴とも言えるトグルアクション機構は、小さく軽量なボルトで確実なロッキングと解放を可能とする、工芸品の域に達したメカニズムといえよう。
+
+　高い工作精度が要求され、部品点数の多さもあってコスト面の問題はあったが、それでも第二次大戦においても多くのドイツ軍将校がこの銃を愛用した。まさに軍用拳銃の王侯貴族と呼ぶに相応しい。
+
+　すでに開発後100年を迎える古式銃ではあるが、未だに愛好家の間では絶大な人気を誇っている。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="ルガーP08_6インチ">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+

@@ -1,0 +1,198 @@
+<BOX type="5">//%sR
+「終わったな。インフェルノも」
+
+<BOX type="0">//%w
+「いいや、始まったんだよ。たった今」
+
+　インフェルノに名を連ねた犯罪王たちは根絶やしにされた。
+
+　今日までインフェルノの折衝により抑止されてきた組織間の抗争が、
+　これで一斉に火蓋を切って落とされる。
+
+<CLEAR><BACKGROUND SRC="slum4">//# slum4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　全米の裏社会は、かつてない混乱に見舞われるだろう。
+　誰もが生き残りを賭けて、
+　いつ終わるとも知れぬ泥沼の戦いを繰り広げる……
+　まさしく混沌の幕開けだ。
+
+　だがこれは退行ではない。新たな統制の始まりなのだ。
+
+　今、手元には、インフェルノが遺した無形の遺産がある。
+
+<CLEAR><BACKGROUND SRC="night3">//# night3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　10余年に渡りインフェルノが蓄積してきた、
+　各組織の内情の詳細なデータ。
+　これがあれば、この混沌の様相を、
+　さながらチェスゲームの盤上を覗き込むように俯瞰できる。
+
+　そして情報さえ把握していれば、
+　各組織の内政に干渉するのも造作はない。
+　欺き、けしかけ、餌で釣る……
+　アプローチの仕方は、いくらでもある。
+　駒の運びは、思いのままだ。
+
+　インフェルノは消える。だが滅びはしない。
+　姿なき亡霊となって、今度こそ、闇の世界に君臨する。
+
+<CLEAR><BACKGROUND SRC="passage1">//# passage1 1 rizy^8 20
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# passage1 1 rizy^8 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「インフェルノの時代は、これからさ。忙しくなるぞ」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そうかい。
+　そりゃ結構なこった」
+
+<BOX type="0">//%w
+　吐き捨てるリズィの口調には、もはや隠しようのない嫌悪があった。
+
+<BOX type="5">//%sR
+「アタシは、抜けるよ」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もうこれ以上は、
+　付き合いきれねぇ」
+
+「サイスも
+　胸クソ悪い男だったが……
+　アンタは、輪をかけて最悪だ」
+
+<BOX type="0">//%w
+「……そうか」
+
+　別段、意外ではない。
+　リズィのような価値観では、いずれ限界もくるだろうと、
+　かねてから予想はしていた。
+
+「これから、どうするつもりだ？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「田舎に引っ込んで、
+　酒場でもやるさ」
+
+「……尤も、口封じに
+　消されなけりゃの話だが」
+
+<BOX type="0">//%w
+「安心しろ……と、言っても、信用するまいな」
+
+「なるべく遠くに行くがいい。二度と会わないほど、遠くへ」
+
+<BOX type="5">//%sR
+「言われなくても、
+　そのつもりだよ」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「アンタのツラを拝むのは、
+　金輪際お断りさね」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　立ち去るリズィに、何かもう一言、
+　気の利いた別れの言葉でもかけたかったが……止めておいた。
+　顔が見たくないのなら、声だって、金輪際、聞きたくはないだろう。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1760x3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="1760x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　久しぶりに訪れたクロウディアの墓は、
+　何の変哲もない簡素な墓地の一角にあった。
+
+　あんな波乱の生涯を送った女には、不釣り合いなほど凡庸な場所だが、
+　眠るには、いい場所かもしれない。
+
+　クロウディア……
+
+　あなたが夢見ていた場所に、いま、俺は立っている。
+
+　あなたと同じ夢を追い続ければ、
+　いつまでも、あなたを傍に感じていられるかもしれないと……
+　そう思って、今日まで、俺は駆けてきた。
+
+　ときどき、こう思ったこともある。
+
+　もしかしたら俺は、あなたの夢の中にいるんじゃないかって。
+　これはすべて、あなたの夢の中の出来事なんじゃないかって。
+
+　7年なんて歳月は、何もかも幻で……
+　本当のあなたは、ベッドの中で、
+　俺の腕に抱かれて眠っているんじゃないかって。
+
+　いつか、この夢が幕を閉じ、あなたが眠りから覚めるとき……
+　あなたの夢の中の俺も、あなたと寝ている本当の俺に戻って、
+　一緒に目を覚ますことができたなら……
+　どんなに素敵だっただろうね。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1760x4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1760x4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+//$ 0 0 0
+　小高い丘の上の墓所から、振り向いて、眼下の街並みを見遣る。
+　何も知らず、何も気付かす、日々を送る人々の営み。
+
+　彼らは知るまい。
+　その安穏な生活を、影から支配し、搾取する者の存在を。
+
+　この丘の上で、俺は君臨し、睥睨する。
+　闇の世界の頂点に立って。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="Silence_s" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+　ここが、あなたの目指した場所だよ。
+　これが、あなたの求めていた世界だよ。
+
+　俺の目を通して、見てくれているかい？
+
+　あなたのぬくもりを、あなたの微笑みを、あなたの遠い眼差しを、
+　もう一度、思い出させてくれるかい？
+
+//> left 1760x3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1760x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　さようなら、クロウディア。
+
+　俺はあなたの夢を越えていく。
+
+　これから俺が目指すのは、あなたの夢の果ての世界。
+　あなたが想像もしなかった景色を、俺は目にすることだろう。
+
+　だから、もうお別れだ。
+
+<CALC WORKNAME="クロウエンド" OPERATOR="1" MODE="global">//
+<A HREF="1550.txt" OPERATOR="">//~ 1550

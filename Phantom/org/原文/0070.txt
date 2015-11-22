@@ -1,0 +1,51 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 _1 0
+　いつの間にか、
+　まどろんでいたらしい。
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se doorOpen
+　ドアの開く軋んだ音で、
+　目が覚めた。
+
+//> left room1d wide 255 elen1^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……アイン……
+
+　明かりも点けずに、彼女は部屋に入ってきた。
+
+　天井近くの小さな窓から、月明かりが、わずかに射し込んでくる。
+
+//> left 0070p1 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 125
+<BACKGROUND SRC="0070p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//もえらＳＥ追加
+<se id="1" src="アイン着がえ" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　そんな、あるかなしかの薄明かりの中で、
+　アインは寝袋を広げ、服を脱いでいった。
+
+　暗闇に、アインの肌が白く浮き上がる。
+　熟睡してると思っているのか、こちらには気づかない。
+
+<CHOICE HREF="0070b.txt" TEXT="＊声をかける" OPERATOR=""></A>//{ ＊声をかける 0070b ＊黙って見守る 0070a
+<CHOICE HREF="0070a.txt" TEXT="＊黙って見守る" OPERATOR=""></A>//{ ＊声をかける 0070b ＊黙って見守る 0070a

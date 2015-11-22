@@ -1,0 +1,525 @@
+「君には……」
+
+「君には二度と、殺しなんてしてほしくなかった」
+
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="right">//# elen6^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="right">//# elen6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なら、安心して」
+
+「あなた一人で、最後だから」
+
+<BOX type="0">//%w
+「どうあっても、やるんだな？」
+
+<BOX type="5">//%sR
+「死にたくなかったら、
+　本気できなさい」
+
+<CLEAR><BACKGROUND SRC="0010p2">//# 0010p2 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0070p1">//# 0070p1 1
+<WIPE EFFECT="fade" TIME="10">
+
+<CLEAR>
+<BACKGROUND SRC="black">//# 0070p1 1
+<WIPE EFFECT="fade" TIME="10">
+
+<BOX type="0">//%w
+　彼女の言葉も、笑顔や涙も、
+　ともに過ごした日々の記憶も……
+　ゆっくりと霜に覆われるようにして、殺意の下に隠れていった。
+
+<CLEAR>
+<BACKGROUND SRC="roomC2">//# roomC2 1 elen6 20 
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="right">//# roomC2 1 elen6 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　結局、彼女とは、こうなる運命だったのだ。
+
+　1年前……
+　誤って彼女を撃ったあの瞬間を、何度思い返して悔やんだか知れない。
+
+　だがそんな自責も、すべてが徒労だった。
+　改めて再会した今も、二人はこうして殺し合っている。
+
+　どんな感情を懐いていようと、
+　出会えば戦う他にない……
+　つまりは、そういう巡り合わせなのだ。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　{銃}は手放して床に落とした。
+　弾を込め直している暇はない。
+　彼女の挑戦に応じて、近接格闘を演じるしかあるまい。
+　初めて出会った、あの夜のように。
+
+「妙に、懐かしい場面だな」
+
+　深く、ゆっくりと呼吸を整えながら、アイスピックの柄を握り直す。
+
+<BUSTUP NAME="elen2" face="4" MODE="on" zoom="" ALIGN="right">//# elen2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}もまた、呼吸も動悸も窺えない静謐の構えで、おもむろに刃を差し上げる。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　先に仕掛けたのは、こっちだった。
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　まず顔を目掛けて一突き。
+　もちろんフェイントだ。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　数度のフェイントを交えながら、{ヒロイン}の顔めがけ、立て続けに突きの連続を見舞う。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　{ヒロイン}は動じることもなく、寸分の見切りですべてを躱わした。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="アインナイフ戦闘服">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　返礼とばかりに、ただの一撃、反撃の刃が返ってくる。
+　速く、重く、絶望的なまでに正確な、狙い澄ました一撃だった。
+
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="アインとナイフ格闘完成">//# ナイフ 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　すんでの所で、アイスピックの刃で阻む。
+　サバイバルナイフとアイスピックでは、どだい得物の格が違う。
+　勢いの乗ったナイフの刃を、細いアイスピックで受け止めるのは無理だ。
+
+　ぎりっと互いの刃が噛み合い、アイスピックが危うい撓り方をする。
+
+　まずい……
+
+　だが{ヒロイン}は、すでに勢いを削がれたナイフに拘泥しなかった。
+　むしろ得物の不安に気を取られたこちらの隙こそ好機と、即座に狙いを変えてきた。
+
+　空いた彼女の左手が蛇のように疾り、避ける暇もなくジャケットの襟を掴まれる。
+
+「!!」
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　頭で考えるより速く、
+　身体が宙に浮く寸前に、掴まれたジャケットの前ボタンをもぎ取った。
+
+<se id="1" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+　投げ飛ばされはしたものの、
+　直前にジャケットがはだけて、姿勢の完璧さが失われたせいだろう。
+
+　背負い投げの致命的な勢いは、
+　受け身を取って跳び起きられる程度に、威力を減じることができた。
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1 elen2^4 20
+<BUSTUP NAME="elen2" face="4" MODE="on" zoom="" ALIGN="right">//# roomC2 1 elen2^4 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　再び、出だしと同じ距離を置いて対峙する。
+
+　わずか数秒の立ち合いで、すでに勝敗は見えていた。
+　……どう足掻いても、勝ち目はない。
+
+　過ぎし日の恐怖と戦慄が蘇る。
+　こうして、本気で相見えてみれば……力量の差は歴然だ。
+
+　思い知らされた。
+　1年あまりの時を経た今も、いまだ彼女の足元にも及ばない。
+
+　スピード、正確さ、判断力……
+　すべてに於いて、{ヒロイン}が一枚上手だ。
+
+　負けるわけにはいかないというのに……
+　今、負ければ、それは自分一人の死だけでは済まされない。
+　クロウディアの命も賭かっている。
+　生きて、このMOディスクを届けなければ、
+　彼女もまた生き延びる道はない。
+
+　だが、どうすればいい？
+　これほど圧倒的な力量の差がありながら、一体どこに勝算がある？
+
+　ただ、ひとつ。
+　勝機があるとすれば、ただひとつだけ……
+
+<CLEAR><BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　慎重に間合いを計りながら、
+　じりじりと蟹歩きをして、横へ、横へと回り込む。
+
+　そういえば、初めて{ヒロイン}と戦った時も、こんな風に位置を変え、サイスを襲うと見せかけて、彼女の不意を討ち勝機を掴んだ。
+
+　丁度、ホームバーを背にする辺りの位置で足を止め、
+　腰を落として{ヒロイン}と対峙する。
+
+　忘れろ。
+　戦いのセオリーも、急所の位置も、すべて忘れろ。
+
+　狙うは、脚だ。
+　脚を殺す。ただそれだけを考えろ。
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　再び、緒戦と同じ展開で、アイスピックの連撃を繰り出す。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ただし今度は、リーチの優位を嵩にかけてカウンターに備えるように、
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　間合いを大きく取ったまま攻撃した。
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　無論、腕のリーチの差など、
+　足技でカウンターが来れば簡単に覆されるだろうが
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……それこそが狙い目だ。
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="アインナイフ2" face="" MODE="on" zoom="" ALIGN="right">//# roomC2 1 elen2^4 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　勢いばかりのアイスピックから、鷹揚と身を躱わしていた{ヒロイン}が、不意に大きく身体を沈めた。
+　来る……
+
+<se id="2" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　誘いに乗って、ついに彼女はサイドキックを繰り出した。
+
+　体躯の軽さを補って余りあるスピードとタイミング。
+　威力だけでは致死に及ばずとも、
+　胸骨を、心臓を貫く角度に蹴り折れば、それでいい。
+　まさに狙い澄ました必殺の一撃だった。
+
+　その致命的な効果を知ってなお、避けるつもりは毛頭なかった。
+
+　爪先立ちで身体を浮かし、ありったけの力を腹筋に込め……
+　防備の策は、そこまでだ。
+
+　鳩尾めがけて繰り出された{ヒロイン}の左脚……そのふくらはぎに、
+<se id="1" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+　振り下ろしたアイスピックの刃を突き立てて、
+　無理矢理、狙いを下に逸らす。
+
+<se id="2" src="hardshock" mode="normal" time="" loop="off" effect="">//!se hardshock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　土壇場で狙いを違え、腹に炸裂した{ヒロイン}の蹴りは、腹筋を固めていたにも関わらず、背骨を揺するほどのパワーがあった。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　蹴りの威力に、宙を飛ばされながら、
+　衝撃で遠退きかかった意識を繋ぎ止め、自分自身に言い聞かせる。
+
+　さあ、勝負だ。
+
+　実力で及ばぬ{ヒロイン}に対する、たったひとつの勝算は……
+『地の利』しかなかった。
+
+　{ヒロイン}が現れるより前に、この居間での戦いは始まっていた。
+　そのぶん、こちらは{ヒロイン}より余計に、戦場の様相について知っている。
+　尤も、その差は僅か数分の違いでしかない。
+
+　だがその数分で、居間では4人の男が死んでいる。
+
+　その情報差だけが、望みの綱だった。
+　この場において、{ヒロイン}がまだ把握していない要素……
+
+<CLEAR><BACKGROUND SRC="1000x9">//# 1000x9 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……つまりは、最初に殺した死体の位置と、
+　その死体の右手に握られた、MP5サブマシンガンの存在だ。
+
+　そして、さっき慎重に計った位置が、目測の通りなら、
+　いま蹴り飛ばされた方向の先には、間違いなく例の死体がある。
+
+　このまま床に転がりながら、死体のサブマシンガンを奪い取り、撃つ……
+　{ヒロイン}が片足を刺され、瞬発力を削がれている今ならば、彼女の追い打ちがくる前に、或いはそれだけの猶予があるかもしれない。
+
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　衝撃が背骨を揺すった。
+　背中と、叩きつけられるはずだった床との間に、何か別のものがある。
+　物言わぬ男の死体だ。
+
+<CLEAR><BACKGROUND SRC="mp5_000">//# mp5_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　夢中で手をまさぐり、MP5を探した。
+
+　指先が金属の触感を捉えた刹那……
+　
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　もはやそのとき、正常な視覚すら認識できていなかった。
+
+<CLEAR><BACKGROUND SRC="ナイフ">//# ナイフ 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　目に映った像の中で、唯一、認識できたのは、
+　迫り来るクリスリーブ＝ナイフの刃……
+　その鈍い輝きと、勢いと、その肉薄した近さだけだった。
+
+　片足を封じられたとは思えない、想像を絶する{ヒロイン}のスピード。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　……死ぬ、な……
+
+　醒めた思考の片隅で、そう冷ややかに認識しながら、
+　身体を横に転がして、右手に掴んだMP5のトリガーを引き絞っていた。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　狙いも何もお構いなしに、
+　32発の9mmパラベラムを、
+　辺り一面に撒き散らす。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+　銃声と、硝煙と、
+　マズルフラッシュの閃きと……
+　それだけが世界の全てになり……
+
+<se id="2" src="" mode="fadeout" time="5">
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="3" src="" mode="fadeout" time="5">
+<wait time="900">
+<se id="1" src="19_04a" mode="normal" loop="off">
+
+<wait time="200">
+<box type="0">
+　そして弾切れと同時に、
+　真空のような静寂が訪れる。
+
+//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　起きあがろうとして……
+　だが叶わずに四つん這いになり、ありったけの胃物を吐き出していた。
+　腹でもろに受け止めた蹴りのダメージだ。
+
+　仕留めたかどうかも判らない。
+　もし仕損じていたのなら、今こうしてえずいている瞬間にも、
+　今度こそ彼女のナイフが頸動脈を抉ることだろう。
+
+　だが、嘔吐が収まってもなお、まだナイフの刃は訪れなかった。
+　室内に、動くものの気配はない。
+
+　震える膝の上に、なんとか体重を乗せて立ち上がる。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　乱れ撃ちの9mm弾でズタズタに引き裂かれたソファ……その向こう側に、まるで打ち捨てられた人形のように、彼女の小さな体躯は転がっていた。
+
+　息はある。
+
+　だが、薄闇で一見しても、動脈出血は明らかだった。
+　……すでに、手の施しようはない。
+
+　服が血に濡れるのも構わずに、{ヒロイン}の上体を助け起こした。
+
+<CLEAR><BACKGROUND SRC="1610p1">//# 1610p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……強くなったわね。{名}」
+
+<BOX type="0">//%w
+「こんな終わり方で、良かったのか？　俺たち」
+
+<BOX type="5">//%sR
+「いいのよ、これで……」
+
+「わたし、マスターの許可、
+　もらってたから……」
+
+「全力でぶつかって負けたなら、
+　その時は、死んでいいって……」
+
+「だからこれで、やっと終わり。
+　何もかも、やっと……」
+
+<BOX type="0">//%w
+「{ヒロイン}……」
+
+「君は、今でも……」
+
+<BOX type="5">//%sR
+「あなたなら、
+　いつか叶えてくれると思ってた」
+
+「わたしを、アインのままに……
+マスターの自慢の、アインのままに
+……終わらせてくれるって」
+
+<BOX type="0">//%w
+　二人で逃げた、あのときと……
+　彼女は今も変わらずに、そんな願いを懐いていたのか。
+
+<BOX type="5">//%sR
+「……ごめんなさい、{名}」
+
+「あなたみたいに、
+　強くなれって言われたけど」
+
+「とても、無理よ……わたしには」
+
+「あなたは、格別に強い人。
+　傷つくことも、失うことも、
+　何も恐れずに突き進める人……」
+
+<BOX type="0">//%w
+「俺は……」
+
+　そんな特別な人間じゃないと、そう言おうとして、やめた。
+
+　強いかどうか、じゃない。
+　強くならなければ、ならないのだ。
+
+　そうでなければ、生きていけない。勝ち残れない。
+　この情け容赦のない世界では……
+
+　師であり相棒だった少女を、平然と撃ち殺せるような、
+　そんな男でなければ、生き残れはしないのだ。
+
+<BOX type="5">//%sR
+「わたし、少しは……
+　手応え、あった？」
+
+<BOX type="0">//%w
+「ああ」
+
+「一番手強い敵だった」
+
+　それは、微塵も偽りのない言葉だった。
+
+<BOX type="5">//%sR
+「よかった……」
+
+「もしも、
+　いつかマスターと会ったなら……
+　そう伝えて」
+
+「あなたのアインは、
+　強かった、って」
+
+<CLEAR><BACKGROUND SRC="1610p2">//# 1610p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そして彼女は、
+　待ち望んでいた瞬間を迎えて、静かな微笑みとともに目を閉じた。
+
+　一歩間違えば自分もまた、同じ人生を歩んでいたかもしれない。
+“二人目のわたしになれ”と、そう彼女に言われた通りに。
+
+　利用されるだけ利用され、時がたてばガラクタのように捨てられる。
+
+　それが殺し屋だ。
+　それが兵士だ。
+
+　それが……アインだったんだ。
+
+<A HREF="1650.txt" OPERATOR="">//~ 1650
+0

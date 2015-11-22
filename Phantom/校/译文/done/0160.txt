@@ -1,0 +1,385 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+//> dream white dream 0
+<clear>
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　看起来，
+  好像完全迷路了啊。
+
+//> left street2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BACKGROUND SRC="street2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　刚到了美国，就遇上这样的事……
+　我有些不知所措。
+　去宾馆的路也不记得了。
+
+　看起来，我好象到了一个旅游地图上没有记载的地方。
+
+　附近只有破房子，来往的人都没有相似的。
+  偶尔看到的都是些拉丁人和黑人，类似流浪者之类的家伙。
+
+　但是，与在日本见到的流浪汉相比，有什么地方不太一样。
+
+　对了……大概是眼神不同。
+
+　从阴暗中透出光的视线，就像尖利的獠牙一样。
+　只是被凝视，自己就有种被撕咬着的感觉。
+
+　不管怎么想……总感觉不太妙啊。
+
+　虽然我不知道这里究竟是哪儿。
+  但毫无疑问的是，这里绝不是观光客独自一人该来的地方。
+
+　现在的当务之急是尽快找个警察局之类的地方问清楚道路。
+  不过，这个关键的警察局究竟在哪里呢？
+
+　索性随便找个什么人问路吧？
+　我将记得的英语单词串联起来，试图想出问路的办法。
+　不过……这真的管用吗？
+
+　等一下，在这之前……
+　自己真的要唐突地向他们打招呼吗？
+
+<BOX type="5">//%sR
+「……你，请等一下，可以吗……」
+
+<BOX type="0">//%w
+ 是日语。
+ 虽然断断续续，可是对我来说却是久违的乡音。
+ 我转过身，马上看到了声音的主人。
+
+<CLEAR><BACKGROUND SRC="0160x1">//# 0160x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　是个白人，但样子很怪。
+　手里拿着略微有些脏的纸包，动作也是慌慌张张。
+  怎么看都比周围的流浪汉更加形迹可疑。
+
+<BOX type="5">//%sR
+「你，日本人吧？
+　旅行者吧？
+　太好了。有话，要说」
+
+<BOX type="0">//%w
+　男人一边指手画脚地说着，
+  一边不由分说地抓住我的手臂，将我拉进路边的胡同里。
+
+<CLEAR><BACKGROUND SRC="street3">//# street3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　应该逃跑……这是当然的吧，
+  这样想着，我开始警戒和害怕起来。
+
+　但我没有甩开这个男人的手，
+　虽然他的握力很大，但我更在意他那像是被逼的走投无路的样子。
+　不知为何，他看上去十分害怕，仿佛在寻求着救援。
+
+　但即便如此，自己还是拒绝进入胡同的深处。
+  我停在了从大街上看不到的入口处，不肯再向里走一步。
+
+　要是进入了连阳光都照不到的胡同深处，
+  不知道会发生什么。
+
+<CLEAR><BACKGROUND SRC="0160x1">//# 0160x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「想要拜托你，
+　非常重要的事」
+
+「我，CNN的记者。
+　也去过日本」
+
+「我，现在，被追杀。
+　非常危险。
+　已经，逃不掉了……」
+
+<BOX type="0">//%w
+　逃跑？
+　追杀？
+　危险……？
+
+　虽然听得一头雾水，摸不着头绪，
+　但我还是察觉出事态的严峻。
+　这个男人，恐怕是惹上了什么麻烦事。
+
+<BOX type="5">//%sR
+「我，已经不行了。
+　所以，你，
+　把这个给警察……」
+
+<BOX type="0">//%w
+　男人这么说着，
+　不由分说地将一个很小的扁平油纸包塞进我的怀里。
+
+「等、等一下……」
+
+<CLEAR><BACKGROUND SRC="street3">//# street3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……接下来、就拜托你了」
+
+<se id="1" src="楁擇憱傝1" mode="normal" time="" loop="off" effect="">//
+<BOX type="0">//%w
+　不等我回答，
+  男人转身离开胡同，向大街跑去。
+
+「喂！　等一下」
+
+　就在我慌忙地想要跑去追他的时候，
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　只见那个朝街上飞奔而去的男人，像是被什么绊了一下，摔倒在地上。
+
+　是哪里被打中了吗。男人脸朝下，一动不动地躺在地上。
+
+<CLEAR><BACKGROUND SRC="street2a">//# street2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……喂？」
+
+　我跑过去打算扶起他，
+  这个时候，我突然注意到。
+
+　大衣的背面，不知什么时候被戳了一个洞。
+
+　小洞的周围，像是突然着火一样，鲜红的颜色渗了出来。
+
+「……」
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我抓住他肩膀的手顿时没有了力气，
+  男人的上身再一次垂在了地上。
+
+　男人后背的红色斑点，在一点一点地扩大。
+
+　就像是用慢镜头观看玫瑰从花蕾慢慢绽放成盛开的花瓣一样。
+
+　一股铁锈的气味扑面而来。
+
+　鲜血的气味。
+　死亡的气味。
+　这个男人……死了？
+
+<se id="1" src="楁擇憱傝4" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="street3">//# street3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我扔下男人的尸体，朝反方向狂奔而去……
+　除此之外，什么都顾不得多想。
+
+　看不清前方的路……我向胡同的深处跑去。
+
+<CLEAR><BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　跑了大概50米，狭窄的胡同到了尽头，
+  面前出现了一个T字路口。
+
+　我停下来，在选择左右方向之前……
+  回过头确认了一下后面的状况。
+
+<CLEAR><BACKGROUND SRC="傾僀儞捛愓_1">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　既像幻觉，
+  亦似梦境，
+  那个少女站在那里。
+
+　她站在滚倒在胡同入口处的男人的尸体旁，
+  仿佛像是为召唤死者灵魂而降下的天使。
+
+<CLEAR><BACKGROUND SRC="傾僀儞捛愓_2">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+　右手中黑色的金属闪着光泽，传递着冰冷、不祥的讯号，
+  而更冰冷的光，则在她的两个瞳孔中闪耀着……
+
+　不管她是天使，还是死神，
+  对她有用的应该只有她脚边的死人而已……
+
+　可不知为何，她看着我。
+
+　看着这个还活着的，目睹了一切的不幸的过路人。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="傾僀儞捛愓_3">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+　像挥手打招呼一样，她的右手抬了起来。
+  看到她手上拿着的东西，
+  我顾不得多想，马上跑进了右边的胡同。
+
+//> left street2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　太阳落下，夜幕降临。
+
+　即使看了地图，我也不知道自己现在在哪儿。
+
+　那个男人是谁。
+　那个女孩拿的是手枪吧。
+
+　我被追杀，逃不掉了，
+　留下这样的言语后死去的男人。
+　击中他的，是那个少女吗？
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　太阳升起，早晨来临了。
+
+　那个女孩追过来了。
+
+　什么人追过来了。
+　能听到声音了。能看到人影了。
+
+<CLEAR><BACKGROUND SRC="pict2">//# pict2 1
+<WIPE EFFECT="fade" TIME="10">
+　我回想起那个女孩。
+　漆黑、冰冷的枪口，
+　还有那更加漆黑、冰冷的瞳孔。
+
+<CLEAR><BACKGROUND SRC="pict3">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+　好不容易得到来洛杉矶旅游的机会，结果却是这样……
+　似乎没有这样庆祝升学考试合格的吧。
+
+<CLEAR><BACKGROUND SRC="pict4">//# pict4 1
+<WIPE EFFECT="fade" TIME="10">
+　我会死在这里吗？
+　会被那个孩子杀掉吗？
+　好不容易考上的学校，自己却一次都还没有去过。
+
+　为什么我会碰到这样倒霉的事啊？
+
+//> left street4 center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　太阳沉下，又是一天过去。
+
+　我感觉自己已经在这间废屋中躲了好几天了。
+
+　喉咙干渴。腹中空空。
+　吃剩下的航空餐，在梦中出现了好多次。
+
+//> left MO wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="MO">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　不知什么时候，夜晚过去了。
+
+　这张光碟是什么呢？
+　为什么这东西会在口袋里？
+
+　啊，是这样，我想起来了。
+　从那个男人那里得到它的时候，
+  它还是被油纸包着的。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　不知何时，
+  夜幕又会降临吧？
+
+　我还活着吗？
+　还是说，已经死掉了吗？
+
+　说不定，
+  现在自己是在梦中吧？
+
+　已经，无所谓了。
+　好像回去……回到日本……
+
+//> left room0e2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0e2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「Zwei」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+「Zwei，起来」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我抬起眼皮，
+  早上的阳光中，Ein正站在那里。
+
+　看了一眼表，时间刚过早上6点。
+
+<BOX type="5">//%sR
+「要出门了。去准备一下」
+
+<BOX type="0">//%w
+「……？」
+
+<BOX type="5">//%sR
+「是紧急任务。
+　今夜必须执行，
+  所以现在要去调查一下」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我的脑袋还未完全打消睡意，
+  Ein的话一句也没有听进去。
+
+　见到了梦。
+  那是个，非常痛苦的梦。
+  自己知道的，仅此而已……
+
+　那到底是个怎样的梦呢？
+　为什么我会感到痛苦呢？
+
+　……不行啊。想不起来。
+
+<A HREF="0170.txt" OPERATOR="0120b=1">//~ 0170
+<A HREF="0175.txt" OPERATOR="">//~ 0175

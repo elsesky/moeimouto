@@ -1,0 +1,45 @@
+//> right Jroom wide 255 elen7^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="phone2" mode="normal" time="" loop="off" effect="">//!se phone2
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　无法入睡的{ヒロイン}突然听到衣服口袋中传出了手机的来电提示音。
+
+　普通人不会在这个时间打来电话的……
+　不过，{ヒロイン}并没有感到惊讶。
+
+　来电人……和她想的一样，是“美绪”。
+　这是美绪的手机打来的。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+{ヒロイン}按下了通话键。
+对方顿了一下，接着用她十分熟悉的英语问道。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……Ein吗』
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……是Drei吧？」
+
+<BOX type="2">//%w
+　对{ヒロイン}来说，虽然不清楚理由，但她的确是在等着这个电话。
+
+　相比{名}，Drei肯定会先将自己作为目标吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『找个没人打扰的地方』
+
+『结束这一切吧』
+
+<A HREF="3585.txt" OPERATOR="">//~ 3585

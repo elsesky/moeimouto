@@ -1,0 +1,76 @@
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……虽然我很在意敌人的真面目，不过现在不是做那种事的时候。
+
+<CLEAR><BACKGROUND SRC="Viper">//# Viper 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一跃跳上副驾驶席后，
+<se id="1" src="viperGo" mode="normal" time="" loop="off" effect="">//!se viperGo
+　莉兹立即开足马力，驾着Viper冲了出去。
+
+　在V8引擎粗野的轰鸣声中，枪声渐渐远去了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="F40掅懍僋儖乕僕儞僌" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="僶僀僷乕憱峴1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　看样子……梧桐组的众人是没救了。
+　又被看不见的敌人摆了一道。
+
+　……可是，那家伙究竟是什么人？
+
+　莉兹紧紧握着Viper的方向盘，从她的侧脸上看不出任何表情。
+
+　她在想什么呢？
+　听到关于多年好友的那样的话，她不可能平静的下来吧。
+
+　难道说，梧桐大辅的话她全都相信了？
+
+「莉兹……」
+
+<BOX type="5">//%sR
+「别说话」
+
+「现在我什么都不想听」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「现在我要去见克劳蒂娅」
+
+「你也一起去吧，Phantom」
+
+<BOX type="0">//%w
+「嗯……」
+
+<BACKGROUND SRC="僶僀僷乕憱峴">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我也想知道梧桐大辅的话到底是真是假。
+
+「你知道她在哪里吗？」
+
+<BOX type="5">//%sR
+「她好像说今夜要去见梧桐组」
+
+「这样的话，她应该在利戈酒店才对」
+
+<BOX type="0">//%w
+　我不禁倒吸了一口冷气。
+　克劳蒂娅是与梧桐组擦肩而过才捡回一条性命的吗。
+
+<se id="2" src="" mode="fadeout" time="30">
+
+<CALC WORKNAME="1445" OPERATOR="1">//
+<A HREF="1460.txt" OPERATOR="">//~ 1460

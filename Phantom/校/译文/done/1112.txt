@@ -1,0 +1,14 @@
+<BOX type="0">//%w
+虽说此行是以亲善为目的，没有必要带这把0.44口径的马格南左轮。
+不过我们这边毕竟只有一个女人和一个毛头小子，要是对方打着什么歪主意就麻烦了。
+
+  不管怎么说，要是怀里揣把大家伙，至少能震慑他们一下。
+  应该不会出什么事吧……我是这么期望的。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="03_01">//
+<CALC WORKNAME="廵" OPERATOR="M29">//
+<CALC WORKNAME="廵夋憸" OPERATOR="44儅僌僫儉">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="44儅僌僫儉2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Sm">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

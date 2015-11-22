@@ -1,0 +1,287 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 4020x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="4020x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　烈日当头，灼热的阳光在干涸的路面上尽情舞蹈。
+
+　午后。
+　沙尘缭绕的大街上空无一人。
+
+　这一天，圣·马蒂利亚大街仿佛被冻结了。
+
+　面色凝重的男人们纷纷持枪躲在自己檐下，盯着繁华的远方。
+
+　敌人，应该会从那里来。
+
+　有人用酒消除自己的紧张，有人和同伴打起了牌……今天，整条街都在等着“某个人”。
+
+　扬言要现身于此，杀掉这条街上的大佬——桑切斯的蠢货。
+
+　对于这些无所事事的男人来说，这是最好的话题。
+
+<BOX type="5">//%sR
+『今天要来的家伙好像不是查古斯的人』
+
+『敢和桑切斯老爷作对，真是不知天高地厚』
+
+『不过，据说查古斯那家伙雇佣了叫“Phantom”的外人』
+
+<BOX type="4">//%sL
+『Phan……tom？那是什么』
+
+<BOX type="5">//%sR
+『你不知道吗？
+　那是一对杀手，据说手法相当了得』
+
+『只要付钱什么工作都会接下，根本不知死生为何物。
+  听说他们都还只是小鬼』
+
+<BOX type="4">//%sL
+『……什么Phantom，不过是特意来送死的白痴罢了』
+
+『他们可是要与这条圣·马蒂利亚大街上的所有人为敌哦……』
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 4020x3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="mexico" mode="normal" time="" loop="on" effect="">//!se mexico
+<bgm src="cyallend" mode="fadein" old="fadeout" time="10" loop="on">//$ cyallend.swa 0 255
+<BACKGROUND SRC="4020x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　面前是一望无际的荒野。
+
+搭车旅行。
+所乘的卡车破烂到让我不禁怀疑起这家伙是不是从禁酒法那个时代就开始奔驰了。
+
+　悬挂系统根本没有任何意义，自己好像坐到了脱谷机上。
+
+　不过，身旁的凯尔似乎毫不在意，正悠闲地呼呼大睡。
+
+　好在这样的震动只需要再忍个几十分钟就行了。
+　到了圣·马蒂利亚，我们的旅途就结束了。
+
+「我们就要到了」
+
+<BOX type="5">//%sR
+「啊？……嗯」
+
+<BOX type="0">//%w
+　凯尔一边嘟囔着毫无意义的琐碎小事，一边大大地伸了一个懒腰。
+
+　真的是，工作面前居然给我打起瞌睡。
+　每次都是这样，这家伙实在是太没神经了，让我根本没法安心。
+
+　麻烦的是，这一次对方已经提前知道会有杀手到来。
+
+　进入城镇的话，就等于闯进了敌阵的正中心。
+
+「准备好了么？」
+
+<BOX type="5">//%sR
+「嗯，没问题」
+
+<se id="2" src="mexico2" mode="normal" time="" loop="off" effect="">//!se mexico2
+<CLEAR><BACKGROUND SRC="4020p1">//# 4020p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「对了？
+　敌人是什么人来着？」
+
+<BOX type="0">//%w
+「能看到的所有人」
+
+　圣·马蒂利亚似乎打算抵抗到底。
+
+<BOX type="5">//%sR
+「要是警察来了呢？」
+
+<BOX type="0">//%w
+「那些家伙都是桑切斯的亲卫队」
+
+<BOX type="5">//%sR
+「真是的……」
+
+<BOX type="0">//%w
+　凯尔像是吃了一惊，不满地用鼻子哼了一声。
+
+<BOX type="5">//%sR
+「子弹究竟够不够用呢」
+
+<BOX type="0">//%w
+「别浪费子弹就行了。你差不多也该记得瞄准了吧」
+
+<BOX type="5">//%sR
+「因为，瞄准的时间足足可以打3枪嘛」
+
+<BOX type="0">//%w
+「1枪就够了，1枪」
+
+<BOX type="5">//%sR
+「每打3枪我就有2枪可以命中哦」
+
+<BOX type="0">//%w
+「1发也不许打偏，给我好好瞄准！」
+
+<BOX type="5">//%sR
+「呐，把你备用的枪借给我一把吧」
+
+<BOX type="0">//%w
+「不行。你应该有备用的吧」
+
+<BOX type="5">//%sR
+「明明带着5把枪的，小气！」
+
+<BOX type="0">//%w
+「你才是吧，带着8把枪还不满足吗？ 单是手臂上就藏着不止2把吧」
+
+「听好，不许肆意连射，不许把枪乱扔，不许模仿奇怪的电影」
+
+「还有，你也试着学学怎么援护啊，真是的」
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="mexico" mode="normal" time="" loop="on" effect="">//!se mexico
+<CLEAR><BACKGROUND SRC="4020x3">//# 4020x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「呐，{名}。这次的出场费应该相当可观吧」
+
+<BOX type="0">//%w
+「还行吧」
+
+　除了我们没有人愿意接下这样玩命的工作，所以赏金自然不菲。
+
+<BOX type="5">//%sR
+「你不觉得我们差不多也该休假了吗？」
+
+<BOX type="0">//%w
+「说起来，没准真是这样」
+
+「尽情挥霍一次怎么样？」
+
+「想去哪里呢？」
+
+「加勒比海？ 欧洲？」
+
+<BOX type="0">//%w
+　像是在心里描绘着一样，凯尔眯起眼望向万里无云的蓝天。
+
+<BOX type="5">//%sR
+「唔……」
+
+「你说的地方也都不错」
+
+「我想到一个更好的地方。一个工作绝对不会涉及到的地方」
+
+「那里没有别人，我们两人可以尽情独处」
+
+<BOX type="0">//%w
+「哪里？」
+
+<BOX type="5">//%sR
+「北极……怎么样」
+
+<BOX type="0">//%w
+　凯尔出乎意料的提案着实吓了我一跳。
+　去北极休假吗……
+　的确，不管怎么想，那里都不会与任何工作沾上边。
+
+<se id="1" src="mexico2" mode="normal" time="" loop="off" effect="">//!se mexico
+<CLEAR><BACKGROUND SRC="4020p1">//# 4020p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「去格陵兰岛怎么样？」
+
+　在我对提案进行现实性的修正以后，凯尔的眼睛放出了光。
+
+<BOX type="5">//%sR
+「夜里的话，可以看到极光呢」
+
+「好的。
+  中意的话就在那里定居好了」
+
+<BOX type="0">//%w
+「那样的话，每天只能吃海豹了哦」
+
+<BOX type="5">//%sR
+「没问题。只要交给我，绝对不会让你吃腻的」
+
+<BOX type="0">//%w
+　真是的……要是顺着她，话题就会无止境地延展下去。
+  我都快分不清她是认真的还是在开玩笑了。
+
+　旅行的事明明八字还没一撇呢，凯尔却突然认真起来……算了，这样也好。
+
+<BOX type="5">//%sR
+「一定要去哦，北极」
+
+<BOX type="0">//%w
+「等这回的事结束以后吧」
+
+　这回的事结束以后，如果我们两人能够活着回来的话，
+  到那时，去哪里都可以。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　说不定，桑切斯手下的家伙都是些连打了几枪都记不清楚的外行。
+　说不定，那些笨蛋们用的枪都是些破破烂烂的老古董。
+  说不定，那群腐败的警察们都是些中途便会逃跑的胆小鬼。
+
+　这样想的话，我们两个人能活下来的几率就不是零了。
+
+<se id="2" src="" mode="fadeout" time="10">
+<se id="1" src="mexico" mode="normal" time="" loop="off" effect="">//!se mexico
+<CLEAR><BACKGROUND SRC="4020x3">//# 4020x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我们永远都要在一起哦」
+
+<se id="1" src="" mode="fadeout" time="50">
+<BOX type="0">//%w
+　对了。
+　这样不就够了吗。
+
+　这辆卡车会开向哪里。
+  这种事根本没有考虑的必要。
+
+　现在，我们正待在一起。
+　正因如此，世界才有了价值。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+//<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="on">//$ tema.swa 0 255
+<bgm src="Silence_s" mode="fadein" old="fadeout" time="0" loop="off">//$ tema.swa 0 255
+　我们的人生曾遭遇了无可挽回的波折，但即便如此，最终两个人还是走到了一起。
+
+<BOX type="0">//%w
+　危险的时候也好，悲伤的时候也好，我们都是在一起的。
+　所以，终结的时刻也会同时到来吧。
+
+　仅仅如此，就足以给我们安慰了。
+
+　这种程度的困境，我们早已经历不知多少次了。
+
+　这一次，我们也将携手杀出重围。
+
+　又不是第一次了，没什么可担心的。
+
+　因为，我们是无敌的Phantom。
+
+<CALC WORKNAME="僪儔僀僄儞僪" OPERATOR="1" MODE="global">//
+//<se id="1" src="" mode="normal" time="20" loop="off" effect="">//!se 0
+<A HREF="1550.txt" OPERATOR="">//~ 1550

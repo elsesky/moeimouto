@@ -1,0 +1,574 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right church1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="church1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　旧·圣蓧仓女学院礼拜堂……
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1 elen7^2 20
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# INchurch2 1 elen7^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+沐浴着透过染色玻璃射进来的阳光，{ヒロイン}深深地吸了一口周围熟悉而静寂的空气。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「差不多该出来了吧？」
+
+「这里没人会来打扰的」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# dummy 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="僪儔僀曕偒1" mode="normal" loop="off">
+<BOX type="2">//%w
+　话音刚落，一个身影便在入口处飘然出现，仿佛在回应{ヒロイン}一样。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们应该是……初次见面吧？」
+
+「不过，我可是听说了很多关于你的事哦，Ein」
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# elen7 20 dummy 19 INchurch5 1
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20 dummy 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「你是？」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「赛斯叫我Drei，其他人则叫我Phantom」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+{ヒロイン}微微点了点头。
+凯尔的解释很简洁，但已经足够了。
+
+<BOX type="5">//%sR
+「最近的Phantom总是故意在对手面前现身吗？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「偷偷在背后开枪就没意思了吧」
+
+<BOX type="3">//%m
+　凯尔的冷笑声在礼拜堂内回响。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「正是为了追杀你和{名}，我才会加入这该死的Inferno」
+
+「把你们找出来、逼上绝路、然后杀掉……为了这一天，我已经等了整整2年」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「所以，我一定要好好看看」
+
+「看看你们惊恐不安、逃来逃去的样子」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这就是你的乐趣吗？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「没错哦」
+
+「看到我的时候……{名}的表情真是太可笑了」
+
+「就像看到幽灵一样脸都青了」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「接下来嘛，对了……」
+
+「就在{名}面前把你杀了如何，Ein」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不知{名}会作何反应呢……好期待啊」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　现场的气氛顿时降到了冰点。
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不可能」
+
+<BOX type="2">//%w
+{ヒロイン}立刻这样说道。
+她的语气比现场的气氛更加寒冷。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}现在并不在这里，而且他也不会再见到你了」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「为什么？」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为你先遇见了我」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<bgm src="" mode="fadein" old="fadeout" time="10" loop="on">//$ 0 _1 _
+<CLEAR><BACKGROUND SRC="俀暘妱_a">//#! 3240x2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<CLEAR><BACKGROUND SRC="俀暘妱_b">//#! 3240x2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 2
+<WIPE EFFECT="fade" TIME="0">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+//> left 3240p3 wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="3240p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「喔……准备蛮周到的嘛」
+
+<BOX type="5">//%sR
+「托你的福」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei2^2 19
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei2^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「牺牲自己保护{名}吗？
+　坠入爱河的女人还真是勇敢啊？」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「那你又如何呢？」
+
+「2年以来，你一直忘不了{名}抛弃你的事吧」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei2^3 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……你说什么？」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「你希望{名}悔恨吧？
+  你希望{名}痛苦吧？」
+
+「但是，没用的」
+
+「你只不过是他的过去，而他是活在现在的」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei2^4 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「说得你好象很了解他似的……」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「他是不会痛苦的」
+
+「如果你妨碍他的话，他会毫不犹豫地向你开枪，并且不会感到内疚」
+
+「真是可笑。
+  现在的你，对他来说算什么？」
+
+「你根本不了解他真正的强大之处」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei2^6 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei2" face="6" MODE="on" zoom="" ALIGN="left">//# drei2^6 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……!!」
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# dummy 19 INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「住手!!」
+
+<CLEAR><BACKGROUND SRC="3240p3">//# 3240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　冲进礼拜堂后，等待我的是这样的场景。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei2^2 19
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei2^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「哦呀？来了一个不该来的人哦」
+
+<BOX type="0">//%w
+　凯尔以充满讽刺的语气对我说道……而她的视线与枪口则依旧纹丝不动。
+
+　2年前就应该在诺曼底大街的那场阁楼爆炸中死去的凯尔。
+
+　不知道她究竟是怎样从那次爆炸中逃过一劫的……但是现在，她正活生生地站在我的面前。
+
+　为了保护{ヒロイン}，我下意识地将手中的枪对准了凯尔……
+
+　对准了，又能怎么样呢？
+  对方……可是凯尔啊？
+
+<CLEAR><CLEAR><BACKGROUND SRC="INchurch2">//# dummy 19 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……你们两个都把枪放下」
+
+<CLEAR><BACKGROUND SRC="3240p3">//# 3240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一个人保持着冰冷的沉默，另一个人发出充满嘲讽的笑声……这就是她们的回答。
+
+<BOX type="4">//%sL
+「他说了那种话哦？Ein」
+
+「看来你说错了啊」
+
+「那个男人应该毫不留情地射杀我才对吧」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「凯尔……求你了」
+
+<BOX type="4">//%sL
+「装可怜的话还是不要说了」
+
+「怎么了，{名}？
+快点儿向我开枪吧」
+
+<BOX type="0">//%w
+　凯尔平静地说着。
+  她简直就像是在戏耍着死亡。
+
+<BOX type="4">//%sL
+「现在你还犹豫什么呢？」
+
+「不会忘了吧，你不是已经将我抛弃过一次了吗？」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei2^3 19
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei2^3 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「一个和两次没什么区别吧。
+　快点开枪杀了我吧」
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……不过，我是不会白死的。
+  我要将这个女人一起带进地狱」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# dummy 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我和{ヒロイン}同时明白了……凯尔会在下一个瞬间开枪。
+
+　在两支枪的瞄准下，仍然要笑着扣动扳机……她的判断实在是太不符合常理了。
+
+<BOX type="5">//%sR
+「还不给我住手！你这个白痴!!」
+
+<BOX type="0">//%w
+　在这个令人绝望的瞬间，一声意料之外的大喝提前制止了凯尔的行动。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^4 20 INchurch3 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……莉兹？
+  为什么连你也来了……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^8 19 INchurch4 1
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^8 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「你还在日本啊？」
+
+<BOX type="0">//%w
+　对于莉兹的突然介入，凯尔似乎也很惊讶。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^3 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我怎么可能自己回去，放任你一个人在这里胡来」
+
+「真是的，果然不出我所料。
+  你在发什么疯啊？」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^2 19 INchurch4 1
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^2 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「跟你没关系」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^4 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「这里可是日本啊，呆子!!
+　光天化日下开枪的话要怎么收场!?」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^3 19 INchurch4 1
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^3 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「我才不在乎」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^4 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　莉兹的忍耐似乎已经到了极限。
+
+<BOX type="5">//%sR
+「只要开了第一枪，再开几枪都无所谓了」
+
+「Phantom，要是你开枪的话，我就把在场的所有人全都杀掉，包括你」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^4 19 INchurch4 1
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^3 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「快给我放下枪，
+不要管他们两个了，这里由我来处理」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^4 19 INchurch4 1
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「砰!!」
+
+<BOX type="0">//%w
+  凯尔的声音几乎要将我吓死，但她手中的枪却依旧沉默着。
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……真是的，无聊的收场」
+
+<se id="1" src="廵傑傢偡" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔像西部电影中的主人公一样华丽地旋转着手中的枪，反转枪口后将枪收入了腰间的枪套中。
+  然后转过身去，头也不回地走出了礼拜堂。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^3 20 INchurch3 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　接下来，莉兹的枪口前就只剩{ヒロイン}一人了。
+
+「我们两个还没有蠢到要在这里开枪」
+
+<BUSTUP NAME="rizy" face="9" MODE="on" zoom="" ALIGN="right">//# rizy^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我想也是」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹也放下了枪，异常疲惫地说道。
+
+<BOX type="5">//%sR
+「她就是你的接班人，Zwei，弄得我都快要活不下去了」
+
+<BOX type="0">//%w
+「真是辛苦你了」
+
+<BOX type="5">//%sR
+「说得没错啊」
+
+<BOX type="0">//%w
+　不知不觉间，我们两人忘记了自己的立场，开始闲聊起来。
+
+　不过，莉兹一直眉头紧锁，表情显得十分复杂。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「总而言之，学生游戏已经结束了。赶快离开这里吧」
+
+「下次遇见的时候，我可没自信还能阻止住那条疯狗」
+
+<BOX type="0">//%w
+「……明白了」
+
+「我会尽快的」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹也快步离开了礼拜堂。不知道她有没有听到我的话。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch5 wide 255 elen7^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="INchurch5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「你打算开枪的吧？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}没有回答，只是凝视着手中的枪。
+
+<BOX type="5">//%sR
+「那你呢？」
+
+<BOX type="5">//%sR
+「你会向她开枪吗？」
+
+<BOX type="0">//%w
+「……」
+
+　在凯尔将要扣下扳机的那一瞬间，我很清楚……
+
+　如果莉兹再晚来一步的话，自己就会向凯尔开枪吧？
+
+　不然的话，{ヒロイン}就会死。
+　如果我没有抢在凯尔前面开枪的话……
+
+　我不愿考虑这种事。
+
+　可是，如果下一次再遇到这种情况怎么办？
+  如果我不得不亲自决定凯尔和{ヒロイン}孰生孰死……
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「已经没时间了」
+
+<BOX type="0">//%w
+「……嗯」
+
+　{ヒロイン}的轻声低语让我暂时忘掉了心中的纠葛。
+
+　是的，现在最重要的就是时间。
+
+　正因为我们此前一直期待Inferno在追击时会有所顾忌，所以才没有先动手。
+
+　可是，从追杀我们的凯尔的状态来看，已经没有任何讨价还价的余地了。
+
+　凯尔会无所顾忌地开枪。
+  看来我们要放弃那种人多之处可以确保安全的想法了。
+  对手是凯尔，她在任何场合下发动攻击都不奇怪。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然不想这样做，但只能先让Inferno压制住她了」
+
+<BOX type="0">//%w
+「……」
+
+　我明白{ヒロイン}的意思。
+
+　为了争取时间，必须要动用杀手锏了。
+
+　必须要……利用美绪了。
+
+<A HREF="3260.txt" OPERATOR="">//~ 3260
+
+3260

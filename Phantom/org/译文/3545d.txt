@@ -1,0 +1,102 @@
+　既然这样决定了，就必须马上开始行动。
+　没有回家的必要，自己身上正带着枪。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，一起回去吧？」
+
+<BOX type="0">//%w
+「不了……」
+
+　头脑里马上编出一串谎言。
+
+「我要去图书馆复印笔记，你先回去吧」
+
+<BOX type="5">//%sR
+「哦，临阵磨枪吗？」
+
+<BOX type="0">//%w
+「……这是给美绪的」
+
+「回去的时候，我打算去美绪的家里看望她一下」
+
+<BOX type="5">//%sR
+「喔喔……」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　早苗愣了一下，接着马上得意地笑了起来。
+
+<BOX type="5">//%sR
+「干得漂亮，{姓}！
+　不愧是我寄予厚望的男人!!」
+
+<BOX type="0">//%w
+　为了掩饰谎言过后的内疚表情，我摆出一张非常为难的苦脸。
+
+「你不会也要一起去吧？」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不会不会，怎么可能呢」
+
+「周末的夜晚是属于你们两人的哦。
+　请您慢走，我就不送啦！」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「但是，对方可是虚弱的病人哦，不要做出太粗暴的行为」
+
+<BOX type="0">//%w
+「我说啊……」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好了，后面的就交给你们了」
+
+<BOX type="0">//%w
+　早苗将书包担在肩上，笑嘻嘻地离开了。
+
+<BOX type="5">//%sR
+「虽然经历了不少坎坷，不过我总算是可以功成身退了」
+
+「明后天都要专心学习哦」
+
+<BOX type="0">//%w
+「……真是谢谢你了」
+
+　这一声轻轻的叹息，包含了所有的复杂感情。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不必客气，举手之劳罢了」
+
+<BOX type="0">//%w
+　早苗当然不会注意有什么异样。
+　这周结束后，下周还会再见……在这样的安逸氛围中，我们迎来了分别的时刻。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「再见啦」
+
+<CLEAR><BACKGROUND SRC="classroom2b">//# dummy 20 classroom2b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　早苗挥着手离开了教室。
+  望着她的背影，我在心中再一次地说道。
+
+“谢谢……”
+
+　温柔的幻想也好，令人怀念的每一天的新体验也好。
+　正是有了你，我的生活才能如此丰富多彩。
+
+　我们不会再见面了……不过，我是不会忘记你的。
+
+<A HREF="3560.txt" OPERATOR="">//~ 3560

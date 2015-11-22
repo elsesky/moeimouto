@@ -1,0 +1,46 @@
+//> left room0d2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0d2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唉？要出门吗？」
+
+<BOX type="0">//%w
+　在厨房收拾着的凯尔睁着圆圆的大眼睛看着我。
+
+<BOX type="5">//%sR
+「有工作吗？」
+
+<BOX type="0">//%w
+「嗯」
+
+　我随口这样回答后，才想起大事不妙。
+
+<BUSTUP NAME="cyall3" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那我呢!?」
+
+<BOX type="0">//%w
+「……今天你的任务是在这里待命」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唉～？　好无聊啊」
+
+<BOX type="0">//%w
+「工作本来就很无聊。不会有乐趣的」
+
+「我傍晚就会回来，你要乖乖待在这里。无论谁来都要装成家里没人的样子，明白了吗？」
+
+<BOX type="5">//%sR
+「嗯……」
+
+<A HREF="1120.txt" OPERATOR="">//~ 1120

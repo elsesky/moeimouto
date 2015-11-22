@@ -1,0 +1,41 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se doorOpen
+<BACKGROUND SRC="room1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　{ヒロイン}……
+
+　この薄闇と静寂と、空気の匂いの中では、
+　あまりにも生々しく、君を思い出してしまう。
+
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1 dummy 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　君の涙と、
+　君の嗚咽と、
+　君の、あまりに寂しすぎる微笑みを……
+
+　君が生きてる、
+　そう思うことが自己欺瞞なら、
+　
+　そう信じることで生き抜いてきたこの1年は、まさしく嘘の塊だ。
+
+　一人、この部屋に佇めば、
+　そこに思いを馳せずにはいられない。
+
+　この場所に立ち寄ることを、無意識に避けていたのは、
+　たぶん、そのせいだ。
+
+　……やめよう。
+　何の足しにもならない。
+
+　感傷を打ち切って、キャルの待つ屋外に戻ることにした。
+
+<A HREF="1160d.txt" OPERATOR="">//~ 1160d0d

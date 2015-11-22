@@ -1,0 +1,84 @@
+<BOX type="0">//%w
+　总觉得，自己与这个神圣的地方格格不入，就像是破坏了氛围的侵入者一样。
+
+「我要走了」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是么」
+
+「我还要在这里再待一会」
+
+<BOX type="0">//%w
+「……这样啊」
+
+　她想要一个人待着吧。
+　这里，不是谁都可以涉足的地方。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left court2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="court2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我坐在院中的长椅上，回想着{ヒロイン}刚才对我说的话。
+
+“像我这样的女孩，果然是没戏吧……”
+
+　她就像小动物一样胆怯、畏首畏尾，任由掠过屋顶的风刮过自己的身体。
+
+　如果说我了解她的心情，那是在撒谎……不过，我并非完全无法想象。
+
+她恐怕从来没有像那样对一个男人表白。
+她对每一句话都字斟句酌，甚至令人产生一种错觉，仿佛一字一句都关系着她人生的全部。
+
+“说不定是个好机会呢，藤枝同学的感情”
+
+　……利用她的感情，真的好吗？
+
+　{ヒロイン}说的没错……
+　为了向梧桐组施压而接近美绪的话，恋爱关系说不定是个绝好的借口。
+
+　并不是说我们要对美绪造成什么危害。
+
+　自己介入了美绪的生活……需要威胁梧桐组的时候，这样的事实就足够作为交涉的筹码了。
+
+　如果小心一点的话，直到事情过去美绪都不会有任何察觉吧。
+
+　话虽如此……像那样肆意利用美绪的感情，实在是有些过分吧。
+　她可是认真的……
+
+　我光顾着思考这些事情，以至于没能及时注意到有人在像往常一样从背后偷偷接近。
+
+　哎？　察觉到的瞬间，后脑挨了重重的一击……
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　而且这一次，力度比以往任何一次都要更大。
+
+　我一边捂住生疼的脑袋，一边回过头去。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　早苗正怒气冲冲地站在那里。
+
+<BOX type="5">//%sR
+「想听吗？　我的说教」
+
+<BOX type="0">//%w
+「……如果我说不想听呢？」
+
+<BOX type="5">//%sR
+「不许说不想听」
+
+<A HREF="3130.txt" OPERATOR="">//~ 3130
+
+
+」
+
+<A HREF="3130.txt" OPERATOR="">//~ 3130

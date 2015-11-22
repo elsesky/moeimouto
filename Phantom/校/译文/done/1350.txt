@@ -1,0 +1,502 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+<BOX type="0">//%w
+　夜里，我又考虑起了那些细小的疑点。
+
+　维斯梅尔真的打算杀掉梧桐大辅吗？
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="bonaventure">//# bonaventure 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+那个时候，如果梧桐大辅被干掉，他的那些手下肯定不会善罢甘休。
+虽说有莉兹等人在场警戒，可是将场面搅乱再收拾残局，对维斯梅尔有什么好处呢？
+
+　疑点环环相扣，一个接一个地冒了出来。
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　兰迪的目标，真的是梧桐大辅吗。
+
+　他的确为袭击伯纳海滩酒店而设置了风标，这一点毫无疑问。
+
+　可是，那里并不只有梧桐大辅。维斯梅尔真正警戒着的那个人也在场。
+　……没错，就是克劳蒂娅。
+
+　还有就是，代替兰迪狙击梧桐大辅的未知狙击手。
+  那个在拉斯维加斯见过的迷之女子。
+
+<CLEAR><BACKGROUND SRC="1170p1">//# 1170p1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我从未听说维斯梅尔手下有亚裔的女杀手，以及能够在1英里外进行超长距离狙击的枪手。
+
+　是他从别处雇来的，还是说……他们隶属于别的势力。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1 
+<WIPE EFFECT="fade" TIME="10">
+　假如，维斯梅尔从一开始就和这次的暗杀事件没有关系的话……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="sea" mode="fadein" old="fadeout" time="10" loop="on">//$ sea.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「我说你啊」
+
+<BOX type="0">//%w
+　额头被弹的触感，一下子把我从疑点的世界拉了回来。
+
+<CLEAR><BACKGROUND SRC="1350p1">//# 1350p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　睁开眼，满世界都是炫目的红色光芒……
+　克劳蒂娅正站在那一片光芒之中。
+
+<CLEAR><BACKGROUND SRC="yacht">//# yacht 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　海平面即将迎接夕阳的归来。
+
+　渐渐没入海中的夕阳的光辉，就像是溶解在了海水里一样，将太平洋染成了黄金色。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　火红色的海天之间，只有一艘帆船。
+  帆船的甲板上，只有两个人。
+
+　一边与看不见的敌人作战，一边无畏地闯进阴谋迷宫的尽头……
+　我们总算得到了片刻的喘息。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<CLEAR><BACKGROUND SRC="1350p1">//# 1350p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「刚才，你在考虑工作的事吗？」
+
+<BOX type="0">//%w
+「……唔，嗯」
+
+　面对半调侃半认真的克劳蒂娅，我只好露出了暧昧的苦笑。
+
+<BOX type="5">//%sR
+「不行哦。
+  现在必须要好好享受才行」
+
+「下次再这样的话，我可就要生气了哦」
+
+<BOX type="0">//%w
+　任凭海风吹拂着头发，克劳蒂娅这样小声说道。
+
+<CLEAR><BACKGROUND SRC="yacht2">//# yacht2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　返回岸上的话，就又要面对众多的工作。
+
+　首要的难题，就是对失去首领的布拉迪兹进行解编和重组。
+
+　布拉迪兹的统治力，一直都是Inferno能在洛杉矶站稳脚跟的保障。
+  可是，现在维斯梅尔已经死了，Inferno必须重新评估当前的态势。
+
+　当然，最妥当的方法就是重组布拉迪兹。
+  这样的话，Inferno就可以维持现状。
+
+　不像其他Inferno的组织那样保有自身的独立性，重组后的布拉迪兹将成为Inferno的直属组织。
+
+　从另一方面来看，新编的布拉迪兹实际上就是Inferno的核心。
+
+　重组和管理的工作都将交给克劳蒂娅负责。
+　马格维雅一直忙于与南美方面在毒品供给问题上的交涉，抽不出手来处理Inferno的事。
+
+「这次……是你赢了吧」
+
+　望着渐渐下沉的夕阳，我不禁感慨万千地这样小声说道。
+
+　虽说有意外的情节发生，不过到最后，所有阻挡克劳蒂娅去路的家伙都被干掉了。
+
+<CLEAR><BACKGROUND SRC="1350p1">//# 1350p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「单凭这一天可是无法决定胜负的哦」
+
+「我们只是干掉了维斯梅尔，前面的路还很长」
+
+<BOX type="5">//%sR
+「从现在起，我的敌人将一个接一个地出现」
+
+「不能接受首领的死的布拉迪兹残党也是……你的那些日本同胞也是」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「他们会怎么对付我呢？」
+
+<BOX type="0">//%w
+　没有冷酷，没有杀意。
+  克劳蒂娅的微笑所透露出的，只有堂堂的威风。
+
+　对了。
+　对已经掌握了Inferno中枢的克劳蒂亚来说，什么都已不足为惧了吧。
+
+　克劳蒂娅一直都确信自己能够大权在握，所以，与她相称的词语从很早以前就只有一个——威严。
+
+<BOX type="5">//%sR
+「对我来说，怎样都无所谓……」
+
+「因为还有你在。
+　Inferno的Phantom」
+
+<BOX type="0">//%w
+　男人如果听到这样的话，不管多危险都会奋不顾身的吧。
+
+　自己……也是如此，也是这样的愚蠢男人中的一员。
+
+<CLEAR><BACKGROUND SRC="yacht3">//# yacht3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「难不成，你把我当成玩具了么……」
+
+<BOX type="5">//%sR
+「意外么？」
+
+<BOX type="0">//%w
+「不，这才是你的风格」
+
+「这艘船也是萨巴提尼的东西吗？」
+
+　无意间说出口以后，我才注意到自己的这个问题有多么愚蠢。
+
+　眺望着水平线的克劳迪娅，嘴边掠过一丝寂寞的微笑。
+
+<CLEAR><BACKGROUND SRC="1350p1">//# 1350p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「这可是我靠自己得来的东西哦」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「萨巴提尼啊……这个名字，你是从哪听来的？」
+
+<BOX type="0">//%w
+　事到如今，我也没什么需要瞒她的了。
+
+「维斯梅尔」
+
+<BOX type="5">//%sR
+「这样啊……」
+
+<BOX type="0">//%w
+　克劳蒂娅微微点了点头。她的回答虽然只有这样一句话，不过已经足够了。
+
+<CLEAR><BACKGROUND SRC="yacht">//# yacht 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我弟弟的事，你也听说了吧」
+
+<BOX type="0">//%w
+　回答之前的空隙，填满了令人难以忍受的沉默。
+
+<BOX type="5">//%sR
+「尽管如此，你也不在乎吗？」
+
+<BOX type="0">//%w
+「……嗯」
+
+　这种事，自己早就得出答案了。
+
+「现在的你没有过去」
+
+　那还是在她得到力量之前，弱小、贫穷、孤独的时候的故事。
+  这样的故事在现在听起来，简直像是在说别人一样。
+
+「所以，我对这种事没有兴趣」
+
+「对我们来说，只看着前方不就够了吗」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　海风在耳边细语。
+  两个人就这样无言地望着夕阳。
+
+<CLEAR><BACKGROUND SRC="1350p1">//# 1350p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「呐，{名}」
+
+<BOX type="0">//%w
+　像是突然想起了什么，克劳蒂娅喃喃地小声说道。
+
+<BOX type="5">//%sR
+「有没有想过去世界的外面？」
+
+<BOX type="0">//%w
+「世界的，外面？」
+
+<BOX type="5">//%sR
+「对」
+
+「金钱、毒品、人命……与这一切完全没有关联」
+
+「只属于你我二人的地方」
+
+<BOX type="0">//%w
+　如果真有那样的地方……
+
+　克劳蒂娅不再统领组织、{姓}{名}也不再是杀手，
+　我们可以作为男人和女人，相爱着生活下去吧。
+
+　可是，那样的话……
+
+「那样的话，这里不就是那样的地方吗」
+
+「只有我们两人对吧？」
+
+　火红色的海洋与天空，一眼都望不到边。
+
+　这里是远离无法的街道、与欺骗、杀戮无缘的地方。
+
+<BOX type="5">//%sR
+「不想……回去呢」
+
+<BOX type="0">//%w
+「是啊」
+
+<CLEAR><BACKGROUND SRC="yacht2">//# yacht2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，休息的一日就要结束了。
+
+　从明天开始，两个人又要开始在欲望与暴力的漩涡中为生存而拼搏了。
+
+　永远留在这里是不现实的。
+　无论是停下还是回头，对我们来说都是不被允许的。
+
+「……会有的」
+
+　我对克劳蒂娅露出微笑，打消了内心的伤感。
+
+「在世界的某个角落，一定有着只属于我们两人的地方」
+
+「总有一天，我们会到达那里的」
+
+<BOX type="5">//%sR
+「……说的也是呢」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="sea" mode="fadein" old="fadeout" time="10" loop="on">//$ sea.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「そんな……こんな、場所で？」
+
+<BOX type="0">//%w
+「いいだろ？」
+
+　下から揉み上げる様に胸を愛撫すると、クロウディアは抗議しながらも、小さく喘ぎを洩らす。
+
+「二人だけ……なんだから」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1350p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="elen" mode="fadein" old="fadeout" time="10" loop="on">//$ elen.swa 0 255
+<BACKGROUND SRC="1350p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ずっしりと重く柔らかな感触。
+　その先端で、みるみるうちに凝っていく蕾の感触が、水着越しにも判る。
+
+　むりやり水着を横にずらすと、まるで開放を待ち受けていたかのように、
+　乳房が勢いよく弾むようにしてこぼれ出た。
+
+　すぐさま乳首に吸い付き、まんべんなく唇を這わせると、クロウディアは甘い呻きを洩らす。
+
+<BOX type="5">//%sR
+「ん……」
+
+<BOX type="0">//%w
+　腰を抱え上げるようにして、彼女をキャビンの上に座らせ、下の水着も脱がせてしまう。
+
+　甲板に膝をつくと、彼女の秘密が、余すところなく目の高さに曝された。
+
+<BOX type="5">//%sR
+「そんな……{名}……
+　恥ずかしい……」
+
+<BOX type="0">//%w
+　口ではそう言いつつも、
+　すでにクロウディアの秘裂は淫らに湿り、息づくように震えている。
+
+　わななくクロウディア自身に、熱く滾った肉棒を添える。
+　触れただけで、先端に彼女の柔らかく溶けた秘唇が吸い付き、
+　言いようのない快感をもたらす。
+
+<BOX type="5">//%sR
+「もぅ……{名}……」
+
+<BOX type="0">//%w
+　クロウディアはキャビンに手を突いて腰を浮かせ、
+　自ら肉棒を迎え入れようとするように、腰を突き出してくる。
+
+　だが、まだ主導権を譲るつもりはない。
+　じらしつつ、その柔らかさを愉しんで、亀頭を上下に動かしてやる。
+　先端が濡れた柔肉をかき混ぜて、淫らに湿った音を鳴らす。
+
+　堪え切れぬと言わんばかりに、
+　クロウディアは頬を上気させ、身体を震わせた。
+
+<BOX type="5">//%sR
+「そんな……意地悪……イヤ」
+
+<BOX type="0">//%w
+「そうか？」
+
+　不意を打つようにして、だしぬけに腰を奥まで突き入れた。
+　すでに、迎え入れるには充分なだけクロウディアは濡れている。
+　肉棒は柔襞の抵抗を滑らかに押し分け、
+　一気に彼女の奥底まで埋まった。
+
+<BOX type="5">//%sR
+「ひぁうぅッ!!」
+
+<BOX type="0">//%w
+　不意の挿入に、まるで最初から絶頂に襲われたかのように、
+　彼女は大きく体を反らせて喘いだ。
+
+　結合の隙間から、押し出された愛液がしぶき、甲板に散る。
+
+<BOX type="5">//%sR
+「やぁぁ……そ、そんな……
+　壊れ、ちゃ……」
+
+<BOX type="0">//%w
+「大丈夫」
+
+　あやすようにそう答えながら、
+　今度は優しく、ゆっくりと腰を動かした。
+
+　わななく上半身の振動がバストに伝わり、
+　よりいっそう激しい震えになって豊満な胸を揺する。
+
+<BOX type="5">//%sR
+「あぁぁっ……くぅ……」
+
+<BOX type="0">//%w
+　ぶるぶると震える胸にキスの雨を降らせながら、
+　次第に抽送のスピードを上げていく。
+
+<BOX type="5">//%sR
+「あ……かっ……くはッ」
+
+<BOX type="0">//%w
+　すでに忘我の境地に至ったクロウディアは、泣くような声で喘ぎながら、
+　よりいっそう深く激しい結合を求めるように、
+　腰を虚しく揺すりはじめた。
+
+　すでに彼女の欲情も、
+　だだ一方的に与えられる快楽だけでは我慢できなくなっている。
+
+　もうそろそろ、求めに応えてやってもいいだろう。
+
+<CLEAR><BACKGROUND SRC="1350p3">//# 1350p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　震える太股を掴んで捌き、
+　キャビンの上でクロウディアの上体を転がして、
+　腰の繋がりを保ったまま後背位へとチェンジした。
+
+　溢れる愛液で、すでに二人の結合部は水を被ったように濡れている。
+　見ているだけでも理性が揺らぐほど、刺激的な光景だった。
+
+「すごいよクロウディア……こんなにビショビショになって……」
+
+<BOX type="4">//%sL
+「やッ、ッくぅ、そんな……
+　はぁっ……うン……」
+
+<BOX type="0">//%w
+　羞恥に身悶えしながらも、
+　それでもクロウディアの腰は、欲望に正直に蠕動を始めた。
+　くわえ込んだ快楽の芯から、
+　ありったけの喜悦を搾り取ろうとするかのように。
+
+　自分一人の動きで貫くだけとは格段に違う快感が、頭の芯を痺れさせる。
+　負けじとこちらも、腰の動きを一層に加速していった。
+
+　キャビンの上に擦り付けられ、押し潰されて、淫らに形を変える乳房が、彼女の肩越しに見てとれた。
+
+<BOX type="4">//%sL
+「あッ、あッ、あん……あ……」
+
+<BOX type="0">//%w
+　クロウディアの声がうわずりはじめ、腰の突き上げが激しくなってきた。
+
+<BOX type="4">//%sL
+「もぅ……{名}……
+　ああ、もぉ私……」
+
+<BOX type="0">//%w
+　彼女の背中が大きくしなり、
+　肉襞が何もかも呑み込もうとするかのように、ひときわ激しく収縮する。
+
+<BOX type="4">//%sL
+「ふあぁぁっ……ッ！！」
+
+<BOX type="0">//%w
+　深く降ろした双臀をブルブルと痙攣させて、
+　クロウディアは絶頂を迎えた。
+
+　同時にこちらも、こらえていた射精を解き放った。
+　熱い淫肉に絞られながら怒張が爆ぜて、奔流が膣奥に打ち込まれる。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> dream dummy center 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//> left yacht3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="sea" mode="fadein" old="fadeout" time="10" loop="on">//$ sea.swa 0 255
+<BACKGROUND SRC="yacht3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　射精感は、やがて二人の鼓動の中に溶け込んでいき、
+　そして遠い波音のリズムへと呑み込まれていった。
+
+<calc workname="僋儘僂僨傿傾梞忋俫" operator="1" mode="global">
+<A HREF="1400.txt" OPERATOR="">//~ 140000

@@ -1,0 +1,309 @@
+<CALC WORKNAME="ヒロイン" OPERATOR="アイン">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left tortureroom wide 255 dummy 20 dummy 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　いざ帰還してみると……
+　インフェルノで待ち受けていたのは、執拗な取り調べだった。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「結局アンタは、今日になるまで、
+　何も知らなかったってぇのか？」
+
+<BOX type="0">//%w
+「だから何度も、そう言ってるだろ？」
+　
+　その辺は、シラを切り通すしかない。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……おさらいしてみようか」
+
+「昨夜アンタは、
+　クロウディアの家を出たあと、
+　急にドライブがしたくなった」
+
+「で、何を思ったか、
+砂漠のど真ん中まで車を転がした」
+
+<BOX type="0">//%w
+「好きなんだよ。砂漠」
+
+<BOX type="4">//%sL
+「……で、その砂漠の真ん中でだ、
+　まるで示し合わせてたみたいに、
+　ファントムと合流した」
+
+<BOX type="0">//%w
+「偶然だったんだから、合流じゃない」
+
+<BOX type="4">//%sL
+「黙ってな」
+
+「ファントムの傷がヤバかったから
+　自力で治療したってのは、
+　良しとしよう」
+
+「だが何で、
+　すぐに組織に報告しなかった？」
+
+<BOX type="0">//%w
+「携帯電話のバッテリー切れ」
+
+<BOX type="0">//%w
+　リズィの拳に筋が浮き、殴られるかとも思ったが、
+　どうやら思いとどまってくれたらしい。
+
+<BOX type="4">//%sL
+「オーケィ、
+　それじゃぁ最後の質問だ」
+
+「手当てしたファントムを
+　放っぽりだして、
+　何でアンタ一人が帰ってきた？」
+
+<BOX type="0">//%w
+「彼女に、そう指示されたんだ」
+
+　相手の激昂につられないよう、しれっとした顔を装って答えた。
+
+「……『もう大丈夫だからロスに戻って、インフェルノに報告しろ』
+　ってな」
+
+「仕方ないだろ？　ファントムが組織を裏切って、
+　あんたと撃ち合った後だったなんて、僕は知らなかったんだから」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「リズィ。今夜はもう、
+　その辺でいいわ」
+
+<BOX type="0">//%w
+　リズィの忍耐の限界を見て取って、
+　すかさずクロウディアが割り込んでくれた。
+
+<BOX type="5">//%sR
+「あなただって、
+　くたびれたでしょ？
+　上で、一杯やっていて」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se doorslam
+<BOX type="0">//%w
+　叩きつけるようにしてドアを閉め、リズィは退室する。
+
+<clear>
+<BACKGROUND SRC="尋問を受けるレイジ">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そして狭い地下室には、クロウディアだけが残った。
+
+　今度は、ごまかしは効かない。
+　彼女は何もかも承知の上だ。
+
+//<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「芳しくないわよ。きみの立場」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「戻るなら、
+　すぐに戻れと言ったでしょう？」
+
+「むしろファントムを
+　連れ戻したなら、逆に株が
+　上がったかもしれないけれど」
+
+<BOX type="0">//%w
+「彼女は……何も知らなかったんです」
+
+<BOX type="5">//%sR
+「だから、逃がしたの？」
+
+<BOX type="0">//%w
+「……」
+
+<clear>
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　苛立ちを紛らわすように、クロウディアは席を立ち、
+　部屋の中を歩き始める。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「感心しないわね、そういう甘さ」
+
+「いつか命取りになるわよ」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+　まったくだ。
+　それに、今回の件……クロウディアにかけた迷惑も、
+　決して少なくはない。
+
+「申し訳ありません。ミズ＝マッキェ……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<CLEAR><BACKGROUND SRC="0255p1">//# dummy 19 0255p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だが言い終わる前に、ふいに腕を伸ばしたクロウディアの、
+　豊かな胸の中に抱き留められていた。
+
+<BOX type="5">//%sR
+「おかえりなさい。{名}」
+
+<BOX type="0">//%w
+　うって変わって優しい声。
+　ここ一連の出来事で溜まった疲労が、暖かく癒されていく。
+
+「ミズ……」
+
+<BOX type="5">//%sR
+「二人のときは、
+　クロウディアでいいわ」
+
+「きみも、ツヴァイじゃなくて
+　{名}。
+　二人だけの秘密よ。いいわね？」
+
+<BOX type="0">//%w
+「……はい」
+
+//> eins tortureroom wide 255 crou 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="tortureroom">//
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「まだ当分、きみは苦しい立場に
+　立たされるだろうけれど、
+　サイスが見つかるまでの辛抱よ」
+
+<BOX type="0">//%w
+「目途が、立ってるんですか？」
+
+<BOX type="5">//%sR
+「足取りを追うのは、
+もう無理だけど……今は、
+網を張って待ち構えているところ」
+
+「きっとサイスは、
+　国外へ逃げるはずだから……」
+
+「そのために、
+　彼が頼りそうなコネクションを、
+　いま監視しているの」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「動きがあるのは、
+　そう先じゃないわ」
+
+「サイスの方も、
+　悠長に構えている余裕は
+　ないでしょうからね」
+
+「そのときは、きみにも、
+身の証を立てるチャンスが訪れる」
+
+<BOX type="0">//%w
+「身の……証？」
+
+<BOX type="5">//%sR
+「行動で、証明するのよ。
+　きみが誰の味方で、
+　誰がきみの敵なのか」
+
+「その手で、
+　サイスを殺して見せなさい。
+　皆の前で」
+
+<BOX type="0">//%w
+「信頼されていない僕が、追跡に加われるんですか？」
+
+<BOX type="5">//%sR
+「その辺は、私が手を尽くすわ」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……どうしたんですか？」
+
+　不意に曇ったクロウディアの表情が、気になった。
+
+<BOX type="5">//%sR
+「今のあなたの正体は、
+　もうツヴァイじゃない」
+
+「それでも、やれる？」
+
+<BOX type="0">//%w
+　クロウディアの危惧は、理解できた。
+
+　今の自分は、殺人ロボットのツヴァイじゃない。
+　{姓}{名}という、
+　一人前の判断力と自我を備えた人間なのだ。
+
+　それでもなお、再び命令に従って、殺人を承諾するのなら、
+　今度こそ、本当の意味で、この手は血に染まるんだろう。
+
+　ついに、自分の意志で人を殺すことになる……
+
+<BOX type="0">//%w
+「やりますよ」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　愛想笑いのつもりで頬を緩めたものの、
+　それはどうやら、クロウディアの目に、
+　不敵な笑顔となって映ったらしい。
+
+　そう察することができたのは、
+　クロウディアの顔に顕れた緊張のせいだった。
+
+「なにも問題ありません」
+
+「今までも、これからも、僕は殺し屋です」
+
+「一晩考え抜いた末に、決めたんですよ。そう生きるって」
+
+<BOX type="5">//%sR
+「……そう」
+
+<CALC WORKNAME="0255" OPERATOR="1">//
+<A HREF="0290.txt" OPERATOR="">//~ 0290

@@ -1,0 +1,525 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　いつの間にか、再び落ち込んでいた眠りの淵から、また美緒は引き戻された。
+
+　瞼を上げると、予想外の眩しさが目を射る。
+　もう、とうに陽が昇っている。
+
+　顔を上げ、見回すと、部屋には誰もいなかった。
+
+　誰が見ているわけでもなかったが、それでも毛布をかき寄せて、身体の前を覆う。
+
+　キャルは……また夜のうちに、
+　出かけたんだろうか。
+
+　窓辺で月明かりを浴びて、
+　声もなく嗚咽していたその姿を、
+　思い出す。
+
+<BOX type="5">//%sR
+“{名}と、殺し合うのさ”
+
+“どっちが強いか
+　決めるためにね……”
+
+<BOX type="0">//%w
+　限りなく冷酷に、
+　限りなく残忍に、
+　そう言い放っていた彼女。
+
+　とても同一人物とは思えない。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+　ふと背中に視線を感じ、
+　美緒は振り向いた。
+
+//> left ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　誰も訪れる者とてない、朽ちかけた女子寮の廃墟で……
+　朝の冷気に震えながら、美緒は蹲っていた。
+
+　まさかとは、思ったが……
+
+　キャルの隠れ家を推理するうち、ふと閃いたこの場所だが、
+　たしかに篠倉学園を監視するには、うってつけの拠点だった。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　剥き出しの肩を毛布にくるんだ美緒。
+　見覚えのある衣服が、無惨に破られ、片隅に打ち捨てられている。
+
+　痛ましさと悔恨に、胸が塞ぎ……すぐには、声をかけられなかった。
+
+　そんな逡巡の間に、
+　美緒は気配に気付いたのか、振り向いて目を見開いた。
+
+<BOX type="5">//%sR
+「{姓}……さん……？」
+
+<BOX type="0">//%w
+　何と言って詫びたらいい？　償えばいい？
+　決して巻き込むまいと、そう心に誓っていたというのに。
+
+　言葉もないまま歩み寄り、
+　そこで、彼女の足首を戒める手錠が目についた。
+
+　鎖を吹き飛ばそうと、隠し持った{銃}に手を伸ばし……
+　そこで思い直して、やめる。
+　銃を美緒に見せたくない。
+
+「ヘアピンか何か、持ってるかい？」
+
+<BOX type="5">//%sR
+「え、ええ……」
+
+<BOX type="0">//%w
+　美緒は面食らったまま、
+　床に落ちた服のポケットを探り、二本のヘアピンを差し出す。
+
+<BOX type="5">//%sR
+「あの……これで？」
+
+<BOX type="0">//%w
+「ああ、何とかできる」
+
+　受け取ったヘアピンを広げて伸ばし、
+　手錠の鍵穴に突っ込んで、手応えを探る。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「テレビなんかで、よくやるだろ？　これ」
+
+<BOX type="5">//%sR
+「はぁ、でも……」
+
+<BOX type="0">//%w
+　両手が自由なのだから、この程度の解錠はどうということはないのだが、
+　あまり手馴れた様を見せたくもない。
+　ただでさえ美緒は呆気にとられた様子で見守っている。
+
+<se id="1" src="23_03" mode="normal" time="" loop="off" effect="">//!se rist
+「……よし」
+
+　上辺は試行錯誤している風を装いつつ、
+　必要以上に時間をかけて、ロックを解除した。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　訊きたいことも、言いたいことも、多すぎて逆に言葉にならない……
+　無言で俯く美緒は、そんな風に見えた。
+
+　最初に屋上で対面した時の、切ない沈黙を思い出す。
+
+「とりあえず、服が必要だよな」
+
+「教室に、何かあるかい？　体操着とか、ジャージとか」
+
+<BOX type="5">//%sR
+「……はい」
+
+<BOX type="0">//%w
+　ここから篠倉学園まで下りるぶんには、
+　誰が通りかかるわけでもなく、人目につく心配もない。
+　もちろんキャルと出くわす可能性もなくはないが、
+　そのときは、そのときだ。
+
+//> left schoolway2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schoolway2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　抱きとめるようにして美緒の身体を支えながら、
+　路面の荒れた坂道を下って、篠倉学園を目指す。
+
+　その間、腕の中から……
+　まるで違う人間を眺めるかのように、
+　見上げてくる美緒の視線が痛かった。
+
+　この状況での、沈黙は……
+　事情を弁えていることの、何よりの証明になってしまう。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　幸いにして校舎も、まったくの無人だった。
+　期末試験前日の日曜日ともなれば、当然だ。
+
+<CLEAR><BACKGROUND SRC="passage5b">//# mio3^1 20 passage5b 1
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 passage5b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あの……」
+
+<BOX type="0">//%w
+　無人の廊下を並んで歩きながら、とうとう、美緒が口を開いた。
+
+「うん？」
+
+　何気ない風を装いながらも、心は乱れる。
+　どこまで、美緒は知ってしまったんだろうか。
+　どんな問いをぶつけられるんだろうか。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美緒もまた……何を問うべきか、やはりまだ迷っている様子だった。
+
+　互いに言葉に詰まったまま、気がつけば二人は、
+　美緒の着替えが置いてあるB組の教室の前にいた。
+
+<BOX type="5">//%sR
+「キャルさんの、
+　ことなんですけど」
+
+<BOX type="0">//%w
+　足を止めた美緒が、意を決したように言う。
+
+　肯いて、先を促した。
+　逃げ道は、ない。
+
+<BOX type="5">//%sR
+「……彼女、泣いてました。
+　こっそりと」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「じゃあ、
+　わたし、着替えてきますね」
+
+<BOX type="0">//%w
+「……ああ、待ってる」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　一人、教室に入っていく美緒の背中に、
+　心の中で、ありったけの言葉で感謝し、そして詫びた。
+
+　糺すべき疑いも、問うべき謎も、美緒はすべてを棚に上げて、
+　ただひとつだけ、教えてくれた。
+　彼女には何の関わりもない……だが、とても大切なことを。
+
+　美緒の言葉で、迷いは失せた。
+　為すべき事も、判断がついた。
+
+<CLEAR><BACKGROUND SRC="school1b">//# school1b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　電話で呼び寄せたタクシーに、美緒を乗せ、見送るまでの間にも、
+　彼女はなにひとつ訊こうとはしなかった。
+
+　その優しさと、心遣いに……
+　改めて、彼女を災難に巻き込んだ自分のエゴを、身につまされる。
+
+「キャルのことは、大丈夫だから」
+　
+　別れ際に、一言だけ、そう彼女に告げた。
+
+　美緒は静かに肯いて、車に乗り込み……
+　そして走り去る車の窓から、最後に、少し寂しげに微笑みかけてくれた。
+
+　一人、校門の前に取り残され、吹き抜ける春の風を浴びながら……
+　ポケットの中で携帯電話を握りしめる。
+
+　いずれキャルが隠れ家に戻り、美緒の不在を知れば、
+　真っ先に連絡が来るだろう。
+　そのときのための言葉を、予め、用意しておこう。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　キャルが女子寮に戻ったのは、
+　午後も遅くなってからだった。
+
+　まる一日を、消えた{名}の捜索に費やしてしまった。
+
+　四六時中監視するという、電話での脅迫は、実際は口先だけのものだった。
+
+　どうせ逃げる筈もないと、高を括っていたキャルは、気が向いたときだけ様子を見に赴き、
+　そのたびに顔色を失った{名}を観察しては、満足していた。
+
+　ところが、昨日、篠倉学園にいるのを見かけたきり、{名}は行方をくらましていた。
+
+　今朝の早朝、{名}たちの住まうアパートを探り、帰宅していないのが判ったのだ。
+
+　アイン一人がちょろちょろ動き回るぶんには、意に介するつもりもなかったが、{名}まで消えたとあっては話は別だ。
+
+　美緒を見捨てて、逃げたのか……
+
+　絶望的な怒りに頭が一杯になり、
+　それで判断の誤りに
+　気がつくのが遅れた。
+
+　慌てて隠れ家に戻ってみれば、
+　女子寮はもぬけの殻だった。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　解除され、床に放置された手錠と、その横に転がるヘアピンの残骸を、苛立ちまぎれに爪先で蹴る。
+
+　美緒に、
+　こんな芸当ができる筈がない。
+　{名}が救助にやってきたのだ。
+
+　懐から、美緒から奪ったままの携帯電話を取り出す。
+　まだ、繋がるだろうか……
+
+　期待半分、諦め半分に、{名}の番号を呼び出す。
+<se id="1" src="phoneCall" mode="normal" time="" loop="off" effect="">//!se phoneCall
+
+　……きっと無駄だ。奴はもう、はるか彼方に……
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……キャルだな』
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　案に反して、
+　通話は即座に繋がった。
+
+　腹立たしいほどに落ち着き払った{名}の声で、たちまちキャルの中に怒りが蘇る。
+
+<BOX type="5">//%sR
+「{名}、
+　あんたよくも……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『手遅れだよ。キャル』
+
+『美緒はとっくに返してもらった。
+　もう、
+　お前に気兼ねする必要はない』
+
+<BOX type="3">//%m
+　いつになく冷ややかな、嘲笑を交えた声。
+　それは{名}が、初めてキャルに見せた一面だった。
+
+<BOX type="4">//%sL
+『これで、
+　またお別れだな。キャル』
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　胸の奥の怒りの塊が、めきめきと嵩を増していく。
+
+<BOX type="5">//%sR
+「……追ってやる」
+
+<BOX type="2">//%w
+　呪うように、祟るように、キャルは低く呟いた。
+
+<BOX type="5">//%sR
+「地獄の底まで、あんたのことを追ってやる……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『やめておけ』
+
+『それともキャル、
+　お前まさか、本気で
+　俺に勝てると思ってるのか？』
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……何ぃ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『笑わせるな。お前みたいな間抜けが何人束になろうと、話にならん』
+
+『こんな餓鬼にファントムを
+　名乗らせるとは、つくづく
+　堕ちたな。インフェルノも』
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　怒りのあまり眩暈がした。
+
+<BOX type="5">//%sR
+「ケツに帆ォかけときながら、
+　大した吠えようだな、あぁん!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『解らん奴だな。お前も』
+
+『何なら、
+　チャンスをくれてやろうか？』
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　{名}の語調がさらに冷え、
+　その意外な申し出に、
+　キャルは目をしばたく。
+
+<BOX type="5">//%sR
+「……チャンス？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『この先ずっと
+　お前につきまとわれるのも、
+　考えてみれば煩わしい話だ』
+
+『いっそここで
+　決着をつけてやってもいい。
+　お前に度胸があれば、だが』
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「面白ぇ……」
+
+<BOX type="2">//%w
+　望むところだ。
+　もうこの男に情けは必要ない。
+
+　キャルの怒りこそ正しかった。
+今、この身を灼く憎悪のままに……{姓}{名}は殺してやる。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『今から1時間待ってやる。
+　それまでに、
+　篠倉学園の礼拝堂に来い』
+<se id="1" src="携帯ツーツー" mode="normal" time="" loop="off" effect="">//!se tootoo
+
+<BOX type="2">//%w
+　そう言い残して、あとは返事も待たずに通話は切られた。
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="" mode="fadeout" time="2">
+<BOX type="2">//%w
+　ふつふつと、
+　身体に邪悪な喜びが滾る。
+　この感覚だ。
+　今のキャルに残された、
+　たったひとつの愉悦。
+
+　もう、キャルは恐れなかった。
+
+　渇きを癒す時がきた。
+　飢えを満たす時がきた。
+
+　今度こそ、迷いはしない。
+　内なる獣に駆られるがまま、
+　突き進んでやる。最後まで。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left church1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="church1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　通話を終えて、必要のなくなった携帯電話を、藪の中に投げ捨てた。
+　これで、いい。
+
+　彼女のためにしてやれる、これが最後の務めだ。
+
+　今のキャルは、
+　この2年間で溜め込んだ感情を、ぶつける相手を必要としている。
+
+　中途半端な優しさほど、残酷なものはない。
+
+　彼女が憎しみを持て余しているのなら、
+　いっそ、徹底的に憎み抜かせてやればいい。
+
+　あの子の怒りを、全て引き受けて、その上で消えていこう。
+
+　憎むにも値しない奴。
+　そう悟った上で、虫けらのように殺すといい。
+
+　それが、キャルの人生を狂わせてしまったことの償いだ。
+
+　あの子が、新しい人生を踏み出せるかどうかは、判らない。
+
+　だがそれを可能にするためには、
+　今日まで続いた彼女の悪夢を、まず終わらせてやるしかない。
+
+　できることは、そこまでだ。
+
+　あとは、見守ってやろう。祈ってやろう。
+　いつか彼女が立ち直り、本当の幸福を掴むまで。
+
+　こんな男に拘って、これ以上、苦しむことはない。
+
+<A HREF="3710.txt" OPERATOR="">//~ 3710
+
+
+
+
+むことはない。
+
+<A HREF="3710.txt" OPERATOR="">//~ 3710

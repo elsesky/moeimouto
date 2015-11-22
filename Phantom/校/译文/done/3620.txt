@@ -1,0 +1,240 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　我一边仰望着透过彩色玻璃射进的七色斜阳，一边回想起过去的日子。
+
+　真是讽刺。
+　那个时候，自己还为凯尔的死哀叹不已，
+  可再见到还活着的凯尔，自己却又要杀了她。
+
+　为什么我们的人生会错乱到如此地步呢？
+
+　那一天，自己为什么没有马上确认凯尔是否还活着呢。
+
+　原因并不复杂。
+
+　焦急与过度自信，最终使我背叛了承诺。
+
+　一个错误接着另一个错误，
+  错误的接连出现改变了我们的命运。
+
+　如果没有遇到我，如果没有爱上我，
+  凯尔应该就会拥有一个不一样的人生。
+
+//傕偊傜俽俤捛壛
+<se id="1" src="僪儔僀曕偒3" mode="normal" loop="off">
+
+　背后传来的脚步声打破了礼拜堂的寂静。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# drei3^4 20 INchurch3 1
+<BUSTUP NAME="drei3" face="4" MODE="on" zoom="" ALIGN="right">//# drei3^4 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　回过身，凯尔正用惊讶的眼神冷冷地看着我。
+
+「{ヒロイン}不会来了」
+
+<BOX type="5">//%sR
+「为什么……会是你」
+
+<BOX type="0">//%w
+「因为这是我的责任」
+
+<BOX type="5">//%sR
+「为了保护那女孩吗？」
+
+<BOX type="0">//%w
+「不是」
+
+「凯尔……为了杀死你」
+
+<BUSTUP NAME="drei3" face="6" MODE="on" zoom="" ALIGN="right">//# drei3^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔眼中那冷冷的侮蔑，一瞬间变成了燃烧着的憎恨。
+
+「至今为止，已经有众多的人因我而牺牲了」
+
+「为了活下去……数不清的人被我欺骗、利用、杀死了」
+
+「你也是其中的一个，凯尔」
+
+<BOX type="5">//%sR
+「你还真是厚颜无耻……」
+
+<BOX type="0">//%w
+「是的，我不觉得自己做错了」
+
+「你是对的，凯尔，你的愤怒就是正义。不必受人谴责」
+
+　在仇恨的驱使下扣动扳机，这是凯尔的正当权利。
+
+「用你的那把枪给我制裁吧。不靠别人，自己拼上一把」
+
+「如果你比我强的话……那我就将遭受报应」
+
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="right">//# drei3^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……正合我意」
+
+<BOX type="0">//%w
+　凯尔的眼睛充满了战意，在昏暗的礼拜堂中如同两团燃烧的绿色火焰。
+
+<BOX type="5">//%sR
+「想怎么办？」
+
+<BOX type="0">//%w
+「怎样都可以，就按你的方式来吧」
+
+<BOX type="5">//%sR
+「喔……游刃有余嘛」
+
+//傕偊傜俽俤捛壛
+<se id="1" src="15-03" mode="normal" loop="off">
+
+<bgm src="" mode="fadeout" time="20" loop="on">
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔冷笑一声，扔掉了手中的AUG，接着从怀中取出一个散发着黄铜光辉的东西。
+
+　带有八音盒装置的怀表……回忆充满了我的内心。
+
+　你还带着它吗……
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「手枪决斗。
+  曲子一完就开枪，可以吧」
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　说着，凯尔将怀表放在祭坛的中央，用指尖拨开了表盖。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+　熟悉的纤细旋律在厚重的沉默中响起。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^3 20 INchurch4 1
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「听过这首曲子还没被杀的……」
+
+「只有你一个哦，{名}」
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# dummy 20 inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔向后退着远离祭坛，将轻巧的右手放在枪套的位置上。
+
+　我也向后退，接着解开制服的前排扣，在凯尔的注视下将枪别在了腰带上。
+
+<BOX type="0">//%w
+　我在圣歌队席的边上停下了脚步。
+　凯尔也停在了神父室的前面。
+
+距离……大约有10米。
+除了举枪对射，我们没有别的选择。
+拔枪的速度将决定决斗的胜负。
+
+　就像往昔的赞美歌的余韵一般，纤细、温柔的旋律充满了阴暗的世界。
+
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　胜者将继续活在今日，败者将永远死去。
+　决定生死……只在刹那之间。
+
+　自己重新体会到了。
+　这个无情世界的铁则。
+
+　一定会赢……之前对{ヒロイン}发下的誓言在现在没有任何意义。
+
+　祈祷也好，发誓也好，都不能决定胜负。
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　抱歉啊，{ヒロイン}……
+　我在心中小声说道，接着忘却了一切。
+
+　{ヒロイン}的声音、面容，还有她那纤细身体的触感。
+
+　还有……活着回去，然后一起寻找她的故乡……这样的誓言。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^4 20 INchurch4 1
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　现在，自己的意识中……
+  只有凯尔，
+  只有凯尔的右手。
+
+　还有，别在自己腰间的枪。
+  我集中全部精神，聆听着在静寂中飘扬的八音盒的旋律。
+
+　高昂、纤细、肃穆。
+  八音盒的旋律宛如神秘宇宙的悸动……
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　八音盒的旋律渐渐慢了下来。
+　曲子……就要结束了。
+
+　我的心中一片空明，仿佛身处停滞的宇宙之中，等待着最后时刻的到来。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　接着……世界安静了下来。
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在凯尔的右手伸入枪套的时候……我的手已经握住了枪的枪柄。
+
+可是，拔枪的时候自己慢了一步。
+当手中的枪飞速上抬的时候，凯尔的S&W也追了上来。
+
+　我用枪对准了凯尔，而她的S&W也瞄准了我。
+
+　凯尔手中的枪口……黑暗、深邃、就像地狱的入口。
+
+　究竟谁会先开枪呢……
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　轰鸣的枪声只响起了一次。
+  在万分之一的那个瞬间，唯一响起的一次。
+
+<A HREF="3625.txt" OPERATOR="1340=0">
+<A HREF="#儅僥僶" OPERATOR="3160MM=1">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//# gun2 1
+<WIPE EFFECT="fade" TIME="10">
+<A HREF="#崌棳">
+
+<MARKER NAME="#儅僥僶">
+<CLEAR><BACKGROUND SRC="儅僥僶b2">//# 儅僥僶b2 1
+<WIPE EFFECT="fade" TIME="10">
+<MARKER NAME="#崌棳">
+<BOX type="0">//%w
+　从手腕传到肩上的冲击……枪的后坐力有一种与平时不同的感觉。
+  大脑早已空白，没有感情，没有感慨，只有对现状的理解。
+
+　胜利……
+
+<A HREF="3630.txt" OPERATOR="">//~ 3630

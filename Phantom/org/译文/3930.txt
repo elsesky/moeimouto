@@ -1,0 +1,72 @@
+//> left passage8c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<BACKGROUND SRC="passage8c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在我飞快地跑上2楼以后，楼下开始如祭典般热闹起来。
+
+　室内战的理论便是……从某一端向敌人可能藏身的地方发动全方位扫射，将其打成蜂窝。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+　根据枪声判断，敌人似乎是2人一组在行动着。
+　而剩下的3人应该正埋伏在我的退路上。
+　通往3楼的楼梯……还有走廊，这两个地方我还是不要靠近的好。
+
+　在高贯穿力的突击步枪子弹面前，桌子、柜橱这种程度的隐蔽物根本起不到任何作用。
+  要是愚蠢地躲起来，肯定会和隐蔽物一起被打成蜂窝的。
+
+　当然，设置陷阱也不能使用普通的方法。
+<se id="2" src="" mode="fadeout" time="5">
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+
+　由于掌握了我的大概位置，敌人应该是想要堵住退路，步步为营将我找出来。
+　不过，她们现在正专注于1楼的扫荡，自己还有时间做些准备工作。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　我先依次进入每个教室，从收纳扫除用具的柜子里收集水桶和拖把。
+
+　将它们分成五份以后，我用枪柄打坏眼前的自动板擦机，取走沿墙设置的电线。
+
+　然后，我抱起战利品朝走廊中的男女厕所走去。
+
+　虽然女厕所中的隔间较多，但楼下的两人应该会同时从左右的楼梯走上2楼。
+　首先被扫荡的应该是更靠近楼梯的男厕所。
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="toilet">//# toilet 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我打开水龙头，向五个水桶里灌水……然后将它们分别拎到一个个隔间里，放在座便器上。
+
+　将水桶放好后，我将拖布靠在内开式的门上，通过拖布杆的重量关上了门。
+
+　像这样将5个隔间的门都关上以后，我拔下厕所最里面的换气扇的电线，将它与从教室里收集的电线连在一起，加长到刚好能够垂到瓷砖地面的长度。
+
+　虽说是很简单的陷阱，但顺利的话足以干掉一个人了。
+　接下来，自己该藏在哪里呢……
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　可是，刚才还很遥远的卡拉什尼科夫突击步枪的咆哮声，突然在附近响起。
+　不好，那些家伙……已经来到2楼了!?
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage8c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="passage8c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="3940.txt" OPERATOR="">//~ 3940

@@ -1,0 +1,409 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　八王子市郊外，一座小小的高山连接着从遥远西方绵延过来的甲府山脉。
+  蓧仓学园的校舍就坐落在这座小山的半山腰上。
+
+　一条蜿蜒曲折的坡道直达山脚的城镇，其间足有30分钟左右的路程。由于这里原本是全宿制学校，所以交通非常不便。
+
+　据说，继续向上攀登的话，还能看到早已变成废墟、无人问津的女生宿舍。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　由于早已过了放学时间，路上见不到其他的学生。
+　
+　夕阳照射下的树林中，只有寂静将我们两人包围。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　从刚才开始，走在我边上的美绪就没有一言不发，只是心神不宁地四处观望。
+　就像是在考虑着什么一样。
+
+<CLEAR><BACKGROUND SRC="jView3">//# dummy 20 jView3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自己要考虑的事，也有很多吧。
+　
+　自己就像是来到了从未见过的异国。
+　即使是看惯了的风景，在自己眼中也有着完全不同的意义。
+
+　身边的女孩，恋爱了……大概，这是她的初恋吧。
+
+　她连自己为什么要被如此残酷的谎言欺骗都不知道。
+　拜托了，让这一切在她一无所知的情况下结束吧。
+
+　在欺骗她的那个时候，我就已经做出了决定。
+
+　这不会是一场骗局，
+  我要负起责任，绝对不让她受到伤害。
+
+　下个月，我们就将升入3年级。
+　虚假的校园生活，还剩1年的时间。
+
+　美绪的感情，应该不会变吧。
+
+　在没有意识到的情况下，从自己的内心所萌发出的爱情。
+
+这不是什么坏事。
+每个人都有过不成熟的青涩初恋。从那开始，人们才会有意识地去了解心仪的对方。
+
+　人们常说恋爱就像麻疹。这种比喻的说法虽然略显薄情，但却道出了恋爱的本质。
+
+　陷入恋爱中的人，终究会从激情中醒来。就像小孩子的麻疹痊愈了一样。
+
+　到那时，我只要尽力让爱情朝着友情的方向发展就行了。
+
+　不管做什么，只要能瞒住美绪，我的目的就算达成了。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这是卑劣的谎言，是冷酷、自私、不计后果的谎言。
+　可是，这样做的话，自己至少可以对她负起责任。
+
+　让美绪带着美好的回忆结束这份感情……这就是我所希望的。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……」
+
+<BOX type="0">//%w
+「嗯？」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……对不起。我不知道自己应该说什么」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……很无趣吧？像我这样的人」
+
+<BOX type="0">//%w
+「不会啊」
+　
+　我连忙否定她的话。
+  说起来，我也不是很有自信，总担心自己会没有神经地说出她不感兴趣的话题。
+
+　能和美绪这样的女孩子共同讨论的话题……无论如何都想不出来。
+　
+　不得不承认……在这一点上，{ヒロイン}还真是厉害。
+
+「这边才是呢。
+  和我在一起，藤枝同学不会觉得无聊吧」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不，没有这回事」
+
+「我觉得非常开心」
+
+<BOX type="0">//%w
+「非常？」
+　
+　我不由得苦笑起来。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是真的」
+
+「怎么说呢，那个……
+　就算沉默，也不会觉得难受」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「总觉得很安心呢。因为知道自己没有被讨厌」
+
+<BOX type="0">//%w
+「……当然不会讨厌啦」
+
+<BOX type="5">//%sR
+「{名}同学在想什么呢……单单是想着这些，我就感到很开心了」
+
+<BOX type="0">//%w
+「……是吗」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……不过，果然还是讨厌我吧？」
+
+<BOX type="0">//%w
+「为什么要讨厌你啊」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「接受我的感情，不会让{名}同学感到困扰吗？」
+
+<BOX type="0">//%w
+　困扰，吗……
+　虽然有些无情，不过我一开始的确是这么想的。
+
+「你喜欢我哪一点呢？」
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪没有马上回答我，而是沉默了下来。
+
+　……坏了。
+　我的问题让她感到为难了吗。
+
+　不过，轻轻地低着头、一动不动地看着前面的美绪，似乎不是不知道如何回答，而是在寻找着合适的语句。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我总是能看到。{姓}同学常常在凝视着树木、仰望着天空」
+
+「那个时候的{姓}同学，好像非常的感动……」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对我来说，这明明只是平凡无奇的景色而已」
+
+「可在{姓}同学的眼中，它们好像变得不一样了」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以，只要看着{姓}同学……」
+
+「我就会觉得不论什么事都是有意义的」
+
+「无聊的思绪也是、令人厌烦的事也是……」
+
+「它们都有着非常重要的意义，只是大家都没有注意到而已」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……对不起。
+　说了莫名其妙的话」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，我真的是这么想的」
+
+<BOX type="0">//%w
+「不……」
+
+「这里，的确是非常重要的地方」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不必担心死亡，也不必担心被杀。
+
+　欺骗、陷害、掠夺殆尽……没有做这些事的必要。
+
+　只是安稳地睡下，明天就会来临。
+
+　为了生存而去赢得战斗……这样残酷的轮回，不去重复也没有关系。
+
+　明天依旧会活着。
+　这是对谁而言，都理所当然的事。
+
+　这里，简直就是天堂。
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　不经意间，我注意到美绪的目光。
+
+　她盯着我的眼神中充满了温柔，让我如临梦境。
+
+<BOX type="5">//%sR
+「果然有些不可思议呢，{姓}同学」
+
+<BOX type="0">//%w
+「……因为我是归国子女嘛」
+
+　这是我摆脱窘境的妙招。
+
+「没有你想的那么复杂。
+　我只不过是对日本的生活感到新奇罢了」
+
+<BOX type="5">//%sR
+「可是，已经过去半年了，还没有熟悉吗？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「其实，我也有过寄宿的经历。
+  是在国中的时候，大约有2个月」
+
+（注：这里的寄宿指的是Homestay，即留学生在国外家庭寄宿）
+
+「开始的时候，我对什么都感到惊奇。
+不过，很快就又觉得没有什么不一样」
+
+「不论在哪个国家，人们的生活好像都差不多吧」
+
+<BOX type="0">//%w
+「……也许吧」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以我才觉得{姓}同学有点与众不同」
+
+「莫非日本与美国有非常大的国情差异吗」
+
+「还是说……根本一点都不一样呢……」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我一边听美绪说着，一边和她并排走在路上……
+  突然，一个与这里格格不入的东西映入了我的眼帘。
+
+<CLEAR><BACKGROUND SRC="僪傾僥傿傾僢僾">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在道路左侧，一辆摩托车背对我们停在那里。
+
+车手跨坐在车座上，双臂环抱在胸前，像雕像般纹丝不动。
+从体型看应该是一名女性，但由于脸部被摩托车头盔遮住，所以无法看到她的相貌。
+
+　这条坡道并不通往其他地方，甚至可以说是蓧仓学园的专用道路。通常只供学生和相关人员使用。
+　
+　这个人可能是在等待某个放学的学生吧？
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　身边的美绪则只顾着整理自己的语句，对此完全没有注意。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我们从摩托车旁边走过，在走出50米左右的时候，
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　身后突然响起猛烈的排气声。
+　刚才那名女车手发动了摩托车的引擎。
+
+　从外表看上去那只是一辆中型摩托车，没想到实际的排气量竟然如此巨大……
+
+　但是，在引擎的轰鸣声中，又响起了另一个声音。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　那是我非常熟悉、甚至可以说是过分熟悉的声音。
+  但是，那种声音绝对不应该出现在这里。
+
+　我回过头，眼角的一隅正飞舞着白色的塑料碎片。
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+　美绪也感觉自己的手提书包好像被什么东西拉了一下。
+
+　吊在书包边上的小饰品，已经消失的无影无踪。
+
+<BOX type="5">//%sR
+「……咦？」
+
+<BOX type="0">//%w
+　慌张的美绪没有注意到刚才的声音与饰品消失之间的因果联系。
+
+　没有注意是当然的，因为这是她从来没有听到过的声音。
+　隐藏在摩托车引擎轰鸣声中的，是9mm帕拉贝鲁姆弹……
+
+<CLEAR><BACKGROUND SRC="3100p1">//# dummy 20 3100p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，女车手摘下了摩托车头盔。
+
+<CLEAR><BACKGROUND SRC="1100p1">//#! 1100p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　扎成马尾的金发，比两年前长了不少。
+　
+　翡翠色的眼睛，则散发着和过去一样的光芒。
+
+<CLEAR><BACKGROUND SRC="1160p1">//#! 1160p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 <WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　记忆中的那双眼睛，应该是更加温柔、更加开朗的。
+
+　而面前的眼睛则充满了冷冷的嘲讽，正用仿佛要刺穿人心的锐利目光盯着我们……与过去既相似，又有着天壤之别。
+
+　但是，最令我难以置信的是，与那张脸有关的记忆，明明应该属于一位死者。
+
+<se id="1" src="僪僇憱傝嫀傞" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那名女车手将头盔挂在手腕上，扭动离合器发动了摩托车。
+
+　摩托车开始加速，从伫立不动的两人身边驶过。
+
+<CLEAR><BACKGROUND SRC="3100p2">//# 3100p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在擦身而过的一瞬间，那翡翠色的双瞳再次向我瞥了一眼。
+<se id="2" src="僪僇捠傝偡偓傞" mode="normal" loop="off">
+
+　她的目光中燃烧着憎恶，充满了冻结般的杀气。
+
+　为什么，会是那样的目光？
+　为什么，会在这里？
+
+　不，比起这些……真的，是你吗？
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　你还活着吗？
+　凯尔……
+
+<A HREF="3140.txt" OPERATOR="">//~ 3140

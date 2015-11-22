@@ -1,0 +1,135 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left mio_house3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="mio_house3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　两个人无言地朝美绪的家走去。
+
+　我将早上便要从东京出发、逃离日本的事告诉了美绪。
+　美绪什么都没有说，只是点了点头。
+
+　我们的时间不多了，
+  可细想起来，想要说的话、想要听的事，可谓是无穷无尽。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　到家以后，美绪借我使用了浴室。
+　伴随着热水流过皮肤，身体内部残留的肾上腺素渐渐消失了，之前的记忆开始变得淡薄。
+
+　硝烟与血的味道被洗掉了……除了渗进身体的那部分……
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　接着美绪也进入了浴室，而我则在她的房间里等待。
+
+　和{ヒロイン}一起生活的时候，我一直分不清收拾的整整齐齐的房间和实用性房间有怎样的区别。
+　看到美绪的房间以后，我终于明白了。
+
+　布娃娃与靠垫、能够放松心灵的小玩具……与实用性没有丝毫关系。
+　自己深深地体会到……这才是女孩子的房间啊。
+
+　楼下的淋浴声消失了……
+　不一会，穿着睡衣的美绪走了进来。
+
+<CLEAR><BACKGROUND SRC="3995p4">//# 3995p4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　洗去了泪痕的脸，像婴儿一样水嫩光滑。
+
+　湿润的头发散发着洗发液的香味。
+　第一次见面时，美绪给我留下的就是这样纯净、整洁的印象。
+
+　看到这样的美绪，我终于安下心来。
+　仿佛什么都没有发生一样，她又变回了原来的那个美绪。
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　接着，我们开始了彻夜长谈。
+
+　今天之前没能说出的话。
+  明天之后再没有机会说出的话。
+  为了不留下遗憾，我们尽可能多地交谈着。
+
+　美绪谈起了她的家庭。
+　谈起了一个人将她带大的母亲。
+　谈起了从她小时候起便远远地守护着、帮助着她的不可思议的“叔父”。
+
+　从美绪那里听到的梧桐大辅，与自己在洛杉矶遇到的那个无畏的恶徒相去甚远。
+　究竟哪一个才是他的真正面目，现在已经无从得知了。
+
+　即便如此，美绪还是相信梧桐大辅是一位和善的“叔父”并以他为荣。
+　而且，有人曾对他做出了保证。
+
+　接着我们谈起了美绪的学业。
+　将来的梦想。
+　有些模糊但依旧能够看到的前路。
+　对即将到来的考试的不安。
+
+　我们谈起了早苗。
+　谈起了她过去养的猫。
+　谈起了她的童年。
+
+　美绪一件接一件地说着，仿佛要将人生的全部都展现在我的面前。
+
+　接着，美绪开始听我说起涂满鲜血的异国记忆。
+
+　{ヒロイン}、凯尔、克劳蒂娅，还有Inferno，
+　我将一切都告诉了美绪。
+
+　第一次杀人。
+　遭到出卖、伤害。
+　伤害别人、背叛组织。
+
+　没有丝毫的隐瞒，我将自己肮脏、无情的过去对美绪和盘托出。
+
+　美绪虽然紧皱着眉头，眼中还时不时蓄起泪水，但还是坚持着听我坦白。
+
+<CLEAR>
+<BACKGROUND SRC="旤弿偵偡偑傞儗僀僕">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　伴随着言语的倾诉，记忆中的痛苦与绝望渐渐从心底涌出。
+  美绪温柔地抱着我，任我在她趴在她的腿上尽情哭泣。
+
+　不管是什么都得到了美绪的原谅。
+　内心的所有伤口都被美绪治愈了。
+
+//<bgm src="daylight" mode="fadein" old="fadeout" time="10" loop="on">//$ daylight.swa 0 255
+
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left mio_room0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="mio_room0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　清晨5点……
+　街道还没有从睡梦中醒来。
+
+　在透过窗帘溜进房间的微光中，我悄悄地穿起衣服。
+　某处传来了小鸟的叫声，不过这并没有打扰到美绪的睡眠。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　面对熟睡的美绪，自己就这样不辞而别的话，
+  她会生气吗，会叹息吗。
+
+<A HREF="3997.txt" OPERATOR="">//~ 3997

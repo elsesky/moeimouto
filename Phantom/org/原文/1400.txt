@@ -1,0 +1,222 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こいつは……」
+
+<BOX type="2">//%w
+　手渡された写真を見た途端、
+　平時から冷静沈着を心がけている
+　志賀も、隠しきれぬ怒気を
+　あらわにしていた。
+
+<clear>
+<BACKGROUND SRC="写真">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+一枚目は、
+室戸が死んだラスベガスのホテル。
+
+　問題の部屋を、おそらくは隣のホテルから望遠レンズで盗撮したものだろう。粒子は粗いが、情景は鮮明に捉えられている。
+
+　血に濡れた剃刀を手に、室戸の死体を改めている男が、その風貌まで見て取れた。
+
+　もう一枚は、これも望遠レンズによる写真だった。
+　さっきと同じ男が、ビルの屋上に仁王立ちになって、ライフルを構えている。
+
+　写真の縁にはマーカーペンで補足の書き込みがあった。ビルはLAタイムズ編集局。男が狙っている方角は南南西。……ボナベンチャーホテルの方角だ。
+
+<clear>
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%w
+　写真を持ち込んだ当人は、若きヤクザの参謀の怒りに臆することもなく、泰然とソファに寛いでいた。
+
+　志賀がLA暗黒街のオブザーバーとして雇ったドイツ人、ギュゼッペである。
+
+事の顛末に一抹の疑念を懐いていた志賀は、このロスの水先案内人に、引き続き情報収拾をさせていた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「この男に、見覚えが？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ……」
+
+<BOX type="2">//%w
+　間違いない。
+　クロウディア＝マッキェネンが
+　傍に侍らせている小僧だ。
+
+<BOX type="5">//%sR
+「しかし、
+　こんなものが一体どこから、
+　あんたの手に？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「『ブラディーズ』の崩壊によって
+　流出した情報です」
+
+「どうやら死んだアイザック＝ワイズメル氏は、腹心の密偵に、この男を監視させていたらしい」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それなら……」
+
+「これだけのネタを
+掴んでおきながら、何で
+アイザックは動かなかったんだ？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「慎重を期したのでしょうな」
+
+「なぜミズ＝マッキェネンの部下が
+あなた方ヤクザを
+襲っているのか……」
+
+「その因果関係が
+　見えなかったのでしょう」
+
+「私にも、驚きです」
+
+「たしかミズ＝マッキェネンは、
+あなた方をインフェルノに加盟させようと尽力していた筈ですが……」
+
+「なにか恨みを買う
+　心当たりでも？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あんたが知る必要はない」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「左様で」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しばらく、席を外してくれ。
+　ギュゼッペ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「かしこまりました。
+　ではまた、後ほど……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　ギュゼッペの退出とともに、
+志賀は傍に控えていた舎弟の一人を呼ばわった。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「すぐ若頭に連絡をつけろ。
+　大至急だ」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="phone" mode="normal" time="" loop="off" effect="">//!se phone
+　夕飯を食べ終え、寛いでいるところに、リズィから電話があった。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+<BOX type="5">//%sR
+『なぁファントム、
+　今すぐ動けるか？』
+
+<BOX type="0">//%w
+「どうしたってんだ？　急に」
+
+<BOX type="5">//%sR
+『ブラディーズの残党で、
+　妙な動きをしてる奴らがいてな』
+
+『こっそり後を尾けたいんだが、
+　なにぶん、一人じゃ不安でね』
+
+<BOX type="0">//%w
+　なるほど。
+
+<BOX type="5">//%sR
+『あまり周りを騒がせず
+　片ァ着けたいんだ。
+　一肌脱いじゃくれないか？』
+
+<BOX type="0">//%w
+「わかった。どこに行けばいい？」
+
+<BOX type="5">//%sR
+『ロサンゼルス＝ハーバーで
+　落ち合おう。20時に』
+
+<BOX type="0">//%w
+「ああ」
+
+//※銃選択
+<CLEAR>
+<BACKGROUND SRC="銃\拳銃選択back">
+
+// 銃アニメーション TYPE="97" FILEで指定するのは、銃選択にマウスオーバーしていないときに表示する画像
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="34" y="396" TYPE="97" FILE="cg\銃\3D無し.jpg">
+
+// 銃説明 TYPE="98" FILEで指定するのは、銃選択にマウスオーバーしていないときに表示する画像
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="276" y="396" TYPE="98" FILE="cg\銃\説明無し.png">
+
+// 銃選択　TYPE="99" FILEで指定するのは、"通常表示画像 ; マウスオーバー時画像 ; マウスオーバーエリア画像 ; 銃説明テキスト画像 ; 銃アニメーション画像 × 24枚"となってます。
+// マテバ
+<CHOICE HREF="1400MM.txt"   x="127" y="8" TYPE="99" FILE="cg\銃\マテバ.png;cg\銃\マテバ.png;cg\銃\マテバa.png;cg\銃\マテバs.png;cg\銃\銃回転_連番\マテバ連番\マテバ_00.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_01.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_02.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_03.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_04.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_05.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_06.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_07.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_08.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_09.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_10.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_11.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_12.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_13.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_14.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_15.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_16.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_17.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_18.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_19.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_20.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_21.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_22.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_23.jpg" OPERATOR="M2006=1">
+// デザートイーグル
+<CHOICE HREF="1400Ie.txt"   x="235" y="13" TYPE="99" FILE="cg\銃\デザートイーグル.png;cg\銃\デザートイーグル.png;cg\銃\デザートイーグルa.png;cg\銃\デザートイーグルs.png;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_00.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_01.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_02.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_03.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_04.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_05.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_06.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_07.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_08.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_09.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_10.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_11.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_12.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_13.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_14.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_15.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_16.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_17.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_18.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_19.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_20.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_21.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_22.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_23.jpg" OPERATOR="50AE=1">
+// シグ
+<CHOICE HREF="1400S6.txt"   x="485" y="30" TYPE="99" FILE="cg\銃\シグ.png;cg\銃\シグ.png;cg\銃\シグa.png;cg\銃\シグs.png;cg\銃\銃回転_連番\シグ連番\シグ_00.jpg;cg\銃\銃回転_連番\シグ連番\シグ_01.jpg;cg\銃\銃回転_連番\シグ連番\シグ_02.jpg;cg\銃\銃回転_連番\シグ連番\シグ_03.jpg;cg\銃\銃回転_連番\シグ連番\シグ_04.jpg;cg\銃\銃回転_連番\シグ連番\シグ_05.jpg;cg\銃\銃回転_連番\シグ連番\シグ_06.jpg;cg\銃\銃回転_連番\シグ連番\シグ_07.jpg;cg\銃\銃回転_連番\シグ連番\シグ_08.jpg;cg\銃\銃回転_連番\シグ連番\シグ_09.jpg;cg\銃\銃回転_連番\シグ連番\シグ_10.jpg;cg\銃\銃回転_連番\シグ連番\シグ_11.jpg;cg\銃\銃回転_連番\シグ連番\シグ_12.jpg;cg\銃\銃回転_連番\シグ連番\シグ_13.jpg;cg\銃\銃回転_連番\シグ連番\シグ_14.jpg;cg\銃\銃回転_連番\シグ連番\シグ_15.jpg;cg\銃\銃回転_連番\シグ連番\シグ_16.jpg;cg\銃\銃回転_連番\シグ連番\シグ_17.jpg;cg\銃\銃回転_連番\シグ連番\シグ_18.jpg;cg\銃\銃回転_連番\シグ連番\シグ_19.jpg;cg\銃\銃回転_連番\シグ連番\シグ_20.jpg;cg\銃\銃回転_連番\シグ連番\シグ_21.jpg;cg\銃\銃回転_連番\シグ連番\シグ_22.jpg;cg\銃\銃回転_連番\シグ連番\シグ_23.jpg" OPERATOR="P226=1">
+// ベレッタ
+<CHOICE HREF="1400BS.txt"   x="0" y="139" TYPE="99" FILE="cg\銃\ベレッタ.png;cg\銃\ベレッタ.png;cg\銃\ベレッタa.png;cg\銃\ベレッタs.png;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_00.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_01.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_02.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_03.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_04.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_05.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_06.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_07.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_08.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_09.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_10.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_11.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_12.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_13.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_14.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_15.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_16.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_17.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_18.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_19.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_20.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_21.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_22.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_23.jpg" OPERATOR="M92F=1">
+// パイソン
+<CHOICE HREF="1400Cm.txt"   x="218" y="151" TYPE="99" FILE="cg\銃\パイソン.png;cg\銃\パイソン.png;cg\銃\パイソンa.png;cg\銃\パイソンs.png;cg\銃\銃回転_連番\パイソン連番\パイソン_00.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_01.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_02.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_03.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_04.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_05.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_06.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_07.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_08.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_09.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_10.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_11.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_12.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_13.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_14.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_15.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_16.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_17.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_18.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_19.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_20.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_21.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_22.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_23.jpg" OPERATOR="pyson=1">
+// M29
+<CHOICE HREF="1400Sm.txt"   x="439" y="81" TYPE="99" FILE="cg\銃\M29.png;cg\銃\M29.png;cg\銃\M29a.png;cg\銃\M29s.png;cg\銃\銃回転_連番\M29連番\M29_00.jpg;cg\銃\銃回転_連番\M29連番\M29_01.jpg;cg\銃\銃回転_連番\M29連番\M29_02.jpg;cg\銃\銃回転_連番\M29連番\M29_03.jpg;cg\銃\銃回転_連番\M29連番\M29_04.jpg;cg\銃\銃回転_連番\M29連番\M29_05.jpg;cg\銃\銃回転_連番\M29連番\M29_06.jpg;cg\銃\銃回転_連番\M29連番\M29_07.jpg;cg\銃\銃回転_連番\M29連番\M29_08.jpg;cg\銃\銃回転_連番\M29連番\M29_09.jpg;cg\銃\銃回転_連番\M29連番\M29_10.jpg;cg\銃\銃回転_連番\M29連番\M29_11.jpg;cg\銃\銃回転_連番\M29連番\M29_12.jpg;cg\銃\銃回転_連番\M29連番\M29_13.jpg;cg\銃\銃回転_連番\M29連番\M29_14.jpg;cg\銃\銃回転_連番\M29連番\M29_15.jpg;cg\銃\銃回転_連番\M29連番\M29_16.jpg;cg\銃\銃回転_連番\M29連番\M29_17.jpg;cg\銃\銃回転_連番\M29連番\M29_18.jpg;cg\銃\銃回転_連番\M29連番\M29_19.jpg;cg\銃\銃回転_連番\M29連番\M29_20.jpg;cg\銃\銃回転_連番\M29連番\M29_21.jpg;cg\銃\銃回転_連番\M29連番\M29_22.jpg;cg\銃\銃回転_連番\M29連番\M29_23.jpg" OPERATOR="SWM29=1">
+// H_K USP
+<CHOICE HREF="1400HP.txt"   x="206" y="238" TYPE="99" FILE="cg\銃\h_k.png;cg\銃\h_k.png;cg\銃\h_ka.png;cg\銃\h_ks.png;cg\銃\銃回転_連番\USP連番\USP_00.jpg;cg\銃\銃回転_連番\USP連番\USP_01.jpg;cg\銃\銃回転_連番\USP連番\USP_02.jpg;cg\銃\銃回転_連番\USP連番\USP_03.jpg;cg\銃\銃回転_連番\USP連番\USP_04.jpg;cg\銃\銃回転_連番\USP連番\USP_05.jpg;cg\銃\銃回転_連番\USP連番\USP_06.jpg;cg\銃\銃回転_連番\USP連番\USP_07.jpg;cg\銃\銃回転_連番\USP連番\USP_08.jpg;cg\銃\銃回転_連番\USP連番\USP_09.jpg;cg\銃\銃回転_連番\USP連番\USP_10.jpg;cg\銃\銃回転_連番\USP連番\USP_11.jpg;cg\銃\銃回転_連番\USP連番\USP_12.jpg;cg\銃\銃回転_連番\USP連番\USP_13.jpg;cg\銃\銃回転_連番\USP連番\USP_14.jpg;cg\銃\銃回転_連番\USP連番\USP_15.jpg;cg\銃\銃回転_連番\USP連番\USP_16.jpg;cg\銃\銃回転_連番\USP連番\USP_17.jpg;cg\銃\銃回転_連番\USP連番\USP_18.jpg;cg\銃\銃回転_連番\USP連番\USP_19.jpg;cg\銃\銃回転_連番\USP連番\USP_20.jpg;cg\銃\銃回転_連番\USP連番\USP_21.jpg;cg\銃\銃回転_連番\USP連番\USP_22.jpg;cg\銃\銃回転_連番\USP連番\USP_23.jpg" OPERATOR="hkUSP=1">
+// ガバメント
+<CHOICE HREF="1400CV.txt"   x="476" y="206" TYPE="99" FILE="cg\銃\ガバメント.png;cg\銃\ガバメント.png;cg\銃\ガバメントa.png;cg\銃\ガバメントs.png;cg\銃\銃回転_連番\ガバメント連番\ガバメント_00.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_01.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_02.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_03.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_04.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_05.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_06.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_07.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_08.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_09.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_10.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_11.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_12.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_13.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_14.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_15.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_16.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_17.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_18.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_19.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_20.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_21.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_22.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_23.jpg" OPERATOR="M1911=1">
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+<A HREF="0010.txt" OPERATOR="">//~ 0010

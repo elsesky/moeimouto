@@ -1,0 +1,190 @@
+<CLEAR><BACKGROUND SRC="room1">//# room1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// sice 19 crou2 18
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# sice 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　この部屋で、最初に目を覚ましたときにいた外人たち……
+　彼らがきっと、すべてを仕組んだのだろう。
+
+　サイス＝マスター、組織“インフェルノ”の一員……
+　アインは、そんなことを言っていた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 18  factory2 1
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 18  factory2 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="factory2">//# dummy 19 dummy 18  factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+“インフェルノ”
+　……いったい、連中は何者なんだ？
+　たぶん、まともな集団ではない。
+　アインのような女の子を殺し屋として使っているのだから。
+
+　記憶を奪われる前は、
+　その“インフェルノ”から命を狙われていたのだという。
+『見てはならないものを見た』……何のことかは　わからない。
+　彼らが関わった犯罪の現場とか、そういった類のものだろうか。
+
+　つまり……目撃者の口封じ、ってやつだろう。
+　すべては、そのインフェルノという組織の都合なのだ。
+
+　だから殺さない代わりに、記憶を捨てて殺し屋になれという。
+
+　……勝手な話だ。改めて怒りが沸き上がる。
+　人の命を、人生を、何だと思っている？
+
+　奴らの言いなりにはなりたくない。
+　だが今、ここで逆らえば……虫けらのように殺されるだけだろう。
+　結局、奴らにいいように弄ばれたまま、終わることになる。
+
+　それだけは、厭だ。
+
+　生き抜いてやる、そう誓った。
+　この怒りを胸に懐いたまま、生き延びる。
+　……それだけが今、奴らに示せる最大の抵抗なんだ。
+
+　生きていれば、きっと何かのチャンスがある。
+　だから、今は耐えよう。組織“インフェルノ”に従おう。
+
+　いつかは、すべてを取り返せるかもしれない。
+　奪われた記憶、自分の過去、そして、自分の本当の名前……
+
+　それまでは、負けない。
+　必ず、生き残ってみせる……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left field wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="field">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夜明けとともに、アインは車で帰ってきた。
+
+　ダークスーツの男が二人、アインと一緒に車を降り、
+　トランクから色々な荷物を下ろしはじめる。
+　多分これから、この廃工場で生活するために必要な機材なんだろう。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# factory 1 elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……決心がついたようね」
+
+<BOX type="0">//%w
+　静かな眼差しで見つめた後で、アインが呟いた。
+
+「ああ」
+
+　アインの視線を真正面から受け止めながら、そう答える。
+
+「僕の名はツヴァイ。これからは、あんた達に協力する。
+　……これでいいんだろ？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうよ」
+
+<BOX type="0">//%w
+　やはりアインは無表情だった。
+　もし拒否していても、その表情は変わらなかっただろう。
+　眉ひとつ動かさず、銃かナイフを抜いたに違いない。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃあ、これに着替えて」
+
+<BOX type="0">//%w
+　アインに渡されたのは、ランニングシャツと、
+　ごわついた布地の野戦服のパンツだった。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今日から四六時中、あなたは
+　わたしと一緒よ。指示にはすべて
+　従うこと。いいわね」
+
+<BOX type="0">//%w
+「……ひとつだけ、訊きたい」
+
+　応じてくれるとは思わなかったが、アインは無言で頷いた。
+
+「君に訓練されて、君らの組織の一員になる。それはいい」
+
+「でもその後は？　用が済んだら殺す気じゃないのか？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたが無能と判断されれば、
+　それもあり得るわ」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「常にインフェルノにとって
+　有益な人材であり続けることね。
+　そうすれば生き残れるわ」
+
+<BOX type="0">//%w
+　そんなのは答えになってない。
+
+「はぐらかさないでくれよ。
+　……結局、最後には僕をどうするつもりなんだ？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　アインは答えなかった。ただ、深く冷たい眼差しだけを向けてきた。
+
+<BOX type="5">//%sR
+「……まず最初に、
+　教えておくわね」
+
+「殺し屋になるなら、今、
+　この瞬間を生き抜くことだけを
+　考えなさい」
+
+「それが最初で最後の、
+　たったひとつの心得よ」
+
+「昨日のことは忘れ、明日のことは諦めて、ただ今日のためだけに全力を尽くしなさい」
+
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「生き残るっていうのは、
+　そういう事よ」
+
+<BOX type="0">//%w
+　アインの言葉には、ただの詭弁とは思えない重みがあった。
+
+　いまの返事だって、質問の答えになっているわけじゃない。
+　だが……たぶんアインは、それ以上の返答を持ち合わせていない。
+
+　この先、どういう事になるのか。
+　何が待ち受けているのか。
+
+　たぶんアインも、知らないんだろう。
+　知るつもりさえないんだろう。
+　……それが殺し屋の心得だと、いま彼女は話したばかりだ。
+
+「……わかったよ」
+
+　短くそう答えて、渡された服に袖を通した。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃあ、始めましょう」
+
+<CALC WORKNAME="0030b" OPERATOR="1">//
+<A HREF="0040.txt" OPERATOR="">//~ 0040

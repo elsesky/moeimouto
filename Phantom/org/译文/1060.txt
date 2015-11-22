@@ -1,0 +1,453 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left burger wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　按照凯尔的要求，我们来到一家最近的汉堡店里吃晚饭。
+
+「来两人份的」
+
+　我没有零钱，于是给了凯尔50美元的钞票。
+
+「我去找座位了」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「OK。你想吃什么？」
+
+<BOX type="0">//%w
+「交给你了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　看着凯尔小跑着走到柜台前，
+  趁这个间隙，我用手机打电话向莉兹汇报。
+
+//> left burger wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+『那么，那个小姑娘的话可信吗？』
+
+<BOX type="0">//%w
+「看样子不像是说谎。好象是真的想要报仇」
+
+<BOX type="4">//%sL
+『声泪俱下的求你了吧』
+
+<BOX type="0">//%w
+　莉兹的语气带着些许无奈。
+
+<BOX type="4">//%sL
+『Zwei，你怎么也这么自作主张啊，嗯？』
+
+<BOX type="0">//%w
+「不要这么说吧……」
+
+「不管怎样，如果不把杀害黑社会成员的家伙找出来，这件事是不会结束的吧？」
+
+「找到凶手的话，也就等于是替茱蒂报仇了……」
+
+<BOX type="4">//%sL
+『哎呀哎呀，真是个冠冕堂皇的理由啊』
+
+<BOX type="0">//%w
+「……我并不是自作主张地乱来」
+
+<BOX type="4">//%sL
+『我知道的啊，小子』
+
+<BOX type="0">//%w
+　莉兹的声音中带着笑声，真是个坏心眼的女人。
+
+<BOX type="4">//%sL
+『如果是维斯梅尔，最多会给你1分，Zwei』
+
+『他们好像还没有任何收获，快要焦头烂额了』
+
+<BOX type="0">//%w
+「如果我掌握了什么情况，会再跟你联系。克劳蒂娅那里……」
+
+<BOX type="4">//%sL
+『嗯，我会跟她说的』
+
+<BOX type="0">//%w
+　说完，我切断了电话。
+  凯尔也差不多该回来了。
+
+　……想到这里，我才发现已经来不及了。
+
+　柜台那里，店员正在跟凯尔争执着什么。
+  是发生纠纷了吗？
+
+　凯尔将手中的50美元纸币给店员看了一下后，店员才不情愿地开始拿餐。
+
+　店员是把她当成吃霸王餐的流浪儿了吗？
+　她的那个样子也不是没有可能……
+
+　我这样想着的时候，凯尔朝我一个劲地招手。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我自己拿不了，快来帮忙」
+
+<BOX type="0">//%w
+　说完她递给我一个托盘，上面堆着一打的汉堡。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「饮料叫的可乐，可以吧？」
+
+<BOX type="0">//%w
+　凯尔双手抱着的，是两个特大号纸杯以及半打以上的汉堡。
+
+「……你买了几个？」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「20个。你不是说要两人份的吗？」
+
+<BOX type="0">//%w
+　店员不情愿也不是没有道理。
+
+//> left burger wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我看着面前堆得像金字塔一样的纸包，无言地开始吃起汉堡来，结果刚到第2个就吃不下了。
+
+//<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+//<WIPE EFFECT="fade" TIME="5">
+<clear>
+<BACKGROUND SRC="僉儍儖僴儞僶乕僈乕">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……你没有食欲吗？」
+
+<BOX type="0">//%w
+　凯尔正在吃第4个汉堡。
+
+「不好意思，我已经饱了」
+
+//<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那么剩下的都让我吃掉可以吧!」
+
+<BOX type="0">//%w
+　从凯尔的笑脸来看，她真的是很开心。
+
+「你吃的下吗？」
+
+//<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是我今天第一次吃东西」
+
+「从前我就有这样一个梦想。面前堆着小山一样的汉堡都是我一个人的」
+
+<BOX type="0">//%w
+用50美元作为情报费，实在是太便宜了。
+不过我更担心这个孩子的健康，而且不用说，店里的人都在用奇怪的眼神看着我们。
+
+<clear>
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「那么，我们继续刚才的话题吧……」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯？哦」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我正想着‘该怎么办呢’」
+
+<BOX type="0">//%w
+「……？」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「刚才的状况你也看到了吧？对手可是枪法很好的家伙哦」
+
+「有那样的家伙作对手，{名}你能做些什么呢？」
+
+<BOX type="0">//%w
+「你想说什么？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这个，所以说嘛，嗯……」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「说实话，{名}你很强吗？」
+
+<BOX type="0">//%w
+「你是指我的本事？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对，你会功夫吗？」
+
+<BOX type="0">//%w
+「……不会」
+
+<BOX type="5">//%sR
+「那，合气道呢？」
+
+（注：合气道是一种根源于日本大东流合气柔术的近代武术，讲究切入对手死角，破坏对手重心，以关节技及摔技为主）
+
+<BOX type="0">//%w
+「没听说过」
+
+　虽然我也有过需要空手完成的任务，不过与这种杂技是没有关系的。
+  武术与杀人术，二者之间是有着天与地一般的差别的。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么会……」
+
+<BOX type="0">//%w
+　凯尔愣了一下，深深地叹了一口气。
+
+<BOX type="5">//%sR
+「我还是第一次见到不知道合气道的日本人呢」
+
+<BOX type="0">//%w
+「……你都见过什么样的日本人？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「史蒂文·席格和JET李……」
+
+（注：史蒂文·席格，美国演员，从小喜爱武术，17岁前往日本研习日本柔道等武术……JET李，即李连杰，对于他各位应该不陌生……话说在凯尔眼里这两位怎么成了日本人了）
+
+<BOX type="0">//%w
+　这些都是什么人啊？
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔一边咬着汉堡，一边向我投来质疑的目光。
+
+<BOX type="5">//%sR
+「我说啊，{名}，你真的能为朱蒂报仇吗？」
+
+<BOX type="0">//%w
+「信不过我吗？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　看样子我是彻底被黏上了。
+  要是之前自己的表情再凶狠一点，估计就不会这样了……
+
+　平日里自己煞费苦心地扮演着普通人，想不到居然会受不了这个小女孩的视线。
+  想到这里，我不禁苦笑起来。
+
+「这你就不用担心了」
+
+　最后，我决定对她摆出一副笑脸。
+
+「如果知道了敌人是谁，我会拜托我的朋友去动手的」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎」
+
+「你有那么厉害的朋友吗？」
+
+<BOX type="0">//%w
+「看起来不像吗？」
+
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+「其实我是个黑市商人哦」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真的？」
+
+<BOX type="0">//%w
+　凯尔果然还是有些怀疑。
+  毕竟，我的样子和街上常见的那些商人差的太远了。
+
+「看起来当然不像普通商人啦，不然生意就做不成了」
+
+「不光洛杉矶南部地区，从加州大学洛杉矶分校一直到好莱坞，都是我的活动范围」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔」
+
+「那，{名}你很有钱吗？」
+
+<BOX type="0">//%w
+「……我倒是很想变得有钱」
+
+　开着高尔夫的我在这一点上实在是没法掩饰。
+
+<BOX type="5">//%sR
+「不过啊，黑市上的交易，不是能赚到很多钱吗？」
+
+<BOX type="0">//%w
+「这种机会偶尔才会有哦」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔」
+
+<BOX type="0">//%w
+　像在考虑着什么一样，凯尔望向窗外。
+
+「只要知道凶手的长相和衣着打扮，我的那些朋友们就能把那家伙找出来杀掉」
+
+「所以啊，凯尔，告诉我那个凶手的事吧」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　……她还在打算着什么吗？
+
+<BOX type="5">//%sR
+「可是，我想亲眼看看」
+
+「我想亲眼目睹为茱蒂报仇的那一刻」
+
+<BOX type="0">//%w
+　出乎我的意料，凯尔说出了这样的话。
+
+「不行」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为什么？」
+
+<BOX type="0">//%w
+「这是理所当然的吧！这不是外人能涉足的世界」
+
+<BOX type="5">//%sR
+「那，让我见见你的朋友吧」
+
+<BOX type="0">//%w
+「不行!」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔摆出一副顽固的表情。
+
+　……坏了。我说的太多了，明明只要问她一些我想知道的事情就好了。
+
+「那我去拜托他试试吧，说不定……」
+
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真的吗！？」
+
+「那，我们就快点去见你的朋友吧!」
+
+<BOX type="0">//%w
+「等一下，冷静点!」
+
+「你见到他之后要怎么做呢？」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我也要拜托他，请他带我去」
+
+<BOX type="0">//%w
+「……我说啊」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你的朋友应该讨厌和一个不认识的人同行吧？」
+
+「所以你先带我见他一面，取得他的信任吧」
+
+<BOX type="0">//%w
+　看来谈话陷入了僵局。
+
+「……那个家伙很忙，不是这么快就能联系上的。」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是这样吗？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那凶手的事就等见了你的朋友再说吧」
+
+<BOX type="0">//%w
+「……」
+
+　我真是无计可施了。
+
+　总之，她如果不是亲眼看到，是什么都不会相信的吧。
+
+　不过，对于是否要继续满足她的条件，我倒是产生了疑问。
+
+　自己花费了这么多的时间，可是她的情报究竟有听的价值吗？
+
+　即使是在场的目击证人，也未必能够提供有价值的情报。
+
+身旁的人因流弹而死。
+在这样危险的状况下，她却还能发挥出良好的观察力，这一点有些可疑。
+
+　……说不定，这个孩子只是为了混一顿晚饭。
+　我开始有些生疑了。
+
+　要怎么做呢？
+
+<A HREF="#スルー" OPERATOR="1022a=1">
+<A HREF="#スルー" OPERATOR="0350=1">
+<A HREF="1070.txt" OPERATOR="">//~ 1070
+<MARKER NAME="#スルー">
+<CHOICE HREF="1060b.txt" TEXT="＊对凯尔不再抱希望" OPERATOR=""></A>//{ ＊キャルには見切りをつける 1060b ＊もう少し粘る 1070
+<CHOICE HREF="1070.txt" TEXT="＊再陪她一会" OPERATOR=""></A>//{ ＊キャルには見切りをつける 1060b ＊もう少し粘る 1070

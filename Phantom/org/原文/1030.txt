@@ -1,0 +1,48 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一風変わった任務のために呼び出されたのは、その週末のことだった。
+
+　25kgのコカインと、現金500万ドルの取り引き。
+　普段なら、殺し専門の自分など伺い知らぬ仕事だが、
+　今回に限って駆り出されたのは、
+　クロウディア自らが、取り引きに臨むからである。
+
+「大丈夫なのか？　手勢もなしで」
+
+　驚いたのは、こちら側から出向く人数が、
+　クロウディアと二人きりと知らされたことだ。
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お互いの信頼を固めるのが目的の取り引きだもの」
+
+「物々しい人数を
+　引きつれていったら、
+　相手の心証を損なうでしょ？」
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなた一人で充分よ、
+　{名}」
+
+<BOX type="0">//%w
+「……相手は？」
+
+<BOX type="5">//%sR
+「あなたの同郷の皆さんよ」
+
+<BOX type="0">//%w
+　そうか。例のヤクザと……
+　とうとう、本格的な交渉を始めるのか。
+
+<A HREF="1040.txt" OPERATOR="">//~ 1110

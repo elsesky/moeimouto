@@ -1,0 +1,63 @@
+“むしろ好都合なのよ、藤枝さんの気持ち”
+
+　脳裏を過ぎる{ヒロイン}の言葉に、
+　苦々しいむかつきが胸を満たす。
+
+　済まない……そう胸の内では呟きながらも、
+　意を決して、用意してあった台詞を口にした。
+
+「俺なんかで、良かったら……ぜひ」
+
+　下司野郎、最低の下司野郎……
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　……なぜか美緒は魂を抜かれたような表情のまま、
+　無言で宙を見つめていた。
+
+「……どうかした？」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え、え？　いえその……」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ごめんなさい、私……
+　断られるとばっかり、
+　思ってたんで、その……」
+
+「混乱、しちゃって、あの……」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ありがとうございます」
+
+「嬉しいです。すごく……」
+
+<BOX type="0">//%w
+　まるで、見上げた空の春霞のように、
+　美緒の笑顔は明るく、柔らかく、
+
+　……それを踏みにじった自分の卑劣さを、
+　痛いほど思い知らせるものだった。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　そのとき、はっきりと自覚した。
+　彼女の笑顔を欺いた今この瞬間に、
+
+　今日まで、この癒しの日々を愛でてきた、
+　その気持ちまでをも裏切ってしまったのだと。
+
+　この無垢な平和の中に、
+　自ら進んで、血生臭い世界の影を持ち込んでしまったのだから。
+
+<CALC WORKNAME="3080a" OPERATOR="1">//
+<A HREF="3100.txt" OPERATOR="">//~ 3100

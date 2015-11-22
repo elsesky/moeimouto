@@ -1,0 +1,273 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="sea" mode="fadein" old="fadeout" time="10" loop="on">//$ sea.swa 0 255
+<BACKGROUND SRC="bay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　就像因迷失方向而停在原地，集装箱群整齐地耸立着。
+
+　被风吹着的夜雾流过箱间的空隙，
+  就像是幽灵的队伍一样。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left evening2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="evening2">//
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　昨天黎明，在洛杉矶搜索赛斯的行动组发现了线索。
+
+　不出所料，有消息称赛斯打算经海路出国，
+　已经与他的走私商朋友碰过头。
+
+　不等详细情报入手，
+  追击小队便奔至洛杉矶港口，在那里张网以待。
+
+<CLEAR><BACKGROUND SRC="bay2">//# bay2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="0">//%w
+　不过，详细的情报是45分钟前传过来的。
+
+　此时距离赛斯的船到达的时间——清晨5点，
+  只有不到1个小时了。
+
+　组织派遣的这只部队共12人，莉兹任队长。
+  全都配备有机关枪。
+
+　而作为队伍的第13个人的我，却什么装备都没有。
+
+<BOX type="0">//%w
+「你不会是想让我空手去吧」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我嘲讽似地对莉兹说道，
+  她立刻用杀人的眼神盯着我，最后总算递给我一把手枪。
+
+<CLEAR><BACKGROUND SRC="grock_19_000">//# dummy 20 grock_19_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……格洛克19。
+  这是把体型不大的9毫米口径工程塑料手枪。
+  性能方面没什么突出的。
+  （注：即GLOCK19，产自奥地利格洛克有限公司）
+
+　可是，我的手刚要拉上枪栓，
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　太阳穴便被一个硬硬的东西抵住了。
+
+<CLEAR><BACKGROUND SRC="bay2">//# rizy^3 20 dummy 21 bay2 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「虽然克劳蒂娅让我把你带到这里来……」
+
+「不过说实话，我到现在还不明白为什么」
+
+「真不知道该不该给你枪」
+
+<BOX type="0">//%w
+「确实如此」
+
+　我有点挑衅地冷笑道。
+
+「枪膛中1发，弹夹中15发……
+  足够把这里所有的人都杀死了」
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹更加用力地用枪抵住我的头皮。
+  我一边顶住太阳穴上枪口的压力，一边故意粗暴地拉动枪栓。
+
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="僌儘僢僋偺僗儔僀僪堷偔">//# dummy 20 僌儘僢僌 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　枪膛里已经装填好的子弹，飞向了空中，骨碌骨碌打着转，
+  划出了一道黄铜色的弧线。
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="3" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　我迎着莉兹威慑般的视线，
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　将枪栓复位。
+<se id="3" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　2次、3次……伴随着尖锐光滑的金属声，
+<se id="3" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　弹出膛的子弹一个个地滚落到了柏油马路上。
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="3" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　在弹完第15发后，
+  我用拇指将保险栓扣上，停止了手上的动作。
+
+「还剩下……1发」
+
+  拉开枪栓让她确认后，我打开了保险。
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se ing
+<CLEAR><BACKGROUND SRC="僌儘僢僌">//# dummy 20 僌儘僢僌 1
+<WIPE EFFECT="fade" TIME="0">
+　将最后一发子弹送入枪膛……
+　格洛克变成了一把单发的凶器。
+
+<CLEAR><BACKGROUND SRC="bay2">//# rizy^3 20 bay2 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 bay2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……你想干什么？」
+
+<BOX type="0">//%w
+「你觉得一发子弹还会对你们构成威胁吗？」
+
+「不过，杀死赛斯一个人却已经足够了」
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「很有胆量啊，小子」
+
+<BOX type="0">//%w
+「总比被你从背后打死要好」
+
+//> left bay7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　恢复了平静的集装箱集配所，没有一丝人的气息。
+　
+  大家知道这次战斗的残酷性，
+  默不作声地一个跟着一个步行前进。
+
+　前来接应的游艇，
+  应该在这个集配所对面的停船场里……
+
+　根据时间，赛斯应该出现了，可是这里没有发现他的踪迹。
+  有些不对劲。
+　
+　难道说，船早已经到了。
+
+　与赛斯接触的欧洲黑手党……真的只是个普通的走私商吗？
+
+「对方一点都没有警备，不是很奇怪吗？」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「少罗嗦。还用不着你来担心」
+
+「你以为我为什么只召集这么几个人……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="06_02a" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　没等莉兹说完，枪声就将夜幕撕裂。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　走在最前面的两个人，
+  立刻被打得血肉模糊，倒在了柏油路上。
+
+<se id="1" src="攇巭応廵寕" mode="normal" time="" loop="on" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire2">//#! bayFire2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　以此为开端，枪战在去集配所的路上爆发了。
+
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire3">//#! bayFire3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　敌人已经在集配所布好了阵势，
+  对方不单单只是一个小走私商。兵力和武装都很充足。
+
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1430x1">//#! 1430x1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　糟了，赛斯他们早有准备。
+
+<se id="2" src="09_01" mode="normal" time="" loop="on" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire1">//#! bayFire1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　不过，莉兹率领的Inferno的追击小组也非等闲之辈。
+  虽然遭到突然袭击，却并没有混乱，而是立刻散开展开反击。
+
+　真是漂亮的团队合作。
+　……不过，有一个人除外。
+
+<CLEAR><BACKGROUND SRC="bay7">//# bay7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不知道是幸运还是不幸，编排之外的我完全被无视了。
+
+　我无论怎样都无法融入莉兹的部队，
+  何况我只有一发子弹。
+
+　对莉兹他们来说，
+  我只是一个既不会叛变，也没有任何战斗力的临时演员而已。
+
+　欧洲黑手党与莉兹小队正全力较量着，
+  双方相互还击，彼此都没有移动的余地。
+
+<se id="1" src="攇巭応廵寕" mode="normal" time="" loop="off" effect="">//!se 
+　好机会。
+  现在正好可以让莉兹他们扮演佯攻的角色。
+
+<BOX type="5">//%sR
+「你要去哪里，喂!!」
+
+<se id="2" src="09_01" mode="normal" time="" loop="off" effect="">//!se 
+<se id="3" src="楁擇憱傝4" mode="normal" time="" loop="off" effect="">//
+<BOX type="0">//%w
+　听到背后传来莉兹的质问，我用手指着旁边跑了过去，示意想要绕过敌人的埋伏。
+　
+  以我现在的处境，即使被认为是趁机逃跑也没有办法，然而现在的我已经顾不上考虑这些了。
+
+　不管怎样，
+  在得出最终的结果之前，我没有任何立场可言。
+
+　我的对手，只有赛斯一人。
+
+<calc workname="gun10" operator="1" mode="global">
+<A HREF="0310.txt" OPERATOR="0280=1">//~ 0310
+<A HREF="0315.txt" OPERATOR="">//~ 0315

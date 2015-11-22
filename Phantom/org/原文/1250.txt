@@ -1,0 +1,232 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel1 wide 255 godo^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="daylight" mode="fadein" old="fadeout" time="10" loop="on">//$ daylight.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="godo" face="2" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうか、受かったか……入試」
+
+<box type="2">//%w
+　受話器を相手に頬を弛める
+　梧桐の様は、普段の若頭の顔とは
+　程遠いものだった。
+
+<BOX type="5">//%sR
+「良かったな、美緒」
+
+<BOX type="4">//%sL
+『うん、ありがとう。叔父さん』
+
+<BOX type="3">//%w
+　太平洋を隔てた彼方の声は、
+　醒めやらぬ喜びに弾んでいる。
+
+<BOX type="4">//%sL
+『すぐに叔父さんにも
+　知らせたくて……
+　でも、お仕事の邪魔だった？』
+
+<BOX type="5">//%sR
+「いいや、いまは丁度、
+　休憩してたところだ」
+
+<BOX type="4">//%sL
+『……大変なんでしょう？
+　貿易のお仕事って』
+
+<BOX type="5">//%sR
+「ああ、まぁな」
+
+<box type="2">//%w
+　何も知らない少女のために、
+　さり気なく梧桐は言葉を濁す。
+
+<BOX type="5">//%sR
+「来月には、日本に帰れる。
+　そしたら、また会おうな」
+
+<BOX type="4">//%sL
+『うん』
+
+<BOX type="5">//%sR
+「土産、何がいい？」
+
+<BOX type="4">//%sL
+『そんな……いいよ。いつも』
+
+<BOX type="3">//%w
+　遠慮する美緒の声に、
+　寂しげな気配が混じる。
+
+<BOX type="4">//%sL
+『あんまり色々もらうと
+　……お母さんに、ばれちゃうし』
+
+<BOX type="5">//%sR
+「ああ……」
+
+<box type="2">//%w
+　胸に突き刺さる痛みを、
+　声に顕さぬよう堪える梧桐。
+
+<BOX type="5">//%sR
+「それも……そうだよな」
+
+<BOX type="4">//%sL
+『また、電話してもいい？』
+
+<BOX type="5">//%sR
+「すまんが今週来週は、
+　ちと忙しくなるんだ。
+　その後なら、いいぜ」
+
+<BOX type="4">//%sL
+『うん、わかった』
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　電話を切り、溜め息とともに、
+　梧桐は表情を引き締める。
+
+　片親の愛情しか知らない美緒は、
+　遠縁の“大輔叔父さん”に、
+　見ず知らずの父親の姿を
+　重ねて見ているのかもしれない。
+
+　それを察すればこそ、
+　梧桐は両親の取り決めに逆らい、
+　しばしば人目を忍んで、
+　美緒の前に姿を現していた。
+
+　もちろん、美緒には何ひとつ
+　明かしてはいない。
+
+“大輔叔父さん”の職業が、貿易商ではなく極道だということも。
+
+　そして大輔が叔父ではなく、
+歳の離れた実の兄だということも。
+
+　……すなわち美緒もまた、
+　広域暴力団『梧桐組』組長の
+　実子だという真相も。
+
+　美緒には、
+　知る必要のないことだ。
+　平穏無事な生活の中で、
+　幸福を約束されている少女には。
+
+　だが……
+　妹の身を想うたび、
+　梧桐の胸には一抹の不安が湧く。
+
+//> right hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　気を利かせて席を外していた
+　志賀が戻ってみると、
+　梧桐は、普段は見せることのない
+　沈鬱な表情を浮かべていた。
+
+<BOX type="4">//%sL
+「どうしたんです？　兄貴」
+
+「美緒さんから
+　だったんでしょう？」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ……」
+
+<box type="2">//%w
+梧桐の心に、いつになく気弱な感慨が湧いたのは、今も続いている緊迫した状況のせいかもしれない。
+
+　明日をも知れぬ我が身なら……
+
+是非にも必要な言葉は、せめて間に合ううちに、誰かに託しておくべきかもしれない。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なぁ、志賀よ」
+
+「……美緒の、ことなんだがな」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……どうしたっていうんです？
+　いきなり」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いくら離縁したとはいえ、美緒に俺や組長と同じ血が……梧桐の鬼の血が流れてることに変わりはねぇ」
+
+「もし、そこにつけ込もうって
+　野郎が出てきたら……」
+
+「何も知らされてない美緒は、
+　身を守ることさえできんだろう」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なぁ、もし……もしも、だぞ」
+
+「俺が生きて
+　国に帰れねぇようなら、
+　その時は……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……承知してますよ。兄貴」
+
+「美緒さんの行く末は、
+　この志賀が、
+　責任を持って見届けます」
+
+<BUSTUP NAME="godo" face="2" MODE="on" zoom="" ALIGN="right">//# godo^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……済まねぇな」
+
+<A HREF="1252.txt" OPERATOR="1230a=1">//~ 1252
+<A HREF="1254.txt" OPERATOR="">//~ 1254

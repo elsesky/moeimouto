@@ -1,0 +1,17 @@
+<BOX type="0">//%w
+  虽然这家伙是“蟒蛇”的替代品，不过我意外地中意它。
+
+　不似左轮手枪的枪柄形态，从下击发的转轮。这把枪的确与一般的左轮手枪不同。
+　不过，这家伙在射击时的感觉比普通的左轮手枪要好。
+
+　而且，可以根据用途更换枪管的设定也很吸引人。
+　今晚……就换上标准的102mm枪管吧。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="儅僥僶">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儅僥僶">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儅僥僶2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡MB">//
+<CALC WORKNAME="1407a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

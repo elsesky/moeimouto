@@ -1,0 +1,10 @@
+<BOX type="0">//%w
+  最后，我还是选择了一贯使用的贝瑞塔，
+  虽然是性质不同的任务，不过还是带着使惯了的枪比较好。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

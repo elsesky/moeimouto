@@ -1,0 +1,202 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="drei4" face="8" MODE="on" zoom="" ALIGN="right">//# drei4^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“要怎么做？”
+
+“要怎么做……才能获胜？”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔一边这样问着自己，一边在走廊里奔跑……突然，她发现了一间与众不同的教室，连忙停下脚步。
+
+　这是由两个房间连在一起组成的大教室，里面有九张大桌子，每张桌子上都摆放着洗碗池一样的设备。
+
+　虽然凯尔对学校所知甚少，但她还是看出来这间教室是做什么的了。
+
+<BOX type="5">//%sR
+“化学实验室……”
+
+<BUSTUP NAME="drei4" face="3" MODE="on" zoom="" ALIGN="right">//# drei4^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　一瞬之间，凯尔仿佛受到了神启。那是摩托车和Levi's之神。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# dummy 20 chemi1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　凯尔毫不犹豫地跑进教室，拉上拉门。
+
+　果然……桌上不仅有水管，还有电源插座和瓦斯管道。
+
+　有了。
+
+<se id="1" src="僈僗愷夡偟" mode="normal" loop="off">
+　凯尔像使用锤头那样挥舞卡拉什尼科夫的枪托，将瓦斯阀门尽数打坏。
+
+<se id="1" src="僈僗愷夡偟" mode="normal" loop="off">
+一股怪味在宽敞的教室里弥漫开来。
+如果在这里开枪的话，肯定会引发大爆炸。
+
+　不过，对手是十分冷静的职业杀手，可不是什么笨蛋，不能寄希望于她们开枪自爆。
+
+　既然如此，只能由自己来点火了……
+
+　能不能立刻找到某种能够定时点火的装置呢……
+
+　黑板旁边有一扇上锁的门。
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<CLEAR><BACKGROUND SRC="chemi3">//# chemi3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+凯尔破门而入，
+和她想的一样，这是一间放置器材的小屋。
+
+凯尔在众多玻璃器皿中找到一个桌上用电炉。
+这个电炉做工粗糙，没有开关，只要通电就能加热。
+
+<BOX type="5">//%sR
+“……这样太乱来了吧”
+
+<BOX type="2">//%w
+　凯尔突然恢复了冷静，她没想到自己竟然真的打算模仿动作片。
+
+　只要走错一步，敌人和自己都会被炸成粉末。
+
+可是，化学实验室外传来的微弱声音打断了凯尔的思绪。
+看来敌人已经来了，只能这么办了。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# chemi1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　凯尔从准备室的入口向化学实验室里偷偷望去，只见那两人已经在教室中了。
+
+<BUSTUP NAME="zs4" face="2" MODE="on" zoom="" ALIGN="right">//# zs4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+她们仿佛已经察觉到凯尔正躲在化学实验室里。
+而且，通过瓦斯的味道，她们也猜出了凯尔的意图。
+
+<BUSTUP NAME="zs8" face="2" MODE="on" zoom="" ALIGN="left">//# zs8^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs8^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　Vier和Acht都放下手中的枪，拔出了刀子。
+
+<CLEAR><BACKGROUND SRC="chemi4">//# dummy 19 chemi4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　凯尔弯下腰，尽量注意不被对方发现，然后屏息静气地躲到桌子后面。
+
+　正如刚才却确认的一样，每张桌子上都有电源插口。
+
+　可问题是……退路在哪里。
+
+从电炉通电到镍镉耐热导线变热只需要很短的时间。
+自己必须在仅有的几秒内逃离充满瓦斯的化学实验室……
+
+　跑到走廊里肯定来不及，肯定会被卷入爆炸中。
+
+　那么……窗户呢。
+
+3楼的窗户与地面之间的距离大概为10米。如果无法安稳落地的话，免不了摔个筋断骨折。
+
+一双雪白的脚从桌子对面无声地走过。
+没有时间犹豫了，敌人马上就会发现自己……
+
+<CLEAR><BACKGROUND SRC="nikurom">//# nikurom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+下定决心后，凯尔将电炉的电源线插在了电源插座上。
+卷曲呈螺旋状的镍镉耐热导线立刻微微透出朱红色。
+
+<CLEAR><BACKGROUND SRC="chemi2">//# chemi2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　接着，如脱兔一般……凯尔头也不回地向窗户冲去。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# zs8^2 20 chemi1 1
+<BUSTUP NAME="zs8" face="2" MODE="on" zoom="" ALIGN="right">//# zs8^2 20 chemi1 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+Acht察觉到身旁有不安的气息，便甩动着长发转过身来。
+如果凯尔没有断然做出决定的话，肯定已经被她发现了。
+
+<CLEAR><BACKGROUND SRC="nikurom">//# nikurom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　两个人的注意力都被凯尔的行动吸引了，并没有注意到正在加热的电炉。
+
+<CLEAR><BACKGROUND SRC="chemi2">//# chemi2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　透过窗户，月光根本无法照亮的黑暗校园出现在凯尔的眼前。
+  来得及……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="800">
+<BOX type="2">//%w
+　凯尔用肩膀撞碎玻璃，从窗口一跃而出，
+<se id="2" src="儘僼僩敋敪" mode="normal" time="" loop="off" effect="">//!se exprosion
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3985x1">//#! 3985x1 1
+<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="2">//%w
+　与此同时，一阵炽热的波浪撞在她的后背上。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+在爆炸火焰的映照下，眼前的校园变成了明亮的橘黄色。
+冲击波在头顶掠过，玻璃碎片四散飞舞。
+
+　身处黑暗与火焰的缝隙、漂浮于半空的一瞬间，凯尔仿佛感觉时间变得永恒起来。
+
+　大地越来越近……凯尔微微屈膝，团起身体，准备承受冲击。
+
+<se id="2" src="burning" mode="normal" time="" loop="off" effect="">//!se burning
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　凯尔打算在撞到地面前抢先一步行动，所以她首先让自己的脚后跟着地。
+
+　即便如此，膝盖还是无法承受如此强烈的冲击，腰部和背部也随着猛然一震。
+
+　凯尔立刻用双臂撑住地面，停住了身体。可是，巨大的冲击仍旧让她差点昏厥过去。
+
+　凯尔仰面朝天地躺在地上，在化学实验室熊熊燃烧的火焰的掩映下，头顶的夜空宛如朝霞般绚丽。
+
+<CLEAR><BACKGROUND SRC="court^c">//# court^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+手掌感觉到了柔软的泥土。
+看来凯尔很幸运，窗户正下方有一个花坛。黑色的泥土已经被翻弄得非常柔软，在很大程度上缓解了下落的冲击。
+
+凯尔尝试着慢慢动了动四肢。
+虽然疼痛无比，不过骨头和筋都毫无异常。
+
+仰望着燃烧的校舍，凯尔向神竖起了大拇指，这次是向拳击和越南之神表示敬意。
+
+<A HREF="3770.txt" OPERATOR="">//~ 3770
+
+。
+
+<A HREF="3770.txt" OPERATOR="">//~ 3770

@@ -1,0 +1,113 @@
+<CALC WORKNAME="M2006" OPERATOR="1">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いよぅファントム。
+　どうした？　今日は」
+
+<BOX type="0">//%w
+「弾薬のストックが乏しくなったんで、補充にね」
+
+<BOX type="5">//%sR
+「ああ、そりゃ丁度いい」
+
+「アンタのファンから
+　贈り物が届いてるぜ」
+
+<BOX type="0">//%w
+「ファン？」
+
+　何のことやら見当もつかない。
+
+<BOX type="5">//%sR
+「マル＝カルローネさ。
+　ガンビーノ一家の」
+
+<BOX type="0">//%w
+「ああ……」
+
+　そういえば、そんな男もいた。
+　彼の要請で、ガンビーノの相談役を始末したのは、
+　かれこれ先々週の出来事だ。
+
+<BOX type="5">//%sR
+「どこでか知らないが、あんたのリボルバー贔屓を聞いたらしくてね」
+
+「是非とも偉大なるファントム様に
+　使って欲しいって……
+　ほら、これさ」
+
+<BOX type="0">//%w
+「……マテバ？」
+
+　これはまた、変わった銃を……
+
+<BOX type="5">//%sR
+「何だ、知ってるのかい？
+　つまらねぇ」
+
+「アタシゃ何かと思ったよ。
+何だい？　この妙ちきりんな銃は」
+
+<clear>
+<BACKGROUND SRC="mataba_long_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　リズィの当惑も無理はない。
+　イタリア製のこの異色のリボルバー拳銃は、
+　一風変わった構造をしている。
+
+　通常のリボルバーと、まるきり上下が逆転した構造で、
+　銃身がシリンダーロッドより下にある。
+　つまり、シリンダーに装填された一番下の弾丸が撃発される構造に
+　なっているのだ。
+
+　銃口の高さが手首の軸位置に近くなるため、銃身のぶれが少なく、反動も軽減される……
+　ともかく、理屈の上では、そういうことになっている。
+
+「……まあ今度、試してみるよ」
+
+　口径はパイソンと同じ.357マグナム。
+　奇抜な機構が口上通りの成果を上げているのなら、
+　乗り換えるのも悪くはない。
+
+<clear>
+<BACKGROUND SRC="passage1">//
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「そんなにしてまで、リボルバーがいいかねぇ……」
+
+<BOX type="0">//%w
+「あんたこそ、その無闇に長いやつ、いい加減ジャマにならないか？」
+
+<BOX type="5">//%sR
+「ウルサイね。ほっといとくれ」
+
+<calc workname="gun05" operator="1" mode="global">
+<A HREF="#分岐" OPERATOR="1127=1">
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+<MARKER NAME="#分岐">
+<A HREF="1158a.txt" OPERATOR="1150=1">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

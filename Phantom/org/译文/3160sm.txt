@@ -1,0 +1,11 @@
+//> left 44マグナム wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="44マグナム">//
+<WIPE EFFECT="fade" TIME="20">
+<CALC WORKNAME="Ｇマグナム" OPERATOR="1" MODE="global">//
+<wait time="200">
+<A HREF="3162a.txt" OPERATOR="1402a=1">//~ 3162a
+<A HREF="3162.txt" OPERATOR="">//~ 3162

@@ -1,0 +1,151 @@
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="0">//%w
+　瞳を閉ざし……
+　焦りも、恐怖もすべてを闇に封じ込めた。
+
+　あれは{ヒロイン}なのか？
+　違うのか？
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　呟くやいなや、身体とライフルを床面から引き剥がし、
+　銃口を蒼穹に向けて振り上げる。
+
+<CLEAR><BACKGROUND SRC="主人公狙撃">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　代わりに左足の膝と右足の踵を、楔のように床に打ち込んで、腰を固定。
+
+　立てた右膝に右腕の肘を載せ、再び振り下ろしたライフルの重みで、
+　手足の骨どうしを密着させる。
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　伏せ撃ちの姿勢から、一瞬で座射体勢に移りつつ、
+　もう一度、全神経をスコープの彼方の狙撃手に……
+　その身を守っている給水塔に、集中させる。
+
+　さあ、こっちを向け。
+　ここにもう一人スナイパーがいる。
+　横からお前を狙っているぞ。
+
+<se id="1" src="16_05狙撃" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="rooftop">//#! rooftop 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="500">
+<BOX type="0">//%w
+　初弾の標的に選んだのは、丸い給水塔の側面だった。
+<se id="2" src="16_06" mode="normal" time="" loop="off" effect="">//!se 
+　轟音とともに、超音速の弾丸は、タンクの滑らかな曲面をこそぎ削って、
+　グラインダーのように火花を散らす。
+
+　さぁ振り返れ。
+　ここにいるぞ。
+　こっちを向いて撃ち返してこい!
+
+<CLEAR><BACKGROUND SRC="ブレイザー">//# ブレイザー 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　頼みの綱はブレイザーのストレートブローバック機構……
+　再装填に要する時間の短さだった。
+　通常のボルトアクションライフルのように、
+　レバーを半回転する必要がなく、
+　ただ直線的に前後させるだけで、薬室の解放と閉鎖ができる。
+
+<se id="1" src="16_04" mode="normal" time="" loop="off" effect="">//!se 
+　引き開けたボルトから、弾き出されるレイクシティの空薬莢。
+　その真鍮の輝きが虚空でスピンしている間に、
+　直線動作で第２弾を薬室に送り込む。
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　その無限に思えた一瞬の間、
+　ボルト操作の振動で荒れ狂うスコープの視野を、
+　右目は瞬きもせずに見守っていた。
+
+　突然の銃撃に仰天した敵が、それでも水際立った動きで踵を返し、
+　膝立ちで身を晒しているこちらに、ライフルの銃口を向けるのを。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　呼吸と脈拍に、絶対の静寂が訪れる。
+
+　そして、ぴたりと静止したクロスラインの真上に見えたのは、
+　黒々と拡大されたライフルの銃口と、その向こう側で驚愕と怒りに歪む、
+　ランディ＝ウェーバーの顔だった。
+
+<se id="1" src="16_05狙撃" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="rooftop">//#! rooftop 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="20">
+<se id="2" src="16_05狙撃" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left rooftop wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="rooftop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　銃声の二重奏が、抜けるような青空に轟き渡る。
+
+　側頭部を、ヘヴィ級ボクサーのフックを食らったような衝撃が見舞った。
+
+　右半身を見えない手で引っ張られ、
+　駒のように回転しながら、後ろに吹き飛ばされる。
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　鈍く疼く側頭部に手を当ててみる。
+　ランディの弾は掠め過ぎただけだったが、
+　その衝撃波だけで、こめかみに裂傷ができていた。
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　身体を起こし、
+　取り落としたブレイザーを拾って、スコープで郵政省ビルを観察する。
+
+　もっとも、追い打ちの弾丸が飛んでこない以上……
+　確かめるまでもないことだが。
+
+　レイクシティ＝マッチM852は、
+　ランディの胸板を直撃し、物言わぬ骸に変えていた。
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　終わってみれば、任務の幕切れは、あまりにも呆気なかった。
+
+　あとは、銃声が注意を引く前に、速やかにこの場を立ち去るのみ。
+
+　ブレイザーをチェロケースに戻し、排出した空薬莢を回収して、
+　他に何の痕跡も残していないことを確かめる。
+
+　ともかく、これで黒幕が誰かも判った。
+　やはり、梧桐を狙っていたのは、ワイズメルの一味だったのだ。
+
+　あとは、あそこに転がっているランディの死体を動かぬ証拠として、
+　クロウディアが追究することだろう。
+
+<bgm src="" mode="fadein" old="fadeout" time="2" loop="on">//$ 0 _1 0
+<se id="1" src="17_01" mode="normal" time="" loop="off" effect="">//!se rifle2
+<BOX type="0">//%w
+　だがそのとき、遙か彼方で、まったく別の銃声が轟いた。
+
+<CALC WORKNAME="1285b" OPERATOR="1">//
+<A HREF="1290.txt" OPERATOR="">//~ 1290

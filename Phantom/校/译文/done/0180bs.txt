@@ -1,0 +1,11 @@
+//> left ベレッタ wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ベレッタ">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<CALC WORKNAME="Ｇベレッタ" OPERATOR="1" MODE="global">//
+<A HREF="0184a.txt" OPERATOR="0100BS=1">//~ 0184a
+<A HREF="0184.txt" OPERATOR="">//~ 0184

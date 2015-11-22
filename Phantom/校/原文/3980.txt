@@ -1,0 +1,184 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left chemi1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="chemi1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="door1" mode="normal" time="" loop="off" effect="">//!se door4
+　二教室ぶち抜きの広い化学室に飛び込むと、
+　すぐに扉を閉め、設備に目を走らせた。
+
+　9卓並んだ大机には、各々に、水道の蛇口とガス栓が設えてある。
+
+<se id="1" src="ガス栓壊し" mode="normal" loop="off">
+　相手の発砲を封じるなら……ありがちな手だが、これが使える。
+　カラシニコフの台尻をハンマーのように振りかざし、
+　片端からガス栓を根本から叩き折って、ガスを噴出させる。
+
+<se id="1" src="ガス栓壊し" mode="normal" loop="off">
+　みるみるうちに、広い教室に異臭が立ちこめはじめた。
+　連中も、入ってくれば気付くだろう。
+　発砲しようものなら、引火して大爆発だ。
+
+<CLEAR><BACKGROUND SRC="chemi3">//# chemi3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　9宅すべてのガス栓を破壊したところで、
+　準備室に駆け込み、決め手の道具を探す。
+
+　……あった。
+　電気式の卓上コンロ。
+　ニクロム線が剥き出しになっている旧式のやつだ。
+　これを使えば……
+
+　……正気か？
+　ふと、冷静な思考に立ち戻り、
+　これからやろうとしている事の馬鹿さ加減に苦笑する。
+
+　一歩間違えば、敵どころか自分まで木っ端微塵だ。
+
+　が、外の化学室から聞こえた物音で、再び弱気な思慮分別は沈黙した。
+　ここまで来たら、やるしかない。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# chemi1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　準備室の入り口から、そっと化学室の中を窺う。
+　例の二人は、案の定、すでに教室内にいた。
+
+<BUSTUP NAME="zs4" face="2" MODE="on" zoom="" ALIGN="right">//# zs4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　この化学室に逃げ込んで隠れていることも、
+　そしてガスの臭気から、こちらの意図も察しているのだろう。
+
+<BUSTUP NAME="zs8" face="2" MODE="on" zoom="" ALIGN="left">//# zs8^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs8^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　すでに二人は銃を手放し、ナイフを構えて徘徊していた。
+
+<CLEAR><BACKGROUND SRC="chemi4">//# dummy 19 chemi4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　気付かれないよう身を屈め、息を殺して机の陰を進む。
+
+　電源も、ガスや水道と同じく、各卓に引いてある。
+　コンセントの差込口は、いたる所にあった。
+
+　あとは……退路だ。
+
+　コンロに通電してから、ニクロム線が赤熱化するまでには、
+　僅かながらタイムラグがある。
+　その数秒のうちに、ガスの充満した化学室から脱出するには……
+
+　廊下に逃げたのでは、間に合わない。
+　間違いなく爆発に巻き込まれる。
+
+　となると……窓か。
+
+　3階の窓からグラウンドまでは、おおよそ高度差10メートル余り。
+　よほど上手く着地しない限り、骨折は免れない。
+
+　机のすぐ反対側を、白い脚が音もなく過ぎていく。
+　逡巡している暇はなかった。
+　もう、見つかる……
+
+　ナイフを手にしたプロフェッショナルを、
+　二人同時に相手取るくらいなら……
+　万有引力の方がまだましだ。
+
+<CLEAR><BACKGROUND SRC="nikurom">//# nikurom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　意を決し、コンセントを電源に挿す。
+　螺旋に巻かれたニクロム線に、じわり、と仄かな朱色が差す。
+
+<CLEAR><BACKGROUND SRC="chemi2">//# chemi2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　あとはもう、後ろも見ずに……
+　脱兎の如く窓際へと突進した。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# zs4^2 20 chemi1 1
+<BUSTUP NAME="zs4" face="2" MODE="on" zoom="" ALIGN="right">//# zs4^2 20 chemi1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　すぐ真横で動揺の気配。
+　あと一瞬、決断が遅れれば、見つかっていただろう。
+
+<CLEAR><BACKGROUND SRC="nikurom">//# nikurom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　追い縋ろうと振り向く二人は、
+　当然、加熱していくコンロには気付かない。
+
+<CLEAR><BACKGROUND SRC="chemi2">//# chemi2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ガラス越しに、
+　月明かりでも照らしきれない真っ暗な校庭の闇が、眼前に迫る。
+　間に合え……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="800">
+<BOX type="0">//%w
+　肩でガラスを打ち割って、虚空へと身を躍らせたその時、
+<se id="2" src="ロフト爆発" mode="normal" time="" loop="off" effect="">//!se exprosion
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3985x1">//#! 3985x1 1
+<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　背中に熱波が叩きつけられた。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+　眼下で、爆炎のフラッシュを浴びた校庭が、
+　明々とオレンジ色に照らし出される。
+　頭上を飛びすぎていく、ガラス片を伴った衝撃波。
+
+　闇と炎の狭間で、宙を泳いだ一瞬は、まるで無限の時間のように思えた。
+
+　大地が迫る……
+　衝撃に備え、わずかに膝を曲げて身構える。
+
+<se id="2" src="burning" mode="normal" time="" loop="off" effect="">//!se burning
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　叩きつけられるより先に、
+　こちらから蹴りつけるぐらいのつもりで、まず踵から着地した。
+　それでも膝のバネだけでは衝撃を受けきれず、
+　さらに腰と背骨が打ち据えられる。
+
+　寸前、両腕で地を叩いて受け身をとったものの、
+　それでも一瞬、意識が遠退くほどのショックがあった。
+
+　仰向けに倒れたまま、見上げた夜空は、化学室から舞い立つ炎で、
+　朝焼けのように照らされていた。
+
+<CLEAR><BACKGROUND SRC="court^c">//# court^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　掌に、やわらかい土の感触。
+　どうやら幸いにも、窓の下の花壇に落ちたらしい。
+　耕された黒土のせいで、落下のショックは相当緩和されていた。
+
+　おそるおそる四肢を動かしてみる。
+　鈍い痛みは感じるものの、骨にも筋にも異常はない。
+
+<A HREF="3680.txt" OPERATOR="3670=1">//~ 3680
+<A HREF="3985.txt" OPERATOR="">//~ 3985

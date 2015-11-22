@@ -1,0 +1,327 @@
+　……沃列斯大尉，不动了。
+
+　不久之前还被称为人的东西。
+
+　恐惧死亡，渴求生存。为了这样的愿望拼尽全力……。
+  这不久之前还活着的东西。
+
+<clear>
+<BACKGROUND SRC="僂僅儖僗栚">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　空虚的双眼，就像两个窟窿。
+
+　失去力量而半张着的嘴，
+  就像是忘记了自己要说什么一样。
+
+　……骗人的吧？
+  这一切都是假的吧？
+
+　决斗结束。胜负已分。
+　那么，是我赢了吧？
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="900">
+<wait time="200">
+<box type="0">
+  自己已经竭尽全力了。
+  这份痛苦自己也承受下来了。
+
+　所以，结束吧。
+　让噩梦醒来吧。
+
+　在我闭上眼睛的这段时间里，
+　让这一切都消失吧。
+　把我带到别的地方去吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+<BOX type="0">//%w
+　风在哭泣。
+　冷冷的月光从窗外照进来。
+　这样的景色，简直就像是直到时间终结都永远不会改变。
+
+　……骗人的吧？
+
+//> left 0090p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="0090p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一只纤细白嫩的手，轻轻搭在我的肩上。
+
+　……Ein？
+　她是什么时候……
+
+<BOX type="4">//%sL
+「你又哭了啊。Zwei」
+
+<BOX type="0">//%w
+　Ein……
+　为什么会这样……
+　这是梦吧？
+
+<BOX type="4">//%sL
+「我说过的吧。
+　这是个很长很长的梦」
+
+「所以这一切都是梦的继续。
+　在你死掉或疯掉之前……
+　绝对不会醒来的梦」
+
+<BOX type="0">//%w
+　这样的事，自己怎么可能忍受得了。
+　不会苏醒的梦……不是开玩笑吧……
+
+<BOX type="4">//%sL
+「想结束了吗？」
+
+<BOX type="0">//%w
+　我点点头。
+
+<BOX type="4">//%sL
+「那么，就由你自己来结束这一切吧」
+
+<BOX type="0">//%w
+「……要怎么做？」
+
+<BOX type="4">//%sL
+「你只要不把自己当成自己就好了」
+
+「舍弃你的眼睛、你的耳朵、你的心」
+
+「然后，化作一个单纯的“Zwei”」
+
+「万事都用Zwei的眼睛去看，
+  用Zwei的耳朵去听」
+
+「这样的话，你将不再害怕，不再悲伤」
+
+「这样，你就解脱了」
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+「……我……」
+
+「……我……不叫Zwei」
+
+『是吗……
+　好像是这样呢』
+
+//> left 0090p3 wide 255
+<clear>
+<BACKGROUND SRC="0090p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　冰冷、刚硬的感觉顶上了我的太阳穴。
+
+<BOX type="4">//%sL
+「这样如何？」
+
+<BOX type="0">//%w
+　我能感觉得到。枪口的角度。枪管的朝向。
+
+　射出的子弹肯定会把我的小脑直接打穿。
+  甚至连感觉到疼痛的时间都没有。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　扳起击铁的声音……那份震动，直接传到了我的头盖上。
+
+<BOX type="4">//%sL
+「要怎么做呢？」
+
+<BOX type="0">//%w
+　感觉不到恐惧。
+
+　有的只是将头埋进枕头一般的安息感……
+
+　以及，把所有力量从身体中剥离出去的开放感。
+
+<BOX type="4">//%sL
+「你希望我怎么做？」
+
+<BOX type="0">//%w
+　从遥远的地方，传来了如同福音一般的、Ein的声音。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　……开枪吧。
+
+　杀了我。
+　让这一切都结束吧。
+
+　让我眼前的一切都消失吧。
+
+　让这样的我……消失吧。
+
+//> dream 0090p3 dream 255
+<clear>
+<BACKGROUND SRC="0090p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+
+<se id="1" src="23-03b" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="10">
+　在气氛紧张的夜晚的空气中，
+  传来如雷鸣一般的、击铁落下的金属音。
+
+　这是自己告别这个残酷无情的世界的声音。
+
+　这是生命的开关被关上的声音。
+
+　在我一片空白的大脑中，
+  这个细小、清脆的声音，
+  仿佛是经过回声处理一样，不断回响着。
+
+//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不知道是哑弹，还是从一开始就没有装子弹，
+  Ein的枪没有喷出火焰，子弹也没有打穿我的脑袋。
+
+　但是，这空枪的声音，斩断了一切。
+
+　让我体会到了在绝望的尽头，有着无限的宁静……
+
+　自己瘫软无力的身体，从Ein的胳膊中滑落，颓废地倒在了地上。
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+　脸颊感到了水泥地面的冰凉，
+  从这样的角度，看着倒在身旁不远处的沃列斯大尉的尸体……
+  我不禁陷入深思。
+
+　自己的躯体与那具死尸有什么区别呢？
+
+　能看，能听，
+  能说话，手脚能动…………
+
+　只有这些了吧？
+  除此之外，还有什么不同呢吗？
+
+　我用手摸了摸胸口，
+  心脏在缓缓地跳动着。
+
+　……但是，这并不能证明我仍然生存于世。
+
+　心跳，不过是向身体组织输送血液的泵发出的没有意义的声音。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<wait time="900">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　刚才的那份恐惧跑到哪里去了呢？
+
+  ……是这样啊，自己已经死了。
+  因畏惧死亡而恐惧，
+  因害怕被杀而战栗，
+  这一切，都伴随着自己的灵魂一起死掉了。
+
+　哀伤少年的、微不足道的死。
+
+　被夺走了记忆，
+  莫名其妙地被训练成杀手……
+  最后终于无法忍受。
+
+  可是，他已经不在这个世界上了。
+  在他渴望死亡，知道死的滋味的时候，他就已经死了。
+  他已经从这个世界上消失了。
+
+　现在留存于这里的，只是一副躯壳。
+
+//> left factory2 wide 255 elen^5
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<BUSTUP NAME="elen" face="5" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「站起来，Zwei」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Zwei……那是这副空壳的名字。
+
+　即是说，仅仅是个名字。
+
+　头好轻。
+  心里像无风的海面一样平静。
+
+　诚然，自己没有痛苦的理由。
+
+　痛苦也好，悲伤也好，
+  都是活着的人才能背负的东西。
+
+　名为Zwei的这具行尸走肉，还有必要感受这些吗？
+
+　现在的自己，已经可以冷笑着淡然面对这一切了。
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　你怎么了，Ein？
+  为什么你会露出这样寂寞的表情？
+
+　托你的福我才得救了。
+  你不是应该感到轻松愉快。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「干得漂亮，Zwei」
+
+<BOX type="0">//%w
+　瞥了一眼沃列斯大尉的尸体，Ein这样说道。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「考试合格了」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样一来，你就是Inferno的一员了」
+
+<A HREF="0100.txt" OPERATOR="">//~ 0100

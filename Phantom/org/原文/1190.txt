@@ -1,0 +1,220 @@
+//> left roomC3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「予定の……繰り上げ？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう」
+
+「4日後に、梧桐大輔と
+　マグワイヤの会見を
+　セッティングしたわ」
+
+「そこで梧桐の信認を、
+　マグワイヤに判断してもらう」
+
+<BOX type="0">//%w
+　異例の事態だった。
+
+　梧桐とインフェルノとは、事実上、
+　まだ一度として取り引きや交渉を持ったことがない。
+
+　加盟を云々するのなら、
+　まずは小規模な取引を重ねて、信頼関係を築くのが筋である。
+
+　たとえ形式的なこととはいえ、そういう経緯を踏まえない限りは、
+　いくら極東の麻薬流通の雄であれ、インフェルノにとっては縁故のない、
+　どこの馬の骨とも知れぬ輩でしかない。
+
+　それを、クロウディア一人の顔繋ぎで、
+　いきなりインフェルノのトップと引き合わせようというのだ。
+
+「……マグワイヤは、納得したのか？」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「渋々だったけど、最後にはね」
+
+「彼もヤクザたちの被害は、
+　憂慮してたから」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「梧桐の立場の微妙さが、
+　彼らを危険にさらしているのよ」
+
+「彼のインフェルノへの加盟が
+　正式なものになれば、
+　敵も手出しができなくなるわ」
+
+「そうなれば梧桐への攻撃は、
+　インフェルノへの攻撃と
+　同義になるから」
+
+<BOX type="0">//%w
+「連中の心配は、いい」
+
+「むしろ、あんただ。クロウディア。
+　またこれも、無理矢理ねじ込んだ話なんだろ？」
+
+「こんな無茶を押し通したんじゃ、ますます皆から反感を買うぞ」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「致し方ないわね」
+
+「言いたくはないけれど、
+　あなたに期待しすぎた代価よ」
+
+<BOX type="0">//%w
+「……」
+
+　それを言われては、返す言葉のあろう筈もない。
+　ラスベガスでのミスは、致命的だった。
+
+「……そうだ、ワイズメルは？」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何も言わなかったわ」
+
+「終始無言。
+　気味が悪いくらいよね」
+
+<BOX type="0">//%w
+「そうか……」
+
+　ときには沈黙ほど、雄弁に心中を語るものはない。
+
+　もはや討議で片付ける気はないのだ。
+　ワイズメルも、腹を固めていると見ていい。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「敵にとっても最後のチャンスよ。
+　次は迷わず、梧桐本人を
+　狙ってくるでしょう」
+
+「でも、
+　今度ばかりは不意打ちはなし」
+
+「身辺警護にはリズィがあたるし、
+　梧桐も自前の兵隊を
+　用意するはずよ」
+
+<BOX type="0">//%w
+「……会見の場所は？」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ボナベンチャーホテル。
+　5階の続き部屋よ」
+
+<BOX type="0">//%w
+「無茶だ!!」
+
+<CLEAR><BACKGROUND SRC="bonaventure">//# bonaventure 1 dummy 20 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「あそこは壁面まるごとガラス張りだぞ。
+　スナイパーライフルで一撃じゃないか!」
+
+　狙撃手には格好の餌食だろう。
+　ショウケースに陳列するようなもんだ。
+
+<CLEAR><BACKGROUND SRC="roomC3">//# crou^8 20 roomC3 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ライフル狙撃。
+　たぶん間違いないでしょう。
+　他の選択肢は、敵にはない」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも{名}、
+　あなたなら探れるでしょう？
+　敵がどこから狙ってくるか」
+
+<BOX type="0">//%w
+　カウンタースナイプ、逆狙撃オペレーション。
+　敵狙撃手の位置を探り出し、同様に狙撃手で迎え撃つ攻性防御。
+　たしかに、その手はあるが……
+
+「……せめて場所ぐらいは選べただろうに」
+
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もちろん、選んだわ。
+　あなたの仕事を
+　やりやすくするために」
+
+<BOX type="0">//%w
+　餌と釣り針……
+　まだ、そのキャスティングは続行か。
+
+<BOX type="5">//%sR
+「今度こそ敵は、
+　あなたの前に姿を現す。
+　確実に仕留めて」
+
+<BOX type="0">//%w
+「あんたは……」
+
+「この期に及んで、あんたは、梧桐を餌にする気なのか？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「梧桐を殺されるわけには
+　いかないし、私と梧桐の
+　邪魔をする敵も、捨て置けない」
+
+「ここで一度に、
+決着をつけるしかないの。
+たとえ失敗が許されないとしても」
+
+<BOX type="0">//%w
+　嫌も応もなかった。
+
+　取り返しのつかない筈だった失態に、
+　今回ばかりは再挑戦のチャンスが与えられたのだ。
+
+　要求は遥かに厳しくなり……
+　事実上、それはただ困難という言葉だけでは説明がつかないほどに、
+　言うなれば無理難題とでも呼ぶべき次元の内容に
+　成り果ててしまったわけだが、
+
+　それでも、異論など差し挟めるはずもない。
+
+　すべての困難は、自分自身のミスが差し招いたものであり、
+　そしてこれは、そのミスを清算するチャンスなのだから。
+
+「……計画を、練ってみる」
+
+<BOX type="5">//%sR
+「あなたに賭けるわ。
+　{名}」
+
+<BOX type="0">//%w
+　猶予は、4日。
+　それまでに、全ての準備を整えねば。
+
+<A HREF="1210.txt" OPERATOR="1127=1">//~ 1210
+<A HREF="1220.txt" OPERATOR="">//~ 1220

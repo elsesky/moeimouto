@@ -1,0 +1,110 @@
+　感傷を押し殺し、{ヒロイン}の方に向き直る。
+
+「計画は？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「目星は以前から、つけてある」
+
+「東北からロシアへ
+　逃れるルートよ。でも……」
+
+「準備にどれだけ時間がかかるか、
+　まだはっきりとは、判らない」
+
+<BOX type="0">//%w
+　インフェルノが動くより先に、こちらの準備が整うだろうか。
+　さもなければ……
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「申し合わせたような
+　タイミングだったわね。
+　藤枝さんの一件」
+
+<BOX type="0">//%w
+「……」
+
+　あくまで『万が一』の話……
+　そんな言い訳で、自分自身を納得させていたものの、
+　もう、それも通用しない。
+
+　やはり、{ヒロイン}の計画通り、
+　美緒を利用するしかないんだろうか？
+
+「急いでくれ」
+
+「出来ることなら、美緒は巻き込まずに済ませたい」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……ここは日本だ。
+　インフェルノも、そう思い切った動き方はできないだろう」
+
+「時間の猶予は、まだ、ある」
+
+「どうしても時間稼ぎが必要になるまで、
+　美緒は最後の切り札にとっておこう」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わかったわ」
+
+//> left Jroom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　転居早々に、
+　備え付けの下駄箱に改造を施して作った、二重底の隠しスペース。
+
+　そこに押し込んであった油紙の包みを、残らず引っぱり出して、
+　ひとつずつ廊下に並べていく。
+　そのたびに、ゴトリと重い金属質の音が、フローリングの床板を鳴らす。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　その様を、{ヒロイン}は咎めるような眼差しで見守っていた。
+
+「……明日からは、丸腰で出歩かない方がいい」
+
+<BOX type="5">//%sR
+「……そうね」
+
+<BOX type="0">//%w
+　腰を屈めて、{ヒロイン}は包みのひとつを手に取り、
+<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　手早く油紙の包装を解く。
+
+　コルトパイソンの4インチ……
+　彼女なら、多分それを選ぶだろうと思っていた。
+
+　手にしたパイソンの保存状態と、可動の具合を確かめている間に、
+　.357マグナム弾の実包を収めた紙袋も選り分けて、
+　{ヒロイン}に投げ渡す。
+
+　さて、自分の分はどうするか。
+
+<A HREF="3160.txt" OPERATOR="">//~ 3160
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+
+
+
+60

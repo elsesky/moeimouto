@@ -1,0 +1,100 @@
+　我抑制住自己的感伤，将身子转向{ヒロイン}。
+
+「计划呢？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「以前就制定好了」
+
+「我们将从日本东北逃往俄罗斯。不过……」
+
+「目前还无法判断需要多久的准备时间」
+
+<BOX type="0">//%w
+　在Inferno行动之前，我们必须要准备好吧。
+　不然的话……
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「终于到了拿出杀手锏的时候了」
+
+<BOX type="0">//%w
+「……」
+
+　因为是『紧要关头』……这样的辩解自己虽然理解，但已经无法接受了。
+
+　我们果然还是不得不如{ヒロイン}计划的那样利用美绪吗？
+
+「我们必须要快点」
+
+「可能的话，我想在不牵扯美绪的情况下让这件事完结」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……这里是日本，即使是Inferno也无法为所欲为」
+
+「我们还有时间」
+
+「到了无论如何也要争取时间的时候，再将美绪作为杀手锏吧」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我知道了」
+
+//> left Jroom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　说到逃跑，我马上找出经过改造的鞋盒。这种鞋盒有两层底，中间是一个隐蔽空间。
+
+　我将塞在里面的油纸包全都拽了出来，一个一个地并排摆在走廊里。
+  每次将纸包放在地板上时都会发出沉重的金属声。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}则用略带责备的目光望着我。
+
+「……从明天开始，我们还是不要空手出门了」
+
+<BOX type="5">//%sR
+「……说的也是」
+
+<BOX type="0">//%w
+　{ヒロイン}弯腰拿起一个纸包，
+<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　打开包在外面的油纸。
+
+　4英寸型柯尔特“蟒蛇”……
+　如果是她的话，应该是会选择这把枪的。
+
+（注：柯尔特“蟒蛇”有四种不同的型号，枪管分别长2.5英寸、4英寸、6英寸和8英寸）
+
+　在{ヒロイン}检查“蟒蛇”的保存状况和性能的时候，
+  我找出装有0.357马格南子弹的纸袋，递给了她。
+
+　接下来，自己要怎么做呢。
+
+<A HREF="3160.txt" OPERATOR="">//~ 3160
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+
+
+
+60

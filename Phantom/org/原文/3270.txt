@@ -1,0 +1,486 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「弱ったことになったぞ、ドライ」
+
+「ツヴァイたちが、
+　梧桐組に揺さぶりをかけてきた」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「はァ？」
+
+<BOX type="3">//%m
+　まったく関連の見えない二つの名前に、ドライは目をしばたいた。
+
+<BOX type="4">//%sL
+「一体全体、あの二人が、
+　ヤクザ共のどこをどう
+　揺さぶれるってのさ？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの二人は、なにも酔狂で
+学生なぞに身を窶していたわけでは
+なかったようだ」
+
+「例の篠倉学園には、
+　梧桐組のゴッドファーザーの
+　隠し子が通っているらしい」
+
+「ツヴァイ達が
+　あそこの生徒に化けたのは、
+　彼女が狙いだったのだろう」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ミスタ志賀の剣幕たるや……
+　やれやれ……
+　凄まじいものだったよ」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……で、どうするんだよ？
+　これから」
+
+<BOX type="3">//%m
+　固い声で問いつつも、ドライの視線は、遠く窓の外を見つめていた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ミスタ志賀は、二人の日本脱出を
+　静観するよう要求している」
+
+「彼とて歴とした
+　インフェルノのメンバーだ。
+　そうそう邪険にはできん」
+
+「梧桐のプリンセスの安全が
+　確保できるまでは、
+　手出しできんよ」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「残念ながら、
+　今回はここまでのようだ。
+　次の機会を待つしかないな」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　黙然と押し黙るキャルを残して、サイスは部屋を後にした。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　癇癪玉が破裂するのは目に見えている。なにも好きこのんで居合わせることはない。
+
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# passage3 1 sice 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　この展開も、サイスにとっては
+　意外でも何でもなかった。
+
+　藤枝美緒の正体を調べ上げたのはサイスだし、それをアインに教えたことも憶えている。
+
+　だからこそ、アインと逃げたツヴァイが日本にいると知れたとき、真っ先に篠倉学園に目星をつけることができたのだ。
+
+　当然、追いつめられたツヴァイが、美緒を取り引きの材料にしてくることも、予測の内だった。
+
+　だが……
+　この程度のことで二の足を踏む
+ドライであれば、最初からサイスは何も期待したりはしない。
+
+後はもう、策を巡らすまでもない。
+放っておいても、ドライは爆発するだろう。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「おい、サイス」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「おや、ミズ＝リズィ。
+　顔色がすぐれませんな」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐の娘の件、
+　ファントムには……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、
+　たった今、伝えたところです」
+
+「しばらくは近寄らない方が
+　賢明かと思いますが」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　ふざけた口調で言い残すと、
+　サイスはそそくさと
+　自室に戻っていった。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……そうはいかねぇだろうが」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ファントム、
+　ツヴァイたちの件だが……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^8 19
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「打ち切り、だろ？
+　サイスに聞いたよ」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……言わんこっちゃない。
+　オマエが遊び半分に
+　姿を見せたりするからだ」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　言いつつ、リズィの胸中にも、
+　苦いものが湧く。
+
+<BOX type="5">//%sR
+“だからって、
+　堅気の人間まで巻き込むのかよ？
+　ツヴァイ……”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^4 19
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……くそったれ!!」
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+
+<BOX type="3">//%m
+　やおらファントムは、傍にあった椅子を力任せに蹴り飛ばした。
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^6 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あの野郎……あの野郎!!」
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　荒れ狂うファントムを、リズィはやりきれない思いで見守る。
+
+　2年前……
+　かつてファントムを名乗っていたツヴァイが、命懸けで匿おうとしていた少女、キャル。
+
+　当時リズィは、一度も顔を合わせたことがなかったが、後にサイスの連れてきた少女を、リズィは一目で件のキャルだと勘付いた。
+
+年端もいかぬ子供とは思えない、
+冥い眼差しと虚ろな表情。
+ツヴァイに聞かされていた天真爛漫な少女の面影は、まるでなかった。
+
+　そんな彼女が、サイスの許で変貌していく様を、リズィは目の当たりにしてきた。
+
+<BOX type="5">//%sR
+「……そんなにも憎いか？
+　アイツが」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^4 19
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「当たり前でしょ」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今日まで何のために、
+あんたらの言いなりになってきたと
+思ってんのさ？」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あの男を狩り出して、
+　殺るためだよ！」
+
+「ただそれだけのための
+　2年間だったんだよ!!」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……アタシはね、
+　ほっとしてるんだよ。
+　実のところ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^6 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あぁン!?」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オマエとツヴァイが
+　殺り合うってのは……
+　見ていられないよ。キャル」
+
+<BOX type="2">//%w
+　異名ではなく、久しく呼んでいなかった少女の本名を、リズィは口にした。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^3 19
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「見損なわれたもんね。
+　あたしが負けるとでも
+　思ってるの？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうじゃねぇ」
+
+<BOX type="5">//%sR
+「そうじゃねぇが……」
+
+<BOX type="2">//%w
+　キャルが、
+　その手でツヴァイを殺す。
+　本当にそれでいいのだろうか。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「奴は確かに、2年前、
+　大勢を騙してコケにした。
+　アタシだって、謀られたクチさ」
+
+「でもな、
+　オマエ一人に限って言えば……」
+
+「アイツが何も教えなかったのは、
+　オマエを守るためだったんだぜ、
+　キャル」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^4 19
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「守る、だぁ？」
+
+<BOX type="3">//%m
+　憎々しげに、鼻を鳴らすキャル。
+
+<BOX type="4">//%sL
+「笑わせないでよ。
+　奴が守りたかったのは
+　奴自身だけだったんだ」
+
+「あたしが
+　事の次第を飲み込めたのは、
+　インフェルノに入ってからだよ」
+
+「そうなるのを、
+　奴は恐がってたのさ。
+　あたしを騙し通せなくなるのが」
+
+「だからあたしは、
+　ツンボ桟敷に置かれてた」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^6 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「爪弾きにされてたのさ。
+　インフェルノから
+　引き離すためだけに」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でもオマエだって、
+　なりたくて殺し屋に
+　なったワケじゃ……」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「なりたかったんだよ。殺し屋に」
+
+<BOX type="3">//%m
+　笑顔に禍々しい狂気を秘めて、
+キャルはリズィの言葉に割り込む。
+
+<BOX type="4">//%sL
+「最高じゃないか。こちとら今や、泣く子も黙るファントム様だよ」
+
+「街にのさばってたギャング共も、
+　今じゃあたしの名を聞いただけで
+　ビビって震え上がる」
+
+「そんな奴らを蹴散らして、
+嬲って、ブチ殺す。
+こんな楽しい暮らしがあるかい？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「やつは、あたしを恐れてた」
+
+「見えてたのさ。あたしが強くなりすぎるって。いつか追い落とされる羽目になるって」
+
+「あたしを騙して利用したツケを、
+　たっぷり
+　払わされる羽目になるってね」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あと数日は、様子を見るが……
+　帰りの荷物はまとめとけ」
+
+「勝手に外を出歩くな。いいな？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　勿論キャルは、聞いている素振りさえ見せなかったが、リズィはそれ以上念を押すこともなく、彼女の部屋を後にした。
+
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1 rizy^5 20
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# passage3 1 rizy^5 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　今はどんな説教も通用すまい。
+　帰国まで大人しくしているよう、
+　目を光らせておくしかない。
+
+　ああいう「切れたキャル」を、
+　これまでリズィは幾度となく
+　目の当たりにしてきた。
+
+　慎重さや自制など、
+　欠片も持ち合わせていない。
+　本能と直感のままに荒れ狂う、
+　まったくのケダモノだ。
+
+　いや、獣なら……まだいい。
+　野生の獣は、
+　殺しを愉しんだりしない。
+
+　緊張も恐怖もなく、ただ嬉々として、まるで破壊のビートに身を委ねて踊るかのように、殺戮を繰り広げるキャル。
+
+　狂犬……
+そう忌み嫌われるのも無理はない。
+　彼女の無茶に付き合わされて、
+命を落とした仲間も少なくはない。
+
+　自暴自棄、
+　無策無謀。
+
+　にも関わらず、怪我ひとつなく生還し、なおかつ敵を確実に血の海に沈めてくるキャルは……たしかに天才なのかもしれない。
+
+　華々しい成績に、上層部は気をよくしているものの、傍観するリズィにしてみれば、燃え尽きていく花火を眺めているようだった。
+
+　あんなやり方が、長く保つはずがない。いずれは息切れを起こす時がくる。
+
+　そうなる前に、どうにかして、
+　穏便な形で足を洗わせたかった。
+
+　図らずも、こんな世界に足を踏み込む羽目になったキャル……
+　その責任の一端は、リズィにあったのだから。
+
+　そもそもの発端は、リズィとツヴァイのミスが重なったせいだ。
+　あのとき、ワイズメルに目をつけられてさえいなければ……
+
+　仲間内にまで狂犬と呼ばれて忌み嫌われているキャルを、ただ一人リズィだけが、姉貴分として見守り続けているのは、その忸怩たる責任感のせいだった。
+
+<A HREF="3300.txt" OPERATOR="3190=1">//~ 3300
+<A HREF="3280.txt" OPERATOR="">//~ 3280

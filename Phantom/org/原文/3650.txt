@@ -1,0 +1,207 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left classroom4c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="classroom4c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　外には、完全に宵闇が落ちた。
+
+　校舎に立てこもって待つものの、梧桐組に動きはない。
+
+　山中に孤立した篠倉学園の敷地では、
+　人数を嵩にかけて追い立てられては、逃げ延びる望みはない。
+
+　活路といえば、抗戦しかなかった。
+　まず、広い校舎に追っ手を散開させてから、ゲリラ戦で各個撃破。
+　そうしてある程度混乱させたところで、連中の車を奪って逃走する……
+
+　そう{ヒロイン}と示し合わせ、
+　今は東校舎の2階から、闇に沈んだ礼拝堂の森の方角を窺っているのだが、
+　どうしたことか、敵は一向に校舎までやってくる気配がない。
+
+　ただ不気味な沈黙が、無人の校舎を占めている。
+
+「まさか連中、諦めたのか？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうかしら」
+
+<BOX type="0">//%w
+　いつものように楽観を戒める{ヒロイン}の口調とは……
+　今夜は、どこか違っていた。
+　横顔は、いつになく固く張り詰めて、
+　およそ彼女らしからぬ緊張を顕わしている。
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嫌な……予感がする」
+
+<BOX type="0">//%w
+「……？」
+
+<BOX type="5">//%sR
+「この静けさ、まるで……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}が言いかけたところで、
+<se id="1" src="18_02b" mode="normal" time="" loop="on" effect="">//!se 
+　まるで堰を切ったかのように、
+　フルオート射撃の銃声が、夜の校舎を揺るがした。
+
+　梧桐組の連中が持っていた短銃や猟銃の類とは明らかに違う。
+　軽快な高音は、おそらく突撃小銃の高速弾だ。
+
+　何者かが……階下を掃討している!?
+
+　階下からだけでなく、隣の西棟校舎でも、1階で銃声が轟いている。
+　敵は、一体いつの間に侵入してきたんだ？
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「インフェルノ……」
+
+<BOX type="0">//%w
+　そうだろう。間違いない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　室内戦のセオリー通り、身を隠せそうな場所には
+　片っ端からフルオート射撃を浴びせて蜂の巣にしているのだろう。
+　貫通力の高いライフル弾の前には、
+　机やロッカー程度では遮蔽物の役割を果たさない。
+　迂闊に待ち伏せなどしようものなら、潜伏場所もろとも蜂の巣にされる。
+
+　まるきり軍隊の戦法だ。
+　少なくとも4人以上の人数で連携している。
+　梧桐組の襲撃と比べれば、少ない人数にも思えるが、
+　その全員がプロとあっては格段に脅威だ。
+
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="classroom3c">//# classroom3c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「残弾は？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう聞くと、{ヒロイン}は手にしたパイソンに冷たい視線を向ける。
+
+<BOX type="5">//%sR
+「この1ラウンドと……
+　あとはローダーふたつ」
+
+<BOX type="0">//%w
+　弾の切れたスコーピオンは森の中に捨ててきた。
+　突撃銃で武装した集団が相手では、あまりにも心許ない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　かくいう自分はもっと厳しい。
+　{銃}の残弾は、いま装填してあるマガジン限り。予備はない。
+　ヤクザを相手に消耗しすぎた。
+
+　敵は火力で押しきる気だ。
+　真っ向から当たったのでは勝ち目はない。
+
+　どうにかして一人でも倒せれば、
+　その武器を奪取できる可能性も出てくるが、
+　問題は、その一人目をどう倒すか……
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「電源コードを見つけて。
+　何でもいい。
+　3mもあれば足りるわ」
+
+<BOX type="0">//%w
+「……？」
+
+<se id="1" src="アイン走り3" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="passage5c">//# dummy 20 passage5c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　意図を問い質す前に、{ヒロイン}は廊下を駆け去っていく。
+
+　何のつもりか解らないが、ともかく彼女には策があるらしい。
+　言われた通りのものを調達することにした。
+
+<CLEAR><BACKGROUND SRC="classroom2c">//# classroom2c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　さして厄介な捜し物ではない。
+　目についた黒板消しクリーナーを{銃}の銃底で叩き壊し、
+　壁に這わせてあった延長コードもろとも回収する。
+　3m……充分だ。
+
+<CLEAR><BACKGROUND SRC="passage5c">//# passage5c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　廊下の様子を窺うと、
+　{ヒロイン}は教室を片っ端から渡り歩いて、
+　掃除用具入れのロッカーからバケツとモップをかき集めている。
+
+　それで彼女の企みに察しがついた。
+
+　二人は戦利品を抱えたまま、廊下に並ぶ男子、女子用のトイレを目指す。
+
+<CLEAR><BACKGROUND SRC="toilet">//# toilet 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　隣の女子トイレの方が、個室の数は多いのだが
+　おそらく下の二人は、左右の階段から同時に2階に上がってくる。
+　先に掃討されるのは、より階段に近い男子トイレの方だろう。
+
+　蛇口という蛇口を動員して、5個のバケツに水を張り……
+　それを手分けして運んで、ひとつずつ、個室の便器の上に乗せていく。
+
+　さらに内開きの扉に、
+　中からモップを凭れさせ、モップの柄の重みで扉を閉ざす。
+
+　こうして五つすべての個室の扉が閉ざされたところで、
+　最後に、奥にある換気扇から電源コードを引き抜いて、
+　教室から持ってきた分を寄り合わせ、
+　タイル張りの床まで垂れるだけの長さに延長する。
+
+　じつに簡素な罠だが、うまく引っかかれば一人は着実に殺せるだろう。
+　あとは、どこに身を隠すかだが……
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　だが、さっきまではまだ遠かったカラシニコフの咆吼が、
+　今度は耳を聾するほど間近で聞こえはじめた。
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……！」
+
+<BOX type="0">//%w
+　廊下を窺う{ヒロイン}の眼差しが険しくなる。
+
+　奴ら……もう2階に来ている!?
+
+//> right dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//※夜の学校廊下の画像に。次はpassage7c
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="3940.txt" OPERATOR="">//~ 3940
+
+
+0

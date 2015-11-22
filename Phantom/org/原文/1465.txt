@@ -1,0 +1,134 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hotel2 wide 255 crou^9 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「リズィ……」
+
+<BOX type="0">//%w
+　血相を変えて現れた予期せぬ二人に、クロウディアは当惑気味だった。
+
+<BOX type="5">//%sR
+「どうしたの、一体？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「待っても、梧桐は帰らないよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どっかの誰かに、舎弟の連中
+　もろとも蜂の巣にされた」
+
+「洗いざらい、
+　アタシらに吐いた挙げ句に、ね」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　無言のままに、クロウディアの顔から微笑みが退いていった。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……嘘なんだろ？」
+
+「あんなトチ狂った話、
+信じようがねぇ。なぁクロウ、
+ありゃ、まるっきり嘘なんだろ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^a 20
+<BUSTUP NAME="crou" face="a" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不意に、クロウディアは吹き出した。
+
+<BOX type="5">//%sR
+「よほど変な話を
+　聞かされたみたいね」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ああ、そりゃもう……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、筋は通ってたんじゃない？　梧桐の話」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^7 20
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そのはずよ」
+
+「だって、全部本当だもの」
+
+<BOX type="0">//%w
+　誰もが無言だった。
+　誰にも、沈黙を破る言葉がなかった。
+
+　……ただ一人、冷然と微笑むクロウディアを除いて。
+
+<BOX type="5">//%sR
+「そう、梧桐は死んだの……」
+
+「あと一息ってところで、
+　馬鹿な男」
+
+//<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……あんたは……」
+
+<BOX type="0">//%w
+　低く掠れたリズィの声は、むしろ嗚咽に近かった。
+
+<BOX type="4">//%sL
+「何しでかしたのか、解ってるのか？」
+
+「あんた、仲間を裏切ったんだぞ!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「裏切り、ね……」
+
+<BOX type="0">//%w
+　まるで下らない冗談でも聞いたかのように、鼻を鳴らしてクロウディアは冷笑した。
+
+<A HREF="1470.txt" OPERATOR="1150=1">//~ 1470
+<A HREF="1465a.txt" OPERATOR="">//~ 1465a

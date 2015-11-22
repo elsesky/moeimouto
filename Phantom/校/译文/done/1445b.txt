@@ -1,0 +1,89 @@
+//> left bay9 wide 255 rizy^8 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="bay9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我返回高尔夫那里，发现Viper停在旁边，莉兹正等着我。
+
+「莉兹……」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹面无表情地拔出了HARDBALLER。
+
+　面对她的枪口，我无言地低下了头。
+
+<BOX type="5">//%sR
+「刚才，梧桐大辅的话……」
+
+「怎么了？　Phantom。
+你应该知道些什么吧？」
+
+<BOX type="0">//%w
+「……」
+
+我该怎么回答她呢？
+我到底该相信谁呢？
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　似乎从我的沉默中明白了些什么，莉兹放下了枪。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……上车」
+
+<BOX type="0">//%w
+　她用下巴指了指Viper。
+
+<BOX type="5">//%sR
+「现在我要去见克劳蒂娅」
+
+「你也一起来吧，Phantom」
+
+<BOX type="0">//%w
+「嗯……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我也想知道梧桐大辅的话到底是真是假。
+
+<se id="1" src="BMW媫敪恑憱峴" mode="normal" time="" loop="off" effect="">//!se viperGo
+<CLEAR><BACKGROUND SRC="Viper">//# Viper 1
+<WIPE EFFECT="fade" TIME="10">
+
+//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40僋儖乕僕儞僌" mode="normal" loop="off">
+
+<BACKGROUND SRC="僶僀僷乕憱峴1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……你知道她在哪里吗？」
+
+<BOX type="5">//%sR
+「她好像说今夜要去见梧桐组」
+
+「这样的话，她应该在利戈酒店才对」
+
+<BOX type="0">//%w
+　我不禁倒吸了一口冷气。
+　克劳蒂娅是与梧桐组擦肩而过才捡回一条性命的吗。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+<CALC WORKNAME="1445b" OPERATOR="1">//
+<A HREF="1460.txt" OPERATOR="">//~ 1460

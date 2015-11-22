@@ -1,0 +1,232 @@
+<BOX type="0">//%w
+　我刚握住钢笔，笔尖就不受控制地动了起来。
+　{姓}{名}、{姓}{名}、{姓}{名}……
+
+　手与手指都还记得。
+  这几个我写过几百遍、几千遍的文字。
+
+　期末考试，期中考试，每天的小测试……
+
+　3年D組、{姓}{名}……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　然后，记忆在我的脑海中爆发了。
+
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="0210x2">//# 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　班里的同学朋友，社团的学弟学妹，
+  一起哭泣、一起欢笑、一起聊天的伙伴们……
+
+　初恋……我迷恋的女孩子……
+
+　父亲……母亲……
+
+　苦读……考试……毕业典礼……
+
+<CLEAR><BACKGROUND SRC="0210x1">//# 0210x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那个时候，街道两旁的樱花都盛开了。
+
+　就像是为了惜别，更为了庆祝我的升学，
+  花瓣飘落飞舞着。
+　我从心底觉得，它们是那么的美丽。
+
+　那是樱花。日本之花……
+  遥远彼岸的故乡之花……
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　要裂开了。
+  头要裂开了。
+
+<CLEAR><BACKGROUND SRC="street2a">//# street2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  想起来了。
+  为了庆祝毕业，我一个人到美国旅行。
+
+　然后迷路了，看到了那个……
+
+　杀人的瞬间，还有，瞳孔如寒冰一般的女杀手……
+
+<CLEAR><BACKGROUND SRC="0210x2">//# 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{姓}{名}、{姓}{名}……
+　日复一日地，穿着同样的制服，往来于家庭与学校……
+
+<CLEAR><BACKGROUND SRC="factory">//#! factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在荒野的废墟中，在炎炎的烈日下……接受训练……
+
+<CLEAR><BACKGROUND SRC="0210x2">//#! 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　想要去大学，想要实现升学的愿望……
+
+<CLEAR><BACKGROUND SRC="factory4">//#! factory4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　学习小刀与枪的使用方法，记住人体的要害部位……
+
+<CLEAR><BACKGROUND SRC="0210x2">//#! 0210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　终有一天会进入一流的公司，组建家庭，过上幸福的生活……
+
+<CLEAR><BACKGROUND SRC="僂僅儖僗栚">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　去杀人吧。
+　杀吧、
+  杀吧、
+  不管是谁，统统杀掉吧……
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「为什么啊！」
+
+「为什么事到如今才告诉我这些啊！
+　我明明已经死心了，明明已经忘记了！」
+
+「我的人生……不应该是这样……」
+
+<BUSTUP NAME="crou3" face="2" MODE="on" zoom="" ALIGN="right">//# crou3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我真的很想拥有一个可以信赖的部下」
+
+<BOX type="0">//%w
+　克劳蒂娅的目光中，没有同情，也没有安慰，
+　她那不带任何感情的声音，在屋内回响。
+
+<BOX type="5">//%sR
+「不是人偶，不被强迫，
+  以自己的意志跟随我的部下」
+
+「所以，我把一切都还给你
+{姓}{名}君。变回原来的自己吧」
+
+<BOX type="0">//%w
+　变回自己……？
+
+　在双手沾满鲜血之后，
+  在犯下无可饶恕的重罪之后，
+
+　变回普通的学生？
+
+<BOX type="5">//%sR
+「从前认识你的人，
+  谁都不会知道现在的你」
+
+「没有任何的证据」
+
+「在这个国家所发生的一切，只留在你一个人的记忆中」
+
+「所以，忘记吧」
+
+「就像忘记过去那样，
+  把现在的一切忘记吧」
+
+<BOX type="0">//%w
+「做不到啊……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　闭上眼睛就会想起。
+  由于恐惧而变形的沃列斯的死相……
+
+「……做不到啊……」
+
+<BUSTUP NAME="crou3" face="2" MODE="on" zoom="" ALIGN="right">//# crou3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那样的话，
+  跟着我怎么样？」
+
+<BOX type="0">//%w
+没有趁机而入的温柔，也没有引诱的微笑，
+这是克劳蒂娅真心的邀请。
+
+<BOX type="5">//%sR
+「这里，有你的容身之所，
+  有需要你的人」
+
+「如果你愿意让这双手沾染更多鲜血的话」
+
+「我向你保证」
+
+「Inferno的富贵和权利、
+  统治世界的成就感」
+
+「随便你选，
+  只要你愿意就好」
+
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我重新又看了一眼护照……
+  与那个从半年前的过去看过来的自己视线相对
+
+　{姓}{名}。
+　我是以国家之名受到人权保护的，
+  真真正正的日本国民。
+
+　这样的话……
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「你就这样眼睁睁地看着我逃走吗……」
+
+<BUSTUP NAME="crou3" face="2" MODE="on" zoom="" ALIGN="right">//# crou3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅点了点头。
+
+<BOX type="5">//%sR
+「虽然这样会失去你，
+  但是我也没有办法」
+
+「不管怎样，我需要的不是像Phantom那样只会一味顺从的机器人」
+
+「我所需要的，是跟我怀着同样的梦想、志同道合的搭档」
+
+「{姓}{名}，我相信……你就是那样的男人」
+
+<BOX type="0">//%w
+「……请给我时间考虑一下」
+
+　我想独自静一静。
+  不想被任何人打扰，一个人整理一下心情。
+
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当然可以」
+
+<BOX type="0">//%w
+　克劳蒂娅点头同意了。
+  因为，正是她说要让我用自己的意志作出决定。
+
+「这件事还有谁知道吗？」
+
+<BOX type="5">//%sR
+「没有了哦，这是我个人的决定」
+
+「如果你悄悄消失的话，
+  没有人会去追赶你哦」
+
+<BOX type="0">//%w
+「……」
+
+<A HREF="0220.txt" OPERATOR="">//~ 0220

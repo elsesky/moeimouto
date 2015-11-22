@@ -1,0 +1,206 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bar wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="bar">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在邮政局大楼楼顶上发现的兰迪·韦伯的尸体，彻底证实了克劳蒂娅所言非虚。
+
+　死人是不会说话的。
+　维斯梅尔的事也好，兰迪的事也好，都已经无从查起了。
+
+　不过……
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看来有心事啊？Phantom」
+
+<BOX type="0">//%w
+「……酒店是在我解决掉兰迪以后才遭到枪击的」
+
+「还有另外一个狙击手在」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那家伙也是维斯梅尔的手下吧？」
+
+「估计是维斯梅尔的双保险，
+  兰迪不就是被你给干掉了吗」
+
+<BOX type="0">//%w
+「……」
+
+　这实在是说不通。
+
+　曾经是特种部队一员的兰迪，是维斯梅尔手中的王牌。
+　即使是距离800码的长距离射击，他应该也是有挑战的自信的。
+
+　预料到兰迪会失手，部署下其他的狙击手……
+　维斯梅尔会采取这种保守的对策吗？
+
+<BOX type="5">//%sR
+「第二名狙击手……为什么你没有提前发现呢？」
+
+<BOX type="0">//%w
+「我的搜索范围太小了，真是失算了」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「太小了……半径不是达到了1英里吗？」
+
+<BOX type="0">//%w
+「如果用军用反坦克狙击枪的话，射程可以突破2公里。
+  不过那是特种部队才有的装备」
+
+　不管怎么说，即使是这种荒谬的可能性，自己至少也应该考虑一下。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「2公里？」
+
+「难不成敌人是从道奇体育场那里开枪的？」
+
+（注：道奇体育场，美国知名度最高、最具历史意义的体育场，位于洛杉矶，占地300英亩，拥有56000个座位）
+
+<BOX type="0">//%w
+「再近一点的话，就有可能了」
+
+<BOX type="5">//%sR
+「反坦克狙击枪……吗」
+
+<BOX type="0">//%w
+　莉兹做了一个长长的深呼吸。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，敌人所做的也就仅此而已了」
+
+<BOX type="0">//%w
+「这就是奇怪的地方」
+
+「第一枪没有打中，为什么没有继续进行狙击？」
+
+「那个狙击手为什么没有再开第二枪，而是任凭克劳蒂娅杀了维斯梅尔？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「估计是因为第一枪打偏了，因而对自己的技术死心了吧」
+
+「能造成影响的因素很多吧？比如风什么的」
+
+<BOX type="0">//%w
+　的确如此。
+　不管使用多么特殊的狙击枪，进行2公里的长距离狙击都还是太勉强了。
+  
+  大气与重力究竟会给弹道造成怎样的影响……这是谁都无法预料的。
+
+　如果这次的任务容不得失败呢？
+　毫无疑问，狙击手肯定会寻找更为妥当的方案。
+
+　明知这样却还是不管不顾地开了第1枪……那家伙本来应该可以打中的。
+
+「子弹打不中的话就没有任何意义」
+
+「与其选择连自己都不知道有没有把握的长距离进行狙击，不如选择虽然有危险但适合自己的距离」
+
+<BOX type="5">//%sR
+「说不定敌人注意到了我们的警戒态势，还有作为游击手四处徘徊的你」
+
+<BOX type="0">//%w
+　既然能注意到我方的防御，那对方应该不是明知不可能还要挑战的白痴。
+　果然，自己还是有些难以放心不下。
+
+　……
+
+　突然，脑中冒出一个想法。
+　
+　如果从一开始……就没打算打中的话？
+
+「只要不被发现……能不能打中都不重要吗？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊？」
+
+<BOX type="0">//%w
+「不需要开第二枪，最初的那一枪就足够了……如果是这样的话……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「他的目的只是打破玻璃吗？」
+
+<BOX type="0">//%w
+　莉兹不由得笑了起来。
+
+<BOX type="5">//%sR
+「究竟是哪里来的白痴啊，拿着那样的大家伙就为做这种傻事吗？」
+
+<BOX type="0">//%w
+「……」
+
+　问题，就在这里。
+
+　对方到底有什么目的呢？
+
+「要是一切都在按照敌人的计划进行着呢？」
+
+「要是那个狙击手真正的目的……是通过那一枪让当时在场的人互相猜疑呢？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「难道那家伙想让维斯梅尔死吗？」
+
+<BOX type="0">//%w
+　不是这样。
+　不然的话，从一开始就瞄准维斯梅尔不就好了。
+
+「想要借克劳蒂娅的手……杀掉维斯梅尔么」
+
+　如果能够预见到这一切的发生……
+　那家伙……一定已经彻底看穿了维斯梅尔和克劳蒂亚的立场与思考方式。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「算了吧，Phantom」
+
+「假设太多了。再想下去可就难以自拔了哦」
+
+<BOX type="0">//%w
+　……她说的倒也没错。
+　就算像这样寻找常规之外的可能性，也不会让现状有任何改变。
+
+　我叹了口气，将杯中剩余的酒一饮而尽，从椅子上站了起来。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要走了么？」
+
+<BOX type="0">//%w
+「今天实在是太累了」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「别逞强啊，好好休息吧」
+
+<BOX type="0">//%w
+「晚安啦」
+
+<A HREF="1315.txt" OPERATOR="1100=1">//~ 1315
+<A HREF="1350.txt" OPERATOR="1150=1">//~ 1350
+<A HREF="1400.txt" OPERATOR="">//~ 1400

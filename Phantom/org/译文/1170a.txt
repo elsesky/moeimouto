@@ -1,0 +1,107 @@
+//> left vegas wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="vegas">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　对梧桐组的监视已经过去了一周的时间。
+  从昨天开始，这些家伙一直都在拉斯维加斯寻欢作乐。
+
+　对我来说，监视这些毫无紧张感、像游客一样玩乐着的梧桐组成员而不被发现，并不算什么难事。
+
+　不过，我还是得绷紧神经……注意周围是否有别的视线在注视着他们。
+
+<CLEAR><BACKGROUND SRC="kazino2">//# kazino2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　克劳蒂娅的推测根据在于……有一个可以信赖的事实能证明梧桐等人仍处于危险中。
+　不过，对此她也不是完全了解。
+
+　杀掉最初交易的4个人的袭击者，虽然依旧身份不明，但他的目的并不是钱。
+
+　因为，本该用来交换25千克可卡因的500万美金，现在正放在诺曼底大街的阁楼里。
+
+　不知道真相的Inferno依然在按照抢劫金钱这条线索查找着犯人。
+  当然，这样的搜索注定是得不到任何结果的。
+
+　让梧桐组这样静侯事态发展虽说是个消极的方法，不过与被误导的Inferno相比已经要好得多了。
+
+　为了保住凯尔，我无论如何都要在Inferno之前将袭击犯找出来……
+  不过，现在绝不能急躁，必须要耐心等待。
+
+　首先，维斯梅尔是否真的在搜查，这点很值得怀疑。
+
+　按照克劳蒂娅的假设，如果在暗地里搞鬼的人是维斯梅尔的话，那么这一切就都是他设下的局。
+
+//> left kazino wide 255 godo^3 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="kazino">//
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　从刚才开始，梧桐大辅就一直在玩BlackJack（名为黑杰克的21点纸牌游戏）的赌桌前大赢特赢，而他的兄弟中一个叫作室户的家伙却一点都不走运，好象输得很惨的样子。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+//<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　而另一个名为志贺的兄弟则完全没有想要加入游戏的意思。
+  平时，他都是像影子一样跟在梧桐大辅的身旁。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　最后，可能是输的太郁闷了吧，室户退出了游戏，去了酒吧。
+
+　虽然我很在意，可也不能就这样放着梧桐大辅不管。
+
+　如果有同伴的话……
+　偶然间，我将这样的想法与凯尔联系在了一起，胸中不禁涌起一阵苦闷的感慨。
+
+<CLEAR><BACKGROUND SRC="1160p2">//# 1160p2 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　之前射击训练时她的惊人表现，我现在还记忆犹新。
+
+　那不过是偶然罢了……我在心里这样安慰自己。
+
+　可实际上，自己是在极力避免回想那个瞬间。
+
+　那样天真无邪的凯尔，实际上是杀人的天才……这种事我无论如何都不想承认。
+
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　说起来，关于料理她曾经这样说过。
+
+　吃过好吃的东西后，我就会模仿它的做法……
+
+　那个时候我没有在意她的话，
+  可是如果仔细想来，这种事其实并不简单。
+
+模仿做法，说起来很容易。
+可事实上，再现曾经尝过的味道，就意味着能够随心所欲地创造出印象中的任何味道。
+
+　说不定，这孩子在任何方面都能体现出如此的天才潜质。
+
+　这样的话，我希望她能在适合她的领域展现才能。
+　她没有任何成为杀手的理由。
+
+　果然……
+　为她着想的话，就不能长久地将她留在我的身边。
+
+　我必须尽可能早地将她从我们的世界中解放出来。　
+
+<A HREF="1170b.txt" OPERATOR="">//~ 1170b

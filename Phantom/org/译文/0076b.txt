@@ -1,0 +1,320 @@
+<CALC WORKNAME="pyson" OPERATOR="1">//
+<CALC WORKNAME="SWM29" OPERATOR="1">//
+<BOX type="0">//%w
+「和练习时用的手枪一样的……没有别的类型么，
+  比如更大的、更具威力的枪型……」
+
+<BOX type="5">//%sR
+「……我明白了」
+
+<CLEAR><BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　虽然这么说，
+  Ein递给我的手枪，依旧和训练中用的那把没什么区别。
+
+「我说啊，这把枪……」
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 cm 21 dummy 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「试着打开弹匣看看」
+
+<BOX type="0">//%w
+<se id="1" src="02_03" mode="normal" time="" loop="off" effect="">//!se 
+　我照她说的打开枪栓，
+　将收纳子弹的转轮横着推出来。
+
+　没什么特别的嘛……虽然这么想，但自己马上注意到子弹尾部刻着与以往不同的印章。
+
+<CLEAR><BACKGROUND SRC="357抏">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+　我拔出一发子弹，仔细地观察。
+　的确，弹头的形状和材质与一般子弹不同，
+  给人一种说不清的不协调感。
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 cm 21 dummy 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是至今为止使用的0.38英寸口径的特制子弹」
+
+<BOX type="0">//%w
+　说着，Ein递给我一枚别的子弹。
+
+　将它们一对比，区别就很明显了，
+  递过来的子弹弹壳较短，
+  而从枪中拔出的子弹，则有着和转轮几乎一样的长度。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在装在转轮里的，是这把枪……柯尔特“蟒蛇”（Colt-Python）本来的专用弹」
+（注：colt，即柯尔特，世界著名枪械公司，由美国人萨穆尔-柯尔特创设，生产过如加特林、M16、M4等世界名枪）
+
+「0.357口径马格南弹。 弹体较长，因而装药量大，杀伤力之大远远超过其它子弹」
+（注：马格南弹，又译马格努姆弹，由美国Smith＆Wesson公司生产）
+
+「也因为这个原因，它的后坐力非常大，使用时需特别注意」
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我拿着装好马格南弹的“蟒蛇”来到外面。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="僷僀僜儞3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　虽然之前Ein说了很多，不过持枪的感觉并没有什么不一样。
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<CLEAR><BACKGROUND SRC="#ffffff">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="python_幩寕">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　尽管特别注意了，但双臂还是因后坐力而剧烈抖动。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……不过，虽然做不到单纯的快速连射，
+　但一发一发地射击还是不在话下。
+　要是能掌握诀窍的话，自己就能驾驭它了吧。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+「差不多快要掌握用法了」
+
+　击碎20块砖后，我露出这样的感想。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那么，也试试这一把枪吧」
+
+<clear>
+<BACKGROUND SRC="magnum_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……这次的枪出奇的大，而且异常沉重,
+  只是拿着它，手臂都快要麻痹了。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「史密斯威森（Smith&Wesson）M29」
+
+「使用0.44口径马格南弹……
+  威力之大而被称为“手炮”。
+  （注：handcannon）」
+
+「不要说是人，就连汽车引擎都可以一枪击毁」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我忐忑不安地举起枪。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　这种重量下，
+  单单是让枪保持静止就要向手臂前端注入很大力量。
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　尽管提前摆好了姿势，我还是被巨大的后坐力向后推了个趔趄。
+
+　枪身猛烈地向上弹起，向我的头部袭来。
+　稍有疏忽的话额头就会被打到。
+
+　射出的子弹……根本无法判断飞到哪里去了。
+
+「……被这样的枪打中会怎么样呢？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「就算避开要害部位，只要较大的血管被擦到，对手也会当即毙命」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「冲击会使血液逆流，
+  最终导致心脏破裂。」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　我试着打了几发，但始终无法用驾驭其他枪的要领来使用这把枪。
+
+　看来自己必须得从持枪姿势开始下工夫了。
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在废工厂中，Ein布置着新的射击训练场。
+
+支撑着钢架的支柱中间，吊着数块用钢缆系住的胶合板靶子。钢缆连接着50cc的电动机和齿轮盒，用来移动吊着的活靶。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天开始用移动靶训练」
+
+「你必须假设实战中所有的目标都处于移动状态，能够击杀静止目标的机会是微乎其微的」
+
+<BOX type="0">//%w
+　这么说着，Ein启动了发动机。
+<se id="1" src="motor" mode="normal" time="" loop="off" effect="">//!se motor
+　伴随着隆隆的发动机声，
+  缆线被徐徐拉动。
+
+　滑轮的直径和数量都被精心设计过，
+  所以各个靶子的移动方向和速度都各不相同。
+  对自己来说，这恐怕会很麻烦。
+
+<BOX type="5">//%sR
+「虽然光线暗，但要领与在户外没有区别。注意不要被发射焰和枪声所干扰。」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　瞄准移动靶，对于自己而言并不是太难，
+  我在用砖块当靶子的时候，
+  就已经开始训练快速射击的能力了。
+
+　麻烦的是闪光和轰响。
+
+　由于在室内，开枪后的回声形成了极其巨大的响声。
+　注意力被分散，不知不觉连瞄准都变得困难。
+
+　从枪口迸发出的火焰……『发射炎』十分的猛烈。
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　每打一枪，昏暗的工厂内都会被映照得如白昼一般。
+
+　如果正视的话就麻烦了，
+  视网膜像被烧灼一样，无法进行下次的瞄准。
+
+　每一天天黑的时候地面上都落满了空弹壳，
+  连落脚的地方都没有。
+
+//> left room1 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我的鼓膜被枪声所麻痹，
+  脑袋里面充斥着一阵阵的耳鸣声，连睡觉时都不能幸免。
+
+　自己被彻底消耗、燃烧殆尽之后昏昏睡去……
+  生活又回到了从前的样子，
+  但是这一次，精神会比体力先到极限，
+  这种严酷性不是单纯的肉体锻炼比得了的。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="motor" mode="normal" time="" loop="off" effect="">//!se motor
+<wait time="200">
+<box type="0">
+　……心如止水，
+  我全身紧绷地站着。
+
+　身后，发动机在呜呜地响着，
+  转动着的缆线上，标靶在向左向右地移动着。
+
+「……红色的，从面前第一个开始，至第五个结束」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BOX type="0">//%w
+　话音未落，我迅速转身，
+  映入视野的是20块被做了各色标记的胶合板。
+
+　我迅速架起枪……
+　在这个瞬间，眼睛已经将指定的目标全部捕捉完毕。
+
+　红色标靶，从眼前的第一个开始，到第五个为止……
+  只是“看到”目标是无法掌握目标的“位置”的。
+
+　运动方向、速度，一切都预读好了。
+　5个目标的“所在地”也“感知到了”……
+
+<se id="1" src="05_02_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　下面要做的，只是扣动5次扳机。
+
+  不是把“射击、命中”重复5次。
+　必须一击必中、一击必杀……
+
+　我总算抓住了要领。
+
+<calc workname="gun20" operator="1" mode="global">
+<A HREF="#暘婒" OPERATOR="0076a=1">
+<A HREF="#暘婒" OPERATOR="0076d=1">
+<A HREF="0076d.txt" OPERATOR="">//~ 0076d
+<MARKER NAME="#暘婒">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079

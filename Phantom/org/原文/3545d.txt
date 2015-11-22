@@ -1,0 +1,112 @@
+　そうと決めたからには、今すぐにでも行動を起こそう。
+　家に戻る必要はない。銃だって手元にある。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ねえ、一緒に帰らない？」
+
+<BOX type="0">//%w
+「いや……」
+
+　咄嗟の言い訳を、瞬時に頭の中で組み上げる。
+
+「俺、図書館でノートのコピーとっていく。先に帰ってくれ」
+
+<BOX type="5">//%sR
+「あら、
+　この期に及んで試験の準備？」
+
+<BOX type="0">//%w
+「……美緒に、届けてやるよ」
+
+「俺、帰りに美緒の家に行こうと思うんだ。お見舞いに」
+
+<BOX type="5">//%sR
+「あらま……」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　しばし呆気にとられた後で、早苗はにんまりと頬を緩めた。
+
+<BOX type="5">//%sR
+「偉いぞ{姓}！
+　それでこそ、
+　あたしの見込んだ男よ!!」
+
+<BOX type="0">//%w
+　根も葉もない嘘をついた気後れが表情に出ないよう、
+　代わりに、さも迷惑そうに顔を顰めて見せる。
+
+「お前、まさか一緒に行こうなんて言わないよな？」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いぃえいぃえ、
+　滅相もございませんことよ」
+
+「週末の夜は二人のものよ。
+　どぉ～んと行ってらっしゃい！」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ただし相手は、痩せても枯れても病人なんだからね。あまりハードな行為は慎むように」
+
+<BOX type="0">//%w
+「あのなぁ……」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ま、後はあんたたち次第だわ」
+
+<BOX type="0">//%w
+　にこやかに微笑みながら、早苗はショルダーバッグを肩に担ぐ。
+
+<BOX type="5">//%sR
+「いろいろ骨が折れたけど、
+　ようやくあたしもお役御免ね」
+
+「明日明後日は、
+　心置きなく勉学に励めるわ」
+
+<BOX type="0">//%w
+「……色々と、ありがとうな」
+
+　呟く声に、つい万感の想いがこもってしまう。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どういたしまして。
+　お安い御用よ」
+
+<BOX type="0">//%w
+　もちろん早苗は、気付きもしない。
+　週が明ければ、また会う級友……
+　そんな気安い感覚で、今日の日の別れに臨んでいた。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃね」
+
+<CLEAR><BACKGROUND SRC="classroom2b">//# dummy 20 classroom2b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　手を振って教室を出ていく早苗に向けて、
+　心の中で、もう一度、繰り返す。
+
+“ありがとう……”
+
+　今日までの優しい幻想を、
+　懐かしい日々の追体験を、
+　君が、どれほど豊かに膨らませてくれたことか。
+
+　もう、二度と会うこともないが……
+　君のことは、忘れない。
+
+<A HREF="3560.txt" OPERATOR="">//~ 3560

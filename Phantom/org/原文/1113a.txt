@@ -1,0 +1,21 @@
+<BOX type="0">//%w
+　いまどきリボルバーなど時代遅れと、よくリズィには笑われるが、
+　それでも結局、キャリーガンにはパイソンを選んでしまう。
+
+　たしかに自動拳銃の装弾数は魅力だが、
+　どうにも、あの太くていかついグリップには辟易させられる。
+
+　7インチのカスタム＝ガバメントなんて馬鹿げたものを持ち歩いている
+　リズィの方が、余程どうかしてると思うのだが、
+　まぁ、人それぞれだろう。
+
+　誰しも、馴れた得物が一番だ。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<CALC WORKNAME="1113a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

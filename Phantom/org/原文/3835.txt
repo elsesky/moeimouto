@@ -1,0 +1,335 @@
+//> right church2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="church2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「な……何をするんです!?」
+
+<BOX type="2">//%w
+　怒声とともに得物を振りかざし、礼拝堂へと雪崩れ込んでいくヤクザたちの姿に、今度こそ、彼らの意図するところを理解した美緒は、悲痛な声で志賀を糺した。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　その美緒を、志賀は悲しげな目で一瞥したきり、目を背けるようにして、傍らの部下に指示を飛ばす。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「太田、それと本庄……
+　美緒さんを、車にお連れしろ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「へい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　遠慮がちな、だが有無を言わさぬ腕力が、美緒の両肩にかけられる。
+
+　美緒を守る……
+
+　志賀の、その言葉の意味するところは、美緒の希望とはあまりにも隔たっていた。
+
+　志賀と梧桐組の郎党は、美緒の安全を脅かした者すべてを抹殺する気なのだ。
+
+　{名}も、
+　{ヒロイン}も、
+　もろともに……
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「待って、待って!」
+
+<BOX type="2">//%w
+　少女の叫びを、聞く者はない。
+
+　無理矢理に、引き戻されていく。
+　{名}のいない世界へと。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いやっ!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　渾身の力で、美緒は左右を固めた男たちの手を振り払うと、修羅場と化した礼拝堂へと走った。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="INchurch4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　スコーピオンの弾が切れた。
+
+　そこへ申し合わせたかのように、
+　側廊から一人が日本刀を振りかざして突進してくる。
+
+<BUSTUP NAME="ポン刀" face="2" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ぅおらあぁぁ!!」
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　粗々しい奇声とともに振り下ろされた刀身を……
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　間一髪、スコーピオンの銃身とマガジンで、十手の要領で受け止める。
+
+　そのまま刀を引く間を与えずに、
+　相手の腹に{銃}の銃を押しつけ。引き金を引いた。
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="#ffffff">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="INchurch4">//# INchurch3mob 1 dummy 19
+<BUSTUP NAME="ポン刀" face="3" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="5">//%sR
+「がぁッ!!」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　臓物をまき散らしながら、
+　男は弾き飛ばされたように、信徒席へと転がり落ちる。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　あと何人……
+　あと何人いる？
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　動くものすべてに向けて{銃}を撃ちまくりながら、
+　胸の内でそう吠える。
+　状況は絶望的だった。
+　次に弾が切れたら、もう、後はない。
+
+　畜生……ここまでか……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BOX type="5">//%sR
+「{名}さん!!」
+
+<CLEAR><BACKGROUND SRC="3835p3">//# 3835p3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="美緒足音" mode="normal" loop="off">
+<BOX type="0">//%w
+　男たちの怒号の合間から、その声を聞いた瞬間は、耳を疑った。
+
+　居並ぶヤクザたちも面くらい、一様にその場で身体を硬直させる。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　まるで時を止める魔法にかかったような、突然の静寂の中を、
+　彼女は真っ直ぐに駆け抜けてきた。
+　硝煙と血臭の立ちこめる中に、セーラー服の裾がひるがえる。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="抱きしめる" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="3835p2">//# dummy 20 3835p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「{名}さん!!」
+
+<BOX type="0">//%w
+「……美緒？」
+
+　長い黒髪と、涙の筋を虚空に散らし、美緒は胸の中に飛び込んできた。
+
+<BOX type="4">//%sL
+「{名}さん、{名}さん……」
+
+<BOX type="0">//%w
+　しゃくり上げ、溢れ出る涙を、胸に擦り付けてくる美緒。
+
+<BOX type="4">//%sL
+「会えた……
+　もう一度、会えた……」
+
+<BOX type="0">//%w
+　美緒が……なぜ、ここにいる？
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# INchurch3mob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　呆気にとられたヤクザたちの間を掻き分けて、
+　もう一人、見た顔が礼拝堂に割り込んできた。
+
+　志賀だ。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga3^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「美緒さん、離れろ!
+　そいつはあなたを……」
+
+<BUSTUP NAME="mio1" face="0" MODE="on" zoom="" ALIGN="right">//# mio1^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やめて!!」
+
+<BOX type="0">//%w
+　濡れた瞳に怒りを湛え、美緒は志賀を睨みつける。
+
+<BOX type="5">//%sR
+「それ以上近寄らないで！」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="left">//# siga3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……落ち着くんだ、美緒さん。
+　その男は、
+　あなたを騙していただけだ」
+
+<CLEAR><BACKGROUND SRC="3835p1">//# dummy 19 3835p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　無言のまま、美緒は後ろ手に、スコーピオンの銃身に手を触れた。
+
+「……美緒？」
+
+<BOX type="0">//%w
+　そのまま彼女は、手の中の銃身を持ち上げて、自分のこめかみへと導く。
+
+　居合わせた全員が、緊張に息を呑んだ。
+
+<BOX type="4">//%sL
+「{名}さん。
+　もし、あの人たちが
+　少しでも動いたら……」
+
+「構わず撃ってください。私を」
+
+<BOX type="0">//%w
+「……美緒」
+
+<BOX type="4">//%sL
+「私、戦い方なんて知らないし、
+　{ヒロイン}さんみたいな
+　勇気もない」
+
+「だから、あなたの力になれなくて……それが悔しくて仕方なかった」
+
+「でも今は……今だけは、
+　私、あなたを助けられます」
+
+<BOX type="0">//%w
+　君には決して、縁のないはずだった場所なのに……
+
+　なのに君は来たのか？
+　ただ、それだけのために……
+
+<BOX type="4">//%sL
+「皆に言ってください。
+　私を撃つって」
+
+<BOX type="0">//%w
+「……」
+
+　そっと美緒の肩に手を回し、柔らかく、
+　それでも傍目には羽交い締めに見えるよう、力を込める。
+
+「全員、ゆっくり、武器を捨てろ」
+
+　そっと美緒の肩を抱き、
+　それでも志賀たちには締め上げているように見せかけながら、
+　押し殺した声で恫喝する。
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# siga3^3 19 dummy 20 INchurch3mob 1
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20 INchurch3mob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……捨てるんだ。
+　奴の言うとおりにしろ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<BUSTUP NAME="乱入やくざ" face="" MODE="on" zoom="" ALIGN="right">//# siga3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　苦々しい志賀の声が、ヤクザたちを狼狽させる。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20 INchurch3mob 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「捨てるんだ!!」
+　
+　檄を飛ばすと、不承不承、男たちは得物を床に落とした。
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+
+「……道を開けろ」
+
+　殺意を込めた視線の群は、割れる紅海のように左右に道を開ける。
+
+　その合間を、ゆっくりと、二人は歩を進めた。
+
+“出口まで行ったら、走る。いいね……”
+
+　耳元で囁くと、美緒は小さく頷いた。
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# siga3^3 19 dummy 20 INchurch1 1
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="left">//# siga3^3 19 dummy 20 INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「美緒さん……」
+
+<BOX type="0">//%w
+　苦しげに声を絞り出す志賀に向けて、美緒はそっと、かぶりを振った。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「動くんじゃないぞ、貴様ら……」
+
+　包囲を抜けたところで、
+　最後にもう一度、男たちを睨み回し、凄んで見せる。
+
+「追ってくるなら、この子は殺す。いいな……」
+
+　美緒の肩に巻いていた腕を解いて、そのまま彼女の手を取ると……
+<se id="1" src="二人走る" mode="normal" time="" loop="off" effect="">//
+　あとは脱兎のごとく駆け出した。
+
+<CLEAR><BACKGROUND SRC="church2">//# church2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　示し合わせた通り、美緒もついてくる。
+　ともに駆ける足は、驚くほどに力強く軽かった。
+
+<A HREF="3860.txt" OPERATOR="">//~ 3860

@@ -1,0 +1,357 @@
+　凯尔会死。
+
+　正当我这样确信的时候，身体早已不由自动地动了起来。
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch2">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　六发马格南弹飞向各个方向。
+
+　同时，{ヒロイン}的左臂像翅膀一般展开。
+
+<CLEAR><BACKGROUND SRC="3720p1">//# 3720p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　以为抓住了机会、从忏悔席里一跃而出的凯尔对此毫无察觉。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+
+<CLEAR><CLEAR><BACKGROUND SRC="knife2">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　锋利的刀刃割裂了空气。
+
+「凯尔!!」
+
+　当我从旁边跃出，挡在凯尔身前的时候……我甚至不介意被凯尔的枪击中。
+
+　我要挡在锋利的小刀和凯尔的身体之间……这是脑中唯一能想到的事。
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="10">
+//<wait time="900">
+<wait time="200">
+<se id="1" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+<CLEAR><BACKGROUND SRC="#000000">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="#ffffff">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+　左肩传来一阵烙铁般的痛楚……
+
+　但与之相比，我最先感受到的是及时挡住小刀的欣慰……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+『为什么啊……』
+
+　耳边立刻响起一个声音。
+
+　令人怀念的声音，
+  令人怀念的气息和头发的香味……
+
+『你这是干什么！？
+  你怎么这么傻！！』
+
+　伴随着慌乱的责问，令人怀念的面孔出现在我的眼前。
+
+「抱歉啊……」
+
+「我果然还是不擅长说谎」
+
+//> right INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="儗僀僕僪儔僀傪偐偽偆">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　凯尔仰面倒在冰冷的木地板上……只能感觉到压在身上的{名}的重量和温热的鲜血。
+
+　被{名}左肩挡住的刀子……本应该在空中飞行后准确无误地刺进凯尔的咽喉。
+
+　为什么要保护自己？
+  {名}挺身而出保护的人……为什么，会是自己？
+
+　这份疑问充斥着凯尔的大脑，令她的一切思考都陷入了麻痹。
+
+<clear>
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　就在凯尔仰面朝天倒在地上的时候，{名}的身体突然被人从身上拖开了。
+
+是Ein。
+她不慌不忙地检查着玲二的伤势，在确认动脉没有受到伤害后，便小心翼翼地拔出了刀子。
+
+　玲二垂下了头……他似乎已经失去了意识。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为什么……」
+
+<BOX type="0">//%w
+　必须张口询问，可没有人是自己询问的对象。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你不明白吗？」
+
+<BOX type="3">//%m
+　Ein立刻反问道，她的声音一如既往地冰冷无情。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「因为，这就是他所期望的结果」
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^9 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　正当凯尔想要继续追问的时候，Ein用手势制止了她。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="INchurch5">//# elen7^5 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　她的视线……冷冷地望向人影浮动的彩色玻璃。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　凯尔也注意到了。
+　残存的彩色玻璃的另一侧，众多隐藏了脚步声、却毫不掩饰地放出杀气的人影在左右奔走着。
+
+　Ein无言地走到祭坛边上，拿起刚才扔掉的Vz61。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「把{名}带到祭坛后面去」
+
+<BOX type="3">//%m
+说着，Ein从怀中取出备用弹夹，
+<se id="1" src="04_03" mode="normal" time="" loop="off" effect="">//!se 
+装在Vz61上。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^9 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　那把枪……
+　不是已经打光子弹被扔掉了吗？
+　凯尔的脑中闪过这样的疑惑。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　可是，没等她发问……
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　周围的彩色玻璃突然被从外打碎，手枪和霰弹枪的枪口从缺口处露了出来。
+
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="left">//# elen5^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「快点！」
+
+<BOX type="3">//%m
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　伴随着这样的尖声斥责，Ein手中的Vz61喷出了火焰。轻快的射击声中，幸存的玻璃也被打成了碎片。
+
+　袭击者们慌张地撤回了枪口。
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　以枪声为开端，数名男子从礼拜堂的入口那里冲了进来。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　Ein以迅雷不及掩耳的速度扣下扳机，在0.32ACP弹的攻击下，2个人应声倒在礼拜席那里。
+
+　没时间犹豫了。
+　凯尔担起{名}的身体，在Ein的掩护下弯腰朝祭坛冲去。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　在她冲进祭坛后面的时候，Ein也一边后退一边更换起Vz61的弹夹。
+
+<se id="1" src="嫵夛儎僋僓廵寕" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　Ein的火力压制刚一消失，早已占据左右窗户的家伙们便开始了攻击。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+这一次，他们的火力全都集中到了祭坛这里。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="僪儔僀儗僀僕傪偐偐偊傞3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「刚才，你扔掉那把枪……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是为了跟上你的节奏」
+
+<CLEAR><BACKGROUND SRC="僪儔僀儗僀僕傪偐偐偊傞3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　听到Ein若无其事地这样说，凯尔不禁打了一个寒颤……同时感受了无可置疑的败北感。
+
+　相比自己，她更胜一筹。
+　虽然自己放言要赌上Phantom之名，与{名}一较高下，可结果却连Ein都敌不过……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="left">//# elen5^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　将哑口无言的凯尔放在一边，Ein再次从祭坛探出身体，用Vz61一阵乱射。
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　入口那里，又有几个打算冲进堂内的家伙哀嚎着滚倒在地。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　敌人……看来是一伙的，但却没有统一的指挥。
+　他们只是怒吼着向前猛冲，完全不讲任何战术，只是空有胆量的外行罢了。
+
+……是梧桐组。
+凯尔终于明白了。看来他们总算察觉到美绪已经被释放了。
+
+　虽说他们不过是外行人，可是被群起而攻之的话还是会让人无法应付。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那里的神父室里有后门」
+
+<BOX type="3">//%m
+　在射击的间隙，Ein这样说道。
+
+<BOX type="4">//%sL
+「{名}的伤不是很重。
+  你带着他逃走吧」
+
+<CLEAR><BACKGROUND SRC="僪儔僀儗僀僕傪偐偐偊傞3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我在这里拖住他们」
+
+<CLEAR><BACKGROUND SRC="僪儔僀儗僀僕傪偐偐偊傞3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔不禁怀疑起自己的耳朵。
+　就算再怎么强大，一个人也是无法应付如此众多的敌人的。
+
+<BOX type="5">//%sR
+「为什么你要做到这种地步？」
+
+「你是我的……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="left">//# elen7^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「与敌人什么的无关」
+
+「我只会保护{名}和对{名}来说重要的东西」
+
+<CLEAR><BACKGROUND SRC="僪儔僀儗僀僕傪偐偐偊傞2">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　凯尔不禁怒上心头。
+
+<BOX type="5">//%sR
+“开什么玩笑……”
+
+“这样一来不就好像只有我一个人是傻瓜吗！”
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「气不过的话，下次再来杀我好了」
+
+<BOX type="3">//%m
+　就像看透了凯尔的心中所想一样，Ein淡淡地说道。
+
+<BOX type="4">//%sL
+「但是，这一次{名}就交给你了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔低下头，望向怀中血气尽失的{名}那如同睡着了一样的脸。
+　虽然不是致命伤，但也不能放任不管。
+
+　这么说来，刚才……
+
+　翻腾上涌的感情仿佛要撑裂自己的胸口。
+
+　不行。
+　不能在这里。
+
+<CLEAR><BACKGROUND SRC="僪儔僀儗僀僕傪偐偐偊傞">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你可不要死在这里啊!!」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="doorslam" mode="normal" loop="off">
+<BOX type="2">//%w
+　扔下这样的话，凯尔抱起{名}，头也不回地朝神父室跑去。
+
+　眼角涌出了泪水……
+　看来，自己总算逃过了Ein的责备。
+
+<A HREF="3740.txt" OPERATOR="">//~ 3740
+
+
+3740

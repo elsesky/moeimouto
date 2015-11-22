@@ -1,0 +1,235 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left roomc2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="roomc2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="callsine" mode="normal" time="" loop="off" effect="">//!se callsine
+　从{ヒロイン}的口袋中传出了通话机的声音。
+
+　对方是谁，不用想也知道。
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+　我按下开关，在那个刺耳的声音响起之前这样说道。
+
+「你的Ein……很强。赛斯·玛斯塔」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……喔？』
+
+<BOX type="0">//%w
+　通话机那一侧的声音稍稍有些惊讶。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『这个声音……是Zwei吗。这么说，已经结束了么』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「不要叫我Zwei」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『哼哼……说的也是』
+
+『为了对你如此完美的成长表示敬意，我也用Phantom来称呼你吧』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「那个名字也已经是过去了」
+
+「我已经不是Inferno的人了，所以你还是不要叫错人的好」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『听起来不像是在胡言乱语。莫非你想要彻底背叛Inferno么』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「不要装傻了，赛斯」
+
+「我和克劳蒂娅可是有王牌在手哦，绝对会赢的」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『冈宾诺似乎也有叛离的意思吧？』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……」
+
+　被看穿了吗。
+　不过，赛斯的武器正是他的一双慧眼。
+　梧桐大辅也好，维斯梅尔也好，甚至还有克劳蒂娅，全都被他玩弄于股掌之中。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『原来如此。
+以背叛出名的克劳蒂娅·麦肯宁的确会这么考虑』
+
+『难道说，你还打算继续跟随她吗？Phantom』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「那又怎么样？」
+
+　赛斯大大地叹了一口气，打断了我的话。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『成长速度惊人，但分析能力还远没有成熟啊』
+
+『你并不愚蠢，所以先冷静地考虑一下吧』
+
+『克劳蒂娅靠什么来投奔冈宾诺家族呢』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「我们手里可是有着……Inferno的绝密情报』
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『那样的东西并不能表示出所谓的诚意』
+
+『无论什么时候，最佳的礼物都是……活祭品』
+
+『比如说，对了……杀害家族2号头目的凶手的首级』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+　在赛斯夹杂着冷笑的声音中，我渐渐愤怒起来。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『要是献上冈宾诺恨之入骨的Phantom的首级，想必会受到纽约方面盛大的款待吧』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+　赛斯说的没错。
+　无论自己多么愤怒、多么不想接受，可他的的确确是对的。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『这可是克劳蒂娅小姐的惯用伎俩哦』
+
+『她应该已经约好要带你一起走了吧』
+
+『……不过，那都是等子弹打中你的心脏以后的事了』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……你有什么证据」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『你应该听说过吧，那个名为罗梅洛的少年最后有着怎样的下场？』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『你不应该走上和他一样的穷途末路』
+
+『只有Inferno才是适合你的地方，Phantom』
+
+『幸运的是，现在的你仍有为Inferno立功的机会』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……什么？」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『处死叛徒——克劳蒂娅』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『用你的手杀掉那个狐狸精，从而证明自己对组织的忠诚』
+
+『我会以我的名义保证你所受的待遇』
+
+『这次的事件对Inferno造成了很大的损害』
+
+『如今，组织正需要像你这样才能与忠心兼备的下属』
+
+『当然，你不必马上答复我。
+对于你的判断力，我一直都是相信的……』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="0">//%w
+「见鬼去吧，赛斯」
+
+　我再也无法忍受赛斯令人作呕的声音，
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+　狠狠地将通话机扔到地上摔碎了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bedRoom2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="bedRoom2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在众目睽睽之下身着染血的衣服是极不明智的，所幸的是，克劳蒂娅的房间里放有可供替换的服装。
+
+//> left driveInn2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="driveInn2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　由于战斗的缘故，我几乎是踩着点到达约定的汽车饭店的。不过，克劳蒂娅直到30分钟后才出现。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……抱歉啊。有点晚了」
+
+<BOX type="0">//%w
+「……谈判不太顺利吗？」
+
+<BOX type="5">//%sR
+「正是如此」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过对方已经接受了我们的条件」
+
+「光碟呢？」
+
+<BOX type="0">//%w
+　我用指尖夹着那张自己豁出命带回来的光碟，给克劳蒂娅看了看。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这下我们就胜券在握了。{名}」
+
+「接下来只需要与他们在蒂华纳的联络员进行汇合，乘飞机逃离这里」
+
+（注：蒂华纳，墨西哥西北边境的自由市，临近太平洋，北距美国圣迭戈19公里）
+
+「时间就在今天的黎明，我们得马上动身了哦」
+
+<BOX type="0">//%w
+「……这样啊」
+
+<A HREF="1700.txt" OPERATOR="">//~ 1700

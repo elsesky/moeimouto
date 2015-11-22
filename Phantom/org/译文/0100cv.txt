@@ -1,0 +1,18 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left shop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="shop" mode="fadein" old="fadeout" time="10" loop="on">//$ shop.swa 0 255
+<BACKGROUND SRC="shop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<CALC WORKNAME="‚fƒKƒoƒƒ“ƒg" OPERATOR="1" MODE="global">//
+<CALC WORKNAME="ŽËŒ‚‰¹" OPERATOR="11_02">//
+<CALC WORKNAME="e" OPERATOR="ƒRƒ‹ƒg">//
+<CALC WORKNAME="e‰æ‘œ" OPERATOR="ƒKƒoƒƒ“ƒg">//
+<CALC WORKNAME="ŽËŒ‚‰æ‘œ" OPERATOR="ƒKƒoƒƒ“ƒg2">//
+<CALC WORKNAME="\‚¦‰æ‘œ" OPERATOR="">//
+<CALC WORKNAME="0100CV" OPERATOR="1">//
+<A HREF="0110.txt" OPERATOR="">//~ 0110

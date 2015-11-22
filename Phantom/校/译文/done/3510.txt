@@ -1,0 +1,218 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="Jroom2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　清晨……
+　正当自己做着上学前的准备时，手机突然响了起来。
+<se id="1" src="phone2" mode="normal" time="" loop="off" effect="">//!se phone2
+
+　液晶屏上显示着呼叫者的名字。
+　……是美绪。
+
+　这么早打来电话，出什么事了吗？
+　明明可以等到了学校再说……
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+「喂？」
+
+<BOX type="4">//%sL
+『抱歉，不是美绪哦』
+
+<BOX type="0">//%w
+「!!」
+
+　这种无人可比的剽悍语气，自己是不可能听错的。
+　
+　为什么，凯尔会……？
+
+　我又确认了一次来电显示……没有错，是美绪的号码。
+
+　也就是说，凯尔正拿着美绪的手机吗。
+　
+　身体开始不住地颤抖起来。
+
+「……美绪怎么了？」
+
+<BOX type="4">//%sL
+『还活着哦。
+　知道这些就够了吧？』
+
+<BOX type="0">//%w
+「凯尔，你……」
+
+<BOX type="4">//%sL
+『放心吧，我不打算对她做什么』
+
+『准备逃走已经够辛苦了，我担心你再担上个人质就撑不住了』
+
+『所以由我来帮你看着她。你要好好谢谢我哦』
+
+<BOX type="0">//%w
+「为什么!?　你的目标不是只有我一个人吗！你我之间的事跟美绪一点关系都没有……」
+
+<BOX type="4">//%sL
+『你不是想回到平常的生活中去吗』
+
+『我就如你所愿保护你想过的生活』
+
+『不会让梧桐组和Inferno出手。你只要乖乖去上学就安然无事』
+
+『但是……不允许你突然消失』
+
+『虽然不知道你想逃到哪儿，要是你敢跑到我看不到的地方……』
+
+『美绪就会去那个世界和她的哥哥见面了』
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="4">//%sL
+『总之，藤枝美绪暂时是不能去上学了』
+
+『老师那边就由你敷衍过去好了』
+
+『给我记住，我会一直盯着你的』
+
+『好啦，赶快出门吧，要迟到了哦』
+<se id="1" src="実懷僣乕僣乕" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　在凯尔的冷笑声中，电话被挂断了。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+　我赶忙按下号码盘上的按键……
+　可是，电话公司的来电录音装置只传出无法通话的报告，看样子是被切断了电源。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="Jroom2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么了？」
+
+<BOX type="0">//%w
+　听到{ヒロイン}的询问，我停了一下，没有马上回答。
+
+「美绪……被凯尔绑架了」
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么会……」
+
+<BOX type="0">//%w
+　这一次，即使是{ヒロイン}也难以掩盖内心的震动。
+
+<BOX type="5">//%sR
+「……想不到……她会不惜背叛Inferno」
+
+<BOX type="0">//%w
+「看来是这样」
+
+　我的声音变得非常冷酷，仿佛是别人发出来的一样……而心中则是烧起了一团无名业火。
+
+「也就是说，她对我的仇恨是如此之深」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这也是没办法的事。
+　即使杀了我，恐怕也无法平复凯尔的仇恨吧。毕竟我对她做了那么过分的事。
+
+　可是，为什么要把美绪牵扯进来？
+　她究竟做了什么呢？
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+  无法控制的冲动驱使着身体，我狠狠地一拳砸在墙上。
+
+　美绪本应受到保护。
+　她的日常生活绝不应该受到威胁……事到如今，这一切已经成为了谎言。
+
+　为什么，会是这样的结果？
+
+“一直不都是这样的吗”
+
+　从内心最黑暗的底层，传来了窃窃私语般的嘲笑声。
+
+“只要和你扯上关系，最后就会变成这样。
+  凯尔那时候不也是这样吗？”
+
+“没有什么意外的吧。
+  你应该清楚不是吗？从你决定要利用美绪那时开始……”
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+「可恶……」
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　我不停地击打墙壁，拳头都渗出了血。
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+「可恶，可恶……」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在我们应该分头行动」
+
+<BOX type="0">//%w
+　{ヒロイン}突然的提议让我有些摸不着头脑。
+
+「分头行动……？」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我潜出去找Drei」
+
+「你就按她说的乖乖待着」
+
+「在这期间，我会干掉Drei，救出美绪」
+
+<BOX type="0">//%w
+「开什么玩笑!!」
+
+「我们现在可是被她监视着啊。
+　要是做出什么刺激她的事，美绪就……」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「冷静下来听我说，{名}」
+
+「的确，如果我消失的话，Drei可能会发怒……」
+
+「可是，如果只有我一个人的话，她是不会对美绪出手的」
+
+<BOX type="0">//%w
+「……为什么你说的这么肯定？」
+
+<BOX type="5">//%sR
+「她的目标不是我，而是你，{名}」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为了牵制住你，她需要留着美绪」
+
+「美绪是Drei最后的王牌，单凭我一个人的挑拨她是不会用的」
+
+<BOX type="0">//%w
+　说不定，真的是这样吗……
+
+<CHOICE HREF="3520.txt" TEXT="＊凯尔的事就交给我吧" OPERATOR="3190=1"></A>//{ ＊キャルについては任せろ 3520 ＊美緒に万が一のことがあったらどうする？ 3530
+<CHOICE HREF="3530.txt" TEXT="＊要是美绪有个三长两短怎么办？" OPERATOR="3190=1"></A>//{ ＊キャルについては任せろ 3520 ＊美緒に万が一のことがあったらどうする？ 3530
+
+<A HREF="3520.txt" OPERATOR="">//~ 3520

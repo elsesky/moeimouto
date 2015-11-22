@@ -1,0 +1,199 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这家伙是……」
+
+<BOX type="2">//%w
+　见到递过来的照片，平时一贯沉着冷静的志贺也有些难以抑制自己的怒火。
+
+<clear>
+<BACKGROUND SRC="幨恀">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+一张照片上显示的，
+是室户丧命的拉斯维加斯的酒店。
+
+　恐怕是从边上的酒店用长镜头偷拍的吧。画质虽然不太清楚，但屋内的情形倒是拍的一清二楚。
+
+　拿着沾满血的剃刀、检查室户尸体的男子的相貌能够被清楚地辨认。
+
+　另一张照片也是用长镜头拍摄的。
+　刚才的那个男子，正大摇大摆地站在楼顶上，手里拿着狙击枪。
+
+照片的边缘用马克笔写有补充的内容。
+大楼是洛杉矶时代杂志编辑部，男子瞄准的方向是西南……伯纳酒店的方向。
+
+<clear>
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%w
+　提供照片的人倒是无视这位梧桐组年轻参谋的怒火，泰然地坐在沙发上。
+
+　他就是志贺作为洛杉矶黑社会的顾问而雇佣的德国人，盖瑟培。
+
+对这次的事件留有一丝怀疑的志贺，专门让他收集了相关的情报。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「对这个男人有印象吗？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯……」
+
+<BOX type="2">//%w
+　不会错的。
+　是那个一直跟在克劳蒂娅·麦肯宁身边的小子。
+
+<BOX type="5">//%sR
+「可是，你怎么会有这些照片？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这是因『布拉迪兹』的崩溃而泄露出来的情报」
+
+「看起来，死去的艾扎克·维斯梅尔先生一直在派密探监视着这个男人」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果是这样……」
+
+「既然掌握了这些材料，维斯梅尔为什么没有动手？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「估计是为了慎重起见吧」
+
+「为什么麦肯宁小姐的部下要袭击你们……」
+
+「这里面的原因谁也不知道对吧」
+
+「老实说，我也很吃惊」
+
+「麦肯宁小姐为了邀请你们加入Inferno，应该是倾尽了全力才对……」
+
+「你们有什么地方得罪她了吗？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你没有知道的必要」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这样么」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你先回去等着吧，盖瑟培」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我知道了，那么下次再见吧……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　盖瑟培出去以后，志贺叫来在一旁待命的一个小弟。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「马上联络少头目，快」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="phone" mode="normal" time="" loop="off" effect="">//!se phone
+　吃过晚饭，正在休息的时候，我接到了莉兹的电话。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+<BOX type="5">//%sR
+『喂，Phantom，现在可以马上行动吗？』
+
+<BOX type="0">//%w
+「发生什么事了，这么突然？」
+
+<BOX type="5">//%sR
+『布拉迪兹的残党有奇怪的举动』
+
+『我想偷偷地跟踪他们，可总觉得一个人有些不安全』
+
+<BOX type="0">//%w
+　原来如此。
+
+<BOX type="5">//%sR
+『我不想弄出太大动静惊动别人，你能帮我一把吗？』
+
+<BOX type="0">//%w
+「知道了，我该去哪里？」
+
+<BOX type="5">//%sR
+『我们在洛杉矶港口那里碰头，20点』
+
+<BOX type="0">//%w
+「明白了」
+
+//仸廵慖戰
+<CLEAR>
+<BACKGROUND SRC="廵\対廵慖戰back">
+
+// 廵傾僯儊乕僔儑儞 TYPE="97" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="34" y="396" TYPE="97" FILE="cg\廵\3D柍偟.jpg">
+
+// 廵愢柧 TYPE="98" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="276" y="396" TYPE="98" FILE="cg\廵\愢柧柍偟.png">
+
+// 廵慖戰丂TYPE="99" FILE偱巜掕偡傞偺偼丄"捠忢昞帵夋憸 ; 儅僂僗僆乕僶乕帪夋憸 ; 儅僂僗僆乕僶乕僄儕傾夋憸 ; 廵愢柧僥僉僗僩夋憸 ; 廵傾僯儊乕僔儑儞夋憸 亊 24枃"偲側偭偰傑偡丅
+// 儅僥僶
+<CHOICE HREF="1400MM.txt"   x="127" y="8" TYPE="99" FILE="cg\廵\儅僥僶.png;cg\廵\儅僥僶.png;cg\廵\儅僥僶a.png;cg\廵\儅僥僶s.png;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_00.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_01.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_02.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_03.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_04.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_05.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_06.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_07.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_08.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_09.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_10.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_11.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_12.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_13.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_14.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_15.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_16.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_17.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_18.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_19.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_20.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_21.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_22.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_23.jpg" OPERATOR="M2006=1">
+// 僨僓乕僩僀乕僌儖
+<CHOICE HREF="1400Ie.txt"   x="235" y="13" TYPE="99" FILE="cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖a.png;cg\廵\僨僓乕僩僀乕僌儖s.png;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_00.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_01.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_02.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_03.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_04.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_05.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_06.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_07.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_08.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_09.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_10.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_11.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_12.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_13.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_14.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_15.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_16.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_17.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_18.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_19.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_20.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_21.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_22.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_23.jpg" OPERATOR="50AE=1">
+// 僔僌
+<CHOICE HREF="1400S6.txt"   x="485" y="30" TYPE="99" FILE="cg\廵\僔僌.png;cg\廵\僔僌.png;cg\廵\僔僌a.png;cg\廵\僔僌s.png;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_00.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_01.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_02.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_03.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_04.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_05.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_06.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_07.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_08.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_09.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_10.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_11.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_12.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_13.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_14.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_15.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_16.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_17.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_18.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_19.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_20.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_21.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_22.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_23.jpg" OPERATOR="P226=1">
+// 儀儗僢僞
+<CHOICE HREF="1400BS.txt"   x="0" y="139" TYPE="99" FILE="cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞a.png;cg\廵\儀儗僢僞s.png;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_00.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_01.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_02.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_03.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_04.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_05.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_06.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_07.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_08.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_09.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_10.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_11.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_12.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_13.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_14.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_15.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_16.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_17.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_18.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_19.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_20.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_21.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_22.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_23.jpg" OPERATOR="M92F=1">
+// 僷僀僜儞
+<CHOICE HREF="1400Cm.txt"   x="218" y="151" TYPE="99" FILE="cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞a.png;cg\廵\僷僀僜儞s.png;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_00.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_01.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_02.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_03.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_04.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_05.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_06.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_07.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_08.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_09.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_10.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_11.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_12.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_13.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_14.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_15.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_16.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_17.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_18.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_19.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_20.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_21.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_22.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_23.jpg" OPERATOR="pyson=1">
+// M29
+<CHOICE HREF="1400Sm.txt"   x="439" y="81" TYPE="99" FILE="cg\廵\M29.png;cg\廵\M29.png;cg\廵\M29a.png;cg\廵\M29s.png;cg\廵\廵夞揮_楢斣\M29楢斣\M29_00.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_01.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_02.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_03.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_04.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_05.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_06.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_07.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_08.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_09.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_10.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_11.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_12.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_13.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_14.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_15.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_16.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_17.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_18.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_19.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_20.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_21.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_22.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_23.jpg" OPERATOR="SWM29=1">
+// H_K USP
+<CHOICE HREF="1400HP.txt"   x="206" y="238" TYPE="99" FILE="cg\廵\h_k.png;cg\廵\h_k.png;cg\廵\h_ka.png;cg\廵\h_ks.png;cg\廵\廵夞揮_楢斣\USP楢斣\USP_00.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_01.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_02.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_03.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_04.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_05.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_06.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_07.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_08.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_09.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_10.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_11.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_12.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_13.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_14.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_15.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_16.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_17.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_18.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_19.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_20.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_21.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_22.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_23.jpg" OPERATOR="hkUSP=1">
+// 僈僶儊儞僩
+<CHOICE HREF="1400CV.txt"   x="476" y="206" TYPE="99" FILE="cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩a.png;cg\廵\僈僶儊儞僩s.png;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_00.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_01.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_02.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_03.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_04.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_05.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_06.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_07.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_08.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_09.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_10.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_11.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_12.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_13.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_14.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_15.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_16.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_17.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_18.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_19.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_20.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_21.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_22.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_23.jpg" OPERATOR="M1911=1">
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+<A HREF="0010.txt" OPERATOR="">//~ 0010

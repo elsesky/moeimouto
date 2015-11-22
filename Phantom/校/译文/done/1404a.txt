@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+  说到选枪，当然是一直都在用的贝瑞塔。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<CALC WORKNAME="1404a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

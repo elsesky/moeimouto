@@ -1,0 +1,333 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel1 wide 255 godo^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="2">//%w
+　肩を揺すってロイヤルスイートを行き来する梧桐大輔の巨躯は、まるで檻の中の猛獣といった風だった。
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「確か俺達は、
+　賓客待遇だったよなぁ志賀」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そういう話でしたね。先日は」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……じゃぁ何か？」
+
+「インフェルノの連中は、
+　客が喉笛かっ切られるのを、
+　指ィ銜えて眺めてたってのか!?」
+
+<box type="2">//%w
+　これが母国の、縄張りの内なら、
+　梧桐とて逆上するには至らない。
+
+　短銃と合口を携えた
+　命知らずの兵隊を、
+　顎ひとつで何人でも動かせる。
+
+　だが遠い異国の地に於いては、梧桐組の若頭も、ただの無防備な旅行者に過ぎなかった。
+
+　その無力感が、さながら手傷を負わされた獣のように……梧桐大輔に、武闘派若頭で知られる本性を剥き出しにさせていた。
+
+　サウスセントラルで不意打ちを受けた羽村や新庄には、まだ手向ける言葉も思いつく。
+
+　だがラスベガスでの室戸は……
+
+　部屋に連れ込んだ女に殺されるなんて、そんな無様な死に方をしていい男じゃなかった。
+
+<BOX type="5">//%sR
+“せめてチャカの一挺も
+　持たせておけば……”
+
+<box type="2">//%w
+　弟分を犬死にさせた悔恨に、
+　梧桐は歯噛みする。
+
+　こうなれば、もう自分の身は自分で守るしかない。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　国際電話での通話を終え、
+　志賀は受話器を戻した。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「都筑と柿沼が、舎弟を連れて、
+　明日にもこっちに発ちます」
+
+「都合10人は動員できますね」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「チャカの類は？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ギュゼッペに手配させてます。
+　おそらく明後日には」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あのドイツ人か」
+
+<box type="2">//%w
+　半年ほど前、
+　志賀が日本でスカウトした、
+　西海岸の暗黒街に詳しい
+　オブザーバーである。
+
+　右も左も解らないロサンゼルスでの活動に備えた志賀の判断だったが……
+
+　情報屋や故買屋だけでなく、
+サンフランシスコの武器商人にまでコネクションを持つギュゼッペは、実に重宝な男だった。
+
+　最初の取り引きのために銃や車を用立てたのも、彼である。
+
+<BOX type="5">//%sR
+「もう誰の縄張りだろうと知った
+こっちゃねぇ。ここから先は、梧桐一家の流儀でやらせてもらう」
+
+「インフェルノなんぞ、
+　当てにしてられるか」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いや、むしろ用心すべきです。
+　奴らには」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「室戸の部屋と死体の後始末、
+　今度もインフェルノが
+　引き受けてくれた訳ですが」
+
+「いったい奴ら、どうして、
+　誰よりも早く室戸の死体を
+　見つけられたんです？」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「連中、護衛はせずに、監視だけ
+　つけてたんですよ。俺たちに」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃぁ何か？室戸は、
+　見殺しにされたってのか？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……舐めてかかれませんよ。
+　インフェルノは」
+
+「それに、この志賀が思うに……
+　あのクロウディアって女」
+
+「やはり信用しちゃ
+　まずいんじゃないですか？」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「おいおい……」
+
+「まさかお前ぇ、クロウディアが
+　俺達をハメてるとか、
+　言い出すんじゃねぇだろうな？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あの女の目的ってのは、
+　日本のヤクザ……
+　梧桐組とつるむことでしょう？」
+
+「だが考えようによっちゃ、俺達を相手にする必要はないんですぜ」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あん？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「言いにくい所ですが……組の中でも、兄貴のシノギを狙ってる方々は一人や二人じゃありません」
+
+<BOX type="3">//%m
+　それが梧桐一家の、
+　陰惨な実状だった。
+
+　ヤクザの社会は徹底した実力主義である。血縁の情など意味はない。
+
+　組長の実子である大輔が若頭に取り立てられたのも、大輔自身の度量と実績によるものであり、同様に、その大輔を擁護するものも、実力以外には有り得ない。
+
+　梧桐大輔が、ここまで危険を省みず、異国の地での大博打を試みる背景には、そういった事情があった。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「俺達を切り捨てて、そういう連中に鞍替えすればいい……」
+
+「いや、いっそ組長に直々に
+　話を持ちかけてく手だって」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なら訊くがよォ、志賀」
+
+「クロウディアが、わざわざ俺達を
+　切らなきゃならねぇ理由ってのが
+　あるのか？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「大ありじゃないですか。
+　兄貴……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「俺達ぁ、
+　あの女の仕組んだカラクリを、
+　何もかも知ってるんですぜ……」
+
+<BOX type="3">//%m
+　重く冷たい沈黙の間が空いた。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なァ志賀よ。
+　俺の背負ってる絵は何だ？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「五色の珠と昇り龍。
+　忘れやしませんよ」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうだ。……だから、
+　お前に解らねぇのも無理はねぇ」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……？」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あのアマはな、
+　背中の龍に、響くんだよ」
+
+「つまりは、
+　俺と同じ気概で生きてんのさ」
+
+「あいつも珠を取って
+　天を掴もうってぇ腹だ」
+
+「龍を背負ってるのさ。
+　女だてらによォ……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お前みたいな優等生にゃ、
+　一生かかっても解からん
+　話かもしれねぇが」
+
+「任侠の世界ってなぁ、
+　屁理屈ばかりで割り切れる
+　もんじゃねぇ」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「志賀、お前の知恵は切れるし、
+　俺も当てにしてる」
+
+「だからよ、
+　お前は俺の気概を信じな」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……そこまで仰るなら」
+
+<BUSTUP NAME="siga" face="4" MODE="on" zoom="" ALIGN="left">//# siga^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「志賀は、
+　兄貴の背中を守るだけです」
+
+<A HREF="1190.txt" OPERATOR="">//~ 1190
+90

@@ -1,0 +1,195 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ここが、あなたの練習場？」
+
+<BOX type="0">//%w
+「そうだ」
+
+　とは言っても、もう随分、この廃虚には足を運んでない。
+
+　ここは、{姓}{名}ではない、
+　もう一人の自分にとっての故郷と言ってもいい。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「寂しいとこね」
+
+<BOX type="0">//%w
+「ここでなら、どこに向かって撃ったって、怪我人が出る気遣いはない」
+
+「始めるか」
+
+<CLEAR><BACKGROUND SRC="並ぶシンダーブロック">//# amt_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まず二人で、標的にするシンダーブロックを、砂の上に整列させる。
+
+　単調な作業のうちに、ふと、初めて銃を触った日のことを思い出した。
+
+　……二発に一発は当たったなんて、喜んでいたっけな。
+
+<CLEAR><BACKGROUND SRC="amt_000">//# amt_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　練習用の銃を何にするかは悩んだが、
+　とりあえずAMTバックアップを用意しておいた。
+　クロウディアが使っているのと、同じ奴だ。
+
+//> left 1160p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1160p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「えぇと、まずはだな……」
+
+　普段、何気なく感覚的にやっていることを、
+　他人に言葉で伝えるというのは、意外に難しい。
+
+　{ヒロイン}には、どう教わっただろうか……
+　それを思い出しながら、頭の中で反芻し、言葉にする。
+
+「しっかり握るんだ。力を込めて」
+
+「右手を突き出して、左手で引っ張る。
+　……そう、それでいい」
+
+「先っぽのこの出っ張りを、この溝の谷間に持ってくるんだ。見えるか？」
+
+<BOX type="4">//%sL
+「手が……震えちゃう」
+
+<BOX type="0">//%w
+「腕よりも、握る手の指に力を込めるんだ」
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……よし。そのまま、ゆっくりと引き金を」
+
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="4">//%sL
+「きゃっ!?」
+
+<BOX type="0">//%w
+　言い終わるより早く、引き金を引ききってしまうキャル。
+
+<BOX type="0">//%w
+「違う。急すぎる。もっとゆっくり、絞るように引くんだ」
+
+<BOX type="4">//%sL
+「……うん」
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="並ぶシンダーブロック">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<CLEAR><BACKGROUND SRC="#ffffff">//# amt_000 1
+//<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="吹き飛ぶシンダーブロック1">//# amt_000 1
+<WIPE EFFECT="fade" TIME="0">
+
+<CLEAR><BACKGROUND SRC="吹き飛ぶシンダーブロック1b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「あ!　当たった当たった!!」
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まだまだ狙って当てるという域には達していない。
+　まるきり出店の射的で遊んでいるような調子だが、
+　それでいて、銃を扱うキャルの、意外な慎重さには感心した。
+
+<CLEAR><BACKGROUND SRC="キャル射撃練習">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　銃声や反動のショックに馴れるのは早かったが、
+　それでいて、銃そのものの危険性には、片時も警戒を緩めていない。
+
+　恐れない程度に理解はしても、馴れすぎて舐めたりはしない。
+　余計な方向に銃口を向けず、不用意に引き金に触れず……
+　そういう基本的なルールを、まだ言い含める前から守っている。
+
+　どうやらキャル本人も意識的にそうしているわけではないらしいが、
+　彼女はときどき、こういう直感的な聡明さを垣間見せることがある。
+　物の本質を見抜く鋭さ……とでもいうのだろうか。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「弾倉の変え方も、わかったな？」
+
+「よし、しばらく一人でやってみろ」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どっか行くの？」
+
+<BOX type="0">//%w
+「ちょっと見回りに、な」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オッケー」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="2000">
+<se id="2" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　一発ごとに歓声を上げたり、舌打ちしたり、
+　一喜一憂しながら練習に励むキャル。
+　あの調子なら、意外と早くコツを掴むかもしれない。
+
+　そんなことを考えながら、キャルを残して、その場を離れた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　……まるきり、ここは変わってない。
+
+　建材の隅々にまで染み付いた、埃とオイルの匂い。
+
+　遠い昔のことのようでもあり、逆につい昨日のことのようにも思える、
+　{ヒロイン}と過ごした訓練の日々が、脳裏に蘇る。
+
+<A HREF="1160c.txt" OPERATOR="0280">//~ 1160c
+<A HREF="1160b.txt" OPERATOR="">//~ 1160b

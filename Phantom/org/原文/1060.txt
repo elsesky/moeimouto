@@ -1,0 +1,499 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left burger wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　キャルのリクエストで、
+　夕食は最寄りのバーガーショップ、ということになった。
+
+「二人ぶん、オーダーしといてくれ」
+
+　細かい札がなかったので、50ドル札をキャルに渡した。
+
+「俺は席を探しておく」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オッケー。何が食べたいの？」
+
+<BOX type="0">//%w
+「任せるよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　小走りにカウンターを目指すキャルを見届けて、
+　その隙に、携帯電話でリズィに事情を報告した。
+
+//> left burger wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+『で、その娘っ子の話は
+　信じられるのかい？』
+
+<BOX type="0">//%w
+「嘘をついてる様子はない。仇を討とうってのは本気のようだ」
+
+<BOX type="4">//%sL
+『泣かせる話だね、まったく』
+
+<BOX type="0">//%w
+　リズィの声は渋りきっていた。
+
+<BOX type="4">//%sL
+『ツヴァイ、あんたも随分、
+　えげつない手を使うじゃないか。
+　え？』
+
+<BOX type="0">//%w
+「やめてくれ……」
+
+「どのみちヤクザを襲った奴を捜し出したら、
+　ただじゃ済まさないんだろ？」
+
+「そうなれば、結果的にはジュディって女の仇討ちだって……」
+
+<BOX type="4">//%sL
+『おやおや、ご立派な理屈だね』
+
+<BOX type="0">//%w
+「……俺だって、好きでやってるわけじゃない」
+
+<BOX type="4">//%sL
+『分かってるよ、坊や』
+
+<BOX type="0">//%w
+　リズィの声に笑いが混じる。つくづく意地の悪い女だ。
+
+<BOX type="4">//%sL
+『アイザックに先んじて、
+　得点1ってとこだな、ツヴァイ』
+
+『我らがギャングスターは相当、
+　焦ってるぜ。
+　まだ何も掴めてないらしい』
+
+<BOX type="0">//%w
+「何か分かったら、また連絡する。クロウディアには……」
+
+<BOX type="4">//%sL
+『ああ、アタシから話しておくよ』
+
+<BOX type="0">//%w
+　礼を言って、電話を切った。
+　そろそろキャルも戻ってくる。
+
+　……そう思ったが、やけに遅い。
+
+　見ればカウンターでは、
+　ヒスパニックの店員がキャルと何やら揉めている。
+　トラブルだろうか？
+
+　キャルが店員の前で、手にした50ドル札を広げて見せると、
+　ようやく店員は不承不承といった体で、注文を受け始めた。
+
+　食い逃げ狙いの浮浪児、とでも思われたのか？
+　あの格好では無理もないが……
+
+　そんな事を考えていると、キャルがしきりに手招きをしてくる。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「持ちきれないよ。手伝って」
+
+<BOX type="0">//%w
+　そう言って渡されたトレイには、
+　ハンバーガーが１ダースばかり積み上げられている。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ドリンクは、
+　コーラでいいよね？」
+
+<BOX type="0">//%w
+　キャルが両手に抱え持ったトレイには、特大の紙コップふたつと、
+　さらに半ダース以上のハンバーガー。
+
+「……いくつ買ったんだ？」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「20個。
+　だって、二人ぶんでしょ？」
+
+<BOX type="0">//%w
+　店員が渋るのも無理はない。
+
+//> left burger wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　うずたかく積み上がった紙包みのピラミッドを眺めつつ、
+　ハンバーガーを齧っていると、2個目でもう胸焼けがしはじめた。
+
+//<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+//<WIPE EFFECT="fade" TIME="5">
+<clear>
+<BACKGROUND SRC="キャルハンバーガー">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……食欲ないの？」
+
+<BOX type="0">//%w
+　キャルは4つ目のバーガーにとりかかっている。
+
+「すまん。俺は、もういい」
+
+//<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃ、
+　残り全部もらっていいんだね!」
+
+<BOX type="0">//%w
+　笑顔から察するに、本気で喜んでいるようだ。
+
+「食べきれるのか？」
+
+//<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だってあたし、
+　これ今日初めての食事だもん」
+
+「昔っから夢だったんだ。目の前にこう、ハンバーガーで山作ってね、ぜんぶ独り占めするの」
+
+<BOX type="0">//%w
+　たかが50ドル、情報量としては格安だし、
+　この子の健康を心配するいわれもないのだが、
+　店じゅうから奇異の視線を集めているのは、ありがたくない。
+
+<clear>
+<BACKGROUND SRC="burger">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「で、さっきの話なんだが……」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、うん」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それなんだけどね、
+　どうしようかな～、って思って」
+
+<BOX type="0">//%w
+「……？」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの路地の有様、見たでしょ？　マシンガン撃ちまくるような連中が相手なんだよ」
+
+「そんな奴ら相手にしてさ、
+　{名}って、
+　どうにかできるの？」
+
+<BOX type="0">//%w
+「なにが言いたい？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いや、だからさ。そ～ね……」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「本当のところ、
+　{名}って、
+　強いの？」
+
+<BOX type="0">//%w
+「それは、つまり、腕っ節のことか？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そ。やっぱりカンフーとか
+　使えるわけ？」
+
+<BOX type="0">//%w
+「……いや」
+
+<BOX type="5">//%sR
+「じゃ、アイキドー？」
+
+<BOX type="0">//%w
+「それも知らない」
+
+　素手での仕事もざらにあるが、そういう曲芸とは縁がない。
+　武道と殺人術とは、天と地ほども違いがある。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんなぁ……」
+
+<BOX type="0">//%w
+　ほとほと呆れたと言わんばかりに、キャルは深々と溜め息をついた。
+
+<BOX type="5">//%sR
+「カンフー知らない日本人なんて、
+　はじめて見た」
+
+<BOX type="0">//%w
+「……どういう日本人を見てるんだ？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「セガールとか、
+　ジェット＝リーとか……」
+
+<BOX type="0">//%w
+　誰だよ、それは？
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ハンバーガーを頬張りつつも、
+　キャルは露骨に疑いの眼差しを向けてくる。
+
+<BOX type="5">//%sR
+「あのさぁ、
+　本当に{名}、
+　ジュディの仇討ってくれるの？」
+
+<BOX type="0">//%w
+「信用できないのか？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　どうやら、完全に舐められているらしい。
+　あらかじめ剣呑な表情のひとつも見せておけば、
+　また違ったのかもしれないが……
+
+　常日頃、むしろ無害な人間を装うことに腐心しているだけに、
+　こういう場面で睨みを利かすというのは馴れていない。
+　つい苦笑いを浮かべてしまう。
+
+「そこは心配しなくていいよ」
+
+　結局ここは、愛想笑いで押し切ることにした。
+
+「仇が誰かわかったら、実際に手を下すのは友達に頼むつもりだ」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「へぇ」
+
+「そんな友達がいるの？
+　ギャングとか？」
+
+<BOX type="0">//%w
+「らしくない、か？」
+
+<BOX type="5">//%sR
+「……まぁね」
+
+<BOX type="0">//%w
+「俺、実はヤクの売人なんだ」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ホント？」
+
+<BOX type="0">//%w
+　やはりキャルは疑わしげだ。日頃、路上で見慣れた売人の風体とは、
+　あまりにかけ離れているからだろう。
+
+「そんな風には見えないだろうが、
+　そう見えるようじゃ、商売にならないんでな」
+
+「サウスセントラルだけがヤクの売場じゃない。
+　UCLAからハリウッドまで、売りに行く先はごまんとある」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ふぅん」
+
+「じゃぁ{名}って、
+　お金持ち？」
+
+<BOX type="0">//%w
+「……そうなりたいとは、思ってるがな」
+
+　乗ってる車がゴルフじゃ、ほかに言い繕いようがない。
+
+<BOX type="5">//%sR
+「でもさ、ヤクの取り引きって、
+　すごいお金が動くんでしょ？」
+
+<BOX type="0">//%w
+「そういうチャンスも、たまにはあるな」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ふぅん」
+
+<BOX type="0">//%w
+　何か考え込むように、キャルは窓の外に目をやった。
+
+「まぁ、そういうわけだ。人相や風体がわかれば、
+　あとは俺の友達が、そいつを探し出して殺ってくれる」
+
+「な、キャル。ジュディを撃った奴のことを教えてくれ」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　……まだ何かあるのか？
+
+<BOX type="5">//%sR
+「でもあたし、見届けたいよ」
+
+「ジュディの仇を討つとこ、
+　この目で見たい」
+
+<BOX type="0">//%w
+　何を思ったか、キャルはとんでもないことを言いだした。
+
+「それは駄目だ」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうして？」
+
+<BOX type="0">//%w
+「当たり前だろ!　素人が首を突っ込める世界じゃない」
+
+<BOX type="5">//%sR
+「じゃ、
+　あなたの友達に会わせてよ」
+
+<BOX type="0">//%w
+「駄目だ!」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　キャルの表情が、みるみるうちに頑なになる。
+
+　……しくじった。ここは口からでまかせを並べてでも、
+　聞くだけのことを聞いてしまえば良かったのに。
+
+「まあ俺が頼み込んだら、ひょっとしたら……」
+
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ホント！？」
+
+「じゃ、
+　すぐその友達に会いに行こ!」
+
+<BOX type="0">//%w
+「ちょっと待て、落ち着け!」
+
+「だいたい、お前が会ってどうする？」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたしからも頼み込むの。
+　連れてってくれって」
+
+<BOX type="0">//%w
+「……あのなぁ」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたの友達だって、
+　見ず知らずの人間を
+　連れていくのは嫌でしょ？」
+
+「だったらじかに一回会って、
+　信用してもらわなくっちゃ」
+
+<BOX type="0">//%w
+　だんだん話が泥沼にはまってきた。
+
+「……ああいう連中は、色々と都合があるからな。
+　すぐに連絡をつけられるわけじゃない」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうなの？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃ、話はそれからだね」
+
+<BOX type="0">//%w
+「……」
+
+　手詰まりだ。
+
+　要するに、彼女は一から十まで自分の目で見て確かめない限り、
+　何も信用しないつもりなんだろう。
+
+　だが、ここまで食い下がられると、今度はこっちが疑問に思えてくる。
+
+　はたして彼女の情報は、
+　こんなにも時間を費やしてまで、聞く価値があるものなのか？
+
+　その場に居合わせた目撃者が、
+　必ずしも有益な情報源になるとは限らない。
+
+　隣にいた人間が流れ弾で死ぬほどの、そんな危険な状況下で、
+　ちゃんと観察力を発揮していたかどうかは疑わしい。
+
+　……ひょっとしたら、
+　この子は単に晩飯をたかりたかっただけかもしれない。
+　疑いだしたら、きりがない。
+
+　どうする？
+
+<A HREF="#スルー" OPERATOR="1022a=1">
+<A HREF="#スルー" OPERATOR="0350=1">
+<A HREF="1070.txt" OPERATOR="">//~ 1070
+<MARKER NAME="#スルー">
+<CHOICE HREF="1060b.txt" TEXT="＊キャルには見切りをつける" OPERATOR=""></A>//{ ＊キャルには見切りをつける 1060b ＊もう少し粘る 1070
+<CHOICE HREF="1070.txt" TEXT="＊もう少し粘る" OPERATOR=""></A>//{ ＊キャルには見切りをつける 1060b ＊もう少し粘る 1070

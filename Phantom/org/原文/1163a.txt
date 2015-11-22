@@ -1,0 +1,19 @@
+<BOX type="0">//%w
+　贈り物のマテバも結構だったが、
+　やはり、あんな得体の知れない設計の銃に、
+　おいそれと移行する気にはなれなかった。
+
+　同じ.357マグナムでも、パイソンは歴史が違う。
+　半世紀以上に渡って、
+　至高のリボルバーの名をほしいままにしてきた名銃だ。
+
+　命を預けるなら、こいつに限る。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<CALC WORKNAME="1163a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

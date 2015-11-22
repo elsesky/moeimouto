@@ -1,0 +1,500 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　いつの間にか、
+再び落ち込んでいた眠りの淵から、
+また美緒は引き戻された。
+
+　瞼を上げると、
+　予想外の眩しさが目を射る。
+　もう、とうに陽が昇っている。
+
+　顔を上げ、見回すと、
+　部屋には誰もいなかった。
+
+誰が見ているわけでもなかったが、それでも毛布をかき寄せて、
+身体の前を覆う。
+
+　キャルは……やはり、昨夜出ていったきり、戻らなかったらしい。
+　あの口振りから察するに、
+もう二度と、ここに戻ることはないのではないか。
+
+　こんな人も通わぬ場所に、鎖に繋がれたまま取り残された我が身を案じるべきなのだろうが……
+
+　そのとき、美緒の心を捕らえていたのは、夜闇の中で聞き取った、
+キャルの不穏な言葉の断片だった。
+
+<BOX type="5">//%sR
+“決着をつけよう……”
+
+<BOX type="0">//%w
+　誰と？
+　何の決着をつけるというのだ？
+
+　考えたくもなかったが……
+　最初の晩に、キャルははっきり
+　宣言していた。
+
+<BOX type="5">//%sR
+“{名}と、殺し合うのさ”
+
+“どっちが強いか
+　決めるためにね……”
+
+<BOX type="2">//%w
+　狼狽が美緒を虜にする。
+
+　どうすればいい？
+　一体、どうすれば……
+
+　ふと背中に視線を感じ、
+　美緒は振り向いた。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　音も、気配もないままに……
+　一体いつからそこにいたのか、
+　部屋の入り口のところに、
+　江漣が佇んでいた。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え、江漣……」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「{ヒロイン}よ」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え？」
+
+<BOX type="2">//%w
+　姿形こそ、江漣だったが……
+　目の前の少女は、美緒の知る気さくなクラスメイトとは、まるで雰囲気が違っていた。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「もう、あなたを騙す必要はない」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「だから、{ヒロイン}でいいわ」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　改めて{ヒロイン}と名乗ったその少女は、裸同然の美緒に、紙袋の包みを差し出した。
+
+<BOX type="4">//%sL
+「服を持ってくるよう
+　言われたから、悪いけど、
+　勝手にお宅にお邪魔したわ」
+
+<BOX type="3">//%m
+//<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+<se id="1" src="服を袋から出す" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　中身は、美緒の制服だった。
+　下着も一揃えある。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一体、誰が……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ドライよ」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……キャルのこと？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+「……そうも呼ばれてたわね。
+　彼女」
+
+<BOX type="3">//%m
+　江漣は美緒の足の手錠を見て取ると、上着の下から、スカートの後ろに手挟んでいた拳銃を抜いた。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%w
+　この子も……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%w
+　言葉を失っている美緒に構わず、{ヒロイン}は腰を落として、美緒の足首を掴むと、至近距離から手錠を狙う。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<BOX type="4">//%sL
+「動かないでね」
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!SE 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="5">//%w
+　銃声を聞くのは2度目だったが、やはり総身の竦む思いだった。
+
+　三日に渡り、美緒を縛めてきた冷たい手錠は、錠前の機構を打ち抜かれて、あっさりと美緒を解放した。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたたちは、一体……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ドライから、聞いてるでしょ？」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="ruins3">//# drei^2 19 dummy 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// ruins3 1
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20  ruins3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+“騙されてるんだよ……”
+
+<CLEAR><BACKGROUND SRC="ruins2">//#  dummy 19 dummy 20 ruins2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　キャルの言葉を、
+　信じたくはなかったが……
+
+　江漣の、こんな豹変ぶりを見せつけられた後では、美緒とて自分の認識を疑うしかなかった。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　江漣……いや、そう呼んでいいのだろうか？
+　何の表情も窺えない、冷たく澄んだ横顔は、いつもクラスで見かけていた彼女のものとは思えない。
+
+　この子もまた、{名}やキャルと同じ……
+　違う世界の、住人なのか？
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　途方に暮れている場合ではなかった。彼女が事情に通じているのであれば、何とかしてくれるかもしれない。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……キャルが、
+　夜中に、出ていきました」
+
+「決着をつけるとか言って……たぶん、{名}さんを殺す気なんです」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「知ってるわ」
+
+<BOX type="3">//%m
+　{名}の命に関わる問題だというのに、江漣……{ヒロイン}はまったく動揺を見せない。
+
+　いやむしろ、
+聞くまでもないと言わんばかりに、
+虚空に視線を注いでいる。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　はたと美緒は思い当たった。
+　どうして{ヒロイン}が、
+　美緒の服を用意してくれたのか？
+
+　昨日、キャルが電話をしていた相手は……彼女だったのではないか。
+
+　ならば、キャルが
+“決着をつける”相手とは……
+
+<BOX type="5">//%sR
+「彼女と……戦うんですか？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そう」
+
+<BOX type="3">//%m
+　{ヒロイン}の返事は、短く、冷たく、
+　まるで氷のようだった。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　……どうしてだ？
+　つい数日前まで、一緒に笑って、喋っていた……その彼女が、いったいどうして他人と命のやり取りなどしなければならないのか？
+
+　信じられない。
+　信じたくない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　何もかもが、美緒を置き去りにして動き始めていた。
+
+　{ヒロイン}も、キャルも、
+　そして{名}も……
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしに……」
+
+<BOX type="2">//%w
+　口を衝いて、言葉が出る。
+　酷い目に遭わされて、
+　さんざん恐怖を味わって、
+
+　なのに美緒は、ここに一人、
+　取り残されるのが嫌だった。
+
+<BOX type="5">//%sR
+「わたしに出来ることって、
+　何もないんですか？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ないわね」
+
+<BOX type="3">//%m
+　にべもなく突き放すように、
+　{ヒロイン}は答えた。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　……そうだろうとも。
+　問うまでもなく、
+　言われるまでもなく、
+　解りきっている。
+
+　美緒が立ち入る余地なんてない。ただの女学生に出来ることなんて、なにひとつありはしない。
+
+　だが……
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}さんのこと、好きなんです」
+
+<BOX type="2">//%w
+　もう、その一言の他に、美緒の中に言葉は残されていなかった。
+
+<BOX type="5">//%sR
+「あの人のためなら、
+　何だってできます」
+
+「それでも、駄目なんですか？
+一緒にいちゃいけないんですか？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　涙まじりに訴える美緒を前に、だが{ヒロイン}の眼差しは、微塵も揺らぎはしない。
+
+　眼差しの光は、あくまで冷たく固く、まるで手にした拳銃の光沢と、同じ光を宿すかのようだ。
+
+<BOX type="4">//%sL
+「あなたの気持ちは本物かもしれないし、あなたはそれを支えに、一生懸命になれるかもしれない」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「でもそれで、ドライが倒せる？」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BOX type="2">//%w
+　美緒は
+　返答に詰まるしかなかった。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「わたしがドライを殺さなければ、
+　ドライは{名}を殺す」
+
+「あなたに、
+　わたしの代わりが務まるの？」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　もう、ただの一言も返せずに、
+　美緒は項垂れた。
+　ただ涙だけが、
+　とめどなくこぼれ落ちる。
+
+<BOX type="5">//%sR
+「もう、あの人に会うことは……」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「できないわ」
+
+<BOX type="3">//%m
+　気休めも、慰めも、{ヒロイン}は一切交えない。
+　せめて鋭く断ち切るだけが、慈悲だとでも言わんばかりに。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どうしても、{名}の役に立ちたいなら」
+
+「もうしばらく、ここにいて」
+
+「あなたの身柄が保護されれば、梧桐組とその黒幕が、{名}を狩るために動き出す」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="left">//# elen7^7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「夜までには、
+　すべてが終わるでしょう」
+
+「それまで、ここに隠れていてくれるなら、{名}が生き残る公算も増すわ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　そして、{ヒロイン}もまた美緒に背を向けた。
+　昨夜のキャルと同じように。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「せめて……」
+
+<BOX type="2">//%w
+　去ろうとする{ヒロイン}の背中に、
+　美緒は最後の言葉をぶつけた。
+
+<BOX type="5">//%sR
+「せめて、教えてください。
+　あなたは……{名}さんは……誰なんですか？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　{ヒロイン}は足を止め……肩越しに、美緒を一瞥した。
+
+<BOX type="4">//%sL
+「ふたつだけ、教えてあげる」
+
+「あなたを巻き込んだのは、
+　{名}じゃなくて、
+　わたし」
+
+「だからドライに
+　こんな目に遭わされたのは、
+　全部、わたしのせいよ」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それと、{名}は演技で泣いたり、笑ったりできる人じゃない」
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="left">//# elen7^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「もしあなたが、彼の笑顔や涙を見たことがあるのなら……きっとそれは、本物だから」
+
+<BOX type="3">//%m
+　そして{ヒロイン}は、横顔に、はじめて表情めいたものを垣間見せた。
+　なにか失ったものを悼むかのような、寂しげな眼差しを。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="ドライ歩き5" mode="normal" loop="off">
+<BOX type="3">//%m
+　それ以上、美緒に一言も言わせる間を与えずに、{ヒロイン}は部屋を出ていった。
+<se id="1" src="" mode="fadeout" time="20">
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　誰もいなくなった廃屋に、
+ただ一人、美緒は取り残された。
+
+<A HREF="3610.txt" OPERATOR="3590a=1">//~ 3610
+<A HREF="3800.txt" OPERATOR="3190=1">//~ 3800
+<A HREF="3800b.txt" OPERATOR="">//~ 3800b

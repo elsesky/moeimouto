@@ -1,0 +1,29 @@
+<BOX type="0">//%w
+　リズィの調達してくれたベレッタは、申し分のない状態だった。
+　すでに馴らし撃ちも終わっているらしく、手入れも行き届いている。
+
+<CLEAR><BACKGROUND SRC="シグ">//# シグ 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　新しく貰ったシグ＝ザゥアーも、手には取ってみた。
+
+　……確かにサイズといい、重量といい、
+　特にコンシールド性が要求される今回の任務には、
+　向いている気もするが……
+
+<CLEAR><BACKGROUND SRC="ベレッタ">//# ベレッタ 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　それだけの理由で、慣れ親しんだベレッタを見限る必要もあるまい。
+
+　今後は、そうそう強装弾なぞ使うこともないだろう。
+　故障の再発は、心配しなくてもいい。
+
+<CALC WORKNAME="射撃音" OPERATOR="02_01">//
+<CALC WORKNAME="銃" OPERATOR="ベレッタ">//
+<CALC WORKNAME="銃画像" OPERATOR="ベレッタ3">//
+<CALC WORKNAME="射撃画像" OPERATOR="ベレッタ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用BS">//
+<CALC WORKNAME="1164a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

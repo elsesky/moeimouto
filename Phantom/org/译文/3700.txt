@@ -1,0 +1,470 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不知过了多久，美绪醒了过来。
+
+　睁开眼睛，意料之外的阳光映入眼帘。
+  太阳已经升的很高了。
+
+　抬起头，环顾四周。
+  房间里谁也不在。
+
+  虽然不会被别人看到，不过美绪还是用毛毯裹住了身体。。
+
+　凯尔……似乎在夜里就离开了。
+
+　美绪想起她坐在窗边，望着月亮无声啜泣的样子。
+
+<BOX type="5">//%sR
+“我要和{名}决斗”
+
+“决出谁更强……”
+
+<BOX type="0">//%w
+　如此放言的她，显得那么冷酷、那么残忍。
+
+　怎样都无法与之前的那个凯尔联系在一起。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+　突然，美绪注意到了身后的视线，连忙回过身去。
+
+//> left ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在这空无一人、早已被废弃的女子宿舍废墟中……
+　被清晨的冷空气包围的美绪正蹲在那里。
+
+　看来自己赌对了……
+
+　在考虑凯尔的藏身之地时，我偶然间想起一个地方。
+  对于监视蓧仓学院而言，那里的确是最为合适的据点。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪正披着毛毯，肩膀全都露在了外面。
+　她的衣服已经破破烂烂，被扔在了屋子的角落。
+
+　痛心和悔恨顿时填满了我的胸口……让我一时发不出声音。
+
+　正当这时，美绪似乎注意到了我的存在，朝这边望了过来。
+
+<BOX type="5">//%sR
+「{姓}……同学……？」
+
+<BOX type="0">//%w
+　道歉就行了吗？赎罪就行了吗？
+　自己明明发过誓，承诺不会将她卷进来的。
+
+　我无言地走近她，接着注意到了她脚腕上的手铐。
+
+　为了将破坏手铐，我将手伸向藏在身上的枪……可转念一想，我最终还是放弃了。
+  不能让美绪见到枪。
+
+「你有发卡什么的吗？」
+
+<BOX type="5">//%sR
+「哎，嗯……」
+
+<BOX type="0">//%w
+　美绪慌慌张张地从扔在地上的衣服口袋里翻出了2个U型发卡。
+
+<BOX type="5">//%sR
+「那个……这个行吗？」
+
+<BOX type="0">//%w
+「嗯，应该没问题」
+
+　我将扳直后的发卡伸进手铐的钥匙孔里，寻找着手感。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「电视上都是这么干的，对吧」
+
+<BOX type="5">//%sR
+「是，不过……」
+
+<BOX type="0">//%w
+　因为两只手都是自由的，因此要搞定这种程度的手铐不是什么难事。
+　不过，我不想在美绪面前展示出过于纯熟的手法。单是这样，就已经让美绪看呆了。
+
+<se id="1" src="23_03" mode="normal" time="" loop="off" effect="">//!se rist
+「……好了」
+
+　我装成失败多次的样子，在浪费了很长时间后解开了手铐的锁。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　有太多想问和想说的事，已经不知道该怎样用语言表达了……默默低着头的美绪看上去就是这样。
+
+　我想起最初和她在楼顶会面时那令人难忍的沉默。
+
+「总之，先得去找件衣服穿」
+
+「教室里有什么衣服吗？体操服、运动衫什么的」
+
+<BOX type="5">//%sR
+「……是的」
+
+<BOX type="0">//%w
+　从这里向下前往蓧仓学院的路不会有别人经过，因而不用担心会被看到。
+　当然，我们也可能会遇到凯尔。
+  不过，那样的事就到那时候再说吧。
+
+//> left schoolway2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schoolway2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我像抱住一样扶着美绪，沿着路面早已荒废的下坡道朝蓧仓学院走去。
+
+　在这期间，美绪从怀中向上注视我的视线……就像是在看着另一个人。
+  这令我非常心痛。
+
+　相比于详细告知……在这种状况下，沉默更能说明一切。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　幸运的是，校舍里也空无一人。
+  在期末考试前的星期日，这也是理所当然的。
+
+<CLEAR><BACKGROUND SRC="passage5b">//# mio3^1 20 passage5b 1
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 passage5b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「那个……」
+
+<BOX type="0">//%w
+　当我们并排走在无人的走廊中的时候，美绪终于开口了。
+
+「嗯？」
+
+　我表面上装成平静的样子，可心里却极度的忐忑不安。
+  美绪究竟了解到何种地步了呢。
+  她会发出怎样的疑问呢。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美绪也是一样……虽然有一肚子的问题，却不如从何问起。
+
+　保持着沉默的两个人，不知不觉间来到了放有美绪替换衣服的B班教室门前。
+
+<BOX type="5">//%sR
+「是关于凯尔的事」
+
+<BOX type="0">//%w
+　停下脚步的美绪，像是下定了决心一样这样说道。
+
+　既然开了口，我们两人就都已无路可退。
+
+<BOX type="5">//%sR
+「……她曾经悄悄地哭过」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「那，我去换衣服了」
+
+<BOX type="0">//%w
+「……嗯，我在这里等你」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　望着一个人走近教室的美绪，我发自内心地对她表示着感谢与歉意。
+
+　应当追究的疑问，应当询问的谜团，这些美绪都没有理会，而是告诉了我一件事。
+　一件与她没有任何关系……却无比重要的事。
+
+　美绪的话让我彻底打消了迷惘。
+　现在，我终于明白自己该做什么了。
+
+<CLEAR><BACKGROUND SRC="school1b">//# school1b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　直到坐上我用电话叫来的出租车，与我分别，美绪都没有提出任何问题。
+
+　她的温柔与关怀……再一次地感动了将她卷进来的自己。
+
+「凯尔的事，不必担心」
+　
+　离别之际，我对美绪这样说道。
+
+　美绪静静地点了点头，坐上了出租车……
+　最后，透过离去的出租车的车窗，她对我露出了稍稍有些寂寞的微笑。
+
+　我独自一人站在校门前，感受着春风的吹拂……
+　同时握住了口袋中的手机。
+
+　如果凯尔回来看到美绪不在，一定会联络这部手机吧。
+　现在先准备好那个时候要说的话吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　等到凯尔返回女子宿舍，时间早已过了午后。
+
+　整整一天，她都在寻找消失了的{名}的踪迹。
+
+　虽然她曾在电话中威胁说要实施全天监视，可那不过是说说而已。
+
+　料想{名}不会逃跑的凯尔只在有兴致的时候才会去观察一下他那惊慌的样子，借此获得满足。
+
+　可是，自从昨天放学后，{名}便下落不明。
+
+　今天早上去{名}他们所住的公寓查探时，却发现他还没回来。
+
+　Ein的消失曾让凯尔有些动摇，但还不足以使她介意，可是，{名}也失踪的话就另当别论了。
+
+　抛弃美绪逃掉了吗……
+
+　绝望的愤怒充满了凯尔的大脑。这时，她猛然注意到自己的判断失误。
+
+　等到她慌慌忙忙地返回隐蔽处所，女子宿舍早已空空如也。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　凯尔一脚踢飞了扔在地上的手铐和滚落在它旁边的坏掉的发卡。
+
+　美绪不可能做出这样的把戏。
+　一定是被{名}救走了。
+
+　凯尔从怀中掏出从美绪那里夺来的电话。
+　还能够打通吗……
+
+　凯尔半期待半死心地拨打了{名}的号码。
+<se id="1" src="phoneCall" mode="normal" time="" loop="off" effect="">//!se phoneCall
+
+　……肯定不行了。
+  那家伙已经逃得远远的了……
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……是凯尔吧』
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　出乎她的意料，电话马上就接通了。
+
+　听到{名}那沉着到令人恼火的声音，凯尔的心中重新燃起了怒火。
+
+<BOX type="5">//%sR
+「{名}，你竟敢……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『太晚了哦，凯尔』
+
+『美绪已经早早回去了，你不必再挂念了』
+
+<BOX type="3">//%m
+　声音一反常态地冷酷，还夹杂着嘲笑。
+　凯尔第一次见到这个样子的{名}。
+
+<BOX type="4">//%sL
+『这样一来，我们又要分别了啊，凯尔』
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　愤怒在凯尔内心逐渐堆积起来。
+
+<BOX type="5">//%sR
+「……我要追到你」
+
+<BOX type="2">//%w
+　像在念降灾的咒文一样，凯尔低沉地说道。
+
+<BOX type="5">//%sR
+「哪怕追到地狱的最深处，我也要追到你……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『算了吧』
+
+『还是说，你真的以为自己能胜过我吗？』
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……什么？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『真是笑死人了，像你这样的傻瓜又能做得了什么呢』
+
+『居然将Phantom的称号授予你这样的小鬼，Inferno也慢慢堕落了啊』
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　愤怒渐渐令凯尔失去了理智。
+
+<BOX type="5">//%sR
+「明明是个胆小鬼，还真是能说会道啊!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『真是个容易看穿的家伙啊』
+
+『这样的话，给你个机会怎么样？』
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　{名}的语气变得更加冰冷。
+　这个意外的提议完全吸引了凯尔的注意。
+
+<BOX type="5">//%sR
+「……机会？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『之前一直被你纠缠，想起来还真是烦人啊』
+
+『干脆就在这里做个了结好了。
+  当然，前提是你得有胆量才行』
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有意思……」
+
+<BOX type="2">//%w
+　正和我意。
+　已经没有必要对这个男人留情了。
+
+凯尔已经愤怒到了极点。
+现在，就用这副被仇恨烧灼着的身体……将{姓}{名}杀掉吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『从现在开始我给你1个小时的时间，在时间走完之前，你必须来蓧仓学院的礼拜堂』
+<se id="1" src="実懷僣乕僣乕" mode="normal" time="" loop="off" effect="">//!se tootoo
+
+<BOX type="2">//%w
+　说完，电话便被无情地挂断了。
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="" mode="fadeout" time="2">
+<BOX type="2">//%w
+　身体里的邪恶正欣喜若狂地沸腾着。
+　就是这样的感觉。
+  现在的凯尔能感受到的，只有这样的喜悦。
+
+　凯尔已经不会再害怕了。
+
+　满足饥渴欲望的时刻终于到来了。
+
+这一次，自己没有丝毫迷惘。
+就这样任由内心的野兽趋势、一路猛冲直到最后吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left church1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="church1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　通话结束后，我将失去了价值的手机扔进了草丛中。
+  这样就行了。
+
+　这是自己能为她做的最后一件事。
+
+　如今的凯尔，必须要面对过去2年间在她内心积累下的感情。
+
+　自己这样做，既不温柔，也不残酷。
+
+　既然她无法应对憎恶，
+  那么好吧，就让我将她体内的憎恶彻底抽出来吧。
+
+　将她的愤怒全部承受下来、然后消失吧。
+
+　我是个不值得她恨的家伙。
+  只要她能认识到这点，即使将我像虫子一样杀死也没有关系。
+
+　这是自己对扰乱凯尔人生的赎罪。
+
+　我不知道她能否踏上新的人生。
+
+　但是，为了那种可能，首先必须将一直都在困扰着她的噩梦终结掉。
+
+　自己能做的，仅此而已。
+
+　之后，就守望着她，为她祈祷吧。
+　直到她恢复正常人的生活、抓住自己的幸福。
+
+　再也不会被我这样的男人所束缚。
+  再也不会因为我这样的男人而感到痛苦。
+
+<A HREF="3710.txt" OPERATOR="">//~ 3710
+
+
+
+
+むことはない。
+
+<A HREF="3710.txt" OPERATOR="">//~ 3710

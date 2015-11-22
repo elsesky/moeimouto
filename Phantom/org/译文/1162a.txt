@@ -1,0 +1,19 @@
+<BOX type="0">//%w
+  毫无疑问，自己应该选择的枪只有一把。
+
+　只要用手感受到枪柄的触感和重量，不安的心中马上就会涌出某种安全感。
+
+　当然，我也明白这样的想法并没有什么意义。
+　而且考虑到任务的特性，选择一把更小巧的枪似乎才是上策。
+
+　可我还是将这把M29揣进了怀里。
+  毕竟，除了它我什么枪都不想考虑。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="03_01">//
+<CALC WORKNAME="廵" OPERATOR="M29">//
+<CALC WORKNAME="廵夋憸" OPERATOR="44儅僌僫儉">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="44儅僌僫儉2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Sm">//
+<CALC WORKNAME="1162a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

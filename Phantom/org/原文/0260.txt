@@ -1,0 +1,60 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　誰でもない……
+
+　そう嘆く彼女の胸中は、痛いほど解った。
+
+　かつて記憶をなくしたと自覚した時の、絶望的な恐怖感。
+　あれは、忘れようがない。
+
+　まるで真空の宇宙に放り出されたような、
+　自分という存在が、この世から跡形もなく消えてしまったかのような、
+
+　心細くて、
+　寂しくて、
+　なのに縋るものさえ見つからない、恐怖。
+
+　忘れてしまったわけではない。
+　あのとき、思い知らされた。
+
+　自分が何者か？
+　それが解らないままには、人は生きていけない。
+
+　だからこの子は、泣いているのだ。
+　
+　それなら……
+
+「それなら、君に新しい名前をあげるよ」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……新しい、名前？」
+
+<BOX type="0">//%w
+　彼女は、意味が判らないとでも言いたげに、
+　虚ろな視線で問いかけてきた。
+
+「そう、名前だ」
+
+「殺し屋でも人形でもなく、君が君として生きていくための、名前だ」
+
+　何か、ないだろうか？
+　異名や数字ではない、もっと人間らしい、
+　普通の女の子に相応しい名前は……
+
+<NAMEENTRY NAME="ヒロイン" DEF="エレン">
+<calc workname="Gヒロイン" operator="ヒロイン" mode="global">
+
+//> name2 motel wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<CALC WORKNAME="0260" OPERATOR="1">//
+<A HREF="0260a.txt" OPERATOR="">//~ 0270
+

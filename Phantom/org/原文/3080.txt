@@ -1,0 +1,175 @@
+<CLEAR><BACKGROUND SRC="passage5a">//# passage5a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　もう帰宅してしまったかもしれないし、
+　それならそれで、電話でもかけるしかないが、一応、校舎に戻ってみた。
+
+　何か部活動でもしているなら、まだ校内にいるはずだ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage8a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="passage8a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　すでに掃除組も仕事を終えたと見えて、
+　教室も廊下もまばらな人影しかない。
+
+　……と、思ったが、
+　耳を澄ますと、聞き覚えのある甲高いイントネーションが、
+　どこからともなく聞こえてくる。
+
+　あれは……B組か？
+
+<CLEAR><BACKGROUND SRC="classroom4a">//# classroom4a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　戸口から様子を窺うと、
+　無人とばかり思っていたB組教室には、はたして見知った二人がいた。
+　探していた一人と、余計なのが一人。
+
+　自分の座席とおぼしき椅子に腰掛けてうなだれている美緒を相手に、
+　隣の席に陣取った早苗が、噛みつかんばかりの剣幕で説教している。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ったくもう、せっかく骨折って
+お膳立てしてあげたってのに、
+なんであんたそぅ要領悪いの!?」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ごめん」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ただ打ち合わせ通りにやりゃぁ
+　良かったのよ」
+
+「『好きです彼氏になりなさい』
+　って二言、あとは首絞めてでも
+　頷かせてオシマイ!」
+
+「……所要時間5秒よ」
+
+「電撃作戦なのよ告白は!
+なぁにをモタモタしてたわけ!?」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……でも、
+　わたし、やっぱり駄目」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="left">//# sanae1^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あぁぁもう、
+　学園生活最後の春なのよ!
+　棒に振るつもり？」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　見ていられない。
+　遠慮せず話の腰を折ることにした。
+
+「早苗!」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「!?」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ……」
+
+<BOX type="0">//%w
+　二人揃って、まるで予期しなかった乱入だったらしい。
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　特に美緒は、早苗の叱責を受けていた時よりさらに、狼狽している。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ちょぉぉど良かったわ。{姓}。これからあんたを探しに行こうと思ってたのよ」
+
+<BOX type="0">//%w
+「見つかったんだから、気は済んだだろ」
+
+「藤枝さんと話がある。消えてくれ」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「へ？　あ、あぁら、そぉ」
+
+<BOX type="0">//%w
+　取り繕うように複雑な笑顔を見せる早苗。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それじゃダンナ、仰せの通りに、あたしゃドロンと消えちゃいますんで、あとはよしなに……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　言いつつ、逃げるように早苗は教室を出て……
+　消える前に、背後で何やらバタバタと腕を振り回す気配がしたのは、
+　どうやら身振り手振りで美緒に指令か激励を送っていたらしいが、
+　ともかく、その場を去ってくれた。
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　またしても、二人きりで取り残されたが、
+　今度はお互い、事情が判っているぶん、
+　沈黙が重くなるようなことはなかった。
+
+　何も言わずに、早苗が腰掛けていた椅子に座る。
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美緒は、
+　まるで判決を待つ受刑者のような面持ちで、こちらを見守っている。
+
+「藤枝さん……あのな」
+
+<BOX type="5">//%sR
+「……はい」
+
+<BOX type="0">//%w
+「さっきの返事なんだが……」
+
+<A HREF="#選択肢" OPERATOR="1450b=1">
+<A HREF="#選択肢" OPERATOR="3080a=1">
+<A HREF="3080a.txt" OPERATOR="">//~ 3080a
+<MARKER NAME="#選択肢">
+<CHOICE HREF="3080a.txt" TEXT="＊承諾する" OPERATOR=""></A>//{ ＊承諾する 3080a ＊断る 3080b
+<CHOICE HREF="3080b.txt" TEXT="＊断る" OPERATOR=""></A>//{ ＊承諾する 3080a ＊断る 3080b

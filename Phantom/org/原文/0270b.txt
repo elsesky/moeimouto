@@ -1,0 +1,148 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0270x3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="0270x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ダウンタウンの一角で、すぐにめぼしい車が見つかった。
+
+　一旦、前を行きすぎてから、2ブロックほど先にトーラスを止め、
+　素早く車内の指紋を拭い取る。
+
+　ダッシュボードにも、手がかりになりそうなものは残っていない。
+　このまま放置して大丈夫だ。
+
+　トーラスを降り、歩いて狙いの車まで戻りながら、何気なく周囲を窺う。
+
+　……好都合なことに、人目もない。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+　ドアロックの解除に30秒。
+　プラグの直結に45秒。
+　タイムとしては、まずまずのところだろう。
+
+　エンジンが始動したところで、もう一度、周囲を窺う。
+
+<CLEAR><BACKGROUND SRC="0270x2">//# 0270x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　対向車線の路肩に、さっきはいなかった車が停まっていた。
+
+　青のダッジ＝ヴァイパー。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　背筋を冷たいものが走る。
+
+　あれは、たしかリズィの……
+
+<se id="1" src="銃で車窓ノック" mode="normal" time="" loop="off" effect="">//!se knock
+<CLEAR><BACKGROUND SRC="0270x1">//# 0270x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　誰かが、運転席の窓をノックしている。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="0">//%w
+　振り向くと、ロングスライドの45口径が、窓に押し当てられていた。
+
+「リズィ……」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　柳眉を逆立てた女ボディガードの隣には、
+　クロウディアが表情を殺して立っている。
+
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　身構える暇すら与えられず、
+　一撃でサイドウィンドウを叩き割ったリズィの左拳に、
+　襟首を鷲掴みにされた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そのまま、恐ろしい力で、割れた窓から引きずり出される。
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「観念しな」
+
+<BOX type="0">//%w
+　嫌も応もなかった。
+　地面に転がされた途端、ブーツの靴底で胸板を踏まれ、
+　目の前に銃口をつきつけられた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^5 19
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「やめて、リズィ」
+
+「彼はまだ事情が分かってない」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ハッ、
+　なら説明してもらおうじゃん」
+
+「何だってソルトレイク
+　くんだりまで逃げ回ってた？
+　ドライブにしちゃ遠すぎるぜ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「サイスの指示ね。そうでしょ？」
+
+<BOX type="0">//%w
+　この期に及んで、
+　クロウディアは助け船を出そうとしてくれているらしい。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ロスを脱出し、地下潜伏して
+　連絡を待て……せいぜいが、
+　そんなところでしょうね」
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^4 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なぁクロウ、あんたのお気に入りなのは解るが……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「このツヴァイも、ファントムも、
+　所詮は判断力を奪われた
+　ロボットみたいな子供たちよ」
+
+「責任追及なんてできないわ」
+
+「まず彼に状況を理解させて、
+　それから、サイスに関する情報を
+　聞き出しましょう」
+
+<BOX type="0">//%w
+　……{ヒロイン}は、どうなった？
+
+　我が身を待ち受ける人生よりも、今はそのことが心配だった。
+
+<A HREF="0270f.txt" OPERATOR="0260=1">//~ 0270f
+<A HREF="0270e.txt" OPERATOR="">//~ 0270e

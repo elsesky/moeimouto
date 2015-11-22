@@ -1,0 +1,398 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　站在阁楼门口，我闻到一股很奇怪的气味。
+
+　不过，这不是我所熟悉的、预示着危险的火药味或是血腥味。
+
+　以前，我好象在哪里闻到过……而且，这味道与这个地方完全不相称。
+
+　再一看，我出去时拉在门缝处的头发断掉了。
+  看来在我外出时，有人开过这扇门。
+
+　是凯尔吗？可是我告诉过她不要出去的。
+
+　我竖着耳朵听了一下，房间里有人在哼着歌。凯尔好象在里面。
+
+　虽然确认了没有危险，可是我还是下意识地用手握住怀中的枪，悄悄地打开了门。
+<se id="1" src="door3" mode="normal" time="" loop="off" effect="">//!se door3
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0b2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+<BOX type="0">//%w
+　然后我又闻到了那股味道，这次貌似更重了……
+
+<BOX type="5">//%sR
+「欢迎回来！」
+
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BOX type="0">//%w
+<se id="1" src="kitchen1" mode="normal" time="" loop="off" effect="">//!se kitchen1
+　凯尔那欢快的声音迎了过来。
+
+<CLEAR><BACKGROUND SRC="room0a2">//# room0a2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　桌子上面的是……炉子和便携餐具等露营用的器具。小铝锅中正冒着热气。
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还没吃午饭吧？」
+
+<BOX type="0">//%w
+「啊，嗯」
+
+　现在我终于明白味道是从哪里传出来的……原来是在做饭。
+
+　跟现成料理的味道明显不同，这是朴实无华的烹煮的味道。
+
+　在这个从没使用过厨房的屋子里，我当然没闻到过这种味道。
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你回来得好晚，我正在想要不要一个人先吃呢」
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还好来得及，赶快趁热吃吧」
+
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔是趁着我外出的时候，买了炊具和材料回来吧。
+
+<se id="1" src="kitchen6" mode="normal" time="" loop="off" effect="">//!se kitchen6
+「还真是……熟练啊」
+
+这不是客套话。
+凯尔一边搅着锅里的东西一边加调味料的手法，还真是挺像模像样的。
+
+<BOX type="5">//%sR
+「每天早上都是我给茱蒂做饭的」
+
+<BOX type="0">//%w
+　凯尔得意地笑着。
+
+<se id="1" src="kitchen2" mode="normal" time="" loop="off" effect="">//!se kitchen2
+<BOX type="5">//%sR
+「好了……你把那边收拾一下，把餐具摆好」
+
+<BOX type="0">//%w
+「啊，哦」
+
+　这个时候我才发现，不知什么时候起自己已经完全步入了她的步调。
+  这个小姑娘真不好搞定。
+
+<BOX type="5">//%sR
+「我就知道肯定会来得及」
+
+<se id="1" src="kitchen5" mode="normal" time="" loop="off" effect="">//!se kitchen5
+<BOX type="0">//%w
+　凯尔一边说着，一边开始盛饭……说实话，看起来实在不像是什么上等的东西。
+
+　究竟是什么食材呢。？
+
+<CLEAR><BACKGROUND SRC="room0a2">//# room0a2 1
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我开动了——」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　吃到嘴里尝了尝，好象是什么东西混在一起的怪怪的味道。
+
+　虽然我从没期待这料理的味道能比得上一流餐馆里的正餐…………不过，并不难吃。
+
+　真是不可思议的味道，大概是凯尔独创的口味吧。
+　虽说有点奇怪，不过味道和口感都还不错，看来她真是下了一番功夫。
+
+<CLEAR><BACKGROUND SRC="僉儍儖椏棟尒偮傔2">//# room0a2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　突然，我发现凯尔没有品尝料理，只是一直盯着我看。
+
+「……？」
+
+<BOX type="5">//%sR
+「我在等你说很重要的话呢」
+
+<BOX type="0">//%w
+「唉？　啊」
+
+「……很好吃哦，这个」
+
+<CLEAR><BACKGROUND SRC="僉儍儖椏棟尒偮傔">//# room0a2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「对吧!!」
+
+<BOX type="0">//%w
+　这并不是客套，这个味道让人非常有食欲。
+　只不过，与我吃惯了的味道有些不同。
+
+<CLEAR><BACKGROUND SRC="room0a2">//# room0a2 1
+<WIPE EFFECT="fade" TIME="10">
+「你跟谁学的做饭呢」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「跟谁学的……」
+
+<BOX type="0">//%w
+　凯尔有点茫然地看着我，
+
+<BOX type="5">//%sR
+「这个还用学吗」
+
+<BOX type="0">//%w
+「难道……不用学吗？」
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「很简单啊」
+
+<BOX type="0">//%w
+　凯尔满不在乎地这样说道，她的笑脸上没有一丝谦虚的痕迹。
+
+<BOX type="5">//%sR
+「吃过好吃的东西后，我就会模仿它的做法而已」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当然，是把几种做法结合起来」
+
+<BOX type="0">//%w
+　原来做饭就是这么回事吗？
+  因为我自己没有做过饭，所以也不太清楚……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……不过，食材是什么呢？
+
+　在开口问之前，我发现我的勺子中竟然有切成片的西式泡菜。
+
+　要说里面放碎肉末还说的过去，可是这个……
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，对了，还有面包哦」
+
+<BOX type="0">//%w
+　说着，凯尔将去掉肉饼的汉堡包拿了过来。
+
+　……原来如此。
+
+//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　舌头感受着美味的料理，谈话自然就轻松了许多。
+　勺子的移动速度加快，话也就跟着多了起来。
+
+　成为杀手以来，我还是第一次说这么多话。
+
+　说起来，对方还只是一个自己认识才不过一晚上的孩子。
+
+　不过，我并没有忘记。
+  我不能为了有好吃的饭菜，而让凯尔留在这里。
+
+　我该和她好好谈谈了。
+
+「呐，凯尔」
+
+「我想跟你谈谈为茱蒂报仇的事」
+
+<se id="1" src="kitchen4" mode="normal" time="" loop="off" effect="">//!se kitchen4
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这么急吗」
+
+<BOX type="0">//%w
+「唉？」
+
+<BOX type="5">//%sR
+「现在……就要说吗？」
+
+<BOX type="0">//%w
+「……你不是一直在等着我的回答吗？」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「说起来，好像是这样啊。我都已经忘了」
+
+<BOX type="0">//%w
+　满不在乎地说完，凯尔又恢复了严肃的表情。
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「骗你的。我才没有忘」
+
+「……只是，害怕问你而已」
+
+<BOX type="0">//%w
+　饭桌上的欢声笑语，至此划上了句号。
+
+「雇我杀人的话」
+
+「只有500万是不够的」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是吗……这样啊」
+
+「对不起。我也不知道这种事的费用是多少」
+
+<BOX type="0">//%w
+「不过，不够的部分也就只有一点儿」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「那点钱，你也能够赚到」
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，嗯，我明白了」
+
+<BOX type="0">//%w
+　凯尔点点头，看起来急切地想切入谈话的主题。
+
+<BOX type="5">//%sR
+「那，我要怎么做呢？」
+
+<BOX type="0">//%w
+「你就暂时做我的助手吧」
+
+　我语气沉重地说道。
+
+　既然我跟Inferno有过那样的约定，就不能一直把凯尔藏着不让她见人。
+  为了瞒过组织的眼睛，我必须要对她进行相应的训练。
+
+　当然，只是做做样子而已。没有必要让她接受以前{ヒロイン}对我进行的那种彻底的训练。
+
+　有事情就带上凯尔走动走动，对外宣称是实地训练的话，组织也不会怀疑什么。
+  只是，接下来我该怎么对凯尔说呢……
+
+<BUSTUP NAME="cyall3" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哇哦」
+
+<BOX type="0">//%w
+　我正想她会有什么样的反应时，没想到她竟然两眼放出光来。
+
+<BOX type="5">//%sR
+「太棒了！我成了Phantom的助手了!!」
+
+<BOX type="0">//%w
+「我说啊……」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「放心吧，我会很努力的」
+
+<BOX type="0">//%w
+看到她这样，估计我说什么都没用了。
+这个从昨天开始就CIA、CIA的说个不停的少女，明显是被电视毒害了。
+
+　只要在事情解决之前，不出问题就好了……
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对了，做{名}的助手的话」
+
+「就能亲眼目睹为茱蒂报仇的那一刻了吧？」
+
+<BOX type="0">//%w
+「……」
+
+　这正是我想回避的问题，所以我暂时选择了沉默。
+
+//> left room0b2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0b2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　中午刚过，马上就有了工作。
+
+　今天克劳蒂亚为了解释之前发生的事，需要前往那些黑社会所在的酒店。
+  当然，我也要作为保镖一同前往。
+
+　虽说骚然不安的事态已经平静了下来，但还是提前做好应对危险氛围的心理准备为妙。
+
+<CALC WORKNAME="1100" OPERATOR="1">//
+
+//仸廵慖戰
+<CLEAR>
+<BACKGROUND SRC="廵\対廵慖戰back">
+
+// 廵傾僯儊乕僔儑儞 TYPE="97" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="34" y="396" TYPE="97" FILE="cg\廵\3D柍偟.jpg">
+
+// 廵愢柧 TYPE="98" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="276" y="396" TYPE="98" FILE="cg\廵\愢柧柍偟.png">
+
+// 廵慖戰丂TYPE="99" FILE偱巜掕偡傞偺偼丄"捠忢昞帵夋憸 ; 儅僂僗僆乕僶乕帪夋憸 ; 儅僂僗僆乕僶乕僄儕傾夋憸 ; 廵愢柧僥僉僗僩夋憸 ; 廵傾僯儊乕僔儑儞夋憸 亊 24枃"偲側偭偰傑偡丅
+// 儅僥僶
+<CHOICE HREF="ta001.txt"   x="127" y="8" TYPE="99" FILE="cg\廵\儅僥僶.png;cg\廵\儅僥僶.png;cg\廵\儅僥僶a.png;cg\廵\儅僥僶s.png;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_00.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_01.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_02.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_03.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_04.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_05.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_06.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_07.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_08.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_09.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_10.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_11.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_12.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_13.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_14.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_15.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_16.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_17.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_18.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_19.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_20.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_21.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_22.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_23.jpg" OPERATOR="M2006=1">
+// 僨僓乕僩僀乕僌儖
+<CHOICE HREF="1110Ie.txt"   x="235" y="13" TYPE="99" FILE="cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖a.png;cg\廵\僨僓乕僩僀乕僌儖s.png;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_00.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_01.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_02.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_03.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_04.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_05.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_06.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_07.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_08.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_09.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_10.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_11.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_12.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_13.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_14.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_15.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_16.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_17.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_18.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_19.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_20.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_21.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_22.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_23.jpg" OPERATOR="50AE=1">
+// 僔僌
+<CHOICE HREF="ta001.txt"   x="485" y="30" TYPE="99" FILE="cg\廵\僔僌.png;cg\廵\僔僌.png;cg\廵\僔僌a.png;cg\廵\僔僌s.png;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_00.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_01.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_02.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_03.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_04.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_05.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_06.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_07.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_08.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_09.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_10.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_11.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_12.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_13.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_14.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_15.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_16.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_17.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_18.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_19.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_20.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_21.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_22.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_23.jpg" OPERATOR="P226=1">
+// 儀儗僢僞
+<CHOICE HREF="1110BS.txt"   x="0" y="139" TYPE="99" FILE="cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞a.png;cg\廵\儀儗僢僞s.png;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_00.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_01.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_02.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_03.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_04.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_05.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_06.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_07.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_08.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_09.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_10.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_11.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_12.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_13.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_14.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_15.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_16.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_17.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_18.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_19.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_20.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_21.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_22.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_23.jpg" OPERATOR="M92F=1">
+// 僷僀僜儞
+<CHOICE HREF="1110Cm.txt"   x="218" y="151" TYPE="99" FILE="cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞a.png;cg\廵\僷僀僜儞s.png;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_00.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_01.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_02.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_03.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_04.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_05.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_06.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_07.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_08.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_09.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_10.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_11.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_12.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_13.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_14.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_15.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_16.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_17.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_18.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_19.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_20.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_21.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_22.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_23.jpg" OPERATOR="pyson=1">
+// M29
+<CHOICE HREF="1110Sm.txt"   x="439" y="81" TYPE="99" FILE="cg\廵\M29.png;cg\廵\M29.png;cg\廵\M29a.png;cg\廵\M29s.png;cg\廵\廵夞揮_楢斣\M29楢斣\M29_00.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_01.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_02.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_03.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_04.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_05.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_06.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_07.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_08.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_09.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_10.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_11.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_12.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_13.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_14.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_15.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_16.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_17.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_18.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_19.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_20.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_21.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_22.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_23.jpg" OPERATOR="SWM29=1">
+// H_K USP
+<CHOICE HREF="ta001.txt"   x="206" y="238" TYPE="99" FILE="cg\廵\h_k.png;cg\廵\h_k.png;cg\廵\h_ka.png;cg\廵\h_ks.png;cg\廵\廵夞揮_楢斣\USP楢斣\USP_00.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_01.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_02.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_03.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_04.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_05.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_06.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_07.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_08.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_09.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_10.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_11.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_12.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_13.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_14.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_15.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_16.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_17.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_18.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_19.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_20.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_21.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_22.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_23.jpg" OPERATOR="hkUSP=1">
+// 僈僶儊儞僩
+<CHOICE HREF="1110CV.txt"   x="476" y="206" TYPE="99" FILE="cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩a.png;cg\廵\僈僶儊儞僩s.png;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_00.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_01.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_02.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_03.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_04.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_05.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_06.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_07.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_08.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_09.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_10.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_11.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_12.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_13.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_14.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_15.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_16.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_17.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_18.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_19.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_20.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_21.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_22.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_23.jpg" OPERATOR="M1911=1">
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+<A HREF="1118.txt" OPERATOR="">//~ 1118

@@ -1,0 +1,334 @@
+<CALC WORKNAME="pyson" OPERATOR="1">//
+<CALC WORKNAME="SWM29" OPERATOR="1">//
+<CALC WORKNAME="50AE" OPERATOR="1">//
+<BOX type="0">//%w
+「他の銃にしよう。……もっと大きいのとか、威力があるのとか」
+
+<BOX type="5">//%sR
+「……わかったわ」
+
+<A HREF="#曲なし" OPERATOR="0076d=1">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="#合流">
+
+<MARKER NAME="#曲なし">
+//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<MARKER NAME="#合流">
+<BOX type="0">//%w
+　そうは言ったものの、
+　アインに渡されたのは、最初に練習したのと同じ銃だった。
+
+「なあ、これって……」
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 cm 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「弾倉を開けてみて」
+
+<BOX type="0">//%w
+<se id="1" src="02_03" mode="normal" time="" loop="off" effect="">//!se 
+　言われるままにラッチを引いて、
+　弾丸が収まる部分（シリンダーというらしい）を横に押し出す。
+
+　何の変哲もない……そう思ったが、よく見ると弾丸の尻の刻印が違う。
+
+<CLEAR><BACKGROUND SRC="357弾">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+　一発を抜いて、もっとよく観察した。
+　たしかに弾頭の形や素材が違うが、
+　何かもっと、それ以上の違和感を感じる。
+
+<se id="1" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「前に使ってた38スペシャルが、
+　これ」
+
+<BOX type="0">//%w
+　そう言って、アインは別の弾丸をよこした。
+
+　見比べて、はっきりわかった。渡された弾のほうが、薬莢が短い。
+　銃から抜いた弾は、シリンダーの寸法ぎりぎりまで、長さがある。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いま装填されている方が、
+　その銃……コルト＝パイソンの
+　本来の専用弾よ」
+
+「357マグナム弾。薬莢の長さの
+　ぶんだけ、炸薬が多くなってるの。
+　殺傷能力は桁違いよ」
+
+「そのぶん反動も強いから、
+　扱いには注意して」
+
+//> left factory4b wide 255 dummy 20 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　外に出て、マグナム弾を込めたパイソンを構えてみる。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="パイソン3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　当たり前の話だが、構えた感じは何も変わらない。
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<CLEAR><BACKGROUND SRC="#ffffff">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="python_射撃">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　だが注意された通り、反動は鋭く強烈だった。
+　銃声も以前よりはるかに仰々しい。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……それでも、やはりリボルバーのグリップは握りやすい。
+　オートマチックよりも、しっかりと保持できる。
+　これなら、ある程度は反動の強さもフォローできそうだ。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ターゲットのベニヤ板には、丸くきれいな弾痕が穿たれていく。
+
+　45オートで撃ったときは、
+　もっと大きく、ささくれた弾痕だったんだが……
+
+「本当に45口径より強い銃なのか？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「貫通力はね。
+　弾丸初速は比較にならないわ」
+
+<BOX type="0">//%w
+　……なるほど。
+　重く大きい45ACP弾は飛ぶのが遅く、
+　逆に357マグナム弾は小さく軽いぶん高速で飛ぶ。
+
+　だからベニヤ板ていどの強度では、あっさり貫通してしまい、
+　ちゃんと威力を発揮できずに、小さな弾痕になる……そういうことか。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「次はこれを」
+
+<clear>
+<BACKGROUND SRC="magnum_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……今度の銃は、とてつもなく大きくて重かった。
+　これはまっすぐ構えているだけでも苦労しそうだ。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「スミス＆ウェッソン、モデル29。44マグナム……“ハンドキャノン”と呼ばれるクラスの拳銃よ」
+
+「人間どころか、
+　自動車のエンジンを撃ち抜いて
+　壊すことだってできるわ」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　構えてみた。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　マグナム弾で、しかも45オートに匹敵する口径……
+　これは相当な反動がくるだろう。
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　案に違わず、キックは今までのどの銃よりも強烈だった。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「外れたわよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「わかってる」
+
+　慎重に狙って、もう一発。
+
+<se id="1" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　当たった途端に、ベニヤ板の下半分が跡形もなく吹っ飛んだ。
+　威力も、もの凄い。
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……よし、だいたい飲み込めた。
+
+　これは連射することなど考えず、
+　一発一発を着実に撃たなきゃならない銃だ。
+　下手をすれば反動で姿勢のバランスまで崩しかねない。
+
+　この威力と、オートマチックの機能性を兼ね備えた銃があったら、
+　きっと最強なんだろうが……
+
+「マグナム弾ってのは、リボルバー拳銃だけのものなのか？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　しかし、何の気なしにそう訊いてみると、アインはかぶりを振った。
+
+<BOX type="5">//%sR
+「いいえ……マグナム弾を使う
+　自動拳銃もあるわ」
+
+「使ってみる？」
+
+//> left room2 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 Ie 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「デザートイーグル。
+　イスラエル製の拳銃よ」
+
+<clear>
+<BACKGROUND SRC="EAGLE_000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　こいつは……なんて銃だ。
+
+　サイズはコルト＝オートマチックより二回り以上大きく、
+　重さも44マグナムを凌ぐ。
+　見るからに荒々しく無骨な造形。
+
+　……化け物。
+　そんな形容しか思い浮かばない。
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 Ie 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「50口径、装弾数7発……
+　拳銃としては世界最強ね」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もっとも、
+　使いこなせればの話だけれど」
+
+<BOX type="0">//%w
+「……やってみるよ」
+
+//> left factory wide 255 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　スライドを引いて初弾を装填……
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+　銃のサイズがサイズなだけに、スライドだけでも相当な質量だ。
+　装填しただけで、
+　まるで鉄亜鈴を振り回しているような、重々しい感触が手に残る。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　標的を狙おうとしても、なかなか銃身を安定させられない。
+　グリップがあまりに太すぎて、力を込めて握れないのだ。
+
+　握っているというより、しがみついているといった感触。
+　これで、当てられるだろうか……
+
+<se id="1" src="20_01a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　反動はたしかに凄かったが、
+　覚悟して身構えていたので、仰け反るようなことにはならなかった。
+
+　銃自体があまりに重いぶん、
+　銃身の跳ね上がりが抑制されているんだろう。
+
+　だがその重さが問題だ。
+　ただでさえ太すぎて握りにくいグリップなのに、
+　この重量を腕の先で安定させるのは、不可能に近い。
+
+　……案の定、弾丸は、あらぬ方向に飛んでいったらしい。
+
+　よしんば1発目を当てられたとしても、
+　2発、3発と続けて狙いをつけるのは無理だ。
+　これでは自動拳銃のアドバンテージを活かせない。
+
+「使えやしないよ、こんな銃」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう思うなら、練習しなさい」
+
+「いつも使える武器を
+選り好みできるとは限らないわよ」
+
+<calc workname="gun19" operator="1" mode="global">
+<calc workname="gun20" operator="1" mode="global">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079

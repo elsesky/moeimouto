@@ -1,0 +1,221 @@
+　眠気覚ましと気分転換に、
+　コーヒーが飲みたくなった。
+　……が、そこでまた
+　美緒は億劫になる。
+
+　普段なら、豆から牽いて本格的に煎れるのだが、生憎、いま家には美緒一人しかいない。
+
+　女だてらに仕事の虫の母は、いま出張で家を空けている。
+　一人で飲むコーヒーの味気なさを思うと、そのために、わざわざサイフォンを持ち出すのもどうか。
+
+<BUSTUP NAME="mio2" face="9" MODE="on" zoom="" ALIGN="right">//# mio2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“……缶コーヒーでもいいか”
+
+<BOX type="2">//%w
+　こういうとき幸いなことに、
+　すぐ目の前の4つ角に、
+　自販機が置いてある。
+
+　家族のいない夜が続くうち、
+　ここ数日は、ついついそういう
+　不精が身についてしまっていた。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+　小銭だけを手に、
+　美緒は玄関を出た。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right mio_house3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="mio_house3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<CLEAR><BACKGROUND SRC="自販機前">//# dummy 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　目指す自販機の前に、見覚えのあるオートバイが停まっていた。
+
+　見るからに攻撃的な、
+　真紅のシルエット。
+
+バイク自体は、場違いな場所で見たというだけの理由で、印象に残っていたのだが……
+
+　その傍らに佇む乗り手の風貌は、それとは比較にならないほど強烈に、美緒の記憶に刻まれていた。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「よぉ」
+
+<BOX type="3">//%m
+　まるで出くわしたことが、
+　当然であるかのように……
+　何の気負いもなく、金髪の少女は
+　美緒に声をかけてきた。
+
+　こんな夜中に、
+　寝静まった住宅街の真ん中で、
+　彼女は一体、何をしているのか？
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの……」
+
+<BOX type="2">//%w
+　記憶の底からホームステイの頃の英会話を引っぱり出し、恐る恐る、声をかける。
+
+<BOX type="5">//%sR
+「あなたは……
+　どうして、こんな所に？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「へぇ、英語、使えるんだ？
+　そりゃ話が早い」
+
+「ちょいと付き合って
+　もらいたくてね、あたしに」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="2">//%w
+　なお問いかけようとした美緒の
+言葉を、冷たい金属音が阻んだ。
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「この国じゃ
+　見慣れないかもしれないが、
+　本物だからね」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　呆気にとられて、
+　美緒は声も出ない。
+　……拳銃？
+
+<BOX type="5">//%sR
+「ちょ、ちょっと……」
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「煩わしい説明は、
+　後回しにさせてもらうよ」
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　言葉を途切り、銃を手にした少女は、どこか凶々しさを感じさせる笑顔を見せて、
+
+<BOX type="4">//%sL
+「……どのみち、あんたには、
+　洗いざらい教えてやるさ。
+　梧桐のお姫様」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　梧桐？
+　お姫様？
+
+　ますます訳がわからない。
+
+　梧桐……
+　2年前に事故死した叔父の姓。
+　だがなぜそれが、
+　この女の子の口から出る？
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「乗りな」
+
+<BOX type="3">//%m
+　美緒に拳銃を向けたまま、
+　少女はバイクに跨ると、
+　後部座席を親指で示した。
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　この子は……恐い。
+　今さらのように、
+　美緒はそう痛感した。
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　外国人だからというのではない。
+
+　美緒自身、
+　ホームステイの経験もある。
+　国や文化がどうあれ、
+　気心知れてしまえば、
+　みな同じ10代の少年少女だった。
+
+　だが、いま相手にしている謎の少女は、明らかに異質な存在なのだ。
+
+　匂い立つような、暴力の雰囲気。
+
+　人を傷つけ、屈服させることに、何の抵抗も感じていない……
+　まだ何をされたわけでもないのに、そんな冷酷さが、ひしひしと伝わってくる。
+
+　同じ人間とは、思えない。
+　まるで、人語を解する肉食獣を相手にしているような、そんな本能的な恐怖感があった。
+
+　いかにも手慣れた風に、右手に携えている拳銃も、信じがたいことだが、玩具とは思えない。
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どこに……連れていく気です？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あんたの学園の近所だよ」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　やはり、彼女の意図は、
+　まるでわからないが……
+　怯えていた美緒には、拒むことも
+　逃げることも叶わなかった。
+
+<A HREF="3440.txt" OPERATOR="">//~ 3440

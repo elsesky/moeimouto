@@ -1,0 +1,248 @@
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　她如果下不了手的话，就让我最后再帮她一次吧。
+
+　为了不让她有痛苦的回忆，就让我为她创造开枪的借口吧。
+
+　我装成杀气腾腾的样子，朝着克劳蒂娅的枪口转过身。
+
+<se id="1" src="14_05" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+　干巴巴的枪声，还有意想不到的轻微冲击。
+  失去支撑的视野开始翻滚起来。
+<wait time="800">
+<se id="2" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="white">//# inferuno2 20 
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// white 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　维斯梅尔说过。
+  我会像这样重蹈罗梅洛的覆辙。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice 19
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　赛斯说过。
+  我不应该走上这样的穷途末路。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　无论哪一个，都只是废话。
+
+　无论到哪里，我都希望和她一起去，绝对不想和她分离。
+
+　阻止我实现愿望的，是你们这些家伙。
+　你们一直都在妨碍着我。
+
+<CLEAR><BACKGROUND SRC="1770p1">//# 1770p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　你没有必要自责哦。
+
+　自己是被迫的，自己不得不开枪……你只要这样想就好了。
+
+<BOX type="5">//%sR
+「{名}……{名}……」
+
+<BOX type="0">//%w
+　喂喂，这算什么表情啊。
+　真是的，这不就把你的美人容貌破坏了吗……
+
+「不是、你的……错」
+
+　伴随着言语的，是咳出的血丝。
+　自己已经说不了多少话了。
+
+<BOX type="5">//%sR
+「……可是……我、还是开枪了……」
+
+「没有你的话，从今以后我要怎么办才好……」
+
+<BOX type="0">//%w
+　真是可怜。
+　为了活到今天……你究竟被夺走、舍弃、失去了多少东西呢？
+
+　可是……
+　你并不弱小哦，克劳蒂娅。软弱这种词，与你是无缘的。
+　因为，你不是这样说过吗……
+
+「失去的也好，被夺走的也好。终有一天把它们全部夺回来就行了」
+
+「……做得到吧？
+  因为，你还活着……」
+
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+「……那句话，原样奉还给你了哦，克劳蒂娅」
+
+「……追着我们的那些家伙……不允许我们走到最后的那些家伙……」
+
+「绝对……不要放过他们……」
+
+　这是我最后的话语。
+　明明鼓励过她了……可是克劳蒂娅还是不住地流着泪，抱紧我满是鲜血的头呜咽了起来。
+
+<BOX type="5">//%sR
+「……对不起……对不起……」
+
+<BOX type="0">//%w
+　真没办法……
+　虽然我想最后再看一次她的笑脸……
+
+　现在，你只要尽情哭泣就好了。
+  尽情的哭吧，直到心情彻底平复下来。
+
+　不过，在你痛痛快快地哭过之后……
+
+　……你应该知道的吧？
+　克劳蒂亚……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<BACKGROUND SRC="1擭屻">//
+<WIPE EFFECT="fade" TIME="30">
+<BOX type="7">//%w
+<k>
+//$ 0 0 0
+
+//仸侾擭屻
+
+//> after1 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1770x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1770x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　矗立于曼哈顿东区的高级公寓内。
+
+　今夜，克劳蒂娅也在居高临下地俯视着纽约的夜景。
+
+　这个绝佳的住所，是冈宾诺家族现在的2号人物——艾玛努艾鲁·杰诺盖泽的东西。
+
+　德鲁克·雷托被暗杀以后，迈尔·卡尔罗尼一直在与艾玛努艾鲁争夺着空下来的交椅以及顾问的职位。
+
+　凭借克劳蒂娅提供的证据，艾玛努艾鲁最终以与Inferno勾结的罪名干掉了宿敌迈尔……因此，这个男人对克劳蒂娅可谓是言听计从。
+
+　一直以来，艾玛努艾鲁都将克劳蒂娅当成胜利的女神、机智的谋士……还有，欲望的对象。
+
+　这所公寓，就是他为了饲育克劳蒂娅而准备的牢笼。
+
+　这个女人的一切都应当归他所有……在这位野心勃勃的年轻顾问看来，这是男人天生的特权。
+
+　不过，存在于表面之下的、真正的主从关系，这个傲慢的男人却一点都没能发觉。
+
+　他一直都没有明白，自己不过是被欲望和虚荣所操纵的蠢货。
+
+　克劳蒂娅用枕边风的方式提供的『建议』，被艾玛努艾鲁当成了巫女的神谕，不但一句不漏地仔细聆听，而且全都信以为真。
+
+　由于艾玛努艾鲁的崛起，冈宾诺家族开始按照克劳蒂娅描绘的图纸慢慢发生改变。
+
+　当冈宾诺的老首领退隐的时候，没有对手的艾玛努艾鲁将实现从『顾问』到『首领』的最后晋升吧。
+
+//> right 1770p3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="1770p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+街灯在灿然地发着光。
+在那炫目光辉的缝隙中，充满了黑暗。
+
+　克劳蒂娅知道，在那片黑暗的最深处，有着厚厚淤泥一般的污秽。
+
+　过去，自己曾经深陷其中，为了寻求出头之日而碌碌奔波。
+
+　不过，现在想起来，那样的记忆就像是早已结束了的虚无的梦。
+
+　已经，什么都回想不起来了。
+
+　现在向下看去，只能看到那一片令人炫目的光辉。
+
+　在那深处究竟有什么……如今已经没有确认的办法了。
+
+　除了，一件物证……
+
+<CLEAR><BACKGROUND SRC="1770x2">//# 1770x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　手中那坚硬的触感……是0.32口径子弹的空弹壳。
+
+　她的手枪在那个清晨留下的、最后一次怒吼的证据。
+
+　1年以来……
+　克劳蒂娅一直随身携带着这枚弹壳。
+
+<CLEAR><BACKGROUND SRC="yacht3">//# yacht3 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+总有一天，一定能够到达只属于我们两人的世界。
+所以……必须要一直前进下去。
+
+　他曾经这样说过。
+
+　无法实现的、空虚的誓言。
+
+　曾经的两人世界已经关上了大门……如今，只能在记忆中缅怀了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1770x2 wide 255
+<CLEAR><BACKGROUND SRC="airport2">//# airport2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　停下来，回过头的话，就会看到。
+
+　被日光晒得滚烫的跑道、阴暗的机库散发出的冷气，还有，圣安娜焚风的低吟。
+
+<CLEAR><BACKGROUND SRC="1770x2">//# 1770x2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　感伤会让人变得软弱。
+
+<bgm src="Silence_s" mode="fadein" old="fadeout" time="10" loop="off">//$ lonely.swa 0 255
+　如果被难以割舍的东西束缚住，从那个瞬间起，人生就会无可避免地走上败北之路。
+
+<CLEAR><BACKGROUND SRC="1770p3">//# 1770p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+终有一天，这一切会被遗忘吧？
+终有一天，这枚空弹壳会像废铁一样被丢弃吧？
+
+　不然的话，不知什么时候又会输给别人吧。
+
+　不害怕失去、不害怕受伤，只是朝着前方一路奔跑下去……
+
+　敌人，就是一直以来这样活着的——自己。
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550
+
+
+
+
+　

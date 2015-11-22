@@ -1,0 +1,349 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「アイン、この人たちに説明してやってくれ!」
+
+「僕じゃまだ無理だ。そうだろ？　訓練はまだ途中なんだから」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「訓練は終わったわ」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたはよくやった。
+　優秀だったわ。
+　安心して実戦に送り込める」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そんな……
+
+「でも……僕なんかじゃ、こなせない……」
+
+「だってまだ君には、とてもかなわない」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それは当然だとも、ツヴァイ」
+
+<BOX type="0">//%w
+　まるで成り行きを楽しんでいるかのように、
+　サイス＝マスターが口をはさむ。
+
+<BOX type="4">//%sL
+「彼女は誰あろうインフェルノの“ファントム”だ。
+　及ばないのは無理もない」
+
+「むしろ君こそ、
+　妙な謙遜はやめたまえ」
+
+「ファントムの一番弟子ともなれば
+　そこいらの雑兵よりは
+　はるかに有望だ」
+
+「つつがなく
+　任務を遂行できるとも」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「その雑兵ってのは
+　アタシのことかい？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice2 19
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「とんでもない、ミズ＝リズィ。
+　滅相もありません」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20 sice 19
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# elen1^6 20 sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「行きなさい、ツヴァイ」
+
+<BOX type="0">//%w
+「……できない」
+
+「できや、しないよ……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen5" face="" MODE="on" zoom="" ALIGN="right">//# elen5 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="0">//%w
+　……アイン……！？
+
+<BOX type="5">//%sR
+「最初の晩に、言ったわよね。
+　拒んでもいいって」
+
+「もう一度、選ばせてあげるわ」
+
+「すべて受け入れて生き残るか、
+　それとも拒んで死ぬか……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そうだった。
+
+　アインと同じ、インフェルノの殺し屋になる……
+
+　それが、この命の、
+　今日まで生きながらえてきたことの代価。
+
+　……解っていたことじゃないか。
+
+//もえらＳＥ追加
+<se id="1" src="砂漠歩く" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　踵を返し、重い足を引きずるようにして、廃工場を目指した。
+
+　手にした銃のグリップが、滑りそうなほど汗で濡れている。
+
+　夢だ……
+　こんなの全部、悪い夢なんだ……
+
+　あの時と同じ涙が、頬を伝った。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right factory4BZ wide 255 inferuno1 20
+<clear>
+<se id="1" src="" mode="fadeout" time="30">
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4bn">//
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……大丈夫なのかね？
+相手は現役のSEALS隊員だろう？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「問題ありません」
+
+「素養においては、
+　この“ファントム”をも上回る
+　逸材です」
+
+「皆様に、このような場所まで
+　御足労願ったのも……」
+
+「彼の能力を、その目で確かめて
+　いただきたいがためでして」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いつの間に、あんな少年を
+　スカウトしたのかね？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　答えずに、サイス＝マスターは
+　忠実な下僕を一瞥した。
+
+<BOX type="4">//%sL
+「ファントム、
+　お前ならどう見るね？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ウォレス大尉は訓練を受けたプロなので、パニックやプレッシャーの影響はないでしょう」
+
+「経験もツヴァイより豊富でしょうが、訓練の密度ではツヴァイが上かと思われます」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「このようなゲリラ戦に適した
+環境は、逃走者にアドバンテージを
+もたらしますが……」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「地形を熟知しているのは
+　追跡するツヴァイの方です」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「結論として、どうなんだね？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「状況だけ見るなら五分五分です。
+　あとは当人たちの潜在能力で、
+　勝敗が決するでしょう」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ツヴァイに勝ち目は？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私はウォレス大尉の力量を
+　知りません」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……あの少年が負けた場合は、
+　どうなる？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大尉は次に、
+　我々に牙を剥くでしょうな」
+
+「この砂漠では、どのみち
+　逃げ場などありませんから」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「心配でしたら、
+　防弾車の中でお待ちになっては
+　いかがでしょうか？」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そうさせてもらおう、
+　クロウディア」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……はっ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　クロウディアと、護衛のリズィを引き連れて、マグワイヤはリムジンの中に戻っていった。
+
+<BOX type="3">//%w
+　後に残って見守るのは、
+　サイス＝マスターと
+“ファントム”の二人だけ。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……ウォレス大尉は、
+　傑出した人材という訳ではない」
+
+「彼を平均的な
+　SEALS隊員と想定して、どうだ？
+　お前の鍛えたツヴァイは」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所要時間は、
+　おそらく15分前後です」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「結構」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　静かだった。
+
+　聞こえるのは、ただ、荒野を渡る風の音だけ。
+
+　初めての夜を思い出す。
+　奥の部屋で目を覚まし、一人、さまよい歩いた夜のことを。
+
+　あの時と同じ場所。
+　目に映る薄闇の景色は、なにひとつ変わっていない。
+
+　なのに今夜は、始めて足を踏み入れた別の場所のような気がする。
+
+　この暗闇のどこかに、ウォレス大尉は隠れている。
+　おそらくは、すでに武器を手に入れて。
+
+　落雷の前触れのような、張りつめた空気。
+　
+　広い建物の空間が、空気以外のもので満たされている。
+　……恐怖と、憎悪と、そして剃刀のような殺気。
+
+　そんな気配に鳥肌を立てながら、そっと歩を進める自分もまた、
+　あの夜の自分じゃない。
+
+　さまざまな凶器の扱い方や、急所の位置を、頭いっぱいに詰め込み……
+　
+　昼となく夜となく撃ちまくり、
+　今はもう、手に貼り付いて感じるほどに使い込んだ銃を
+　握りしめて……
+
+　変わってしまったのだ。何もかも。取り返しがつかないほどに。
+
+　恐怖とプレッシャーで押し潰されそうではあったが……
+　その反面、胸には期待にも似た予感があった。
+
+　これで、全てが終わるんじゃないのか？
+
+　この引き金を引いた瞬間に……
+　あるいは、銃弾に胸を打ち抜かれた瞬間に……
+　どこか別の場所の、暖かいベッドの中で目を覚まし、
+　すべてが夢だったと分かるんじゃないのか？
+
+　慣れ親しんだ部屋で、
+　見知った家族に迎えられて、
+　慣れ親しんだ一日が始まるんじゃないのか？
+
+　どんな悪夢にうなされていたかも、思い出せないままに……
+
+<A HREF="0092.txt" OPERATOR="">//~ 0092

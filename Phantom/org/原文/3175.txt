@@ -1,0 +1,683 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<box type="2">//%w
+　襲撃から、一夜が明け……
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<box type="2">//%w
+　リズィたちインフェルノ戦闘部隊が滞在するホテルに、梧桐組若頭、志賀透が訪れた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「これはこれは、ミスタ志賀。
+　ご無沙汰しております」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あんたも日本に
+　来ていたのか。ギュゼッペ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いや、ここでの通り名は
+　サイス＝マスターだったか」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そちらで通して戴ければ
+　幸いですな」
+
+「今のファントムも、私のプロデュースした人材でしてね。今回の日本遠征にも同伴した次第です」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　ファントム……
+　志賀はサイスから、その後ろで横柄にソファに寝そべっている少女へと視線を移した。
+
+　新たにインフェルノ最強の称号を得た金髪の少女は、さっきから志賀の来訪など素知らぬ顔で、ヘッドホンステレオに聞き入っている。
+
+　そういえば、この男、以前ギュゼッペと名乗っていた時も、戦闘訓練を施した少女を用心棒代わりに連れていた。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　志賀からしてみれば胸のむかつく悪趣味だが、とやかく言う筋合いの事柄ではない。
+
+　そもそも、今日の用件はこの男ではなく、昨夜の襲撃を指揮したリズィにある。
+
+<BOX type="5">//%sR
+「日本の新聞は読めますか？
+　ミズ＝リズィ」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いいや。からきし」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうですか。
+　では私が代わりに……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「昨夜10時ごろ、横浜市桜木町、
+中華料理店『香林』に、短銃等で武装した5人組の外国人が押し入り」
+
+「店長の徐栄中さん(42)ほか従業員3人が死亡。5人が重軽傷を負う事件が起きた……」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有り難いことに、
+　マスコミはずいぶんと好意的に
+　脚色してくれた」
+
+「犠牲者に至っては、
+　たったの3分の1ですよ」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そういう次第で、この一件、報道管制が敷かれています。おそらくは公安が動いているでしょう」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「当然でしょうなぁ。どう考えても
+　この国で起こりうるような
+　事件ではありませんからね」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 rizy^2 19
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# siga^3 20 rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　さも他人事という風に口を挿んだサイスに、志賀とリズィが同時に冷ややかな視線を送る。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「昨夜の襲撃に参加した方々には、一刻でも早い出国をお薦めします」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ああ、そう」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「幸いにして、梧桐組の関与を示す証拠は一切残さぬまま、徐と周を抹殺できた」
+
+「インフェルノの皆様には
+　感謝の言葉もありません」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ただし願わくば、今後、
+　日本で活動なさる場合は……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いったい何をしでかすつもりなのか、ぜひともこちらに一報、ご相談いただきたい」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……嫌な言い方、するなよ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「では、私はこれで」
+
+//> right hotel3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　客人の手前、身内の恥を暴露することもできず抑えていたリズィだったが、志賀が退出するや否や、睨み殺さんばかりの剣幕でファントムを見据えた。
+
+　志賀の皮肉に
+　腹が立ったわけではない。
+
+　日本の公安とて、どうでもいい。すでに配下の襲撃チームは、出国した後だ。
+
+　リズィの怒りの元は、10人連れてきた部下のうち、成田を発てたのは8人だけという結果である。
+
+<BOX type="4">//%sL
+「ケネスも、レクターも、今頃は
+　飛行機に乗ってるはずだった」
+
+<BOX type="3">//%m
+　昨夜の大乱戦で命を落とした二人は、遺体を持ち帰ることさえままならなかった。
+
+　彼らは遠い異国の地で、身元不明の死体として処理される羽目になったのだ。
+
+<BOX type="4">//%sL
+「なんで奴らが、死んだと思う？
+　え？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//# drei^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「トロかったからねぇ、あの二人」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「オマエさえ、
+ふざけた真似しなけりゃなあ……」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「徐は取り逃がして
+　作戦は失敗だったね」
+
+<box type="2">//%w
+　リズィの剣幕も何処吹く風とばかり、平然と言い返すファントム。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「死人を出したくなかったならさ、
+　なんであたし一人に任せなかった
+　ワケ？」
+
+「その方が、
+　余程やりやすかったんだけど」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//# drei^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの程度の連中なら、
+　10秒もあれば皆殺しにできたよ」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それしか頭にねぇのか!
+　テメェは!?」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まぁまぁ、二人とも」
+
+<box type="2">//%w
+白々しい笑顔のまま、
+サイスが取りなすように間に入る。
+
+<BOX type="5">//%sR
+「当座の問題は、それではない。
+　まだこの国での仕事が終わった
+　わけではないでしょう？」
+
+<box type="2">//%w
+　サイスの言うとおり、今回の訪日は、実のところ梧桐組の援護が目的だったわけではない。
+
+　志賀の要請にかこつけて、まったく別件の問題を処理する目論見が、インフェルノにはあった。
+
+　逃亡した前ファントム、
+　ツヴァイの処刑……
+
+クロウディアのクーデターに荷担した後、行方をくらましていた彼が、この日本に潜伏していることが判明したのは、つい先週のことである。
+
+　折良く志賀からチャイニーズ・マフィア殲滅の要請を受けていたインフェルノは、一石二鳥の成果を狙って、最強のスタッフを日本に送り込んだのだった。
+
+　だが……
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ここは一旦、引き揚げるべきだ」
+
+<BOX type="3">//%m
+　そうリズィは断言した。
+
+<BOX type="4">//%sL
+「志賀の言う通り、
+　この国でこれ以上、派手な騒ぎを
+　起こさねぇ方がいい」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何を弱気な……」
+
+「一体どうして、これ以上
+　ミスタ志賀に気を使う必要が
+　あるのです？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ツヴァイの抹殺は、
+　梧桐組とは何の関係もない」
+
+「我々インフェルノの、
+　言うなれば内務処理では
+　ありませんか」
+
+「むしろ、ミスタ志賀に干渉される
+　いわれなどない事柄だ」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「これ以上、
+　その娘を日本に置いておけるか!」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//# drei^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　リズィの険しい一瞥を受けても、ファントムはまるで他人事のように横柄な笑みを返す。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「しかしミズ＝リズィ。
+　この狩りばかりは、
+　彼女でなければ手に余ります」
+
+「なにせ獲物たちは揃いも揃って、
+　かつてファントムの異名を
+　恣にした二人です」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+“どっちも貴様の置き土産だろうが。蛇野郎……”
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まずはマグワイヤに報告だ」
+
+「それから、指示を仰ぐ」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あっそ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　鼻を鳴らして、
+　ファントムはソファを立つと、
+　部屋を出ていこうとした。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どこ行く気だ、おい!?」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「カッカしなさんな。
+　ちょっと
+　風に当たってくるだけだから」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　立ち去るファントムの背中に、注がれるリズィの眼差しには、しかし怒りや苛立ちよりむしろ、何か痛々しいものを見守るような、やりきれない表情があった。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あいつは……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice 19
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「性格的問題はともかくとして、
+優秀さに疑う余地はないでしょう」
+
+「ミスタ＝マグワイヤも、そこは
+　理解を示して下さっています」
+
+「彼女はまだまだ伸びますよ。
+　ミズ＝リズィ」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「で、性根もますます
+　曲がってくんだろ？」
+
+<box type="2">//%w
+　視線で射殺さんばかりの剣幕で、リズィはサイスを睨みつける。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice2 19
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……何か誤解があるようですな」
+
+「確かに私は洗脳の専門家だが、
+　あのドライに関しては
+　何の処置もしていませんよ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ここまで彼女を導いてきたのは、
+　彼女自身の情動です」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「焦っているのですよ。ドライは」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　今のドライが……素行の善し悪しは別として……インフェルノで最強の腕前を誇ることに、疑いの余地はない。
+
+　それゆえ彼女は、誰からともなく『ファントム』の呼称で呼ばれるようになっていた。
+　慣例的に考えれば、それは至極当然のことだ。
+
+　だが……
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今のドライは、ファントムの異名を正当に引き継いだわけではない」
+
+「真に最強を名乗るためには、
+　先代のファントムと
+　雌雄を決する必要がある」
+
+「その手でツヴァイを倒し、
+　正真正銘のファントムの座を
+　手にすれば……」
+
+「ドライとて、トップスナイパーとして相応の落ち着きと貫禄を身につけることでしょう」
+
+「彼女には1日でも早く、
+　想いを遂げさせてやるべきです」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「本当に、そういうことなのか？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「と、いいますと？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オマエがそうやって、
+　さも楽しそうに
+　はしゃいでる時ってのはな」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大概、何か胸クソ悪いことを
+　企んでる時なんだよ」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「滅相もない」
+
+<BOX type="3">//%m
+そう卑屈に微笑む
+『さも楽しそうな』サイスに、
+リズィは一層、不審をつのらせる。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「まずは、ミズ＝リズィ。
+　ミスタ＝マグワイヤにご連絡を」
+
+「私はファントムの様子を
+　見てきます」
+
+//> right Duca_parking wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<BACKGROUND SRC="Duca_parking">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="2">//%w
+　モンスターマシンの心臓の、猛々しい鼓動が、地下駐車場に朗々と響く。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　暖機のアイドリング音を耳で愉しみながら、ファントムは昨日の邂逅を回想する。
+
+　いざ再会してみれば……
+　2年の時を経た{名}の面貌は、むしろ幼く退行して見えた。
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　擦れ違いざまに目に留めた、あの驚愕の表情を、瞼の裏に思い描くたび、少女の胸に残酷な喜びが湧く。
+
+<BOX type="5">//%sR
+“まだまだ、これからだよ。
+　{名}”
+
+“たっぷりとツケは
+　払ってもらうからね……”
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「随分と嬉しそうだな。ドライ」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<box type="2">//%w
+　いつの間に来たのやら……
+　興醒めな気分で、
+　ファントムはサイスを一瞥した。
+
+　人目のない時に限ってのみ、
+　さも馴れ馴れしくドライと呼びつけてくるこの男を、常日頃から彼女は忌々しく思っていた。
+
+　まだファントムと呼ぶには値しないと……
+そんな侮蔑が、薄っぺらな笑顔の裏に透けて見える気がしてならない。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「昨日の夕方、
+　姿を眩ましていたな」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょいと知った顔を訪ねに、ね」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「接触したのか？　ツヴァイと」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　さも呆れたと言わんばかりに、
+　肩を竦めるサイス。
+
+<BOX type="4">//%sL
+「……やれやれ、みすみす
+　奇襲の機会を捨てるとは」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんたの知ったこっちゃない」
+
+「連中はあたしの流儀で、狩る。
+　口出しは、させないよ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「気持ちは解らんでもないが……
+　皆がそうそう、
+　お前の好き勝手を許すかな？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なら邪魔する奴から先に叩く」
+
+<box type="2">//%w
+そう歯を剥いて笑うファントムは、まるで火気に曝された爆薬のような、きわどい危うさを感じさせた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あまり無茶をしてくれるなよ。
+　私の立場もあるのだからな」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、そうかい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　ドゥカティのスタンドを蹴り上げて、キャルはサイスに背を向け、振動する車体に跨った。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今日は、
+　どこに行こうというのかね？」
+
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR><BACKGROUND SRC="3175p1">//# 3175p1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「邪魔が入るより先に、
+　さっさと片をつけちまうよ」
+
+「……あんたの立場もあるからな」
+
+<se id="2" src="ドカ走り去る" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR><BACKGROUND SRC="parking">//# sice 19 parking 1
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 parking 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……ほほう？」
+
+<BOX type="3">//%m
+　走り去るファントムを見送りながら、一人、サイスはほくそ笑む。
+
+<BOX type="4">//%sL
+「これは、
+　なかなか見物かもしれんな……」
+
+<se id="2" src="" mode="fadeout" time="30">
+<A HREF="3180.txt" OPERATOR="">//~ 3180
+
+
+
+3180

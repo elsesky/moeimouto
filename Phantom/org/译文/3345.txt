@@ -1,0 +1,36 @@
+「刚才叫凯尔的孩子，是专程从美国过来找我的」
+
+　我一边慎重地选择言辞，一边开始向她解释。
+
+　把一切都和盘托出当然是不行的。
+  不过，至少应该在允许的范围内将事实告诉她。
+
+「我曾经以为她死了」
+
+「得知她还活着，是几天前的事了」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是在……星期四吗？」
+
+<BOX type="0">//%w
+　我点了点头。
+　那天在坡道中途见到凯尔的事，美绪好像也还记得。
+
+「过去的时候，我曾经什么都没有告知她就离开了美国」
+
+「……可是，因为这件事，如今的她正处在非常痛苦的境遇中」
+
+「这一切，都是我的错」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「你们，是恋人吗？」
+
+<CALC WORKNAME="3345" OPERATOR="1">//
+<A HREF="3345a.txt" OPERATOR="1340=1">//~ 3345a
+<A HREF="3345b.txt" OPERATOR="">//~ 3345b

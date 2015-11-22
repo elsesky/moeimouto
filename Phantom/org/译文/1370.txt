@@ -1,0 +1,68 @@
+//> left room0e1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0e1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……不行」
+
+　我拼命地用理性控制住自己，强挤出这样的言语。
+
+「现在……不行，凯尔」
+
+「我喜欢你，非常的喜欢。可是，我讨厌杀手」
+
+「……所以，我不想让你成为杀手的恋人」
+
+<BUSTUP NAME="cyall2" face="8" MODE="on" zoom="" ALIGN="right">//# cyall2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么这样……」
+
+<BOX type="0">//%w
+「所以我要放弃当杀手」
+
+<BUSTUP NAME="cyall2" face="0" MODE="on" zoom="" ALIGN="right">//# cyall2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这句话不是能够轻易说出口的。
+　可是，现在我已经不再迷惘了。
+
+「为了能和你在一起，为了成为配得上你的男人，我要放弃杀手的身份」
+
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+「当然，这没那么简单。
+　很多人都将被我欺骗、背叛……成为我的敌人」
+
+「为此我需要做准备，慎重地谋划好每一个环节」
+
+「在那之前……你要耐心等待」
+
+「当这一切结束以后……凯尔，成为我的女人吧」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这种事……很危险的吧？」
+
+<BOX type="0">//%w
+　不愧是凯尔，好强的洞察力。
+　虽然我没多说什么，可她还是感觉到了这个计划的危险性。
+
+「没错」
+
+「不过你不用担心，我一定会回来的」
+
+<BOX type="5">//%sR
+「……真的吗？」
+
+<BOX type="0">//%w
+「嗯，真的」
+
+<A HREF="1380.txt" OPERATOR="">//~ 1380

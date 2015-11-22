@@ -1,0 +1,463 @@
+
+<se id="2" src="米国交差点昼" mode="normal" loop="off">
+
+　無謀なのは重々承知していた。
+
+　この手の車、とくにフェラーリの扱いづらさは、
+　プロドライバーでさえ二の足を踏むと聞いたことがある。
+
+　だが……
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　改めて、艶やかなボディの曲面に見入る。
+
+　美しい。それだけじゃない。
+　眺めれば眺めるほどに、秘め隠しているパワーを感じる。
+　匂い立つような品格の違いが、フェロモンのように伝わってくる。
+
+　この不思議な高揚感は何だろう。
+　魅せられて、いるのか？　この車に……
+
+　欲求……そう呼べるような衝動など、久しく覚えたことがない。
+　殺し屋として、ぎりぎりまで削ぎ落とした生活の中では、
+　まったく縁のない感情だ。
+
+　だからこそ、手放したくなかった。
+　この気持ちを自分で、はっきりと掴み取ってみたい。
+
+　無謀で、愚かであれ、
+　いま間違いなく自分は、心の奥底で求めている。
+　……この車をモノにすることを。
+
+<se id="2" src="" mode="fadeout" time="40">
+<CLEAR><BACKGROUND SRC="0130p2">//# 0130p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「僕の車は、どうします？」
+
+<BOX type="5">//%sR
+「ここに停めておけばいいわ。後でまた戻ってくればいいんだから」
+
+//もえらＳＥ追加
+<se id="1" src="F40鍵を渡す" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　クロウディアはキーを放ってよこした。
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+
+
+//もえらＳＥ追加
+<se id="1" src="F40ドア開ける" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　平静を装い、澄まし顔でそれを受け取ってから、
+　ドアを開け、低いトップルーフの中に身体をくぐらせる。
+
+
+<se id="2" src="F40シートに座る" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="F40ドア閉める" mode="normal" loop="off">
+<BOX type="0">//%w
+　外観から察してはいたが、それでもなお、
+　シートのあまりの低さに絶句した。
+　じかに路面に座っているのと変わらない感覚だ。
+
+　内装は、予想に反してシンプルだった。
+　シートもリクライニングなんて機能はない、
+　身体を抱え込むようなフルバケット＝タイプ。
+
+　メーター類のデザインも、地味だ。
+　……が、トップスピードの時速360キロという表示だけが、
+　異彩を放っている。
+
+　恐る恐る、爆弾の起爆スイッチを入れるような心境で、
+//<se id="1" src="F40cell" mode="normal" time="" loop="off" effect="">//!se F40cell
+<se id="1" src="F40エンジンスタート" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　イグニッション＝キーを捻る。
+
+<se id="2" src="F40室内アイドリング" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　ドゥン！　と、下腹に響くような、くぐもった爆音とともに、
+　シートの後ろのエンジンが身震いを始める。
+
+//<se id="1" src="F40idol" mode="normal" time="" loop="off" effect="">//!se F40idol
+　思わず腰が浮いた。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「びくびくしないの。
+　まだアイドリングよ」
+
+<BOX type="0">//%w
+　明らかにクロウディアは、
+　モンスターマシン相手に怖気をふるう素人の反応を見て楽しんでいる。
+　少し癪だった。
+
+　そういえば……478馬力だったか。
+　ざっとゴルフ6台分か。
+
+//<se id="2" src="" mode="fadeout" time="30">
+
+　考えただけで寒気がしたが、
+　これ以上、ナビ席の女性に舐められたくもない。
+
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="3" src="F40クラッチエンスト" mode="normal" time="" loop="off" effect="">//!se 0
+
+　意を決して、ギアを1速に入れる。
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="" mode="fadeout" time="10">
+　クラッチをつないだ途端、
+　車体がガクンと震えて、エグゾーストの響きが途絶えた。
+
+「……あ？」
+
+<CLEAR><BACKGROUND SRC="0140p2">//# 0140p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ダメよ、もっと吹かさないと」
+
+<BOX type="0">//%w
+　失笑まじりのクロウディアの忠告。
+
+「先に教えてくださいよ」
+
+　そう文句をつけつつも、内心では首を傾げていた。
+
+　エンジンの馬力からすれば、
+　今ぐらい用心深いアクセルで妥当なはずなんだが。
+　そう考えると、この車、予想したほどトルクがないのか？
+
+<se id="1" src="F40エンジンスタート" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　ともかくエンジンを再スタート。
+
+　二度目の発進は半クラッチを長めに使い、
+　今度はぎこちなく駆動系が繋がった。
+
+
+
+　徐行でドライブインの出口に向かう。やはり挙動は鈍重だ。
+　
+　これが、フェラーリなのか？
+
+<se id="1" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="F40クルージング" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+<wait time="900">
+<bgm src="l_speed" mode="fadein" old="fadeout" time="10" loop="on">//$ speed.swa 0 255
+<BACKGROUND SRC="0140x1">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="F40加速4" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+<wait time="200">
+<BOX type="0">//%w
+　道路に出たあとは、すこし大胆にアクセルを踏んでみた。
+
+//<se id="1" src="F40go2" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+　やはり加速は鈍重だ。
+　図体の大きさにもかかわらず、
+　乗り慣れたゴルフよりもパワーを感じられない。
+
+　何だ？　このトルクの貧弱さは……
+
+「意外と……乗りやすいんですね」
+
+<BOX type="5">//%sR
+「そう？」
+
+<BOX type="0">//%w
+　3000回転をオーバーした辺りでギアを繋ぎ変えながら、
+　4速までもっていく。
+
+　乗る前の緊張と期待は、拍子抜けした安堵と幻滅にとって代わっていた。
+
+　結局、高級感だけが売り物の、見かけ倒しの車なんだろうか。
+　そういえばクロウディアも、女の細腕で乗りこなしているわけだが。
+
+　唯一、いまだに疑問なのは……
+　最初に追い抜かれたときの、あの法外なスピード。
+　一体あれは何だったんだ？
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40クルージング" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+<CLEAR><BACKGROUND SRC="0140x2">//# 0140x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「この先の直線で、
+　もう少し吹かしてごらんなさい」
+
+<BOX type="0">//%w
+　なにやら、いわくありげな空々しい表情で、クロウディアが言った。
+
+<BOX type="5">//%sR
+「この車のターボゾーンは
+　4000回転を越えてからよ」
+
+<BOX type="0">//%w
+　なるほど、そういう事か。
+
+　そういえば聞いたことがある。
+　この手のスポーツカーは、トップスピード重視のために、
+　低回転ではまるで性能を発揮できないものらしい。
+
+<CLEAR><BACKGROUND SRC="0140x7">//# 0140x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　緩いバンクを抜けて、太平洋……サンセット＝ビーチを臨む長い直線へ。
+
+　この辺で、この車の本気を確かめてみよう。
+
+<se id="1" src="F40シフトダウン加速" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140x1">//# 0140x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いったんギアを3速に落としてから、
+　あらためてアクセルペダルを踏み込む。
+
+　タコメーターは3000を越し、
+　じりじりと4000代へ這い上がっていく。
+
+//<se id="2" src="F40走行室内音1" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140x3">//# 0140x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ひとつ忠告しておくわね」
+
+「何があっても、
+　アクセルから足を離さないこと。
+　命に関わるわよ」
+
+<BOX type="0">//%w
+　何だって？
+
+<se id="2" src="" mode="fadeout" time="30">
+
+　どういう意味か問いただそうとクロウディアの方を向いたとき、
+　視界の隅で、タコメーターの針が4500に達するのが見えた。
+
+<se id="1" src="F40ターボ始動" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BOX type="0">//%w
+　唐突な、あまりに唐突なターボチャージャーの咆吼。
+　野太いエンジン音を突き破る、金属質のかん高い轟きは、
+　まさに絶叫そのものだった。
+
+<se id="2" src="F40加速2" mode="normal" time="" loop="off" effect="">//!se F40go1
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+　加速感なんて生易しいものじゃない、
+　まるでシートの背中に砂袋を叩きつけられたような衝撃。
+
+<se id="3" src="F40走行250" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+　余所見しかかっていたせいで、首に力を入れる暇もなく、
+　反り返った後頭部をヘッドレストがしたたかに打ち据えた。
+　ムチ打ちにならなかったのは奇跡だ。
+
+　砂絵に突風を浴びせたように、PCHの景観が視界の隅へと流れ飛ぶ。
+　まるで弾丸に跨っているようだ。
+
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……!!」
+
+<se id="2" src="" mode="fadeout" time="20">
+　驚いている場合じゃなかった。
+　背筋の冷えるような浮遊感とともに、ゆっくり車体が横揺れを始める。
+
+
+　後輪がグリップを失ってる……
+　当たり前だ。こんな急激な加速では、タイヤの摩擦力が追いつかない。
+
+　生きた心地がしなかった。
+
+<se id="3" src="" mode="fadeout" time="20">
+<se id="2" src="F40走行250室内" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　冗談じゃない。
+　恐怖のあまり、アクセルペダルを踏む足が弛む。
+
+　その途端、タコメーターで7000の目盛に食い込んでいた針が、
+　跳ね返るようにして4000代へと逆行した。
+
+<se id="1" src="F40スリップ" mode="normal" loop="off">
+<se id="2" src="" mode="fadeout" time="10">
+
+<CLEAR><BACKGROUND SRC="0140x1">//# 0140x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ターボの轟きが変調し、
+　何かに追突したようなショックとともに、シートが背中を突き飛ばす。
+
+　ただのエンジンブレーキなのに、まるで逆噴射でもしたような……
+　何なんだ、この極端なスロットルは!?
+
+　“アクセルから足を離さないこと……”
+
+　そんなクロウディアの忠告が、脳裏に甦る。
+
+　そうだ、ここまで急激にスピードが落ちたら……
+
+　……案の定、急激な減速のせいで車体が前につんのめり、
+　加重の失せた後輪は、今度こそ完全にグリップを失った。
+
+　逃げ場を失った時速100マイルのベクトルが、
+　浮いたテールを横に押し出す。
+
+　まずい！
+
+<se id="1" src="F40スリップ2" mode="normal" time="" loop="off" effect="">//!se driftIn
+<CLEAR><BACKGROUND SRC="0140x8">//# 0140x8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　頭の中はパニックに陥りながら、
+　それでも腕だけが反射的に逆ハンドルを切っていた。
+
+　悲鳴は喉につかえて声にならない。
+　代わりにスライドするリアタイヤが魂切るような絶叫を張り上げる。
+
+　咄嗟のドリフトで車体は4車線すべてを斜めに横断し、
+　あわやガードレールという位置で、再び後輪が路面を掴んだ。
+
+　今度は逆ハンドル状態のまま、
+　鼻面からガードレールに突っ込もうとする車体を、
+　再び急ハンドルで内側車線に引き戻す。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40走行80室内" mode="normal" time="" loop="off" effect="">//!se driftIn
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<clear>
+<BACKGROUND SRC="black">//
+<WIPE EFFECT="fade" time="10">
+<wait time="800">
+<CLEAR><BACKGROUND SRC="0140x1">//# 0140x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ようやくコントロールを取り戻した時には、
+　速度は時速30マイルにまで落ち込み、
+　タコメーターはターボで豹変する前の、非力な震え方に戻っていた。
+
+　数百メートル後方では、擦り付けられたタイヤの跡が、
+　ぞっとするような二重斜線を路面に残していることだろう。
+
+　がら空きの広いPCHだからこそ助かったようなものだ。
+
+<se id="2" src="" mode="fadeout" time="30">
+<se id="1" src="F40低速停止" mode="normal" time="" loop="off" effect="">//!se driftIn
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　迷うことなく、フェラーリの速度を落として路側帯に寄せ、停止させた。
+
+<se id="2" src="F40アイドリング～停止" mode="normal" time="" loop="off" effect="">//!se driftIn
+
+<se id="1" src="" mode="fadeout" time="20">
+　そうしなければ、ハンドルすら握っていられなくなりそうだった。
+
+　安堵と、それに恐怖の余波で、全身の力が抜けてしまっている。
+
+　イグニッションを切ってエンジンを止めると、
+　地鳴りのような排気音が沈黙し、
+　真空の中に放り出されたような静寂がとって変わる。
+
+　深々と息を吐き、
+　そこでようやく、まだ自分が生きていることを自覚できた。
+
+　ハンドルに乗せた両手が震えている。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+　……なんて凶悪な車だろうか。
+
+　この車は、金持ちが道楽やステイタスで乗り回す類の高級車じゃない。
+
+　怪物じみた加速力と、猛烈なエンジンブレーキ……
+　ターボが効いてからは、
+　わずか数ミリのアクセルワークで、その境界が切り替わる。
+
+　アクセルペダルを通して、死神と語り合ってるようなもんだ。
+
+　そういう破滅的なスリルに魅せられた、本物のスピード狂だけが、
+　この車を選ぶんだろう。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「どう？
+やっぱり乗りやすい車だと思う？」
+
+<BOX type="0">//%w
+　いったい、どういう神経をしているのか……
+　助手席のクロウディアは、悪戯っぽい笑みで顔をほころばせている。
+
+　あわやスリップ事故で死にかかったというのに、
+　そんな危機感は微塵もない。
+
+　まるで自慢のビックリ箱を披露した子供のような、得意満面の笑顔。
+
+<CLEAR><BACKGROUND SRC="0140p2">//# 0140p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「でも凄いわよ、ツヴァイ」
+
+「初めてのフェラーリを、
+　スピンさせずに立て直すなんて」
+
+「きみ、
+　ドライビングの天才かも!」
+
+<BOX type="0">//%w
+「……どうも」
+
+　それ以上の言葉は出てこなかった。
+
+　素直に喜ぶ気にもなれなかったし、
+　かといって、からかわれたのを怒るわけにもいかない。
+
+　何といっても、道連れにして死なせかけたのだ。
+　笑って済ませてくれるなら幸いと思うしかない。
+
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　しかし、この肝の据わりかたは何なんだろうか。
+
+　やはり、インフェルノのような組織の幹部ともなれば、
+　並の心胆じゃ務まらないのかもしれない。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「さてと……どうする？
+　まだ付き合ってくれる気は
+　あるかしら」
+
+「懲りたようなら、
+　きみの車のところまで送るけど」
+
+<BOX type="0">//%w
+<CHOICE HREF="0140c.txt" TEXT="＊まだ粘る" OPERATOR=""></A>//{ ＊まだ粘る 0140c ＊もう諦める 0140b
+<CHOICE HREF="0140b.txt" TEXT="＊もう諦める" OPERATOR=""></A>//{ ＊まだ粘る 0140c ＊もう諦める 0140b

@@ -1,0 +1,18 @@
+<CLEAR><BACKGROUND SRC="マテバb">//# マテバb 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「キャル!!」
+
+　半ば意識から切り離された、一瞬の判断で……
+　叱咤を放ちながら、右手の{銃}をキャルへと向ける。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="マテバb2">//#! マテバb2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　敢えて狙いを高めに逸らした一撃だったが、
+　撃たれた方は、咄嗟にそんなことが判ろうはずもない。
+
+<A HREF="3830c.txt" OPERATOR="">//~ 3830c

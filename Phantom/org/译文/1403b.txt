@@ -1,0 +1,18 @@
+<BOX type="0">//%w
+  左轮手枪的话，果然还是要选“蟒蛇”。
+  虽然我手头还有那把MATEBA，不过那家伙实在是难以驾驭。
+
+　首先，那个像自动手枪一样的枪柄转角就是个问题。
+  对左轮手枪的转角熟悉了以后，怎样都没法习惯那家伙。
+
+　转轮由下击发也是个麻烦的结构。想要换子弹的话，就得把手腕翻过来。
+
+　果然，左轮手枪的话，还是要选在19世纪就登上顶峰的“蟒蛇”。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

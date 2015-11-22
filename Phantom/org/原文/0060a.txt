@@ -1,0 +1,303 @@
+<BOX type="0">//%w
+「……あの」
+
+　立ち去ろうとするクロウディアを呼び止めながらも、
+　いったい何を話すべきか、まだ考えあぐねていた。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　彼女の明るい鳶色の目が、ふたたびこちらに向けられる。
+
+<BOX type="5">//%sR
+「なに？」
+
+<BOX type="0">//%w
+「あの……」
+
+　ありがとう。
+　そう一言、言えば済むことだったのかもしれない。
+　だが、それでは収まりのつかない感情が、胸に湧き上がっていた。
+
+　どうしてだろう。
+　ここで初めて、励まし、慰める言葉をかけてくれた人なのに。
+　それを嬉しいと、素直に感じる気持ちはあるのに……
+
+　実用のレベルに達しているか自信はなかったが、
+　口をついて出た言葉は英語だった。
+
+「アインは……
+　自分が、人を殺すために生かされてるんだって、言ってました」
+
+「そして、僕についても、それは同じだって」
+
+　そうだ。ようやく自分の気持ちが見えた。
+　クロウディアの心遣いに、なぜこうも戸惑ったのか。
+
+「さっき、言ってましたよね。与えられるものも、少なくないって。
+　それって、僕にも見返りがあるって意味ですか？」
+
+「でも本当のところは、アインが言った通り……
+　僕は、インフェルノって組織の命令通りに、
+　奴隷みたいに、生きていくしかないんでしょう？」
+
+　こんな境遇で、言葉だけの優しさを見せられても、白々しいだけだ。
+　感謝なんて、できるわけがない。
+
+「そんな生き方で、なにを得られるっていうんです？」
+
+　英語での長弁舌は、たどたどしく聞こえたかもしれないが、
+　それでも感情はストレートに表現できたと思う。
+
+　組織の幹部だという人に、
+　こんな風に憎まれ口をきいて、いいわけがない。
+　さぞ機嫌を損ねたことだろう……
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「充分、達者に喋れるじゃないの」
+
+<BOX type="0">//%w
+　微笑んで、ふたたび英語で応じたクロウディアの口調には……
+　だが、皮肉な含みはまったくない。
+　ただ純粋に、感心している風だった。
+
+<BOX type="5">//%sR
+「たしかにきみは、私たちに巻き込まれなければ、もっと平穏で幸福な人生が送れたでしょう」
+
+「私たちはその可能性を奪って、
+　たったひとつの生き方を
+　強要しているけれど……」
+
+「でも、
+　きみは奴隷なんかじゃない。
+　きみにだって自由はあるわ」
+
+<BOX type="0">//%w
+「……どんな？」
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「たとえば、そうね……」
+
+<BOX type="0">//%w
+　適切な表現を探そうとしているのか、
+　クロウディアは視線を宙にさまよわせてから、
+
+<BOX type="5">//%sR
+「そう……
+　人生をドライブだと思ってみて」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「普通のドライバーは、進む道を自分で決められる。たしかに、きみにはない自由よね」
+
+「でも、
+　たった一本の道を進むときだって
+　ドライバーには自由があるのよ」
+
+<BOX type="0">//%w
+「……？」
+
+　わからない。何を言わんとしているのか。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「スピードよ、ツヴァイ」
+
+<BOX type="0">//%w
+　きっぱりと確信を込めて、クロウディアはそう言った。
+
+<BOX type="5">//%sR
+「決められたコースでも、
+　その道をどう駆け抜けるかは、
+　きみの自由でしょ？」
+
+「きみが望み、
+　そして努力する限り……
+　どこまでも加速していけるのよ」
+
+「そうやって
+　競争相手を追い抜いていけば、
+　いつかは頂点に君臨できる」
+
+「生き方を選ぶことと、その生き方で勝利者になることとは別なのよ」
+
+<BOX type="0">//%w
+　たしかに、そういう生き方も……ある。
+
+　言いくるめようとしているわけじゃ、ないように思う。
+
+　クロウディアの真摯な語調は、むしろ……
+　彼女自身が信じているものについて、語っているように聞こえる。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私たちが用意したのは、
+　きみが勝てるコースよ」
+
+「きみの才能と潜在力で、
+　誰よりも高みに登れる生き方よ」
+
+<BOX type="0">//%w
+「……殺し屋として？」
+
+　苦い声で、そう口をはさむ。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう。最高の殺し屋として」
+
+<BOX type="0">//%w
+　そして一息、間を置いて、クロウディアはこう付け足した。
+
+<BOX type="5">//%sR
+「きみが、それを望むならね」
+
+<BOX type="0">//%w
+「……」
+
+　それを……望むのなら……
+
+<BOX type="5">//%sR
+「もう二度と、自分が奴隷だなんて思っては駄目」
+
+「そんな風に考えている限り、
+　きみは、きみを貶めている相手に
+　勝ちを譲ることになるのよ」
+
+<BOX type="0">//%w
+　そこまで言ってから、クロウディアは、決然とした表情を和らげた。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「きみとは、
+　もっといろいろ話したかったけど
+　……もう時間がないわ」
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さよなら、ツヴァイ。
+　また会いましょ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「あの、クロウディアさん……」
+
+　背を向けた彼女を、もう一度、呼び止める。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　今度は何というべきか、わかっていた。
+
+「……ありがとうございます」
+
+<BUSTUP NAME="crou2" face="4" MODE="on" zoom="" ALIGN="right">//# crou2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　振り向いたクロウディアは、
+　今日見たなかでいちばん明るい笑顔で応えてくれた。
+
+<BOX type="5">//%sR
+「次に会うとき、
+　きみは見違えるほどに
+　成長してるでしょうね」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう言い残して、彼女は建物の外に出ていった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left sunset wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ひときわ長い、一日だった。
+
+　こんな風に、日が沈んでいくのを眺めて過ごすのは、
+　もうずいぶん久しぶりな気がする。
+
+<CLEAR><BACKGROUND SRC="nightfield">//# nightfield 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　夜は、荒野を渡る風の音。あとは……沈黙。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="radioCH" mode="normal" time="" loop="off" effect="">//!se radioCH
+　一人でラジオの放送を聞いてみる。
+<se id="1" src="radioCH2" mode="normal" time="" loop="off" effect="">//!se radioCH2
+　もう、ほとんど内容が聞き分けられるようになっていたが、
+　今夜はなぜか、いくら耳を傾けていても、言葉が頭に入ってこない。
+
+　日々の単調な反復が乱されると、ここまで調子が狂うものだろうか。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　昼間の、予期せぬ来訪者……クロウディア＝マッキェネン。
+
+<BUSTUP NAME="crou2" face="4" MODE="on" zoom="" ALIGN="right">//# crou2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“次に会うとき、
+　きみは見違えるほどに
+　成長してるでしょうね”
+
+<BOX type="0">//%w
+　そうだろうか。
+　そうあるべきなんだろうか？
+
+　他人に期待を託される……
+　それがどれほど励みになり、力になることか、今は痛いほどよくわかる。
+
+　その言葉に寄り添えば、どんな辛い目も乗り越えられそうな……
+　そんな甘い期待さえ、懐いてしまう。
+
+　それならば、
+　クロウディアの期待に沿えるよう、訓練に精を出し……
+　優秀な殺し屋に、なるべきなのか？
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“きみが、そう望むなら”
+
+//> left room1d wide 255 dummy 20 dummy 22
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　時間を持て余したので、早々と寝ることにした。
+　もっとも、本当にいつもの就寝より早い時刻かどうかはわからない。
+
+　……やはり、なかなか寝付けない。
+
+　闇に目を凝らし、沈黙に耳を澄ませて、待った。
+　……アインは帰るだろうか。それとも、朝の訪れの方が先か？
+
+<CALC WORKNAME="0060a" OPERATOR="1">//
+<A HREF="0070.txt" OPERATOR="">//~ 0070

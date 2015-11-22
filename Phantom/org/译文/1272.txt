@@ -1,0 +1,184 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1252scoop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="1252scoop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　14点50分。
+  邮政局大楼的楼顶依然没有动静。
+
+　……好奇怪。
+  这个时候敌人必须要根据方位来调整自己的姿势了。
+
+　我的心中微微有些不安。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不妙。
+　我立即闭上眼睛，在黑暗中让心情平静下来。
+
+　狙击手的敌人，不是任何人。
+  不是距离，也不是风，更不是十字准星上的目标。
+  敌人，就藏在自己的身体里。
+
+　那是跳动的心脏、推动胸腔起落的肺部、血压，还有呼吸。
+　控制肉体与精神平衡的——循环系统。
+
+　也就是说，如果内心有了异常，立刻就会以改变脉搏和呼吸的方式传达给狙击枪的枪身。
+
+　真正的敌人，是自己。
+
+　在绝对的孤独之中，与狙击手对峙的只有他自己。
+
+　集中力意味着一切。
+　现在我没有精力考虑别的事了。
+
+　可是，我尽管闭上双眼，在黑暗中呼唤心灵的平静，
+  未知的不安却还是不断地积聚了起来。
+
+　没办法了。
+　自己还有时间。
+　不能将这一切忘却的话，试着去看穿就好了。
+
+　整理一下自己混乱的思绪，找出这份不安的真面目吧……
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自己害怕失手吗？
+
+不，我有着自信。
+距离在射程之内，条件也很有利。只要目标进入瞄准镜，立刻就可以将其击杀。
+只要……他在那个邮政局大楼的楼顶上。
+
+<CLEAR><BACKGROUND SRC="city7">//# city7 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那么，是担心场所吗？
+
+　我所寻找的敌人，如果现在正在别的地方准备实施狙击的话……
+
+<CLEAR><BACKGROUND SRC="city^a">//# city^a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不，那也不可能。眼前的物证已经证明了一切。
+
+　肯定不会错的，想要袭击梧桐组的狙击手，肯定会从那里尝试射击的。
+
+　……可是，这样想着，我的心依然惶惶不安。
+  如果能这样一直下去没有任何事情发生就好了。
+
+　……难道说……
+
+　我是在害怕……跟敌人面对面？
+
+　这种感觉，自己应该早已麻痹了才对。
+
+　为什么……偏偏在今天出现？
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我不希望敌人出现。
+  我害怕狙击镜的十字准星捕捉到某个人影的那一瞬间的到来。
+
+　我宁愿希望任务失败。
+
+　敌人的出现位置，如果不在我的预测范围内，那该多好啊。
+
+　被看成是无能者也没关系。被追究责任也没关系。
+
+　与扣动扳机相比，这些都……
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，狙击镜捕捉到的异样的身影，将我的意识拉回到邮政局大楼的楼顶上。
+
+　虽然意图不明，但在水塔支柱的里侧的确有个人影保持着隐蔽半身的姿势在蠢蠢欲动。
+
+　从这里只能看到他的后脑勺和后背的一部分，
+  但我却能清楚地看到肩膀和头之间被紧紧抱着的狙击枪的枪托。
+
+　那就是，袭击梧桐组的狙击手……
+
+　到底是什么人？
+　不用说长什么样子，甚至连是男是女我都分不清楚。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　是男……是女。
+
+　这时，我像遭到雷击一样恍然大悟。
+  这就是我刚才一直在害怕的原因。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+<CLEAR><BACKGROUND SRC="1170p1">//# 1170p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那个人，如果是{ヒロイン}的话？
+
+　如果她就是那个在拉斯维加斯杀了室户的女人的话？
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+对了。
+这里距离伯纳海滩酒店足足有800码。一般水平的狙击手，根本不会试图挑战这么远的距离，绝对会放弃而另寻他法。
+
+　可是，她会毫不犹豫地去做。
+  如果是曾经被叫做Phantom的她…………
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不会的!
+　绝对不会的!!
+　那不可能是{ヒロイン}!
+
+　快点开枪。
+  那家伙是克劳蒂娅的敌人，是杀死凯尔姐姐的敌人。
+
+　能够杀掉他。
+　在这个瞬间，我这样确信着。
+
+　可以断言吗？
+　有确凿的证据吗？
+  我能证明那不是{ヒロイン}吗？
+
+<CLEAR><BACKGROUND SRC="0320p1">//# 0320p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　还是说，要再次向她开枪？
+　就像那时一样向{ヒロイン}开枪？
+
+<CLEAR><BACKGROUND SRC="1170p1">//# 1170p1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　幻觉。
+　那个时候我看到的是幻觉……
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　如果不这样想的话，我会受不了。
+  我无法接受必须再次同{ヒロイン}对决的现实……
+
+　不会的!!
+
+　狙击镜中，远方的景色像海市蜃楼一样晃动了起来。
+
+　如同快速敲钟似地躁动着，混乱的呼吸以放大8倍的震度晃动着我的视野。
+
+　那不是{ヒロイン}。那不是……{ヒロイン}……
+
+<CHOICE HREF="1285a.txt" TEXT="＊开枪" OPERATOR=""></A>//{ ＊撃つ 1285a ＊確かめる 1285b
+<CHOICE HREF="1285b.txt" TEXT="＊确认一下" OPERATOR=""></A>//{ ＊撃つ 1285a ＊確かめる 1285b

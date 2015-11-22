@@ -1,0 +1,26 @@
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「第三发射偏了。你有点太着急了」
+
+<BOX type="0">//%w
+　Ein的观察力着实令我佩服之极。
+  不论我用何种射击方式、第几发子弹打中哪个标靶，
+  她都能确确实实地看穿。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，差不多可以进入下一阶段了」
+
+「要怎么做呢？」
+
+<CALC WORKNAME="0076d" OPERATOR="1">//
+<BOX type="0">//%w
+<A HREF="#スルー" OPERATOR="0076c=1">
+<CHOICE HREF="0076g.txt" TEXT="＊小刀" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと弾数の多い銃 0076f
+<CHOICE HREF="0076f.txt" TEXT="＊弹数多的枪" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと弾数の多い銃 0076f
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="0076g.txt" TEXT="＊小刀" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと威力のある銃 0076e
+<CHOICE HREF="0076e.txt" TEXT="＊威力大的枪" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと威力のある銃 0076e

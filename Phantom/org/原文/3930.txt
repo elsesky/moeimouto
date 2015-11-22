@@ -1,0 +1,87 @@
+//> left passage8c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<BACKGROUND SRC="passage8c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　いち早く2階に移ったところで、
+　既に階下ではお祭り騒ぎが始まっていた。
+
+　室内戦のセオリー通り、身を隠せそうな場所には
+　片っ端からフルオート射撃を浴びせて蜂の巣にしているのだろう。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+　銃声の被り具合からして、どうやら二人一組で動いているようだ。
+　となると、残る3人は、退路を塞いで待ち伏せしている。
+　3階に上る階段……それと渡り廊下には、近寄らない方が得策だ。
+
+　貫通力の高いライフル弾の前には、
+　机やロッカー程度では遮蔽物の役割を果たさない。
+　迂闊に待ち伏せなどしようものなら、潜伏場所もろとも蜂の巣にされる。
+
+　だから当然、罠を張るにも一筋縄ではいかない。
+<se id="2" src="" mode="fadeout" time="5">
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+
+　おおよその位置は掴めているのだから、
+　退路を塞いで、着実にいぶり出そうとする筈だ。
+　まだしばらく、連中は1階の掃討に専念するだろう。
+　小細工を仕掛けるなら、今だ。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　まず教室を片っ端から渡り歩いて、
+　掃除用具入れのロッカーからバケツとモップをかき集める。
+
+　それぞれ5組ずつ揃ったところで、
+　目についた黒板消しクリーナーを{銃}の銃底で叩き壊し、
+　壁に這わせてあった電源コードだけを回収した。
+
+　そして戦利品を抱えたまま、廊下に並ぶ男子、女子用のトイレを目指す。
+
+　隣の女子トイレの方が、個室の数は多いのだが
+　おそらく下の二人は、左右の階段から同時に2階に上がってくる。
+　先に掃討されるのは、より階段に近い男子トイレの方だろう。
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="toilet">//# toilet 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　蛇口という蛇口を動員して、5個のバケツに水を張り……
+　それをひとつずつ個室に持ち込んで、便器の上に乗せていく。
+
+　さらに内開きの扉に、中からモップを凭れさせ、
+　モップの柄の重みで扉を閉ざす。
+
+　こうして五つすべての個室の扉が閉ざされたところで、
+　最後に、奥にある換気扇から電源コードを引き抜いて、
+　教室から持ってきた分を寄り合わせ、
+　タイル張りの床まで垂れるだけの長さに延長する。
+
+　じつに簡素な罠だが、うまく引っかかれば一人は着実に殺せるだろう。
+　あとは、どこに身を隠すかだが……
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　だが、さっきまではまだ遠かったカラシニコフの咆吼が、
+　今度は耳を聾するほど間近で聞こえはじめた。
+　まずい、奴ら……もう2階に来ている!?
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage8c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="passage8c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="3940.txt" OPERATOR="">//~ 3940

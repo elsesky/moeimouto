@@ -1,0 +1,57 @@
+<BOX type="0">//%w
+　……怎么想都觉得这不是个好主意。
+　关于凯尔，不管我怎么说明，都没法与美国的日常生活联系起来吧。
+
+　不解释的话，或许会招致美绪的误解。
+  不过，相比坦白真相，我宁可选择被误解。
+  
+
+「……我们回去吧」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　刚才我还觉得时间过得太快，对每分每秒都倍加珍惜。
+　可是现在，每一秒钟都显得那么漫长难耐。
+
+<CLEAR><BACKGROUND SRC="station_day">//# station_day 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　直到在车站前分别，我们都没有怎么说过话。
+
+「那，明天见」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天，真的很谢谢你」
+
+<BOX type="0">//%w
+「我也是啊……」
+　
+　对不起……这句话被我生生地咽进了肚子。
+
+　要是勾起她不愉快的回忆怎么办？
+　既然自己已经决定了……就不应该让她知道多余的事。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我们之间没有更多的寒暄。
+  之后，美绪便消失在涌进检票口的人海中。
+
+　到最后，我还是只能用谎言来面对美绪吗？
+  自己所做的一切，又和凯尔那时候一样了吗…………
+
+<A HREF="3360.txt" OPERATOR="1330=1">//~ 3360
+<A HREF="3365.txt" OPERATOR="">//~ 3365

@@ -1,0 +1,375 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　いつの時点からかは知らないが、
+　とっくに二人はインフェルノに
+　マークされていたらしい。
+
+　いずれサイスと接触するものと
+　見越して、泳がしていたんだろう。
+
+　しかし結局、二人がソルトレイクに
+　至ってもサイスは現れず、
+　痺れを切らせたインフェルノは、
+　捕縛に踏み切った。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left tortureroom wide 255 dummy 20 dummy 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　地下室での尋問は、もう、3日目に入っていた。
+
+　港での襲撃に参加していなかったとはいえ、
+　その後、手負いのアインを連れて逃亡した事実は動かない。
+
+　幾度となく拳や蹴りも食らったが、
+　すでに肉体の苦痛など、どうでもいい事柄だった。
+
+　今度こそ本当の意味で、自分は死んだようなものだった。
+
+　最早、逃げる術はない。
+
+　ようやく取り戻した
+　{姓}{名}としての人生は……
+　わずか3日で、終わりを告げた。
+
+　蜻蛉みたいな、最期だな……
+　尋問責めで朦朧としてきた意識の中で、そんなことを思う。
+
+　それでも、
+　ほんの僅かな時間とはいえ、
+　自由を手にしたことを喜ぶべきなんだろうか。
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　また頬骨に鈍い衝撃が当たり、視界に真っ白い光が閃く。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いい加減、吐いちまいなよ」
+
+「サイスの奴は、どこにいる？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　知るもんか。
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　また衝撃。
+　いま殴られたのは、右の頬だろうか、左だろうか。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「オマエが逃がしたファントムは、どこに行った!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　知っていたって、教えるもんか。
+　鼻を鳴らして、そう嗤う。
+
+　せめてもの幸いは、
+　再びインフェルノに捕らわれたのが、自分一人だけという点だ。
+
+　別行動をとっていた{ヒロイン}は、
+　どういう経緯でか、追っ手を振りきって逃げ延びたらしい。
+
+　それなら、まだ捨てたもんじゃない。
+　こいつらを相手に、まだ意地を張り続ける甲斐がある。
+
+　拳を振り上げたリズィを、誰かが背後から呼び止めた。
+
+<BOX type="5">//%sR
+「退がっていて、リズィ」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「でも……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんなやり方じゃ、
+　埒があかないわ。私に任せて」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……そうかい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se doorslam
+<BOX type="0">//%w
+　叩きつけるようにしてドアを閉め、リズィが退室する。
+　そして狭い地下室には、クロウディアだけが残った。
+
+<clear>
+<BACKGROUND SRC="尋問を受けるレイジ">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　二人きりになるのは、あの嵐の晩以来だった。
+
+<BOX type="5">//%sR
+「隠しマイクも切ってあるから、
+　何を話してもいいわよ」
+
+<BOX type="0">//%w
+「そうですか」
+
+　お互い無言のままに、時が流れる。
+　言葉を尽くさなくても、すでに多くの秘密を共有している二人だった。
+　何も、説明する必要はない。
+
+<BOX type="5">//%sR
+「寄り道せずに逃げていれば、
+　多分、捕まらなかったわよ」
+
+<BOX type="0">//%w
+「そうですね」
+
+　クロウディアの声の冷たさも、無理はなかった。
+　彼女が与えてくれた折角のチャンスを、溝に捨てたようなものなのだ。
+
+「色々と、欲張っちゃいましたから」
+
+<BOX type="5">//%sR
+「馬鹿よ、きみ」
+
+<BOX type="0">//%w
+「まったくです」
+
+　だが、何も後悔はしていない。
+
+「これが、僕なりのベストでしたから」
+
+「望み通りのことを、精一杯やりました」
+
+「ただ、負けたってだけ。それだけです」
+
+<BOX type="5">//%sR
+「そう思う？」
+
+「きみはまだ息をして、考えて、
+　五体満足でここにいる。
+　なのに負けたと思っているの？」
+
+<BOX type="0">//%w
+「……まるで、まだ僕にチャンスがあるみたいな言いぐさですね」
+
+<BOX type="5">//%sR
+「あるのよ」
+
+<BOX type="0">//%w
+　捨て鉢な態度を咎めるように、クロウディアが鋭く言葉を挿む。
+
+<BOX type="5">//%sR
+「もし皆が、きみとサイスの関連を本気で疑っているのなら、この程度の尋問じゃ済まないわ。でしょ？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「きみの行動は、あまりに不審だったけれど、それがサイスの裏切りと関連している節もない」
+
+「きみが何を考えているのか、
+組織には理解できないだけなのよ」
+
+<BOX type="0">//%w
+「……殺人ロボットのツヴァイが、まさか記憶を取り戻しているとは、
+　まだ誰も気付いてないわけだ」
+
+<BOX type="5">//%sR
+「そういうこと」
+
+「だからきみは、
+　身の証さえ立てればいい」
+
+<BOX type="0">//%w
+「身の……証？」
+
+<BOX type="5">//%sR
+「行動で、証明するのよ。
+　きみが誰の味方で、
+　誰がきみの敵なのか」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「その手で、
+　サイスを殺して見せなさい。
+　皆の前で」
+
+<clear>
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　結局は、また、それか。
+　どう転んでも、誰かの屍を踏み越えなくては、一歩も前には進めない。
+　そんな人生を、神様にあてがわれているんだろうか。
+
+「もう僕は、誰の敵でも、味方でもない。
+　そういう話題とは縁を切ったんです」
+
+「もうサイスもインフェルノも知ったことじゃない。
+　勝手に殺しあってればいいでしょう」
+
+「……僕を、巻き込まないで下さい」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　そうだ、この場を切り抜けて……それでどうなる？
+　もとの殺し屋に戻るだけじゃないか。
+　堂々巡りは、もう、うんざりだ。
+
+<BOX type="5">//%sR
+「……じゃぁ、訊くけれど」
+
+「アインは、きみの敵？味方？」
+
+<BOX type="0">//%w
+　クロウディアのその一言は、リズィの拳より効き目があった。
+
+<BOX type="5">//%sR
+「彼女のこと、
+　助けたかったんでしょう？」
+
+「それできみは、日本に逃げる
+　チャンスを逃したんでしょう。
+　違う？」
+
+<BOX type="0">//%w
+「……何が言いたいんです？」
+
+<BOX type="5">//%sR
+「今もインフェルノは、
+　総力を挙げてファントムの行方を
+　追っているけれど」
+
+「それは彼女が、
+　サイスの居所をつかむ鍵になると
+　思われているからよ」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もし彼女が見つかる前に、
+　サイスの始末が片付けば……」
+
+「インフェルノがそこまで
+　血眼になってアインを追う
+　理由はなくなる」
+
+「組織だって、暇を持て余しているわけじゃないもの」
+
+「そうなるように、
+　速やかに事を運ぶには、
+　腕のいい殺し屋が必要になるわ」
+
+<BOX type="0">//%w
+「……そうまでして、僕に殺させたいんですか？」
+
+「どうして？」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「この場を切り抜けてほしいから」
+
+「そのために、サイスを殺して、
+　組織の信用を得て欲しいから」
+
+「こんなつまらない所で、
+　死んでほしくないのよ。
+　きみには」
+
+<BOX type="0">//%w
+　……似たような台詞を、そういえば、自分でも口にしたことがある。
+
+　{ヒロイン}……
+
+　蜻蛉みたいな最期でも、その前に、
+　彼女のために、してやれることがあるのなら……
+　あながち、悪い終わり方じゃない。
+
+「サイスの方の追跡は？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「足取りを追うのは、
+　もう諦めたわ」
+
+「だから今は、網を張って
+　待ち構えているところ」
+
+<BOX type="0">//%w
+「……待つ？」
+
+<BOX type="5">//%sR
+「インフェルノと事を構えて、
+　アメリカにいられる訳がないわ」
+
+「だからサイスは
+　国外への脱出を計るはず……」
+
+「そのために、
+　彼が頼りそうなコネクションを、
+　いま監視しているの」
+
+「動きがあるとすれば、
+　今夜か、明日か……」
+
+「サイスの方も、悠長に構えている余裕はないでしょうからね」
+
+<BOX type="0">//%w
+「信頼されていない僕が、追跡に加われるんですか？」
+
+<BOX type="5">//%sR
+「その辺は、私が手を尽くすわ」
+
+「だから全ては、きみ次第」
+
+「……どう？　やってくれる？」
+
+<BOX type="0">//%w
+「……」
+
+「やりますよ」
+
+　やれる……
+　そういえば、最後の夜に、
+　{ヒロイン}の前でも、そう誓った。
+
+　次に、誰かを撃つときは、
+　自分の意志で、引き金をひくと……
+
+「やらせて下さい」
+
+「サイスは、僕が殺します」
+
+<CALC WORKNAME="0280" OPERATOR="1">//
+<A HREF="0290.txt" OPERATOR="">//~ 0290

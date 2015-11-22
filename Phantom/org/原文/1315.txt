@@ -1,0 +1,105 @@
+//> left city5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="city5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ゴルフに乗り込みながら、バックミラーでバーを窺う。
+
+　リズィが出てくる気配はない。もう少し飲んでいくつもりだろう。
+
+//> left nightWay2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="ゴルフ走行室内音1" mode="normal" loop="off">
+
+<BACKGROUND SRC="nightWay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ハリウッド＝フリーウェイに出たところで、念のためにもう一度、
+　尾行の類がないか確認してから、おもむろにハンドルを西に切った。
+
+　今夜はもうひとつ、ささやかな大仕事が残っている。
+
+//> left villa2 wide 255
+<clear>
+<se id="1" src="" mode="fadeout" time="30">
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="villa2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　未明になって、
+　ようやくアローヘッド湖畔にあるワイズメルの別荘にたどり着いた。
+
+　ここはかのギャングスターが、色事や、身内の密談など、
+　ごくプライベートな秘め事のために利用していた場所だったという。
+
+　だからここには、ワイズメルのどんな“秘密”があってもおかしくない。
+　誰もが納得する。
+
+　……たとえそれが、消えた500万ドルを収めたトランクケースでも。
+
+　ざっと見たところ、人がいる気配はない。
+　
+　いる筈がない。昨日の今日で、
+　ワイズメルの郎党が、こんな場所で寛いでいられるわけがない。
+
+　いちおう警報装置にも気を使いながら、慎重に敷地に入った。
+　
+　やはり、行く手を阻むものは、何もない。
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　めぼしい窓を見つけてこじ開け、
+　内側に壊れ物の類がないのを確かめてから、
+　そこに重いトランクケースを放り込んだ。
+
+<se id="1" src="トランク投げる" mode="normal" loop="off">
+　完了だ。
+
+　ぞんざいに放置してあっても、
+　ワイズメルを知る者であれば、妙に思うことはないだろう。
+　なにも金が目当てでヤクザを襲ったわけじゃないのだから。
+
+//> left villa wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="villa">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　敷地を出るころには、白みはじめた空に、小鳥の囀りが聞こえていた。
+
+　本当に、これでいいのか？
+
+　冷たく澄んだ大気を胸一杯に吸い込みながら、もう一度、自問する。
+
+　いずれ、あのトランクが発見されれば、
+　ヤクザを狙った一連の凶行は、大団円で決着を見る。
+
+　もう誰も、子細なところを省みたりはしないだろう。
+
+　たしかに多くの疑問が、残されてはいるが……
+
+<A HREF="1315b.txt" OPERATOR="1230a=1">//~ 1315b
+<A HREF="1350.txt" OPERATOR="1150=1">//~ 1350
+<A HREF="1400.txt" OPERATOR="">//~ 1400

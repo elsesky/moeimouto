@@ -1,0 +1,16 @@
+<BOX type="0">//%w
+  作为贝瑞塔替代品的SIG-SAUER有着不错的触感。
+
+　由于击锤的特殊结构，SIG比贝瑞塔要容易使用的多，结构也更紧凑。
+　不知道是不是心理作用，我总觉得SIG的精度比贝瑞塔要更高一些。
+
+　这样的话，就没什么可说的了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="21_03">//
+<CALC WORKNAME="廵" OPERATOR="僔僌">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僔僌">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僔僌2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡">//
+<CALC WORKNAME="1408a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

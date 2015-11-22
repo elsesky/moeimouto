@@ -1,0 +1,32 @@
+<BOX type="0">//%w
+「……嗯？」
+
+　拿起一直使用着的贝雷塔，我突然感觉有点不对劲。
+
+我当场将枪栓取下，细细地检查。
+果然，自己的判断没有错。虽然很细微，但枪栓已经有了要裂开的征兆。
+
+　性能方面没有丝毫缺点的贝雷塔，唯一的弱点就是枪栓的锁闭活板强度不足。
+
+　最近用了好几次强装弹，虽然有些不安，不过这把枪应该快到极限了。
+
+　提前发现真是幸运。
+　要是在关键时刻枪栓断成两半，搞不好会危及性命。
+　不过问题在于……今天要带什么枪出门呢。
+
+“没办法……”
+
+<CLEAR><BACKGROUND SRC="僈僶儊儞僩">//# 僈僶儊儞僩 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  我犹豫了一会，选择了0.45口径柯尔特作为替代品。
+  虽说这把枪的触感无法让我安心，不过现在也没别的办法了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="11_02">//
+<CALC WORKNAME="廵" OPERATOR="僐儖僩">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僈僶儊儞僩">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僈僶儊儞僩2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡CV">//
+<CALC WORKNAME="1114a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

@@ -1,0 +1,15 @@
+<BOX type="0">//%w
+  选择佩枪的话，还是0.45口径的柯尔特比较好。
+
+　……虽说自己对这把枪简单的结构和8发的装弹数有些不满，不过出于对0.45口径ACP弹的信赖，最后我还是选择了这把枪。
+
+　果然，还是选择自己顺手的枪才好啊。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="11_02">//
+<CALC WORKNAME="廵" OPERATOR="僐儖僩">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僈僶儊儞僩">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僈僶儊儞僩2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡CV">//
+<CALC WORKNAME="1111a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

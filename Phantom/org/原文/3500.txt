@@ -1,0 +1,499 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　初めて美緒は、
+　人が死ぬところを見た。
+
+　いま美緒は、彼女の知る日常と地続きの世界とは、とても思えない場所にいる。
+
+　慣れ親しんだ篠倉の校舎から、
+　わずか2キロ足らずの距離。
+
+だが、足を向ける者など
+いよう筈もない。
+美緒自身、話には聞いていたが、訪れるのは初めての場所だった。
+
+　荒れ果て、朽ちゆくままに放置されたその木造建築は、かつて聖篠倉女学院に通っていた女生徒たちの、生活の場となっていた。
+
+　校舎裏の礼拝堂ともども、かつて篠倉が全寮制女子校だった頃の遺物である。
+
+　格子も鍵もない部屋だったが、
+それでも美緒は完全な虜囚だった。
+
+<CLEAR>
+<BACKGROUND SRC="美緒拘束">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　さっき手首をバイクに繋ぎ止められた手錠が、今は美緒の右足首を捕らえていた。
+
+　手錠はそのまま長い鎖に繋がれて、鎖の端は天井の梁にしっかりと巻きつけられている。
+
+鎖の長さが、そのまま美緒の動ける半径だった。
+室内の移動に、不自由はないが……廊下にまで出るのは無理な長さだ。
+
+　着の身着のままの格好に、山の夜気が冷たく鋭く肌を刺す。
+　たまたまポケットに入れてあった携帯電話も、奪い取られていた。
+
+　キャル……
+　美緒を拉致した、あの少女は、
+　そう呼ばれていた。
+
+　彼女と、彼女に撃たれた黒人女性とのやり取りは、美緒にはまるで理解の及ばない内容だったが、
+
+それでも言葉の端々から察すると、美緒は誰かを脅すために、当面、ここに監禁されるらしい。
+
+　わからない。
+　この自分を人質に取って
+　脅迫する相手とは、誰なのか？
+
+　すでに外では、
+　夜が明けつつある。
+
+//もえらSE
+<se id="1" src="ドカ急減速停止" mode="normal" time="" loop="off" effect="">//!se accel
+//<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR>
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　冷涼な空気を揺るがすバイクの排気音を聞き、美緒は、再びキャルが戻ってきたのを知った。
+<wait time="1200">
+
+<se id="1" src="" mode="fadeout" time="15">
+<se id="2" src="ドライ歩き4" mode="normal" loop="off">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+
+<BOX type="3">//%m
+　きしむ板張りの床を荒々しくブーツで踏み鳴らし、キャルが入ってくる。
+
+　両手に下げたコンビニエンスストアの袋には、缶詰食品とミネラルウォーターのペットボトルが、ぎっしりと詰まっている。
+
+<BOX type="4">//%sL
+「万事に片がつくのは、
+　まあ、3、4日ってとこだからね」
+
+「足りなくならないよう、
+　考えて食いなよ」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「事情、話してください」
+
+「何もかも教えるって、
+　さっき言ってたじゃないですか」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ああ、それね」
+
+<BOX type="3">//%m
+　気のない生返事を返しながら……
+　キャルが弄んでいるのは、美緒から取り上げた携帯電話だった。
+
+<BOX type="4">//%sL
+「こいつだが……
+　アドレス帳は、どう呼び出す？」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「まぁ、いいさ」
+
+<se id="1" src="携帯アドレス呼び出し" mode="normal" loop="off">
+<BOX type="3">//%m
+　どんな機器でも、同じ用途に即したデザインである以上、インターフェイスの設計は自ずと必然的なパターンにはまる。
+
+　それを当てずっぽうに探るのは、キャルの得意とするところだった。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……お、こうか」
+
+<BOX type="3">//%m
+さして迷うこともなく、メモリーの内容を液晶画面に呼び出すキャル。
+
+　登録件数は、さして多くない。どうやら付き合いの狭い娘らしい。
+　数ある番号のうち、いちばん登録ナンバーの新しい番号を探す。
+
+　漢字表記の名前は、
+　キャルには読めなかったが、
+　おそらくこれで間違いはない。
+
+<BOX type="4">//%sL
+「こいつが、
+　一番最近の友達だね？」
+
+「何て読むんだい？　この漢字」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　美緒は頑なに口を閉ざしたまま、答えない。
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「{姓}、{名}……だろ？」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたは、
+　{名}さんの……
+　何なんです？」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「もと恋人、もと弟子」
+
+<BOX type="3">//%m
+　まなじりを決して糺す美緒を、まるで嘲るかのように、キャルは声色を使って言い放つ。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あたしを女にしたのは、
+　あいつだよ」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嘘」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「なんでそう思う？」
+
+「あんた、あの男について
+　何を知ってるっていうんだい？」
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　痛いところを突かれて、
+　美緒の表情に戸惑いが差す。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ついでに言うとね」
+
+//もえらＳＥ追加
+<se id="1" src="銃まわす2" mode="normal" loop="off">
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+キャルはホルスターから銃を抜き、指先で一転させながら、
+
+<BOX type="4">//%sL
+「こいつの扱いも、奴に習った。
+　人の殺し方もね」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　美緒は言葉を失って、
+　まじまじとキャルを見た。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あいつがアメリカで、
+　何やってたと思う？」
+
+「殺し屋さ。
+　それもとびきり一流の」
+
+「あいつ一人で何人殺してるか、
+　知れたもんじゃない」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　馬鹿げた話があるものか。
+　そう反駁しようとしたものの、
+　美緒は言葉に詰まった。
+
+　殺し屋……
+　異国語の響きで聞く、
+　あまりにも異質な単語。
+
+『Assassin』とキャルは言った。
+『Killer』でも
+『Murder』でもない。
+
+　何か事情に迫られて、大勢の人を殺めた、というのではなく、
+　仕事か、何か任務のようなもので殺人を犯した、という意味か？
+
+『Assassin』……
+　短いホームステイの期間にも、日常会話では一度として耳にしなかった言葉。
+
+思えば映画やゲームの世界の、カタカナ英語でしか聞いたことがない。
+
+　アサシン……殺し屋、暗殺者。
+　現実とは縁のない、
+　架空の世界の単語。
+
+　なのに、今、目の前の少女が口にしてみると、いかにも、しっくりと填っている。
+
+　まるで彼女が口にした途端、その言葉がリアルな実体を伴って目の前に立ち現れたかのような……
+
+　そう、ついさっきも目の前で、
+　彼女は人を殺している。
+　飄々と、眉ひとつ動かさず。
+
+　広い世界のどこかには、生業として人を殺すような恐ろしい人たちが実在するのかもしれない。
+
+　今、目の前に立つこの少女がそうだとしても、それはそれで納得できる。
+
+　だが……あの{姓}{名}がそうだと言われても、信じられるはずがない。
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの……何かの間違いじゃ……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　冷たく侮蔑的な眼差しで、
+　短く嗤うキャル。
+
+<BOX type="4">//%sL
+「2年前、梧桐大輔って男が
+　ロスで死んでる。たしかあんたの
+　叔父だったって話だな」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　今度こそ、
+　生々しい驚きが美緒を襲った。
+
+<BOX type="5">//%sR
+「なんでそんなことを……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「知ってるんだよ。
+　あんたよりも詳しく、な」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　何者なのか？　彼女は。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あんたが騙されてる点が
+　三つある」
+
+「ひとつ。
+梧桐大輔は貿易商なんかじゃない。
+ギャングの一員だった」
+
+「あんたの国で言う
+　ヤクザってやつさ」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ヤ、ヤクザ？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ふたつ。
+梧桐大輔はあんたの叔父じゃない。
+あんたとは血の繋がった実の兄だ」
+
+「……つまりあんたは
+　ヤクザ一家の娘っ子ってわけさ」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嘘です……」
+
+<BOX type="2">//%w
+　出鱈目だ。
+　まるっきり出鱈目だ……
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「みっつ」
+
+「梧桐大輔の死因は事故じゃない。
+　殺し屋に始末された。あんたの
+　愛しの{名}にな」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嘘です!!」
+
+「あなた、一体……
+　何のつもりなの!?　そんな
+　いい加減なこと言いふらして」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そんな風に、
+　あんたがわめくところが
+　見たかったからさ」
+
+<BOX type="3">//%m
+　キャルの笑顔の裏側からは、
+　ありありと悪意が窺えた。
+
+<BOX type="4">//%sL
+「鼻につくんだよ。ツンと澄ましたお嬢様ってのは。ついつい化けの皮をひっぺがしてみたくなる」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　怯むまいと……
+　そう気を張る美緒だが、
+　それが虚勢にすぎないのは、
+　美緒自身にも明らかだった。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今のところは、
+　信じようが信じるまいが、
+　まぁ、好きにすればいい」
+
+「だがそのうち、あんたを巡って
+　血みどろの殺し合いが
+　おっぱじまる」
+
+「今のあんたにゃ、
+　まるで身に覚えのない理由でね」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そうなったら、
+　さっきの話を思い出しな。
+　何もかも筋が通るから」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あなたの目的は、
+　何なんです？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「殺し合い、だよ」
+
+<BOX type="3">//%m
+　その笑顔も、冗談めかした声も、
+　美緒がかつて見たこともないほど
+　凶々しいものだった。
+
+<BOX type="4">//%sL
+「あんたの大好きな{姓}{名}と、殺し合うのさ」
+
+「どっちが強いか決めるためにね」
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何だよ？　あんたの兄貴の仇を
+　討ってやろうってんだよ」
+
+「もうちょっと嬉しそうな顔しても
+　いいんじゃないのか？」
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　膝から全身の力が抜けていく。
+　夢なら、覚めてほしいと……
+　そう切に美緒は願った。
+
+<A HREF="3510.txt" OPERATOR="">//~ 3510

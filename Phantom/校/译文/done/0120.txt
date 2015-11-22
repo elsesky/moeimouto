@@ -1,0 +1,183 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0b3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　返回住处的时候，已经是凌晨4点。
+
+　Ein好像还没有回来。
+　之前在芝加哥的机场分开后，
+  我们便各自行动，彼此之间连对方乘坐的航班都不知道。
+
+　在诺曼底大街上的韩国城尽头的一个小工厂中，我们租下了一间阁楼。
+  这就是我与Ein两个人生活的隐匿住所。
+
+　虽然洛杉矶是一座以拥有美国第二多人口而自豪的城市，但在白人所占比例不足5成的移民聚居区，东洋人还是很容易溶入其中的。
+
+　在旁人看来，
+  我们就像是一对离开父母自己谋生的学生情侣吧。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　为什么Inferno只是针对黑道的大人物实施暗杀呢？
+
+　其中的缘由，
+  我虽然不十分清楚，但也渐渐明白了。
+
+//> left factory wide 255 sepia 22 crou 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+“就像是暴力团伙和黑手党的联合国”
+　
+　…………记得克劳蒂娅曾经这样向我解释过Inferno的实质。
+
+<CLEAR><BACKGROUND SRC="night3">//# night3 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　看起来，Inferno是由全美国的犯罪组织中的反叛者联合起来成立的一个集团。
+
+　虽说是反叛者，但也都不是什么等闲之辈。
+　Inferno的成员，全都是各个组织中的精英……
+
+　虽然登上了成功的阶梯，
+  但始终得不到登上最高权利宝座的机会……
+  这样一群实力派的年轻干部。
+
+　他们不拘泥于老一辈所固守的旧制与成规。
+  互相分享自己掌握的情报，避免抗争，
+  以实现最大效率的共同繁荣为目标。
+
+<CLEAR><BACKGROUND SRC="street1">//# street1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+对这样的他们而言，最大的障碍……
+正是像今天被杀的卢西奥·瓦鲁萨尼一样、在黑社会一手遮天的老牌掌权人们。
+
+<CLEAR><BACKGROUND SRC="0110p3">//# 0110p3 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　于是就轮到Phantom出场了。
+
+　将老一代掌权人清理后，Inferno的加盟者们就可以尽早取代他们的位置，出人头地也就容易多了。
+
+<CLEAR><BACKGROUND SRC="night2">//# night2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不久之后，他们就能以各个组织新领袖的身份睥睨群雄了吧。
+
+　这样的话，Inferno这个组织就会发展成为一个黑社会权贵汇集一堂的网络……
+
+//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　当然，就算我掌握了这个内幕，也不会有任何意义。
+  对于处于组织底层的自己来说，这只是遥不可及的神话而已。
+  暂且不说我能否理解，就算理解了，对自己也没有丝毫帮助。
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　因为今天的流血事件，
+  有什么将发生改变吗？
+  有什么将被保护吗？
+
+　究竟，
+  那个男人是因为什么人的利害关系而被夺走性命的呢？
+
+　接下来，
+  美国的地下世界中将发生什么吗？
+
+　……这种事，自己推测不出。
+  一直，都是这样。
+
+//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我打开窗户，一边呼吸着清晨冷冷的空气，
+  一边望向还沉睡着的街道。
+
+　虽然还不到太阳升起的时间，
+  但天空已经开始变得明亮。
+
+　以这个屋子作为据点在这条街道上生活下去，
+  到现在已经有3个月了。
+
+<CLEAR><BACKGROUND SRC="street0c">//# street0c 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我已不再生活在沙漠的中心。
+
+　看到的景象，听到的声音……全都充满了新鲜、刺激的感觉，
+  而且，这一切每一天都在变化着。
+
+　每一天自己都在用身体感受着这样的刺激，
+  仿佛要把它们一个不漏地全部吸收。
+
+　新鲜的世界令我眼花缭乱……
+　但另一方面，内心深处却与在沙漠中那时候一样，
+  沉积着空虚的倦怠感。
+
+　自己只是学到了不同的东西。
+  本质，却没有发生任何改变。
+
+　没有名字。
+　不知故乡在哪里。
+
+　自己知道的，
+  只有枪与刀的使用方法……
+
+<CLEAR><BACKGROUND SRC="night1">//# night1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这条街上有数不清的人，
+  但无论他们是欢笑还是哭泣，无论他们怎样走完人生，
+  都与我没有任何关系。
+
+　欢笑，是因为实现了多年的梦想，
+  流泪，是因为失去了宝贵的东西。
+
+　没有梦想，也没有可以失去的东西……
+  这样的自己，无法挤进那些人的生活中去。
+
+　他们是生活在另一个世界的人。
+　即使我能看到他们、听到他们、触摸到他们，也都没有任何意义。
+  对我来说，他们简直就像不存在一样。
+
+　所以，这里和沙漠没有什么两样。
+
+<A HREF="0120a.txt" OPERATOR="">//~ 0120a

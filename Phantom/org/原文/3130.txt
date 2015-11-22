@@ -1,0 +1,347 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　八王子市郊外、
+　はるか西から甲府の山並みを継承する、小高い山の中腹に、
+　篠倉学園の校舎はある。
+
+　麓の街までは、つづら折りの坂道を30分近く通わなくてはならない。
+
+　もとが全寮制だけに、交通の便はきわめて悪い立地条件だった。
+
+　さらに上に登れば、
+　いまは廃墟となった女子寮が、そのままに放置されているという話だ。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　下校の時間帯がずれたせいで、道に他の生徒たちの姿はなく、
+　おかげで早苗は人目を憚ることなく、
+　得意の熱弁をがなりたてることができた。
+
+　テーマは一貫して、藤枝美緒という女の子の、
+　世にも類い希な数々の美点と、みすみすそれを袖にしようとする
+　誰かさんの馬鹿さ加減についてである。
+
+　たしかに早苗の性格からすれば、美緒のような引っ込み思案の友達には、
+　何かと世話を焼きたくなることだろう。
+
+　だからといって、色恋沙汰ともなれば……
+　あくまで早苗は部外者だ。
+
+　そもそも美緒は、今日みたいなアプローチを
+　本気で望んでいたんだろうか？
+　彼女の態度を思い返すと……
+　どうにも、早苗に無理強いされただけのようにも思えてくる。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっとアンタ、
+　聞いてるの？」
+
+<BOX type="0">//%w
+「ん？　ああ。藤枝さんだけどさ……」
+
+「……彼女、本当は告白したくなかったんじゃないのか？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうみたいね」
+
+<BOX type="0">//%w
+　しれっとした顔で早苗は言った。
+
+<BOX type="5">//%sR
+「ずっと胸の中に仕舞い込んどく
+　つもりだったのよ。後生大事に」
+
+<BOX type="0">//%w
+　さすがに呆れた。
+　それを承知していたのなら、何故……
+
+「なんで強引に嗾けたりしたんだ？
+　そっとしておいてやれば良かったものを」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「その方が良かったと思うわけ？」
+
+「人を好きになるなんて、
+恥ずかしがるようなことじゃない。
+すごくいいことじゃない」
+
+「それで人生、
+　何十倍も楽しくなるんだから」
+
+<BOX type="0">//%w
+「そんなの、人それぞれだろ」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「気持ちは、素直に伝えなきゃ」
+
+「その場は傷つくようなことになっても、長い目で見たら、素直になっておく方が絶対にいいって」
+
+<BOX type="0">//%w
+「ふられても、か？」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そっから先は別問題なのよ!」
+
+「美緒みたいなイイ娘を、
+　平気で放っとけるあんたの
+　神経が信じられないのよ」
+
+<BOX type="0">//%w
+　まさか早苗に、事情を説明する訳にもいかないが……
+　いい加減、こう頭ごなしに怒鳴られ続けていると、
+　さすがに煩わしくなってきた。
+
+「関係ないだろ。お前には」
+
+<BOX type="5">//%sR
+「そう。おせっかい。
+　大きなお世話ってやつ」
+
+「あんた達みたいなお似合いの組み合わせが、みすみす御破算になっちゃうのが惜しくて仕方ないの！」
+
+「勿体なさ過ぎるの！　美緒が好きになる男なんて、きっとあんたが最初で最後よ。世界に一人っきり」
+
+「だからあんた達の仲は
+　ちゃんと保護してやらないと。
+　トキとおなじよ」
+
+<BOX type="0">//%w
+　困ったものだ。
+　恋すれば必ず、想いは届くと……
+　そういう神話を崩されるのは、たとえ我が身のことでなくても、
+　女の子にとっては耐えがたい事柄なんだろうが。
+
+<BOX type="5">//%sR
+「……ついでに、
+　おせっかいパート２。あんたの
+　性格的欠陥も指摘してあげる」
+
+<BOX type="0">//%w
+　まったく、元気なものだ。
+　他人事で、これだけ泣いたり怒ったりできる
+　バイタリティというのは何なんだろうか。
+　ついつい苦笑を口元に昇らせてしまう。
+
+<BOX type="5">//%sR
+「それよ！ その薄笑い！」
+
+「いつも一歩離れて、微笑ましい
+茶番を眺めてますってな風なとこ。
+ものすごく不愉快なんだけど」
+
+<BOX type="0">//%w
+「……え？」
+
+<BOX type="5">//%sR
+「どうして、
+　そーゆう退き方しちゃうわけ？」
+
+「あんた一人が
+　そんなに大人だっての？
+　馬鹿にしないでよね」
+
+<BOX type="0">//%w
+　そんな風に特別に見られるのは、まずい。
+
+「……すまん」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、まったくもう。
+　本当に変なヤツ！」
+
+<BOX type="0">//%w
+「……まだ何か？」
+
+<BOX type="5">//%sR
+「いいのいいの。素直で結構よ。
+　普通なら意地張ったり
+　ムキになったりするとこだから」
+
+「……糠に釘よね。まったくもう」
+
+「あんた、
+　本当に江漣と双子なの？」
+
+<BOX type="0">//%w
+「二卵性なんでな」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　適当に言い逃れつつも、
+　改めて{ヒロイン}のカモフラージュの巧みさに恐れ入る。
+
+“{姓}江漣”は美緒と同じく、早苗とも親しく付き合っている。
+
+　常日頃、彼女らと談笑しながらも、
+　何の違和感も感じさせない{ヒロイン}の演技力というのは……
+　まったく、底が知れない。
+
+<CLEAR><BACKGROUND SRC="classroom2a">//# elen3^7 19 classroom2a 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="left">//# elen3^7 19 classroom2a 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一向に成長しない容姿の幼さも、演技の助けになっているんだろう。
+　彼女の身長は、初めて出会った頃から、1インチと伸びていない。
+
+　聞けば{ヒロイン}は、かつてサイスの実験台として、
+　得体の知れない薬物を次々と投与されていた時期があったらしい。
+
+　その副作用が原因だとすると、
+　とても呑気に感心できる話ではないのだが。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1  dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……漫然とそんなことを考えながら歩いていると、
+　ふと、場違いなものが目についた。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="ドアティアップ">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　道の左側に、丁度こちらに尻を向ける格好で、
+　一台のバイクが停まっていた。
+
+　ライダーはシートに跨って、腕組みしたまま彫像のように動かない。
+　体型からして女性のようだが、
+　フルフェイスのヘルメットのせいで風貌は判らなかった。
+
+　どこに抜けるわけでもないこの坂道は、
+　いわば篠倉学園の私道のようなものだ。生徒や関係者しか使う用はない。
+　誰か、下校する生徒を待っているんだろうか？
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だが、ひっきりなしに喋り続けている早苗は、気にも留めていない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　バイクの横を通り過ぎて、50メートルほど歩いただろうか。
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　やおら、けたたましい排気音が耳に届いた。
+　さっきの女ライダーが、エンジンを始動させたんだろう。
+
+　さっき目にした外見は中型バイクのようにも見えたが、
+　実際はかなりの大排気量のようだ……
+
+　だがもうひとつ、
+　そのエンジンの轟きの影に隠れて、別の音が鳴り響いた。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　聞き慣れた、あまりにも聞き慣れすぎた、
+　だが、こんな場所で聞くことは絶対あり得なかったはずの音。
+
+　振り向いた視界の隅で、プラスチックの白い破片が飛び散るのが見えた。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あれ？」
+
+<BOX type="0">//%w
+　早苗も、肩に掛けたショルダーバッグに、
+　何かに引っ張られるような感触を感じたのだろう。
+
+　バッグの端に吊してあったアクセサリーが、跡形もなく消えている。
+
+<BOX type="5">//%sR
+「……え？　うそ、
+　どっかに引っかけた？」
+
+<BOX type="0">//%w
+　途方に暮れる早苗は、もちろんさっきの音と、
+　消えたアクセサリーの因果関係など気付く由もない。
+
+　当たり前だ。彼女には聞き分けられるわけがない。
+　バイクのエンジン音に紛れた、9mmパラベラムの銃声など……
+
+<CLEAR><BACKGROUND SRC="3100p1">//# dummy 20 3100p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ライダーは、ヘルメットを脱いでいた。
+
+<CLEAR><BACKGROUND SRC="1100p1">//#! 1100p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　引っ詰めに結んだ金髪は、二年前よりも長かった。
+
+　瑠璃色の瞳は、色こそ同じだが、輝きが違う。
+
+<CLEAR><BACKGROUND SRC="1160p1">//#! 1160p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　記憶の中のあの瞳は、もっと柔らかく、朗らかだった。
+　今、不敵な冷笑とともにこっちを睨んでいる、
+　刺し貫くような鋭い目とは、似ても似つかぬものだった。
+
+　だが、何よりも肝心なのは、
+　あの面影に重なる記憶が、死者のものだということだ。
+
+<se id="1" src="ドカ走り去る" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　女はヘルメットを手首に引っかけたまま、ハンドルクラッチを繋ぎ、
+　やおらバイクを発進させた。
+
+
+　滑るような加速で、立ちすくむ二人の横を駆け抜けていくバイク。
+
+<CLEAR><BACKGROUND SRC="3100p2">//# 3100p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　擦れ違いざまに、瑠璃色の大きな瞳が、もう一度こちらに一瞥をよこす。
+<se id="2" src="ドカ通りすぎる" mode="normal" loop="off">
+
+　憎悪に燃え、殺意に凍えた一瞥を。
+
+　なぜ、そんな目を？
+　どうして、こんな場所にいる？
+
+　いや、それよりも……
+　本当に、おまえなのか？
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　生きて、いたのか？
+　キャル……
+
+<A HREF="3140.txt" OPERATOR="">//~ 3140

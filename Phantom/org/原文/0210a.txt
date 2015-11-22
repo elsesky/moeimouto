@@ -1,0 +1,33 @@
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BOX type="0">//%w
+「……これは……まさか……」
+
+<BOX type="5">//%sR
+「そう。きみのパスポート。
+　本当のきみが、ここにある」
+
+「今夜はね、これを渡すつもりで
+　呼び出したの」
+
+<BOX type="0">//%w
+　タイプで打たれた、聞き憶えのない名前。
+
+　写真には、鏡で見るのと同じ顔。
+
+　これが……本当に、そうなのか？
+
+<BOX type="5">//%sR
+「手で、書いてごらんなさい」
+
+<BOX type="0">//%w
+　そう言って、クロウディアに万年筆とメモパッドを渡された。
+
+　漢字を、手で書くなんて、
+　そういえば久しく試みたことはなかったが……
+
+<NAMEENTRY FAMILY="姓" NAME="名" FAMILYDEF="吾妻" DEF="玲二">
+<calc workname="G姓" operator="姓" mode="global">
+<calc workname="G名" operator="名" mode="global">
+<A HREF="0210b.txt" OPERATOR="">//

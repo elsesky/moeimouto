@@ -1,0 +1,14 @@
+<BOX type="0">//%w
+我决定暂且将常用的柯尔特政府型放在一边，试一试莉兹给我的这把USP。
+
+　我不太喜欢这把枪的粗枪柄，不过12连发的复列弹夹的确让人更有底气。
+  而且，USP轻巧的框架也使它更易于携带。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="10_01">//
+<CALC WORKNAME="廵" OPERATOR="USP">//
+<CALC WORKNAME="廵夋憸" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="USP2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡UP">//
+<CALC WORKNAME="1166" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

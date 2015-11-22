@@ -1,0 +1,112 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right room0g wide 255
+<clear>
+<wait time="1200">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="雨室内ループ" mode="fadein" old="fadeout" time="10" loop="on">//$ rain.swa 0 255
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　ガラスの失せた窓からは、外の冷たい雨音が、じかに聞こえてくる。
+
+　焼け焦げたその部屋で、キャルは一人、待ち続けた。
+
+<clear>
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　何が起こったのかは、
+　わからない。
+
+　あの日……
+　修理を終えたビデオデッキを試そうと、夜半にビデオレンタル店に出かけ……
+
+　戻ってみれば、パトカーと消防車の詰め掛けた路地の上で、帰るべき部屋が燃えていた。
+
+　何もかもが、黒焦げだった。
+
+　丹念にベッドメイクしたシーツも
+　愛情込めて整えたキッチンも、
+
+　はじめて、
+　買ってもらえた服も……
+
+<bgm src="" mode="fadein" old="fadeout" time="20" loop="on">//$ 0 _1 0
+　だが別に、
+　どうということはない。
+
+　危険な暮らしは覚悟の上だ。
+
+　殺し屋ファントムの相棒になる。
+　今は駄目でも、いつかは、なる。
+　そう心に決めていたのだから。
+
+<clear>
+<BACKGROUND SRC="キャル座り込み">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　だからキャルは、待ち続けた。
+
+　きっと彼は、戻ってくる。
+　そう約束したのだから。
+
+　必ず、迎えに来てくれる……
+
+　泣くのは、それからにしよう。
+
+　彼の顔を見たら、まず思いきり怒って、2、3回叩いてやって、
+　それから胸の中で、声を上げて泣こう。
+
+　それまでは、我慢する。
+　そうキャルは決めていた。
+
+<clear>
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="2">//%w
+　信じ続け、待ち続けて、そして3度目の朝がきた。
+
+<se id="1" src="雨室外" mode="normal" time="" loop="off" effect="">//!se rainOut
+　先に、抜け駆けをして泣き始めたのは、空だった。
+
+　さめざめと、路面を叩き続ける朝の雨。
+
+　その音を、空っぽの窓の外に聞くうちに……
+　いつしかキャルの頬骨を、雫がひとつ伝っていった。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="1">
+「……うそつき」
+
+//> right room0g wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうとも。奴はうそつきだ」
+
+「ずっと騙されていたんだよ。
+　君は」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="left">//# cyall^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+「……あんた、誰？」
+
+<A HREF="3010.txt" OPERATOR="">//~ 3010

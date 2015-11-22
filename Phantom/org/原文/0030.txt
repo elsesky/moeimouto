@@ -1,0 +1,53 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+//$ 0 _1 0
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　アインは時間をくれた。
+
+//> left nightfield wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="nightfield">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　明日からは、例の「訓練」を始めるという。
+　それまで身体を休めておくように、そう言って彼女は、
+　迎えに来た車に乗り込み、立ち去った。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　今は、この廃工場で一人きり。
+　逃げ出すか……ふと、そんなことも考えたが、すぐ諦めた。
+
+　ろくに言葉も解らない国の、しかもこんな荒野の真ん中で、
+　一人でどうしようというのか。
+　それこそ自殺行為だ。
+
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　毛布と防寒着を渡されたから、
+　もう寒さで目を覚ますようなことはないだろう。
+　でも、今夜は眠れそうにない。
+　頭の中が滅茶苦茶だ。
+
+　夜明けまで時間はある。
+　それまでに、少し考えを整理しよう……
+
+<CHOICE HREF="0030a.txt" TEXT="＊自分のことを考える" OPERATOR=""></A>
+//{ ＊自分のことを考える 0030a ＊捕まっている組織について考える 0030b ＊アインという少女について考える 0030c0c
+<CHOICE HREF="0030b.txt" TEXT="＊捕まっている組織について考える" OPERATOR=""></A>
+//{ ＊自分のことを考える 0030a ＊捕まっている組織について考える 0030b ＊アインという少女について考える 0030c0c
+<CHOICE HREF="0030c.txt" TEXT="＊アインという少女について考える" OPERATOR=""></A>
+//{ ＊自分のことを考える 0030a ＊捕まっている組織について考える 0030b ＊アインという少女について考える 0030c0c

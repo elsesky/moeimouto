@@ -1,0 +1,47 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在经历了与凯尔的那场惊心动魄的邂逅之后，生活又恢复了平静的样子。
+
+　凯尔已经看出我并不想把美绪卷进来。
+　要是她把这个情况通报给Inferno和梧桐组的话，就万事休矣了……可出乎我意料的是，到目前为止，Inferno那边没有任何的动作。
+
+<CLEAR><BACKGROUND SRC="jView1">//# jView1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在一片风平浪静中，礼拜一过去了，礼拜二也结束了。
+
+　在如此正常的生活中，唯一不正常的是皮带内侧别着的枪的重量。
+
+　之前的那次接触让我倍感紧张。
+　每一天的平静，都加重着我的不安。
+
+　不过，就算不去刻意隐藏自己的紧张，周围的人也不会对我的这张苦脸产生疑惑吧。
+
+<CLEAR><BACKGROUND SRC="school5b">//# school5b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　最让学生头疼的莫过于考试了，况且等待着我们的是期末考试……
+　就算是平时成绩优秀的学生，也难免会为了升学而犯愁。
+　一脸阴沉的家伙在班里可不止一个两个。
+
+　在咖啡店的时候，我见识到了凯尔身上的邪气与戾气。
+　要是她无视周围人的意思开始暴走，事态恐怕会朝着令人绝望的方向发展吧……
+
+<CLEAR><BACKGROUND SRC="church1">//# church1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　礼拜三的午休……
+
+　我来到礼拜堂。
+  如计划的那样，{ヒロイン}正等在里面。
+
+<A HREF="3370.txt" OPERATOR="3345=1">//~ 3370
+<A HREF="3380.txt" OPERATOR="">//~ 3380

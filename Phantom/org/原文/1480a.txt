@@ -1,0 +1,53 @@
+　寝静まった街区には、何の動きも……
+
+<CLEAR><BACKGROUND SRC="1480x2">//# 1480x2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="2" loop="on">//$ 0 _1 0
+<BOX type="0">//%w
+　他ならぬ我が家の前で、見覚えのあるベンツがアイドリングしていた。
+
+　以前、死んだランディとその部下が乗ってきた車。
+
+「……!」
+
+<se id="1" src="玲二走り4" mode="normal" time="" loop="off" effect="">//
+　声にならぬ叫びを上げて走り出したその直後、
+
+<se id="2" src="ロフト爆発" mode="normal" time="" loop="off" effect="">//!se exprosion
+<se id="1" src="" mode="fadeout" time="5">
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1480x1">//#! 1480x1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　ロフトの窓から、炎と爆音が迸った。
+
+<se id="3" src="burning" mode="normal" time="" loop="off" effect="">//!se burning
+<CLEAR><BACKGROUND SRC="streetsmoke">//# streetsmoke 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　熱波と衝撃波に押し戻されて、バランスを崩し道端に転ぶ。
+
+　それでも目だけは、逸らせなかった。
+　ただ白痴のように呆然と、巻き上がる黒煙を見つめているしかなかった。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　頭の中は、止まっていた。
+　止めておくしかなかった。
+　もし、ほんの少しでも思考を動かしてしまったら、
+　理解せざるを得なかったから。
+
+<se id="1" src="ベンツ走り出し" mode="normal" loop="off">
+　あんな爆発で、中の人間が生き残れるはずがないことを。
+
+　爆破の成果を見届けたベンツが、ゆっくりと動き出した。
+
+　まだ、こちらには気付いていない……
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="" mode="fadeout" time="30">
+<CHOICE HREF="1480b.txt" TEXT="＊隠れる" OPERATOR="1330=1"></A>
+//{ ＊隠れる 1480b ＊皆殺しにする 1570a
+<CHOICE HREF="1570a.txt" TEXT="＊皆殺しにする" OPERATOR="1330=1"></A>
+//{ ＊隠れる 1480b ＊皆殺しにする 1570a
+
+<A HREF="1480c.txt" OPERATOR="">//~ 1480c

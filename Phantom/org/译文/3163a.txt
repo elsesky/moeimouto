@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+最后……我还是坚持了一贯的选择。
+
+或许是许久未用的缘故，我感觉枪柄正牢牢吸附在我的手中不愿离开。熟悉的触感，在手掌中重现了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm2">//
+<A HREF="3170.txt" OPERATOR="">//~ 3170

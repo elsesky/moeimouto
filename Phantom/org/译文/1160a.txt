@@ -1,0 +1,188 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这里就是你的训练场？」
+
+<BOX type="0">//%w
+「嗯」
+
+　说起来，我有很长一段时间没来过这里了。
+
+　可以说，这里是{姓}{名}之外的、另一个自己的故乡。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是个寂寞的地方呢」
+
+<BOX type="0">//%w
+「在这里的话，不管朝哪里射击，都不用担心会伤到人」
+
+「开始吧」
+
+<CLEAR><BACKGROUND SRC="暲傇僔儞僟乕僽儘僢僋">//# amt_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我们两个先把用来做靶子的砖块整齐地排在沙子上面。
+
+　在做着这样单调的工作时，我偶然间想起自己第一次接触到枪的那一天。
+
+　……因为两枪中能有一枪中靶而欣喜不已。
+
+<CLEAR><BACKGROUND SRC="amt_000">//# amt_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　选择练习用的枪械着实让我费了一番脑筋。
+  总之先让她用这把和克劳蒂亚一样的AMT-BACK-UP吧。
+
+//> left 1160p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1160p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「那个，首先呢……」
+
+　平时自己觉得很简单的事情，用语言向别人传授时，却出乎意料的难。
+
+　{ヒロイン}是怎么教我的呢……
+　我一边回想着，一边在脑中组织语言。
+
+「首先，紧紧地握住枪。要用力」
+
+「然后伸出右手，用左手托住
+  ……没错，就这样」
+
+「用凹槽的延长线来瞄准目标。看得到吗？」
+
+<BOX type="4">//%sL
+「手……在发抖」
+
+<BOX type="0">//%w
+「不是在手臂而是在手指上用力」
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……很好。就这样，慢慢地扣下扳机」
+
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="4">//%sL
+「呀!?」
+
+<BOX type="0">//%w
+　凯尔还没等我说完，就扣下了扳机。
+
+<BOX type="0">//%w
+「太急了。再慢一点，就像挤东西一样扣」
+
+<BOX type="4">//%sL
+「……嗯」
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="暲傇僔儞僟乕僽儘僢僋">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<CLEAR><BACKGROUND SRC="#ffffff">//# amt_000 1
+//<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="悂偒旘傇僔儞僟乕僽儘僢僋1">//# amt_000 1
+<WIPE EFFECT="fade" TIME="0">
+
+<CLEAR><BACKGROUND SRC="悂偒旘傇僔儞僟乕僽儘僢僋1b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「啊!　打中了!打中了!!」
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　比起凯尔命中了靶子，我更惊讶于她使枪时的谨慎。
+  虽然她的样子像是在玩射击游戏，但持枪的态度却意外地小心慎重。
+
+<CLEAR><BACKGROUND SRC="僉儍儖幩寕楙廗">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　她很快就适应了枪声和后坐力，同时却一刻都没有放松对枪本身具有的危险性的警戒。
+
+她不但理解力惊人，而且适应的也很快，让我无话可说。
+不要将枪口对着其他的方向，不要随便扣动扳机……这些基本的规则，我明明还没有教过她。
+
+　看来凯尔自己也没有意识到这一点。
+  不过，她时不时会将这种直感化的聪明之处表现出来。
+  或许这就是……洞察物质本质的敏锐性吧。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「换弹夹的方法你也知道了吧？」
+
+「好了，先一个人试试吧」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你要去哪里？」
+
+<BOX type="0">//%w
+「稍稍去四周转一转」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「OK」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="2000">
+<se id="2" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　每发射一发子弹，凯尔就会欢呼一声或者叹口气，一喜一忧地鼓励着自己进行练习。
+  那样的话，说不定她很快就会掌握窍门了。
+
+　我这样想着，将凯尔留在了那里，自己走开了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　……这里一点都没有变。
+
+　从周围的角落里透出一股尘土和机油的味道。
+
+　虽然是很久以前的事情了，不过仍然像发生在昨天那样清晰。
+　{ヒロイン}一起度过的那些训练的日子又在脑海里重现了。
+
+<A HREF="1160c.txt" OPERATOR="0280">//~ 1160c
+<A HREF="1160b.txt" OPERATOR="">//~ 1160b

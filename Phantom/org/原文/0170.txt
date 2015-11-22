@@ -1,0 +1,189 @@
+　ただ、やけに生々しい感傷の名残が、まだ胸の底に残っている。
+
+　恐怖と、それと哀しみ。
+　もう、とっくに切り捨てたはずの感情なのに……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「なあ……」
+
+//<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+「夢を見ることって、あるかい？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうして？」
+
+<BOX type="0">//%w
+「もしも、夢の中で、
+　見たこともないような景色を見たり、知らない人と会ったりしたら……」
+
+「それって、もしかしたら、昔の記憶なんじゃないかな、って」
+
+<BOX type="5">//%sR
+「そんな夢を見たの？」
+
+<BOX type="0">//%w
+「いや……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　どうなんだろうか。
+　こんな漠然とした印象だけでなく、
+　せめて……鍵になる言葉のひとつも思い出せればいいのだが。
+
+「わからない。うまく思い出せない」
+
+「でも……」
+
+　確証はない。が、あの夢の内容は、今の自分の日常よりも、
+　よほど現実味があったように思う。
+　ひょっとしたら、
+　今こうしてアインと話し合っている瞬間よりも、なお……
+
+「そういうことって、君には、ないのか？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　アインは答えなかった。
+
+　もとより夢などという、
+　そんな他愛もない話題に付き合うようなアインではない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　頭を振って、眠気の残滓をふるい落とすと、着替えにかかった。
+
+　急な任務とは、何なんだろうか。
+　いきなり今夜決行とは……ずいぶんと無茶な話だが。
+
+<BOX type="5">//%sR
+「ときどき、色の夢を見る」
+
+<BOX type="0">//%w
+「え？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不意に背後から聞こえた声に、面食らった。
+　他ならぬアインの声。だが……
+
+「……色、だって？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう、色」
+
+「それと……風」
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「青と、白と、波打つ緑色と……
+　それだけしかない、
+　あとは何もない場所」
+
+「でも、眩しいぐらい明るくて、
+　……それで、風が吹いてる。
+　すごく強い風が」
+
+<BOX type="0">//%w
+「それが、君の夢？」
+
+<BOX type="5">//%sR
+「そう」
+
+<BOX type="0">//%w
+　どんな景色なんだろうか。
+　心に思い描いてみようとするが、できない。漠然としすぎている。
+
+「君の、故郷なのかな？　その景色って」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だとしても、それが何？」
+
+<BOX type="0">//%w
+　固く冷たい声で、切り捨てるようにアインは言った。
+
+　その一言で、まるで冷水を浴びせられたように、空想が断ち切られる。
+
+「確かめたいとは、思わないか？」
+
+<BOX type="5">//%sR
+「確かめたいの？　あなたは」
+
+<BOX type="0">//%w
+「そりゃぁ……」
+
+　当然だ。と、そう言うより先に、アインの言葉が割り込んできた。
+
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「故郷のことを思い出して、
+　でもその後は、どうするの？」
+
+「そこが、
+　人殺しを迎え入れてくれる
+　場所だと思う？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　返す言葉もなかった。
+
+　……確かに、そうだ。
+　そんな風に考えたことはなかった。
+
+　無くした記憶を取り戻したところで、
+　すでに暗殺者になってしまった自分が、元に戻れるわけじゃない。
+
+　こんな筈じゃなかったと……
+　惨めな悔恨を、余計に背負い込むだけのことだろう。
+
+　もう今となっては、いっそ最後まで忘れたままの方が、
+　むしろ幸せかもしれない。
+　だが……
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「用意はいい？」
+
+<BOX type="0">//%w
+「……ああ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そうだ。任務が待っている。
+　悠長に思い悩んでる暇なんてない。
+
+　任務……
+　この、途切れることなく続く緊張の連続が、
+　今では唯一、甘い安息を約束してくれる。
+
+<A HREF="0175.txt" OPERATOR="">//~ 0175

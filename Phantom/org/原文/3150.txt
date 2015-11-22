@@ -1,0 +1,186 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<se id="1" src="phoneCall" mode="normal" time="" loop="off" effect="">//!se phoneCall
+<BOX type="0">//%w
+　幾度、電話を鳴らそうと、受話器の向こうに応答はない。
+
+<se id="1" src="phoneOver" mode="normal" time="" loop="off" effect="">//!se phoneOver
+　溜め息をついて、受話器を降ろした。
+
+　昼間から通算で3度目の国際電話だが、やはり繋がらない。
+　本当なら、{姓}兄妹の両親が出るはずのナンバーなんだが。
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……どうしたの？」
+
+<BOX type="0">//%w
+　さっきから、物問いたげな{ヒロイン}の視線は、
+　さりげなく無視しつづけていたのだが、
+　とうとう彼女も声に出して訊いてきた。
+
+　気は進まないが、でもやはり、説明しておくべきだろうか。
+
+「俺たちの両親が、応答しない」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　即座に、目に冷たい緊張を宿した{ヒロイン}に、
+　受話器を差し出す。
+
+「フゥさんと、連絡とれるか？　一体何が起こってるのか」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}は受話器を受け取ると、
+　覚え書きも何も検めずに番号をプッシュしはじめた。
+<se id="1" src="phoneCall" mode="normal" time="" loop="off" effect="">//!se phoneCall
+
+　数回の呼び出しのあと、
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　流れるような流暢さで、広東語のやり取りが始まる。
+
+　サイスの英才教育によるものだそうだが、
+　{ヒロイン}は英語と日本語の他に、
+　ドイツ語、ロシア語、広東語を自在に操れる。
+　彼女のおかげで、どれほど逃亡生活が助けられたか判らない。
+
+　一言も理解できないものの、それでも最後の『謝々』だけは聞き取れた。
+<se id="1" src="phoneOver" mode="normal" time="" loop="off" effect="">//!se phoneOver
+　{ヒロイン}は沈鬱な面持ちで、そっと電話を切る。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「フゥは、死んだそうよ」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「得体の知れない連中が押し掛けてきて、わたしたちのこと、何もかも白状させたんですって」
+
+<BOX type="0">//%w
+「……インフェルノか」
+
+<BOX type="5">//%sR
+「そうでしょうね」
+
+<BOX type="0">//%w
+　とうとう、見つかった。
+　いつかこんな日が来ることは、判りきっていた筈だったのに。
+
+　なのに何故か、
+　心の中の器の底が、ごっそりと抜け落ちてしまったような気分だった。
+
+　確証は取れた。
+　夕方に出会った相手の一件も、{ヒロイン}に伝えておかねば。
+
+「今日の帰り道、撃たれたよ」
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……警告？」
+
+<BOX type="0">//%w
+「だろうな」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}は得心のいかない様子だった。
+　彼女も当然、インフェルノという組織を知っている。
+　そんな無意味な示威行為は、インフェルノの流儀じゃない。
+
+<BOX type="5">//%sR
+「どうして、わざわざ……」
+
+<BOX type="0">//%w
+「恨んでるからさ」
+
+「簡単に済ましやしない。
+　狩り立てて、追いつめて、さんざん嬲りものにしてから殺す……」
+
+「そういう意志表示なんだろうな」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　私怨……
+　さすがに{ヒロイン}は、核心に思い至るのが早かった。
+
+　今日の下校時の、あの物々しい挨拶は、インフェルノの差し金ではなく、
+　ヒットマン個人の意志によるものだ。
+　組織とは係わりのない、個人的な憎悪のために。
+
+<BOX type="5">//%sR
+「……誰と、会ったの？」
+
+<BOX type="0">//%w
+「死人だよ」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「俺が守ると誓って、帰ってくると約束して……
+　なのに一人ぼっちで殺された子がいた」
+
+「その子の亡霊を、昨日、見た」
+
+<BOX type="5">//%sR
+「もしくは生き延びて、
+　インフェルノに加わっていた……
+　ってこと？」
+
+<BOX type="0">//%w
+「どちらにしても、俺を恨んでるのは当然だ」
+
+「彼女の人生を滅茶苦茶にしたことに、変わりはないんだから」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「逃げないとね」
+
+<BOX type="0">//%w
+「ああ、そうだな」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　窓を開け、夜風の匂いを嗅ぐ。
+
+　風はいまだに冷たいものの、もう冬の夜の鋭利な冷気はない。
+　霜から解放された土の匂い、
+　日々、青さを増していく草木の匂い、
+　そんな、名付けようのないほのかな香りを、もう、夜の風は孕んでいる。
+
+「逃げないとな……」
+
+　今もこの、優しい夜風の中で、道々の桜が芽をつけているのだろう。
+　やがて花咲く春を待ちながら。
+
+　それを見届けることは……だが、もう叶わない。
+
+「以外と、保たなかったな。この暮らしも」
+
+<A HREF="3140_2a.txt" OPERATOR="3120=1">//
+<A HREF="3158.txt" OPERATOR="">//~ 3158

@@ -1,0 +1,18 @@
+<BOX type="0">//%w
+  用过一段时间之后，我对这把USP非常满意。
+
+　与柯尔特政府型同为0.45口径，装弹数却要多出一半。
+  复列弹夹的方便之处只有用过才能体会得到。
+
+　不管怎么说，它比柯尔特政府型要轻出整整900克。
+
+　居然放过这么好的枪，莉兹还真是个顽固的女人啊。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="10_01">//
+<CALC WORKNAME="廵" OPERATOR="USP">//
+<CALC WORKNAME="廵夋憸" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="USP2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡UP">//
+<CALC WORKNAME="1406a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

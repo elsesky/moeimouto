@@ -1,0 +1,299 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　八王子市郊外，一座小小的高山连接着从遥远西方绵延过来的甲府山脉。
+  蓧仓学园的校舍就坐落在这座小山的半山腰上。
+
+　一条蜿蜒曲折的坡道直达山脚的城镇，其间足有30分钟左右的路程。由于这里原本是全宿制学校，所以交通非常不便。
+
+　据说，继续向上攀登的话，还能看到早已变成废墟、无人问津的女生宿舍。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　由于早已过了放学时间，路上见不到其他的学生。
+  因此，早苗才能毫无顾虑地发表她最为得意的热情演说。
+
+话题当然还是关于藤枝美绪的事。
+虽然这家伙的优点可谓少得可怜，但其中一个便是不会对别人的难处视而不见。
+
+　的确，以早苗这种性格，碰上美绪这样犹犹豫豫的朋友，肯定会迫不及待地帮助她吧。
+
+　不过，如果我和藤枝建立了恋爱关系……早苗就会变成彻彻底底的外人吧。
+
+　话说回来，美绪自己真的希望像今天这样主动吗？
+　考虑到她的态度……怎么想都觉得她是被早苗强迫的。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂，你在听我说吗？」
+
+<BOX type="0">//%w
+「嗯？　啊。说到美绪同学……」
+
+「……她本来应该是不想告白的吧？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好像是呢」
+
+<BOX type="0">//%w
+　早苗的脸上赫然写着“我知道哦”。
+
+<BOX type="5">//%sR
+「她一直把这件事藏在心里，非常地重视」
+
+<BOX type="0">//%w
+　有没有搞错。
+　既然知道这个，为什么还……
+
+「那你还逼她干什么？她那么做不是挺好的嘛」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你觉着那么做挺好的？」
+
+「喜欢别人不是什么羞耻的事，更不是什么可怕的事」
+
+「陷入恋爱以后，人生可是会比以前快乐几十倍哦」
+
+<BOX type="0">//%w
+「这个，因人而异吧」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「感情这种东西，必须坦率地传达给对方才行」
+
+「就算会因此受伤也没有关系。从长远看，变得坦率绝对是有益无害」
+
+<BOX type="0">//%w
+「即便被甩也没有关系么？」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这就是另外的问题了!」
+
+「我真不敢相信，面对美绪这样优秀的女孩子，你居然一点都不动心」
+
+<BOX type="0">//%w
+　看样子早苗对事情的真相还一无所知……在她不分青红皂白的持续怒斥下，我渐渐有些不耐烦了。
+
+「这跟你没关系吧」
+
+<BOX type="5">//%sR
+「没错，我就是在多管闲事，而且我还要管到底」
+
+「你们可是天造地设的一对，不能走到一起实在是太可惜了！」
+
+「多么可惜啊！在这个世界上美绪喜欢的人只有一个，那就是你」
+
+「你们之间的关系要是不保护的话，就会像朱鹮一样消失的」
+
+（注：朱鹮，体长79厘米左右，体重约1.8千克。雌雄羽色相近，体羽白色，羽基微染粉红色，是极其濒危的物种。朱鹮历来被日本皇室视为圣鸟，其拉丁学名“Nipponia Nippon”直译为“日本的日本”。但是，由于栖息地被大面积破坏，日本的朱鹮已经濒临绝灭，1985年时仅剩3只）
+
+<BOX type="0">//%w
+　这就是最麻烦的地方。
+　恋爱的话，就必须要传达感情……一旦事情败露，自己倒还好说，美绪这样的女孩子肯定是无法承受如此巨大的打击的吧。
+
+<BOX type="5">//%sR
+「……另外，我还要再管点闲事，把你的性格缺陷指出来」
+
+<BOX type="0">//%w
+　真是个精力充沛的家伙。
+  居然会为了别人的事又哭又闹，她怎么会有这么大的活力？
+  想到这里，我不禁苦笑起来。
+
+<BOX type="5">//%sR
+「就是这个！ 这个冷笑！」
+
+「就像是站在旁边笑着看戏一样……你这种事不关己的做派让我很不爽啊」
+
+<BOX type="0">//%w
+「……唉？」
+
+<BOX type="5">//%sR
+「为什么你要这样呢？」
+
+「难道你就这么成熟吗？别犯傻了」
+
+<BOX type="0">//%w
+  麻烦了。
+  自己的特别之处被她发现了。
+
+「……抱歉」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎，真是的。奇怪的家伙」
+
+<BOX type="0">//%w
+「……又怎么了？」
+
+<BOX type="5">//%sR
+「没事没事。
+既然你这么坦率，我也就不说什么了。再纠缠下去可就没完没了了」
+
+「……我真是白忙一场啊」
+
+「你和江漣真的是双胞胎吗？」
+
+<BOX type="0">//%w
+「是异卵双生子啦」
+
+（注：异卵双生子，指母体内同时成熟的两个或两个以上的卵细胞形成的双胞胎或多胞胎。异卵双生子之间在遗传上的相似度与普通的兄弟姐妹一样，只有50%）
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我一边用合理的借口敷衍过去，一边在对{ヒロイン}精妙的伪装暗叹不已。
+
+  “{姓}江漣”同美绪、早苗她们的关系一直非常亲密。
+
+　在平日的交往中，早苗她们从未有过异样的感觉……{ヒロイン}的演技实力，实在是深不可测。
+
+<CLEAR><BACKGROUND SRC="classroom2a">//# elen3^7 19 classroom2a 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="left">//# elen3^7 19 classroom2a 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一直没有成长的稚气姿容，也为她发挥演技提供了很大帮助吧。
+　从我第一次见到她到现在，她的身高连1厘米都没有增加过。
+
+　记得{ヒロイン}说过，赛斯曾将她当成实验体，在她身上使用了许多不明药物。
+
+　如果是因为那些药物的副作用导致了她的成长停滞，那这可就不是什么好事了。
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1  dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……正当我边走边考虑这些事的时候，
+  突然，一个与这里格格不入的东西映入了我的眼帘。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="僪傾僥傿傾僢僾">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在道路左侧，一辆摩托车背对我们停在那里。
+
+车手跨坐在车座上，双臂环抱在胸前，像雕像般纹丝不动。
+从体型看应该是一名女性，但由于脸部被摩托车头盔遮住，所以无法看到她的相貌。
+
+　这条坡道并不通往其他地方，甚至可以说是蓧仓学园的专用道路。通常只供学生和相关人员使用。
+　这个人可能是在等待某个放学的学生吧？
+
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不过，早苗光顾着在一旁喋喋不休，对此完全没有注意。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我们从摩托车旁边走过，在走出50米左右的时候，
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　身后突然响起猛烈的排气声。
+　刚才那名女车手发动了摩托车的引擎。
+
+　从外表看上去那只是一辆中型摩托车，没想到实际的排气量竟然如此巨大……
+
+　但是，在引擎的轰鸣声中，又响起了另一个声音。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　那是我非常熟悉、甚至可以说是过分熟悉的声音。
+  但是，那种声音绝对不应该出现在这里。
+
+　我回过头，眼角的一隅正飞舞着白色的塑料碎片。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……咦？」
+
+<BOX type="0">//%w
+　早苗也感觉自己的手提书包好像被什么东西拉了一下。
+
+　吊在书包边上的小饰品，已经消失的无影无踪。
+
+<BOX type="5">//%sR
+「……唉？不是吧，怎么掉的呢？」
+
+<BOX type="0">//%w
+　慌张的早苗没有注意到刚才的声音与饰品消失之间的因果联系。
+
+　没有注意是当然的，因为这是她从来没有听到过的声音。
+　隐藏在摩托车引擎轰鸣声中的，是9mm帕拉贝鲁姆弹……
+
+<CLEAR><BACKGROUND SRC="3100p1">//# dummy 20 3100p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，女车手摘下了摩托车头盔。
+
+<CLEAR><BACKGROUND SRC="1100p1">//#! 1100p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　扎成马尾的金发，比两年前长了不少。
+　
+　翡翠色的眼睛，则散发着和过去一样的光芒。
+
+<CLEAR><BACKGROUND SRC="1160p1">//#! 1160p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="3100p1">//#! dummy 20 3100p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　记忆中的那双眼睛，应该是更加温柔、更加开朗的。
+
+　而面前的眼睛则充满了冷冷的嘲讽，正用仿佛要刺穿人心的锐利目光盯着我们……与过去既相似，又有着天壤之别。
+
+　但是，最令我难以置信的是，与那张脸有关的记忆，明明应该属于一位死者。
+
+<se id="1" src="僪僇憱傝嫀傞" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="schoolway1">//# schoolway1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那名女车手将头盔挂在手腕上，扭动离合器发动了摩托车。
+
+　摩托车开始加速，从伫立不动的两人身边驶过。
+
+<CLEAR><BACKGROUND SRC="3100p2">//# 3100p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在擦身而过的一瞬间，那翡翠色的双瞳再次向我瞥了一眼。
+<se id="2" src="僪僇捠傝偡偓傞" mode="normal" loop="off">
+
+　她的目光中燃烧着憎恶，充满了冻结般的杀气。
+
+　为什么，会是那样的目光？
+　为什么，会在这里？
+
+　不，比起这些……真的，是你吗？
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　你还活着吗？
+　凯尔……
+
+<A HREF="3140.txt" OPERATOR="">//~ 3140

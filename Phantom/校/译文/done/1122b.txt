@@ -1,0 +1,27 @@
+「抱歉啊，你能一个人去吗？」
+
+　现在的我心情非常郁闷，实在是没有陪凯尔的心思。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……累了吗？」
+
+<BOX type="0">//%w
+「算是吧」
+
+<BUSTUP NAME="cyall3" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那就没办法了。那，好好休息吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我应该是破坏了她的心情吧。
+  可是，凯尔并没有表现出失落的样子，只是轻轻地走出了房间。
+
+　孤独和寂静终于到来了。
+　我做了一个深呼吸，开始考虑派给我的新的任务。
+
+<A HREF="1125.txt" OPERATOR="">//~ 1125

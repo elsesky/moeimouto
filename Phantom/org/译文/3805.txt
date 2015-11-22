@@ -1,0 +1,383 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right Inchurch6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="Inchurch6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　今天一天，礼拜堂静寂倍增……简直就像脱离了这个世界。
+
+　平时的话，距离此处不远的校舍的热闹气息可能早已随风传来……
+
+　但今天是考试前的星期日。
+  学园里根本没有人。
+
+　即使是学校操场和体育馆里那些连星期日也要进行的社团活动也都停止了。
+
+　解放了美绪以后……{ヒロイン}便来到这里，静静地等待着。
+
+<CLEAR><BACKGROUND SRC="Inchurch4">//# elen7^3 20 Inchurch4 1
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20 Inchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+这个静寂的空间总是能为她的内心带来安慰。
+寂寞和不安都会在心灵的洗礼中消失的无影无踪。
+
+所以，在决斗的时刻到来之前，{ヒロイン}希望再沉浸在这片空气中，再多享受片刻的宁静。
+
+　透过彩绘玻璃射进来的阳光缓慢地在地面上流动着、延伸着……不知不觉间，阳光已经带有了斜阳的朱红色，将长长的座椅一分为二。
+
+　凯尔马上就要来了。
+　最后进行一次祈祷吧。
+　{ヒロイン}来到祭坛前，毕恭毕敬地跪了下去。
+
+<CLEAR><BACKGROUND SRC="3010p2">//# 3010p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+　主啊……请宽恕我吧。
+
+　我欺骗了一个重要的人。
+
+　我的心中充满了憎恨。
+
+如今，我还要拒绝您的爱，背离您的指引……亲手展开杀戮。
+
+　请您保护我坠入奈落地狱的灵魂不被撒旦控制。
+
+　希望您能将从现在开始踏上旅程的所有灵魂都招到您的身边。
+
+　希望您在某一天能将留在这里的所有人都引至乐土。
+
+　如果这些人的罪过会妨碍您的爱。
+
+　请让我一个人承担所有的惩罚。
+
+　我将历经七层地狱以赎罪，直至坠入永劫。
+
+　至此，我已再无恐惧……
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="僪僇媫尭懍掆巭" mode="normal" time="" loop="off" effect="">//!se accel
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　凯尔在蓧仓学院的校门前停下了摩托车。
+
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="" mode="fadeout" time="20">
+<BOX type="2">//%w
+　自己憎恨抛弃了自己的{名}吗？
+　自己憎恨夺走了{名}的Ein吗？
+
+　一切都已经无所谓了。
+
+　想起来，昨夜对美绪说的话也就是对自己说的话。
+
+　{名}和Ein……
+　他们二人走到哪里都不会得到安宁，他们走到天涯海角都逃不开追杀。
+
+　在这个宛如乐园般的国家，任何人都应该得到幸福。
+  唯独除了这两个过客。
+
+即使自己不出手，他们也会被其他人杀死。
+尽管自己恨得想要杀死他们，但即使对他们置之不理也能达到目的。
+
+　有必要亲自杀死他们吗？
+  有必要背负如此可怕的憎恨吗？
+
+　既然能向美绪道出仇恨是空虚的这样的说辞，为什么自己就不能接受呢？
+
+那是因为……自己是孤独的一个人。
+如果原谅他们的话，此前的一切就将统统化为虚无。
+
+　2年以来，自己在追求什么、渴望什么、思念什么，到底是因何而哭泣？
+  没有一个人知道。
+
+　随着时间的流逝，自己此前所度过的时间也许不会留在任何人的记忆之中，自己一切都会被人遗忘。
+
+　独自一人生活着的自己就像从来没有存在过一样。
+
+　到今天为止的泪水、痛苦……一切都会化为虚无。
+
+　唯独这一点自己无法忍受，也无法原谅。
+  这实在是……太不公平了。
+
+　如何才能让别人铭记自己的存在呢。
+
+　自己只知道如何令对方感到憎恨、受伤和恐惧。
+
+　可是，自己一直都是这样活过来的。
+
+　即将面临的决斗……胜负已经无所谓了。
+
+　只要轰轰烈烈的大战一场，让{ヒロイン}感到恐惧、让{名}感到悲伤，便足够了。
+
+　活下来的人绝对无法忘记今天的自己，他们会永远遭受憎恨和恐惧的折磨。
+
+　自己所期望的，仅此而已。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　到时间了。
+
+　凯尔最后一次望向后视镜，观察着自己。
+
+　镜中的少女面容绝美。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“混蛋……”
+
+<BOX type="2">//%w
+　凯尔冲着自己骂了起来。
+
+<BOX type="5">//%sR
+“这算什么？你可是Phantom啊，要摆出一副死神的脸孔……”
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔找出记忆中所有凶恶的元素，将它们全部表现在脸上，然后走进了礼拜堂。
+
+<bgm src="" mode="fadeout" time="30" loop="on">//> right 3805p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="3805p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+
+//> right 3805p1 wide 255
+<se id="1" src="楃攓摪奐偗傞" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BACKGROUND SRC="3805p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="僪儔僀曕偒3" mode="normal" loop="off">
+
+//> right INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看来你没有找错地方」
+
+<BUSTUP NAME="drei3" face="2" MODE="on" zoom="" ALIGN="left">//# drei3^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei3^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「抱歉让你久等了啊」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　两人在祭坛前对峙起来。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="left">//# drei3^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们不需要商定规则了吧」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen7^2 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「是的」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei3^2 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei3" face="2" MODE="on" zoom="" ALIGN="left">//# drei3^2 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「不过，就这样没头没脑地开始也太没劲了」
+
+<BOX type="3">//%m
+　说着，凯尔从怀中掏出怀表，放在祭坛的正中央。
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+她用指尖弹开表盖，
+八音盒纤细的曲调，在厚重的沉默中轻声回响起来。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei3^3 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="left">//# drei3^3 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「曲子结束，我们就开始」
+
+「在此之前你就尽情祈祷吧」
+
+<CLEAR><BACKGROUND SRC="Inchurch1">//# Inchurch1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　凯尔向后退去，远离祭坛，{ヒロイン}也同样向后退去。
+
+　凯尔退到了神父室前，{ヒロイン}则退到了圣歌队席旁。
+
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　轻美温柔的旋律充满了这个昏暗的世界……宛如往昔赞美歌的余韵。
+
+　这首凯尔听过无数遍的无名乐曲已经深深印在了她的脑海中。
+
+　但听过这首曲子还能活下来的人，只有将这块怀表送给她的那名男子。
+
+　可是……
+
+<BOX type="5">//%sR
+「到我这里来吧……主正在温柔地召唤」
+
+「为什么要避开爱的光芒独自徘徊」
+
+<CLEAR><BACKGROUND SRC="Inchurch4">//# drei3^4 19 dummy 20 Inchurch4 1
+<BUSTUP NAME="drei3" face="4" MODE="on" zoom="" ALIGN="left">//# drei3^4 19 dummy 20 Inchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+“……？”
+
+<BOX type="3">//%m
+　伴着轻柔的曲调，{ヒロイン}开始低声歌唱，而凯尔则皱起了眉头。
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen7^5 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「主正在召唤……回来吧……回到我的家中来吧……」
+
+<BOX type="2">//%w
+歌唱着的{ヒロイン}自然没有注意到凯尔的困惑。
+她只不过是听到熟悉的旋律，不知不觉地唱出歌词而已。
+
+<BOX type="5">//%sR
+「疲惫的旅人啊，卸下身上的重负吧」
+
+「在吾主之爱下休息吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+赞美歌第517节……
+『Jesus.Is.Calling』
+凯尔完全不知道这是赞美主之慈爱的曲子。
+
+<CLEAR><BACKGROUND SRC="INchurch7">//# INchurch7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「主正在召唤……回来吧……回到我的家中来吧……」
+
+「主正在等待迷途羔羊的归来」
+
+「带着罪行跪拜吧」
+
+<BOX type="2">//%w
+　八音盒演奏着高扬、轻声而又严肃的旋律，宛如秘密宇宙的心跳……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei3^4 19 INchurch4 1
+<BUSTUP NAME="drei3" face="4" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei3^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+<bgm src="calling" mode="fadeout" old="" time="70" loop="on">//$ calling.swa 255 50
+　节奏逐渐变得缓慢下来。
+  曲子……就要结束了。
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# dummy 19 elen7^5 20 INchurch8 1
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# dummy 19 elen7^5 20 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「主正在召唤……回来吧……回到我的家中来吧……」
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# INchurch1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　接着……世界安静了下来。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<WIPE EFFECT="fade" TIME="20">
+<CLEAR><BACKGROUND SRC="INchurch4">//#! INchurch4 1 drei3^3 19
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei3^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch8">//#! INchurch8 1 elen5^4 20 dummy 19
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="0">
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+　可是……
+　抢在Vz61的咆哮之前、抢在AUG的怒吼之前……
+
+　伴随着一声枪响，祭坛中央的怀表被打成了碎片。
+
+//> left INchurch1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　交叉对峙着的枪口，同时转向这里。
+
+　赶上了……
+
+　可是，没等我放下心来，两个人马上再次行动起来。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　凯尔重新架好了AUG，{ヒロイン}的身体也跳跃起来。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　凯尔打出的5.56mm的高速子弹了撕裂黑暗，{ヒロイン}则迅速跳进侧廊里，躲在柱子后面。
+
+　志在必得的第一枪没有命中{ヒロイン}，凯尔也毫不犹豫地跳进了身后的侧廊。
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　紧接着，{ヒロイン}手中的枪也捕捉到了凯尔的身体。
+
+<se id="3" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　隔着信徒席，身处左右侧廊的两人开始了自动武器的对射。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　死亡旋风在彩绘玻璃的光芒中疯狂地飞舞着。
+
+　终于开始了……
+
+　在凶猛咆哮的枪声前，言语根本毫无意义。
+  要阻止她们只能采取一种手段。
+
+　枪的重量沉甸甸地压在满是汗水的手掌中。
+
+<A HREF="3810.txt" OPERATOR="3800=1">//~ 3810
+<A HREF="3720.txt" OPERATOR="">//~ 3720

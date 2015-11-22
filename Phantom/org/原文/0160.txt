@@ -1,0 +1,385 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+//> dream white dream 0
+<clear>
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　どうやら、
+　完全に道に迷ったらしい。
+
+//> left street2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BACKGROUND SRC="street2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　アメリカに着いた早々、この有様か……
+　我ながら呆れたもんだ。
+　ホテルまでの道筋もわからないなんて。
+
+　どうやら、観光用の地図には載ってない区画まで来てしまったらしい。
+
+　辺りは廃屋ばかり。人通りはないに等しい。
+　たまに見かけるのはラテン系や黒人の、
+　いかにも浮浪者といった風体の連中ばかり。
+
+　だが日本で見かける浮浪者とは、どこかしら違う。
+
+　そう……多分、目つきだ。
+
+　まるで鋭い牙のような、暗く底光りする視線。
+　見つめられているだけで、噛みつかれているような気がしてくる。
+
+　どう考えても……ヤバイ、よなぁ。
+
+　ここがどこかは分からないが、
+　観光客が一人で歩けるような場所じゃないのは、間違いない。
+
+　早く交番か何かを見つけて、道を聞かなきゃ。
+　だが、その肝心の交番はどこにあるんだろう？
+
+　思い切って、誰かに道を訊こうか？
+　憶えている限りの英単語を繋げて、訊き方を考えてみる。
+　でも……通用するだろうか？
+
+　いや、それ以前に……
+　彼らに、迂闊に声をかけていいんだろうか？
+
+<BOX type="5">//%sR
+「……キミ、チョット、
+　イイデスカ……」
+
+<BOX type="0">//%w
+　日本語だ。たどたどしいが、それでも充分に懐かしい響き。
+　振り向くと、声の主はすぐ背後にいた。
+
+<CLEAR><BACKGROUND SRC="0160x1">//# 0160x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　白人だが、どこか様子が変だ。
+　薄汚れた風袋といい、落ち着きのない素振りといい、
+　辺りの浮浪者よりもよほど胡散臭い。
+
+<BOX type="5">//%sR
+「キミ、日本人デスカ？
+　旅行者デスカ？
+　アァ良カッタ。話、アリマス」
+
+<BOX type="0">//%w
+　まくしたてながら、男に腕を掴まれて、
+　有無を言わさず傍らの路地へと連れ込まれる。
+
+<CLEAR><BACKGROUND SRC="street3">//# street3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　逃げるべきだ……当然、そう思ったし、警戒心も恐怖心もあった。
+
+　なのに男の手を振り払えなかったのは、
+　彼の握力もさることながら、その切羽詰まった様子が気になったからだ。
+　むしろ、なぜか彼の方が怯え、救いを求めているように見える。
+
+　だがそれでも、路地の奥まで入り込むことは拒んで、
+　通りから隠れる程度の戸羽口で踏みとどまった。
+
+　こんな、日の光さえ射し込まない路地の奥に入っていったら、
+　何があるやら知れたもんじゃない。
+
+<CLEAR><BACKGROUND SRC="0160x1">//# 0160x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「オ願イガアリマス、
+　トテモ大事ナコトデス」
+
+「ワタシ、CNNノ記者。
+　日本モ行ッタコトアリマス」
+
+「ワタシ、今、追ワレテマス。
+　トテモ危ナイ。
+　モゥ、キット逃ゲキレナイ……」
+
+<BOX type="0">//%w
+　逃げる？
+　追われてる？
+　危ない……？
+
+　まったく要領を得ない話だが、
+　ともかく不穏な事柄だというのは察しがついた。
+　この男は、何かとんでもない厄介事を持ちかけてきているらしい。
+
+<BOX type="5">//%sR
+「ワタシ、モウ駄目。
+　ダカラ、キミ、
+　コレヲ警察二……」
+
+<BOX type="0">//%w
+　そう言って男は、
+　無理矢理、小さく平たい油紙の包みを懐にねじ込んできた。
+
+「ちょ、ちょっと……」
+
+<CLEAR><BACKGROUND SRC="street3">//# street3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……アトハ、オ願イシマス」
+
+<se id="1" src="玲二走り1" mode="normal" time="" loop="off" effect="">//
+<BOX type="0">//%w
+　そして男は、
+　返事を待たず、背を向けて路地から通りへと駆け戻っていく。
+
+「おい！　ちょっと待って」
+
+　慌てて後を追おうとしたその時、
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　通りに飛び出した男が、何かに躓いたようにして転ぶのが見えた。
+
+　どこか打ったんだろうか。男は、路上に俯せに伸びたきり動かない。
+
+<CLEAR><BACKGROUND SRC="street2a">//# street2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……おい？」
+
+　駆け寄って、助け起こそうとした時に、気がついた。
+
+　コートの背中に、いつの間にか、鉤裂きのような穴が空いている。
+
+　その穴の縁に、ぽっと火が灯るようにして、真っ赤な色が滲み出た。
+
+「……」
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　相手の肩にかけた手から力が抜けて、
+　男の上体を再び路面に転がしてしまう。
+
+　男の背中の赤い染みは、じりじりと輪郭を拡げていく。
+
+　まるでバラの蕾から花弁が広がっていく様を、
+　スローシャッターで見ているようだった。
+
+　つん、と、鉄の匂いが鼻をついた。
+
+　血の匂い。
+　死の匂い。
+　この男は……死んでいる？
+
+<se id="1" src="玲二走り4" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="street3">//# street3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ともかく、男の死体があるのとは逆方向に、全力疾走する……
+　それ以外、何も考えつかなかった。
+
+　薄暗く見通しの利かない、裏路地のさらに奥の方へと……。
+
+<CLEAR><BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　狭い路地は50メートルほどで突き当たり、左右へT字に分かれていた。
+
+　立ち止まり、左右どちらか選ぶ前に……
+　振り向いて、後ろを確かめた。
+
+<CLEAR><BACKGROUND SRC="アイン追跡_1">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　幻のように、陽炎のように、その少女は立っていた。
+
+　路地の入り口に転がっている男の死体の傍らに、
+　まるで死者の魂を召し取りに降り立った天使のように。
+
+<CLEAR><BACKGROUND SRC="アイン追跡_2">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+　右手に携えた黒金の輝きは、あくまで冷たく禍々しく、
+　そしてなおいっそう冷たい輝きを、ふたつの黒い瞳に宿し……
+
+　彼女が天使なら、あるいは死神の使いなら、
+　用があるのは足元の死人だけの筈なのに……
+
+　なのに少女は、こちらを見ていた。
+
+　生きて、すべてを見届けてしまった、不運な通行人の方を。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="アイン追跡_3">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+　差し招くように、彼女の右手が持ち上がるのが見えたとき、
+　もう何も考えずに、右の路地へと駆け込んだ。
+
+//> left street2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　日が沈み、夜になった。
+
+　地図を見ても、今いる場所はわからない。
+
+　あの男は誰だったのか。
+　あの女の子が持ってたのは拳銃か。
+
+　追われている、逃げきれない、
+　そう言い残して死んだ男。
+　彼を撃ったのは、あの少女なのか？
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　日が昇り、朝が来た。
+
+　あの女の子は追ってくる。
+
+　誰かが、追ってくる。
+　足音が聞こえた。影が見えた。
+
+<CLEAR><BACKGROUND SRC="pict2">//# pict2 1
+<WIPE EFFECT="fade" TIME="10">
+　あの女の子を思い出す。
+　黒く、冷たい銃口と、
+　もっと冷たい、黒い瞳。
+
+<CLEAR><BACKGROUND SRC="pict3">//# pict3 1
+<WIPE EFFECT="fade" TIME="10">
+　せっかくプレゼントしてもらった
+　ロス旅行なのに……
+　こんな合格祝いなんて、
+　なしだよな。
+
+<CLEAR><BACKGROUND SRC="pict4">//# pict4 1
+<WIPE EFFECT="fade" TIME="10">
+　ここで死ぬのかな？
+　あの子に殺されるのかな？
+　せっかく受かった学校、
+　まだ一度も行ってないってのに。
+
+　なんでこんな目に
+　遭わなきゃならないんだ？
+
+//> left street4 center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　また日が沈み、夜が来た。
+
+　この廃屋に、
+　もう何日も隠れてる気がする。
+
+　喉が乾いた。お腹が空いた。
+　食べ残した機内食が、
+　何度も夢の中に出てきた。
+
+//> left MO wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="MO">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+　いつの間にか、夜が明けていた。
+
+　このMOディスクは何だろう？
+　何でこんなものがポケットに？
+
+　ああそうだ、思い出した。
+　あの男から受け取ったとき、
+　これはまだ油紙に包まれていた。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　いつから、
+　また夜になったんだろう？
+
+　まだ生きてるのか？
+　もう死んでるのか？
+
+　ひょっとして
+　夢の中にいるんじゃないか？
+
+　もう、どうだっていい。
+　帰りたい……日本に……
+
+//> left room0e2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0e2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「ツヴァイ」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+「ツヴァイ、起きて」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　瞼を上げると、朝の光の中に、アインが立っていた。
+
+　時計を見ると、時刻は午前６時過ぎ。
+
+<BOX type="5">//%sR
+「出かけるわよ。用意して」
+
+<BOX type="0">//%w
+「……？」
+
+<BOX type="5">//%sR
+「急な任務よ。
+　今夜決行だから、
+　今のうちに下見に行かないと」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　眠気の醒めやらぬ頭の中を、アインの言葉が素通りしていく。
+
+　夢を見ていた。
+　それも、辛い夢だった。
+　そこまでは、わかるのだが……
+
+　一体、どういう夢だった？
+　何で辛いと思ったんだ？
+
+　……駄目だ。思い出せない。
+
+<A HREF="0170.txt" OPERATOR="0120b=1">//~ 0170
+<A HREF="0175.txt" OPERATOR="">//~ 0175

@@ -1,0 +1,263 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="2000">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　浴びせられる視線は、侮りつつも訝しむような、
+　一種の困惑の眼差しだった。
+
+　彼らにしてみれば、クロウディアの若さよりもなお、
+　その護衛の幼い容姿が驚きだったかもしれない。
+
+　誰と目を合わさず、かつ全員に神経を配りながら、
+　今はクロウディアの背後で不動の立像を演じ続けるのが仕事である。
+
+　広域暴力団、梧桐組……
+
+　居並ぶ3人の男たちは、常日頃から身に纏っている威圧の雰囲気が、
+　もう身に染み付いてしまっている。
+
+　一目で堅気の人間ではないと知れるいかつい風貌に、
+　今はさらに剣呑な表情を乗せているが……無理もない。
+
+　ホームグラウンドを遠く離れた異国の地で、
+　いきなり4人の仲間を失ったのが、3日前。
+
+　だが彼らは、自ら報復に乗り出すことも出来ず、
+　ただホテルの部屋で燻っているしかない。
+　殺気立つのも当然だ。
+
+　久々に会う同郷の人間には、
+　懐かしさを感じてもいいところだろうが、
+　同郷という共感はまるで感じない。
+
+　ヤクザの一種独特の、垢抜けない服装に、
+　ただ違和感を感じるだけだった。
+
+　考えてみれば、当然だ。
+　まだ日本人でいたころは、
+　彼らのような裏の世界の人間とは、付き合いがなかった。
+　同じ日本という国土の、違う側面の世界で生きていたのだから。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「で、結局、
+　万事が藪の中ってわけか？」
+
+<BOX type="0">//%w
+　クロウディアの説明を聞き終えて、
+　白スーツの大男が、横柄に鼻を鳴らす。
+
+　梧桐、大輔……
+　クロウディアが、手を尽くしてインフェルノに加えようとしている、
+　広域暴力団の若頭。
+　あとの二人は、その舎弟格らしい。
+
+<BOX type="5">//%sR
+「せめて目星ぐらいは
+　つけられねぇのか？
+　あんたらの街だろ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「目下、インフェルノが総力を
+　挙げて下手人を追っています。
+　燻り出すのも時間の問題です」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一体、そちらの保安体勢は
+　どうなっている？」
+
+<BOX type="0">//%w
+　そう詰問するのは、二人の舎弟のうち格上と見えた一人……
+　ヤクザらしからぬ怜悧な雰囲気の、若い男だ。
+
+<BOX type="5">//%sR
+「どう考えても計画的な襲撃だ。
+情報が漏れたとしか考えられない」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我々も面子がかかっています。
+事の究明には総力を動員して当たりますので、どうか信じて頂きたい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「亡くなった4人の方々には、
+　改めてお悔やみ申し上げます」
+
+「が、これで全てが水泡に
+　帰してしまっては、あまりに
+　失ったものばかりが多すぎる」
+
+「そうは思いませんか？」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当たり前だ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ですから、今回の取り引きは、
+　消えた500万が戻った後で、
+　改めて仕切り直したいのです」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要するに、解決がつくまで
+　ロスに留まれ、と？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「もちろん、来賓として扱わせて
+いただきます。より快適な滞在を
+保証いたしますわ」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「たしかにこの部屋、
+　前の宿よりゃ格段にいいな」
+
+「どうする志賀、
+　休暇、延長すっか？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「親父さんには、
+　そうお伝えしてよろしいので？」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ。
+　水当たりだとでも言っときな」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「頼むぜ、クロウディアさんよ。
+こちとら、そうそう長く遊んでられるほど、暇な身分じゃないんでな」
+
+//> left 0130x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0130x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="F40加速3" mode="normal" time="" loop="off" effect="">//!se F40run
+　訪問を終えて帰途につくF40の車内では、
+　さっきまでヤクザ達に見せていたクロウディアの愛想笑いは、
+　跡形もなく消えていた。
+
+<CLEAR><BACKGROUND SRC="1120p1">//# 1120p1 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="F40走行80室内" mode="normal" loop="off">
+<se id="1" src="" mode="fadeout" time="40">
+<BOX type="4">//%sL
+「{名}、
+　今日から当面、
+　わたしの護衛はいいわ」
+
+「あなたはしばらく、
+　独自に動いて」
+
+「ヤクザたちを
+　見張ってちょうだい」
+
+<BOX type="0">//%w
+「……あいつらを？」
+
+　てっきり、アイザックの探索を手伝えと言われるのかと思っていたが。
+
+<CLEAR><BACKGROUND SRC="1120p2">//# 1120p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「これで、終わりとは思えない」
+
+「わたしが梧桐をインフェルノに
+　加えようとする限り、
+　妨害は続くと見ていいわ」
+
+<BOX type="0">//%w
+　すぐには、クロウディアの言葉の意味を計りかねた。
+
+「それとこれとが、一体、どういう関係があるんだ？」
+
+<BOX type="4">//%sL
+「繰り返すようだけど、今回の件、
+　情報が漏れるはずはなかったの」
+
+「内部の人間の仕業……
+　そう考えるのが、
+　一番妥当なのよ」
+
+<BOX type="0">//%w
+　クロウディアの冷たい語調が、氷のように背筋を撫でる。
+
+　まさか……
+
+「……ワイズメルを疑ってるのか？」
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「有り得ない話じゃないわ」
+
+「ワイズメルは、ヤクザのインフェルノ加盟を快く思ってない。
+私とヤクザの仲を警戒してるのよ」
+
+<BOX type="0">//%w
+　当然だろう。そして、そういう抵抗こそ、
+　リズィ共々、秘かに危惧していたことなのだ。
+
+「だからって……ここまでやるか？」
+
+<BOX type="4">//%sL
+「力でLAを手に入れた男だもの。
+　元々は武闘派よ」
+
+<BOX type="0">//%w
+　たしかにワイズメルであれば、
+　サウスセントラルでのあの取り引きを襲うのは造作もない。
+　なにせ自分の膝元である。
+
+<A HREF="1122.txt" OPERATOR="1100=1">//~ 1122
+<A HREF="1120a.txt" OPERATOR="">//~ 1120a

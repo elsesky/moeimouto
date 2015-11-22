@@ -1,0 +1,27 @@
+<BOX type="0">//%w
+首先要考虑的，是携带的问题……由于体育课要换衣服，所以枪套肯定是不能带的。
+  
+为了不暴露，只能把枪别在腰带上了。这样的话，选择轻一点的枪才是上策。
+
+　这样想着，我拿起了拥有聚合物框架的USP。
+
+　虽然这把枪并不十分小巧。
+  不过，让我下定决心的，是0.45ACP弹强大的阻滞力。
+
+（注：阻滞力，又名“立即丧失行动能力”，即immediate-incapacitation，俗称stopping-power。阻滞力是衡量子弹对人体杀伤力的一种标准。stopping-power越大，击倒人体的力量就越大）
+
+　大口径且低初速……0.45ACP弹会在最初命中的目标上释放出全部的动能。
+
+　子弹即使贯穿目标，其势头也已是强弩之末，因而不必担心会伤及无辜。
+
+　可是……
+　认为在人群中进行枪战是理所当然的……这样的自己，让我产生了厌恶的感觉。
+
+　万一自己不得不在公共场合拔枪……到那时，早苗和美绪会怎么想呢。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="10_01">//
+<CALC WORKNAME="廵" OPERATOR="USP">//
+<CALC WORKNAME="廵夋憸" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="USP2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡UP2">//
+<A HREF="3170.txt" OPERATOR="">//~ 3170

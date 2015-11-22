@@ -1,0 +1,464 @@
+
+<se id="2" src="暷崙岎嵎揰拫" mode="normal" loop="off">
+
+　我知道自己的决定十分鲁莽。
+
+　对于这种跑车，特别是法拉利而言，
+  据说，即使是专业司机也不敢说有十足的把握。
+
+　不过……
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我又看了一眼华丽的车身曲线。
+
+　好美……
+  而且不仅如此，越看越能感觉到其中所隐藏的那股力量。
+  与众不同的品位，像信息素一样传递了过来。
+
+　这种不可思议的兴奋感是什么呢。
+  我被这辆车……迷住了吗？
+
+　欲望……被这样称呼的那份冲动，自己已经很久没有过了。
+　这是在作为杀手备受压抑的生活中，
+  几乎没有过的感情。
+
+　所以，我不想放手。
+　我希望自己能牢牢抓住这份感情。
+
+　鲁莽也好，愚蠢也罢，
+ 现在自己的内心深处在确确实实地呼喊着、渴求着。
+　……我想拥有这辆车。
+
+<se id="2" src="" mode="fadeout" time="40">
+<CLEAR><BACKGROUND SRC="0130p2">//# 0130p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「那我的车怎么办？」
+
+<BOX type="5">//%sR
+「停在这里就好。
+  之后再回来取就行了」
+
+//傕偊傜俽俤捛壛
+<se id="1" src="F40尞傪搉偡" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　克劳蒂娅把钥匙扔给了我。
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+
+
+//傕偊傜俽俤捛壛
+<se id="1" src="F40僪傾奐偗傞" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　我装成十分平静的样子，接过了钥匙。
+  打开车门，弯腰钻入低矮的车内。
+
+
+<se id="2" src="F40僔乕僩偵嵗傞" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="F40僪傾暵傔傞" mode="normal" loop="off">
+<BOX type="0">//%w
+　虽然从外观上已经有所察觉，
+  不过如此低矮的座位还是令我无话可说。
+  这种感觉，与直接坐在地面上没什么区别。
+
+　背部装饰则与我的预想完全相反，非常的简单。
+　连调节座椅的功能都没有，
+　自己就像是坐进了摇晃着的戽斗里。
+  （注：戽斗，一种取水灌田用的旧式农具。用竹篾、藤条等编成。略似斗，两边有绳，使用时两人对站，拉绳汲水）
+
+　仪表盘的设计也十分朴素。
+　……只有显示最高时速为360公里的标识放射着异彩。
+
+　我小心翼翼地、就像开启炸弹的起爆开关一样地、
+//<se id="1" src="F40cell" mode="normal" time="" loop="off" effect="">//!se F40cell
+<se id="1" src="F40僄儞僕儞僗僞乕僩" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　拧下了钥匙。
+
+<se id="2" src="F40幒撪傾僀僪儕儞僌" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　轰隆！　仿佛连下腹部都跟着震动，
+  混杂的轰鸣声中，座椅后面的引擎开始猛烈地颤动起来。
+
+//<se id="1" src="F40idol" mode="normal" time="" loop="off" effect="">//!se F40idol
+　我的腰不由自主地浮了起来。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「不要害怕。
+　发动机还在空转哦」
+
+<BOX type="0">//%w
+  很明显，克劳蒂娅对于观看我这个外行人面对这台怪物机器时惊慌失措的反应非常的享受。这让我有点生气。
+
+　话说回来……478马力的话。
+　大概等同于6台高尔夫吧。
+
+//<se id="2" src="" mode="fadeout" time="30">
+
+　只是想想自己就浑身发冷，
+  但即便如此，我还是不想被坐在旁边的克劳蒂娅小看。
+
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="3" src="F40僋儔僢僠僄儞僗僩" mode="normal" time="" loop="off" effect="">//!se 0
+
+　下定决心之后，我挂上一档。
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="" mode="fadeout" time="10">
+　我刚松开离合器，
+  车身便猛烈地震动了一下，随即发动机的轰鸣声就消失了。
+
+「……啊？」
+
+<CLEAR><BACKGROUND SRC="0140p2">//# 0140p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「不行哦，速度要再快些才行」
+
+<BOX type="0">//%w
+　混杂着笑声的克劳蒂娅的忠告。
+
+「请先教教我吧」
+
+　虽然这么嘴上这么说，自己心里却是一个劲的摇头。
+
+　从引擎的马力为出发点的话，
+  像这样小心地使用加速踏板比较妥当。
+  这么想的话，这辆车有超乎想象的动力吧？
+
+<se id="1" src="F40僄儞僕儞僗僞乕僩" mode="normal" time="" loop="off" effect="">//!se F40cell
+
+　不管怎么说，再次发动引擎吧。
+
+　第二次发车时我选择长踩离合器，但又不完全踩到底。
+　这回驱动装置没有再断开。
+
+
+
+　法拉利缓缓驶向汽车餐厅的出口，
+  行动明显有些笨重。
+　
+　这真的是法拉利吗？
+
+<se id="1" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="F40僋儖乕僕儞僌" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+<wait time="900">
+<bgm src="l_speed" mode="fadein" old="fadeout" time="10" loop="on">//$ speed.swa 0 255
+<BACKGROUND SRC="0140x1">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="F40壛懍4" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+<wait time="200">
+<BOX type="0">//%w
+　驶上高速公路后，我略微大胆地踩下加速踏板。
+
+//<se id="1" src="F40go2" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+　加速果然有点迟缓。
+　虽然有如此庞大的车身，
+  马力却好像都不如那辆我开惯了的高尔夫。
+
+　为什么？　动力会这么贫弱……
+
+「真是想不到……这不是很容易驾驶嘛」
+
+<BOX type="5">//%sR
+「是么？」
+
+<BOX type="0">//%w
+　发动机转速快到3000转时，我将档位推至4档。
+
+　乘车之前的紧张与期望，被期待破灭后的安心和沮丧所取代。
+
+　结果，这辆法拉利也不过是虚有其表，只是件高贵的商品罢了。
+　这样的话，即使是克劳蒂亚可以用女子纤细的手臂驾驭它吧。
+
+　现在唯一的疑问……
+　最初被超越时见到的那个惊人的速度。
+  究竟，是谁做的呢？
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40僋儖乕僕儞僌" mode="normal" time="" loop="off" effect="">//!se F40go2
+
+<CLEAR><BACKGROUND SRC="0140x2">//# 0140x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「开到前面的直线时，
+  再稍稍加点速吧」
+
+<BOX type="0">//%w
+平静之下似乎隐藏着什么……带着这样的表情，克劳蒂娅对我说道。
+
+<BOX type="5">//%sR
+「这辆车的涡轮只有在超过4000转之后才开始展现威力」
+
+<BOX type="0">//%w
+　原来如此，是这样的吗。
+
+　自己曾经听说过，
+  这种跑车为了将速度放在第一位，
+  在低转速的时候是无法完全发挥其性能的。
+
+<CLEAR><BACKGROUND SRC="0140x7">//# 0140x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　越过平缓的堤岸后，
+  我们驶向那条临着太平洋与日落海滩的长长的直线。
+
+　在这里，试着确认这辆车的真面目吧。
+
+<se id="1" src="F40僔僼僩僟僂儞壛懍" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140x1">//# 0140x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我档位推回三档后，
+  再次踩下加速踏板。
+
+　转速表上的数值突破3000转，
+  并且迅速向4000转逼近。
+
+//<se id="2" src="F40憱峴幒撪壒1" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="0140x3">//# 0140x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「预先给你一个忠告」
+
+「无论发生什么，
+  都不要把脚离开加速踏板。
+  这可是关乎性命的哦」
+
+<BOX type="0">//%w
+　什么？
+
+<se id="2" src="" mode="fadeout" time="30">
+
+　正当我打算询问这句话的意思而将身体朝向克劳蒂亚的时候，
+  眼角的余光注意到转速表上的指针已经指向了4500转。
+
+<se id="1" src="F40僞乕儃巒摦" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BOX type="0">//%w
+　突然之间，涡轮增压机咆哮起来。
+　尖厉刺耳的金属轰鸣声盖过了引擎粗重的隆隆声，
+  听上去就像是谁在大声尖叫一样。
+
+<se id="2" src="F40壛懍2" mode="normal" time="" loop="off" effect="">//!se F40go1
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+　这种冲击力……不是简单的加速感。
+　简直就像座椅靠背的后面被沙袋猛击一样。
+
+<se id="3" src="F40憱峴250" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+　由于我正好在向克劳蒂亚那边扭头，来不及向头部用力，
+  结果后脑被弹回来的头枕重重地击打了一下，
+  自己没有因此失去知觉，真是个奇迹。
+
+　如同遭遇暴风的沙绘一般，
+  从视野两侧看到的高速公路上的景色因向后狂奔而变得模糊不清。
+  自己简直就像坐在了子弹上面。
+  
+（注：沙绘，江户时代的街头艺人往地面上一点一点撒下五色沙子而画成的画）
+
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……!!」
+
+<se id="2" src="" mode="fadeout" time="20">
+　现在可不是吃惊的场合。
+  背部传来的漂浮感让我冷汗横流，
+  同时，车身也开始左右摇晃起来。
+
+
+　后轮正在失去抓地力……
+　这是当然的吧。像这样急剧地加速，轮胎的摩擦力肯定不够用。
+
+  我已经没有活着的感觉了。
+
+<se id="3" src="" mode="fadeout" time="20">
+<se id="2" src="F40憱峴250幒撪" mode="normal" time="" loop="off" effect="">//!se F40go1
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不是开玩笑。
+　由于恐惧，我的脚稍稍松开了加速踏板。
+
+　紧接着，转速表上指着7000转刻度的指针，
+  一下子跳回到4000转的位置。
+
+<se id="1" src="F40僗儕僢僾" mode="normal" loop="off">
+<se id="2" src="" mode="fadeout" time="10">
+
+<CLEAR><BACKGROUND SRC="0140x1">//# 0140x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　涡轮的轰鸣声变调了。
+  就像是被什么从后面撞击了一样，
+  在一股强大冲击力的作用下，车座靠背猛地将我向前撞去。
+
+　我不过是想减一下速，却如同引发了一场逆喷射……
+　搞什么啊，这个极端的节流阀!?
+
+　“不要把脚离开加速踏板……”
+
+　脑中突然回想起克劳蒂娅的忠告。
+
+　对啊，这样急剧减速的话……
+
+　……果然，急剧地减速导致车体有向前翻滚的趋势，
+　被掀起的后轮，已经完全失去抓地力了。
+
+　在以100英里时速狂奔着的车内，自己无路可逃。
+  轻飘飘的车尾开始横着向边上甩去。
+
+　糟了！
+
+<se id="1" src="F40僗儕僢僾2" mode="normal" time="" loop="off" effect="">//!se driftIn
+<CLEAR><BACKGROUND SRC="0140x8">//# 0140x8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我的大脑陷入恐慌，
+  但手臂依然本能地朝反方向打着方向盘。
+
+　喉咙发出不成悲鸣的声音。
+　之后便被在地上滑蹭着的轮胎发出的如同灵魂被撕裂一般的尖叫声所取代。
+
+　一瞬之间，漂移的车身横断了全部的4条车道。
+  在即将撞上护栏的时候，后轮再次抓住了地面。
+
+ 我反向猛打方向盘，车身从防护栏前呼啸着擦过。
+  之后我再将方向盘打回另一方向，总算把车拉回到了内测行车线上。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40憱峴80幒撪" mode="normal" time="" loop="off" effect="">//!se driftIn
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<clear>
+<BACKGROUND SRC="black">//
+<WIPE EFFECT="fade" time="10">
+<wait time="800">
+<CLEAR><BACKGROUND SRC="0140x1">//# 0140x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在我重新控制住车身的时候，
+  汽车的时速已经降到了30英里，
+  转速表正如引擎发生异变之前那样，无力地颤动着。
+
+　车后数百米处，是轮胎蹭过地面的痕迹，
+  看上去就像在路面上留下了两条令人毛骨悚然的斜线。
+
+　看来是由于高度公路很宽我们才得救的。
+
+<se id="2" src="" mode="fadeout" time="30">
+<se id="1" src="F40掅懍掆巭" mode="normal" time="" loop="off" effect="">//!se driftIn
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　毫不迟疑地，我降下车速，
+  将车停在临时停车带上。
+
+<se id="2" src="F40傾僀僪儕儞僌乣掆巭" mode="normal" time="" loop="off" effect="">//!se driftIn
+
+<se id="1" src="" mode="fadeout" time="20">
+　不这样做的话，恐怕自己连方向盘都快要握不住了。
+
+　恐惧的余波加上此刻的安心，
+  我的身体顿时泄了力气。
+
+　关掉引擎之后，
+  如同大地轰鸣一般的排气声消失了，
+  周围变得就像在真空中一样无比寂静。
+
+　我长长地出了一口气，
+  自己总算还活着。
+
+　放在方向盘上的双手还在颤抖着。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+　……这是何等凶恶的车啊。
+
+　这家伙，不是用来供有钱人享乐、放松的那种高级车。
+
+　怪物一般的加速力，猛烈的引擎制动……
+　涡轮发挥效果后，
+  只要踩下几毫米的加速踏板，就可以让切换到不同的境界。
+
+　仿佛就像通过加速踏板在与死神交谈着一样。
+
+　只有那种被毁灭性的刺激感所吸引的、真正的速度狂人，
+  才会选择这辆车吧。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「怎么样？
+  果然是辆易于驾驶的车吧？」
+
+<BOX type="0">//%w
+　究竟，她有着怎样的神经啊……
+　副驾驶席上的克劳迪娅，恶作剧一般地露出一脸坏笑。
+
+　明明差点因为侧滑事故死掉，
+  她却没有一点危机感。
+
+　就像是自己引以为豪的吓人箱被打开一样的、得意的笑容。
+
+<CLEAR><BACKGROUND SRC="0140p2">//# 0140p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「不过，你很厉害哦，Zwei」
+
+「第一次驾驶，就能控制住那样旋转着的法拉利」
+
+「说不定你是驾驶的天才哦!」
+
+<BOX type="0">//%w
+「……谢了」
+
+　除此之外我无话可说。
+
+　我并不真正地感到喜悦，
+  也没有因为被戏弄而生气。
+
+　不管怎么说，没有让同车的旅伴因我而死，
+  现在我应该幸福地笑着才对吧。
+
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，有什么东西还堵在我的心里。
+
+　果然，如果没有Inferno的干部和我一起的话，
+  自己可能会更加惊慌失措。
+
+<CLEAR><BACKGROUND SRC="0140p3">//# 0140p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「接下来……要怎么做呢？
+　还想要试试这辆车吗」
+
+「要是不想开的话，我倒是可以把你送到你的汽车那里」
+
+<BOX type="0">//%w
+<CHOICE HREF="0140c.txt" TEXT="＊再试一次" OPERATOR=""></A>//{ ＊まだ粘る 0140c ＊もう諦める 0140b
+<CHOICE HREF="0140b.txt" TEXT="＊已经够了" OPERATOR=""></A>//{ ＊まだ粘る 0140c ＊もう諦める 0140b

@@ -1,0 +1,83 @@
+<BOX type="5">//%sR
+「有一件事，你一定要记住」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最初的那个夜晚，我见识到了你的才能，而如今的你又有了新的成长」
+
+「说实话，真的让我吃了一惊」
+
+「你的确有着才能，对于我们Inferno十分必要的才能」
+
+「Inferno会对你表示欢迎的吧……而且，说不定不久以后，大家都会对你充满敬意」
+
+「知道为什么你的教练叫“Phantom”吗」
+
+<BOX type="0">//%w
+「不知道……」
+
+　对啊，之前我就对这件事感到十分奇怪。
+　Phantom应该是英语中“亡灵”的意思……为什么会如此称呼Ein呢？
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她可是NO.1哦」
+
+「“Phantom”，这是组织赐予最强杀手的称号。」
+
+「那个女孩是Inferno最强的杀手」
+
+<BOX type="0">//%w
+　我大吃一惊。
+　单单说她是杀手这一点都无法让我相信……
+　竟然还是组织中最强的……？
+
+<BOX type="5">//%sR
+「在最优秀教官的指导下接受训练，这是对你拥有与她同等资质的承认」
+
+「换句话说，你是被当做精英在培养哦」
+
+<BOX type="0">//%w
+「这么说，我倒是应该感谢你们喽？」
+　
+　我的声音很生硬。
+
+<BUSTUP NAME="crou2" face="5" MODE="on" zoom="" ALIGN="right">//# crou2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅的表情再次阴沉下去。
+　
+　……莫非这个女人，真的因为这件事而受到良心的谴责吗。
+
+<BUSTUP NAME="crou2" face="9" MODE="on" zoom="" ALIGN="right">//# crou2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我承认，我们夺走了你太多的东西」
+
+「但是呢，我们可能给予你的东西，也绝不会少哦」
+
+「……你只要记住这一点就够了」
+
+<BOX type="0">//%w
+「……」
+
+　难以忍受的沉默。
+
+　面对言语意外温柔的克劳蒂娅，
+  虽然明白自己必须采取抗拒的态度，
+  但一时之间却不知该说什么好。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那么，我要走了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅落寞地笑了笑，转身打算离开。
+
+<CHOICE HREF="0060a.txt" TEXT="＊出声叫住她" OPERATOR=""></A>//{ ＊呼び止める 0060a ＊黙っている 0060b
+<CHOICE HREF="0060b.txt" TEXT="＊保持沉默" OPERATOR=""></A>//{ ＊呼び止める 0060a ＊黙っている 0060b

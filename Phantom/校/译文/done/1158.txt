@@ -1,0 +1,34 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哟，Phantom，今天什么风把你吹来了」
+
+<BOX type="0">//%w
+「弹药的存货不足了，我来补充一下」
+
+<A HREF="#暘婒" OPERATOR="1127=1">
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+<MARKER NAME="#暘婒">
+<A HREF="1158a.txt" OPERATOR="1150=1">//~ 1158a
+<A HREF="1159a.txt" OPERATOR="">//~ 1159
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159a.txt" OPERATOR="">//~ 1159a
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159a.txt" OPERATOR="">//~ 1159a
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

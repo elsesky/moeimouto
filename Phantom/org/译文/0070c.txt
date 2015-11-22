@@ -1,0 +1,158 @@
+「今天……去执行任務了吧？」
+
+　自己要怎么样问她才好呢？
+　战战兢兢地，我继续询问着她。
+
+「……把什么人给……杀掉了么？」
+
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「告诉你的话，你要怎么做？」
+
+<BOX type="0">//%w
+　是啊，这种事自己就算知道了……又能怎么样呢？
+
+「对于杀人这种事，我想提前有所了解」
+
+「……杀人的时候，会是怎样的心情呢」
+
+<BUSTUP NAME="elen4" face="2" MODE="on" zoom="" ALIGN="right">//# elen4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么都感觉不到」
+
+<BOX type="0">//%w
+　自己就这么简单地被打发了。
+　对于Ein如此简单的回答，我一时不知该接着说些什么。
+
+「这样的话，太奇怪了吧」
+　自己总算是挤出了几个字。
+
+「痛苦也好、恐惧也好，至少应该有这样的想法吧？
+  这可是杀人啊」
+
+<BOX type="5">//%sR
+「或许吧」
+
+<BOX type="0">//%w
+　Ein点了点头。
+
+<BOX type="5">//%sR
+「我想，大概会非常的痛苦和恐惧吧」
+
+<BOX type="0">//%w
+　淡淡地说着这些话，不知为何，Ein的样子看上去非常悲伤。
+
+「但你说……什么都感觉不到？」
+
+<BUSTUP NAME="elen4" face="3" MODE="on" zoom="" ALIGN="right">//# elen4^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我接受过这之类的训练」
+
+「自己用来感受和思考的部分，已经被舍弃了」
+
+「从内心深处相信自己只是一件兵器」
+
+「就像刀刃、子弹……」
+
+「自己只是为了杀人而突进的兵器、为了杀人而被制造的道具」
+
+<BUSTUP NAME="elen4" face="2" MODE="on" zoom="" ALIGN="right">//# elen4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样的话，
+  自己就什么都感觉不到，
+  也就不会有任何的犹豫」
+
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「其实你也已经习惯了吧……这样内心空虚地活着」
+
+<BOX type="0">//%w
+　……或许真的是这样。
+
+　到昨天为止，自己还处在感受不到任何紧张、如同时间停止一般的生活中。
+　相比之下，像今天这样自己对什么都无能为力的日子，则令人备受煎熬。
+
+　如果意识到时间的流逝，
+  就会不知不觉陷入窥视自己内心的窘境。
+
+　为什么，会变成这样？
+　今后的日子，又会变成什么样？
+
+　回头望去，身后有的只是一些连想都不愿去想的事情。
+
+　与其面对这样的一切……
+  不如选择统统舍弃，让心灵就此变得空虚。
+
+　但是……
+
+「这样真的可以吗？」
+
+<BUSTUP NAME="elen4" face="2" MODE="on" zoom="" ALIGN="right">//# elen4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可以啊」
+
+「你迟早也会变成那样的，
+  为了忍耐下去你别无选择」
+
+<BUSTUP NAME="elen4" face="3" MODE="on" zoom="" ALIGN="right">//# elen4^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……休息吧。
+　从明天起，你就要开始接受新的训练了」
+
+//もえらＳＥ追加
+<se id="1" src="アイン寝る用意" mode="normal" loop="off">
+<BOX type="0">//%w
+　Ein再没有说话，她用睡袋把身体包住，横着躺了下来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我仰面注视着天花板，回想起Ein的话。
+
+<BOX type="5">//%sR
+“用来感受和思考的部分，已经被舍弃了”
+
+<BOX type="0">//%w
+　Ein若无其事地这样说过。
+
+　记忆被夺走……
+　仅仅如此，自己就觉得失去了人生的一切吗……
+
+　现在在我身边的Ein，失去的远比我多得多。
+
+　和她相比，自己的情况要好得多，
+  既然如此……
+
+　干脆就照Ein所说，舍弃自己的一切，
+  这样就会变得轻松了吧？
+
+　为了这样那样的事而苦恼……的确是一种痛苦。
+
+<BOX type="5">//%sR
+“你迟早也会变成那样”
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　这里没有镜子。
+
+　但不管什么时候，
+  自己都像在与一面镜子相对……
+
+　在镜面的另一边，
+　Ein的目光一直在凝视着我吧？
+
+　那如寒冰一般、冰冷的双眼。
+
+<A HREF="0076.txt" OPERATOR="">//~ 0076

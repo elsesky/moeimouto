@@ -1,0 +1,255 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　不知不觉间，雨已经停了。
+
+　不过……我该去哪里呢？
+　我握着方向盘这样问自己。
+
+//> left nightWay wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="トー僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="nightWay">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　什么东西在嗡嗡作响？
+  ……在我的脑袋里，像那样近似发狂的声音在呐喊着。
+
+　现在的我，可以回到日本了，
+  可以变回真正的自己了。
+
+　我是为了什么一直咬紧牙关忍耐到现在？
+　这可是能将一切噩梦都终结的、唯一的机会啊。
+
+　现在就逃吧……
+　一旦自己取回记忆的事被组织知道了，就全都完了。
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="slum9">//# slum9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　真想逃走的话，就只有趁现在了。
+
+　等到他们发现的时候，
+  我早已离开这个血腥的国家，再也不会回来。
+
+　对啊，我还在这里磨蹭什么啊？
+
+　现在马上跑进大使馆，请求保护不就行了吗。
+　要是有什么漏洞，用失去记忆掩饰过去就好了。
+  毕竟这不是在说谎。
+
+　……可是……
+
+<CLEAR><BACKGROUND SRC="0210x1">//# 0210x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　即使我可以回到日本，还可以回到以前的生活吗？
+
+　可以回到作为一个普通学生那种安稳、悠闲、平庸的日子吗。
+
+　虽然这些场景的记忆我已经取回了，
+  但这都如同虚构的东西一样，根本靠不住。
+
+　那样和平安稳的世界，真的存在吗？
+　现在不论怎么想，都觉的这一切全是谎言。
+
+　为微不足道的小事而欢笑、而哭泣，
+　怀着希望，为了幸福的梦想而规划未来，
+　每一天都伴随着明天会再次来临这样的坚定信念进入梦乡……
+
+　自己要怎么做才能拥有那样的生活呢？
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　没有人知道……
+
+　被小刀穿透心脏会变的怎样。
+  额头被子弹击中会变的怎样。
+
+　没有人知道，自己将会怎样简单干脆地结束生命。
+
+<CLEAR><BACKGROUND SRC="nightWay2">//# nightWay2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我所处的地方，离那些自己所怀念的、纯洁的人们太远了，
+  已经，再也回不去了。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　要怎么办才好？
+　从现在起，自己该去向哪里？
+
+　不管怎样，我都不想再回到那个阁楼了。
+　现在的我，需要时间来整理一下想法。
+
+　好想去一个能够让我安静思考的地方。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left fieldWay2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+<wait time="900">
+<BACKGROUND SRC="fieldWay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　意识到的时候，自己已经驾驶Taurus离开了市区，
+  在沙漠中的高速公路上急速行驶着。
+
+　周围像无风的海面一样寂静，
+  能看到的只有无尽的黑暗。
+
+　我终于明白自己在无意识的状态下，
+  想要驱车前往哪里了。
+
+<se id="1" src="" mode="fadeout" time="30">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="僩乕儔僗掆巭" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　半夜的时候，我到达了那个废弃工厂。
+  这里的话，不会有任何干扰。
+
+　这里是非常适合做出决断的地方。
+  因为，所有的一切都是从这里开始的。
+
+<se id="2" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　曾经在这里接受训练而度过的每一天，
+  既像是昨天，又像是非常遥远的过去。
+  什么，都没有改变。
+
+　令人眼花缭乱的洛杉矶的繁华与喧嚣，
+  以及，毗连的那些多彩多样的地方……
+  这一切，我全都记不起来了。
+
+　这里是超越了时间流动的地方……
+　从前，自己就这样感觉到了。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　我朝着作为起居室的半地下室走去。
+ （注：半地下室，房间地面低于室外地平面的高度超过该房间净高的1/3，且不超过1/2）
+
+//> left room1d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se doorOpen
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　在推开吱吱作响的铁门的时候……
+　我的手停住了。
+
+　有血的味道。
+
+　……有什么人在里面。
+　房间深处的黑暗中，隐藏着人的气息。
+
+<BOX type="5">//%sR
+「……Zwei？」
+
+<BOX type="0">//%w
+　一阵低低的声音传来，听上去很耳熟。
+
+<CLEAR><BACKGROUND SRC="0220p1">//#! 0220p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="0220x1">//#! 0220x1 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="0220y1">//#! 0220y1 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="0220p1">//#! 0220p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　是Ein。
+　这到底是怎么回事……
+
+<BOX type="5">//%sR
+「……为什么，你会在这里？」
+
+<BOX type="0">//%w
+　还没等我开口，
+  她已经先张嘴问了我同样的问题。
+
+「我从麦肯宁小姐的家里出来以后」
+
+「……刚好有点事想考虑，就顺便来这里了」
+
+<CLEAR><BACKGROUND SRC="0220p2">//# 0220p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「这样啊……」
+
+<BOX type="0">//%w
+　Ein稍微放松了下来，把枪口垂向地面。
+
+<BOX type="5">//%sR
+「你现在还什么都不知道吧？」
+
+<BOX type="0">//%w
+「……？」
+
+　怎么看都觉得Ein的样子很奇怪。
+  她的脸色异常的苍白……是因为月光的原因吗？
+
+<BOX type="5">//%sR
+「你不能……待在这……」
+
+<BOX type="0">//%w
+「唉？」
+
+<BOX type="5">//%sR
+「快点回去。
+  你自己的话，还……」
+
+<CLEAR><BACKGROUND SRC="0220p3">//# 0220p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「Ein!?」
+
+
+　她的右腹部湿漉漉、黑乎乎的，在月光的照射下闪着光。
+　这血的味道，难道是……
+<se id="1" src="彴偵揮偑傞" mode="normal" loop="off">
+<calc workname="gun27" operator="1" mode="global">
+
+<wait time="800">
+<A HREF="0220a.txt" OPERATOR="">//~ 0220a
+a

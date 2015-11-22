@@ -1,0 +1,47 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right slum3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="傾僀儞憱傝2" mode="normal" time="" loop="off" effect="">//
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="slum3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　好害怕。
+
+　伴随着口中传出的呜咽声，
+  {ヒロイン}朝巷子的深处跑去。
+
+　身后，追击者的脚步声与叫骂声，
+  在阴暗狭窄的小巷中不断回响着。
+
+　为什么又一个人逃跑了呢？
+
+　发誓要守护我的那个人，
+  已经不在身边了。
+
+<CLEAR><BACKGROUND SRC="slum2">//# slum2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自己竟然这么弱吗？
+
+　比这更危险的处境也经历过很多次了，
+　每每都平安脱险……
+
+　为什么现在的自己只想着逃跑呢？
+  自己已经无法冷静地反击了吗？
+
+　做不到。
+
+　因为，那样强大的……
+  不是自己，
+　而是，Ein。
+
+<CLEAR><BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　就在她含着眼泪冲过街巷拐角的时候，
+
+<A HREF="0270c.txt" OPERATOR="">//~ 0270c

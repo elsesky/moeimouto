@@ -1,0 +1,385 @@
+　キャルが死ぬ。
+
+　そう確信したとき、すべての逡巡を飛び越えて、身体が動いていた。
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch2">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　あらぬ方向へと飛び過ぎる、6発目の.357マグナム弾。
+
+　同時に{ヒロイン}の左手が、アンダースイングで伸び広がる。
+
+<CLEAR><BACKGROUND SRC="3720p1">//# 3720p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そうとは知らず、チャンスとばかりに告悔席から躍り出るキャル。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+
+<CLEAR><CLEAR><BACKGROUND SRC="knife2">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　刃のきらめきが宙を縫う。
+
+「キャル!!」
+
+　横から飛び出して、キャルの上体に覆い被さったとき……
+　キャルの銃に撃たれることさえ、意に介していなかった。
+
+　ナイフの輝線と、キャルの身体と……
+　その直線上に身を割り込ませる、ただそれだけしか頭になかった。
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="10">
+//<wait time="900">
+<wait time="200">
+<se id="1" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+<CLEAR><BACKGROUND SRC="#000000">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="#ffffff">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+　焼けつくような衝撃を、
+　左肩に感じたときも……
+
+　それを痛いと思うより、
+間に合った安堵感が先に立っていた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+『なんでだよ……』
+
+　すぐ耳元で、声がする。
+
+　懐かしい声。
+　懐かしい吐息と、髪の匂い……
+
+『何だよ、それ!?
+　そんなのアリかよ!!』
+
+　取り乱した詰問の声に、
+　懐かしい面影が重なる。
+
+「済まんな……」
+
+「やっぱり俺、嘘、下手だよな」
+
+//> right INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="レイジドライをかばう">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　冷たい木の床に、
+　仰向けに転がって……
+　キャルは、覆い被さった{名}の重さと、その血の生温かい感触だけを感じていた。
+
+　{名}が背中で受け止めた刃……
+　キャルの喉を目掛けて宙を飛び、狙い過たずそこに突き刺さるはずだったナイフ。
+
+　なぜに、護った？
+　身を挺して{名}が守るのが……
+　なぜ、この自分なのだ？
+
+　その問いが、
+　頭の中をぐるぐると駆け巡り、
+　一切の思考を麻痺させる。
+
+<clear>
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　宙を仰いで転がっているうちに、いきなり{名}の身体が、自分の上から引き剥がされた。
+
+　アインだ。
+　慌てず騒がず{名}の傷を改め、動脈が破れていないのを確かめてから、慎重にナイフを抜く。
+
+　ぐったり項垂れた{名}は……やはり、意識を取り戻す様子はない。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何で……」
+
+<BOX type="0">//%w
+　口に出して、訊くしかなかった。
+　訊く相手も、
+　一人しかいなかった。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「解らない？」
+
+<BOX type="3">//%m
+　いつものように、冷たく抑揚のない声で、アインはにべもなく問い返してくる。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「これが
+　彼の望んだ結果だったから」
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^9 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「な……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　食い下がろうとしたところを、アインが手で遮って止める。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="INchurch5">//# elen7^5 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　視線は冷然と……
+　罅の走ったステンドグラスに。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　キャルもまた気がついた。
+　割れ残った色硝子の向こう側で、足音を殺して、だがあからさまな殺気を放って右往左往する影の群れ。
+
+　無言のままに、アインは祭壇の傍へと取って返し、さっき投げ捨てたスコーピオンを拾い上げた。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「{名}を、祭壇の裏に」
+
+<BOX type="3">//%m
+　言いながらアインは、
+懐から取り出した予備弾倉を、
+<se id="1" src="04_03" mode="normal" time="" loop="off" effect="">//!se 
+スコーピオンの機関部に叩き込む。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^9 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　あの銃……
+　弾切れで捨てたんじゃないのか？
+　疑念がキャルの頭を過ぎる。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　だが問うより前に……
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　突如、周囲のステンドグラスが片端から叩き割られ、そこからリボルバーやショットガンの銃口が顔を覗かせた。
+
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="left">//# elen5^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「早く！」
+
+<BOX type="3">//%m
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　鋭い叱咤とともに、アインのスコーピオンが唸りを上げ、外から砕かれたステンドグラスの残りが、軽快な連射音とともに、今度は内側から粉砕される。
+
+　慌てて引っ込む襲撃者の銃口。
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　その銃声を皮切りに、
+　礼拝堂の入り口から、
+　数人の男が躍り込んできた。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　間髪入れず、アインは.32ACP弾の応酬を浴びせ、二人を信徒席の裏に沈める。
+
+　逡巡している場合ではなかった。
+　キャルは{名}の身体を担ぎ、アインの援護射撃に護られながら、腰を屈めて祭壇まで突進する。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　間一髪、祭壇の裏に飛び込んだところで、アインもまた身を退いて、さらにスコーピオンの弾倉を交換した。
+
+<se id="1" src="教会ヤクザ銃撃" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　アインの段幕が途切れた途端、左右の窓に陣取った連中が射撃を再開する。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+今度は祭壇に狙いが集中していた。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="ドライレイジをかかえる3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さっき、
+　その銃を捨てたのは……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あなたを調子に乗らせるため」
+
+<CLEAR><BACKGROUND SRC="ドライレイジをかかえる3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　事も無げにそう言うアインに、キャルはぞっとするような畏怖と……そして揺るがしようのない敗北感を感じた。
+
+　彼女の方が、一枚上手だ。
+　ファントムの名を賭けて、{名}と争うなどと言いながら、結局はこのアインにさえ及ばなかったとは……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="left">//# elen5^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　言葉を失ったキャルを余所に、アインはまた祭壇から半身を乗り出すと、スコーピオンを乱射した。
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　入り口から、またも堂内に入り込もうとしていた連中が、悲鳴を上げて床に転がる。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　敵は……どうやら頭数こそ揃っているようだが、まるで統制が取れていない。
+　やたら怒声を張り上げ、突っ込んでくるばかりで、戦術もまるでない。度胸ばかり達者な素人だ。
+
+　……梧桐組。
+　そうキャルは思い至った。
+　どうやら美緒が解放されたことに、連中も気付いたようだ。
+
+　だが、どうする？
+　いかにアマチュアとはいえ、ここまで群れで襲われては手に負えない。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そこの神父室の奥に、
+　裏口があるわ」
+
+<BOX type="3">//%m
+　銃撃の合間に、
+　アインが言葉を挿む。
+
+<BOX type="4">//%sL
+「{名}の傷は、深くない。
+　あなたが連れて逃げて」
+
+<CLEAR><BACKGROUND SRC="ドライレイジをかかえる3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんたは……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ここで、連中をひきつける」
+
+<CLEAR><BACKGROUND SRC="ドライレイジをかかえる3">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　キャルは耳を疑った。
+　いかに凄腕だろうと、一人でどうこうできる人数ではない。
+
+<BOX type="5">//%sR
+「なんであんたが、
+　そこまでやる？」
+
+「あんたは、あたしの……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="left">//# elen7^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「敵なんでしょうけど、
+　関係ないわ」
+
+「わたしは{名}と、{名}が大切にしていたものを護るだけ」
+
+<CLEAR><BACKGROUND SRC="ドライレイジをかかえる2">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　キャルは奥歯を噛みしめた。
+
+<BOX type="5">//%sR
+“ふざけるんじゃない……”
+
+“まるであたし一人が
+　馬鹿みたいじゃないか！”
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「気にくわないなら、また今度
+　わたしを殺しにいらっしゃい」
+
+<BOX type="3">//%m
+　キャルの心中を見透かしたように、アインは淡々と言い放った。
+
+<BOX type="4">//%sL
+「でも今は、{名}をお願い」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　キャルは腕の中に視線を落とし、血の気の失せた{名}の、眠るような顔を凝視する。
+　致命傷でないとはいえ、放っておける傷でもない。
+
+　そうして、さっきは……
+
+　湧き上がる想いに、胸が潰れそうになる。
+
+　駄目だ。
+　ここでは、絶対に駄目だ。
+
+<CLEAR><BACKGROUND SRC="ドライレイジをかかえる">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……こんな所で、
+　くたばるんじゃねぇぞ!!」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="doorslam" mode="normal" loop="off">
+<BOX type="2">//%w
+　吐き捨てて、あとは振り向きもせずに、キャルは{名}を抱えたまま神父室へと駆け込んだ。
+
+　目尻からこぼれた涙の雫は……
+　どうやら、アインに見咎められることなく済んだ。
+
+<A HREF="3740.txt" OPERATOR="">//~ 3740
+
+
+3740

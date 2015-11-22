@@ -1,0 +1,280 @@
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　マズルフラッシュの明滅に、堂内を影絵が踊り狂う。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p2">//#! 3720p2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　{ヒロイン}が銃撃を打ち切った後も、なお執拗にキャルは乱射を続けた。
+　建材がコンクリートでは、貫通も跳弾も望めない。
+　が、狭い側廊の中にいる相手なら、
+　飛び散る破片で負傷を負わせる手もある。
+
+　{ヒロイン}は、側廊のどこに……
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　粉塵の中に目を凝らしたそのとき、
+　疾駆する影がステンドグラスの輝きを翳らせた。
+
+<se id="2" src="" mode="fadeout" time="3">
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="3720p4">//# 3720p4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いつの間にか{ヒロイン}は、側廊を祭壇側の端まで移動していたのだ。
+　信徒席の影に隠れるように姿勢を低くしたまま、
+　{ヒロイン}は祭壇の前を駆け過ぎる。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p2">//#! 3720p2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　逃がすまじとその後を追う、キャルのアゥグの銃口。
+
+<CLEAR><BACKGROUND SRC="3720p4">//# 3720p4 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="" mode="fadeout" time="3">
+<BOX type="0">//%w
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　5.56mmレミントン高速弾の一掃を受けた信徒席が、
+　グラインダーに削られるように端から吹っ飛ばされていく。
+　その火線の切っ先の一歩先を、疾風のようなスピードで駆ける{ヒロイン}。
+
+<se id="2" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="3720p5">//# 3720p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ついに{ヒロイン}は、キャルの側の側廊に転がり込むや否や、
+　身を横たえたままスコーピオンを片手保持で発砲した。
+
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<se id="1" src="" mode="fadeout" time="3">
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720x5">//#! 3720x5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　取り回しの容易さが取り柄のアゥグのブルバップ＝ストックだが、
+　ここまで狭い空間で、
+　しかも相手は大型拳銃と同サイズのスコーピオン短機関銃である。
+　コンマ数秒の動作では遅れを取らざるを得ない。
+
+　キャルが振り向いて、柱の影へと身を退くまでの僅かな隙……
+　毎秒20発を放つスコーピオンの銃口の前で、それは致命的な隙だった。
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　その刹那、キャルは信じがたい挙に出た。
+
+　アゥグから右手を放し、左手で掴んだフォアグリップを軸に、
+　銃口をトンファーのように回転させて、咄嗟に銃を上向ける。
+<se id="1" src="ストック砕かれ" mode="normal" loop="off">
+
+<se id="2" src="" mode="fadeout" time="5">
+　そうやってキャルは、
+　{ヒロイン}の銃撃から逃れそこなった右半身を、
+　アゥグのストックでカバーした。
+
+　彼女の肩を襲うはずだった.32ACPの雨は、
+　グラスファイバー製のアゥグのストックを撃ち砕くに留まった。
+
+<se id="1" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p1">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　そのままキャルは、信徒席の真ん中へと身を投げ出しながら……
+　まだ空中にいるうちに、用を成さなくなったアゥグの残骸を手放して、
+　腰の後ろから2挺の自動拳銃を同時に抜き放つ。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1 elen5^3 20
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{ヒロイン}もまた、撃ち尽くしたスコーピオンを捨て、
+　パイソンを手に飛び起きていた。
+
+<se id="2" src="05_02_6連射" mode="normal" time="" loop="off" effect="">//!se shotM2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　信徒席の陰のキャルを目掛けて、
+　{ヒロイン}のパイソンの息もつかせぬ6連射。
+　撃ちながらも{ヒロイン}は横走りで、祭壇の影まで移動して、
+　逃げるキャルと間合いを詰める。
+
+<wait time="800">
+<se id="2" src="" mode="fadeout" time="10">
+<se id="1" src="02_07_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="ドライ二丁拳銃B">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　だが、その轟きが鳴り止むのを待ち受けて、
+　キャルもまた告悔席へと突進しながら、横ざまに2挺拳銃の連射を返す。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="02_07_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch2">//#! INchurch2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　リボルバーとは比較にならない、自動拳銃2挺の弾幕が、
+　{ヒロイン}の隠れた祭壇を襲う。
+
+　祭壇の陰から、使用済みのスピードローダーを投げ捨てる{ヒロイン}。
+
+<CLEAR><BACKGROUND SRC="ドライ銃撃戦">//# INchurch5 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　それを見咎めたキャルは、{ヒロイン}の応射に先駆けて、
+　いち早く告悔席の中に身を潜める。
+
+<se id="1" src="05_02_6連射" mode="normal" time="" loop="off" effect="">//!se shotM2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　おかしい。
+　{ヒロイン}の戦い方には、彼女ならではの慎重さが、まるでない。
+　これでは、まるで……キャルじゃないか。
+
+<CLEAR><BACKGROUND SRC="3720p1">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}はまた無為に6発全弾を撃ち尽くし、
+　そこを待ち受けていたと言わんばかりに、
+　キャルの9mmパラベラムの嵐が、祭壇に浴びせかけられる。
+
+<se id="2" src="02_07_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="ドライ二丁拳銃B">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　戦いは、完全にキャルのペースで進んでいた。
+
+　乱れ撃ちによる力押し。
+　互いに弾幕を張り合う火力勝負。
+
+　無論、この有様では、ファイアパワーで勝るキャルが圧倒的に優位だ。
+
+　武装の違いも弁えず、なぜこうも安々と、
+　{ヒロイン}はキャルのペースに乗せられてしまったのか？
+
+<CLEAR><BACKGROUND SRC="アイン銃撃戦">//# INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……いや、本当にそうなんだろうか。
+　ペースに乗せられているのではなく、
+　敢えて乗っているのだとしたら？
+
+　その閃きに、戦慄を感じた。
+
+<se id="1" src="02_05" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="ドライ二丁拳銃B">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+　キャルの戦法は、ただ苛烈なばかりで、実際のところ変化に欠ける。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="02_07_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　そうだ、すでに見切られた戦法を、勢いに乗って繰り返していたら……
+　優勢で押しているつもりが、実は相手の掌の上で、踊らされているだけだとしたら……
+
+<se id="2" src="" mode="fadeout" time="3">
+<se id="1" src="02_05" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="アイン銃撃戦">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+　{ヒロイン}は、ただ押されているだけじゃない。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="02_07_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　キャルを、キャル自身の戦法に潜む“パターン”という罠に、
+　周到に誘い込もうとしている。
+
+<CLEAR><BACKGROUND SRC="アイン銃">//# INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="" mode="fadeout" time="10">
+<BOX type="0">//%w
+　キャルの銃撃の途切れ目に、
+　あろうことか、{ヒロイン}は祭壇の陰から飛び出し、
+　三たび再装填したパイソンを乱射しながら、
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　キャルの隠れた告悔席へ向かって突進する。
+
+<CLEAR><BACKGROUND SRC="ドライ銃撃戦">//# INchurch5 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自殺行為に等しい{ヒロイン}の突撃に、キャルは勝利を確信しただろう。
+
+　告悔席まで辿り着く前に、{ヒロイン}はパイソンの6発を撃ち尽くす。
+　その後は身を隠す場所もなく、ただキャルの銃弾の的になるだけだ。
+
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="アイン銃">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　信徒席を駆け抜けながら、片手で撃ちまくる{ヒロイン}は、
+　もはや狙いを定めてすらいない。
+　当然だ。
+　実のところ、6発のマグナム弾など、当てるつもりすらないのだから。
+
+<se id="3" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="ドライ銃撃戦">//# INchurch5 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　告悔席に引っ込んだキャルは、6発目の銃声を待ち受けるばかりで、
+　{ヒロイン}の姿勢に注意を払っていない。
+　無論、{ヒロイン}が背中に回した左手にも……
+　その手に携えられたサバイバルナイフにも気付いていない。
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="アイン疾走">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　刃を指に挟んで構え、
+　{ヒロイン}はナイフを投げつける気だ。
+
+　パイソンの6発が尽き、
+　してやったりとキャルが告悔席から身を乗り出した、その瞬間……
+　今度こそ、{ヒロイン}の必殺の7発目が放たれる。
+
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch5">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　それを予期すらしていないキャルには、避ける術など、ありはしない……
+
+<calc workname="gun09" operator="1" mode="global">
+<A HREF="3730.txt" OPERATOR="3545c=1">//~ 3730
+<A HREF="3830.txt" OPERATOR="">//~ 3830
+
+
+545c
+<A HREF="3730.txt" OPERATOR="">//~ 3730
+<A HREF="3830.txt" OPERATOR="">//~ 3830

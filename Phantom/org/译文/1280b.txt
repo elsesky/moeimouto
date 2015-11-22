@@ -1,0 +1,156 @@
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="0">//%w
+　我闭上眼睛，将所有的一切都封进黑暗之中。
+
+　焦虑、恐惧、还有凯尔的叫声……
+
+　那是{ヒロイン}吗？
+　不是吗？
+
+「……趴下，凯尔」
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这样说着，我抱着狙击枪从地面一跃而起，凌空抬起枪口。
+
+<CLEAR><BACKGROUND SRC="庡恖岞慱寕">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　取而代之的是，左腿膝盖和右脚后跟像楔子一样钉在地面上，将腰固定住。
+
+　左肘支在立起的左膝上，用手脚的骨头支撑起狙击枪的重量。
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我无意间听到了凯尔屏住呼吸的声音。
+  之后再次将全身的神经都集中到了远处的狙击手的身上。
+
+　好了，转过来吧。
+　这里还有一名狙击手哦，正瞄着你哦。
+
+<se id="1" src="16_05慱寕" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="rooftop">//#! rooftop 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="500">
+<BOX type="0">//%w
+　第一发子弹的目标，选择了圆形水塔的侧面。
+<se id="2" src="16_06" mode="normal" time="" loop="off" effect="">//!se 
+　随着一声巨响，超音速的子弹集中了水塔的光滑曲面，顿时火花四溅。
+
+　给我转过脸来!
+　我就在这里哦，快朝我这里开枪吧!
+
+<CLEAR><BACKGROUND SRC="僽儗僀僓乕">//# 僽儗僀僓乕 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Blaser的结构非常可靠……再次装填所需的时间很短。
+　它的枪栓不需要像其它狙击枪那样作半回转，仅仅通过前后的直线运动就能实现弹仓的开启和锁闭。
+
+<se id="1" src="16_04" mode="normal" time="" loop="off" effect="">//!se 
+我拉开枪栓，Lake-City弹的空弹壳立即弹了出来。
+正当弹壳的黄铜光芒还在空中闪烁的时候，第2枚子弹已经被径直推进弹仓。
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在这个包含了诸多动作的瞬间，我的右眼始终紧盯着因后坐力而剧烈晃动着的狙击镜中的视野。
+
+　被突然的枪击所惊动的敌人，立刻将枪口对准了膝盖跪地、身体完全暴露在外的我。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　一瞬之间，呼吸和脉搏全都停止了。
+
+　然后，我从刚好静止下来的十字瞄准线的正上方看到的是，
+  黑乎乎的越来越大的狙击枪枪口，
+  还有因惊愕和愤怒而扭曲的，兰迪·韦伯的脸。
+
+<se id="1" src="16_05慱寕" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="rooftop">//#! rooftop 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="20">
+<se id="2" src="16_05慱寕2" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left rooftop wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="rooftop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　枪声的二重奏，响彻了整个青空。
+
+　头部的一侧像是被重量级拳击手击中了一样。
+
+　就像被看不见的手牵引着一样，右半部身体一边像陀螺似的回转，一边被向后推倒在地。
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="5">//%sR
+「{名}!!」
+
+<BOX type="0">//%w
+　我仰面躺在地上，背部感受着水泥的冰冷，视线也渐渐变得模糊。
+　眼前看到只有快要哭出来的凯尔的脸，她好象正扶起我的上身。
+
+<BOX type="5">//%sR
+「被打中了吗!?　没事吗!?
+　呐，{名}!」
+
+<BOX type="0">//%w
+我用手摸了摸疼痛的头部。
+ 虽然兰迪的子弹只是擦了过去，然而子弹的冲击波却在我的脸上留下了一道裂痕。
+
+<BUSTUP NAME="cyall" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……笨蛋」
+
+<BOX type="0">//%w
+　凯尔有气无力地说着，将脸埋到了我的肩膀上哭了起来。
+
+<BOX type="5">//%sR
+「为什么要突然站起来啊……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……我确实不应该把这个孩子放在一边而进行危险的战斗。
+  真的是有些对不住她。
+  为了表示安慰，我摸了摸她的浅色金发。
+
+「情况怎么样？观测手」
+
+　反正也不会再有子弹飞过来了……我这是明知故问。
+
+「那家伙就是杀害茱蒂的凶手，凯尔」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+「这样一来，幕后黑手是谁也就清楚了，接下来……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="2" loop="on">//$ 0 _1 0
+<se id="1" src="17_01" mode="normal" time="" loop="off" effect="">//!se rifle2
+<BOX type="0">//%w
+　远处传来的枪声，打断了我的话。
+
+<CALC WORKNAME="1280b" OPERATOR="1">//
+<A HREF="1290.txt" OPERATOR="">//~ 1290

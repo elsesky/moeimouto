@@ -1,0 +1,908 @@
+
+<MARKER NAME="#gun01">
+<CLEAR><BACKGROUND SRC="ak_74_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="zs5x" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　AK-74。
+  前苏联军队于1974年装备的制式突击步枪。
+
+　该枪由以米哈伊尔·季莫费耶维奇·卡拉什尼科夫设计、在共产主义阵营被广泛普及的Автомат-Калашникова-47（1947年式卡拉什尼科夫突击步枪）为基础经改进供弹机生产出的AKM为原本进化而成。是西方小口径步枪浪潮的产物。
+
+<BUSTUP NAME="zs4x" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　AK-74最大的变化在于口径。
+　它抛弃了AKM使用的7.62mm口径的子弹，转而使用5.45mm的M74型步枪弹。
+
+　AK-74的枪口处安装了结构复杂、具有制退、消焰、防跳作用的枪口装置，大大提升了该枪的隐蔽性和精确性。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="AK74">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun02">
+<CLEAR><BACKGROUND SRC="UZI">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　IMI-UZI冲锋枪。
+　这是建国初期的以色列考虑到与周围阿拉伯国家的紧张关系，出于国防目的研发的冲锋枪。
+
+　虽然政府对生产性、操作性、信赖程度都有着很高的要求，但负责设计的里约特纳特·乌兹·盖尔少校还是拿出了符合要求的成果。
+
+　鉴于他的功绩，该枪以他的名字命名为『乌兹』。
+　之后被比利时的Fabrique-Nationale公司、美国的Action-Arms公司等世界各国的武器公司广为生产，其优异的性能得到了世界的承认。              
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僂僘傿SMG">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun03">
+<CLEAR><BACKGROUND SRC="mp5_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K MP5。
+　这是使用9mm帕拉鲁姆弹的轻型机关枪。
+
+　该枪开发于1965年。在SMG的自由式枪机风潮大行其道的年代，MP5采用了与G3自动步枪一样的半自由枪机和滚柱闭锁方式，通过无与伦比的射击精度占据了世界市场。
+
+　直至今日，该枪已经被各国特种部队和特殊警察广为使用，成为了特种部队装备的经典代名词。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="mp5_k_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这是缩短枪管、无枪托的超短型MP5K。
+　该枪的长度被控制在了325mm。
+
+　这样的尺寸可以放进枪套，也可以装进公文包中，非常适合执行重视隐蔽性的任务。
+
+　尤其适合特务机关装备使用。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="H&K_MP5">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun04">
+<CLEAR><BACKGROUND SRC="m3_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　伯奈利M3超级90霰弹枪。
+　目前全美的SWAT队员交口称赞的半自动霰弹枪。
+
+　与旧式M1霰弹枪不同，该枪采用双装填系统，可以用泵动工作方式射击低压弹，也可以在半自动工作方式下快速射击全威力的战斗弹药。被美国陆军称为三军战斗霰弹枪JSCS（Joint-Service-Combat-Shotgun）而选用。
+
+　可以说，M3超级90霰弹枪是世界上评价最高的霰弹枪。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="儀僱儕M3">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun05">
+ <CLEAR><BACKGROUND SRC="mataba_long_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　MATEB-M2006M。
+  意大利制左轮手枪。
+
+　MATEBA公司向来以生产可以发射出转轮最下面子弹的架空左轮手枪而闻名，这把M2006M便是其中之一。
+
+　与一般的左轮手枪相比，这把枪的构造可以说是上下颠倒。枪管对着的是气缸的下部，也就是说，子弹会从转轮最下面的那一发开始射出。
+
+　由于枪管较为靠近手腕，因而在射击时可以有效抑制枪身的震动，从而减轻后坐力的影响。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="mataba_short_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　此外，这把枪还可以根据用途简单地换上不同长度的枪管。
+
+　枪管有从51mm到153mm共7种型号，可以满足各种任务的需要。
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="儅僥僶丒儌僨儖2006M">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun06">
+<CLEAR><BACKGROUND SRC="sig_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　SIG/SAUERーP226。
+  瑞士和德国的联合公司西格＆萨埃尔开发的自动手枪。
+
+　该枪由瑞士西格工业公司设计，德国J·P·萨埃尔＆佐恩公司负责制造。
+
+　该枪的母体为SIG-SAUER-P220系列枪型，凭着其射击性能优良、操作安全可靠的优点，整个SIG-SAUER-P220系列在军用、警用和民间市场都很受欢迎，日本的自卫队也将其作为制式武器装备部队。
+
+　P226采用9mm口径的复列弹仓结构。
+　全长196mm、重量845g。装弹数15+1发。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僔僌_僓僂傾乕P226">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun07">
+<CLEAR><BACKGROUND SRC="h&k_usp_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这是Heckler & Koch USP。
+　USP是Universal-Self-loading-Pistol的简称。
+　该枪虽产自德国，但却没有采用欧洲主流的9mm口径，而是为了迎合美国市场而采用了0.45口径。
+
+　为了迎合潮流，该枪的框架经过了纤维聚合物的强化。
+　USP中的9mm型以P8的正式名称被德国军队采用，而Mk23型则
+　被美军特殊作战部队『SOCOM』所选中，当然，其性能自不必说。
+
+　该枪全场200mm，重885g。采用复列弹夹结构，装弹数12+1发，可连发。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="H&K_USP">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun08">
+<CLEAR><BACKGROUND SRC="僽儗僀僓乕2">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　SIG-Blaser-R93。
+　该枪采用“直线推拉式枪机”的特殊结构。
+  枪手无需进行枪机的半回转，只要直线推拉即可迅速装填枪弹。
+
+<CLEAR><BACKGROUND SRC="僽儗僀僓乕">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　Blaser配有枪口装置、两脚架和瞄准镜座等，是精确射击的专用枪械。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僽儗乕僓乕R93僞僋僥傿僇儖">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun09">
+<CLEAR><BACKGROUND SRC="vz61">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　Vz61蝎式7.65mm冲锋手枪。
+　是前捷克斯洛伐克于冷战期间研制的小型冲锋枪。
+
+　该枪使用0.32ACP弹，威力虽然不大，但由于结构紧凑、尺寸小而有着较高的射击精度。
+
+　通过枪柄上的射速减缓器，Vz61的射击速度可以被调整为最高每分钟750发。
+
+　Vz61蝎式冲锋手枪有保险、点射、连发三种射击方式可供选择。连发射击时，可使用折叠钢丝枪托。附件有瞄准装置、消声器、臀挎手枪套和肩挎手枪套等。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僗僐乕僺僆儞">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun10">
+<CLEAR><BACKGROUND SRC="grock_19_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　格洛克19。
+　目前，全美半数以上的警察都装备了此枪。
+
+　该枪体积小、质量小、结构紧凑，便于隐蔽携带，尤其适合接应和支援。
+
+　同时，格洛克19还采用了非常流行的树脂纤维框架，不过其特征并不仅于此。
+
+　该枪的另一个特征是扳机式保险装置。使用者将子弹推上膛就立即可以使用，不必在射击前再打开保险，同时该保险还是十分安全，即使从50英尺高度掉落也不会被意外击发。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这样一来，就算是忘记打开保险的呆子也能安心使用了。
+　怎么样？相当不错吧。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　……好了～我知道了。这是把好枪。
+　世上没有比这家伙更便利的枪了。
+
+　该枪全长174mm、重665克。装弹数15+1发。
+　真是令人不爽的枪啊……哼。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僌儘僢僋19">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun11">
+<CLEAR><BACKGROUND SRC="5906_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这是S&W M5906。
+
+　虽然史密斯＆威森公司的左轮手枪让人印象深刻，不过从M39派生出的一系列自动手枪同样非常有名。
+
+　由于数量众多、型号复杂，该枪为了区别采用了4位数的识别机制。
+
+　头2位数字表示口径和枪柄型号，
+　59代表9mm口径、带复式弹仓的型号。
+
+　第3个数字表示扳机形式和尺寸、0代表该枪可单/双动击发兼用。
+
+　最后的第4位数字表示材料，3为铝合金，6为不锈钢。
+
+　总之，在这一系列中M5906是最强的哦。
+
+　此外，最新的型号又新加了3位数字，还出现了树脂聚合材料框架的枪型。
+  真是麻烦死了。
+  算了，名字什么的怎么样都无所谓。
+
+　M5906全全长191mm、重990克。装弹数15+1发。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="S&W_M5906">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun12">
+<CLEAR><BACKGROUND SRC="p7_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K P7M13。
+　作为新型的警用手枪而被开发出来的自动手枪。
+
+该枪在试作阶段时被称为PSP，尤其注重操作性的简便性和安全性。
+
+　突出特点是有气体延迟后坐机构。击发时，当弹头脱离弹壳后，部分火药气体穿过位于弹膛前方的导气孔进入枪管下方的气室内，进入气室内的火药气体又向前作用于与套筒相联的活塞，阻止套筒剧烈后坐。。
+
+　此外，P7采用击针平移式双动扳机机构，它的握把前部兼作保险压杆，手握握把，保险杆压下，保险解脱并使得击锤待击；手松握把，手枪恢复到保险状态。P7系列手枪还有空仓挂机机构，挂机柄和弹匣卡笋左右手都可以灵活使用。。
+
+　这把M13全长175mm、重900g。
+　口径为9mm，采用复列弹夹，装弹数13+1发。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="H&K_P7M13">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun13">
+<CLEAR><BACKGROUND SRC="m11_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　英格拉姆M11。
+　该枪是在0.45口径、采用自由枪机模式的英格拉姆M10的基础上经小型化改制而成，使用0.38ACP弹，采用和乌兹一样的棱镜式L型枪机。
+
+　该枪结构简单、紧凑，每分钟可发射1200发子弹。
+
+　设计者戈登·Ｂ·英格拉姆针曾在不同产地生产该枪，是的该枪有诸多不同型号。
+
+　其中最有名的是佐治亚州的米利塔里·阿玛梅特公司。MAC10、MAC11正是由此而来。
+
+　M11曾经广受特种部队和SWAT的欢迎，但如今已经被射击精度更胜一筹的H&K·MP5夺去了风头。
+
+　该枪全长249mm、重1.57kg，它的轻巧结构MP5可是比不上的。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僀儞僌儔儉M11">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun14">
+<CLEAR><BACKGROUND SRC="aug_0000">
+<WIPE EFFECT="fade" TIME="20">
+
+<A HREF="#gun14b" OPERATOR="gun14b=1">//
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　我知道这个哦。电影Die Hard里敌人使的武器。
+　真是怪异的形状啊。
+
+　查看内部的话，会发现里面都是些塑料部件，真是很惊人啊。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　……话说回来，这把枪叫什么名字呢？
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僗僥傾乕AUG">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+<MARKER NAME="#gun14b">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　斯太尔·曼利彻尔-AUG。
+　奥地利制造的陆军通用步枪。
+
+　该枪采用无托结构，大胆地运用工程塑料制作内部零件，可谓是走在潮流前沿的枪械。
+
+　该枪虽然开发于1976年，但在当时便已经名声大噪。
+
+　该枪的击锤组件被设计成一个可以独立分离的部件，几乎是完全由塑料制成的，只有弹簧和转轴由金属制成。击锤组件容纳在枪托内，并通过一个双扳机连杆与滑动式扳机相连。保险装置在水平位置横贯整个握把，通过握把上的保险按钮进行操作，保险机构两手都可操作。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="aug_shorty_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　以这款卡宾型为例。虽然全长只有715mm，但枪身长达460mm，是与G3同级别的枪。
+　此外，该枪采用后置式弹夹设计，设计平衡性非常好。
+
+　AUG虽然产自奥地利，但如今爱尔兰和南半球的各国纷纷将其作为制式枪型。
+　这也难怪，毕竟是这么优秀的枪嘛。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僗僥傾乕AUG">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+
+<A HREF="gun2">
+
+
+
+
+<MARKER NAME="#gun15">
+<CLEAR><BACKGROUND SRC="m_93r_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这家伙是、唔、这个……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+贝瑞塔M93R。
+该枪是是在意大利治安当局的请求下，由贝瑞塔公司制造的一款面向政府的自动手枪。民间市场是禁止流通的。
+
+　M93R附加了3发连射的裝置，只要扣动一次扳机便可连续射出3发子弹。
+
+此外，为了提高射击时的稳定性，该枪前部装有折叠式的前握把，枪口也装有制退器。M93R可以切换设计模式，切换的装置位于枪机容纳部左侧、握把的上方，通过该装置可以轻松切换是半自动与全自动设计模式。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这一把是二代生产型，形状已经发生了改变。
+
+　该枪全长240mm、重1170克。装弹数20+1发。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　……嗯，就是这样。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="儀儗僢僞M93R">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun16">
+<CLEAR><BACKGROUND SRC="m16_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+决定了现代军用步枪形态的M16采用强化塑料和轻系铝合金制成。
+ 虽然该枪曾作为美军的制式步枪而享誉世界，不过从1982年末起，其改进型的M16A2慢慢开始崭露头角。
+
+　虽然口径依然为5.56mmx45，但M16A2采用的是比利时FN公司新开发的SS109子弹。
+　通过使用这种具有优良贯穿力的新型子弹，M16A2比过去拥有了更长的枪管寿命。
+
+　此外，该枪放弃了极其耗费子弹的全自动射击模式，转而使用3发点射的连射模式。
+
+　不过，出口于加拿大的G7型依旧保留了全自动的射击模式。
+
+<CLEAR><BACKGROUND SRC="m16pistol_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　经历了35年的发展，M16系列已经衍生出了卡宾型、狙击型和支援型等诸多型号，不过整体正朝着小型化的趋势发展。
+
+虽然具有突击步枪的强大火力，但根据用途的不同，M16也可以变得不那么凶恶。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="M16A2">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun17">
+<CLEAR><BACKGROUND SRC="automag_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　1970年，美国加利福尼亚州的阿卡迪亚公司诞生了历史性的手枪。
+　这便是AMT180。
+
+　该枪全长295mm、重1670克、装弹数7+1发。
+
+　设计者为AMT公司的总裁哈利·圣福德。
+　该枪采用与M16相同的枪机结构，是可以使用马格南子弹的自动手枪。
+
+　虽然是完成品，但遗憾的是该枪并不实用，仅仅生产了11年便结束了历史。
+　不过，哈利先生的大胆创新还是得到了众多理解者的称赞。
+
+　当然，我也是其中一人。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僆乕僩儅僌">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun18">
+<CLEAR><BACKGROUND SRC="HB_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　AMTHardballer。
+　以柯尔特政府型自动手枪为蓝本特制的大型自动手枪。
+
+　该枪全长272mm，重量达到了1224克，比普通的柯尔特足足重出2成。
+　装弹数为7+1发。
+
+　7英寸长的枪管不但可以提高子弹初速，其重量还有助于抑制后坐力。
+  这样想来，真是相当的可靠啊。
+
+　什么……枪管太长不会碍事吗？
+　啰嗦，我就喜欢这样的长枪管。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僴乕僪儃乕儔乕">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun19">
+<CLEAR><BACKGROUND SRC="EAGLE_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　沙漠之鹰50AE。
+　IMI（以色列军事工业公司）引以为豪的世界最强手枪。
+
+　沙漠之鹰最初被设计成使用0.357或0.44口径左轮用马格南子弹的自动手枪，
+  不过这一型号更加强力，采用0.50口径的Action-Express子弹。
+
+　虽然是手枪，但沙漠之鹰却有着与突击步枪相同的枪机结构，因而十分可靠。
+　可以说是马格南·自动手枪的最高作了。
+
+　不过，该枪重量达到了1760克，普通人根本无法驾驭。
+  进化过度的代价真是让人感到有些遗憾啊。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僨僓乕僩僀乕僌儖_50AE">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun20">
+<CLEAR><BACKGROUND SRC="magnum_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　史密斯＆威森M29。
+  使用0.44口径马格南子弹的左轮手枪。
+
+　0.44马格南子弹与几乎同口径的0.45ACP子弹相比，初动能要大出一倍以上……破坏力也远远领先。
+
+　这把8英寸型号的M29全长216mm，重1460克。
+　没问题吗？　这家伙几乎有1.5公斤重，快赶上一把小型机关枪了。
+
+　不过嘛，一旦打起来，这家伙能够轻易重创对手。
+  当然，前提是你能将它运用自如。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="S&W_M29">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun21">
+<CLEAR><BACKGROUND SRC="python_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　柯尔特Python。
+  又称“蟒蛇”、“狂蟒”，是使用0.357马格南子弹的左轮手枪。
+
+　该枪开发于1955年。具有精确的战斗型机械瞄具、顺畅而且很容易扣下的扳机、坚硬的设计和辅助用途的额外金属。枪管下面还装有一直延伸到枪口端面的枪管下凸耳、可散热和装上瞄准镜的肋条以及可拆卸或转换的照门。可谓是划时代的左轮手枪。
+
+　Python的精度非常高，甚至可以与竞技用手枪一较高下。
+
+　这是4英寸的型号，全长241mm。重1080克。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僷僀僜儞_357儅僌僫儉">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun22">
+<CLEAR><BACKGROUND SRC="gava_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　柯尔特政府型。
+  这可是一把大口径的自动手枪哦。
+
+　自从1911年被美军选为制式装备以来，已经衍生出了多个型号，是当之无愧的世界名枪。
+
+　相比于以9mm口径为主流的欧洲，政府型在0.45口径大行其道的美国更加活跃，如今依旧是军队的现役枪械。
+
+　这是被称为马克IV西利斯80的改良版。
+　全长216mm，重1075克。
+
+　该枪采用单动击发模式，装弹数8+1发。
+  与新型手枪相比终究是有些相形见绌了。
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<A HREF="#gun22b" OPERATOR="gun22b=1">//
+<CLEAR><BACKGROUND SRC="僐儖僩丒僈僶儊儞僩">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+
+<A HREF="gun1">
+
+<MARKER NAME="#gun22b">
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<CLEAR><BACKGROUND SRC="combat_comander_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这是政府型的一个衍生型号，Combat·Commander。
+　相比原作，该枪枪身更短，并采用了小型轻量化的击锤。
+
+　虽然原版的柯尔特为了减轻重量采用了铝合金，但面对0.45ACP弹时常常显得强度不足。
+　因此，这款Combat采用了全钢的结构。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僐儖僩丒僈僶儊儞僩">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun23">
+<CLEAR><BACKGROUND SRC="beretta_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　贝瑞塔M92FS。
+  美军现役制式装备。
+
+　口径9mm，装弹数15+1发。该枪拥有符合人体工学设计的握把、单片式板机及战斗表尺、双排弹匣、左右手皆可用的保险，可谓是现代军用手枪的代表作。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　全长217mm。重975克……
+　对我来说，稍微有点大呢。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="儀儗僢僞M92FS">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun24">
+<CLEAR><BACKGROUND SRC="knife_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　Chris Reeve Project II。
+　全长320mm。刀刃长195mm。
+
+　这把刀以锻造用碳钢为原料，以一体成型的方法制成。
+
+　刀柄内部中空，取下旋帽的话可以在里面放进救生用品。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僋儕僗儕乕僽">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun2">
+
+
+<MARKER NAME="#gun25">
+<CLEAR><BACKGROUND SRC="amt_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　这是AMT BackUp II。
+
+　虽然人们常常认为AMT是专门生产AUTOMAG、HardBaller这样大型手枪的公司，但实际上该公司也生产这样的小型护身用手枪。
+
+　该枪采用别名9mmShort的0.380ACP弹，其威力对于自卫来说足够了。
+
+　虽然该枪采用的简单的单击发结构，但为安全起见，仍旧配备了保险装置。
+
+　该枪全长127mm。重510克。装弹数5+1发。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="AMT僶僢僋傾僢僾">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun26">
+<CLEAR><BACKGROUND SRC="gepalt_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　匈牙利猎豹M1式狙击步枪（GEPARD-M1-ANTI-MATERIAL-RIFLE）
+　对物用的大口径狙击枪。
+
+　既然是对物用狙击枪，对人自不必提，
+　该枪有效射程超过1000m，对车辆和离陆前的航空器都非常有效。
+
+　这把GEPARD-M1配备有两种子弹，B-32式12.7mm穿甲燃烧弹和BZT-44式12.7mm穿甲燃烧曳光弹。
+
+作动模式为手动单发式。
+ 射击时，先取下握把－枪机组件，将弹装入弹膛，再将握把－枪机组件横向插入机匣并前推，然后向下转动握把使它呈垂直状态，此时闭锁突笋卡入枪管节套的槽内，枪处于待击状态。射击完毕后按相反方向转动握把，将枪机连同弹壳一起从机匣中取出。
+
+　该枪全长1570mm，枪身长1100mm。
+　由于重量达到19000克，二脚支架是必不可少的。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僎僷乕僪M1傾儞僠儅僥儕傾儖">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun27">
+<CLEAR><BACKGROUND SRC="socom_0000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K-MK23。別名US-SOCOM·PISTOL。
+　是针对美军特种部队特别开发的手枪。
+
+　SOCOM是Special-Operations-Command（美国特种作战司令部）的简称。
+　该组织负责总体调度美国陆·海·空各军的特种部队。
+
+　SOCOM对于所需的手枪在命中精度、持久性等方面有着极为苛刻的要求。最后，H&K力压柯尔特，用MK23拿下了订单。
+
+　由于是针对特种部队开发的特殊手枪，MK23不必估计成本，
+  不过这把枪的性能的确非常优秀，隐蔽性也很好。
+
+　此外，该枪还配有美国奈特军械公司研制生产的消声器，以及由美国英赛特技术公司研制生产的激光指示器。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僜僐儉丒僺僗僩儖">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+<MARKER NAME="#gun28">
+<CLEAR><BACKGROUND SRC="g3_000">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　H&K G3-SG/1。
+　SG是Scharfschtzengewehr的简称。德语中意为狙击步枪。
+　这一把便是西德军队的制式装备G3狙击型步枪。
+
+　G3狙击型步枪，是从量产的G3步枪中选出精度特别优秀的型号加以改造制成的。
+
+　该枪最大的特点是采用了滚轴延迟反吹操作系统，在射击时可以最大限度地减小后坐力的影响，提高射击精度。
+
+　相比于军队，该枪更多地被地方治安部队作为狙击枪而采用。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="僗僫僀僷乕丒儔僀僼儖">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+
+<MARKER NAME="#gun29">
+<CLEAR><BACKGROUND SRC="儖僈乕">
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">
+　鲁格-P08。我亲密的伴侣。
+
+　该枪由乔治·鲁格在雨果·博查于1890年代设计的C93式博查特手枪的基础上改进而成。是叱咤于第一次世界大战的优秀手枪。
+
+　该枪最大的特征在于肘节式起落闭锁和双动击发，是堪称工艺品的手枪。
+
+　鲁格对工作环境要求很高，零件多且杂，因而被称为“精密瑞士钟表枪”。但即便如此，该枪在二战时还是受到了众多军官的喜爱，如同是枪中的贵族。
+
+　虽然自开发至今已经超过百年，但鲁格-P08如今仍在收藏家中有着极高的人气。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="儖僈乕P08_6僀儞僠">
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7"><k>
+<CLEAR><BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+<A HREF="gun1">
+
+

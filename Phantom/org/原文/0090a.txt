@@ -1,0 +1,290 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4BZ wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4bn">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　廃工場の外に連れ出された。
+　いつの間に来ていたのか、フェンスの外に、
+　黒塗りのリムジンが停まっている。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　男は初めて見る顔だった。
+
+　……誰だろう？　やはりインフェルノの関係者だろうか。
+　訝しむような目つきでこちらを眺めている。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　傍らには、背の高い黒人の女性が付き従っている。
+
+　……ジャケットの下には肩吊り式のホルスター。
+　中身はおそらく、大型のオートマチック。
+
+　そういう見分け方はアインに教わった。
+　護衛だろうか。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　やがて宵闇に閉ざされた荒野の彼方に、
+　また一組、ヘッドライトの光芒が現れた。
+
+　あれは……
+　アインが出かけるとき、いつも送り迎えをしている車だ。
+
+　リムジンの隣に停まったその車から、新たに3人が降り立った。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# crou^2 19 sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……クロウディア、それとサイス＝マスター。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles 19
+<BUSTUP NAME="woles" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　あとの一人は、また知らない顔だ。
+　なぜか、この場に揃った誰よりも狼狽している様子だった。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ミスタ＝マグワイヤ。
+　アメリカ海兵隊の
+　ウォレス大尉を紹介します」
+
+「長年、我がインフェルノの
+　武器供給に
+　協力して下さった功労者です」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles 19
+<BUSTUP NAME="woles" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「なあおい、飛行場に行くはず
+　だったじゃないか！
+　ここは一体どこなんだ？」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# dummy 19 sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたの最後の晴れ舞台、
+　とでも申しておきましょうか」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……何だと」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# dummy 19 sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我々インフェルノの至上課題は、
+　秘匿性の維持でしてね」
+
+「遺憾ながら、ウォレス大尉。FBIにマークされたあなたを、このまま放置しておく訳にはいかない」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles^2 19
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「き、貴様ら、裏切ったな！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 rizy^3 20
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="0">//%w
+　サイスに掴みかかろうとしたウォレスを、
+　黒人の女の拳銃が押しとどめる。
+
+　素早い……いつの間に抜いたんだ？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「残念です。実に残念です」
+
+「我々との取引だけならば、
+　事が露見することも
+　なかったでしょう」
+
+「しかし、テロリストにまで
+武器を横流ししたのはまずかった。
+いささか欲を出しすぎましたな」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles^2 19
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「畜生……汚ぇぞ！
+　お、俺は今まで
+　インフェルノのために……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そうですね、確かにこのままあなたを抹殺してしまうのは、騎士道精神に反する事ですな」
+
+「いいでしょう、大尉。
+　あなたにチャンスを与えます。
+　逃げても結構ですよ」
+
+<BUSTUP NAME="woles" face="" MODE="on" zoom="" ALIGN="left">//# woles 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「猶予は10分。それから我々は
+　追っ手を差し向けます。
+　逃げきればあなたの勝ちだ」
+
+「……ああそうだ、もしお望みなら
+　そこの建物の奥に
+　武器庫がありますよ」
+
+「好きなように使って下さって
+　構いません」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……どういうつもりだ？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「言ったでしょう、
+　騎士道精神です」
+
+「武人のあなたに、自らの手で
+　自由と生命を勝ち取る機会を
+　用意したまでのこと」
+
+「軍人冥利に尽きるのでは
+　ありませんか？」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……舐めやがって……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さあ、どうぞ。今から10分です」
+
+「……どうしました？
+　あまり無駄にできる時間は
+　ないのでは？」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……くそッ!!」
+
+<BOX type="0">//%w
+　男は最後に、居並ぶ全員に殺気を込めた視線を向けると、
+<se id="1" src="砂漠走り去る" mode="normal" time="" loop="off" effect="">//
+　駆け足で廃工場の中へと消えていった。
+
+//> left factory4 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="30">
+
+<wait time="900">
+<BACKGROUND SRC="factory4bn">//
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「さて、
+　……事情は聞いての通りだ。
+　ツヴァイ」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+「最初の任務を与える。
+　あの男を殺せ」
+
+<BOX type="0">//%w
+　……何だって？
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　そうだ、確かに……
+
+　今日までやってきたことは、暗殺者になるための訓練だった。
+
+　いつかはアインのように、
+　見ず知らずの人間の命を奪うことになるのかもしれないと……
+
+　それは、わかっているつもりでいた。
+
+　だが、よりによって、なぜ今なんだ？
+
+　急すぎる。
+　まだ心の準備も何もできてない。
+
+　その場に揃った全員から浴びせられる、重く厳しい眼差し。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　皆の視線が、
+　まるで猛獣使いの鞭のように、背中を打ち据える。叱咤する。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　サア行ケ、アノ男ヲ殺シテコイ……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　嫌だ……
+　ちょっと待ってくれ……
+
+<A HREF="#選択肢" OPERATOR="0060a=1">
+<A HREF="0090d.txt" OPERATOR="">//~ 0090d
+<MARKER NAME="#選択肢">
+　誰かいないのか？
+　話の通じそうな人間は？
+
+<calc workname="gun18" operator="1" mode="global">
+<CHOICE HREF="0090d.txt" TEXT="＊アイン" OPERATOR=""></A>//{ ＊アイン 0090d ＊クロウディア 0090c
+<CHOICE HREF="0090c.txt" TEXT="＊クロウディア" OPERATOR=""></A>//{ ＊アイン 0090d ＊クロウディア 0090c

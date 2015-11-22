@@ -1,0 +1,217 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="2000">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　施加在我们身上的视线中充满了疑惑，仿佛对方感觉自己被小看了一样。
+
+　说不定，他们是因为看到我那比克劳蒂娅更加年轻的样子而有些惊讶。
+
+　不与任何人视线相对，却牵扯着在场所有人的神经。
+  现在我的工作，就是在克劳蒂亚身后扮演一个一动不动的雕像。
+
+　黑社会组织，梧桐组……
+
+　并排坐着的3个男人身上，十分自然地笼罩着一股威严的氛围。
+
+　看一眼就知道他们不是什么正经人，而且，他们这种危险的表情……也不是装出来的。
+
+　3天前，他们在远离故乡的异国突然失去了4名同伴。
+
+　但他们不能亲自报仇，必须在酒店的房间里忍受煎熬。
+  这样想来，会有杀气是肯定的。
+
+　许久不见的同乡之间应该会有眷恋之情吧，可我却完全不觉得和他们有同乡间的共鸣。
+
+　这些黑社会身上穿着的独特而略显土气的衣服，只能让我感到些许的不协调感。
+
+　想一想的话，这是理所当然的。
+　当我还是日本人的时候，从来都没有与黑社会的人打过交道。虽然同在日本的国土上，但我们生活的世界是截然不同的。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「就是说，你们对这件事还是一无所知？」
+
+<BOX type="0">//%w
+　听完克劳蒂娅的解释，穿白西服的高大男子傲慢地哼了一声。
+
+　梧桐大辅……
+　克劳蒂娅费尽心机想要推荐给Inferno的黑帮的少头目。
+  另外的两个人，应该是他的小弟。
+
+<BOX type="5">//%sR
+「至少也应该有个怀疑的目标吧，那条街可是你们的地盘吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「现在Inferno正全力追查凶手，找到那家伙只是时间问题」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你们那边的安保措施是怎么搞的？」
+
+<BOX type="0">//%w
+　发出质问的，是两名小弟中看起来地位较高的那一个……
+　看上去不像黑道中人，非常伶俐、精明的年轻男子。
+
+<BOX type="5">//%sR
+「不管怎么想这都是场精心策划的袭击。一定是情报泄露出去了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这件事也关乎Inferno的面子，我们将尽全力查清真相，请务必相信我们」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「对于死去的4人，我们感到非常抱歉」
+
+「不过，我们的合作就这样泡汤了的话，无谓的损失就太大了」
+
+「这么想没错吧？」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当然」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「所以，在将消失的500万夺回来以前，我们之间的交易暂且搁置」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「也就是说，在事情解决以前我们要一直留在洛杉矶吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「当然，我们会将各位作为贵宾对待，保证让各位度过一段舒适的时光」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「说起来，这个房间的确比之前住的地方好得多啊」
+
+「怎么样，志贺，把假期延长吧？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「要怎么向老头子交代？」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯，就说水土不服吧」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「拜托了啊，克劳蒂娅。我们可没有时间长期地游玩下去啊」
+
+//> left 0130x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0130x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="F40壛懍3" mode="normal" time="" loop="off" effect="">//!se F40run
+　结束拜访后，在驶上归途的F40内，克劳蒂娅脸上那种讨好黑社会的谄笑消失得无影无踪。
+
+<CLEAR><BACKGROUND SRC="1120p1">//# 1120p1 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="F40憱峴80幒撪" mode="normal" loop="off">
+<se id="1" src="" mode="fadeout" time="40">
+<BOX type="4">//%sL
+「{名}，从今天开始，表面上做我的护卫就可以了」
+
+「你暂时独自行动」
+
+「监视黑社会们的动向」
+
+<BOX type="0">//%w
+「……监视他们？」
+
+　我以为她一定会让我协助艾扎克进行调查。
+
+<CLEAR><BACKGROUND SRC="1120p2">//# 1120p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「现在事情还没有结束」
+
+「看样子只要我还想将梧桐组介绍进Inferno，有人就会继续妨碍下去」
+
+<BOX type="0">//%w
+　我一时没能明白克劳蒂娅的言下之意。
+
+「这两者之间到底有什么关系？」
+
+<BOX type="4">//%sL
+「没有迹象显示交易的情报泄露了出去」
+
+「应该是内部的人干的好事」
+
+<BOX type="0">//%w
+　克劳蒂娅冷冷的语调，像寒冰一样刺激着我的后背。
+
+　难道说……
+
+「……你怀疑维斯梅尔？」
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「这也不是不可能」
+
+「维斯梅尔对日本黑帮加盟Inferno感觉很不爽。一直警戒着我和梧桐组的人」
+
+<BOX type="0">//%w
+　这是当然的吧。
+  正因为这样，莉兹和我才会一直担心害怕。
+
+「所以……他才会这样做？」
+
+<BOX type="4">//%sL
+「维斯梅尔是用力量将洛杉矶夺到手的男人」
+ 
+「他原来可是个武斗派哦，会在必要的时候用拳头为自己开路的」
+
+<BOX type="0">//%w
+　的确，如果是维斯梅尔的话，袭击南部中央地区的那场交易是毫不费力的。
+  那里毕竟是他自己的地盘。
+
+<A HREF="1122.txt" OPERATOR="1100=1">//~ 1122
+<A HREF="1120a.txt" OPERATOR="">//~ 1120a

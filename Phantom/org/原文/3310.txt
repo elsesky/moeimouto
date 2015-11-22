@@ -1,0 +1,374 @@
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="coffeeshop">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そんな風に、自分を諫めるのに手一杯で……
+　気持ちが緩んでいたからだろうか。
+
+　ついつい習慣的に、
+　喫茶店の入り口が視界に入る位置に座っていたにもかかわらず、
+　気がつけば人の出入りに留意するのを怠っていた。
+
+<se id="1" src="ドライ歩き1" mode="normal" loop="off">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だから、瓢然と店内に入ってきた彼女が、二人の席の前に立ったときも、
+　いったい自分の目に映っている相手が誰なのか、
+　正しく認識できるまでに時間がかかった。
+
+　日向で微睡んでいるところに、
+　氷の柱を突きつけられたような気分だった。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「お邪魔だったかい？」
+
+<BOX type="0">//%w
+　他の客たちの気配が、目に見えてざわつく。
+
+　金髪、瑠璃色の目、さらりと流暢に流れる英語……
+　周囲に浮き立つ異質さは、それだけではない。
+
+　今のキャルは、
+　すでに肉食獣に似た暴力的な気配を、身に染みつかせている。
+
+　他の客が、露骨に興味を示さないだけの慎みでもって、
+　うわべだけ無関心を装うのとは対照的に、
+　キャルは包み隠すことなく発散し、
+　それに怯える衆目は、まるで意に介してない。
+
+<CLEAR><BACKGROUND SRC="喫茶店美緒おびえ">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ふいに割り込んできたキャルの、
+　明らかに故知と判る遠慮のない態度に、
+　美緒は狐につままれたような顔をしている。
+
+<BOX type="5">//%sR
+「あの……こちらは？」
+
+<BOX type="0">//%w
+「向こうの……友達だ」
+
+　気取られたくはなかったが、
+　それでも声の固さは隠せなかったかもしれない。
+
+<CLEAR><BACKGROUND SRC="coffeeshop">//# schoolway2 1
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　まさかキャルは、この場で始める気なんだろうか？
+　こんな人混みの真ん中で……
+　それどころか、隣の美緒まで巻き添えにして？
+
+　あり得ないと、なぜ、言える？
+
+　キャルが、梧桐組との関係や、インフェルノへの忠誠よりも、
+　私怨を先に取ったとしたら……
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　はたして美緒は、いつもの過ぎるほどの気遣いを発揮してか、
+　それとも、ただならぬ気配に気圧されてか、そそくさと席を立った。
+
+<BOX type="5">//%sR
+「あの、わたし、
+　じゃあ、先に帰ってます」
+
+<BOX type="0">//%w
+「……ああ」
+
+　引き留められるわけがない。
+　正直なところ、一刻も早く、この場から離れてほしかった。
+　少しでも、遠くへ……
+
+　肩越しに、
+　不安げな面持ちでキャルを窺いながら、店を出ていく美緒の背中を、
+　キャルもまた表情を窺えない眼差しで見送った。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あれが、
+　梧桐組のお姫様だって子かい？」
+
+<BOX type="0">//%w
+「ああ」
+
+　間違いなく……
+　一昨日のブラフは、志賀を介してインフェルノにまで通っている。
+　キャルは、承知の上だ。
+　なのに臆することもなく、こうまで堂々と姿を現すとは……
+
+<BOX type="4">//%sL
+「アインに、あたしに……
+　次はあの子か」
+
+「女と見れば容赦なく
+　利用するんだな。あんた」
+
+<BOX type="0">//%w
+　胸を刺す痛みをこらえ、敢えて強面を装った。
+
+「伝えたはずだ。妙な真似をしたら、あの娘を……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「殺すってか？」
+
+<BOX type="0">//%w
+　馬鹿にしきったように鼻を鳴らすキャル。
+
+<BOX type="4">//%sL
+「どうやって？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="4">//%sL
+「どうせハッタリとは
+　思っていたが、案の定だよ」
+
+「四六時中あの子に張り付いてる、
+　だって？　笑わせないでよ。
+　アインはどこなのさ？」
+
+「つくづく下手だね。
+　あんたの嘘は」
+
+<BOX type="0">//%w
+「……」
+
+　ここに至って、自分の読みの甘さを痛感した。
+
+　人質がいたからといって、それで怯むようなキャルか？
+
+　一昨日は学園の敷地で、平然と発砲しようとした程だ。
+　当たり前の駆け引きが通用する相手じゃない。
+
+　足元に、ぽっかりと底なしの穴が空いたような気分だった。
+　逃げ道は……ない。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「万事休す、
+　って顔してるじゃない」
+
+「その程度のガッツで、
+　よくもまぁ2年も
+　逃げ回ってられたもんだね」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="4">//%sL
+「でも、あんたのその下手くそな嘘……腰抜けな連中には、なかなかどうして、通用してるぜ」
+
+「サイスもリズィもビビってる。
+　今あたしが何してるか知ったら、
+　二人とも卒倒するかもな」
+
+<BOX type="0">//%w
+「それで、何でお前は……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……つまりだ」
+
+「あんたの目論見通り、
+梧桐とインフェルノは固まってる」
+
+「この場であたしを始末すりゃ、
+　まだまだチャンスは
+　あるってことさ」
+
+「今だって
+　丸腰じゃないんだろ？」
+
+<BOX type="0">//%w
+　挑発……なんだろうか。
+　キャルの意図がまるで判らない。
+
+<BOX type="4">//%sL
+「人目なんざ気にするな」
+
+「ポリが動いても、
+　どうせ数日後にはあんたら、
+　海の向こうって算段だろ？」
+
+「それとも、巻き添えが怖けりゃ、
+　場所を変えてやってもいいよ」
+
+<BOX type="0">//%w
+「……そうまでして、俺と戦いたいのか？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「当たり前だよ」
+
+<BOX type="0">//%w
+　威嚇するように、不敵な笑いでキャルは答えた。
+
+<BOX type="4">//%sL
+「あんたを殺らなきゃ、
+　あたしの肩書きも、
+　いまひとつ馴染まないんでね」
+
+「さぁ、元ファントムさんよ、
+　決着をつけようぜ。
+　誰が本当のファントムか」
+
+<BOX type="0">//%w
+　小さなテーブルについた肘が、気がつけば体重を支えていた。
+　こんなにも、この身体は重かったんだろうか。
+
+　肩にのしかかる絶望の重さ……
+　今はもう、立ち上がる気力さえ残っていない。
+
+「ファントムは……お前だよ」
+
+「今の俺は、ただの学生だ」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「笑わすんじゃないよ。ツヴァイ」
+
+「あんたが今さら、
+　ビビるタマか？」
+
+<BOX type="0">//%w
+「この首は……差し出すよ」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「おいおい……」
+
+<BOX type="0">//%w
+　さも悪い冗談だとでも言いたげに、首を振るキャル。
+
+<BOX type="4">//%sL
+「あんた一体、何のために今日まで逃げてきた？」
+
+「死にたくないんじゃ、
+　なかったのか？」
+
+<BOX type="0">//%w
+「キャル、お前の手にかかるなら、それは相応の報いだと思う」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「殺されても仕方ないだけのことを……俺は、お前に、しちまったからな」
+
+　因果応報……そう思えば、もう悪あがきをする気も起こらない。
+　ただ……
+
+「ただ、条件がある」
+
+「俺の命と引き替えに、{ヒロイン}……
+　アインは見逃してやってほしい」
+
+　彼女には、報いを受けるだけの因果もない。
+　キャルの憎しみとは無関係なはずだ。
+
+<BOX type="4">//%sL
+「あの女の身代わりに
+　なろうってのか？」
+
+<BOX type="0">//%w
+　いつになく静かな声で、キャルは呟いた。
+
+「彼女はもう、サイスやインフェルノの害になることはない。
+　俺を仕留めれば、それで……」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　言いかけて途中で、気がついた。
+　キャルの、あまりに不気味な沈黙に。
+
+　威嚇的な言葉も、不敵な薄笑いも、すでにキャルはかなぐり捨てていた。
+　きり結んだ口元は、一切の表情を欠き……
+
+　ただ翡翠色の瞳だけが、燃えるような憎悪を湛えていた。
+　かつて見たことがないほどに、冷たく、激しく。
+
+<BOX type="4">//%sL
+「死んでも守りたいわけだ。
+　あいつだけは」
+
+<BOX type="0">//%w
+「キャル……」
+
+<BOX type="4">//%sL
+「あたしの代わりに
+　500万ドルを担いで逃げた、
+　あんたみたいな男にも……」
+
+「そんな風に想う相手が
+　いるわけだ。なるほどね」
+
+<BOX type="0">//%w
+「違う。俺はあの時……」
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="coffeeshop">//#! coffeeshop 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　言い終わるより先に、キャルの拳が、頬骨をしたたかに打ち据えた。
+
+　ただでさえ張りつめていた店内の空気が、一瞬で凝固する。
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あんたは、
+　望み通りに殺してやる」
+
+<BOX type="0">//%w
+　席を立ちながら、氷のような声で、キャルは宣言した。
+
+<BOX type="4">//%sL
+「ただし、
+　もう少し楽しんでからだ」
+
+「あんたは、もっと痛めつけて、
+　苦しめて……」
+
+「それからとどめを刺してやる。
+　一番最後にな」
+
+<BOX type="0">//%w
+「キャル……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　店員と客の視線を、まとめて背中に集めながら、
+　キャルは足取りも荒々しく店を出ていった。
+
+　行き場を見失った周囲の視線は、続いてこちらに集中する。
+
+　キャルに殴られた左の頬は、いつまでも鈍く痺れていた。
+
+<A HREF="3320.txt" OPERATOR="">//~ 3320

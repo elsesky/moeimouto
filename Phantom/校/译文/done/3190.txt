@@ -1,0 +1,101 @@
+　……再和她聊聊也没有关系吧。
+
+　不知从什么时候起，我已经学会了用亲切的态度对待他人。
+
+　既然已经是“男朋友”了……揣测美绪的心情、给予她必要的关心就是必要的了吧。
+
+　要是现在就这么一走了之的话……美绪应该会很难受吧。
+
+　不，等一下。
+  为什么B班的美绪会出现在这个教室的门口呢？
+
+　……我真是个迟钝的笨蛋。
+
+「要一起去食堂吗？」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，好」
+
+<BOX type="0">//%w
+　带着破涕而笑般的复杂表情，美绪不住地点头。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage8b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="passage8b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……午饭，一直都是靠买的吗？」
+
+<BOX type="0">//%w
+「没办法，父母现在都不在这里」
+
+「……藤枝同学是便当派吗？」
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<CLEAR><BACKGROUND SRC="passage7b">//# passage7b 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在我们并排走向食堂的时候，美绪的手里一直都提着用手绢包起来的便当盒。
+　说起来，在食堂见到{ヒロイン}的时候，她身边的美绪也总是带着便当。
+
+　……怎么办呢？
+　要是这样和美绪一起去食堂的话，很有可能会遇到早苗她们。
+  我是无所谓，不过美绪不会介意吗？
+
+　这时，我注意到美绪带着的便当的分量。
+　米饭和家常菜……对女孩子来说，这样的分量真是够大的。
+
+「饭量还真是大啊，藤枝同学」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听到我无意间冒出来的这句话，美绪马上红着脸低下了头。
+
+　坏了。
+　我又说了什么不过脑子的话吗？
+
+<BOX type="5">//%sR
+「我的份……只有这些而已」
+
+<BOX type="0">//%w
+　说着，美绪将一个四四方方的小便当盒拿给我看。
+
+「……」
+
+　那么，那个大的呢？
+　……再问下去实在是太不知趣了吧。
+
+「吃不了的话，分我一些怎么样？」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　虽然我只是随口一说，不过美绪的表情马上变得开朗起来，就像阴霾的天空透出一片晴朗。
+
+<BOX type="5">//%sR
+「那个……我想，可能不是很好吃……不过……不介意的话……」
+
+<BOX type="0">//%w
+「那就不去食堂了，我们去别的地方吃吧」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯!!」
+
+<CALC WORKNAME="3190" OPERATOR="1">//
+<A HREF="3210.txt" OPERATOR="">//~ 3210

@@ -1,0 +1,408 @@
+　さあ、{名}を助けにいかないと……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+　立ち上がろうと身を起こしたところで、鋭い銃声とともに花壇の黒土が舞い上がった。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　即座にS&Wを抜き、
+　キャルは敵の姿を探す。
+
+　少し離れた校舎の角の向こう側から、含み笑いの声がした。
+　一度聞いたら忘れようがない、
+冷たく粘つくような笑い声。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="right">//# drei2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「サイス……」
+
+<se id="2" src="" mode="fadeout" time="60">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「見事だったぞ。ドライ」
+
+<BOX type="3">//%m
+　姿を曝すことなく、
+　サイスはキャルに喝采を送った。
+
+<BOX type="4">//%sL
+「フィーアからアハトまで、まさか5人を一手に引き受けるとはな」
+
+「お前なら、
+　ファントムを名乗っても
+　何の差し支えもなかったよ」
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="right">//# drei2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そのファントムと、手前ェ、
+　まさか真っ向から
+　撃ち合う気かい？」
+
+<BOX type="2">//%w
+　キャルもまた、不敵に言い放つ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「まさか」
+
+「そこまで私は、
+　自信家ではないとも」
+
+<BOX type="3">//%m
+　言葉に続き、
+　人影が、物陰から躍り出る。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="right">//# drei2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　素早く銃口をポイントし……
+　そしてキャルは戦慄した。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　飛び出した人影は……だが力なく地に頽れる。
+　ただ突き飛ばされて出ただけの、それは意識を失った{姓}{名}の身体だった。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「な……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「安心しろ。死んではおらん」
+
+<BOX type="3">//%m
+　低く嘲るサイスの声は、
+　さらに冷たさを増していた。
+
+<BOX type="4">//%sL
+「もっとも、
+　お前の心がけ次第だがね。
+　ファントム」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「野郎……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　キャルの罵声を待たず、校舎の陰から再び銃声が轟き……
+　{名}の腿で血糊が飛沫を散らした。
+
+　苦痛の呻き声が
+　キャルの耳朶を打つ。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「口の訊き方に気をつけたまえ」
+
+<BOX type="3">//%m
+　サイスの声は嗜虐の喜びに満ちていた。
+
+<BOX type="4">//%sL
+「持っている銃を、すべて投げろ。私に見える所まで」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　歯噛みするキャルに……
+　だが逡巡しているゆとりは
+　与えられていなかった。
+<se id="1" src="gunfall2" mode="normal" loop="off">
+　S&Wを2挺とも、{名}が倒れている辺りまで投げる。
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「すべて、投げろと、言ったぞ」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“くそう……”
+
+<se id="2" src="gunfall" mode="normal" loop="off">
+<BOX type="2">//%w
+　絶望に胸を蝕まれながら、キャルは袖口に仕込んだATMバックアップも外し、投げつけた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「結構」
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="left">//# sice5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　都合3挺の銃を確認し、
+　サイスは勿体ぶった足取りで、
+　物陰から姿を現す。
+
+<BOX type="4">//%sL
+「残念ながら、幻滅だよ。ドライ」
+
+<BOX type="3">//%m
+　そう言って、さも悲しそうに眉を顰めるサイス。
+
+<BOX type="4">//%sL
+「たかが死に損ない一人のために、まさか本当に丸腰になってしまうとは……致命的な甘さだ」
+
+「所詮は、ただの小娘だな。
+　ファントムなどとは
+　おこがましい」
+
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="court^c">//#! court^c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　そしてサイスは、やおらルガーを構え直すと、{名}の足にもう一発撃ち込んだ。
+
+<BUSTUP NAME="drei" face="9" MODE="on" zoom="" ALIGN="right">//# drei^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　長く尾を引く{名}の苦悶に、
+　キャルの胸は引き裂かれる。
+
+<BOX type="5">//%sR
+「サイス……畜生!!」
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="left">//# sice5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　憎悪と涙を湛えた
+　キャルの眼差し。
+　だがそれを見返すサイスの表情は、むしろ喜びに満ちていた。
+
+<BOX type="4">//%sL
+「とはいえ……お前は美しいぞ。
+　ドライ」
+
+<BOX type="3">//%m
+　深く溜め息をつきながら、陶然と酔いしれたように、サイスは小さく首を振る。
+
+<BOX type="4">//%sL
+「その純粋な憎悪の相。
+　まるで天然の宝玉のようだ」
+
+<CLEAR><BACKGROUND SRC="ルガーアップ">//#! court^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　そしてルガーの銃口が、
+　ゆっくりと、
+　キャルに向けて鎌首をもたげる。
+
+<BOX type="4">//%sL
+「惜しいな。まったく惜しい。
+　お前はわたしの……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="court^c">//#! court^c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　銃声の轟き。
+　花開く血糊の花弁。
+
+　そして……
+　サイスの目が驚きに見開かれる。
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　2度目の銃声で、今度こそサイスは、もんどり打って地に倒れた。
+<se id="3" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+　何が起こったのか解らないまま、キャルは駆け寄り……
+　腹と頭を撃ち抜かれたサイスの骸を後目に、まず{名}の様態を確かめる。
+
+　命に別状は……ない。
+　弾もぜんぶ貫通している。止血さえすれば、しばらくは大丈夫だ。
+
+　{名}のズボンからベルトを抜いて、撃たれた大腿に巻き、
+　それからキャルは、サイスを背後から襲った銃弾の出所を見た。
+
+　校舎の壁に凭れて座り、力なく項垂れたセーラー服の少女は、一見、すでに事切れているかのようだった。
+
+<BOX type="2">//%w
+　キャルが歩み寄ると、少女は気怠げに、うっすらと瞼を上げる。
+
+<BOX type="5">//%sR
+「アイン……」
+
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="3770p1">//# 3770p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……{名}、は……？」
+
+<BOX type="2">//%w
+　キャルに助け起こされた腕の中で、開口一番、アインは訊いた。
+
+<BOX type="4">//%sL
+「無事だ。大丈夫」
+
+<BOX type="5">//%sR
+「……そう」
+
+<BOX type="2">//%w
+　それを聞き届けて、安堵の笑みを浮かべたアインは……
+　すでに瀕死の様態だった。
+
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　言葉を失ったまま、
+　キャルはアインの傷を確かめる。
+
+　胸も、腹も、致命傷。しかも時間が経ちすぎていた。もう処置のしようがない。
+
+　礼拝堂に押し寄せた、梧桐組の人海戦術は、さしものアインにも、やはり手に余るものだったのだ。
+　
+
+<BOX type="5">//%sR
+「{名}のこと、お願いね。
+　あなたなら……守れるわ」
+
+<BOX type="4">//%sL
+「だけど……」
+
+<BOX type="3">//%m
+　礼拝堂での決闘の、
+　結末の苦い記憶が、
+　キャルの胸を過ぎる。
+
+<BOX type="4">//%sL
+「だけど、あたしは、
+　あんたより……」
+
+<BOX type="3">//%m
+　皆まで言わせす、アインは小さく首を振る。
+
+<BOX type="5">//%sR
+「大丈夫。あなたなら……
+　あなたなら、
+　もっと強くなれるから……」
+
+<BOX type="4">//%sL
+「……」
+
+<BOX type="5">//%sR
+「あなたのこと、憎らしい……」
+
+「こんな風に、
+　人のこと憎いって思えるなんて、
+　わたし、想像もしなかった」
+
+<BOX type="2">//%w
+　抜け落ちていく魂を、
+　自ら見送るような遠い目で、
+　アインは淡々と語る。
+
+<BOX type="5">//%sR
+「やっと……判った。
+　わたし……恋してたんだ……
+　美緒や、あなたと……同じ風に」
+
+<BOX type="4">//%sL
+「あんただって……女だからな」
+
+<BOX type="3">//%m
+　掠れた声でキャルが言うと、
+　アインは小さく微笑んだ。
+
+<BOX type="5">//%sR
+「それって……ひやかしてるの？
+　それとも誉めてるの？」
+
+<BOX type="4">//%sL
+「……どうなんだかな」
+
+<BOX type="3">//%m
+　胸に蟠っていた憎しみの、最後のひとかけらが、じんわりと氷解していくのを……
+　そのとき、キャルは感じた。
+
+<CLEAR><BACKGROUND SRC="3770p2">//# 3770p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……いいわ。どっちでも」
+
+「最後に、
+　それが判っただけでも……
+　わたし……すごく、幸せだから」
+
+<BOX type="2">//%w
+　そしてキャルの腕の中で、アインの身体は、最後の重みを失った。
+
+//> right court^c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="court^c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　少女の穏やかな死相を、
+　そっと地面に横たえて、
+　キャルは立ち上がる。
+
+<BOX type="5">//%sR
+“この子は、確か……”
+
+<BOX type="2">//%w
+　{ヒロイン}と、そう{名}には呼ばれていた。
+
+　小さな悔恨が、
+　キャルの中に残る。
+
+　{ヒロイン}……
+　せめて最後に、
+　そう呼んでやればよかった。
+
+<CALC WORKNAME="3770" OPERATOR="1">//
+<A HREF="4000.txt" OPERATOR="">//~ 4000

@@ -1,0 +1,10 @@
+<BOX type="0">//%w
+　何の気なしに、今夜は.45口径のコルトを手にとってみた。
+
+<CALC WORKNAME="射撃音" OPERATOR="11_02">//
+<CALC WORKNAME="銃" OPERATOR="コルト">//
+<CALC WORKNAME="銃画像" OPERATOR="ガバメント">//
+<CALC WORKNAME="射撃画像" OPERATOR="ガバメント2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用CV">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

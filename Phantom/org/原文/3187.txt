@@ -1,0 +1,321 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right classroom3b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="classroom3b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ねえ、江漣」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="left">//# elen3^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ん？　どうしたのよ美緒。
+　浮かない顔して？」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「江漣って、ずっと……
+　アメリカの学校に
+　通ってたのよね？」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="left">//# elen3^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そうだけど？」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「向こうだと、やっぱり……
+　態度のはっきりしない子って、
+　嫌われるのかな」
+
+<BUSTUP NAME="elen3" face="8" MODE="on" zoom="" ALIGN="left">//# elen3^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ん～」
+
+「嫌われる、
+　ってことは、ないけどね」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="left">//# elen3^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「でも、
+　奥手な子が損するってのは、
+　どこでも同じじゃない？」
+
+「やっぱり、おいしい所は他の子に持って行かれちゃうもの」
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そう」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ねぇねぇ、早く学食行こ～よぉ」
+
+「購買部、売り切れちゃうよ」
+
+<BUSTUP NAME="elen3" face="8" MODE="on" zoom="" ALIGN="right">//# elen3^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、早苗は？」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ああ、それなんだけどね、何だか江漣のお兄さんに用があるとかで、どっか捜しに行っちゃったよ」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^a 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ま、後から来るわよ、きっと。
+　先に行ってよ」
+
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="right">//# elen3^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうね」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="薬莢廊下落ちる9ミリ1" mode="normal" loop="off">
+<BOX type="2">//%w
+　そう笑おうとした{姓}江漣は、ふと、窓の外から投げ込まれた真鍮色のきらめきを目に留めた。
+
+　誰にも気付かれることなく、小さな金属音をたてて教室の床に転がったのは……
+
+　おそらく、誰にも判別できる筈のないものだった。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　窓の外を見やっても、そこにはもう、誰もいない。
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どぉしたの？　江漣」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="right">//# elen3^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、うん、ゴメン」
+
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="right">//# elen3^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっと急用思いだしちゃった」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「はぁ？」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="right">//# elen3^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「すぐに行くから、
+　席、とっといて」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　言うが早いが、美緒たちの返事を待たず、江漣は小走りに教室の外に出た。
+
+　その途中、何気ない素振りを装って、床に転がった9mmパラベラムの空薬莢を、さりげなく屑籠の裏に蹴り込んで隠したが、それを見咎めた者は誰一人としていなかった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right court2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="court2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まったくもう……」
+
+<BOX type="2">//%w
+　誰にともなく、早苗は苛立たしげに呟いた。
+
+<BOX type="5">//%sR
+“どぉこに雲隠れしたわけ？
+　あの唐変木は”
+
+<BOX type="2">//%w
+　あの男、普段は4限の授業が終わった後も、他の男子が殺気立って学食へと駆けていくのを後目に、ボーっと窓の外を眺めているような手合いなのだが……
+
+　それが今日に限っては、昼休みになるや否や、さっさと姿を消してしまった。
+
+　まさか学食で既にもう、一人でがっついているんじゃぁ……
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　最悪だ。
+　途方に暮れて宙を仰ぐ早苗。
+
+　{姓}といい、美緒といい……
+　何でこう上手い具合に咬み合わないんだろうか？
+
+　もたもたしていては、来週からは期末試験一週間前だ。
+　そうなってからではアプローチもへったくれもない。
+
+　早苗とて、我が身のことで精一杯だ。とても美緒の面倒は見ていられない。
+
+　そして試験が終わったら、あとはなし崩しに春休み……
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　天下分け目は、今週の土日だ。
+　それまでに、どうあってでも美緒と{姓}をくっつけなければ。
+
+　さもなければ美緒は、せっかくの春休みを見事に棒に振ることになる。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Excuse me?」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「う、あ、はい？」
+
+<BOX type="2">//%w
+　唐突に頭上から降って湧いた英語に、早苗は身体を硬直させる。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　おそろしく背の高い外国人が、早苗の背後で、にこやかに微笑んでいた。
+
+　見知らぬ男だが、こと外国人というだけなら、篠倉学園では珍しくもない。
+
+　数人いる英会話の教諭がそうだし、帰国子女の転入が盛んな篠倉では、その父母が来校することも多い。
+
+<BOX type="4">//%sL
+「チョット失礼シマス。
+　人ヲ探シテイルノデスガ……」
+
+<BOX type="3">//%m
+　何やら異様な雰囲気の男だが……
+　まだ日本語には不慣れなようだ。
+
+　舌足らずな発音のくせに、やたらと堅苦しい言葉遣い。
+　わけもなく早苗は優越感と親切心に駆られてしまった。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わはは、
+　ナイスチューミーチュー!
+　メーアイヘルピュ～？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「{姓}{名}トイウ生徒、
+　アナタ、ゴ存ジナイデスカ？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はぃ？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ヨロシケレバ、彼ニ言伝ヲ
+　オ願イシタイノデスガ……」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　{姓}の知り合い……だろうか？
+　別に意外な話ではない。
+
+<BOX type="5">//%sR
+“そういや、あいつも
+　アメリカ育ちだったっけ”
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　異相の外人の用件は、聞けば、実に簡単なものだった。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……オ～イェスイェス、
+　ノープロブレム」
+
+「ん～ジャスターモメント。
+アイル・ビー・バック・ス～ン!!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Thanks」
+
+<A HREF="3188.txt" OPERATOR="">//~ 3188
+
+
+
+「Thanks」
+
+<A HREF="3188.txt" OPERATOR="">//~ 3188

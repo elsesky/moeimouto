@@ -1,0 +1,205 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「恐縮ですな。こんな夜更けに、
+　わざわざお越し頂くとは」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「もう電話では埒があかない」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あんたのファントムは、最後に
+　裏切るのがジンクスなのか？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いやはや、
+　面目次第もありません」
+
+<BOX type="2">//%w
+　この期に及んでも、サイスの慇懃な不遜さは変わらない。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「で、現状はどうなっている？
+　ミズ＝リズィからの報告は？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それ、なのですが……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「つい先ほど、彼女が瀕死の重体で
+　担ぎ込まれてきたところでして」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「な……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうやらファントムと
+　接触した模様です」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どこでだ？
+　詳しいことは聞き出せたのか!?」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いやはや、何と申しますか……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どうなんだ!?」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何でもファントムは、
+藤枝美緒嬢を拉致したそうで……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……貴様らは……!!」
+
+<BOX type="3">//%m
+　かつてない怒りが、
+　志賀の内部を焦がしていた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「つきましては、
+　我がインフェルノが責任を持って
+　事態を収拾いたします」
+
+「決して
+　梧桐組の手は煩わせません」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ふざけるな……」
+
+「貴様にとっては……
+万事が織り込み済みなんだろうが。ギュゼッペ！」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「滅相もない」
+
+「ことはインフェルノの沽券に関わります。私は藤枝美緒さんの保護に死力を尽くす所存ですとも」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「信用できるか！」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ミスタ志賀の危惧なさるところは察しておりますとも」
+
+「また横浜のような乱痴気騒ぎを
+起こすまいかというのでしょう？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今回はインフェルノではなく、
+　私の私有するスタッフを
+　召喚しました」
+
+「完璧に訓練され、統制された、
+究極の兵士です。兵士というものの
+在るべき姿を示す者たちです」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「失礼ながら……こうした危機に
+馴染みのない梧桐組の皆さんでは、
+ファントムを相手取るのは難しい」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　サイスの言い分は、志賀とて正論と認めざるを得なかったが、それでも志賀は、これ以上インフェルノを当てにする気にはなれなかった。
+
+　この連中と手を組んで、たしかに益するところは大きかった。
+　だが、その代償にどれほどのものを失ったことか？
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「解っているだろうが、
+　何をするにしろ
+　逐一報告してもらおうか」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「この国で勝手な真似は、
+　許さんぞ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「承知しておりますとも」
+
+<A HREF="3500.txt" OPERATOR="">//~ 3500

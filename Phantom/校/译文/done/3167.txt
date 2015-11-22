@@ -1,0 +1,20 @@
+<BOX type="0">//%w
+  自己首先要考虑的……是如何将枪带在身上。
+
+　无论如何都要优先顾及隐蔽性。自己带枪的事绝对不能暴露。
+
+　有可能藏在学生服里的左轮手枪……
+　既然有这个限定条件，答案就只有MATEBA了。
+
+　这把枪可以根据需要更换枪管。
+　换上51mm枪管的话，这把MATEBA的尺寸就会变得非常小。
+
+　考虑到体育课换衣服的问题，枪套肯定是不能带的。
+  经过反复试验，我决定将枪别在腰后。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="儅僥僶">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儅僥僶b">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儅僥僶b2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡MB2">//
+<A HREF="3170.txt" OPERATOR="">//~ 317070

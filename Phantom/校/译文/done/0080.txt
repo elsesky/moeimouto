@@ -1,0 +1,235 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right roomS wide 255 elen1 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="roomS">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　接到命令的Ein，到达赛斯·玛斯塔的府邸时，赛斯正在检查他那些引以为豪的收藏品。。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　从很早以前，赛斯就非常热衷于收集古今东西方的枪械。
+ 其中几款枪崭新而独特的设计，强烈刺激着赛司的审美意识。
+
+　那是以处于自动手枪黎明时代的博查特C93、毛瑟C96和鲁格P08……
+
+（注：博查特C93，1893年雨果·博查特开发的世界上第一把自动手枪。
+  毛瑟C96，1896年毛瑟兄弟开发的自动手枪，在中国常被称做“20响”、“盒子炮”。
+  鲁格P08，1900年乔治·卢格开发的博查特C93改进型，1908年被德国军队选用）
+
+　他一把一把地拿起来，一边陶醉于它们的形状和结构的触感，一边开始细心地检查。
+
+　对于赛斯来说，这是无法替代的最幸福的时刻。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Zwei的训练怎么样了？」
+
+<BOX type="2">//%w
+　思绪完全寄托于被分解的手枪零件之上的赛斯，对Ein这样问道。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="left">//# elen1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「技术层面的训练，已经接近完成了」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔……」
+
+<BOX type="2">//%w
+　从埋头工作着的赛斯的侧脸上，无法看出他对Phantom的回答究竟有多大的兴趣。
+
+对于赛斯来说，收藏品的检查要遵循严密的程序。
+ 检查的顺序需要按照枪的开发年代来进行。这都是为了追溯其结构和技术的进化历史。
+
+<CLEAR><BACKGROUND SRC="automag_000">//# 0295p1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　现在，他正在分解的最后一款手枪是收藏品中年代最新的。
+ 而且，是一支因其独特性和稀有性而颇具知名度的手枪。
+
+　AMT-AUTO-MAG-180，
+（注：Arcadia-Machine&Tool公司生产的AUTO-MAG的改进型）……
+　它是自动手枪中首次尝试使用马格南子弹、野心勃勃的实验作。
+
+　但因结构过于复杂而导致频繁发生故障，被刻上了失败品的烙印，成为了被遗忘的悲剧之枪。
+
+　特殊的专用子弹也断绝了供给，如今能依靠的只有自己制作的成品。
+
+　鉴赏完内部结构后，心满意足的赛斯又开始把枪组装回原来的样子。
+
+<CLEAR><BACKGROUND SRC="roomS">//
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「差不多到时候了……」
+
+「恰倒好处的课程，要先从精神上训练，然后再转向实战」
+
+<BOX type="2">//%w
+赛斯一边用熟练地手法组装着那些谜一样的复杂零件，一边自言自语地说。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+  虽然是追求杀伤力的枪，
+  但外形却很美观。
+
+以圆筒为基调的细长枪管和微微呈现锥形的枪身。 更妙的是由三次曲面构成的大角度枪柄。
+
+外形高贵，气质优雅，丝毫没有之后时代里马格南手枪所带的那种粗鲁狂野的气息。
+
+它那纤细的美感中，隐藏着马格南弹无与伦比的破坏力。可以说这就是AUTO-MAG的魅力所在。
+
+<BOX type="2">//%w
+　最后，擦了擦渗出来的枪油，赛斯结束组装，将枪放回到桌上。
+
+　至此，一次枪支收藏品的检查工作就完成了。
+  接下来，该轮到兵器的检查了。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Ein，过来」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　在赛斯不使用她那被Inferno授予的称号“Phantom”，而是像从前一样称呼她为“Ein”的时候……
+
+　那是赛斯在把她当作自己的私有财产来对待。
+
+　追求兵器之美的赛斯，经过他自己的手所创作出来的最完美的艺术。
+　就是这位被称作Ein的少女。
+
+<CLEAR><BACKGROUND SRC="傾僀儞僒僀僗偍憒彍俢">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+跟以往一样，
+Ein脱掉了衣服，露出了胴体。
+遮罩油灯的微光笼罩着她华美而纤细的身资，
+划出一圈淡淡的轮廓。
+
+　赛斯一边往手上抹着准备好的发油，一边抓住毫无防备站在那里的Ein的肩膀。
+  （注：发油，日本女性盘“日本髪”所用的一种油，粘性较大）
+
+<BACKGROUND SRC="0080p2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　赛斯的手爆出青筋，
+  用足以让人面部扭曲的力度，
+  揉捏着Ein柔软的肩膀。
+
+　但是藏在其下那，
+  结实刚硬的三角肌的触感，
+  却没有从赛斯的手指间逃脱。
+
+　这是为了能让小巧的身体瞬间爆发出足以置人于死地的力量而锻炼出的……被磨练至极限的、细长柔软的肌肉条。
+
+　它就像是锻炼和研磨都已达极致的东洋刀剑一样威力无比。
+
+　这些致命的肌肉组织之上所包裹着的脂肪，不仅可以控制力量，还能起到完美的伪装效果。
+
+　柔美起伏的肌肤下，
+  秘密隐藏着致命的威力……
+  这样的危险性，
+  没有人可以看穿。
+
+<BOX type="5">//%sR
+「你真是太完美了」
+
+<BOX type="2">//%w
+赛斯把脸靠近她白皙细嫩的皮肤，像是不愿放过任何一个细微的伤口和污点一样、仔细地检查。同时用手指在她的全身涂抹着发油。
+
+　Ein一动不动，任由赛斯的手指在她身上滑行。
+
+　小腿、大腿、臀部、腹部……赛斯的手快速地移动，揉捏着柔软的肉，
+  而且每当探测到细长坚韧的肌肉时，他都会深深陶醉在那从指尖传来的愉悦感中。
+
+　不知多少次，Ein都凭借着她的容貌使任务变得轻而易举。
+
+　对于这样一位楚楚可怜的少女，没人能从她的身上嗅出死亡的危险气息。
+  就是这一点点的大意，使目标露出致命的破绽。
+
+<CLEAR><BACKGROUND SRC="roomS">//
+<WIPE EFFECT="fade" TIME="10">
+　纤细的美丽，
+  瞬间化为狰狞的破坏力……
+
+　好象突然间来了灵感，赛斯从桌上拿起刚刚组装完毕的AUTO-MAG。
+
+<BACKGROUND SRC="傾僀儞僒僀僗偍憒彍俛">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……拿着这个」
+
+<BOX type="2">//%w
+  遵照他的命令，Ein用右手的手指握住了AUTO-MAG的把手。
+
+　被打磨得闪闪发亮的枪身上，
+  还有少女那虚无缥缈的瞳孔中，
+  闪烁着油灯的光芒。
+
+<BOX type="5">//%sR
+「来，把枪举起来让我看看」
+
+<BACKGROUND SRC="0080p1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　纤细的手腕，
+  慢慢地举起了这1.7千克的重量。
+
+ 不锈钢的凶器与雪白肌肤的凶器。
+  两个本应互相矛盾的事物，
+  完美地融合在了一起。
+
+　在美的意识刺激下，塞斯的胸中顿时充满了宗教一般的喜悦。
+
+　极其激动的赛司从背后抱住了Ein的肩膀，将嘴唇凑到了她的脖子上。
+
+<BOX type="5">//%sR
+「Ein……你是完美的。
+  你是我培养创造出来的，
+  完美的杀人兵器」
+
+<BOX type="2">//%w
+　将一个少女打造至如此完美的地步，这是赛斯的成就。
+ 他完全陶醉于自身的才能之中了。
+
+然而真正的成就应该是不朽的。
+ 不管跨越几度时空，都能永远放射出光芒。
+
+　Ein的完美是永恒的吗……
+  这一点，很快便会得到证实。
+
+对于好不容易才得到的稀有素材，赛斯没有亲自调教，而是交给Ein处理，为的就是这个目的。
+
+<BOX type="5">//%sR
+「Zwei就由你来完成，
+  用你的手，
+  把他变得像你一样完美吧」
+
+<BOX type="4">//%sL
+「……是……」
+
+<BOX type="5">//%sR
+「这是为了完成你而进行的，
+  最后的工序」
+
+「Ein，把你的完美传承给下一代吧」
+
+<BOX type="4">//%sL
+「……是，主人……」
+
+<calc workname="gun17" operator="1" mode="global">
+<A HREF="0090.txt" OPERATOR="">//~ 0090

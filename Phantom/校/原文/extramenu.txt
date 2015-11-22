@@ -1,0 +1,38 @@
+<INCLUDE SRC="include.h">
+
+<system cmd="savemode" mode="off">
+<SYSTEM INIT="TRUE">
+<BACKGROUND SRC="extra\extra_menu_back">
+<コマンド メニュー>
+<CHOICE HREF="#CG"   FILE="data\extra_cg_01.png;data\extra_cg_02.png;data\extra_cg_02.png" x="278" y="209">
+<CHOICE HREF="#REC"   FILE="data\extra_rec_01.png;data\extra_rec_02.png;data\extra_rec_02.png" x="278" y="259">
+<CHOICE HREF="#GUN"   FILE="data\extra_gun_01.png;data\extra_gun_02.png;data\extra_gun_02.png" x="278" y="309">
+<CHOICE HREF="#SOUND"   FILE="data\extra_sun_01.png;data\extra_sun_02.png;data\extra_sun_02.png" x="278" y="359">
+<CHOICE HREF="#title" FILE="data\title_01.png;data\title_02.png;data\title_03.png" x="697" y="25">
+<WIPE EFFECT="fade" TIME="10">
+<SELECT>
+
+
+<MARKER NAME="#title">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="menu#MAIN" OPERATOR="">
+
+<MARKER NAME="#CG">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="cg.nps" OPERATOR="">
+
+<MARKER NAME="#REC">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="recollection.nps" OPERATOR="">
+
+<MARKER NAME="#GUN">
+<clear>
+<A HREF="gun1.nps" OPERATOR="">
+
+<MARKER NAME="#SOUND">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="sound.nps" OPERATOR="">

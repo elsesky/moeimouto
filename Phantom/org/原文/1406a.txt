@@ -1,0 +1,19 @@
+<BOX type="0">//%w
+　しばらく持ち歩いているうちに、すっかりUSPを気に入っていた。
+
+　.45口径のストッピング＝パワーはそのままに、
+　ガバメントで最大のネックだった装弾数は五割増。
+　ダブルアクションの簡便さも、使ってみて改めて思い知った。
+
+　何と言っても、900グラムを切る軽量さがありがたい。
+
+　こんな銃を手放すなんて、リズィも、つくづく偏屈な女だ。
+
+<CALC WORKNAME="射撃音" OPERATOR="10_01">//
+<CALC WORKNAME="銃" OPERATOR="USP">//
+<CALC WORKNAME="銃画像" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="射撃画像" OPERATOR="USP2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用UP">//
+<CALC WORKNAME="1406a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

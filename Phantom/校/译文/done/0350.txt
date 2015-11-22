@@ -1,0 +1,421 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0350x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="sea" mode="fadein" old="fadeout" time="10" loop="on">//$ sea.swa 0 255
+<BACKGROUND SRC="0350x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　东方渐渐泛起的一片朱红色，慢慢染红了天空。
+
+　倒映在海里的那片红色，被轻轻的波浪揉碎，
+  使水面闪烁着珍珠般的光芒。
+
+　在那片珍珠色的光芒中，我仰面漂浮着，反复对天空问着没有答案的问题。
+
+　为什么躲开了？
+
+　为什么那个时候，身体动起来了？
+
+　做了这样的事，自己还是想活下去吗？
+
+　自己还要装作什么都没有发生、若无其事地迎接早晨的到来吗？
+
+　我用这双手击中了{ヒロイン}，
+　可即便如此，自己还是……
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　Zwei……
+
+　这个我已经听厌了的德文词语，不知道又是谁在喊着。
+
+　Zwei……
+
+　看样子，好像真的有人在呼喊着。
+
+//> left 0350x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0350x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　真是的。
+  适可而止吧。
+  我不叫那个名字。
+
+　不过，名字这种东西……叫什么都已经无所谓了。
+
+<BOX type="5">//%sR
+「Zwei!
+  喂，Zwei!!」
+
+「你还活着的话就回答我!
+  喊一声就可以了!!」
+
+<BOX type="0">//%w
+　我环视了一下四周，发现在不远处的栈桥上，莉兹蹲在那里。
+
+　在冷水中泡着的冰凉的手脚，感觉已经不是自己的了。
+  我用力地划着水，慢慢地朝莉兹所在的栈桥游去。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay5 wide 255 rizy^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="bay5">//
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「笨蛋……」
+
+<BOX type="0">//%w
+　已经听惯了的莉兹的漫骂，今天早上却显得有气无力。
+
+<BOX type="5">//%sR
+「我还以为你死了呢」
+
+<BOX type="0">//%w
+　我拖着沉重的身体爬上了栈桥，将湿透了的夹克脱下来扔在一边。
+
+「你的脚怎么样？」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「只是小伤而已」
+
+「不过，走到这里还是有点吃力」
+
+「克劳蒂亚和马格维雅马上就会带援军来了」
+
+「真是的，就不能来的早一点吗」
+
+<BOX type="0">//%w
+「……活下来的，只有你一个人吗？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，作为代价，
+  敌方也已经全灭了」
+
+<BOX type="0">//%w
+「赛斯呢？」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹愁眉苦脸地望着水平线。
+
+<BOX type="5">//%sR
+「让他逃走了」
+
+<BOX type="0">//%w
+　她吐出这样一句话。
+
+<BOX type="5">//%sR
+「我赶到的时候，他已经上船了」
+
+「如果我的脚还能跑的话，
+  也许还能抓住他……」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，好在你还活着」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「而且啊，赛斯如果没有那个小丫头，不是就什么都做不了吗？」
+
+「能够杀死Phantom已经很好了」
+
+<BOX type="0">//%w
+「……」
+
+「她……死了吗？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯？哦，赛斯把尸体带走了」
+
+「是你做的吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过你还真是厉害啊」
+
+「一枪就把那个人偶丫头给打死了」
+
+<BOX type="0">//%w
+「……」
+
+　可是，看到我的脸色后，
+  莉兹的表情马上阴沉了下来。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你怎么了？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　第一次满怀恨意地扣下扳机。
+  第一次如此渴望他人的死亡。
+
+　可是，这份怨恨……最后却是由谁来承受的呢？
+
+「那颗子弹……」
+
+「那颗子弹，本来应该击中赛斯的」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……是这样么」
+
+「……抱歉啊。
+  我没能帮上什么忙」
+
+「要是我能多拖住她一会……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹，你没有必要道歉。
+　从最开始，就是我的错……
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哦，总算来了啊……」
+
+<se id="1" src="撈暷幵廤抍憱峴壒" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="bay0">//# dummy 20 bay0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　顺着莉兹的视线，我看向集配所的对面，
+  十几辆车正朝着这里飞驰而来。
+
+<wait time="800">
+<se id="1" src="" mode="fadeout" time="20">
+<se id="2" src="撈幵僪傾暵仌懌壒" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="bayMob">//# bayMob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　车上全副武装的男人们没等车停稳就跳了下来，
+  干净利索地朝周围散开。
+
+　现在才摆出这样的阵势，已经没有任何意义了。
+
+　随后开进来一辆高级轿车，
+  麦格沃伊和克劳蒂娅从车上走了下来。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「事情怎么样了？赛斯呢？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是对不起，让他逃走了」
+
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# crou2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「来迟了啊……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不过，也有个好消息。
+  Phantom死了」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哦？」
+
+<BUSTUP NAME="crou2" face="9" MODE="on" zoom="" ALIGN="left">//# crou2^9 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「在这里……吗？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「和我们预想的一样，
+  那个小丫头果然与赛斯汇合了」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是Zwei亲手将她打死的哦」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哦……」
+
+<BUSTUP NAME="crou2" face="5" MODE="on" zoom="" ALIGN="right">//# crou2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这是真的吗？Zwei」
+
+<BOX type="0">//%w
+　虽然想要回答克劳蒂娅的问题，
+  可是我张开嘴，却不知道该说什么。
+
+　最后，我只能低着头，将话语全部吐露在心里。
+
+　骗人的。
+　一定是骗人的。
+
+　……这一切，全都是骗人的。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　为什么啊？　{ヒロイン}。
+
+<CLEAR><BACKGROUND SRC="0340p2">//# 0340p2 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　既然你要守护那家伙到这种地步……
+　那么，朝我开枪不就好了吗。
+
+　与其让自己以囚徒之身残存于世，我明明更希望能让你活下去啊。
+
+　不知是谁的手搭在了我的肩上。
+
+<CLEAR><BACKGROUND SRC="bayMob">//# inferuno1 20 bayMob 1 
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 bayMob 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我很抱歉曾经怀疑你」
+
+「不过，发生了那种变故，我必须要慎重地判断才行」
+
+「希望你能够理解」
+
+「现在我已经确认了你对组织的忠诚」
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+
+「我希望你能在今后继续为组织效力」
+
+「拜托了，Phantom」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……哎？」
+
+<BUSTUP NAME="crou2" face="5" MODE="on" zoom="" ALIGN="right">//# crou2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　刚开始我以为是自己听错了。
+  被称作Phantom的少女已经死了。
+  就在不久前，被我亲手……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「觉得不可思议吗？」
+
+「那样身手不凡的前代Phantom，
+  竟然被他以一人之力除掉了」
+
+「从现在开始，
+  我要称他为Phantom。
+  诸位有什么意见吗？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这个嘛，说的也是」
+
+<BUSTUP NAME="crou2" face="9" MODE="on" zoom="" ALIGN="right">//# crou2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那么，他就继承这个称号了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　现在的我，无论被怎样称呼都不会再反抗了。
+
+　对我来说，作为人应该守护的东西已经一样都没有了。
+　所以说我是鬼也好、恶魔也好、畜生也好……
+　全都无所谓了。
+
+　可是，为什么偏偏是……Phantom？
+
+　真是杰作。
+  真是笑话。
+　这个世界究竟要疯狂到什么地步？
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「祝贺你，从今天开始，
+  你站上了成功的颠峰」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你要让Phantom之名，
+  响彻整个恐怖的黑暗世界」
+
+<CALC WORKNAME="0350" OPERATOR="1">//
+<A HREF="1000.txt" OPERATOR="">//~ 1000

@@ -1,0 +1,32 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left sibuya4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="sibuya4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　足を棒にして探し回ったものの、{ヒロイン}の行方は杳として知れない。
+
+　いたずらに時は過ぎ、ただ焦燥ばかりが募ってくる。
+
+　キャルの監視がブラフなのも、今では明白だった。
+
+　逃げる素振りこそ見せていないが、それでも今のこの行動は、不審がられて然るべきだろう。
+　もし本当に見張っているなら、何らかの警告があったはずだ。
+
+　にも関わらず、依然、携帯電話は沈黙を守っている。
+
+　それともまさか、すでにキャルは{ヒロイン}の手で……
+
+　絶望的な推測に、その場で跪きかかり、
+　そんな自分を叱咤する。
+
+　望みを捨てるな。
+　今は悲観しているような時間はない。
+
+<A HREF="3595.txt" OPERATOR="">//~ 3595
+
+5

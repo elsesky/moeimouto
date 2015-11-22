@@ -1,0 +1,187 @@
+//> left houseC wide 255
+<se id="1" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="houseC">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　到达克劳蒂娅的住宅的时候，已经过了午夜时分。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　和往常一样，在我检查警报器是否有异常情况的时候，
+  克劳蒂娅快步走进了浴室。
+
+　即使只有自己，我在这里也不会有任何不便。
+<se id="1" src="liquor" mode="normal" time="" loop="off" effect="">//!se liquor
+　打开客厅的灯，在吧台兑好威士忌，选择今夜要放的唱片。
+  对别人的家再怎么熟悉，也就不过如此了吧。
+
+　我考虑一番之后，选择了平日里常听的钢琴爵士乐的唱片，把它装进唱机。
+  差不多，克劳蒂娅也该从浴室里出来了。
+
+　伴随着身后响起的令人放松下来的钢琴的旋律，
+<se id="1" src="liquor" mode="normal" time="" loop="off" effect="">//!se liquor
+　我返回吧台准备她的那份饮品。
+
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　像商量好的那样，头发还未干透的克劳迪娅穿着睡袍，准时回到了客厅。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我走到沙发前弯下腰，把玻璃杯递给她。
+
+<se id="1" src="僐僢僾偵昘" mode="normal" time="" loop="off" effect="">//!se liquor
+
+<BUSTUP NAME="crou3" face="0a" MODE="on" zoom="" ALIGN="right">//# crou3^0a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……谢了」
+
+<BOX type="0">//%w
+　即使是变成两人独处，克劳蒂娅的话语依旧很少。
+  大概还带着之前会议时的那种心情吧。
+
+<BOX type="5">//%sR
+「纽约怎么样？」
+
+<BOX type="0">//%w
+「无聊透了。除了任务，我没什么能做的」
+
+「……你怎么样？」
+
+「我不在的时候，发生了什么吗？」
+
+<BOX type="5">//%sR
+「没发生什么特别的事」
+
+<BOX type="0">//%w
+「真的？」
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怎么了，这么着急」
+
+<BOX type="0">//%w
+「你好像一直都很累啊」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「有什么让你这么焦虑吗？」
+
+「最近你的做法有些太蛮干了，这不是你的风格啊」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看上去像是那样吗？」
+
+<BOX type="0">//%w
+「……」
+
+　不管怎样都不想对我说实话吗。
+
+「不能和我商量吗？」
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　微微一笑，克劳蒂娅靠了过来。
+
+<BOX type="5">//%sR
+「……不知什么时候起，你变成『我』了呢」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「和一年前的你相比，简直像变了一个人。
+　你真的变强了呢」
+
+<BOX type="0">//%w
+「你以为是因为谁的缘故啊？」
+
+<BOX type="5">//%sR
+「是因为，我吗？」
+
+<BOX type="0">//%w
+「没错哦」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这样露骨的回答，逗得克劳蒂娅笑了起来。
+
+　看来她是真的想岔开话题。
+  既然这样，我也就没有必要打破沙锅问到底了。
+
+　责任越重，需要操心的事越多，她所背负的秘密也就越多。
+  就算不愿意，出于慎重考虑，她也必须注意自己的言论。
+
+　自己会对这种事感到焦躁，看来我们还不能称得上是彼此相互理解。
+  这是当然的吧。
+  不管怎么说，她毕竟是Inferno的干部吧。
+
+　毫无缘由的伤感，偶然间在胸中一闪而过。仅此而已。
+
+　如果我们两人是非常普通的、没什么特殊之处的男女……
+　应该就不会像这样持有未知的秘密了吧。
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「总有一天，我可以对你吐露一切」
+
+「到那个时候，{名}，我会最先和你商谈的哦」
+
+<BOX type="0">//%w
+「……这样吗」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left roomC1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　不知不觉间，靠在我的肩上的克劳蒂娅安静地睡着了。
+  我轻轻地把她抱到了卧室的床上。
+
+　然后，我返回客厅，带着那杯还未饮尽的威士忌，来到了阳台上。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left teras wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="teras">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一年与半年……
+
+　自从来到这个国家，一直以来流逝着的只有时间而已。
+
+　虽然我曾经有过记忆被封存、迷失自我的时期，
+  但扣除这段时间，我依旧感觉自己已经经历了漫长的岁月。
+
+　现在想起来，在日本度过的平和的生活，
+  简直就像是前世的记忆一样。
+
+<CALC WORKNAME="1022a" OPERATOR="1">//
+<A HREF="1024b.txt" OPERATOR=""0280=1>//~ 1024b
+<A HREF="1024a.txt" OPERATOR="">//~ 1024a

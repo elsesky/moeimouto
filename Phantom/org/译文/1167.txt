@@ -1,0 +1,25 @@
+<BOX type="0">//%w
+MATEBA-M2006M……
+我选择这个从纽约送来的礼物，并不单单是因为被它的新奇所吸引。
+
+　说起来，这次的任务就像是在暗中持续进行调查一样。
+  所以用的枪自然是隐蔽性越高越好。
+
+　即使是自己爱用的“蟒蛇”，那4英寸长的枪管还是有些碍事。
+
+那么，就选这把MATEBA好了。
+除了结构特殊以外，这把枪还有另外一个特点：可以用专用工具换上不同长度的枪管。
+
+<CLEAR><BACKGROUND SRC="儅僥僶b">//# 儅僥僶b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+换上最短的51mm枪管后，这把MATEBA对于此次的任务真是再合适不过了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="儅僥僶">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儅僥僶b">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儅僥僶b2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡MB">//
+<CALC WORKNAME="1167" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

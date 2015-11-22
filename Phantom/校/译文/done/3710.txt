@@ -1,0 +1,257 @@
+//> left INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　仰望着透过彩色玻璃射进的七色斜阳，我回想起过去的日子。
+
+　想起来，自己已经活的太久了。
+
+　说起来真是讽刺。
+  过去的时候，自己曾经想要为凯尔的死而放弃生命。
+
+　可再见到还活着的凯尔，自己却又要与她以命相搏。
+
+　为什么我们的人生会错乱到如此地步呢？
+
+　那一天，自己为什么没有马上确认凯尔是否还活着呢。
+
+　原因并不复杂。
+
+　焦急与过度自信，最终使我背叛了承诺。
+
+　一个错误接着另一个错误，
+  错误的接连出现改变了我们的命运。
+
+　如果没有遇到我，如果没有爱上我，
+  凯尔应该就会拥有一个不一样的人生。
+
+　我不知道还能否来得及。
+　但即便如此，一切都还为时未晚……自己想要如此坚信。
+
+　我想让凯尔回到属于凯尔的人生中去。
+
+　至少，让我先祈祷一下吧。
+　要是从{ヒロイン}那里学会如何祈祷就好了……
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　正当我这样想着的时候，背后传来了刀刃一般的杀气。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# drei3^3 20 INchurch3 1
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="right">//# drei3^3 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「到底是什么风把你又吹回来了？」
+
+「你应该是从不决斗的吧」
+
+<BOX type="0">//%w
+「……」
+
+　我什么都没有说。
+　张开嘴，从里面冒出的一定会是呜咽吧。
+　面对活生生的凯尔，我不想再一次地扮演令自己生厌的演员。
+
+<BUSTUP NAME="drei3" face="2" MODE="on" zoom="" ALIGN="right">//# drei3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么了，刚才那股气势去哪了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　伴随着打破这片严肃的寂静的脚步声，凯尔一步步走向祭坛。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei3^3 20 INchurch4 1
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="right">//# drei3^3 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「想怎么办？」
+
+<BOX type="0">//%w
+「怎样都可以，就按你的方式来吧」
+
+<BUSTUP NAME="drei3" face="2" MODE="on" zoom="" ALIGN="right">//# drei3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔……游刃有余嘛」
+
+<se id="1" src="15_03" mode="normal" loop="off">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔冷笑一声，扔掉了手中的AUG，接着从怀中取出一个散发着黄铜光辉的东西。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# 1210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　带有八音盒装置的怀表……回忆充满了我的内心。
+
+　你还带着它吗……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^4 20 INchurch4 1
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「手枪决斗。
+  曲子一完就开枪，可以吧」
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　说着，凯尔将怀表放在祭坛的中央，用指尖拨开了表盖。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+　熟悉的纤细旋律在厚重的沉默中响起。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^3 20 INchurch4 1
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「听过这首曲子还没被杀的……只有你一个哦，{名}」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔向后退着远离祭坛，将轻巧的右手放在枪套的位置上。
+
+　我也向后退，接着解开制服的前排扣，在凯尔的注视下将枪别在了腰带上。
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我在圣歌队席的边上停下了脚步。
+　凯尔也停在了神父室的前面。
+
+距离……大约有10米。
+除了举枪对射，我们没有别的选择。
+拔枪的速度将决定决斗的胜负。
+
+　当然，我对胜负并不在意。
+
+　这场决斗，自己只要拔枪就行了。
+  之后……
+
+　只要等待凯尔的子弹击中身体的那一瞬间到来就行了。
+
+　就像往昔的赞美歌的余韵一般，纤细、温柔的旋律充满了阴暗的世界。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^3 20 INchurch4 1
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔……
+　我喜欢你。
+
+　可是，为什么？
+
+　仅仅是为了承受她的仇恨，自己就必须走上死亡的不归路。
+
+自己爱着她，
+自己被她所爱，
+可为什么，到最后必须要和她以敌人的身份迎来结束呢。
+
+<CLEAR><BACKGROUND SRC="INchurch7">//# dummy 20 INchurch7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这样的因果没什么不可思议的。
+　为什么被怨恨，为什么被杀死，其中的理由自己很清楚。
+
+　可即便如此，在身临死亡深渊的现在……自己还是不能随心所欲地吐露内心的真情吗。
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　曲子结束了。
+  死亡的时刻来临了。
+
+　自己在这个世界最后听到的声音，是那一天自己送给她的八音盒……
+　不，不对。
+　即使是与这温柔的旋律的惜别，也会被毫无慈悲的枪声无情地打散吧。
+
+　这是，不含任何拯救的、残酷的结束。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^4 20 INchurch4 1
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　既然如此，在死之前……让我将她的样子深深刻在眼中吧。
+
+　充满杀意的眼神也好。
+　带有无尽仇恨的表情也好。
+
+　即便如此，她……也是凯尔。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　……周围一瞬间安静了下来。
+
+　不锈钢的框架闪着白光。
+  那如电光火石般迅速的拔枪速度令我打心底赞叹不已。
+
+<A HREF="3705.txt" OPERATOR="1340=1">//
+　我着迷地望着S&W黑洞洞的枪口……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　可是，凯尔突然翻转身体朝旁边跳去。
+  我不禁怀疑起自己的眼睛。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　紧接着……
+　轻快的连射声响起，弹雨在凯尔刚才所站的位置倾泻而下。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="left">//# elen5^4 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="INchurch3">//# elen5^4 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　怎么会……
+　为什么……你会在这里？
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^6 20 INchurch4 1 dummy 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="right">//# drei^6 20 INchurch4 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「卑鄙小人!!」
+
+<BOX type="0">//%w
+　凯尔怒吼着闪进侧廊，捡起刚才扔在那里的AUG开始起身乱射。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch3">//#! elen5^4 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　而{ヒロイン}也飞身跳进另一侧的侧廊，躲在了柱子后面。
+
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="inchurch1">//#! inchurch1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　隔着信徒席，身处左右侧廊的两人开始了自动武器的对射。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　死亡旋风在彩绘玻璃的光芒中疯狂地飞舞着。
+
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　怎么，会这样……
+
+　噩梦般的景象出现在了我的眼前。
+
+<A HREF="3720.txt" OPERATOR="">//~ 3720
+0

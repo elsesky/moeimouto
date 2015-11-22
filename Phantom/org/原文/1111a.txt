@@ -1,0 +1,17 @@
+<BOX type="0">//%w
+　キャリーガンは、いつもの通りコルト.45。
+
+　……このところ、融通の利かないシングルアクション機構や、
+　なにより8連発という装弾数の心許なさに不満を感じることもあるが、
+　それでも.45ACP弾への信頼感ゆえに、結局はこの銃を選んでしまう。
+
+　やはり、慣れ親しんだ銃が一番だ。
+
+<CALC WORKNAME="射撃音" OPERATOR="11_02">//
+<CALC WORKNAME="銃" OPERATOR="コルト">//
+<CALC WORKNAME="銃画像" OPERATOR="ガバメント">//
+<CALC WORKNAME="射撃画像" OPERATOR="ガバメント2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用CV">//
+<CALC WORKNAME="1111a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

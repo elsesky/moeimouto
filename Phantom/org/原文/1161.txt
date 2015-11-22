@@ -1,0 +1,17 @@
+<CLEAR><BACKGROUND SRC="ガバメント">//# ガバメント 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　尾行と監視が主の任務とはいえ、
+　いざ目当ての敵が現れれば、即座に戦闘になると思っていい。
+　やはり、相応の火力は必要になる。
+
+　念を入れるとなれば、やはり.45口径。
+　ここはコルトが相応だろう。
+
+<CALC WORKNAME="射撃音" OPERATOR="11_02">//
+<CALC WORKNAME="銃" OPERATOR="コルト">//
+<CALC WORKNAME="銃画像" OPERATOR="ガバメント">//
+<CALC WORKNAME="射撃画像" OPERATOR="ガバメント2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用CV">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

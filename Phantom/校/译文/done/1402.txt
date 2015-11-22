@@ -1,0 +1,10 @@
+<BOX type="0">//%w
+  ｽｹｵﾄｻｰ｣ｬｴ箍ﾑ0.44ｿﾚｾｶｵﾄM29ｾﾍﾐﾐﾁﾋ｡｣
+
+<CALC WORKNAME="射撃音" OPERATOR="03_01">//
+<CALC WORKNAME="銃" OPERATOR="M29">//
+<CALC WORKNAME="銃画像" OPERATOR="44マグナム">//
+<CALC WORKNAME="射撃画像" OPERATOR="44マグナム2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Sm">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

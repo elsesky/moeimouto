@@ -1,0 +1,198 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「做好了」
+
+<BOX type="0">//%w
+　正当我做着枪械的分解保养的时候，厨房里传来了凯尔兴奋的声音。
+
+<BOX type="5">//%sR
+「我马上端过来，你把桌子上面收拾一下」
+
+<BOX type="0">//%w
+「……嗯」
+
+<se id="1" src="kitchen3" mode="normal" time="" loop="off" effect="">//!se kitchen3
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自从凯尔来了以后，吃饭就成了一件大事。
+
+<se id="1" src="kitchen5" mode="normal" time="" loop="off" effect="">//!se kitchen5
+吃掉满满一大桌子菜，对过去的我来说，怎么想都是一种折磨。
+像现在这样慌忙地准备桌子，竟然能使气氛不可思议地柔和了起来。
+
+<se id="1" src="kitchen2" mode="normal" time="" loop="off" effect="">//!se kitchen2
+　之前我也曾带她去过几次餐馆。
+  仅仅凭着有限的经验，凯尔的厨艺就又有了显著的进步。
+
+只要是尝过的味道，都能模仿着做出来。
+ 这样的宣言似乎毫不夸张。事实上，凯尔一直以来用的食材都是便宜货。要是给她准备好一流的食材，说不定真的能和专业厨师一较高下。
+
+<CLEAR><BACKGROUND SRC="room0a2">//# room0a2 1
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「那个」
+
+「听别人说……布拉迪兹的艾扎克死了，是真的吗？」
+
+<BOX type="0">//%w
+　黑帮首领暴死的传闻，无论怎样隐瞒，最终还是会流传于街头巷尾。
+
+　当然，他死亡的真相则被永远地埋葬在了黑暗中。
+
+　而且，既然见到了兰迪的死，凯尔应该也就知道了维斯梅尔才是杀害茱蒂的真正凶手。
+
+「是真的」
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样就结束了啊。
+  终于报仇了……」
+
+<BOX type="0">//%w
+　看着凯尔的笑脸，我的内心突然变得异常沉重。
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怎么了？」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「莫非是……味道太难吃吗？」
+
+<BOX type="0">//%w
+「不，不是的」
+
+　如果按照凯尔所说的，跟茱蒂的死有关系的所有人都是仇人的话……
+  那么活着的梧桐也是不可原谅的一个仇敌。
+
+　而且，协助梧桐组加盟Inferno的自己也是……
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「话说回来」
+
+「我拜托{名}杀人的雇佣金差额……」
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怎么办呢？
+　我根本没有做过什么助手应该做的的事情啊」
+
+<BOX type="0">//%w
+　这时，我想起了之前进退两难的时候，自己说出的欺骗凯尔的话。
+
+「你还真老实啊」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「以后的杀人任务，也让我帮你的忙吧？」
+
+<BOX type="0">//%w
+　没有开玩笑。
+　这孩子是认真的吗？
+
+　确实，艾扎克已经死了，即使立即将凯尔放走的话也没关系了……可是我依然感到不安。
+
+　我是将凯尔当作『Phantom的助手候补』介绍给Inferno的，应该怎样做才能让她逃离组织的魔爪呢。
+
+　不管怎么说，凯尔拿走的500万美元已经在没有任何人怀疑的情况下通过Inferno还给了梧桐组。
+
+　就算现在还没有人去调查维斯梅尔的别墅，不过那也只是时间问题。
+
+　在那之前暂且将凯尔继续留在我身边，看看情况再做决定也不迟。
+
+　为此还得找个借口说服凯尔才行，不过不能让她再继续做我的助手。
+
+　不做助手而让她留下来的借口……
+
+「当我助手的事就算了，不过难得你有不错的厨艺」
+
+「好吧」
+
+「我暂时雇佣你做女仆，以此来偿还差额吧」
+
+<BUSTUP NAME="cyall3" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「女仆!?」
+
+<BOX type="0">//%w
+　凯尔的眼睛又放光了。真不知道她是怎么想的。
+
+「……做女仆也值得你高兴吗？」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哪怕一次也好，我很想做做试试」
+
+「因为嘛，我觉得女仆装很可爱」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「从很久以前就想穿上试试呢」
+
+<BOX type="0">//%w
+「……不穿也可以」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唉～？」
+
+「……没有女仆服吗？」
+
+<BOX type="0">//%w
+「没有!!」
+
+那些豪宅是怎么做的与我无关。
+在这么狭小的屋子里雇佣一个穿着女仆装的女仆，只有变态才会这么做吧。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那我还是做杀手好了，比较帅」
+
+<BOX type="0">//%w
+「不行」
+
+<BOX type="5">//%sR
+「……没意思」
+
+<BOX type="0">//%w
+　不知道她有没有理解我的苦衷，凯尔生气地撅起嘴来。
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对了，我的杀手修行怎么样了」
+
+「我不是很有才能的吗？」
+
+<BOX type="0">//%w
+　我笑着听她说完，却迟迟没有回答。
+  现在，仅仅想到这点自己就感到浑身发冷。
+
+「……啊，一般吧」
+
+　我含糊其辞地蒙混了过去。
+
+<A HREF="1350.txt" OPERATOR="1150=1">//~ 1350
+<A HREF="1320.txt" OPERATOR="">//~ 1320

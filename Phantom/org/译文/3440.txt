@@ -1,0 +1,372 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<se id="1" src="doca2" mode="normal" time="" loop="off" effect="">//!se doca2
+<BACKGROUND SRC="3440x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　摩托车一发动起来，美绪马上就意识到自己犯了个错误。
+
+如果说存在逃跑的机会，那也是在双脚还站在地面上的时候。
+
+美绪从未有过乘坐摩托车的经验。
+所以，以这样的速度在风中疾行，对她来说是根本无法想象的。
+
+　虽然已经不再被枪口所威胁，但速度带来的恐惧感仍旧迫使美绪牢牢地抓着金发少女的背。
+
+　松开手的话就必死无疑了。
+　握着摩托车把手的少女连安全头盔都没有给她。
+
+每当车身因为转弯而倾斜的时候，美绪都会拼命闭紧嘴，不让自己发出悲鸣。
+
+由于不堪忍受高速向后飞奔的景色带来的眩晕感，美绪死死地闭上了眼睛，将脸贴在金发少女的背上。
+强烈的风，毫不留情地撕扯着她的长发。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　这样的折磨，究竟还有持续多久呢。
+
+<se id="1" src="僪僇媫尭懍掆巭" mode="normal" loop="off">
+　没有任何前兆，摩托车突然放慢了速度，停了下来。
+
+　美绪战战兢兢地睁开眼睛。
+
+<CLEAR><BACKGROUND SRC="schoolway3">//# schoolway3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="30">
+<BOX type="2">//%w
+虽然是在夜里，但自己很熟悉这个地方。
+这里是……通往蓧仓学院的上行坡道的中途。
+
+　迷之少女像是遇到了什么棘手的问题，不满地咂了咂嘴。
+
+　越过她的肩膀向前看去，在被摩托车的前灯照亮的路上，有什么人正挡在那里。
+
+　不是日本人……好像是个身材高大的黑人女性。
+
+注意到那散发着凶暴气息的金属光泽，美绪不禁再次屏住了呼吸。
+
+站在那里的黑人女性……她的右手拿着一把巨大的银色手枪。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right schoolway3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="schoolway3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+“来了……”
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　耳边响起了摩托车高亢的排气声。莉兹望着远方路上的摩托车灯光，扳起了HARDBALLER的枪机。
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“猜中了……么”
+
+<se id="2" src="僪僇媫尭懍掆巭" mode="normal" loop="off">
+
+<BOX type="2">//%w
+　如果在蓧仓学院张网以待，就一定能够等到Phantom。
+  看来自己似乎赌对了。
+
+　眼见莉兹堵在路中央，沿坡道向上疾行的摩托车缓缓停在了她前方10米左右的地方。
+
+驾驶员咂了咂嘴，关闭了摩托车的引擎。
+
+摩托车炫目的灯光消失了。
+在路灯的照射下，摘下了头盔的驾驶员露出了她的本来面目。
+
+　Phantom……
+
+　在后座上紧紧抱着她的少女，恐怕就是志贺所说的那个叫藤枝美绪的孩子。
+　但愿事情还没有发展到最糟的地步。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　Phantom无言地下了摩托车……
+
+<se id="1" src="11_05" mode="normal" time="" loop="off" effect="">//!se 
+　不等美绪反应过来，Phantom已经从容地抓起她的手，用手铐将她和摩托车拷在一起。
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「在这儿等一会」
+
+<BOX type="3">//%m
+　冷冷地小声说完，Phantom便转向了莉兹的方向。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「来得正好，莉兹」
+
+「我有话要对你和梧桐组的那些家伙说」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……凯尔……」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「游戏继续。
+  规则还按Zwei说的办」
+
+「要是那两个人死了，或是有谁冒出来碍事的话……」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「藤枝美緒就会被我杀掉」
+
+「我不会再让任何人妨碍到我了。
+  谁也别想打我的猎物的主意」
+
+「在杀死那两个人之前，这位美绪小姐暂时由我看护」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你要做多少傻事才肯罢休啊？」
+
+<BOX type="2">//%w
+　莉兹用干巴巴的语气对凯尔说道，话语中完全没有了平日里那种恫吓的气势。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「说了你也不会明白哦，莉兹」
+
+「我一定要杀了Zwei和Ein」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「我不是一直告诉你不要把无辜的人卷进来吗」
+
+「你就那么很Zwei吗？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我应该已经说过很多次了吧？
+　你还是不要明知故问了」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「无论是叛徒还是破坏别人普通生活的人，我都绝对不能原谅」
+
+「绝不能跨越的底线是存在的……我应该告诉过你了吧」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「给我清醒过来吧，凯尔。
+　这是最后的底线了」
+
+「要是越过了这里，你可是会落入深渊无法自拔的啊」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我一直都觉得很奇怪……」
+
+「莉兹，你为什么要对我这么亲切呢？」
+
+<BUSTUP NAME="rizy" face="9" MODE="on" zoom="" ALIGN="right">//# rizy^9 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^9 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「不愿让你成为杀手」
+
+「无论是我还是Zwei，都是这么想的」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我可是Inferno的Phantom啊」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不满的话就试着在这里阻止我好了」
+
+<BOX type="3">//%m
+　凯尔将手伸进怀中，像是为了不引起莉兹的警戒那样，慢慢地将怀表取了出来。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　这块做工精致的怀表，已经多少次地成为决斗的裁判了呢。
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+凯尔将怀表放在左手上，用指尖拨开了表盖。静寂的夜晚再次响起了那梦幻般的旋律。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+
+<CLEAR><BACKGROUND SRC="僪儔僀夰拞帪寁">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「曲子结束的时候，我也会拔枪」
+
+「到那时你还开不了枪的话……」
+
+「你就真的是太天真了。
+　死在这里也是理所当然的」
+
+<CLEAR><BACKGROUND SRC="儕僘傿廵">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　受到挑衅的莉兹不禁柳眉倒竖。
+
+　可是……
+　事情为什么会走到如此地步呢？
+
+莉兹回想起与克劳蒂娅离别时的场景。
+为什么每一次……到最后都会变成这个样子呢？
+
+<CLEAR><BACKGROUND SRC="僪儔僀夰拞帪寁">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　凯尔会毫不犹豫地开枪吧。
+
+她不是在吓唬自己。
+八音盒的旋律已经证明了这一点。
+
+　义理和人情都不管用，非要将自己逼到极限……只有这样做，凯尔才会开枪。
+
+　不允许自己有一丝一毫的犹豫，即使对手曾经是自己的同伴……
+
+<CLEAR><BACKGROUND SRC="儕僘傿廵">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　自己真的能够像这样朝凯尔开枪吗……莉兹对自己问道。
+
+<CLEAR><BACKGROUND SRC="儕僘傿廵_b">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+　如果凯尔不肯死心的话……如果她打算要背叛Inferno的话……
+
+　自己真的下的了手吗？
+
+<CLEAR><BACKGROUND SRC="儕僘傿廵2">//# 1210x2 1 dummy 19
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　浮现在脑海中的是……早已离去的克劳蒂娅的背影。
+
+<CLEAR><BACKGROUND SRC="儕僘傿廵">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……凯尔，住手吧」
+
+<BOX type="2">//%w
+　莉兹从非常艰难地挤出这样的话。
+
+<BOX type="5">//%sR
+「我不想向你开枪……」
+
+<CLEAR><BACKGROUND SRC="僪儔僀夰拞帪寁">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　可是，凯尔只是用不屑的冷笑回应了她。
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+八音盒的旋律慢了下来。
+就像是被吸到什么地方去了一样，飘散着的旋律渐渐消失了
+
+　乐曲……结束了。
+
+<CLEAR><BACKGROUND SRC="儕僘傿廵">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「凯尔!!」
+
+<bgm src="" mode="fadeout" time="0" loop="on">
+<BOX type="2">//%w
+HARDBALLER没有发出怒吼。取而代之的是，莉兹绝望的叫声撕裂了夜空的宁静。
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="schoolway3">//#! schoolway3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　回应她的，是9mm帕拉鲁姆弹的吼声……
+
+　那是比莉兹的悲鸣声更加虚无、干涸的声音。
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="2">//%w
+　听到这一声悲鸣，美绪倒吸了一口气。
+
+<CLEAR><BACKGROUND SRC="僪儔僀儕僘傿寕偮">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+「为什么，你开不了枪呢」
+
+<A HREF="3450.txt" OPERATOR="">//~ 3450
+
+あんたは」
+
+<A HREF="3450.txt" OPERATOR="">//~ 3450

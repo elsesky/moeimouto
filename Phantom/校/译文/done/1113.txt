@@ -1,0 +1,10 @@
+<BOX type="0">//%w
+要是带着太过显眼的枪，没准会刺激到对方……这样想着，我将柯尔特“蟒蛇”揣进怀中。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

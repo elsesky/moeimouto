@@ -1,0 +1,251 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="INchurch5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　頽れたキャルを、抱き起こす。
+
+　もはや、手の施しようがない傷なのは……
+　他ならぬ、撃った自分自身が心得ていた。
+
+<CLEAR><BACKGROUND SRC="3630p1">//# 3630p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　瞼を、薄く開いて、キャルは……
+　まるで悪戯がばれた子供のように、どこか照れたような笑顔を見せた。
+
+<BOX type="5">//%sR
+「そっかぁ……あんた……
+　本当に強いんだね……」
+
+<BOX type="0">//%w
+　そうだろうか。
+　果たして、そうだったんだろうか。
+
+　あの刹那、キャルが先に撃ち、
+　こちらの身が床に伏していようと、何の不思議もなかっただろうに。
+
+<BOX type="5">//%sR
+「でも……当然だよね……」
+
+<BOX type="0">//%w
+　なのにキャルは、やっと納得できたと言わんばかりに、
+　途切れ途切れに言葉を続けた。
+
+<BOX type="5">//%sR
+「あんたは、守るものがあって……勝たなきゃいけない、ワケがあって……戦ってたんだもんね……」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「なんにもない、あたしが……
+　かなうわけ、ないや……」
+
+<BOX type="0">//%w
+　熱い塊が、胸の奥にこみ上げてくる。
+　遠い日のキャルの面影が、脳裏を瞬いて行き過ぎる。
+
+<BOX type="5">//%sR
+「なに……
+　いまさら、泣いてるのさ？」
+
+<BOX type="0">//%w
+　指摘されてはじめて、頬を伝う雫に気付いた。
+
+<BOX type="5">//%sR
+「まぁ、いいよ」
+
+「そんなにボロボロ
+　泣くほどなら……」
+
+「きっとあんた、
+あたしのこと忘れないだろうから」
+
+「それでいいんだ。
+　それだけで……」
+
+<BOX type="0">//%w
+　そんなことのために、お前は……
+　命を捨てなきゃならなかったのか？
+
+　おまえを忘れたことなんて、ない。
+　おまえの面影は、いつだって、
+　まるで生きているみたいに、この胸の中にあった。
+
+　どうしてだ？
+　おまえは死なずにいて、くれたのに……
+
+「キャル……」
+
+　噛みしめるように、名前を呼ぶ。
+　だが今はもう、声の限りに叫ぼうと、
+　去りゆく彼女を呼び止めることは、できない。
+
+<BOX type="5">//%sR
+「良かった……」
+
+「最後の最後に、あんたのこと、
+　独り占めできたね……」
+
+「ちょっと……
+　ラッキーだった……かな……」
+
+<BOX type="0">//%w
+　緑の瞳が、焦点を失い、そして輝きが消えた。
+
+「……キャル……」
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　もう、何も映すことのない瞳に、そっと手を添えて瞼を下ろす。
+　いつか眺めた寝顔のままの、安らかな、キャルの顔。
+
+　手応えのなくなった身体を抱きしめ、冷めてゆく胸元に顔を埋めて、
+　そして声を殺して泣いた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　いつまで、そうやって泣いていただろうか。
+
+　ちりちりと首筋を撫ぜる、馴染みの感覚に……目を上げた。
+
+　側廊に並ぶステンドグラス。その色硝子の向こう側で、足音を殺して、
+　だがあからさまな殺気を放って右往左往する影の群れ。
+
+　キャルの骸を、そっと床に横たえ、
+　そして彼女が投げ捨てたアゥグ＝ライフルを手元に引き寄せる。
+
+　初弾は……装填されている。
+　油断なく周囲に目を配りながら、親指で安全装置を外す。
+<se id="1" src="04_05" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="2" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　その直後、周囲のステンドグラスが片端から叩き割られ、
+　そこからリボルバーやショットガンの銃口が顔を覗かせた。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ためらいも遠慮もなく、アゥグの引き金を引き絞り、
+　外から砕かれたガラスの残りを、今度は内側から粉砕した。
+　慌てて引っ込む襲撃者の銃口。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+　その銃声を皮切りに、礼拝堂の入り口から、数人の男が躍り込んできた。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　間髪入れず、5.56mmレミントン高速弾の応酬を浴びせ、
+　二人を礼拝席の裏に沈める。
+
+<se id="2" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　アゥグを乱射しながら、身を隠す場所を求め……
+　祭壇の陰まで後退した。
+
+　敵は……どうやら頭数こそ揃っているようだが、
+　まるで統制が取れていない。
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　やたら怒声を張り上げ、突っ込んでくるばかりで、戦術もまるでない。
+　度胸ばかり達者な素人だ。
+
+<se id="2" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……梧桐組。間違いあるまい。
+　どうやら美緒が解放されたことに、連中も気付いたようだ。
+
+<se id="2" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BACKGROUND SRC="INchurch4">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　アゥグの弾が切れた。
+<se id="1" src="教会ヤクザ銃撃" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　弾幕が途切れた途端、左右の窓に陣取った連中が発砲を始める。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　今度は祭壇に狙いが集中していた。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　祭壇の裏に身を退いた隙に、入り口から数人が堂内に侵入してくる。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　片っ端から{銃}で撃ち倒すものの……如何せん、数が多すぎる。
+　いかにアマチュアとはいえ、ここまで群れで襲われては手に負えない。
+
+　側廊を駆け抜けて、一人が日本刀を振りかざして突進してきた。
+
+<BUSTUP NAME="ポン刀" face="2" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ぅおらあぁぁ!!」
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　粗々しい奇声とともに振り下ろされた刀身を……
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+　間一髪、アゥグの銃身とフォアグリップで、十手の要領で受け止める。
+
+　そのまま刀を引く間を与えずに、
+　相手の腹に{銃}の銃を押しつけ。引き金を引いた。
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="#ffffff">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="INchurch4">//# INchurch3mob 1 dummy 19
+<BUSTUP NAME="ポン刀" face="3" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="5">//%sR
+「がぁッ!!」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch3mob 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　臓物をまき散らしながら、
+　男は弾き飛ばされたように、礼拝席へと転がり落ちる。
+
+　あと何人……
+　あと何人いる？
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　動くものすべてに向けて{銃}を撃ちまくりながら、
+　胸の内でそう吠える。
+　状況は絶望的だった。
+　次に弾が切れたら、もう、後はない。
+
+　畜生……ここまでか……
+　そう感じた瞬間、狂おしいほどの怒りが胸に湧き上がってきた。
+
+　ふざけるな。
+　こんな所で死ねるものか。
+
+　たった今、キャルを犠牲にしてまで、生き長らえた命なんだぞ……
+
+<A HREF="3640.txt" OPERATOR="">//~ 3640
+
+
+0

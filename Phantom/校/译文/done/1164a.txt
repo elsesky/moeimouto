@@ -1,0 +1,27 @@
+<BOX type="0">//%w
+莉兹为我置办的这把贝瑞塔没有任何的问题。似乎已经经过了试射的考验，调试也完成了。
+
+<CLEAR><BACKGROUND SRC="僔僌">//# 僔僌 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  我试着拿起新入手的SIG-SAUER。
+
+　……的确，这把枪的外形与重量都很不错，应该非常适合执行对隐蔽性要求很高的这一次的任务。
+  不过……
+
+<CLEAR><BACKGROUND SRC="儀儗僢僞">//# 儀儗僢僞 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  我没有必要为了这样的理由而放弃用惯了的贝瑞塔。
+
+　今后应该不会再用到强装弹了吧。
+　这样说来，我应该不必再担心这种故障会发生了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<CALC WORKNAME="1164a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

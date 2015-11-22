@@ -1,0 +1,115 @@
+　……やはり、こういう話の運びは、良くないか。
+
+　いつの間にか、成り行きを相手に投げ渡すような無愛想な応対が、
+　身についてしまっていた。
+
+　彼氏として名乗りを上げた以上は……
+　美緒の気持ちを推し量って、
+　リードするぐらいの気遣いが必要なんだろう。
+
+　たとえば今、この場では……
+　このまま、他愛のない言葉を交わしただけで立ち去って、
+　美緒が嬉しいわけがない。
+
+　いや待て、そもそも何でB組の美緒が、この教室の前にいる？
+
+　……我ながら、勘働きの悪さには呆れるしかなかった。
+
+「一緒に行くかい？　学食」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「は、はい」
+
+<BOX type="0">//%w
+　美緒は泣き笑いのような複雑な表情で肯いた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage8b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="passage8b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……昼ご飯、
+　いつも買ってるんですか？」
+
+<BOX type="0">//%w
+「いま親がいないからな」
+
+「……藤枝さんは、弁当派？」
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はい」
+
+<CLEAR><BACKGROUND SRC="passage7b">//# passage7b 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　並んで学食を目指しつつも、
+　美緒はハンカチでくるんだ弁当箱を手に携えている。
+　そういえば、学食で食事している{ヒロイン}を見かけた時も、
+　隣の美緒はいつも弁当を持ち込んでいた。
+
+　……どうなんだろう？
+　このまま一緒に学食に行けば、
+　早苗たちと鉢合わせする可能性もあり得るが、
+　美緒は構わないんだろうか？
+
+　そこでふと、美緒が持っている弁当の量に気がついた。
+　大小のタッパーケースふたつ。
+　米と惣菜、別ケースか……女の子にしては、相当な量だ。
+
+「けっこう食べるんだね。藤枝さん」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　何気なくそう言った途端、美緒は真っ赤になって俯いた。
+
+　しまった。
+　またしても無神経なことを言ったか？
+
+<BOX type="5">//%sR
+「わたしの分は……
+　こっちだけです」
+
+<BOX type="0">//%w
+　そう言って、美緒は小さい方の弁当箱を示す。
+
+「……」
+
+　じゃあ大きい方は？
+　……訊くだけ野暮というものだろう。
+
+「食べきれない分、分けてもらっていいかい？」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さり気なくそう持ちかけると、
+　まるで薄曇りの空に晴れ間が覗いたかのように、
+　美緒の表情がぱっと輝いた。
+
+<BOX type="5">//%sR
+「あの……多分、
+　美味しくないと思いますけど……
+　でもその……良かったら」
+
+<BOX type="0">//%w
+「じゃ、学食はやめて、どこか他で食べよう」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はい!!」
+
+<CALC WORKNAME="3190" OPERATOR="1">//
+<A HREF="3210.txt" OPERATOR="">//~ 3210

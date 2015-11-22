@@ -1,0 +1,84 @@
+<bgm src="" mode="fadeout" time="40" loop="on">//> right room0g wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="塉幒撪儖乕僾" mode="fadein" old="fadeout" time="10" loop="on">//$ rain.swa 0 255
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　透过没有玻璃的窗子，可以直接听到外面冰冷的雨声。
+
+　在烧焦的房间里，凯尔还在一个人默默地等待着。
+
+<bgm src="" mode="fadein" old="fadeout" time="20" loop="on">//$ 0 _1 0
+<clear>
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　究竟发生了什么，自己一点都不明白。
+
+　那一天……
+　自己为了检验录像机的修理成果，在半夜的时候去了录像带出租店……
+
+　回来的时候，发现阁楼正在燃烧，路上挤满了警车和消防车。
+
+　所有的一切都烧焦了。
+
+　精心制作的床单、蕴含着爱情的厨房。
+
+　还有，第一次买给自己的衣服……
+
+　可是，无所谓。
+
+　对于这样危险的生活，自己早就做好了觉悟。
+
+　自己要成为杀手Phantom的同伴。即使现在不行，总有一天会如愿的。
+  因为，自己已经决定了。
+
+<clear>
+<BACKGROUND SRC="僉儍儖嵗傝崬傒">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　所以，凯尔仍然在等待着。
+
+　他一定会回来的。
+  因为曾经和他这样约定过。
+
+　自己一定可以等到他……
+
+　之后，再哭吧。
+
+看到他的脸以后，首先要表现得勃然大怒，给他两三记粉拳。
+然后再将头埋在他的怀中，放声痛哭。
+
+　在那之前一定要忍住。
+　凯尔这样决定了。
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+<clear>
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="2">//%w
+　相信着、等待着，
+  第三个清晨，来临了。
+
+<se id="1" src="塉幒奜" mode="normal" time="" loop="off" effect="">//!se rainOut
+　首先开始哭泣的，是天空。
+
+　窗外的晨雨潸潸地击打着地面。
+
+　听着窗外的那个声音……不知什么时候，一滴泪水顺着凯尔的面颊滑落。
+
+//> black dummy center 255
+<clear>
+<se id="1" src="" mode="fadeout" time="30">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="1">
+「……骗子」
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550

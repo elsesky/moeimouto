@@ -1,0 +1,598 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 3140x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="3140x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　横浜、中华街……
+
+　某家高级料理店内，正举行着一场奢华的盛宴。
+
+　受到款待的，是曾经掌握新宿歌舞伎町的毒品流通、独霸一方的北京系的中国黑帮首领——周。
+
+举办这场宴会的则是这家店的主人……以横滨为据点、同为北京系黑帮的徐。
+
+席间并无女人伺候，相反，众多彪形大汉正牢牢把守在店外。
+ 单看这种严肃的气氛就能判断出这绝非一场普通的酒宴。
+
+　在这场宴会上，周和徐要结为把兄弟，纵贯关东的北京系黑帮联盟由此诞生。
+
+　事件起源于歌舞伎町内日系黑帮的卷土重来。
+
+　不知是什么原因，广域暴力集团梧桐组的手里突然有了大批的可卡因。
+
+　他们将这些质高价廉的“商品”大量投入歌舞伎町，瞬间便夺回了新宿的霸权，周等人则遭受了毁灭性的打击。
+
+　原本奉行独立独行的宗旨的周，如今只能顾大局而弃小节。
+
+　他向同乡的徐哭诉，并拜徐为大哥，希望能够使用徐以大陆为据点的自有秘密渠道。
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「周，你乘上了一艘大船啊」
+
+「我进货的价格要比你的进货渠道低一半以上，足够给那些家伙致命一击了」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「徐大哥，小弟真是感激不尽……」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，有点奇怪啊。
+歌舞伎町的那些家伙，为什么要如此急迫地发动攻势呢？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这个……」
+
+<BOX type="3">//%m
+　周的话变得含糊不清，似乎有什么难言之隐。
+
+<BOX type="4">//%sL
+「那帮家伙好象有美国的黑帮在背后撑腰」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美国？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「嗯……」
+
+「大哥，你听说过Inferno这个名字吗？」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「据说有个组织统领着美国的黑帮，你说的是他们吗？」
+
+<BOX type="2">//%w
+　徐用鼻子哼了一声，十分不屑地说道。
+
+<BOX type="5">//%sR
+「喂，你该不会相信这种荒唐的传言吧？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这……并不是荒唐的传言」
+
+「据说张前往纽约的叔父就被那帮家伙杀死了」
+
+「Inferno里有个绰号叫Phantom的杀手……在美国好像相当有名」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「周，我说你啊……」
+
+「那里可是充满漫画、电视剧和好莱坞电影的国度啊」
+
+「你怎么能真的相信你帮狐朋狗友所说的话呢？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可是，大哥……」
+
+「现在外面风传，如果我们反抗梧桐组的话，也不会有好下场呢……」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「胡说八道」
+
+「这里可是日本，那个怪物一般的Phantom难道会远渡重洋来到这里不成？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+//> right 3140x2 wide 255 rizy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="3140x2">//
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+谁都没有注意到，
+就在徐和周在店中交谈的时候，莉兹率领的Inferno部队已经悄悄地将这家店包围了起来。
+
+莉兹从志贺那里接到的委托只有一个——让今晚聚集在这家店里的两个中国黑帮头目永远从这个世界上消失。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『全员准备就绪』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　混在行人中、监视着正面的大门的部下……格列高，正通过对讲机向莉兹进行报告。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「OK！接下来就是等待时机了……」
+
+<BOX type="2">//%w
+　莉兹躲在店铺安全通道的后门处，脸上浮现出无畏的笑容。
+
+<BOX type="5">//%sR
+「5分钟后开始行动，速战速决」
+
+<BOX type="2">//%w
+　日本毕竟是对骚乱异常敏感的治安大国，莉兹并不希望明目张胆地开枪射击。
+
+只要取下徐和周这两个头目的首级就够了……若能抢得先机，就不用担心对方开枪，而只要对方不开枪，自己这边也就没有开枪的必要。
+
+　这两人终究只是扎根于日本的地痞，肯定没有经历过这种暗杀行动。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　可正当这个时候，对讲机里响起了另外一个声音。
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『莉兹，不太妙啊』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　那是，与如此紧张的场合完全不相符的、未成年少女的声音。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+不用问也知道那是谁。
+ 莉兹啧了一下嘴，毫不掩饰自己的焦躁。
+
+<BOX type="5">//%sR
+「到这个时候，你还想干什么？Phantom」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『没有人守住厨房的后门哦，他们会从那里逃走的』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「他们没有那个机会，战斗会在一瞬间结束的」
+
+「你不要瞎操心了，还是专心掩护吧」
+
+<BOX type="2">//%w
+莉兹一边朝对讲机说着，一边望向料理店斜对面的综合大楼楼顶。
+
+根据指示，Phantom应该在那里就位……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『这个位置太差，视野全被遮住了』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“这有什么关系？这次又不会轮到你出场”
+
+<BOX type="2">//%w
+　莉兹在心里暗自说道。
+
+<BOX type="5">//%sR
+“我其实都不想带上你……”
+
+<BOX type="2">//%w
+　莉兹一边克制住怒吼的冲动，一边尽力以冷静的语气说道。
+
+<BOX type="5">//%sR
+「听好了，Phantom。
+你今晚的任务是掩护，这是命令，明白吗」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『是吗』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　听到对方毫不在乎的回答，莉兹顿时起了一个寒颤。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="23_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="2">//%w
+　这时，通讯被震耳欲聋的声音打断。
+
+　综合大楼上面喷射出一道火舌——那是突击步枪的扫射。
+<se id="2" src="恖乆偺斶柭" mode="normal" loop="off">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　在路上行人的惨叫声中，街道变成了人间地狱。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那、那个混蛋……」
+
+
+<BOX type="2">//%w
+莉兹忍不住恶声咒骂起来。
+这时，对讲机中又响起了本应从正门闯入的小队队长的声音。
+<se id="2" src="" mode="fadeout" time="30">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『这里是格列高！有人正在射杀正门那里的保镖！！究竟是谁……莉兹，请下达指示』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　还没等莉兹回答，通讯又被少女的声音打断了。
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『格列高，里面的家伙马上就会一窝蜂地冲出来了，你要尽力拖住他们』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Phantom!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『啊啊，莉兹，店里现在一片混乱，正是偷袭的好机会。厨房后门就交给我吧，我会从那里绕进去的』
+
+『那么，拜托了哦』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「混蛋!!」
+
+<BOX type="2">//%w
+　莉兹破口大骂，这次却没有人回答，看来少女已经将对讲机关掉了。
+
+虽然计划已经被彻底破坏，但现在不是慌乱的时候。
+格列高小队的火力并不足以拖住敌人。
+
+如果不立刻从背后袭击敌人的话，正面的同伴就会全灭。
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们上!」
+
+<BOX type="2">//%w
+　莉兹朝着部下们大喝一声，然后便一马当先地冲进了安全通道。
+
+//> right dummy wide 255
+<se id="1" src="攇巭応廵寕" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+
+<se id="2" src="09_01" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="5000">
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 3140x3 wide 255
+<clear>
+<se id="2" src="" mode="fadeout" time="50">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="" mode="fadeout" time="35">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="3140x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+在一片混乱中，徐好不容易才逃进厨房。
+他隐藏起自己的气息，悄悄从厨房后门溜入了后面的小巷。
+
+　他手里拿着从部下尸体上夺来的英格拉姆MAC11轻型冲锋枪，里面还剩下10多发子弹。
+
+（注：英格拉姆MAC11冲锋枪，产自美国军用武器装备公司，由美国人戈登·B·英格拉姆于设计。该枪结构紧凑，动作可靠，大量采用高强度钢板冲压件，结实耐用，可配装消声器作微声武器使用。目前主要装备美国、英国、玻利维亚、哥伦比亚、危地马拉、洪都拉斯、以色列、葡萄牙、委内瑞拉等国家的警察和特种部队）
+
+　他根本不知道究竟发生了什么事情。
+
+　可以想到的敌人用两只手都数不清，但没有一个会这样乱来。
+
+　在日本，应该没有人会这么干。
+
+　这时，徐突然想起周说过的话。
+  梧桐组背后的美国黑帮……
+
+看来对他的话要重新考虑了。
+周已经在自己面前被打成了马蜂窝，瞬间便气绝身亡。
+
+　自己要是不赶紧逃的话……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　徐刚刚踏出一步，便察觉到背后涌出一股杀气。
+
+　他毫不迟疑地转过身来，抬起轻型冲锋枪一通乱射。
+<se id="1" src="06_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　子弹在狭窄的小巷里飞舞，激起一片火花……接着，子弹打光了，小巷陷入了死一般沉默。
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　干掉了……吗？
+
+　就在他向硝烟弥漫的黑暗深处张望的一瞬间……
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3140x3">//#! 3140x3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　伴随着一声巨响，徐感到右肩传来一阵灼痛。
+
+<se id="2" src="僆乕僩儅僌棊偲偡" mode="normal" loop="off">
+　强大的冲击力将他撞向墙壁，MAC11也从手中脱落，掉在了地上。
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔……」
+
+<BOX type="2">//%w
+剧痛令徐的视野变得模糊。
+在一片朦胧之中，他看见……带着凶恶笑容的死神从黑暗中走了出来
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「身手不错嘛，原来做过杀手之类的吧？」
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是……」
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Phantom」
+
+<BOX type="3">//%m
+　带着笑容的死神像唱歌一般地报出了自己的名字。
+
+<BOX type="4">//%sL
+「Inferno的Phantom。你在日本没有听说过吗」
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+徐一边用充满憎恶和杀意的眼神瞪着少女，一边将没有受伤的左手伸向腰后的手枪。
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那只手在干什么呢？
+  难道你还有一把枪吗？」
+
+<BOX type="3">//%m
+　少女的声音中仿佛洋溢着喜悦之情。
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「大叔，你还真是有骨气啊。
+  事到如今还不想认输吗？」
+
+「……我很中意你哦」
+
+<se id="1" src="廵傑傢偡" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　少女收起持枪的姿势，让枪在手中旋转了一圈。之后她扣上枪机，将手枪塞入身后的枪套中。
+
+<BOX type="4">//%sL
+「就陪你玩玩好了」
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……混蛋」
+
+<BOX type="2">//%w
+　看着眼前的小女孩那桀骜不驯的从容，徐不禁恨恨地破口大骂，但他实在找不出好的时机拔枪。
+
+　曾经无数次死里逃生的徐并没有被她的外表迷惑，他的直觉令他看穿了少女的本性。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　这家伙……是真正的死神。
+
+　正面决斗的话，自己根本没有胜算。
+  可是，如果一直不拔枪的话……
+
+<BOX type="4">//%sL
+「你在等时机吗？」
+
+<BOX type="3">//%m
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　少女悠然地问道，脸上仍旧带着从容的微笑。
+
+她将手轻轻伸入怀中，取出一个完全不符合当下氛围的东西。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　少女的手掌中闪耀着黄铜的光芒。
+  徐甚至怀疑自己是不是看错了。
+
+　那是……怀表吗？
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+Phantom指尖灵巧地打开了怀表的盖子。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+　充满无烟火药与鲜血气味的小巷里立刻响起一阵优雅的、梦幻般的八音盒乐曲声。
+
+<CLEAR><BACKGROUND SRC="3140x3">//# drei^2 19 dummy 20 3140x3 1
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20 3140x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「曲子一完就开枪吧」
+
+<BOX type="3">//%m
+　少女的声音中混杂着冷酷的杀意与嗜虐的陶醉。
+　直到此刻，徐才终于察觉到隐藏在她笑容背后的无限邪恶。
+
+　这家伙……在享受着杀戮。
+
+　她从心底里喜欢将对手戏弄至死……
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「少瞧不起人了……」
+
+<BOX type="2">//%w
+　屈辱、恐怖、愤怒、憎恶……燃烧般的激情在徐的脑中反复奔涌。
+
+　如摇篮曲般温柔，
+  似镇魂歌般哀愁，
+   八音盒的乐曲声，在黑暗中静静流淌着。
+
+　她正在戏弄自己，就像猫儿在玩弄老鼠一般。
+
+　可是，不管自己多么想鼓起杀意，渗入内心的冰冷恐惧都不允许自己这样做。
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　终于，八音盒的曲调渐渐慢了下来。
+
+会被杀掉，
+肯定会被杀掉。
+在她面前，自己没有丝毫胜算……
+
+　接着……
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　就像筋疲力尽的跑垒员无力倒地一般，八音盒的演奏停止了。
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔啊啊啊啊啊啊!!」
+
+<BOX type="2">//%w
+　徐左手拔枪，嘴里发出一声打破静寂的怒吼……或许，应该将那称为充满恐惧的惨叫才对。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　可是，中途响起的枪声，
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　打断了他的嚎叫。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Adios，中国人……」
+
+（注：Adios，西班牙语，意为“再见”、“上帝祝福你”）
+
+「下辈子选个正经工作吧」
+
+<calc workname="gun13" operator="1" mode="global">
+<calc workname="gun11" operator="1" mode="global">
+<calc workname="gun14b" operator="1" mode="global">
+<A HREF="3150.txt" OPERATOR="">//~ 3150
+呐」
+
+<A HREF="3150.txt" OPERATOR="">//~ 3150

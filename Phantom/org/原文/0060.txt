@@ -1,0 +1,325 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ある日、朝のマラソンから戻ってみると、
+　廃工場の入り口に黒塗りの自動車が停まっていた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　あの男は……
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="left">//# elen1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今日はもう、休んでいいわ。
+　私は出かけるから」
+
+<BOX type="0">//%w
+「出かけるって、どこへ？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="left">//# elen1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「任務よ」
+
+<BOX type="0">//%w
+　任務……？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「行くぞ、ファントム」
+
+<BOX type="4">//%sL
+「はい、マスター」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　銀髪の男は、こちらに何気ない一瞥を送ったあと、
+　アインとともに車に乗り込んだ。
+
+//もえらＳＥ追加
+<se id="1" src="車のドア開く" mode="normal" loop="off">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　サイス＝マスター……そうだ、あの男。
+　今、こうして殺し屋になるための訓練を受けているのも、
+　すべてあの男のせいなのか。
+　それとも、命の恩人というべきなのか。
+
+//<se id="1" src="carStart" mode="normal" time="" loop="off" effect="">//!se carStart
+//もえらＳＥ追加
+<se id="1" src="ベンツ走り出し" mode="normal" loop="off">
+
+　感情を整理しきれないうちに、黒い車は走り去っていった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right backsheet wide 255
+<clear>
+
+
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="40">
+<wait time="900">
+//もえらＳＥ追加
+<se id="2" src="ベンツ走行" mode="normal" loop="off">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="アインとサイス車中E">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「……以上が標的の詳細だ。距離は700ヤード。ライフルはレミントンの.308口径を用意した」
+
+「逃走経路のセッティングも整っている。現地の天候は曇天で、微風。予報では明朝まで変動はない」
+
+「久々の狙撃任務だが、
+　おまえなら容易だろう。
+　何か質問は？」
+
+<BOX type="5">//%sR
+「いいえ」
+
+<BOX type="4">//%sL
+「よろしい。……ところで、
+　ツヴァイの様子はどうだ？」
+
+<BOX type="5">//%sR
+「基礎課程は
+　ひととおり完了しました。
+　明日からは別の訓練に入ります」
+
+<BOX type="4">//%sL
+「ふむ……順調なようだな」
+
+<BACKGROUND SRC="アインとサイス車中B">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="4">//%sL
+「そろそろ、実技試験の用意も
+　しておくべきか……」
+
+<se id="2" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一人、廃工場に取り残されると、いつにも増して静寂が際立った。
+　休めと言われても、することがない。
+
+　アインは、いつ戻るんだろうか。
+　任務とは、一体……
+
+　そうだ。彼女はただの講師なんかじゃない。本物の殺し屋なんだ。
+　だから任務というからには、誰かを殺しに行くのだろう。
+
+　今更ながら、気がついた。
+　こうしてアインに殺人術を教わっている以上、
+　いつかは同じような任務を与えられるようになるのだろうか。
+
+　考えてみれば当然のことなのだが、なぜか、にわかには信じがたい。
+　ただでさえ現実味を感じられない日常の、そのまた先の予見だからか。
+
+　これから、どうなってしまうんだろう……
+
+　落ち着かなかった。
+　やはり、物思いに耽るより、
+　身体を動かして何かに没頭している方がいい。
+
+　一人で、いつもの平行感覚のトレーニングをすることにした。
+
+<BOX type="0">//%w
+　バンダナで目隠しをして、倒れた鉄骨の上に立ち、
+　爪先立ちで5回ほど身体を回す。
+　それから爪先で鉄骨の位置を確かめ、端から端まで、早足に往復する。
+
+　始めのうちは、3歩も進まないうちに鉄骨から足を踏み外していたが、
+ もうかなり馴れてきた。
+
+　こんな訓練が何の役に立つのか不思議だったが、アインの話では、
+　バランス感覚は射撃の要になるらしい。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="crou_s2" face="" MODE="on" zoom="" ALIGN="right">//# crou_s2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……？
+　不意に、気がついた。
+　誰かが側にいる。
+
+<BOX type="5">//%sR
+「構わずに、続けて」
+
+<BOX type="0">//%w
+　……英語だ。女性だが、アインの声じゃない。
+
+　言われた通り、鉄骨の端まで渡り終わってから、
+　バンダナの目隠しを外した。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20  0060p1 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="0060p1">//# dummy 20  0060p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……この人は……
+
+　憶えている。初めての夜、サイス＝マスターと一緒にいた女……
+
+<BOX type="4">//%sL
+「大したものね」
+
+<BOX type="0">//%w
+　そう誉められて、少し戸惑った。
+　あれからいろいろな技術を身につけてきたが、
+　それを評価されたのは初めてだ。
+　アインは誉め言葉など口にしない。
+
+　なにかを察したのか、女は緊張をほぐそうとするように微笑を浮かべた。
+
+<CLEAR><BACKGROUND SRC="factory">//# crou2 20 factory 1
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20 factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「クロウディア＝マッキェネンよ。会うのは2度目よね」
+
+<BOX type="0">//%w
+　……よくは憶えていないが、最初に会った時とは雰囲気が違う気がする。
+　もっと冷たい、値踏みするような眼差しの印象だったが……
+
+<BUSTUP NAME="crou2" face="4" MODE="on" zoom="" ALIGN="right">//# crou2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「話は、日本語の方がいい？」
+
+<BOX type="0">//%w
+　言語を切り替えて、彼女……クロウディアは日本語で言った。
+　アインほどではないが、流暢だ。
+
+　すこし迷ったが、
+
+「難しい話だったら、日本語で……」
+　と答えた。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私が誰かは、聞いている？」
+
+<BOX type="0">//%w
+「いえ……」
+
+　そういえば、誰なんだろう。
+
+　サイス＝マスターの仲間だろうか、だとすると、
+　あの“インフェルノ”とかいう組織の……
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私はインフェルノの一員よ」
+
+「正確には、幹部の一人。
+　あなたを拾ったサイスの上司」
+
+「だから、あなたと“ファントム”の上司でもあるわね」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　インフェルノ。
+　すべての元凶である、謎の言葉。
+
+「あなたは……」
+
+「……いや、あなたや、サイスって人の……
+　その“インフェルノ”っていうのは、いったい？」
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうね……」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「法的秩序のない世界に、別の種類の秩序を作ろうとしている集団……かしらね」
+
+<BOX type="0">//%w
+「……どういう意味ですか？」
+
+<BOX type="5">//%sR
+「この国の、ギャングやマフィアといった集団のことは知ってる？」
+
+<BOX type="0">//%w
+「え？　えぇ。一応は」
+
+　テレビや映画で見たことがある程度だが。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そういった犯罪組織を、たとえば一個の国だとするなら、インフェルノは国連みたいなものよ」
+
+<BOX type="0">//%w
+「……つまり、ギャングやマフィアの総大将ってことですか？」
+
+<BOX type="5">//%sR
+「それは正しい表現じゃないけど。
+　でも、今はその程度に
+　理解しておけばいいわ」
+
+<BOX type="0">//%w
+　よく解らないが、要するに……やはり非合法な、犯罪者の集団なんだ。
+　それも、途方もなく強大な。
+
+　そんな組織に捕まって、今は殺し屋に仕立てられているわけか……
+
+<BUSTUP NAME="crou2" face="9" MODE="on" zoom="" ALIGN="right">//# crou2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今回のことは、
+　謝らなきゃいけないわね……」
+
+<BOX type="0">//%w
+「え？」
+
+　一番、予期しなかった言葉だったと言っていい。
+　ここでは、そんな気遣いや、人並みの扱いを受けることなど、
+　あり得ないと……
+　もうすでに、それが当然のことであるかのように思っていた。
+
+<BOX type="5">//%sR
+「やむを得ない事態だった。
+　事故と言ってもいいわ」
+
+「こんな形でしか、きみを
+　守ることができなかったなんて」
+
+「でも、
+　きみには何ひとつ選択の余地を
+　あげられなかったわね……」
+
+<BOX type="5">//%sR
+「……恨んでる？　私たちを」
+
+<A HREF="0060d.txt" OPERATOR="0030b=1">//~ 0060d
+<A HREF="0060c.txt" OPERATOR="">//~ 0060c

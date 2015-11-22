@@ -1,0 +1,285 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="sea" mode="fadein" old="fadeout" time="10" loop="on">//$ sea.swa 0 255
+<BACKGROUND SRC="bay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　整然と、だが迷路のように聳え立つコンテナの群れ。
+
+　その隙間を、風に煽られた夜霧が流れ過ぎていく様は、
+　まるで幽霊の行列のようだった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left evening2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="evening2">//
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　このサンフランシスコで、網の手応えがあったのが、昨日の未明。
+
+　案の定、サイスは海路での出国を目論み、
+　知己の密輸商人と接触を取ったという。
+
+　詳しい情報を待ちはせず、
+　追撃チームはシスコに飛び、現地で待機することになった。
+
+<CLEAR><BACKGROUND SRC="bay2">//# bay2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="0">//%w
+　だが、タレコミ屋から追って詳細な情報が届いたのは、
+　つい45分ほど前だ。
+
+　その時点で、サイスの船が到着する午前5時までは、
+　1時間足らずの猶予しかなかった。
+
+　隊長役のリズィに、インフェルノから預けられた兵隊は、12人。
+　いずれもサブマシンガンで武装している。
+
+　それなのに、13人目の兵隊は、まだ丸腰のまま放っておかれていた。
+
+<BOX type="0">//%w
+「まさか、手ぶらで行けっていうんじゃないだろうな」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう、皮肉めかしてリズィに言うと、
+　射殺すような視線で睨まれたあとで、
+　ようやく拳銃一挺を手渡された。
+
+<CLEAR><BACKGROUND SRC="grock_19_000">//# dummy 20 grock_19_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……グロッグ19。
+　なりこそ小さいが9mm口径のポリマー・オートマチックだ。
+　性能的には申し分ない。
+
+　だが、動作を確かめようとスライドに手をかけた途端、
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　横から、こめかみに硬いものが押し当てられた。
+
+<CLEAR><BACKGROUND SRC="bay2">//# rizy^3 20 dummy 21 bay2 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「クロウに言いくるめられて、
+　アンタをここまで
+　連れてきたワケだが……」
+
+「正直言って、アタシゃまだ
+　迷ってるんだよ。アンタに銃を
+　預けていいもんかどうか」
+
+<BOX type="0">//%w
+「確かにな」
+
+　敢えて挑発するように、鼻を鳴らしてみせる。
+
+「薬室に1発、弾倉に15発……
+　ここにいる全員を殺して釣りがくる計算だな」
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さらに強く、リズィの銃が頭皮に食い込む。
+　こめかみの銃口の圧力に、眇の視線で応えながら、
+　わざと乱暴にスライドを引き開けた。
+
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="グロックのスライド引く">//# dummy 20 グロッグ 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　すでに薬室に装填済みだった弾丸が、
+　イジェクション＝ポートから虚空に飛んで、
+　くるくる回りながら真鍮色の弧を描いた。
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="3" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　威圧的に見下ろしてくるリズィの視線を真っ正面から受け止めながら、
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　さらにスライドを引いては戻す。
+<se id="3" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　2回、3回……鋭く滑らかな金属音が鳴るたびに、
+<se id="3" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　弾き出された9mm弾がアスファルトの上に転がる。
+<se id="1" src="04_04" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="2" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+
+<se id="3" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+<se id="4" src="08_02" mode="normal" time="" loop="off" effect="">//!se 
+　15発目を捨てたところで、
+　親指でスライドストップを押し上げ、スライドを引きっぱなしで止めた。
+
+「残り……一発だ」
+
+　これ見がよしに、
+　開け放たれたイジェクション＝ポートの中を見せつけてから、
+　スライドストップを弾いて外す。
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se ing
+<CLEAR><BACKGROUND SRC="グロッグ">//# dummy 20 グロッグ 1
+<WIPE EFFECT="fade" TIME="0">
+　滑り戻ったスライドが、最後の一発の弾丸を薬室に送り込み……
+　グロッグは単発の凶器になった。
+
+<CLEAR><BACKGROUND SRC="bay2">//# rizy^3 20 bay2 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 bay2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……何のつもりだよ？」
+
+<BOX type="0">//%w
+「この一発で、あんたら全員と喧嘩ができるとは思うまい？」
+
+「だが、サイス一人を殺すには事足りる」
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「吠えてくれるね、坊や」
+
+<BOX type="0">//%w
+「あんたに背中から撃たれるよりは、いい」
+
+//> left bay7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　静まり返ったコンテナ集配所には、まるで人の気配がない。
+　
+　熾烈な撃ち合いを予期していただけに、皆が拍子抜けした様子で、
+　ぞろぞろと歩を進めていく。
+
+　この集配所を抜けた向こうの船着き場に、
+　迎えのボートがいるはずなのだが……
+
+　時間的には、そろそろサイスが現れなければ、おかしい。
+　
+　いやむしろ、もうとっくに到着しているべきだ。
+
+　サイスが接触したユーロマフィアのコネクション……
+　本当に、下っ端の密輸屋なのか？
+
+「何の警戒もしてないっていうのは、変じゃないか？」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うるさいね。あんたが
+　心配するこっちゃないよ」
+
+「何のために、これだけの人数を
+　揃えたと思って……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="06_02a" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　リズィが最後まで言う前に、銃火が夜霧を切り裂いた。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　最前列を歩いていた二人が、
+　血糊を撒き散らしながらコンクリートに突っ伏す。
+
+<se id="1" src="波止場銃撃" mode="normal" time="" loop="on" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire2">//#! bayFire2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　それを皮切りに、集配所の至るところから、
+　突撃ライフルの銃撃が始まった。
+
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire3">//#! bayFire3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　ユーロマフィアの連中は、すでに集配場に布陣を終えていた。
+　ただのケチな密輸屋じゃない。人数も武装も充実している。
+
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1430x1">//#! 1430x1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　まずい。サイスの方は抜かりなく備えている。
+
+<se id="2" src="09_01" mode="normal" time="" loop="on" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire1">//#! bayFire1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　だが、リズィ率いるインフェルノの追撃チームも玄人である。
+　奇襲されたにもかかわらず、
+　混乱することもなく、即座に散開して反撃を始めた。
+
+　さすがに水際立ったチームワークだ。
+　……約1名を除いて、だが。
+
+<CLEAR><BACKGROUND SRC="bay7">//# bay7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　幸か不幸か、部外者の自分は完全に無視される形になった。
+
+　どのみちリズィのチームとは打ち合わせも何もしていない。
+　おまけにグロッグの弾は一発限り。
+
+　リズィ達からしてみれば、
+　裏切る心配もなければ戦力にもならない
+　エキストラといったところだろう。
+
+　ユーロマフィアとリズィたちの火力は、完全に拮抗していた。
+　お互い反撃に手一杯で、身動きできなくなっている。
+
+<se id="1" src="波止場銃撃" mode="normal" time="" loop="off" effect="">//!se 
+　好都合だ。この調子なら、
+　まだ当分の間はリズィたちが陽動の役を果たしてくれる。
+
+<BOX type="5">//%sR
+「どこに行く気だ、おい!!」
+
+<se id="2" src="09_01" mode="normal" time="" loop="off" effect="">//!se 
+<se id="3" src="玲二走り4" mode="normal" time="" loop="off" effect="">//
+<BOX type="0">//%w
+　リズィの詰問を背中で聞きながら、
+　敵の布陣を回り込むように、横手を目指して走った。
+　逃げたと思われても文句の言えない状況だが、
+　そんなことを気にかけている場合ではない。
+
+　どのみち、結果を出せない限りは立場がないのだ。
+
+　狙う相手は、ただ一人。
+
+<calc workname="gun10" operator="1" mode="global">
+<A HREF="0310.txt" OPERATOR="0280=1">//~ 0310
+<A HREF="0315.txt" OPERATOR="">//~ 0315

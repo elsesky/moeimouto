@@ -1,0 +1,226 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……这是……」
+
+　第一次拿着的手枪，有着单从外表无法想象的沉重感。
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「持枪的方法是……像这样。
+　手指不要触碰扳机」
+
+<BOX type="0">//%w
+  Ein就这样伸出双手，手指交叉着牢牢地握住枪把。
+
+<BOX type="5">//%sR
+「肩部放松，双臂和握枪的手指用力」
+
+<BOX type="5">//%sR
+「这里是照門，这里是准星。
+　让视线通过照门的凹口看到准星，再对准目标」
+
+//> left field wide 255 dummy 20 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「做的不错，
+　就这样，瞄准那边的靶子」
+
+<clear>
+<BACKGROUND SRC="暲傇儗儞僈">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  Ein所指的，是离这边大约10米远的地方，
+  横排放置的一行砖块。
+
+<clear>
+<BACKGROUND SRC="傾僀儞対廵巜撿">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「举枪时，右臂要用力向外推，左臂则向内拉，从而确保枪身的稳定」
+
+「话虽如此，相较整只手臂而言，
+  最需要用力的是手部」
+
+<BOX type="0">//%w
+按照Ein所说的，我试着调整持枪的力道。
+像这样持续加大力度，同时保持手臂不颤动，亲身体会才发现意外的难。
+
+<BOX type="5">//%sR
+「扣动扳机时，不要慌张，
+  要轻轻地扣下去……」
+
+「……开枪」
+
+<clear>
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="悂偒旘傇儗儞僈1">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+由于充分学到了正确持枪的方法，身体并没有因为后座力而摇摇晃晃。
+不过，巨大的枪声倒是吓了我一跳。
+
+　向前方看去，之前瞄准的左边的砖块，已经被打得粉碎。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还剩5发。继续射击」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  咽了一下口水，我照Ein所说，再次慎重地将枪举好。
+
+　第二枪…
+<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+  没有击中。再来一枪……
+
+<se id="3" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="悂偒旘傇儗儞僈2">//
+<WIPE EFFECT="light" TIME="0">
+  命中。下一枪……
+
+<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="悂偒旘傇儗儞僈3">//
+<WIPE EFFECT="light" TIME="0">
+　继续命中。
+
+<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="悂偒旘傇儗儞僈4">//
+<WIPE EFFECT="light" TIME="0">
+　最后一枪则没有击中。
+　仅仅打了六枪，手臂就痛的像麻痹了一样。
+
+　但是，每两枪就有一枪中靶。
+
+<clear>
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「能打中只是意外吧……」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是因为，作为基础的平衡感你之前已经好好地锻炼过了」
+
+<BOX type="0">//%w
+这么说着，Ein打开弹仓，教我再次装填的方法。
+我的手指不小心碰到还在冒烟的弹壳，差一点被烫伤。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在这种距离下，首先要做到弹无虚发」
+
+「做得到的话，接下来就是速度」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最初的目标……
+　先是四秒内打完六发子弹吧」
+
+<BOX type="0">//%w
+  四秒？　一秒一枪都来不及吧。
+
+「……这样的话，不是连瞄准的时间都没有了吗」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  听到我这样说，Ein沉默着伸出手来。
+
+　是要给我做示范吗？
+　带着少许期待，我把装好子弹的枪递给Ein。
+
+<BOX type="5">//%sR
+Ein十分自然地举起枪……
+这样说道。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BUSTUP NAME="elen5" face="" MODE="on" zoom="" ALIGN="right">//# elen5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「最终的标准是……」
+
+//傕偊傜俽俤捛壛
+
+<se id="1" src="13-02-6楢幩" mode="normal" loop="off">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="6" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="3" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="3" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+  六个砖块被依次击碎，四散飞落。
+
+　两秒……仅仅两秒。
+　而且没有一枪落空。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「达到这样的速度就可以了。
+　先从你做得到的开始吧」
+
+<calc workname="gun21" operator="1" mode="global">
+<A HREF="0060.txt" OPERATOR="">//~ 0060

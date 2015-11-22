@@ -1,0 +1,89 @@
+<INCLUDE SRC="include.h">
+<コマンド メニュー>
+<system cmd="savemode" mode="off">
+
+//テスト用
+//<calc workname="クロウディア初Ｈ" operator="0">
+//<calc workname="クロウディア洋上Ｈ" operator="1">
+//<calc workname="キャル初Ｈ" operator="1">
+//<calc workname="アインＨ" operator="0">
+//<calc workname="ドライＨ" operator="1">
+//<calc workname="美緒Ｈ" operator="1">
+
+// ---------------------------------------------------
+<MARKER NAME="#main">
+
+<BACKGROUND SRC="extra\RECOLLECTION_back">
+
+<CHOICE HREF="#最凶の亡霊"   disable="２章皆殺しのエンド=0"   FILE="cg\mode\1570x1.jpg;data\unindicate.png" x="130" y="90" TYPE="2">
+<CHOICE HREF="#丘の上から"   disable="クロウエンド=0"   FILE="cg\mode\1760p2.jpg;data\unindicate.png" x="240" y="90" TYPE="2">
+<CHOICE HREF="#月輝る夜に独り"   disable="トルーエンド=0"   FILE="cg\mode\ドライ浜辺で死亡.jpg;data\unindicate.png" x="350" y="90" TYPE="2">
+<CHOICE HREF="#蒼穹の道を"   disable="エレンエンド=0"   FILE="cg\mode\4010p2.jpg;data\unindicate.png" x="460" y="90" TYPE="2">
+<CHOICE HREF="#砂塵の道を"   disable="ドライエンド=0"   FILE="cg\mode\4020p1.jpg;data\unindicate.png" x="570" y="90" TYPE="2">
+<CHOICE HREF="#桜舞い散る道を"   disable="美緒エンド=0"   FILE="cg\mode\4030p1.jpg;data\unindicate.png" x="130" y="175" TYPE="2">
+
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+//<system cmd="exmode" count="回想WORK" total="11">
+// ---------------------------------------------------
+<WIPE EFFECT="fade" TIME="10">
+<SELECT>
+
+<MARKER NAME="#back">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="extramenu" OPERATOR="">
+
+<MARKER NAME="#最凶の亡霊">
+//<コマンド 回想>
+<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="scene01.txt">
+
+// ---------------------------------------------------
+<MARKER NAME="#丘の上から">
+//<コマンド 回想>
+<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="scene02.txt">
+
+// ---------------------------------------------------
+<MARKER NAME="#月輝る夜に独り">
+//<コマンド 回想>
+<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="scene03.txt">
+
+// ---------------------------------------------------
+<MARKER NAME="#蒼穹の道を">
+//<コマンド 回想>
+<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="scene04.txt">
+
+// ---------------------------------------------------
+<MARKER NAME="#砂塵の道を">
+//<コマンド 回想>
+<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="scene05.txt">
+
+// ---------------------------------------------------
+
+<MARKER NAME="#桜舞い散る道を">
+//<コマンド 回想>
+<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="scene06.txt">
+

@@ -1,0 +1,16 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　对了，刚才那两名外国人……
+　为什么还沉默地看着啊？！
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# sice 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「救救我，我要被杀了！」
+　喊叫着，却没有得到回应。
+　女人就如之前一样毫无表情，男人则露出了轻蔑的笑容，
+　平静地看着这边。
+
+<A HREF="0010d.txt" OPERATOR="">//~ 0010d

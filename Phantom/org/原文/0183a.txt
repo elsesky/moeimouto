@@ -1,0 +1,15 @@
+<BOX type="0">//%w
+　結局、いつものパイソンを選ぶことにした。
+　毛色の違う任務だが、やはり扱い馴れた銃がいい。
+
+　どんな場面に対処することになるか知れないので、
+　シリンダーにはホローポイント弾とフルメタルジャケット弾を、
+　一発ずつ交互に装填しておいた。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<CALC WORKNAME="0183a" OPERATOR="1">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

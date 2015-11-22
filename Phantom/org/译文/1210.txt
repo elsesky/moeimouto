@@ -1,0 +1,395 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0c1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0d1">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="door2" mode="normal" loop="off">
+
+<wait time="200">
+<BOX type="0">//%w
+「我回来了」
+
+　回想起来，从上个月到现在，我还没有一次在家门口说过这样的话呢。
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「欢迎回来」
+
+<BOX type="0">//%w
+　凯尔在认真地做着扫除。
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　看来，凯尔一直在勤快地打理着这个住所。
+
+　一尘不染的床铺。
+  擦得干干净净的窗户。
+  叠得整整齐齐、分类放好的衣服。
+
+　细微的变化一件件积累起来，每天的生活变得越来越舒适，感觉就像是在变魔术一样让人难以相信。
+
+　这个以前只是用来睡觉的地方，变得越来越像一个家了。
+
+　自己不会感到任何不快，因为这里已经是个很舒适的地方了。
+
+「……？」
+
+　偶然间，我注意到桌子下面滚落着沾满机油的小零件。
+
+　虽说不能一眼看穿那是什么，不过也能猜个八九不离十了。
+　那是枪械的零件……撞针。
+
+「喂，凯尔」
+
+「这是？」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……」
+
+<BOX type="0">//%w
+　就像是做恶作剧被当场抓住的顽皮孩童一样，凯尔不知所措地愣在了原地。
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你不会生气吧？」
+
+<BOX type="0">//%w
+「这要看情况」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「要是你不好好地解释，我可就生气了哦」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　像是死心了一样，凯尔从床底下拿出了危险的东西。
+　没记错的话……那是藏在天花板里的AUG自动步枪。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大概，是它的零件」
+
+「我在整理房间的时候发现的」
+
+<BOX type="0">//%w
+　算了，如果只是无意间发现的，那我没有必要发怒，也不必责怪她。
+　事到如今，自己也没什么需要瞒她的了。
+
+　问题是，这个撞针是怎么跑到外面来的呢。
+
+「……你把它拆分了吗？」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对不起」
+
+「因为你之前教过我，说将枪械拆开保养是很重要的」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我觉得自己应该能做得到」
+
+<BOX type="0">//%w
+　的确，我曾经教过她如何清理AMT自动手枪……不过，处理突击步枪与那个是完全不同的。
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「稍等一下，我马上把它装回去」
+
+<se id="1" src="01_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1210p1">//# dummy 20 1210p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="feeldstrip" mode="normal" time="" loop="off" effect="">//!se feeldstrip
+　话还没说完，凯尔就盘腿坐在地上，开始再次分解AUG。
+
+<BOX type="4">//%sL
+「唔，扭一下这个，把这个拔出来……啊，错了」
+
+<BOX type="0">//%w
+　她的手法称不上熟练，但从切实分解着枪械的结构这一点上来看，她已经理解了这把枪的构造。
+
+「你很熟悉机械吗？」
+
+<se id="1" src="13_04" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="4">//%sL
+「嗯」
+
+「有一段时间，我把见到的东西全都分解了呦，比如闹钟什么的」
+
+「很想弄明白它们都是怎么运作的」
+
+「要是有螺丝刀和扳手的话，我可以把很多东西都分解成一块一块的」
+
+「……说不定车门也可以」
+
+<BOX type="0">//%w
+　凯尔满不在乎地笑着。
+
+<se id="1" src="04_02" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="4">//%sL
+「以前家里的录像机很破的，我常常得把录像带从里面弄出来」
+
+「不过这种事对我老爹是保密的」
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+「好了，给我那个」
+
+<BOX type="0">//%w
+　拧下螺丝以后，凯尔伸出手，拿走了撞针。
+
+<se id="1" src="16_01" mode="normal" time="" loop="off" effect="">//!se 
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<se id="1" src="feeldstrip" mode="normal" time="" loop="off" effect="">//!se feeldstrip
+「这把枪里面全是塑料，最初我还以为是个玩具呢」
+
+<BOX type="0">//%w
+「真枪和玩具不可能一样的吧」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这可不一定哦」
+
+「不管是什么道具，交给外行来用的话，看上去不就像是二流的东西一样吗？」
+
+<BOX type="0">//%w
+　就像是只凭双手就能搞定一样，凯尔一边和我闲聊，一边正确地进行着作业。
+
+<se id="1" src="23_02" mode="normal" time="" loop="off" effect="">//!se 
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好了，完成了」
+
+<BOX type="0">//%w
+　AUG恢复了本来的样子。
+
+本来我应当责备她随意玩弄枪械的。
+可是说实话，她装配枪械的手法着实令我目瞪口呆，想不出叱责的话来。
+
+「……别忘了把它放回原来的地方哦」
+
+<BOX type="5">//%sR
+「嗯。我知道了」
+
+//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　虽然心情很复杂，
+<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　不过我还是振作起来，在地上展开了洛杉矶市的地图。
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你在做什么？」
+
+<BOX type="0">//%w
+「啊，怎么说呢，跟猜谜游戏差不多吧」
+
+「假设要用狙击枪狙击这个酒店的5楼、西北朝向的房间里的人」
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯嗯」
+
+<BOX type="0">//%w
+「问题就是，从哪里射击才好呢」
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔～」
+
+<clear>
+<BACKGROUND SRC="僉儍儖抧恾傪傒傞">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔用手撑住下巴，看着地图。
+
+「当然，很高而且没有人注意到的地方是最好的」
+
+<BOX type="5">//%sR
+「大楼天台这样的地方？」
+
+「不过，并不能说……越近越好吧？」
+
+<BOX type="0">//%w
+「没错」
+
+「我想，只要在半径400码以内、可以看到目标就可以了」
+
+　当天Inferno将安排能够调动的所有人员进行防卫，大概也就是这种程度吧。
+
+<clear>
+<BACKGROUND SRC="room0a1">//
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「400码啊……根本就看不到人了啊」
+
+<BOX type="0">//%w
+「可以用望远镜。
+如果有高精度的来复枪和高倍率的瞄准望远镜，再加上顶级射手的话，就算距离800码也在射程之内」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「800码也就是……半英里？」
+
+<clear>
+<BACKGROUND SRC="僉儍儖抧恾傪傒傞">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　惊呆了的凯尔用手指指着地图。
+
+//<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「从酒店向外半英里……可以到达高尔夫中心呢」
+
+<BOX type="0">//%w
+　没错，这正是让我头痛的地方。
+  市中心的政府区域正好处于射程之内。
+
+「也就是说，能选的狙击地点太多了。
+  比在购物中心里购物时的选择还要多」
+
+<clear>
+<BACKGROUND SRC="room0a1">//
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「可是……你看，这周围的楼都太高了吧？」
+
+<BOX type="0">//%w
+　高度……
+  对了，我竟然忘记了作为狙击手最基本的事项。
+
+　可是……
+
+　让我感到后背直窜寒气的，并不是自己的粗心大意。
+
+　而是这个狙击的铁则竟然被完全是外行人的凯尔指了出来。
+
+「……为什么太高的地方不行？」
+
+　我掩饰住内心的动摇，面无表情地问凯尔。
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎？　这个，唔……」
+
+<BOX type="0">//%w
+　凯尔仿佛一下子没了气势，不知道该怎么回答。
+　看来她并不是懂得原理才那么说的。
+
+<BOX type="5">//%sR
+「你看嘛，比如说像这样架起枪」
+
+<BOX type="0">//%w
+　凯尔手忙脚乱地抱起放在膝盖上的AUG。
+
+<BOX type="5">//%sR
+「是朝5楼的窗户射击对吧？
+因为是在屋顶上，所以应该将枪这样向下架起来吧？」
+
+<BOX type="0">//%w
+「然后呢？」
+
+<BOX type="5">//%sR
+「然后……那个，总觉得这样架枪的话……」
+
+「射击时会感觉很不舒服……」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……对不起，我只是乱说的，没有关系吧」
+
+<BOX type="0">//%w
+　我之所以无言地盯着地图，是因为被凯尔的话震惊了，不过凯尔似乎误解了。
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　或许是为了掩盖自己的害羞吧，凯尔天真地笑了起来。
+  而我却用畏惧的眼神注视着她。
+
+　……你是对的，凯尔。
+
+一般人都会觉得高处比较适合射击。
+虽然高处确实可以使视野更宽阔，可如果射击位置太高的话，反而会加大射击的难度。
+
+　朝下射击时，重力对弹道的影响会比普通射击更大。尤其是长距离射击的时候，会产生不可预计的误差。
+
+　如果希望一击即中，那么就应该尽可能避免从太高的位置向下射击。
+
+　毫无疑问，这样的射击理论我从未教过凯尔，可是……
+
+“不好的感觉……”
+　凯尔只是戏耍般地架起AUG，就能凭着直觉悟出了狙击手那不成文的规定吗……
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你怎么了？」
+
+<BOX type="0">//%w
+「啊，没什么」
+
+　虽然有点讽刺，不过凯尔的声音还是把我拉回到眼前的问题上。
+
+「唔，确实可以将太高的建筑物排除」
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说的没错是吧？」
+
+<BOX type="0">//%w
+　这样一来，范围就意外地缩小了。
+  只要从林立的大楼群中找出差不多符合高度的地方就可以了。
+
+「……接下来只有去散散步了」
+
+<calc workname="gun14" operator="1" mode="global">
+<A HREF="1210b.txt" OPERATOR="">//~ 1210b
+
+
+<A HREF="1210b.txt" OPERATOR="">//~ 1210b
+<A HREF="1220b.txt" OPERATOR="">//~ 1220b

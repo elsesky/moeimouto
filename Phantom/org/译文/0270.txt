@@ -1,0 +1,104 @@
+
+<se id="2" src="僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　下午，车子驶入了盐湖城。
+
+//> left street9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="暷崙岎嵎揰拫" mode="normal" time="" loop="off" effect="">//
+<BACKGROUND SRC="street9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　驶入市区的理由有两点。
+
+<se id="2" src="" mode="fadeout" time="40">
+
+　首先是换车。
+  这辆从组织里带出来的Taurus已经不能继续用了。
+
+　其次就是筹措资金。
+
+　不管怎么说，在这种规模的街道上，还是比较容易伪装的。
+　……也就是说，用非法的手段弄钱相对容易一些。
+
+　偷车贼、扒手、掉包贼……
+　这样的无赖增加上一个两个，
+  在这么大的街道上是不会有人注意到的。
+
+　接下来，要怎么做呢。
+
+<se id="1" src="" mode="fadeout" time="40">
+<CLEAR><BACKGROUND SRC="0240p2">//# 0240p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我想要询问坐在副驾驶席上的少女，
+  不过她和昨天一样面无表情，无言地望着窗外。
+
+　昨夜的事情，她没有忘记吧……
+　就像是怀疑之前的一切都是梦一般，
+  她的侧脸又变成平常那种冷静的样子。
+
+　可能是因为这个原因吧，总觉得气氛有些尴尬，
+  从早上开始我们就没什么交谈。
+
+　相比之下，占据我头脑的，更多的是如何弄到车和钱。
+
+<CLEAR><BACKGROUND SRC="street^b">//# street^b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我无法专心思考，就这样驾车在市区中漫无目的地转来转去。
+  当车行驶到闹市的时候，突然从旁边传来一个声音。
+
+<BOX type="5">//%sR
+「在下一个十字路口停车」
+
+<BOX type="0">//%w
+「哎？」
+
+<CLEAR><BACKGROUND SRC="0240p5">//# 0240p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「不是需要钱吗？
+  我去弄一些来」
+
+<BOX type="0">//%w
+「……你去？」
+
+<CLEAR><BACKGROUND SRC="0240p2">//# 0240p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「你还没有接受过这方面的训练」
+
+「由我来做吧。
+　你去负责弄车子」
+
+<BOX type="0">//%w
+「……哦」
+
+　虽然没有跟我商量过，
+  但是她似乎知道该怎么做。
+
+　看来，她没有丧失平常那种思考能力，
+　……昨天晚上的事，并没有让她感到烦恼。
+
+　就好象什么都没有记住，什么都没有发生一样……
+
+<se id="1" src="僩乕儔僗掆巭" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="street^c">//# street^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我在十字路口前面停下车。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「1个小时后，你回到这里来接我」
+
+<A HREF="0270a.txt" OPERATOR="0260=1">//~ 0270a
+<A HREF="0270d.txt" OPERATOR="">//~ 0270d

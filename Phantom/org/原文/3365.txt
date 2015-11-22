@@ -1,0 +1,53 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　肝を冷やしたキャルとの邂逅にも関わらず、
+　その後の日々は凪いだ海のように平穏だった。
+
+　すでにキャルには、
+　こちらが本気で美緒を巻き込むつもりではないと看破されている。
+　それがインフェルノや梧桐組に伝われば一巻の終わりなのだが……
+　案に反して、動きがない。
+
+<CLEAR><BACKGROUND SRC="jView1">//# jView1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　沈黙のうちに月曜が過ぎ、火曜日が終わる。
+
+　ベルトの内側で自己主張する{銃}の重量だけが、
+　唯一の非日常。
+
+　日曜の接触が緊迫したものだったぶん、
+　毎日の静けさの、不気味さはいや増した。
+
+　だが、たとえ緊張が隠せなくても、
+　硬い表情が周囲から浮くことはなかっただろう。
+
+<CLEAR><BACKGROUND SRC="school5b">//# school5b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　学生の身には憂鬱な、試験期間が迫っている。
+　それも学年末試験……
+　日頃、成績の奮わない生徒には、進級が懸かっている者だっている。
+　沈鬱な面持ちをしている者は、クラスにも一人や二人じゃない。
+
+　喫茶店でキャルが見せた、氷の炎のような鬼気迫る癇癪。
+　彼女が周囲の意向を省みず暴走し始めるようなら、
+　事態は絶望的だと思っていたが……
+
+<CLEAR><BACKGROUND SRC="church1">//# church1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　水曜日の昼休み……
+
+　礼拝堂を窺いに来てみると、案の定、{ヒロイン}はそこにいた。
+
+<A HREF="3370.txt" OPERATOR="3345=1">//~ 3370
+<A HREF="3380.txt" OPERATOR="">//~ 3380

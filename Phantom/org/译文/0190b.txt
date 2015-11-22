@@ -1,0 +1,41 @@
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「等……等一下」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　不管怎么说都太突然了。
+　我还没有任何的心理准备……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　从我将身体挪到沙发的边缘的那一刻起，
+  就很明白自己快要败北了。
+
+　虽然是年长的上司，但毕竟是女性。
+　被她看到自己胆怯的一面，还是会让我感到羞耻。
+
+　这么束手待毙也不是个办法，
+　更加坚决的应对方法应该还是有的。
+
+<BUSTUP NAME="crou3" face="a" MODE="on" zoom="" ALIGN="right">//# crou3^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不过克劳蒂娅没有介意，
+  她微笑着，整理了一下睡袍的下摆。
+
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对不起啊。
+　看来玩笑有些开过头了」
+
+<se id="1" src="堷偒弌偟" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　说完，她从边桌的抽屉里，
+  拿出一本红色封皮的小册子。
+
+　一开始她就特意准备在那里了吧。
+
+<A HREF="0210a.txt" OPERATOR="">//~ 0210a

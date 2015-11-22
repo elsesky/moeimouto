@@ -1,0 +1,81 @@
+
+<se id="1" src="抱きしめる" mode="normal" loop="off">
+
+　そこに立ちはだかっていた
+　長身の男の胸板が、
+　彼女の身体を受け止めた。
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="left">//# elen1^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「!?」
+
+<CLEAR><BACKGROUND SRC="ルガーアップ">//# passage2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　次の瞬間、
+　少女の目が捉えたのは、
+　ルガーP08自動拳銃の、
+　禍々しい光沢だった。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　遅れて駆け込んできたスーツの男
+　……インフェルノの追跡者は、
+　顔に驚愕を顕わすゆとりもなく、
+　額に弾痕を刻まれ、頽れた。
+<wait time="800">
+<se id="2" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="right">//# sice5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ほとほと呆れた連中だな。
+　インフェルノというのは」
+
+<BOX type="0">//%w
+　冷笑混じりに呟きながら、サイスは足元の死体を爪先で小突く。
+
+<BOX type="5">//%sR
+「私抜きでは、こうも無能な
+　人材しか投入できんのかね？
+　まったく」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="left">//# elen1^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen1^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「マスター……」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「探したぞ、アイン」
+
+<BOX type="0">//%w
+　見失った部下を回収するのに、
+　わざわざ自分で探す必要はない。
+
+　山車行列のように騒々しく
+　ファントムを追う連中を、
+　逆に監視していれば良い……
+　サイスの読みは的中していた。
+
+<BOX type="5">//%sR
+「できれば、おまえとツヴァイを
+　両方とも確保したかったが、
+　この際、贅沢は言うまい」
+
+「おまえ一人で良しとしよう。
+　ツヴァイは、
+　あの女狐にくれてやる」
+
+<calc workname="gun29" operator="1" mode="global">
+<A HREF="0280.txt" OPERATOR="">//~ 0280

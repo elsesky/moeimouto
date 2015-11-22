@@ -1,0 +1,13 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我一跃而起，背朝女孩寻找逃跑的路线。
+　有没有出口呢？门？或是窗户？
+
+　不等我好好观察周围，背后传来了一股杀气。
+　慌乱躲避的时候踩到了自己的脚，我又一次摔到地上。
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　这时，头上的空气被切开，刀锋呼啸而至。
+
+<A HREF="0010d.txt" OPERATOR="">//~ 0010d

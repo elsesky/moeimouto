@@ -1,0 +1,151 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage3ex wide 255 crou^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage3ex">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「情况怎么样？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「没问题」
+
+「半径500米的范围内都在我们的控制下」
+
+「为此我们特别从西海岸的盟友那里借来了人手」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不过……」
+
+「哪里都没有见到兰迪，那家伙可是维斯梅尔的心腹」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「维斯梅尔那家伙……葫芦里到底卖的什么药？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在说什么都没用了」
+
+<BOX type="5">//%sR
+「加强警惕，别大意了啊」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不过话说回来，Phantom也不见人影」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「真是的，那小子到底跑哪偷懒去了」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这样啊？　要怎么办呢」
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「呦，怎么了？
+　两个人偷偷摸摸的商量什么呢？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 rizy^8 19
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# crou^2 20 rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今天我希望你们两位能暂时消除芥蒂，不要因为你们的争执影响到Inferno的名誉」
+
+//> right hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「全员都已经准备完毕」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 godo 19
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 godo 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「嗯」
+
+<BOX type="3">//%m
+　梧桐大辅一边应声，一边在穿衣镜前正了正西服的领子。
+
+　藏在怀里的家伙虽然个头不小，不过并不十分引人注目。
+
+　之前志贺准备的枪已经全都分发给了手下的兄弟。
+
+　平时对枪械不是非常在意的梧桐组，这一次专门选择了极其凶悍的武器。
+
+<CLEAR><BACKGROUND SRC="m_93r_000">//# dummy 19 m_93r_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　只要扣动一下扳机，就能像机枪那样进行3发连射。
+
+　与左轮手枪或托卡列夫M1940完全不同的枪柄触感，让梧桐众人愈加地兴奋。
+
+（托卡列夫M1940，苏联人费多尔托卡列夫设计的半自动步枪，装弹量10发）
+
+　似乎是内心的武士道精神被激发了出来。在场的每个人都因这把枪隐含的破坏性而斗志高涨。
+
+<CLEAR><BACKGROUND SRC="hotel1">//# hotel1 1 godo^3 19
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="left">//# hotel1 1 godo^3 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「看起来怎么样」
+
+<BOX type="3">//%m
+　毫不在意身上的衣着何时会变成寿衣的梧桐大辅穿着的，是白色的西服外加夹克。
+  此时他背上的升龙纹身，仿佛正吞吐着气息。
+
+<BOX type="4">//%sL
+「该我们出场了哦，志贺」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不管上天入地都随您去」
+
+<calc workname="gun15" operator="1" mode="global">
+<A HREF="1260.txt" OPERATOR="1230a=1">//~ 1260
+<A HREF="1272.txt" OPERATOR="">//~ 1272
+ 1260
+<A HREF="1272.txt" OPERATOR="">//~ 1272

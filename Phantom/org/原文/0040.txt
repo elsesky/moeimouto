@@ -1,0 +1,278 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right news1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="news1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+『暗黒街の大物、ホテルにて怪死』
+『密室の惨劇！
+　ギャング組織間の抗争か？』
+『姿なき暗殺者？　目撃者は皆無』
+
+//> right room3 wide 255 inferuno1 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「……素晴らしい。
+　実に素晴らしい」
+
+「サイス＝マスター、
+　君の“ファントム”は最高だ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「光栄です。ミスタ＝マグワイヤ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2 19
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「これで七人目だな」
+
+「アンタを俺たちインフェルノに
+迎え入れて半年……アンタの連れの
+活躍には正直言って驚かされる」
+
+「この手際……
+　とてもガキとは思えねぇ。
+　プロ中のプロだ」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「新参の、それも年端もいかぬ少女に“ファントム”の称号を与えるは問題かとも思ったが……」
+
+「もう異論はない。
+　彼女こそ“ファントム”」
+
+「我がインフェルノの
+　トップ＝スナイパーだ」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いえ、どれもこれも、ミズ＝マッキェネンの後ろ盾があればこそ、
+成し遂げられた成果です」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「良い部下を持ったな、
+　クロウディア」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ところで、
+例のジャーナリストの始末だが……
+随分と手間取ったそうだな」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……いえ、そのようなことは。
+　万事滞りなく完了しました」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2 20
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ほう、そうか？」
+
+「聞くところによると、
+奴を始末する現場を、
+部外者に見られたそうじゃないか」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「旅行者だったそうだな。
+　しかも、取り逃がしたという話も
+　聞いている」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どうなんだね？　クロウディア」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou2^2 20
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……どこから伝わったのか
+　存じませんが、事実誤認です」
+
+「くだんの目撃者は、
+　すでに拘束しました」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ほぉ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou2^2 20
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……身元を確かめた上で、
+　処分しました。
+　死体も処理済みです」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……ふむ」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……まあ、いいだろう」
+
+//> right passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……感謝します。
+　ミズ＝マッキェネン」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いいように
+　踊らされているようだな、私も」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの少年……ツヴァイについては
+　決して期待を裏切らぬ成果を
+　御覧に入れます」
+
+「どうか、いましばらく時間を」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2^3 19
+<BUSTUP NAME="crou2" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「お前の悪趣味な道楽に、
+　わたしが期待しているとでも？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私の手駒は、貴女の手駒ですよ。
+　ミズ＝マッキェネン。すべては
+　インフェルノへの捧げ物です」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　立ち去るサイス＝マスターを、
+クロウディアは凍てついた眼差しで見送った。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……お疲れさん。クロウ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2 19
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「待たせたわね、リズィ」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「またあの蛇野郎が
+　何かやったの？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2^2 19
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「飛ぶ鳥落とす勢いよ」
+
+「マグワイヤたちには、ずいぶんと
+　高く買われてるからね、彼」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……放っといていいのかい？」
+
+「あいつ、そのうちアンタに
+　成り代わる腹だよ、クロウ」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「先手を打つなら、
+　アタシはいつでも……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou2 19
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今はまだ、その時期じゃないわ」
+
+<BUSTUP NAME="crou2" face="7" MODE="on" zoom="" ALIGN="left">//# crou2^7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「確かに、
+　役に立つ男ではあるのよ。
+　もう少し様子を見るわ」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「アンタがそう言うんなら、
+　いいけどさ」
+
+<A HREF="0050.txt" OPERATOR="">//~ 0050
+0

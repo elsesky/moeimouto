@@ -1,0 +1,44 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　キャルとの買い物で浮き立っていた気分も、
+　ロフトに戻る頃には、またもとの懸念に捉われて、重く沈み込んでいた。
+
+　そうだ、釈然としないのは、任務の内容自体じゃない。
+　任務の与えられ方だ。
+
+　まだ当面、ヤクザを狙う動きはない。
+　しばらくは、のんびり構えていてもいい。
+
+　そんな指示を出す一方で、なぜ早々に護衛の任務を解かれたのか？
+
+　出番があるまでは、
+　これまで通り、クロウディアの傍に侍っていてもいいはずだ。
+　むしろ、その方が自然だ。
+
+　ひょっとして、単独で動く必要があったのは、
+　むしろクロウディアの方だったんじゃないのか？
+
+　護衛で付き人の自分でさえ、傍にいては邪魔になるような、
+　そんな秘密があるんじゃないのか？
+
+　気になった。
+　彼女は、いったい何を……
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうしたの？　考え事？」
+
+<BOX type="0">//%w
+　我に帰ると、気遣うように顔を覗き込んでくるキャルと目が合った。
+
+<CHOICE HREF="1127c.txt" TEXT="＊クロウディアの許へ行く" OPERATOR=""></A>//{ ＊クロウディアの許へ行く 1127c ＊やめておく 1127d
+<CHOICE HREF="1127d.txt" TEXT="＊やめておく" OPERATOR=""></A>//{ ＊クロウディアの許へ行く 1127c ＊やめておく 1127d

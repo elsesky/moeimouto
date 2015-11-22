@@ -1,0 +1,245 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage7c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="passage7c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　刚才的枪声是……？
+
+虽然身处子弹和跳弹的包围之中，我还是听到卡拉什尼科夫的枪声在意料之外的地方响起，。
+
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　战场转移到了西校舍的2楼。
+  在狭长的走廊中，正面的枪战正激烈地进行着。
+
+　我据守在校舍一端的安全通道处，阻击着由走廊直冲过来的敌人。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　敌方还剩3人，但现在和我互射的对手恐怕只有2人。
+　虽然我曾以为剩下的那个人会从楼下包抄我……难道说，她去追美绪他们了？
+
+　那样的话，自己就不能再磨蹭下去了。
+　现在可不是浪费时间的时候。
+
+　AK74的子弹已经所剩无几。
+  只能放手一搏了。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="僪儔僀憱傝" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+　下定决心后，我停止枪击，跑上了安全通道。
+
+　这座西校舍的3楼，这一侧的教室……记得没错的话，是化学试验室。
+　在那里可以使用一个冒险的战术。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school2c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="school2c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%m
+　在黑暗的中庭那一片树丛的阴影中……
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　凯尔目送着志贺的奔驰驶离了校园。
+
+　看样子志贺似乎在孤立无援地情况下击杀了Seiben。
+　这样一来美绪就逃出生天了。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　注意到自己安下心来的凯尔不禁皱起了眉。
+
+<BOX type="4">//%sL
+“为什么自己非要担心呢？”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　整理自己的心情后，凯尔将视线转向战斗还未平息的校舍。
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+　令人吃惊的是，{名}似乎正以一己之力对抗着数字姐妹全员。
+
+他的战法一反常态地十分奔放，这一点连凯尔都能看出。
+简直与那个一贯沉着冷静的{名}判若两人。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+“诱饵……吗？”
+
+<BOX type="3">//%m
+　为了能让志贺和美绪顺利逃走，他似乎正不顾一切地争取时间。
+
+　说起来，在礼拜堂的乱战也是这样。
+　让Ein从后门逃走以后，{名}选择了留下来坚持战斗……
+
+　如果不是美绪的介入，说不定他早就已经死了。
+
+　早早冲出礼拜堂以后，凯尔在森林里打了个转又跑了回来，在谁都没有注意到的情况下观察着战况，因而将一切都看在了眼里。
+
+　那个男人……究竟是怎么回事？
+
+　在咖啡店见面时，{名}曾为了让Ein逃走而拼命恳求自己。
+
+　不想牺牲任何人、只会说些漂亮话的他……愈发地煽起了凯尔的怒火。
+
+　可是，看到他将那样的漂亮话贯彻到如此地步，自己只有目瞪口呆的份了。
+
+　事到如今，即使凯尔不出手，{名}也必死无疑。
+
+　说起来，凯尔也明白相当于自己后辈的数字姐妹有着怎样的实力。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　话说回来……
+　对{名}置之不理的Ein究竟去哪里了？
+
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　正当脑中涌现这样的疑问的时候，凯尔的背后突然响起扳起击铁的声音。
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不许动」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　如影子一般突然出现的冰冷声音……自己不可能听错。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……你还真是个无情的女人啊」
+
+<BOX type="3">//%m
+　凯尔冷笑着对身后的Ein说道。
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="4">//%sL
+「{姓}{名}快要走投无路了哦。不去帮他真的可以吗？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那些是什么人？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「赛斯的亲卫队。
+  可以是你的量产型哦，Ein」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　凯尔感觉到身后的杀气正因不安而动摇。
+
+<BOX type="4">//%sL
+「这样下去{名}就不妙了哦。继续和我纠缠下去真的没问题吗？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是最大的威胁」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　听到Ein严厉的断言，凯尔不屑地哼了一声。
+
+<BOX type="4">//%sL
+「那你为什么不开枪？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为{名}不希望我这样做」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　绝对不想承认的屈辱与败北感重现在凯尔的心中。
+
+　在礼拜堂与Ein的那场决斗……
+　{名}故意打偏的子弹很明显是在威吓自己。
+
+　如果没有他的介入，最后会以怎样的结果收场呢……
+
+虽然满腔怒火，但凯尔也明白。
+自己根本不可能躲开Ein意料之外的小刀奇袭。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+“那个笨蛋……”
+
+“他真的打算在不牺牲一个人的情况下搞定一切吗？”
+
+<BOX type="3">//%m
+　屈辱、焦虑，还有些许的怜悯……带着这些，凯尔望向化为战场的校舍。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……不管怎么说，你也不过是一个人」
+
+<BOX type="3">//%m
+　压制住内心的情感，凯尔嘲弄似地对{ヒロイン}问道。
+
+<BOX type="4">//%sL
+「在这里盯着我的话，就只能眼睁睁地看着{名}被杀了」
+
+「不过，要是放了我，你并不知道我会做些什么」
+
+「你究竟要怎么选择呢？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你的问题我原样奉还」
+
+「你又想怎么做呢，凯尔」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<A HREF="3980.txt" OPERATOR="">//~ 3980

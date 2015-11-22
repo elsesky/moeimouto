@@ -1,0 +1,72 @@
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「謝るわけには……
+　いかないんですか？」
+
+<BOX type="0">//%w
+「かれこれ2年も、間が空いてる。
+　しかもキャルにとっては、取り返しのつかない2年だった」
+
+「謝ったぐらいで償えることじゃないし、
+　彼女も、それで済ますつもりはない」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　いたたまれない顔をして、美緒は視線を落とした。
+
+　優しい美緒のことだ。
+　きっとそこまで深い恨みを懐いたことも、
+　向けられたこともないんだろう。
+　だから励ます言葉さえ、出せずにいるのだ。
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの……大きなお世話かも、
+　しれませんけど……」
+
+「私に……何かできませんか？
+　力になれることとか」
+
+<BOX type="0">//%w
+「もう充分、力になってもらってるんだよ」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「？」
+
+<BOX type="0">//%w
+「……いや」
+
+「話を聞いてくれて、ありがとう。ずっと気が楽になった」
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BOX type="0">//%w
+　頬を赤らめて、また美緒は俯いた。
+
+　ひとまずは、これでいい。
+
+　そう胸を撫で下ろしたものの、すぐにまた自責の念にとらわれた。
+
+　何がいいものか。
+　今の告白から抜け落ちている真相は、どれほどのものか……
+
+　結局は、寄せ集めの情報で言いくるめてしまっただけではないか。
+
+　口を開けば、謀る言葉しか出てこない。
+　結局、美緒に対しては、
+　すべてを嘘で塗り固めて接することしかできないのか。
+　キャルのときと、同じように……
+
+<A HREF="3360.txt" OPERATOR="1330=1">//~ 3360
+<A HREF="3365.txt" OPERATOR="">//~ 3365

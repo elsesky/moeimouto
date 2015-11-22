@@ -1,0 +1,28 @@
+「悪いんだが、一人で行ってくれるか？」
+
+　気分の滅入っている今は、キャルの相手をするには辛い。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……疲れてるの？」
+
+<BOX type="0">//%w
+「まぁ、な」
+
+<BUSTUP NAME="cyall3" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しょーがないなぁ。
+　じゃ、休んでて」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　機嫌を損ねたかとも思ったが、そんな様子も見せず、
+　キャルは軽い足取りで出ていった。
+
+　ようやく訪れた、孤独と静寂。
+　一息ついて、ついさっき課された、新たな任務について考える。
+
+<A HREF="1125.txt" OPERATOR="">//~ 1125

@@ -1,0 +1,301 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right bar2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bar2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　走り去る真紅の車体を、
+　レストランの窓の中から、
+　三対の眼が見守っていた。
+
+　琥珀色の瞳が一対と、
+　残る二対は
+　東洋人の黒く冷たい目。
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「随分と
+　達者な車に乗ってるじゃねぇか」
+
+「おまけにあの運転手、
+　まだガキじゃねぇのか？」
+
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="left">//# crou^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「資質と歳は
+　関わりないでしょう？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「直にお会いするのは
+　初めてですわね、
+　ミスタ＝ゴドー」
+
+「……そちらの方は？」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「俺の舎弟の、志賀だ」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……よろしく」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しかし、いいのかい？
+　こんなに堂々と対面しちまって」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ご心配なく。
+　それなりの煙幕は張っています」
+
+「だから今日この場では、
+　腹蔵なく話して下さって
+　構いませんわ」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そりゃぁいい」
+
+<BOX type="2">//%w
+　不敵な笑みを浮かべて、
+　男……梧桐大輔は、広い背中を
+　背凭れにくつろがせた。
+
+<BOX type="5">//%sR
+「あんたの書いた筋書きな、
+　じっくり考えさせてもらったよ」
+
+「要するに……
+　武器と支度はそっち持ち、
+　兵隊はこっち持ち」
+
+「そういう条件なんだな？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「シンプルな認識の仕方を
+　なさるのね」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「気にくわねぇな。
+　泥を被るのも怪我するのも、
+　みんな俺たちだけってのはよ」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="left">//# crou^0 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^0 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「アンフェアな条件とお思い？」
+
+<BOX type="4">//%sL
+「この計画、
+　上がりを独占するのも、
+　あなた方なのよ」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、それが益々気にくわねぇ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「確かに、我々にとっては
+　願ってもない好条件です。
+　胡散臭いほどに、ね」
+
+「あなたの話を鵜呑みにすると、
+　ひとつ疑問が出てくる」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ミズ＝クロウディア。
+こんなことをしでかして、
+あなたは一体なにを得るんです？」
+
+<BOX type="5">//%sR
+「見えねぇんだよ。
+　あんたの狙いが」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# crou^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それは謙遜かしら？　ゴドー」
+
+「義理堅いのが信条のヤクザたちに
+貸しを作らせようとしているのよ。
+わたしは」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「へっ。
+　持ち上げてくれるじゃねぇか」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……恩義を売っておくだけが
+　目的、と？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「恩義というのも、立派な資産よ」
+
+「特にあなた方ヤクザの世界では、
+　いちばん安定した
+　通貨ではなくて？」
+
+「わたしはね、投資家なの」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まぁいいさ。
+　化かし合ってても仕方ねぇ」
+
+「どのみち、
+　こっちの返答は
+　決まってるんでな」
+
+「乗らせてもらうぜ。あんたの話」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40連続追い抜き" mode="normal" time="" loop="off" effect="">//!se F40corner
+<bgm src="l_speed" mode="fadein" old="fadeout" time="10" loop="on">//$ speed.swa 0 255
+<BACKGROUND SRC="0140x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+
+//<se id="1" src="F40corner" mode="normal" time="" loop="off" effect="">//!se F40corner
+　駆る……という行為の悦楽。
+
+　例えれば、大口径の銃でシンダーブロックを粉微塵に撃ち砕いた瞬間の、暴力的な爽快感に似ている。
+
+　だが、一瞬で醒めてしまう破壊の快感と違い、
+　フェラーリの疾走は、ブレーキを踏むまで持続する。
+
+//<se id="2" src="F40走行150短縮" mode="normal" time="" loop="off" effect="">//!se F40corner
+
+　どこまでも……頭の芯が痺れてくるまで、爽快感を維持できるのだ。
+
+　時速200kmの速度感でさえ、
+　まるで途方もない権力を手に入れたような気分になれる。
+
+　さらに300kmともなれば、世界の覇者になったような気分だろう。
+
+　スピードは、力だ。
+
+　途方もないパワーを、掌の上で転がしている感触。
+
+　権力……そんな言葉が、漠然と脳裏に浮かぶ。
+
+<se id="1" src="F40加速4" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="0130x1a">//# 0130x1a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　今日までも、これからも、
+　組織に飼われた殺し屋という境遇は変わるまい。
+　いつだって、そこに思いが至るたびに、
+　惨めさと絶望感が胸を一杯にする。
+
+　だが、今は違う。
+　たとえ虚しさが心を占めても、
+　すべてが15秒後には、1キロ後方の出来事だ。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40走行150室内" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ふと、顔の引き攣れるような感覚を覚えて、
+　口元に手をあててみた。
+
+　頬骨の筋肉が、妙な具合にたわんでいる。
+
+　まさか……
+
+　バックミラーの角度を変え、自分の方に向けてみた。
+
+　鏡の中では、見知った顔が、見ず知らずの表情を浮かべている。
+
+　強張った目元、憑かれたような眼光、
+　そして、弓なりに吊り上がった唇の両端……
+
+　微笑み、だった。
+　優しさや、朗らかさなどは微塵もない。
+　ただエンドルフィンの奔流に自制を押し流されただけの、
+　躁病的な狂おしい笑み。
+
+　スピードという暴力で、世界のすべてを打ち伏せた……
+　その喜びと驕りが、いつの間にか、自分の顔を乗っ取っていた。
+
+　細長い鏡の中の、そんな不敵な表情を眺めながら、
+　肉食獣のように喉を鳴らしてみる。
+　それから、腹筋を痙攣させて、もう一度。
+
+　枯れていたはずの笑い声は、
+　拍子抜けするほど簡単に、喉から滑り出てきた。
+
+　一度笑い始めると、あとはもう止まらなかった。
+　沸き立つような悦びの声は、腹の底から、とめどなく溢れ出た。
+
+
+<CLEAR><BACKGROUND SRC="0140x7a">//# 0140x7a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いずれこの車を降りて、大地に両足をつける羽目になれば、
+　その時は、また虚ろな日常の続きが待っている。
+
+<se id="1" src="F40走り去り" mode="normal" loop="off">
+　だから今は、もう少しだけ、この疾走を堪能しよう。
+
+　何ヶ月ぶりのことなのかは、知りようもないが……
+　今日は、記憶にある限りの人生で始めて、
+　声を上げて笑うことができたんだから。
+
+<wait time="800">
+<clear>
+<WIPE EFFECT="fade" time="12">
+<wait time="1500">
+<se id="1" src="" mode="fadeout" time="20">
+
+<CALC WORKNAME="0150" OPERATOR="1">//
+<A HREF="0160.txt" OPERATOR="">//~ 0160

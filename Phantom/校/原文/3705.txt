@@ -1,0 +1,17 @@
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<CLEAR><BACKGROUND SRC="#000000">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　あぁ、こんな……簡単なことか？
+
+　こんな楽な方法で、償えるなんて……違うよな。
+　また……間違えちまったか？
+
+　なんでいつも、こう……手遅れになってから、肝心なことに気付くんだろうな……
+　なぁキャル……これは違う……違うよ……
+
+<A HREF="4040.txt" OPERATOR="">//~ 3630
+

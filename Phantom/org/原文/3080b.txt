@@ -1,0 +1,122 @@
+「気持ちは嬉しいんだけど……
+　でも、俺は、駄目なんだ」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「本当に、ごめん」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、いえ、そんな、その」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　慌てたように、美緒は言葉を詰まらせたあと……
+　やおら笑顔を浮かべて見せた。
+
+<BUSTUP NAME="mio1" face="7" MODE="on" zoom="" ALIGN="right">//# mio1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうですよね……あは。
+　ごめんなさい。本当に……」
+
+<BOX type="0">//%w
+　無理のある笑いの硬さが、押し隠された落胆の程を窺わせる。
+　意地や虚勢を張っているのではなく、
+　ただ、相手に気を遣わせまいとして、
+　……健気な子だ。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの、気にしないでくださいね」
+
+「本当に、私が一人で、
+　なんとなく思ってただけの……
+　それだけの事なんです」
+
+<BOX type="0">//%w
+「……そうか」
+
+　なかったことに、してしまいたい。
+　その気持ちは、よくわかる。
+
+<CLEAR><BACKGROUND SRC="classroom2a">//# dummy 20 classroom2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　下手に気を揉んだりするよりは、むしろ淡泊に振る舞うべきだ。
+　そう思って席を立ち、あとは振り返りもせずに、教室を出た。
+
+　冷たい男と思って幻滅してくれれば、それだけ早く忘れられるだろう。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left court2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="court2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　中庭のベンチに座り、深く息をつく。
+
+　やはり、恋心まで謀るというのは、あんまりだ。
+
+　無論、感情論でしかないが……
+　本音を言えば、
+　{ヒロイン}のように偽りの友情を装うというだけでも抵抗がある。
+
+　そう思う自分と、{ヒロイン}との違いは何だろうか？
+　夕焼けの空を仰ぎ見ながら、漠然と考える。
+
+　多分……今、身を置いている、この世界に対する想いの深さ、だろうか。
+
+　我が身が殺人者に堕ちるより以前と、なんら変わらない、この世界。
+
+　だからこそ、懐かしみ、
+　慰めを得ることができたんだ。
+
+　この場所の、この空気は、いつまでも無垢なままであってほしい。
+　ここに暮らす美緒や早苗も、また。
+
+　血生臭い世界の名残を持ち込むような真似は、
+　間違っても、やりたくない。
+
+　これで、良かった。
+　終わってみて、改めてそう思う。
+
+　{ヒロイン}だって……怒りはしないだろう。
+　何も彼女の企みを御破算にしたわけでは、ない。
+
+　考え事に耽るあまり、
+　いつものように背後に忍び寄る気配に、気付くのが遅れた。
+
+　おや？　と思った瞬間には、重い衝撃が後頭部に……
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　しかも今回は、いつも以上に手加減がなかった。
+
+　鈍く疼く頭を押さえながら、肩越しに振り向くと、
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そこには憤怒の相もあらわな早苗が仁王立ちしていた。
+
+<BOX type="5">//%sR
+「聞いとく？　あたしの説教」
+
+<BOX type="0">//%w
+「……嫌だって言ったら？」
+
+<BOX type="5">//%sR
+「言わせない」
+
+<A HREF="3130.txt" OPERATOR="">//~ 3130

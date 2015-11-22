@@ -1,0 +1,106 @@
+
+<se id="2" src="トーラス走行室内音" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　昼下がりには、車はソルトレイク＝シティに入っていた。
+
+//> left street9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="米国交差点昼" mode="normal" time="" loop="off" effect="">//
+<BACKGROUND SRC="street9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　街に入る上で、いくつかの課題があった。
+
+<se id="2" src="" mode="fadeout" time="40">
+
+　まず、車の交換だ。
+　いつまでも、組織から持ち出したこのトーラスは使えない。
+
+　それと、現金の工面。
+
+　どちらも、ある程度の規模の街でなら、比較的容易にカタが着く。
+　……つまりは、非合法な手に訴えやすい。
+
+　自動車泥棒、スリ、置き引き……
+　そういう小悪党が一人や二人増えたところで、
+　大きな街では誰の気も引かない。
+
+　さて、どうしたものか。
+
+<se id="1" src="" mode="fadeout" time="40">
+<CLEAR><BACKGROUND SRC="0240p2">//# 0240p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ふと横を伺うと、助手席の少女は、昨日までと変わらぬ無表情のまま、
+　無言で窓の外を眺めている。
+
+　昨夜の出来事は、忘れようもないが……
+　あれは何もかも夢だったんじゃないかと、そう疑いたくなるくらい、
+　彼女の横顔は、平素の静かな落ち着きを取り戻していた。
+
+　そのせいか、何となく気が引けて、今朝からも会話はほとんどない。
+
+　実のところ、車や金策のことよりも、
+　頭を占めているのは、そのことだった。
+
+<CLEAR><BACKGROUND SRC="street^b">//# street^b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いまいち考えに集中できないまま、漫然と車を転がしていると、
+　繁華街にさしかかった所で、不意に隣から声があった。
+
+<BOX type="5">//%sR
+「次の交差点で、止めて」
+
+<BOX type="0">//%w
+「え？」
+
+<CLEAR><BACKGROUND SRC="0240p5">//# 0240p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「お金、要るんでしょ？
+　何人か掏ってくる」
+
+<BOX type="0">//%w
+「……君が、か？」
+
+<CLEAR><BACKGROUND SRC="0240p2">//# 0240p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あなたには、
+　まだ練習させてないし」
+
+「私がやるわ。
+　あなたは、車の調達を」
+
+<BOX type="0">//%w
+「……ああ」
+
+　申し合わせていたわけでもないのに、
+　やるべき事は彼女の方でも心得ていたらしい。
+
+　それに、やはり彼女は平素の思考力を失ってない。
+　……昨夜のことは、思い煩ってはいないらしい。
+
+　まさか、覚えていない、ということはないと思うのだが……
+
+<se id="1" src="トーラス停止" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="street^c">//# street^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　交差点の手前で車を寄せて、止める。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一時間後に、ここに戻るわ。
+　拾いに来て」
+
+<A HREF="0270a.txt" OPERATOR="0260=1">//~ 0270a
+<A HREF="0270d.txt" OPERATOR="">//~ 0270d

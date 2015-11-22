@@ -1,0 +1,19 @@
+<BOX type="0">//%w
+　しばらくパイソンの代わりに持ち歩いていたマテバだが、
+　これが意外に気に入っていた。
+
+　リボルバーらしからぬ形態のグリップや、
+　上にスイングアウトする弾倉など、勝手の違うところも多々あるが、
+　たしかにキックの感触は、普通のリボルバーより捌きやすい。
+
+　用途に応じて、手軽に銃身を交換できる便利さも魅力だった。
+　今夜は……スタンダードな102mmにしておこう。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="マテバ">//
+<CALC WORKNAME="銃画像" OPERATOR="マテバ">//
+<CALC WORKNAME="射撃画像" OPERATOR="マテバ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用MB">//
+<CALC WORKNAME="1407a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

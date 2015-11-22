@@ -1,0 +1,337 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left schooltop1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 120
+<BACKGROUND SRC="schooltop1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　最适合二人独处的地方，只有这里了。
+
+　午休时的楼顶上连一个人影都没有。
+　虽说阳光已经变得温暖，但四面吹来的风依旧在极力抵制着春意。
+　想在这里舒适地度过午休时光还为时过早。
+
+　从这里可以尽览周边的春景，
+  可是，我的内心并没有因此变得平和，反而愈加紧张起来。
+
+　这里，没有窗边的那份喧嚣，也没有人潮的掩护……
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么了？」
+
+<BOX type="0">//%w
+「……没什么」
+
+　美绪那开朗的笑脸，就像春天的阳光一样。
+  面对如此灿烂的微笑……
+
+　我突然想象起自己被突如其来的子弹击中、在脑浆四溅中倒地的样子。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　我做了一个深呼吸，将不祥的想象从头脑里驱逐了出去。
+
+　现在还没有必要担心在这个没什么人的地方被袭击……我只能用这样的理性判断来克服恐惧心理了。
+
+「……就在这附近好了」
+
+　我们开始寻找能够遮挡春风的地方。
+  最后，两个人在楼梯口的阴影那里坐了下来。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……说实话，我对便当的味道不是很有信心……」
+
+<BOX type="0">//%w
+「这是藤枝同学自己做的吗？」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+　自制便当么……
+
+　昨天才告白，今天就这样，她的行为实在是有些大胆。
+　这应该不是美绪的本意吧……没错，肯定是早苗在不负责任地指挥着。
+
+　……真是的，看来我们两人全都被她玩弄于股掌之中了。
+
+<CLEAR><BACKGROUND SRC="3190p1">//# 3190p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「你经常做便当吗？」
+
+　调味也好，装盒的方法也好，美绪制作便当的手法似乎相当的熟练。
+
+<BOX type="5">//%sR
+「妈妈外出工作的时候，都是由我来做饭的」
+
+「说是做饭，其实只是对之前剩下的食材进行处理」
+
+<BOX type="0">//%w
+　说到这里，美绪突然慌张起来。
+
+<BOX type="5">//%sR
+「啊……今天这个不是的哦」
+
+<BOX type="0">//%w
+「我知道，这份料理你做的很用心啊」
+
+「非常美味哦，谢谢啦」
+
+<CLEAR><BACKGROUND SRC="schooltop1">//# mio1^b 20 schooltop1 1
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20 schooltop1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美绪害羞地将头扭向一边。
+  她的表情看上去就像是在强忍着不让自己笑的太过火。
+
+　和那时候的凯尔完全不同……
+　脑中偶然浮现的回忆，让我的心情顿时沉重起来。
+
+　说起来，吃到亲手制作的料理……自从离开凯尔以来，这还是第一次。
+
+　伴随幸福而来的，是恐惧。
+　要是得到了与自己不相符的幸福，总有一天会遭受报应的吧……每当感受到幸福的时候，我都会因为这样的预感而害怕。
+
+　算了吧。
+　现在，忘记这一切吧。
+
+　既然装成了美绪的男朋友，
+  那么，和她在一起的时候，自己就应该将全部心思都放在她身上。
+
+//> left  schooltop1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schooltop1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我们随意地聊着。
+  时间在不知不觉间悄悄流逝了。
+
+「到上课还有时间吧」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我看看……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听到我无意间问的问题，美绪将手伸进了怀中。
+  话说回来，她是没有手表的。
+
+　我本以为她是在拿怀表……可是，见到美绪拿出的表，我不禁大吃一惊。
+
+　闪耀着黄金光芒的男款劳力士。
+　抛开高级感不提，如此花哨耀眼的手表怎么样都不应该是美绪的东西。
+
+「……好厉害的手表啊」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，这个吗」
+
+「很奇怪对吧？
+　我居然会用这样的手表」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这个手表对我的手臂来说太大了，所以我总是把它放在口袋里」
+
+<BOX type="0">//%w
+「可是，为什么你要用这样的手表呢？」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为这是叔父的遗物」
+
+<BOX type="0">//%w
+　叔父……
+
+　我立刻想起{ヒロイン}那极具冲击性的说明。
+
+　一直被美绪当成叔父的男人……梧桐大辅吗。
+
+「……你和那位叔父关系很好吗？」
+
+　我用故作平静的语气继续说道。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯……」
+
+「由于贸易工作的缘故，叔父常年都待在国外，我们很少能够见面。不过……」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「叔父对我真的很好」
+
+<BOX type="0">//%w
+「这样啊……」
+
+　看样子……美绪真的什么都不知道。
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在我还是婴儿的时候，爸爸就去世了」
+
+「后来，妈妈好像和爸爸的本家发生了争执，接着便回到了藤枝家」
+
+「所以我对爸爸的事一点都不知道，妈妈也不肯告诉我」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，叔父对我说了很多关于爸爸的事」
+
+「说话的习惯、爱好、喜欢吃的食物……」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，我们见面的事不能让妈妈知道」
+
+<BOX type="0">//%w
+「哦……」
+
+　我装出第一次听到的样子，对她说的话表现出极大的兴趣……
+　其实之前自己已经从{ヒロイン}那里全部听说了。
+　这样一来，这件事就百分之百是真的了……
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们家和爸爸的本家一直都没什么联系」
+
+「所以，我不能去扫墓」
+
+「我连爸爸和叔父长眠的地方在哪都不知道」
+
+<BOX type="0">//%w
+「那……这个手表是？」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是一个自称是叔父下属的人交给我的」
+
+<BOX type="0">//%w
+「……」
+　
+　志贺吗……
+
+<BOX type="5">//%sR
+「叔父好像是在出差的时候遇到了事故」
+
+「……到现在已经过去2年了」
+
+<BOX type="0">//%w
+　2年前……在洛杉矶港的夜雾中迎来自己壮烈结局的梧桐大辅。
+　撕裂黑暗的发射炎重现在我的脑海中。
+
+　那一夜，用AK47突击步枪的扫射消灭了梧桐大辅及其手下的，正是被美绪当成密友的{ヒロイン}……
+
+　绝对不能让美绪知道这一切。
+　对她来说，这样的事实实在是太残酷了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left  schooltop1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="schooltop1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「啊，找到了」
+
+<BOX type="0">//%w
+　突然出现的闯入者打断了我沉重的思考。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……哎呀，正在忙吗？」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^a 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="0">//%w
+　早苗为什么会在这里……
+　难道说，这家伙有偷窥的癖好吗？
+
+「教唆之后又打算搅局吗？你这家伙」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我也不想这样啊」
+
+「有远方来的客人来看你了，我有什么办法？」
+
+<BOX type="0">//%w
+　……什么？
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你的恩师盖瑟培先生来了哦。现在正在中庭等着呢」
+
+<BOX type="0">//%w
+「……」
+
+　昨天是凯尔，今天又会是谁呢……
+
+　不，没有考虑的必要。
+　会像外行人那样胡来的家伙，不用想也知道是谁。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}同学，快去吧」
+
+<BOX type="0">//%w
+　虽然这样说，可美绪还是没能藏住自己的沮丧。
+　好不容易做的便当，连一半都还没吃完。
+
+「抱歉……剩下的一会儿再吃吧」
+
+　我一边道歉，一边将便当盒还给美绪。
+  不过说实话，自己已经一点食欲都没有了。
+
+<A HREF="3235.txt" OPERATOR="">//~ 3235
+
+
+5

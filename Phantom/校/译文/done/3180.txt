@@ -1,0 +1,42 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left schoolwindow wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="schoolwindow">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+懒散而漫长的上课时间。
+我坐在窗边，眺望着漂浮着蓝天上的茫茫春霞和那一片惹眼的新绿，心中涌起一阵淡淡的喜悦。
+
+　……不过，如果情况突然有变，这个位置也是最危险的。
+
+从3楼的窗口可以将外面的丘陵尽收眼底。
+但反过来说，这也是一个令人绝望的位置，因为从丘陵斜面的任何一个地方都可以轻易对这里进行狙击。
+
+  不，如果从旁边的东校舍的楼顶发动袭击，甚至不需要用狙击枪。
+　
+  只要想象正有一个枪口瞄着自己……我就感觉自己像一只被蛇盯上的青蛙。
+
+　不知道{ヒロイン}还需要多长时间才能制定出逃亡路线。在此之前，我都得一直忍耐这种压力。
+
+//> left passage5b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage5b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+终于到了午休时间。
+逃进走廊之后，我才不禁松了口气。接下来的1个小时无论去哪里都没有关系。
+
+　即使是去食堂小卖部，也能让自己暂时安下心来吧。
+　Inferno的杀手不会混在学生里发动袭击，所以混在人群中反而是最安全的。
+  想到这里，我总算长长地松了口气。
+
+<A HREF="3182.txt" OPERATOR="3080a=1">//~ 3182
+<A HREF="3187.txt" OPERATOR="">//~ 3187

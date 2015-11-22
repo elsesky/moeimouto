@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+　ボディガードが役目なら、なにも自動拳銃のファイアパワーを
+　頼みにすることもないだろう。
+　持ち易さを重視して、4インチバレルのパイソンを選んだ。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

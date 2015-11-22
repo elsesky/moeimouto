@@ -1,0 +1,186 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是不好意思。都这么晚了还让您亲自跑一趟」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「光靠电话已经说不清楚了」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你的Phantom到最后还是背叛了吗？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎呀，真是没有面子啊」
+
+<BOX type="2">//%w
+　即使到了这样的紧要关头，赛斯依旧不改他那彬彬有礼却又带着些傲慢的态度。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那，现状如何？
+　莉兹小姐的报告呢？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这个嘛……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「频死的她刚刚被抬回来」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看样子她已经和Phantom接触过了」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「在哪里遇见的？
+　快告诉我详细的情况!?」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎呀，该怎么说呢……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么了!?」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「据说Phantom已经不管不顾地绑架了美绪大小姐……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……混蛋……!!」
+
+<BOX type="3">//%m
+　一股从未有过的怒火顿时涌上志贺的心头。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「顺便说一下，我们Inferno将担负起收拾事态的责任」
+
+「绝对不会劳烦梧桐组出手的」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「开什么玩笑……」
+
+「你们这些家伙……想玉石俱焚吗。盖瑟培！」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么会呢」
+
+「事关Inferno的面子。我将誓死保护藤枝美绪小姐的安全」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我可信不过你！」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我明白志贺先生的忧虑」
+
+「您是担心又会搞出在横滨时那样的大骚乱吧？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这次登场的不是Inferno的手下，而是我的私人卫队」
+
+「她们是通过完美的训练统一打造出的究极士兵。
+能够完美表现“士兵”这一名词的示范者」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然有些失礼……不过，并不熟悉这种危机的梧桐组的各位实在是很难与Phantom对抗」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+对于赛斯的提议，就连志贺也不得不承认其正确性。
+可即便如此，志贺依旧不愿过分依赖Inferno。
+
+和这家伙联手的话，的确会有很大收益。
+可是，自己这边又要为此付出怎样的代价呢？
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我接受你的提议，但你们无论做什么都要向我们一一报告」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我决不允许你们在这个国家肆意妄为」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我明白了」
+
+<A HREF="3500.txt" OPERATOR="">//~ 3500

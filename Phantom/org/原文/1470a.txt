@@ -1,0 +1,208 @@
+<clear>
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　リズィ……
+　色々と世話になったな。あんたには。
+
+　心の内で、そう別れを呟いてから、
+　言葉の代わりに、{銃}をリズィに向けた。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　背後から襲った銃弾の衝撃に、
+　リズィは驚きと怒りを込めてこちらを睨み……
+　そしてクロウディアまでもが、狼狽もあらわに振り向いた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^5 20
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}、そんな……」
+
+<BOX type="0">//%w
+<se id="1" src="床に転がる" mode="normal" time="" loop="off" effect="">//!se down
+　リズィの長身が、音を立てて床に頽れ、クロウディアの声を遮る。
+
+<BOX type="5">//%sR
+「なにも撃たなくたって、
+　リズィには……」
+
+<BOX type="0">//%w
+「ああ、多分、な」
+
+　たぶん、リズィは撃たなかった。
+　撃てやしなかっただろう。彼女には。
+
+　だが、あくまで“たぶん”だ。
+　絶対に撃ちようがなかったわけじゃない。
+
+　肝心なのは、そこだ。
+
+　浅い呼吸で呻くリズィの手元から、ハードボーラーを拾い上げ、
+　予備の弾倉もろとも回収する。
+
+「急所じゃない。運が良ければ、助かるだろう」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　まるで見ず知らずの他人を眺めるような、クロウディアの視線。
+
+　自分でも、意外だった。
+　さっきまでの混乱が、嘘のように消え失せて、いま心は限りなく軽い。
+
+「俺と、あんたと、ただそれだけだ。クロウディア」
+
+「邪魔にならなければ良し。
+　さもなければ、叩き潰す。それが何であろうと」
+
+　迷いはない。
+　迷いようがない。
+　限りなくシンプルな世界。
+
+<BOX type="5">//%sR
+「あなただって……」
+
+「あなただって、
+　騙されてたのよ。私に……」
+
+<BOX type="0">//%w
+「礼を言わないとな」
+
+「なんであの夜、いきなり護衛に引き抜かれたのか、
+　やっと理由がわかった」
+
+<BOX type="0">//%w
+　サイスとアインを標的に張り巡らした罠から、
+　一人だけ救い出すための……あれは救済措置だったんだ。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「なぁクロウディア……
+　ここは未だに、世界の真っ直中だけど、」
+
+「でも俺たち、二人きりだぜ」
+
+　金のため、権力のため、
+　騙し、裏切り、殺し合う……
+　彼女が抜け出そうと、今日この日まで足掻いてきた、
+　ここは、そんな世界の真っ直中だ。
+
+　それでも、ここは、いつか誓った約束の場所に、限りなく近い。
+
+　二人だけ、ただ二人だけ。
+　残りのものは、すべて……敵。
+　排除すべき障害物。
+
+「インフェルノを潰そう。クロウディア」
+
+「俺たちには、あいつらが邪魔だ」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+　微笑もうとしたクロウディアの顔が、どことなく固かったのは、
+　部下であり恋人でもある男の、
+　初めて見る側面を目の当たりにしたからだろう。
+
+<BOX type="5">//%sR
+「あなたは、
+　いつから、そんなに……」
+
+<BOX type="0">//%w
+「誰のせいだと思ってるんだ？」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたしの、せい？」
+
+<BOX type="0">//%w
+「そうさ」
+
+　あんたが変えたんだよ。クロウディア。
+
+　戦って高みを目指す。
+　誰よりも速く駆け抜ける。
+　そんな生き方を、あんたが教えてくれたんだ。
+
+「行こうぜ。車は？」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「下よ」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1120n2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40クルージング" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="1120n2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「まずは、名簿を回収しないと」
+
+<BOX type="0">//%w
+　ホテルの地下の駐車場でF40に乗り込んでから、
+　クロウディアが切り出した。
+
+「どこにあるんだ？」
+
+<CLEAR><BACKGROUND SRC="1120n1">//# 1120n1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「私の家よ。
+　ベッドルームの鏡台の裏に、
+　ディスクが」
+
+<BOX type="0">//%w
+　今から取りに行くのは、かなりの危険が伴う。
+　だが問題は、それだけじゃない。
+
+「東海岸の連中には、どうやって渡りをつける？」
+
+<CLEAR><BACKGROUND SRC="0140n6">//# 0140n6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「それは任せて。
+　ツテの目途は立ててあるから」
+
+<BOX type="0">//%w
+　まったく用意周到だ。
+
+「決まりだな……」
+
+「ディスクは俺が回収してくる。その間に、あんたは連中へ連絡を」
+
+<BOX type="4">//%sL
+「わかったわ」
+
+「……初めてこの車を見せた
+　ドライブイン、覚えてる？」
+
+<BOX type="0">//%w
+「ああ」
+
+<BOX type="4">//%sL
+「２時間後に、
+　あそこで落ち合いましょう」
+
+<se id="1" src="" mode="fadeout" time="30">
+
+<CALC WORKNAME="1470a" OPERATOR="1">//
+<A HREF="1490.txt" OPERATOR="">//~ 1490

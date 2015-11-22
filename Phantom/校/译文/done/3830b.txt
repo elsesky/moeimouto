@@ -1,0 +1,16 @@
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「凯尔!!」
+
+　我从思考中回过神来，瞬间做出了判断……伴随着一声大喝，我朝凯尔举起了枪。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　虽然我希望用这一击使小刀偏离轨迹，但由于出手仓促，究竟有没有击中自己一时难以判断。
+
+<A HREF="3830c.txt" OPERATOR="">//~ 3830c

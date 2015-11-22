@@ -1,0 +1,85 @@
+<BOX type="0">//%w
+　坐在助手席上的克劳迪娅一个人沉默着，看上去正陷入深思。
+　之前的会议上，发生了什么吗。
+
+//> left houseC wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="houseC">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　到达克劳蒂娅的住宅的时候，已经过了午夜时分。
+
+　像往常一样，我检查了警报器，没有发现任何异常情况。
+
+　确保安全了。
+　这样一来今天的工作就完成了。
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不进来待一会儿吗？」
+
+<BOX type="0">//%w
+「不了……」
+
+　这几天我马不停蹄地往返于东西海岸，早已积累了一身的疲惫。
+　今夜我只想赶快回去。
+
+　亲切邀请我的克劳迪娅，应该也已经疲惫不堪了。
+
+「那么，今夜就这样吧」
+
+<BOX type="5">//%sR
+「辛苦了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我将F40开进宽阔的车库，换上旁边的高尔夫。
+  向着诺曼底大街踏上了归途。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　我已经好久没有回到这里了。
+
+　这是我的家……自己没有这样的感慨。
+　没有在克劳迪娅的豪宅中那样的紧张感，比街上的宾馆更加安全……仅仅是这样的空间而已。
+  
+
+　Ein离开以后，这个空间格外地让人感到空虚。
+  我已经好久都没有开过灯了。
+
+<se id="1" src="coolbox" mode="normal" time="" loop="off" effect="">//!se coolbox
+　还能使用的家用电器，只剩下电冰箱而已。
+
+　我取出一罐预先买好的啤酒，在窗前拉开拉环。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BOX type="0">//%w
+究竟已经有多少次了呢？
+像这样一个人眺望着夜色渐渐褪去的街道的景色。
+
+　一年与半年……
+
+　自从来到这个国家，一直以来流逝着的只有时间而已。
+
+　虽然我曾经有过记忆被封存、迷失自我的时期，
+  但扣除这段时间，我依旧感觉自己已经经历了漫长的岁月。
+
+　现在想起来，在日本度过的平和的生活，
+  简直就像是前世的记忆一样。
+
+<A HREF="1024b.txt" OPERATOR="0280=1">//~ 1024b
+<A HREF="1024a.txt" OPERATOR="">//~ 1024a

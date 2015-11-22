@@ -1,0 +1,50 @@
+<BOX type="5">//%sR
+「……{姓}同学」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听到呼声，我回过头，看见刚才就已经离开的美绪正站在那里。
+
+　虽然穿着便服……但现在的美绪与在学校的时候一样，
+  没有活力，表情也很阴翳。
+
+　刚才的那种活泼的气氛，已经如谎言一般消失的无影无踪。
+  这也难怪，毕竟让她看到了那样的场面。
+
+「我以为……你已经回去了」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我一直在对面的店里等着」
+
+「那个……脸，不要紧吗？」
+
+<BOX type="0">//%w
+「啊？」
+
+　听美绪这么一说，我连忙用手摸了摸脸。
+　被凯尔击打的颊骨上，如今还残留着些许痛感。
+
+　应该被打出淤青了吧。
+　毕竟那是毫不留情的一击。
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美绪什么都没有问……
+　看来，为了打破这难忍的沉默，我必须好好和她解释一下。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　可是，要怎么做呢？
+
+　在绝不能让她知道核心部分的前提下，自己能够将凯尔的事解释清楚吗？
+
+<CHOICE HREF="3345.txt" TEXT="＊和她谈谈" OPERATOR=""></A>//{ ＊話す 3345 ＊話さない 3350
+<CHOICE HREF="3350.txt" TEXT="＊什么都不说" OPERATOR=""></A>//{ ＊話す 3345 ＊話さない 3350

@@ -1,0 +1,37 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se doorOpen
+<BACKGROUND SRC="room1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　{ヒロイン}……
+
+　在这样一片黑暗与寂静之中，关于{ヒロイン}的记忆又重现在了眼前。
+
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1 dummy 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　她的泪水，
+  她的哽咽，
+  还有她那无比寂寞的微笑……
+
+她还活着……
+我始终这样欺骗着自己。
+在这样度过的1年时间里，我几乎一直生活在自己的谎言中。
+
+　一个人待在这间屋子里的话，肯定会无法抑制地想起她来。
+
+　我总是下意识地避免到这里来，或许就是这个原因吧。
+
+　……算了吧。
+　留在这里已经没有任何意义了。
+
+　我停止了感伤，返回到凯尔那里。
+
+<A HREF="1160d.txt" OPERATOR="">//~ 1160d0d

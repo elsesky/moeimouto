@@ -1,0 +1,701 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 3140x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="3140x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　横浜、中華街……
+
+　とある高級料理店で、
+　豪勢な宴が開かれていた。
+
+　招きを受けたのは、かつて新宿歌舞伎町で麻薬流通を掌握し、一大勢力を誇った北京系チャイニーズマフィアの首領、周。
+
+それをもてなすのは、この店の店主……同じく北京系マフィアで、この横浜に拠点を構える徐である。
+
+　席には女が侍るわけでもなく、
+　代わりに屈強な男たちが、
+　店の内外を固めている。
+　厳かで物々しい空気からしても、
+　断じてただの酒宴ではない。
+
+　この祝宴の席で、周と徐は義兄弟の契りを交わそうというのである。
+　関東を縦に貫く北京系コネクションの誕生だった。
+
+　発端は、歌舞伎町における
+　日系ヤクザの巻き返しだ。
+
+　突如として、広域暴力団、梧桐組が、どこからともなく大量のコカインを持ち込んだのである。
+
+　安価なうえに高品質な商品を歌舞伎町にばらまいた梧桐組は、瞬く間に新宿の覇権を奪回し、周たちは壊滅的な打撃を被った。
+
+　独立独歩を旨とする周だったが、背に腹は代えられない。
+
+　同郷の徐に泣きついて、弟分に収まれば、徐は大陸を拠点とする独自の密輸ルートを持っている。
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大船に乗った気でいていいぞ。
+　周」
+
+「俺のところの仕入れ値は、お前の
+　ルートの半値以下だ。充分、
+　ヤクザ共にも太刀打ちできる」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「恩に着る。徐大兄……」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しかし気になるな。
+　歌舞伎町のヤクザども、何で
+　そこまで急に勢いがついた？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それなんだが……」
+
+<BOX type="3">//%m
+　さも言いにくそうに、
+　言葉を濁す周。
+
+<BOX type="4">//%sL
+「どうやら連中のバックには、
+　アメリカのマフィアが
+　ついているらしいんだ」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「アメリカ？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ああ……」
+
+「大兄、インフェルノっていう
+　名前は聞いたことあるか？」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「アメリカ中のマフィアを
+　シメてるって噂の、あれか？」
+
+<BOX type="2">//%w
+　さも呆れたと言わんばかりに、
+　徐は鼻を鳴らして嗤う。
+
+<BOX type="5">//%sR
+「おいおい、まさかそんなヨタ話を信じちまったんじゃなかろうな？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ヨタじゃ……ねぇ」
+
+「NYに渡った張の叔父貴も、聞けば
+　奴らに殺られたってぇ話なんだ」
+
+「ファントムとかいう殺し屋で……
+　あっちじゃ相当、
+　知れた名前らしい」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「周よ、お前なぁ……」
+
+「あそこはなぁ、漫画とテレビと
+　ハリウッドのお国柄なんだよ」
+
+「そんな連中の話をなぁ、
+　真に受けてどうするよ？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「でもな、大兄……」
+
+「梧桐組の連中に楯突くと、俺らもヤベェって噂なんだよ……」
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「バカバカしい」
+
+「第一お前、ここは日本だろうが。
+恐いお化けのファントム様が、
+海を渡ってやってくるってのか？」
+
+<BUSTUP NAME="shuu" face="" MODE="on" zoom="" ALIGN="left">//# shuu 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# shuu 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+//> right 3140x2 wide 255 rizy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="3140x2">//
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　そんな店内のやり取りは、無論、
+　秘かに店を包囲したリズィたちの
+　知るところではなかった。
+
+彼女たちが志賀から受けた依頼は、
+ただひとつ。
+今夜この店に集っている二人の
+チャイニーズマフィアを、
+この世から消し去るというだけだ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『全員、配置につきました』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　通行人に紛れて正面玄関を見張る部下……グレゴーが、通信機ごしに報告をよこす。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オーケィ。
+　あとは待つだけだ……」
+
+<BOX type="2">//%w
+　店の非常階段を臨む裏口で、
+　リズィは不敵な笑みを浮かべた。
+
+<BOX type="5">//%sR
+「5分後に突入する。いいか、
+　くれぐれも素早く済ませろよ」
+
+<BOX type="2">//%w
+　ただでさえバクチク騒ぎには異常に過敏な治安大国・日本である。
+　派手に銃声を鳴り響かせるような真似はしたくない。
+
+徐と周……ボス二人の首さえ
+掻き切れば事は足りる。
+機先を制すれば撃たれる心配はなく
+撃たれなければ撃つ必要もない。
+
+　所詮は日本に根を張っているような手合いである。こういう出入りに馴れてはいまい。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　だがそこへ、通信機に別の声が割り込んできた。
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『リズィ、まずいよ。これ』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　緊迫した場にまるでそぐわない、年端も行かぬ少女の声。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　誰何するまでもない。
+　リズィは苛立ちも露に
+　舌打ちする。
+
+<BOX type="5">//%sR
+「今さら、何だってんだ？
+　ファントム」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『厨房裏の勝手口、
+　誰も張ってないじゃん。
+　逃げられるよ』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな暇、ねぇさ。
+　片は一瞬でつく」
+
+「余計な心配はいいから、
+　オマエは援護に専念しろ」
+
+<BOX type="2">//%w
+インカムにむかって言いながら、
+リズィは料理店と斜向かいの
+雑居ビルの屋上を睨む。
+
+指示通りなら、
+ファントムはあそこに
+陣取っているはずだが……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『この位置さぁ、最悪なんだよね。
+　全然見通し利かないし』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“関係ないだろ。今夜は
+　オマエの出番はないんだから”
+
+<BOX type="2">//%w
+　胸の内でリズィは
+　そう吐き捨てた。
+
+<BOX type="5">//%sR
+“本当なら、連れてくるのも
+　嫌だったんだよ……”
+
+<BOX type="2">//%w
+　怒鳴りつけたい衝動を抑え、
+　リズィは努めて冷静に、
+　通信相手を揶揄する。
+
+<BOX type="5">//%sR
+「いいからファントム。
+　今夜のオマエは援護が役目だ。
+　いいか、命令だぞ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『あっそ』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　小馬鹿にしたような返答に、
+　悪寒が走るリズィ。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「おい……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="23_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="2">//%w
+　だが通信は、
+　耳を聾する轟音で中断された。
+
+　雑居ビルの屋上から閃く炎の舌。
+　突撃ライフルの掃射である。
+<se id="2" src="人々の悲鳴" mode="normal" loop="off">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　道行く通行人の悲鳴を皮切りに、
+　街路は阿鼻叫喚に包まれる
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、あの馬鹿……」
+
+
+<BOX type="2">//%w
+　毒づきかかったリズィの耳に、
+　正面玄関から突入する筈だった
+　班長からの通信が入る。
+<se id="2" src="" mode="fadeout" time="30">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『こちらグレゴー!　正面玄関の
+　ボディガードが撃たれてます!!
+　一体誰が……リズィ、指示を』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BOX type="3">//%m
+　リズィが何か言うより早く、
+　再び通信に割り込む少女の声。
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『グレゴー、中の連中、すぐに
+　雁首揃えてそっちに出てくるよ。
+　頑張って引き付けてね』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ファントム!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『あぁリズィ、店の中は大騒ぎだから、奇襲するなら今だよ。勝手口は任せな。あたしが回り込むから』
+
+『じゃ、よろしく』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「くそったれ!!」
+
+<BOX type="2">//%w
+　罵倒しても返事はない。通信機のスイッチを切られたらしい。
+
+　計画は台無しだが、うろたえている場合ではない。グレゴーの班に、陽動を引き受けられるほどの火力はない。
+
+すぐにも背後から敵を襲わないと
+正面の仲間は全滅だ。
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「突っ込むぞ!」
+
+<BOX type="2">//%w
+　配下の部下たちを一喝し、リズィは先陣切って非常口へと突進した。
+
+//> right dummy wide 255
+<se id="1" src="波止場銃撃" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+
+<se id="2" src="09_01" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="5000">
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 3140x3 wide 255
+<clear>
+<se id="2" src="" mode="fadeout" time="50">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="" mode="fadeout" time="35">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="3140x3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　混乱の最中から、辛くも厨房へと逃げ込めた徐は、息を切らして勝手口から裏路地へと転がり出た。
+
+　手には、部下の死体から奪った
+　MAC11サブマシンガン。
+　弾もまだ、10発余り残っている。
+
+　何が起こったのかは、
+　見当もつかない。
+
+　敵の心当たりなら、
+　十指に余るほどもある。
+　だが、こんな無茶をやらかす
+　手合いはいない。
+
+　いるはずがない。この日本には。
+
+　はたと、周の言葉を思い出す。
+　梧桐のバックにいるという、
+　アメリカのマフィアたち……
+
+　どのみち、あの話は御破算だ。
+　肝心の周は、目の前で
+　蜂の巣になって息絶えた。
+
+　こちらも、早く逃げなければ……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　一歩踏み出した途端、
+　背後に殺気を感じる徐。
+
+　一瞬の躊躇もなく、振り向きざまにサブマシンガンを乱射する。
+<se id="1" src="06_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　狭い裏路地に、跳弾の火花が乱れ咲き……そして、弾切れとともに死の沈黙が訪れた。
+
+<BUSTUP NAME="jo" face="" MODE="on" zoom="" ALIGN="right">//# jo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　やった……か？
+
+　硝煙立ちこめる闇の奥を
+　見透かそうとした途端……
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3140x3">//#! 3140x3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　轟音とともに、
+　右肩を灼熱の痛みが貫いた。
+
+<se id="2" src="オートマグ落とす" mode="normal" loop="off">
+　衝撃で壁に叩きつけられ、
+　MAC11が手から落ちて地に転がる。
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「グゥゥ……」
+
+<BOX type="2">//%w
+　激痛に霞む視野の中に、
+　徐は見た……
+　闇の中から歩み出た、
+　凶々しい笑顔の死神を。
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いい動きするじゃん。
+　もとは凶手か何かだった？」
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「手前ェは……」
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ファントム」
+
+<BOX type="3">//%m
+　歌うように、
+　笑顔の死神は名を名乗る。
+
+<BOX type="4">//%sL
+「インフェルノのファントム。
+ 　聞いたことないかな？
+　日本じゃぁ」
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+ありったけの憎悪と殺意を込めて、
+少女を睨み据えながら、
+徐はまだ無事な左手で、
+腰の後ろに挿した拳銃を探る。
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「なにその手？
+　まだもう一挺持ってるの？」
+
+<BOX type="3">//%m
+　そう問う少女の声は、
+　何のつもりか、
+　嬉々とした響きがあった。
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いい根性してるねぇオッサン。
+　ここまで来て、
+　まだ捨てないんだ？　勝負」
+
+「……気に入ったよ」
+
+<se id="1" src="銃まわす" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　そして少女は、やおら銃の構えを解くと、くるりと手の中で回転させて撃鉄を下ろし、尻のホルスターに収めてしまった。
+
+<BOX type="4">//%sL
+「付き合おうじゃん。その勝負」
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……舐めやがって」
+
+<BOX type="2">//%w
+　傲岸不遜な余裕を見せる小娘に、
+　徐は憎々しく毒づいたものの、
+　しかし銃を抜くタイミングが
+　見出せない。
+
+　幾多の修羅場をくぐり抜けて培ってきた徐の直感が、少女の外見に惑わされることなく、その本性を見抜いていた。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　こいつは……
+　本物の死神だ。
+
+　真っ向勝負して
+　勝てる相手じゃない。
+　だが、
+　このまま抜かなくたって……
+
+<BOX type="4">//%sL
+「きっかけが、欲しいかい？」
+
+<BOX type="3">//%m
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　余裕の微笑みを絶やすことなく、ファントムが優しく問う。
+
+その手がそっと懐に差し入れられ、
+そして、
+まるきり場違いな品を取り出した。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　掌の上の、鈍い真鍮の輝き。
+　徐は己の目を疑った。
+
+　あれは……懐中時計か？
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+ファントムは指先で、
+器用に文字盤の蓋を弾いて開ける。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+　コルダイト火薬と血の匂いの立ちこめる裏路地に、優しく儚げなオルゴールの音色が湧いた。
+
+<CLEAR><BACKGROUND SRC="3140x3">//# drei^2 19 dummy 20 3140x3 1
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20 3140x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「曲が終わったら、撃ちな」
+
+<BOX type="3">//%m
+　冷たい殺意と、嗜虐の陶酔が、
+ない交ぜになった少女の声。
+　ようやく徐は、その笑顔に秘められた限りない邪悪さに気付いた。
+
+　こいつは……
+　楽しんでやがる。殺しを。
+
+　相手の死に様を弄ぶことを、
+　心底、喜んでやがる……
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「舐めやがって……」
+
+<BOX type="2">//%w
+　屈辱、恐怖、怒り、憎悪……
+　焼けるような激情が、順繰りに
+　徐の脳裏を過ぎていく。
+
+　子守歌のような優しさで、
+　鎮魂歌のような哀しさで、
+　闇に流れるオルゴールの調べ。
+
+　嬲られている。
+　からかわれている。
+　猫にいたぶられる鼠のように。
+
+　だが、
+　いくら殺意を奮い立たせようと、
+　心に染みわたった冷たい恐怖が、
+　それを許さない。
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　やがてオルゴールの曲調は、
+　徐々に緩慢になってきた。
+
+　殺される。間違いなく殺される。
+　こいつには、勝ち目はない……
+
+　そして……
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　力尽きたランナーが倒れるように
+　にわかにオルゴールは
+　演奏を止めた。
+
+<BUSTUP NAME="jo2" face="" MODE="on" zoom="" ALIGN="right">//# jo2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# jo2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ぅおぉぁっッ!!」
+
+<BOX type="2">//%w
+　左手で銃を引き抜きざまに、静寂を破った徐の怒号は……あるいは、恐怖の悲鳴だったかもしれない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　いずれにせよ、その叫びを半ばで呑み込んだのは、
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ただ一発の銃声だった。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「アディオス、チャイニーズ……」
+
+「次に生まれて来るときは、
+　ちったぁ仕事を選ぶんだね」
+
+<calc workname="gun13" operator="1" mode="global">
+<calc workname="gun11" operator="1" mode="global">
+<calc workname="gun14b" operator="1" mode="global">
+<A HREF="3150.txt" OPERATOR="">//~ 3150
+ね」
+
+<A HREF="3150.txt" OPERATOR="">//~ 3150

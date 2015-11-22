@@ -1,0 +1,317 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right Contena4 wide 255 sice4 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="僒僀僗憱傝" mode="normal" time="" loop="off" effect="">//
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="Contena4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%m
+　在集装箱的空隙组成的迷宫中慌乱地逃着，赛斯已经冷汗横流。
+
+　这样的压迫感。
+  这样的恐惧感。
+  完全超出了自己的预料。
+
+　身后，誓要致自己于死地的杀气凝聚起来，像影子一样紧紧追赶着。
+
+　明明被剥夺了自我意识……
+　可是，紧追过来的Zwei身上的那种气势到底是什么？
+
+　虽然难以置信，但现在的Zwei的确是被杀意所驱动着的。
+
+　这不是被杀人机器般的冷静所引出的才能。
+  
+  而是只有面对饥肠辘辘的野兽才会被激发出的……猎手的本性。
+
+他真的是那个Zwei吗？
+他天生的潜质，就是这样的东西吗？
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%m
+　穿过集装箱集配所，
+  赛斯朝船只停泊着的岸边跑去。
+
+　距离停有接应船只的栈桥，
+  还有大概50米。
+
+　这是死亡的短跑。
+  可是他别无选择。
+
+<se id="1" src="僒僀僗憱傝" mode="normal" time="" loop="off" effect="">//
+  没有任何的祈祷，
+  赛斯开始了最后的全力冲刺。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<se id="1" src="" mode="fadeout" time="20">
+<wait time="200">
+<box type="3">
+　在哪里？
+
+　主人呢？
+　{名}呢？
+
+//> right 0320p1 wide 255
+<clear>
+<BACKGROUND SRC="0320p1">//
+<WIPE EFFECT="fade" TIME="20">
+<box type="3">//%w
+　虽然摆脱了莉兹的纠缠，可是{ヒロイン}却找不到那两个人的踪迹。
+
+　视线变得模糊。
+  步伐开始不稳。
+
+　双腿渐渐失去力量。
+
+　即便如此，
+　{ヒロイン}依旧跑着。
+
+　主人会被杀死吧。
+　{名}的手将会沾染鲜血吧。
+
+　只有这种事，绝不能发生……
+　
+　向着未知的神明，
+　{ヒロイン}拼命地请求着。
+
+　求求你。
+　不要就这样结束……
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<box type="3">//%w
+　不经意间睁开眼。
+　才发现自己已经来到船只停泊的地方了。
+
+　逃着的主人。
+  还有，追在后面的{名}。
+
+<CLEAR><BACKGROUND SRC="0310p1">//# 0310p1 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="3">//%w
+　脚。瞄准他的脚。
+　即使没有打中，
+  也可以吸引他的注意。
+
+　过分焦躁的{ヒロイン}……
+　没有注意到自己视线外的东西。
+
+<se id="1" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay4">//#! bay4 1
+<WIPE EFFECT="fade" TIME="0">
+<box type="3">//%w
+　再也无法忍受后坐力的冲击。
+　{ヒロイン}的身体失去了平衡，倒在水泥地面上。
+
+　腹部被遗忘的伤口，像是要喷出火焰一样，剧烈地疼痛着。
+
+　子弹朝着预想之外的方向飞了出去。
+　{名}对此根本没有在意。
+
+支起半边身体，
+{ヒロイン}还在用AUTO-MAG绝望地射击着。
+
+突然，枪机卡在了中间的位置上。
+
+为了预防排弹不良，她此前一直强行制止着枪栓的复位……
+
+　可是，她在慌乱地射击的时候，无意间扣上了枪的保险，导致了这样的结果。
+
+这样的状况来的太过突然，更加剧了她的慌乱……
+
+　这时，{名}手中的格洛克，牢牢地锁定了赛斯的后背。
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="3">//%w
+　不行……
+　只有这个……不行！
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="僆乕僩儅僌棊偲偡" mode="normal" loop="off">
+
+<box type="3">//%w
+扔掉故障的AUTO-MAG，她用最后的力量从地面一跃而起……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 僌儘僢僌 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="僌儘僢僌慱偄掕傔傞">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　机会，只有一次。
+
+　如果没有你这家伙的话……
+　这份憎恨已经化为了力量，在我的全身奔涌着。
+
+  这是，人生被毁坏，之后又被当作玩具的……两人份的愤怒。
+
+　握住枪把的手，充满了对{ヒロイン}的思念。
+
+　没有恐惧，也没有犹豫。
+
+　下一次射击的时候……我会以自己的意志扣动扳机……
+　
+　就像我对{ヒロイン}发下的誓言一样。
+  现在我全身的血液都沸腾了，一心只想将猎物杀死。
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　赛斯·玛斯塔，我要杀了你。
+
+　纵使自己会因此坠入地狱，我也要亲手杀了你。
+
+<CLEAR><BACKGROUND SRC="0340x1">//# 0340x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不知是打算反击，还是清楚自己大限将至……
+　赛斯停下了脚步，回过头来。
+
+　那张脸，因恐惧而变得扭曲。
+
+　格洛克黑洞洞的枪口，已经对准了他的心脏。
+
+　这样的距离，这样的时机，
+  我是绝不会失手的。
+
+　听到了吗，赛斯，
+　死神在呼唤着你的名字哦。
+
+「赛————斯!!!!」
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<se id="1" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0340p2">//#! 0340p2 1
+<WIPE EFFECT="fade" TIME="0">
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　终有一天，我会让你尽情欢笑……
+　
+  我们这样约定好的吧，
+  {ヒロイン}……
+
+　你要遵守约定啊。
+　所以，睁开眼睛吧……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0340p3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="0340p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「哈哈哈哈哈!!」
+
+<BOX type="0">//%w
+　在我一片空白的意志里，响起了赛斯的哄笑声。
+　仿佛要将{ヒロイン}的身体作为盾牌一般，赛斯从背后抱起了她，
+　扭曲着身体狞笑着。
+
+<BOX type="4">//%sL
+「怎么了，Zwei。
+  表情怎么这么失魂落魄？」
+
+<BOX type="0">//%w
+　无力的膝盖和已经与玩具无异的枪同时落到了地上。
+
+　什么都无法思考。
+
+　我只是一动不动地凝视着被血染红的{ヒロイン}的脸。
+
+<BOX type="4">//%sL
+「那样气势汹汹的追过来，只开一枪就结束了吗？」
+
+<BOX type="0">//%w
+  就像仰起脖子的蛇，赛斯手中鲁格的枪口对准了我。
+
+<BOX type="4">//%sL
+「太遗憾了，Zwei，
+  我本来还对你有那么大的期望」
+
+<BOX type="0">//%w
+　厚实锃亮的鲁格的枪口……沿着我的身体慢慢地抬起，
+  感觉正好瞄准了我的眉心。
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　而我那已经失去意识的身体，不知道为什么竟然还会动。
+
+　就像是之前上好的发条在继续运作一样。
+
+　跪着的双腿突然肌肉紧绷，将身体推了出去。
+  借着这股力量，我横着跃了出去。
+
+　向着大海……向着水泥岸边的尽头。
+
+<se id="1" src="儖僈乕2楢幩" mode="normal" time="" loop="off" effect="">//!se 
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　察觉到我的意图，赛斯马上用鲁格射出一串子弹。
+
+　双眼已经看不到枪口的火光，
+　只有子弹飞过的嗖嗖声掠过耳边。
+
+　跳跃的势头结束的瞬间，我的身体像皮球一样在地上弹起，
+  再度飞至半空。
+
+　这一次的跳跃，不是向旁边，而是向下。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　落进漆黑冰冷的水面时，那一瞬间失重的感觉。
+
+　直到现在，
+  自己仍然记得清清楚楚，一闭上眼睛就会想起。
+
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0110p1">//#! 0110p1 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0240p2">//#! 0240p2 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0230p2">//#! 0230p2 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="#000000">//#! dummy 1
+<WIPE EFFECT="fade" TIME="10">
+
+　……为什么？
+　……为什么要这样做，{ヒロイン}……
+
+<se id="1" src="intoSea" mode="normal" time="" loop="off" effect="">//!se intoSea
+<A HREF="0350.txt" OPERATOR="">//~ 0350

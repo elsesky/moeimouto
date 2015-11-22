@@ -1,0 +1,53 @@
+<BOX type="5">//%sR
+「……{姓}さん」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　呼びかけに振り向くと、そこには、さっき席を外した美緒がいた。
+
+　私服の美緒は見違えるようだと思っていたが……
+　今は学園にいるときと同じ、
+　何かに気兼ねしているような、翳りのある表情に戻っている。
+
+　さっきまでの、溌剌とした雰囲気は嘘のように消えていた。
+　あんな場面を見せてしまった後では、無理もないが。
+
+「帰ったのかと……思ってた」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「待ってたんです。
+　向かいのお店で」
+
+「あの……顔、大丈夫ですか？」
+
+<BOX type="0">//%w
+「あ？」
+
+　美緒の指摘で、慌てて顔に手をやると、
+　キャルに殴られた頬骨の上に、鈍く尾を引く痛みがあった。
+
+　青痣ぐらいには、なっているんだろう。
+　なにせ容赦のない一撃だった。
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美緒は何も訊かないが……
+　この重苦しい沈黙を埋めるには、筋の通った説明をするしかない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だが、どうやって？
+
+　決して知らせるわけにはいかない核心の部分を伏せたまま、
+　キャルのことを説明することができるのか？
+
+<CHOICE HREF="3345.txt" TEXT="＊話す" OPERATOR=""></A>//{ ＊話す 3345 ＊話さない 3350
+<CHOICE HREF="3350.txt" TEXT="＊話さない" OPERATOR=""></A>//{ ＊話す 3345 ＊話さない 3350

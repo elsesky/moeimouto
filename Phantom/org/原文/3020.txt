@@ -1,0 +1,208 @@
+//> left church2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="church2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　目の前に、鉄筋コンクリートの校舎とは明らかに異質な、
+　古色蒼然とした煉瓦建築が現れた。
+
+　旧礼拝堂……
+　この篠倉学園が、かつて聖篠倉女学院だったころの名残だ。
+
+　ミッション系全寮制女学校から、共学進学校への転身は、
+　昭和の末に行われたと聞いている。
+
+　周囲を森に囲まれ、
+　入り組んだ校舎棟を抜けなければ入れないこの敷地には、
+　重機械の搬入が難しく、未だに取り壊しの目途が立たずにいるらしい。
+
+　もちろん老朽化の激しい危険な建物なので、
+　生徒の立ち入りは禁止されているし、
+　それでなくても薄気味悪がって、誰も立ち寄らない。
+
+<se id="1" src="礼拝堂開ける" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="INchurch1">//# INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だが、しばしば{ヒロイン}は、
+　人目を忍んでここを訪れ、時を過ごすことがあるようだ。
+
+　歴としたミッションスクール制度を廃したとはいえ、
+　篠倉学園は依然、キリスト教に基づく教育理念を掲げており、
+　それは校歌や校則の条文にも、顕著に現れている。
+
+　そんな篠倉学園に転入し、
+　期せずして宗教というものを知ることになった{ヒロイン}だが、
+　その出会いは、彼女にとって大きな意味があったらしい。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　旧態の名残で、この学園には、
+　任意参加の神学ゼミや賛美歌サークルといったものが設けられているが、
+　{ヒロイン}はそれらに熱心に参加している。
+
+　以前の{ヒロイン}からは想像もつかなかった熱意だが、
+　それが熱狂的な盲信かといえば、ほど遠い。
+　信仰の対象というよりも、どちらかというと、
+　宗教の哲学的な側面に惹きつけられている様子だ。
+
+　信心を共にする交わりというのにも、興味はなさそうだ。
+　どちらかというと、この寂れた礼拝堂で、一人静寂に浸ることの方が、
+　{ヒロイン}にとっては重要らしい。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<CLEAR><BACKGROUND SRC="3010p2">//# 3010p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　この寂寞とした静謐は、{ヒロイン}にとって、
+　むしろ神の御家として相応しく感じるのかもしれない。
+
+　深く話し合ったことがあるわけではないが、
+　やはり彼女のような来歴を持つと、教義の受け止め方や信仰のあり方にも
+　余人とは差違が出てくるのだろう。
+
+　祭壇を前に跪き、朽ちかかった聖人像に黙然と祈りを捧げる
+　{ヒロイン}の姿には、
+　その飾り気のない沈黙ゆえに、どことなく胸を打つものがあった。
+
+　さっきまでの、藤枝美緒についての冷徹な語り口は、
+　かつて殺し屋だった頃の彼女を思い出させるものだったが……
+
+　今、こうして聖者に真摯な祈りを捧げる{ヒロイン}を見ていると、
+　殺人ロボットであることに甘んじていた少女とは、別人のようだ。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「君は……変わったな」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたほどじゃ、ないわ」
+
+<BOX type="0">//%w
+　祈りを終えて立ち上がり、{ヒロイン}はそう呟く。
+
+<BOX type="5">//%sR
+「この国に来てから、
+　あなたは……本当に変わった」
+
+<BOX type="0">//%w
+「……そうか？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「見ていて判ったわ。
+　あなたの心が、
+　どんどん裸になっていくのが」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「きっと、
+　そういうものなんでしょうね。
+　故郷って」
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　かすかな悲しみの色が、{ヒロイン}の瞳に宿る。
+
+<BOX type="5">//%sR
+「あなたには……
+　思い出してほしくなかった」
+
+「できることなら、
+いつまでも忘れていてほしかった。
+昔のことなんて」
+
+<BOX type="0">//%w
+　だから、黙っていたというのか？
+　美緒をめぐる冷徹な計画も、自分一人の心に仕舞い込んで……
+
+「君は、何ひとつ忘れちゃいなかったんだな」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうよ」
+
+「わたしは、
+　なにひとつ、忘れてない」
+
+<BOX type="0">//%w
+「……どうして？」
+
+　この国での平和な毎日が、{ヒロイン}の心もまた、
+　癒してほしかった。
+　またしても、抜け駆けじゃないか。
+
+「もう全部、地球の裏側の事柄だぞ」
+
+<BUSTUP NAME="elen7" face="8" MODE="on" zoom="" ALIGN="right">//# elen7^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「告悔が、まだだから」
+
+<BOX type="0">//%w
+「……」
+
+　たしかに、{ヒロイン}が懺悔をするとなれば、
+　そこいらの神父様では、手に余る内容になるだろう。
+
+「……誰にするんだ？　懺悔」
+
+<BOX type="5">//%sR
+「神様に、直接」
+
+「いつかは、会えるはずだから」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　いつか、神様と会う日……
+　やがて訪れるその日まで、{ヒロイン}はこの孤独な静寂の中で、
+　ただ祈り続ける気なのだろうか。
+
+<A HREF="#キャル選択肢" OPERATOR="1330=1">
+<A HREF="#エレン選択肢" OPERATOR="1450b=1">
+<A HREF="3050b.txt" OPERATOR="">//~ 3050b
+
+<MARKER NAME="#キャル選択肢">
+<A HREF="#三択" OPERATOR="1450b=1">
+
+<CHOICE HREF="3050b.txt" TEXT="＊美緒を探しに行く" OPERATOR=""></A>//
+<CHOICE HREF="3040b.txt" TEXT="＊一人になって考える" OPERATOR=""></A>//
+
+<MARKER NAME="#三択">
+<CHOICE HREF="3120.txt" TEXT="＊この場に留まる" OPERATOR=""></A>//
+<CHOICE HREF="3040b.txt" TEXT="＊一人になって考える" OPERATOR=""></A>//
+<CHOICE HREF="3050b.txt" TEXT="＊美緒を探しに行く" OPERATOR=""></A>//
+
+<MARKER NAME="#エレン選択肢">
+<CHOICE HREF="3120.txt" TEXT="＊この場に留まる" OPERATOR=""></A>//
+<CHOICE HREF="3050b.txt" TEXT="＊美緒を探しに行く" OPERATOR=""></A>//
+
+
+
+
+
+　sく 3050b
+
+<A HREF="3050b.txt" OPERATOR="">//~ 3050b
+
+
+
+
+
+　

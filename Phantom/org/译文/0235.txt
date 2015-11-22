@@ -1,0 +1,176 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="2500">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+「{姓}君？」
+
+「喂，
+　{姓}君，起来啦」
+
+//> left classroom1a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="hiro2" face="" MODE="on" zoom="" ALIGN="right">//# hiro2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是的，
+  你怎么总是在睡觉啊」
+
+<BOX type="0">//%w
+　还留在教室里的……只剩下值日生了。
+
+<BOX type="5">//%sR
+「课外活动早就结束了哦」
+
+「我们快回去吧」
+
+<BOX type="0">//%w
+「……嗯」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　每次像这样从浅睡中醒来，
+  我都要环顾一下四周，确认身边的一切。
+
+　这一次，
+  自己依旧留在令人怀念的故乡的景色中，
+  没有被拉回到异国的土地上。
+
+//> left 0078x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="0078x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　被大使馆保护起来以后，事情的进展非常顺利，甚至让我感到有些无聊。
+
+由于确实被卷入了犯罪事件，警察对我产生了兴趣。
+不过，通过假装精神错乱，加之自己的确有记忆丧失，负责检查的医生什么都没有发现。
+
+一切都被我完美地隐藏了起来。
+
+ 看起来，这种无知旅行者的失踪事件，在那个国家已经司空见惯了。
+
+<CLEAR><BACKGROUND SRC="0235x1">//# 0235x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　见到时隔半年才归国的自己，早已快要死心的父母欣喜若狂。
+  之后，我进入了本应半年前就入学的学园，
+  崭新的、却又与过去没有什么变化的生活，开始了。
+
+　空气的味道也是、阳光的温度也是、
+　这里是与记忆中一样的、日本……
+
+　手上沾染着的硝烟的味道，已经没有了。
+
+<CLEAR><BACKGROUND SRC="court2b">//# court2b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，不管到什么时候，
+  我都无法将过去的一切仅仅当成是一场噩梦。
+
+<CLEAR><BACKGROUND SRC="room0a3">//# room0a3 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　睁开眼的话，自己又会置身于诺曼底大街上的那间阁楼，在早晨干燥的阳光中醒来。
+
+<CLEAR><BACKGROUND SRC="school4b">//# school4b 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+相比起鲜血带来的强烈的视觉印象，
+这样充满安定、平和的生活，反而更显得虚无缥缈，就像是梦中的海市蜃楼。
+
+<CLEAR><BACKGROUND SRC="schoolway2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　明天早上，我又会伴随着恐惧睁开双眼吧。
+  后天，也会是这样吧。
+  让这场梦永远继续下去吧——冥冥之中仿佛有谁在这样祈祷着
+  我今后的人生，都会这样下去吧。
+
+　什么都没有被取回。
+　什么都没有被治愈。
+
+<CLEAR><BACKGROUND SRC="Jtown">//# Jtown 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　带着胸口裂开的、空空如也的大洞，
+  自己度过的每一天……和沙漠中的日子没有任何区别。
+
+　周围的人们仿佛生活在另一个世界，与我没有任何交点。
+  自己曾经是他们中的一员……
+  每当我有这样的想法，都会被杀人的记忆所阻止。
+
+　其实，我用这双手杀过人……这样的言语。
+  究竟能对谁说？
+　究竟谁会相信？
+
+　可是……
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="left">//# elen7^7 19
+<WIPE EFFECT="fade" TIME="5">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="hiro2" face="" MODE="on" zoom="" ALIGN="right">//# hiro2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么了？」
+
+<BOX type="0">//%w
+「……没什么」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="dream" mode="fadein" old="fadeout" time="10" loop="off">//$ dream.swa 0 255
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　说不定，自己终于开始发疯了。
+
+　在偶然间瞥到的、某个阴暗的角落，
+  我仿佛看到了存在于遥远往日的面容。
+
+　如枪口一般的、空虚的视线冷冷地射向我，
+  让我的背后生出阵阵寒意。
+
+　她不可能在日本。
+  她不可能还活着。
+
+　这一切，都只是幻觉吧。
+
+　可是，现在已经没有确认的方法了。
+　我很明白，
+  自己将这样静静地、一点一点地崩坏下去。
+
+　可以确定的事，只有一件……
+
+<CLEAR><BACKGROUND SRC="nightField">//# nightField 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一旦踏入那个炫目的、地狱一般的世界，
+  就注定再也无法离开。
+
+<A HREF="1551.txt" OPERATOR="">//~ 1550

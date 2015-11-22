@@ -1,0 +1,46 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left schoolwindow wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="schoolwindow">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　気怠くも長閑な授業時間、
+　茫洋と春霞の漂う青空や、新緑の眩しさを眺めて過ごせる窓際の席には、
+　ささやかな喜びがあった。
+
+　……が、状況が一転してみれば、これほど危険に曝される位置もない。
+
+　丘陵を一望できる3階の窓際は、逆に言うなら、
+　丘の斜面のどこからでも狙撃され得る絶望的なポジションだった。
+
+　いや、隣の東校舎の屋上からなら、ライフルさえ必要ない。
+　
+　架空の銃口を思っただけで、蛇に睨まれた蛙の心境になる。
+
+　{ヒロイン}が、逃走ルートを整えるまでに、
+　いったい何日かかるのか定かでないが、それまでずっと、
+　このプレッシャーに堪え続けなければならないのだろうか。
+
+//> left passage5b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage5b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　昼休みになり、廊下に逃れられると、思わず安堵の溜め息が洩れた。
+　これから1時間は、どこにいようと構わない。
+
+　地下の購買部にでも行けば、ひとまずは安心だろう。
+　まさかインフェルノも、学生に紛れて襲って来るような真似はすまい。
+　人混みにさえいれば安全だ。
+　そこで、ようやく一息つける。
+
+<A HREF="3182.txt" OPERATOR="3080a=1">//~ 3182
+<A HREF="3187.txt" OPERATOR="">//~ 3187

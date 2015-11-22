@@ -1,0 +1,81 @@
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="0">//%w
+　瞳を閉じて、すべてを闇に封じ込めた。
+
+　すべて忘れろ。
+
+　今、この場所に身を伏せて、ライフルを構えるに至るまでの、
+　それまでの人生は、すべて幻だったと思え。
+
+　今、この瞬間だけが真実だ。
+
+　頬に当たる銃床、指に触れる引き金の感触。
+　鼓動とともに揺れるレティクルの十字線。
+　やがて超音速で撃ち出される弾丸と、
+　その一撃で引き裂かれる、名も知らぬターゲット。
+
+　実在するのは、ただ、それだけだ。
+
+　さあ、務めを果たせ。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="16_05狙撃" mode="normal" time="" loop="off" effect="">//!se rifle
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　反動で銃が跳ね上がり、一瞬、スコープが標的を見失う。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　やった……
+　必殺の手応えを感じ取りつつも、それでも腕は慣習的に、
+<se id="2" src="16_04" mode="normal" time="" loop="off" effect="">//!se 
+　ライフルのボルトを前後させ、第2射に備えて次弾を装填する。
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　即座にライフルを構え直し、アイピースを覗くと、
+　拡大された視野の中で、今まさに、敵のスナイパーが、
+　スローモーションのような動きで頽れるところだった。
+
+　ライフルを取り落とし、仰向けに転がった死体が、
+　ようやく風貌を露わにする。
+
+　いかつい体躯をコートに隠していた、その大男の黒人は……
+　アイザックの側近を務めていた用心棒、ランディ＝ウェーバー。
+
+　あいつだったか……
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「見えてたか？　キャル」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……うん」
+
+<BOX type="0">//%w
+「あいつが、ジュディの仇だ。間違いなく、地獄に送ってやった」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……うん」
+
+<BOX type="0">//%w
+「これで、黒幕が誰かも判った。あとは……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="17_01" mode="normal" time="" loop="off" effect="">//!se rifle2
+<BOX type="0">//%w
+　言いかけた言葉を断ち切ったのは、遙かな銃声の轟きだった。
+
+<A HREF="1290.txt" OPERATOR="">//~ 1290

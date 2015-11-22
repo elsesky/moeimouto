@@ -1,0 +1,48 @@
+//> right Jroom wide 255 elen7^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="phone2" mode="normal" time="" loop="off" effect="">//!se phone2
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　寝付けないまま、夜を過ごしていた{ヒロイン}のポケットで、携帯電話の着信バイブレーションが作動した。
+
+　常識のある人間が、
+　電話してくる時間ではないが……
+　別段、驚きはしなかった。
+
+　発信者名は……
+　案の定、“ミオ”
+　藤枝美緒の携帯電話だ。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+　受信ボタンを押すと、
+一呼吸の間を置いて、
+聞き覚えのある英語が訊いてきた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……アインか』
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ドライ、ね？」
+
+<BOX type="2">//%w
+　{ヒロイン}自身、理由は説明できないが、この電話は予期していた。
+　きっとドライは、{名}よりもまず先に、自分を標的にしてくるだろうと。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『どこか、
+　邪魔の入らない場所を指定しな』
+
+『決着を、つけよう』
+
+<A HREF="3585.txt" OPERATOR="">//~ 3585

@@ -1,0 +1,421 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<se id="1" src="doca2" mode="normal" time="" loop="off" effect="">//!se doca2
+<BACKGROUND SRC="3440x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　バイクが走り出してすぐ、美緒は自分の間違いに気付いた。
+
+逃げるチャンスがあったとすれば、まだ地に足が着いているうちだったのだ。
+
+　美緒は単車に乗った経験がない。当然、外気に総身を曝したまま疾駆する、この乗り物のスピード感は、想像だにしないものだった。
+
+　もう銃口を向けられているわけでもないのに、今はスピードへの恐怖が、美緒を車体とライダーの背中に縛りつけている。
+
+　しがみつく手の力が抜ければ、
+間違いなく即死だ。
+　ハンドルを握る少女は、ヘルメットさえ被らせてくれなかった。
+
+コーナーリングで車体が傾ぐたび、喉の奥で悲鳴を噛み殺す美緒。
+
+　駆け過ぎる視界の迫力に耐えきれず、固く目を閉じてライダーの背中に顔を押しつけているものの、強烈な風は、美緒の長い髪を捕らえ、容赦なく頭を引っ張る。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　一体どれほどの時間、そんな責め苦に耐え続けていただろうか。
+
+<se id="1" src="ドカ急減速停止" mode="normal" loop="off">
+　不意に何の前触れもなく、オートバイは速度を緩め、停止した。
+
+　恐る恐る、瞼を上げる。
+
+<CLEAR><BACKGROUND SRC="schoolway3">//# schoolway3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="30">
+<BOX type="2">//%w
+　夜とはいえ、
+　そこは馴染みの場所だった。
+　篠倉学園へと向かう
+　上り坂の途中だ。
+
+　まだ名も知らぬ謎の少女が、
+　忌々しげな舌打ちをする。
+
+　彼女の肩越しに前を窺うと、バイクのヘッドライトが照らし出す路上の真ん中に、誰かが仁王立ちしていた。
+
+　やはり日本人ではない。
+　おそろしく背の高い、
+　黒人の女性だ。
+
+凶々しい金属の光沢を目に留めて
+美緒は再び息を呑む。
+
+立ちはだかる黒人女性もまた、右手に大きな銀色の拳銃を構えていた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right schoolway3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="schoolway3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+“来た……”
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　高らかなバイクの排気音とともに、彼方の路上にヘッドライトの光を認めて、リズィはハードボーラーの撃鉄を引き起こした。
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“ビンゴ、だね……”
+
+<se id="2" src="ドカ急減速停止" mode="normal" loop="off">
+
+<BOX type="2">//%w
+　篠倉学園で網を張れば、間違いなくファントムが現れると踏んでいたが、どうやら、予測は的中したらしい。
+
+　道の真ん中に立ち塞がったリズィの前方、およそ10メートルほどの距離を残して、坂を上ってきたバイクは停止した。
+
+忌々しげな舌打ちとともに、ドライバーはバイクのエンジンを止める。
+
+　眩いライトの光が失せて、外灯の中に、ノーヘルのライダーの風貌が露わになった。
+
+　ファントム……
+
+　後部座席にしがみついている少女は、おそらく志賀の言っていた、藤枝美緒という子だろう。
+　ここまで、悪い予想に当たってほしくはなかったのだが。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　無言のまま、ファントムはバイクを降り……
+
+<se id="1" src="11_05" mode="normal" time="" loop="off" effect="">//!se 
+　やおら美緒の手を掴むと、驚く暇も与えず、取り出した手錠でバイクのハンドルに繋ぎ止めてしまった。
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ちょっと、待ってな」
+
+<BOX type="3">//%m
+　冷たく呟いて、ファントムは
+　リズィの方に向き直る。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「丁度いいや。リズィ」
+
+「あんたと梧桐組の連中に、
+　伝える話があったんでね」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……キャル……」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ゲームは続行だ。ルールも、
+　ツヴァイが言った通り、
+　そのまま」
+
+「あの二人が死んだり、誰かが
+　連中のまわりをウロチョロしたり
+　するようなら……」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そこの藤枝美緒は、
+　あたしが殺す」
+
+「もう誰にも邪魔はさせない。
+　あたしの獲物に、手を出すな」
+
+「あの二人を仕留めるまで、
+　この美緒って娘は、
+　あたしが預かる」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……どこまで馬鹿をやらかしゃ
+　気が済むんだい？」
+
+<BOX type="2">//%w
+　いつもの恫喝の響きさえ枯れた、乾ききった口調で、リズィはキャルに問いかけた。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「解りきったこと訊かないでよ、
+　リズィ」
+
+「ツヴァイとアインを
+　ブチ殺すまで、さ」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「堅気だけは巻き込むな。
+　いつかアタシは、
+　アンタにそう教えたな」
+
+「そこまで、
+　ツヴァイが憎いのか？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何度言わすのさ？
+　解りきったこと
+　訊くんじゃないよ」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「裏切り者も、
+　堅気に手を出す野郎も、
+　アタシは絶対に許さない」
+
+「越えちゃならない一線がある……何度も言って聞かせたよな」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「目ェ醒ませ。
+　これが最後の一線だ」
+
+「ここを越えたら、オマエ、
+　堕ちるところまで堕ちるんだぜ」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「前から
+　不思議だったんだけど……」
+
+「リズィ、あんた、なんでそう
+　あたしに親切なんだい？」
+
+<BUSTUP NAME="rizy" face="9" MODE="on" zoom="" ALIGN="right">//# rizy^9 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^9 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「オマエを
+　殺し屋にしたくなかった」
+
+「アタシも、ツヴァイも、
+　そう思ってた」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あたしは
+　インフェルノのファントムだ」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それに文句があるんなら、
+　止めてみなよ。今、この場で」
+
+<BOX type="3">//%m
+　キャルは懐に手を突っ込むと、
+リズィを警戒させないよう、
+ゆっくりと懐中時計を取り出した。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　この精緻なゼンマイ細工に、
+　思えば何度、決闘のジャッジを
+　務めさせたことだろうか。
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+左の掌に載せたまま、指先で蓋を弾き開けると、いつもの儚い旋律が、夜の静寂の中に広がっていく。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+
+<CLEAR><BACKGROUND SRC="ドライ懐中時計">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「曲が終わったら、あたしも抜く」
+
+「もし、
+　それまでに撃てないんなら……」
+
+「あんた、本物の甘ちゃんだ。
+　死んで当然なくらいの、な」
+
+<CLEAR><BACKGROUND SRC="リズィ銃">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　挑発を受け、
+　リズィは柳眉を逆立てる。
+
+　だが……
+　この成り行きは、何なのだ？
+
+リズィの記憶に、クロウディアとの離別の場面が蘇る。
+どうしていつも……最後はこういうことになる？
+
+<CLEAR><BACKGROUND SRC="ドライ懐中時計">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　キャルは間違いなく撃つだろう。
+
+脅しじゃ、ない。
+オルゴールの旋律が裏付けている。
+
+　義理も人情も通用しなくなる、ぎりぎりの極限まで、自分を追いつめて……そうしてからキャルは、撃つ気なのだ。
+
+　ただ一瞬の逡巡さえも、
+　自分に許さないように。
+　たとえ相手が、
+　かつての仲間であろうとも。
+
+<CLEAR><BACKGROUND SRC="リズィ銃">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　そんな風にキャルを撃つことが、自分にできるのか？
+　そうリズィは自問する。
+
+<CLEAR><BACKGROUND SRC="リズィ銃_b">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+　もしキャルが諦めなかったら、
+　あくまでインフェルノに逆らう
+　つもりなら……
+
+　この手で、キャルを、
+　殺せるのか？
+
+<CLEAR><BACKGROUND SRC="リズィ銃2">//# 1210x2 1 dummy 19
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　脳裏を過ぎったのは……
+　去っていく
+　クロウディアの背中だった。
+
+<CLEAR><BACKGROUND SRC="リズィ銃">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……キャル、やめてくれ」
+
+<BOX type="2">//%w
+　食いしばった歯の隙間から、
+　リズィは言葉を搾り出す。
+
+<BOX type="5">//%sR
+「アタシは、
+　アンタを撃ちたかぁない……」
+
+<CLEAR><BACKGROUND SRC="ドライ懐中時計">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　だがキャルは、乾いた薄笑いで
+　応じただけだった。
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+オルゴールの旋律が弛む。
+どこかへ吸い込まれていくように、リズムが霞み、消えていく。
+
+　曲が……止む。
+
+<CLEAR><BACKGROUND SRC="リズィ銃">//# 1210x2 1 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「キャル!!」
+
+<bgm src="" mode="fadeout" time="0" loop="on">
+<BOX type="2">//%w
+ハードボーラーは吼えることなく、ただ絶望的な叫びだけが夜気を裂く。
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="schoolway3">//#! schoolway3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　それに応えた
+　9mmパラベラムの叱咤は……
+
+　リズィの悲愴な声に比べると、
+　あまりにも虚ろな、
+　乾いた響きだった。
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="2">//%w
+　声にならない悲鳴を上げて、
+　美緒が息を呑む。
+
+<CLEAR><BACKGROUND SRC="ドライリズィ撃つ">//# drei^3 19 schoolway3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+「何で、撃てねぇかな。あんたは」
+
+<A HREF="3450.txt" OPERATOR="">//~ 3450
+
+あんたは」
+
+<A HREF="3450.txt" OPERATOR="">//~ 3450

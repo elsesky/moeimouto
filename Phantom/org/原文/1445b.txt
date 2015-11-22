@@ -1,0 +1,94 @@
+//> left bay9 wide 255 rizy^8 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="bay9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ゴルフの所に戻ると、
+　その隣にヴァイパーを停めて、リズィが待っていた。
+
+「リズィ……」
+
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　硬い表情のまま、リズィは無言でハードボーラーを抜く。
+
+　その銃口を目の前にしても、言葉もなく俯くしかなかった。
+
+<BOX type="5">//%sR
+「さっきの、梧桐の話だが……」
+
+「どうなんだ？　ファントム。
+あんたなら答えられる筈じゃないのか？」
+
+<BOX type="0">//%w
+「……」
+
+　どう答えろというのだ？
+　一体、何を信じればいい？
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だがその沈黙から何を汲み取ったのか、リズィは銃口を下ろし、
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……乗りな」
+
+<BOX type="0">//%w
+　そう言ってヴァイパーを顎で示した。
+
+<BOX type="5">//%sR
+「これから、クロウと会う」
+
+「アンタにも立ち会ってもらうよ。ファントム」
+
+<BOX type="0">//%w
+「ああ……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　こっちだって説明が聞きたい。
+　梧桐の話の、真偽の程を。
+
+<se id="1" src="BMW急発進走行" mode="normal" time="" loop="off" effect="">//!se viperGo
+<CLEAR><BACKGROUND SRC="Viper">//# Viper 1
+<WIPE EFFECT="fade" TIME="10">
+
+//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40クルージング" mode="normal" loop="off">
+
+<BACKGROUND SRC="バイパー走行1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……居場所、知ってるのか？」
+
+<BOX type="5">//%sR
+「今夜はヤクザたちの様子を
+　見に行くって話だった」
+
+「と、なれば、
+　今頃はリーガル＝ホテルで
+　途方に暮れてんだろな」
+
+<BOX type="0">//%w
+　肝の冷える話だ。
+　梧桐と行き違いになって、クロウディアは命拾いしたということか。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+<CALC WORKNAME="1445b" OPERATOR="1">//
+<A HREF="1460.txt" OPERATOR="">//~ 1460

@@ -1,0 +1,17 @@
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<CLEAR><BACKGROUND SRC="#000000">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+啊，如此……简单吗？
+
+如此轻松就能偿还自己的罪孽……不应该是这样吧。
+一定是……哪里出错了吧？
+
+为什么总是这样……直到为时已晚，才注意到宝贵的东西……
+呐，凯尔……不应该是这样……不应该……
+
+<A HREF="4040.txt" OPERATOR="">//~ 3630
+

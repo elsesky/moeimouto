@@ -1,0 +1,309 @@
+//> left classroom4c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom4c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　窓の外の闇に、目を凝らす。
+　日が落ちた校庭を、照らすものは何もない。
+
+　ついさっき、礼拝堂の方角で轟いた炸裂音……
+　間違いなく、突撃銃だ。
+　それも一挺や二挺じゃない。小隊規模の一斉射撃だった。
+
+　だが礼拝堂で見た限りでは、ヤクザたちの武装は猟銃止まり。
+　自動火器を持った者はいなかった。
+
+　ヤクザ以外の、別勢力か？
+　そうなれば、思い当たるのはひとつしかない。
+
+　インフェルノが動き出した。
+　それも、ヤクザと交戦しているとなると……
+
+　美緒という足枷に囚われていた梧桐組を、
+　ついに切り捨てる挙に出たのか。
+
+<BUSTUP NAME="mio1" face="e" MODE="on" zoom="" ALIGN="right">//# mio1^e 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美緒も、ただならぬ気配を察知してか、不安げに身体を寄せてくる。
+　彼女を怯えさせたくはなかったが……
+　焦燥を隠すには、押し黙っているしかなかった。
+
+　インフェルノが相手とあっては、まるきり話が違ってくる。
+　今度は梧桐組のような素人ではない。
+
+　何よりもまず、美緒をどう保護するかが問題だ。
+　一緒にいるのは論外だが、
+　かといって、安全に身を隠せる場所のあてがあるわけでもない。
+
+　どうにかして、学園の敷地の外に逃がさなければならないが……
+　だが敵がすでに包囲を終えていたら、どうなる？
+　のこのこ出ていくのは自殺行為だ。
+
+　動くべきか、留まるべきか、
+　美緒をどうするべきか……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 classroom2c
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　廊下からの足音が、思考を中断させた。
+　誰かが、やってくる。
+
+「……」
+
+　唇に指をあて、美緒に静寂を促すと、
+　気配を殺して、そっと教室の外を窺う。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# siga3^2 20 passage7c 1
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……志賀だった。
+　手下も連れず単身で、一部屋ずつ教室を改めながら近づいてくる。
+
+　今から慌てて身を隠すのも、得策とは思えない。
+　思い切って、声をかけることにした。
+
+「……おい」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「！」
+
+<BOX type="0">//%w
+　目が合った途端、志賀の表情から一切の感情が消える。
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　その手の中でスクィズ・コッカーが握りしめられ、
+　カチリと乾いた音を立ててP7の撃鉄が起こされる。
+
+<BUSTUP NAME="mio1" face="0" MODE="on" zoom="" ALIGN="left">//# mio1^0 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^0 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「待って！」
+
+<BOX type="0">//%w
+　敏感に殺気を感じ取り、すかさず美緒が間に割り込んでくる。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美緒さん、そいつはあなたの
+　お兄さんを陥れた奴だ」
+
+「そいつのせいで、
+　大輔さんは死ぬ羽目に……」
+
+<BUSTUP NAME="mio1" face="0" MODE="on" zoom="" ALIGN="left">//# mio1^0 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^0 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「勝手なこと
+　言わないでください！」
+
+「もう、あなたの言うことなんて
+　信じません」
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　なぜか意外なほど沈鬱な顔をして、志賀は項垂れる。
+
+「あんたの、仲間は？」
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「逃げきれたのは、
+　俺一人だよ……」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「サイスは、
+　一人残らず始末する気だ。
+　美緒さんも含めてな」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうしてくれる……」
+
+<BOX type="0">//%w
+　そう糺す志賀は……
+　一見冷ややかな風貌の、どこに隠していたのかと思うほど、
+　激しい怒りを目に顕わしていた。
+
+　事情はよく解らないが、どうやら志賀にとっても、
+　美緒は、ただ組長の縁者というだけの存在ではないらしい。
+
+　……ならここは、託すのも手だ。
+
+「志賀さん、あんたに頼みがある」
+
+「彼女を連れて、逃げてほしい」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……何だと？」
+
+<BOX type="0">//%w
+　目を剥いたのは、志賀ひとりだけではなかった。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そんな……
+　じゃあ、{姓}さんは!?」
+
+<BOX type="0">//%w
+「今度の敵は梧桐組じゃない。君を人質にしても通用しないんだ」
+
+　うろたえる美緒に、ゆっくり教え諭すように話す。
+
+「君を守りながら戦うよりも、ただ敵だけに専念したい。
+　そうすれば、まだ勝算はある」
+
+「志賀さんと、逃げてくれ」
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　泣きそうな顔をして、美緒は身体を震わせた。
+
+「これでお別れにはしない。俺は、あとで必ず迎えに行く」
+
+<BOX type="4">//%sL
+「でも……」
+
+<BOX type="0">//%w
+　言葉に詰まったまま、美緒は志賀の表情を窺う。
+　美緒の懸念も無理はない。
+　相手は、ついさっきまで力ずくで二人を割こうとしていた男だ。
+
+「志賀さん、約束してくれ。あとで必ず、俺たちを会わせると」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　美緒を納得させるには、それしかない……
+　目配せすると、
+　さすがに志賀も要領の悪い男ではなく、得心した様子だった。
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいでしょう。美緒さん、
+　約束しますよ」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そして志賀はこちらに向き直り、
+
+<BOX type="5">//%sR
+「敵はサイスの他に6人。
+　全員が機関銃を持っている」
+
+「俺たちじゃ、
+　歯が立たなかった……
+　本物のプロだ」
+
+<BOX type="0">//%w
+　肯いた。
+　サイス自ら率いる程の手合いとなれば、
+　{ヒロイン}や自分と同レベルの相手と思って間違いない。
+
+　それが、6人……
+　ヤクザ100人より始末が悪い。おまけに武装も差がありすぎる。
+
+　だが……やるしかない。
+
+「ともかく俺は、暴れるだけ暴れて見せる」
+
+「敵の狙いの本命は、俺だ。
+　しばらくは全員の注意を引き付けられるだろう。
+　あんたはその隙に、美緒を」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「承知した」
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「囮に……なるんですか？」
+
+<BOX type="0">//%w
+　怯えた声で、美緒が問う。
+
+「大丈夫。君が逃げる間だけだ。その後はもっと着実にやる」
+
+「君が早く逃げればそれだけ、俺の危険も減る。解るよな？」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="left">//# mio1^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　解りたくもない、そう言いたげに美緒は俯いた。
+
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さ、行きましょう。美緒さん」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　志賀に促され……
+　美緒はもう一度、訴えるような眼差しをこちらに投げかけてきた。
+
+“約束だ”
+
+　そう念じながら、彼女の瞳に肯いて見せる。
+
+<BOX type="4">//%sL
+「……はい」
+
+<calc workname="gun12" operator="1" mode="global">
+<A HREF="3915.txt" OPERATOR="">//~ 3915

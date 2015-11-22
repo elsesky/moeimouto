@@ -1,0 +1,453 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left fieldWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="トーラス走行室内音" mode="normal" loop="off">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="fieldWay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　日が暮れるのとほぼ同時に、ヨセミテ自然公園を通りすぎた。
+
+　シーズンオフの観光地は、まるで忘れ去られたように閑散としていた。
+
+　あれきり、運転席と助手席を言葉が行き交うことはない。
+
+　今、何を思ってるんだろう？　アインは。
+　未だにサイスの心配でもしてるんだろうか。
+
+　もう何ヶ月も一緒に暮らしていた相手だが、
+　その間、気まずさとか、遠慮とか、そんな感情は懐いたこともなかった。
+
+　二人とも、相手に対し、そして自分自身に対しても、
+　血の通った人間という意識がなかったからだ。
+　お互いが、組織の歯車であることに徹していた。
+
+　本当の意味で、打ち解けて話せるようになるのは、
+　まだ当分先かもしれない。
+　長い旅になるというのに……
+
+“いいや、案外、早く終わりになるかもしれないぞ”
+
+　……そんなシニカルな独言を、頭を振って払いのける。
+　
+　決めたばかりじゃないか。生き延びると。
+
+<CLEAR><BACKGROUND SRC="fieldWay2">//# fieldWay2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「気分はどうだ？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　返事はない。
+　だが、ただ拒絶してるだけかと思いきや、
+　見たところ本当に顔色がすぐれない。
+
+　やはり車のシートでは、休養にはならないか。
+
+　夜を徹してでも走り続けたいところだが、
+　怪我人に無理をかけるのもまずい。
+
+　次に目に留まったモーテルで、今夜は休むとしよう。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+//> left motel2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　空き部屋はいくらでもあったが、
+　敢えて安い相部屋にチェックインした。
+
+　キャッシュカードなぞ使えば、
+　みすみす組織に居場所を知らせるようなものだ。
+　そうなると、現金の持ち合わせは乏しい。
+
+　いずれどこかで逃亡資金を稼ぐ必要があるが、
+　それまでは倹約で乗り切るしかない。
+
+//> left motel wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「まぁ、そういう訳だ。我慢してくれ」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　狭い室内を見回すアインには、嫌も応もない風だった。
+
+<BOX type="5">//%sR
+「身体、拭くわ」
+
+<BOX type="0">//%w
+「ん？　ああ」
+
+　そうか、まだシャワーは傷に障るな。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう気付いて、備え付けのタオルを投げ渡すが、
+　アインはまだ物言いたげに見つめてくる。
+
+「……？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「服、脱ぎたいんだけど」
+
+<BOX type="0">//%w
+「……ああ、済まない」
+
+　どうかしていた。
+　気まずい思いで部屋を出る。
+
+//> left motel3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　とりあえず、
+　喉の渇きを紛らわして時間を潰すか。
+
+　そう思って、ぶらぶらと自販機を探し歩きながら、
+　思った。
+
+
+　以前は、肌をさらす程度のことには、
+　何の恥じらいもなかったのに。
+
+　彼女にも、
+　意外としおらしい一面があるんだな。
+
+　……。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　……意外、すぎないか？
+
+　直感の警報で、
+<se id="1" src="玲二走り4" mode="normal" time="" loop="off" effect="">//
+　弾けるように部屋へと駆け戻った。
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="0">
+<CLEAR><BACKGROUND SRC="アイン死にたい">//#! motel 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ちゃちな錠前を蹴り破って部屋に躍り込むと、
+　アインはベッドの端に腰掛けて、
+　まるで魅入られたように、手にした剃刀の刃を眺めていた。
+
+<CLEAR><BACKGROUND SRC="motel">//#! motel 1
+<WIPE EFFECT="fade" TIME="0">
+　有無を言わさず、その手の剃刀を奪い取る。
+　彼女は抵抗しなかった。
+
+「……何をする気だった？」
+
+　諦めたように、何かを憐れむように……
+　薄く、力のない微笑が、アインの口元を過ぎる。
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やっぱり、駄目ね」
+
+「誰かにやられるならまだしも、
+　自分自身でやるのは、恐いわ」
+
+<BOX type="0">//%w
+「……アイン、君は……」
+
+<BUSTUP NAME="elen1" face="8" MODE="on" zoom="" ALIGN="right">//# elen1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もう、嫌なの。疲れたの」
+
+「だから、お願い」
+
+「{名}、
+　いっそ、あなたの手で楽にして」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<BOX type="0">//%w
+　気付いたときには、平手打ちが飛んでいた。
+
+「……勝手すぎるぞ」
+
+「なんだって、そこまで死にたがる？」
+
+「死んでほしくないんだよ。こんな馬鹿げたことで。
+　君にも生き延びてほしいんだよ！」
+
+「……それが、そんなに無茶な注文なのか？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「気安く言うわね、
+　生きるだなんて」
+
+<BOX type="0">//%w
+　張られた頬を庇おうともせず、アインは切り返した。
+
+<BOX type="5">//%sR
+「あなたも、わたしも、
+　インフェルノに追われてるのよ」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今ここに、インフェルノの追っ手がやってきたら、どうするの？」
+
+「返り討ちにでも、するつもり？」
+
+<BOX type="0">//%w
+「……」
+　
+　すぐには、答えられなかった。
+
+　盲点だったわけじゃない。
+　そのことが、一度も頭を掠めなかったかといえば、嘘になる。
+　ただ、目を逸らしていただけだ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　逃げて、もし見つかったその時は？
+　ただ黙って処刑されるだけか？
+
+　いや……戦うだろう。生き延びるために。
+
+　だがそれは、誰の命令でもなく、
+　ただ自分の身を守るためだけに、人を殺すということだ。
+
+<CLEAR><BACKGROUND SRC="{銃画像}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　懐に挿した{銃}の銃把に触れ、その重みに、問いかける。
+
+　抜けるか？
+　また撃てるのか？
+
+　暗殺者のツヴァイではなく、
+　{姓}{名}として……
+　赤の他人を殺せるのか？
+
+　そのときこそ、本当の意味で、この手は血に染まるんだろう。
+
+　そうなのだ。
+　追いつめられたような気でいたが、
+　実のところ、まだ最後の一線を踏み越えてはいない。
+
+　まだ一度も、自分の意志で、人を殺したことはない。
+
+　だが……
+
+<CLEAR><BACKGROUND SRC="motel">//# motel 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「やれるさ」
+
+　落ち着いて、アインにそう告げた。
+
+「次に、誰かを撃つときは……自分の意志で、引き金をひく」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen1" face="8" MODE="on" zoom="" ALIGN="right">//# elen1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　沈黙を破ったのは、アインの溜め息だった。
+
+<BOX type="5">//%sR
+「……強いのね、
+　{名}は」
+
+「昨日までツヴァイだった人とは、
+　思えない」
+
+<BOX type="0">//%w
+　それは、微笑みと呼ぶには、あまりにも哀しい顔だった。
+
+　眼差しには、もう射るような鋭さも、はねのけるような堅さもない。
+
+　だが、それが全てだったのだ。
+
+　あの鋭利な眼光が失せてみると、そこには何も残ってなかった。
+　今の彼女の瞳は、あまりにも虚ろすぎた。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="5">//%sR
+「そうまでして、あなたは、
+　生き抜くの？」
+
+「そういう生き方を、
+　わたしにも、しろっていうの？」
+
+<BOX type="0">//%w
+「……嫌なのか？」
+
+<BUSTUP NAME="elen1" face="9" MODE="on" zoom="" ALIGN="right">//# elen1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当たり前でしょ!!」
+
+<BOX type="0">//%w
+　冷徹な仮面を、内側から叩き割る悲痛な叫び。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　乾ききっていたはずの目尻から、一滴の雫が滲み出る。
+
+　あのアインが……
+　いつだって冷静だった彼女が……
+
+　ただの一言を引き金に、抑制を失っている。
+
+「……どうしてだ？」
+
+　わからなかった。
+
+　彼女の方が、よほど強くて冷徹な心の持ち主だったのに……
+
+　いつだって彼女は、何の躊躇いもなしに、
+　死地へと身を投じていったのに……
+
+「君は、僕なんかより、ずっと強い人だったのに……」
+
+<BOX type="5">//%sR
+「解るわけないわ。
+　あなたなんかに」
+
+<BOX type="0">//%w
+　抑揚を抑えた細い声も、今はただ脆く儚いばかりだった。
+
+<BOX type="5">//%sR
+「あなたはいいわ。
+　もう自分が誰か
+　知っているんだもの」
+
+「信じるものがある。
+　もう何も見失わないで済む」
+
+「でもわたしは？　組織を捨てて、
+　マスターを裏切って……
+　今のわたしは何なの？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「わたしはアインでいる限り、
+　どんなことにも耐えられた」
+
+「迷うことも、
+　考え込むこともない」
+
+「ただマスターが望んだ通りの
+　姿でいればいい」
+
+「だから、どんなに恐くても、
+　辛くても、平気でいられた。
+　何も感じないで済んだ」
+
+<BUSTUP NAME="elen1" face="0" MODE="on" zoom="" ALIGN="right">//# elen1^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな風に……いつまでも、
+　マスターのアインでいたかった。
+　アインのまま死にたかった」
+
+「今朝なら、まだ間に合った」
+
+「あそこで逃げたりしなければ、
+　わたしは、
+　わたしのまま死ねたのよ」
+
+<BOX type="0">//%w
+　涙とともに、細い喉の裂けんばかりに吐露される想い。
+　そこに少女の秘密のすべてがあった。
+
+　彼女は、強かったわけじゃない。
+　何も感じなかったわけじゃない。
+
+　どんなに残酷な目に遭おうと、彼女は、ただの一度も、
+　それを我が身のこととして受け止めたりはしなかったんだろう。
+
+　痛み、恐怖、哀しみ、絶望……
+　そのすべてに目を背け、自分の中を素通りさせていった。
+
+　自分を人形と思い込めばこそ、維持できた自己欺瞞。
+
+　それが彼女の強さの正体だったのだ。
+
+　だがそれは、もう通用しない。
+
+　サイスの許を離れた今、彼女は、もうアインですらないのだから。
+
+<BOX type="5">//%sR
+「……わたしにはもう、
+銃なんて握れない。
+夜、眠ることだってできやしない」
+
+「もし夢の中で、今まで殺した
+人たちと出会っても、これからは、
+なにも言い訳できないもの」
+
+「きっと皆、訊いてくるわ。
+どうして殺したのかって。どうして
+まだおまえは生きてるのかって」
+
+「でもわたしには、
+　もう答えられない」
+
+「だってわたし、
+　もう誰でもないのよ。
+　生きてる理由も、役目もない」
+
+<BOX type="0">//%w
+<CHOICE HREF="0260.txt" TEXT="＊慰める" OPERATOR=""></A>//{ ＊慰める 0260 ＊そっとしておく 0260b 
+<CHOICE HREF="0260b.txt" TEXT="＊そっとしておく" OPERATOR=""></A>//{ ＊慰める 0260 ＊そっとしておく 0260b 

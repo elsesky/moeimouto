@@ -1,0 +1,681 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage7c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="passage7c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　子弹和跳弹在脑袋周围飞舞。
+  灰浆建材被打成了粉末四散飘落。
+
+　战场转移到了西校舍的2楼。
+  在狭长的走廊中，正面的枪战正激烈地进行着。
+
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我据守在校舍一端的安全通道处，阻击着由走廊直冲过来的敌人。
+
+　现在和我互射的对手有2人。
+  而且似乎没有再增加的趋势。
+
+　我突然感到有些不对劲。
+  敌人只有4人吗？
+
+<se id="2" src="" mode="fadeout" time="5">
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我本以为她们一发现自己，就会从埋伏的地方纷纷杀过来……所以才充当了诱饵。
+  可是，事情为什么会是这样？
+
+　难道说，其他人在追着寻找赛斯的{ヒロイン}吗？
+
+　那样的话，自己就不能再磨蹭下去了。
+　现在可不是浪费时间的时候，必须迅速解决掉她们……然后去支援{ヒロイン}。
+
+　AK74的子弹已经所剩无几。
+  只能放手一搏了。
+
+　下定决心后，我停止枪击，跑上了安全通道。
+
+　这座西校舍的3楼，这一侧的教室……记得没错的话，是化学试验室。
+　在那里可以使用一个冒险的战术。
+
+//> right schooltop3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　与东校舍的激战相反……
+
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　西校舍上的死斗非常安静。
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　战斗正无声地进行着。
+<se id="3" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　交错破空的刀锋声、
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　刀刃相抵的金属声，
+<se id="3" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　这一切，
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　只有以命相搏的3名舞女
+<se id="2" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　与1个饶有兴致地观战的人才能听见。
+<se id="3" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="schooltop3b">//# sice 20 dummy 19 schooltop3b 1
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「怎么了Ein？你已经无路可退了哦」
+
+<BUSTUP NAME="elen2" face="6b" MODE="on" zoom="" ALIGN="left">//# elen2^6b 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen2^6b 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　即使挥舞着得心应手的匕首，在与自己相同水平的两人夹击下，Ein也有些力不从心。
+
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+Ein的匕首不断落空，
+<se id="2" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+可是，另外两把刀每次划过，
+<se id="3" src="swings" mode="normal" time="" loop="off" effect="">//!se swings
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+都会残忍地割开Ein身上的水手服，
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+Ein被划破的肌肤上淌出了鲜血
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+。
+<se id="3" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="zs7" face="2" MODE="on" zoom="" ALIGN="right">//# zs7^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs7^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+两名假面少女一边悠然自得地玩弄着Ein，
+<se id="2" src="swings" mode="normal" time="" loop="off" effect="">//!se swings
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+一边按照赛斯的命令，
+<se id="3" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+反复发动凌厉但避开要害的攻势，
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+尽量避免对Ein造成致命的伤害
+<se id="2" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+。
+<se id="3" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs6^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　刀刃无情地舞动着，双方你来我往，战况趋近白热。
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　可是，
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　谁胜谁负已经一目了然了。
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“没想到她如此不堪，真是扫兴……”
+
+<BOX type="2">//%w
+　事实上，赛斯很希望Ein能够更加善战。
+
+虽然他在很久以前就将她舍弃了，
+但不管怎么说，她毕竟是赛斯值得纪念的第一件作品。
+
+　战斗已经毫无悬念，在赛斯看来已经变得有些无趣了。
+
+　要不要结束她的性命呢……就在赛斯如此考虑的时候，他突然注意到Ein奇怪的表情，赶忙凝神望去。
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“……？”
+
+<BOX type="2">//%w
+　刚才的一瞬间，闪过Ein嘴角的……是笑容吗？
+
+//> right schooltop3 wide 255 elen2^6b 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="傾僀儞僫僀僼惂暈">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　正如{ヒロイン}所期待的那样，赛斯由于兴趣做出了拖延战斗的愚蠢决定。
+  这正中她的下怀。
+
+<se id="1" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　即便是割破肌肤的刀刃，
+<se id="2" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　也无法给她带来任何恐惧。
+<se id="3" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　因为，
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　对手接到了命令，
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　不会对自己发动致命攻击。
+<se id="3" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　也就是说，
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　虽然看上去像是以命相搏，
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　但实际上不过是舞刀表演罢了。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+经过一系列的比试，
+<se id="2" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+{ヒロイン}已经清楚地掌握了敌人的实力。
+<se id="3" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+如何攻击、如何防守，
+<se id="2" src="swings" mode="normal" time="" loop="off" effect="">//!se swings
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+如何回击……
+<se id="3" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　节奏也好，呼吸也好，尽在{ヒロイン}的掌握之中。
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+这种表现与她被称为Ein时相比别无二致。
+
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　怎么一点进步都没有……
+　想到这里，{ヒロイン}不由得笑了起来。
+
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs6^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　Sechs和Sieben。
+  玛斯塔是这么称呼她们的。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 zs7^2 20
+<BUSTUP NAME="zs7" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 zs7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　明明已经更新到第7代了，怎么一点儿进步都没有呢。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　比如……
+　{ヒロイン}退后一步，与Sechs和Sieben拉开一定距离，然后找准时机从她们两人之间穿过。
+
+她将刀子在指尖反转。
+刀柄向上，刀尖夹在指间……摆出一副投掷飞刀的姿势。
+
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「!!」
+
+<BUSTUP NAME="zs7" face="2" MODE="on" zoom="" ALIGN="right">//# zs7^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs7^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="2">//%w
+　两名假面少女发现{ヒロイン}的视线正望向伫立着的赛斯，顿时惊呆了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　如此一来会怎样……
+
+　透过夜色，{ヒロイン}展开双臂，对准赛斯投出了飞刀。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="zs7" face="2" MODE="on" zoom="" ALIGN="right">//# zs7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　距离赛斯最近的Sieben首先做出了反应。
+
+　飞刀笔直地向赛斯飞去，Sieben立刻挡在赛斯身前，挥动手中的刀子……
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　千钧一发之际，刀光一闪，半空中的飞刀被打落了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+这一刀堪称神技。
+可是，由于Sieben将所有的精神都集中在了那一击上，所以并未注意到{ヒロイン}的举动。
+
+<se id="1" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="#ffffff">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="傾僀儞幘憱2">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　掷出飞刀后，{ヒロイン}也紧随飞刀冲了出去，简直就像另外一把飞在空中的利刃。
+
+　凭借迅速奔跑和自身的体重产生的冲劲，{ヒロイン}发出一记等同于杀伤性武器的肘击……
+
+<se id="1" src="hardShock" mode="normal" time="" loop="off" effect="">//!se hardShock
+<CLEAR><BACKGROUND SRC="#ffffff">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="傾僀儞旾揝">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　{ヒロイン}的肘击准确无误地击中了毫无防御的Sieben的胸口。
+
+这一击打断了胸骨，甚至还伤到了肺部。
+Sieben顿时像断了线的木偶一样失去了全身的力气。
+
+<se id="1" src="hardShock" mode="normal" time="" loop="off" effect="">//!se hardShock
+<CLEAR><BACKGROUND SRC="#ffffff">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="傾僀儞偟傚偆偰偄">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　接着，{ヒロイン}又从下方用手掌向上击去。
+
+　Sieben已经因肘击而浑身痉挛，{ヒロイン}的手掌从下方击中了她的下颚，使她原本已经不再牢固的脖子猛然向上一震。
+
+　Sieben的假面被震得飞上了天，同时响起颈骨碎裂的声音。
+
+　……不过，这样的手感也大大出乎了{ヒロイン}的意料。
+
+<CLEAR><BACKGROUND SRC="schooltop3b">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　{ヒロイン}向旁边望去，只见Sechs已经毫无畏惧地出现在Sieben身后。
+
+　在倒地之前，Sieben已经变成了一具死尸。
+  {ヒロイン}将Sieben的尸体朝正在靠近的Sechs扔了过去。
+<se id="1" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　Sechs向旁边一闪身，轻松地避开了如木偶般飞过来的Sieben。
+
+　可是，趁Sechs动作停顿的空隙，{ヒロイン}已经转过身去，如脱兔一般奔跑起来。
+
+<CLEAR><BACKGROUND SRC="schooltop3c">//# schooltop3c 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　Sechs立刻看出了{ヒロイン}的目标。
+
+那是……她起初出现在屋顶时扔在地上的枪。
+银色的枪身在地面上反射着皎洁的月光。
+
+<CLEAR><BACKGROUND SRC="schooltop3b">//# zs6^2 19 schooltop3b 1
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　太愚蠢了……
+　看到对手做出意图如此明显的举动，Sechs不禁在面具后面发出嗤笑。
+
+　难道她以为把Sieben的尸体扔过来就能够阻止我的行动吗。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　对胜利的确信和对{ヒロイン}的轻视交织在一起……
+
+　Sechs将手中的刀子倒转过来，瞄准奔跑中的Ein的后背掷了出去。
+<se id="1" src="swings" mode="normal" time="" loop="off" effect="">//!se swings
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　就像Ein刚才所做的那样。
+
+<CLEAR><BACKGROUND SRC="schooltop3c">//# schooltop3c 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　可是，就在刀子脱手而出的一瞬间……
+  Sechs看到了Ein的眼睛。
+  原本应该背对着自己的，Ein的眼睛……
+
+<CLEAR><BACKGROUND SRC="schooltop3c">//# elen7b 20 schooltop3c 1
+<BUSTUP NAME="elen7b" face="" MODE="on" zoom="" ALIGN="right">//# elen7b 20 schooltop3c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　对于{ヒロイン}来说，Sechs投掷飞刀和她在那一瞬间的呼吸都在预料之中。
+
+　Sechs会像自己刚才那样掷出飞刀……{ヒロイン}早就已经知道了，这对她来说算不上什么战术。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　看着飞刀以预期的速度、沿着预期的轨道向自己飞过来……{ヒロイン}冷静地凌空将它一把抓住。
+
+<CLEAR><BACKGROUND SRC="僛僋僗巰朣">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="5">
+<BACKGROUND SRC="僛僋僗巰朣2">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="1">
+<CLEAR><BACKGROUND SRC="僛僋僗巰朣">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　Sechs仍旧保持着投掷飞刀的姿势。也许是出于震惊或恐惧的缘故……她的身体已经变得僵硬。
+
+　无论如何，在{ヒロイン}面前，这都是致命的破绽。
+
+<CLEAR><BACKGROUND SRC="schooltop3c">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　{ヒロイン}毫不犹豫地向Sechs掷出了飞刀。
+
+<se id="1" src="swings" mode="normal" time="" loop="off" effect="">//!se swings
+<CLEAR><BACKGROUND SRC="#ffffff">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="knife2">//# zs6^2 19 schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　飞刀再次划破夜空，沿着与刚才相同的轨道反向飞了出去。
+
+<se id="2" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="schooltop3b">//#! schooltop3b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　飞刀深深地刺中Sechs戴着面具的眉间，发出砍劈木柴般的声音。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="schooltop3">//# sice3 20 schooltop3 1
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　仅仅数秒……
+　方才还令赛斯感到无聊的拖沓战斗竟然瞬间便结束了。
+
+<BUSTUP NAME="elen7" face="2b" MODE="on" zoom="" ALIGN="left">//# elen7^2b 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2b 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　{ヒロイン}用怜悯的眼神瞥了一眼如两个坏掉的人偶一般躺在地上的少女，拾起了脚下的枪。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎呀哎呀，真没想到……」
+
+<BOX type="2">//%w
+看到事情的发展完全出乎自己的意料，连赛斯也震惊到无话可说。
+可是，虽然失去了两名护卫，他仍旧表现得十分从容。
+
+<BOX type="5">//%sR
+「……真是让我吃了一惊。
+没想到你还拥有如此之高的战斗力」
+
+<BUSTUP NAME="elen5" face="3b" MODE="on" zoom="" ALIGN="left">//# elen5^3b 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen5^3b 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我已经说过了。
+  我是来打倒你的」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呵，是吗」
+
+「但那是不可能的」
+
+<BUSTUP NAME="elen5" face="3b" MODE="on" zoom="" ALIGN="left">//# elen5^3b 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen5^3b 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……为什么？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为我投降了」
+
+<BOX type="2">//%w
+　赛斯若无其事地说着，从怀中慢慢掏出自己心爱的手枪，以夸张的动作扔在脚下。
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……就是这样。
+如此一来，我就不会再对你构成威胁了」
+
+「这样你还下得了手吗，Ein」
+
+<BUSTUP NAME="elen5" face="3b" MODE="on" zoom="" ALIGN="left">//# elen5^3b 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen5^3b 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　看到{ヒロイン}陷入沉默，赛司在心里窃笑不已。
+
+　这就是Zwei和Ein的差距。
+
+　与按照自己的意志战斗的Zwei不同，Ein只有在迫不得已的情况下才会杀人。
+
+按照命令杀人。
+为了不被杀死而杀人。
+Ein必须要靠着这样的狡辩才能保护自己脆弱的心灵不被杀人的恐惧和罪恶感所吞噬。
+
+　实际上，Ein的身上没有丝毫的意志力，她的精神要比常人脆弱的多。
+
+　正因如此，她才会受到Zwei的影响，被他轻易感化。
+
+不管她的战斗技巧多么优秀，都不值得害怕。
+她根本无法对毫无抵抗的人产生杀意。
+
+　正是有了这样的认知，赛斯才能在Ein的枪口前依然保持从容镇定。
+
+<BOX type="5">//%sR
+「好了，我要回去了」
+
+「今天晚上你让我很尽兴，Ein。
+下次见面的时候……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+正当赛斯准备迈出脚步的时候，
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+突然响起扳开枪机的声音。
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BUSTUP NAME="elen5" face="3b" MODE="on" zoom="" ALIGN="left">//# elen5^3b 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen5^3b 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　Ein的表情一如既往的平静……
+
+　可是，赛斯却感觉到一种难以形容的不协调感。
+
+<BOX type="4">//%sL
+「你真是个愚蠢的人……」
+
+「你真的以为可以看穿所有人的心吗」
+
+<BOX type="3">//%m
+Ein以从未有过的语气这样说着。
+不安，开始摧毁赛斯的自信。
+
+<BOX type="4">//%sL
+「我会杀了你」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……为什么？　你怎么能做到……」
+
+<CLEAR><BACKGROUND SRC="3670p3">//# 3670p3 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「因为我恨你」
+
+「我不会原谅伤害了那个人的你」
+
+<BOX type="3">//%m
+这时，赛斯注意到了。
+Ein冰冷的瞳孔里正透射出前所未有的意志之光。
+
+<BOX type="4">//%sL
+「所以，现在的我……可以杀死你，赛斯·玛斯塔」
+
+<CLEAR><BACKGROUND SRC="schooltop3">//# sice3 20 schooltop3 1
+<BUSTUP NAME="僒僀僗偁偣傝" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+切身体会到的绝望感侵蚀着赛斯的理性。
+3年前……被Zwei追赶至洛杉矶港之时感受到的，那种震惊与恐惧……
+
+<BOX type="5">//%sR
+「Ein，你……是认真的吗？」
+
+<CLEAR><BACKGROUND SRC="3670p2">//# 3670p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「不要叫我Ein」
+
+「我是{ヒロイン}。
+　这样被期望着，这样活着」
+
+「你是绝对无法理解的……」
+
+<CLEAR><BACKGROUND SRC="schooltop3">//# sice3 20 schooltop3 1
+<BUSTUP NAME="僒僀僗偁偣傝" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「混蛋!!」
+
+<BOX type="2">//%w
+赛斯狂叫起来。
+他在向超出他理解范畴并且毫无道理可言的现实抗议。
+
+<BOX type="5">//%sR
+「你以为这样做就会得到宽恕吗！？
+  你……为何一定要杀我!?」
+
+<CLEAR><BACKGROUND SRC="3670p2">//# 3670p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「应该不会得到宽恕吧」
+
+<BOX type="3">//%m
+　面对近乎疯狂的赛斯，{ヒロイン}用沉静而干涩的声音说道。
+  她的声音中充满了寂寥和悲伤。
+
+<BOX type="4">//%sL
+「和你一样，终有一天我也会堕入地狱」
+
+<CLEAR><BACKGROUND SRC="3670p1">//# 3670p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「也许一个人会感到寂寞，但还是请你先走一步吧」
+
+「我还要……和那个人再待一会」
+
+<CLEAR><BACKGROUND SRC="schooltop3">//# sice3 20 schooltop3 1
+<BUSTUP NAME="僒僀僗偁偣傝" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　在心里发出无声惨叫的赛斯扑向扔在地上的手枪。
+
+　可是……在曾经被称为Phantom、被称为Ein的最强少女，这种尝试毫无意义。
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right schooltop3 wide 255 elen7^3b 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="傾僀儞僒僀僗傪寕偮">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%m
+　是的，绝对……不会得到宽恕。
+
+<BOX type="3">//%m
+　因为，她了解神的爱，也明白神的引导……可是，她依然背弃了神。
+
+<CALC WORKNAME="3670" OPERATOR="1">//
+<A HREF="3980.txt" OPERATOR="">//~ 3980

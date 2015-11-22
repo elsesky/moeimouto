@@ -1,0 +1,147 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right roomC1 wide 255 crou^8 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="roomC1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　自宅のリビングで寛ぎながら、
+　クロウディアは、
+　一冊の赤い手帳に見入っていた。
+
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　日本国発行のパスポート……デザインの複雑さと印刷の精度では、見慣れた米国のものなど足元にも及ばない。
+
+　顔写真は楕円にトリミングされ、縁にぼかしがかかっている。偽造を防ぐためのパラノイア的な意匠。そのせいで、証明写真というよりは、瀟洒なポートレートのようだ。
+
+　そこに写っている顔は、クロウディアの見知っているものだった。
+
+　先日、会いに行ったあの少年。
+　写真の中の彼は、
+無表情ではあるが、
+穏やかで満ち足りた顔をしている。
+
+　廃工場で会った時のような……打ちひしがれたような表情を目に宿すのは、まだずっと後のことなのだ。
+
+　彼は今も、あの場所で、
+砂漠の冷気に耐えているのだろう。
+
+　発行されたのは2ヶ月前。
+　異国に旅するのは
+　初めての経験だったらしい。
+　生年月日の日付によると、
+　年齢は……
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# roomC1 1 crou^8 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　弟のロメロが家を飛び出し、
+　ギャング団に身を投じたのと、
+　ちょうど同じ歳だ。
+
+　アルコールも手伝って、固く封じ込めていた胸の奥のものが、封印の隙間から漏れ出てくる。
+
+<CLEAR><BACKGROUND SRC="1240x1">//# 1240x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　遠い記憶……暗い眼差しの底に獰猛な怒りを秘めた、まるで手負いの獣のようだった弟、ロメロ。
+
+だが小さい頃は、優しい子だった。
+喧嘩が苦手で、すぐ泣いて……
+
+　そのくせ、ろくでなしの父親が
+　クロウディアを殴ろうとすれば、
+　かならず身体で庇ってくれた。
+
+　そんなロメロを鍛えたのは、
+　貧しさと……
+　スラム街の弱肉強食の掟だった。
+
+　富と権力という解を導き出すための、セックスとドラッグと暴力の方程式。
+
+　その演算に明け暮れながら、
+若いロメロは成長していった。
+どこまでも強く、非情に、凶悪に。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# roomC1 1 crou^9 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　パスポートの写真の中の、
+少年の柔和な顔を、クロウディアは
+弟の面影に重ねてみる。
+
+　もし生まれ育つ国が違ったら……
+　あのロメロも、こんな穏やかな顔ができただろうか。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何だい？ そいつは」
+
+<BOX type="3">//%m
+バーで飲み物を用意していたリズィが、グラスを手に戻ってきた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou 20
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なかなか
+　ハンサムだと思わない？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　手渡されたパスポートを見て、
+　リズィは眉根に皺を寄せる。
+
+<BOX type="4">//%sL
+「……アタシ、東洋人の顔って
+　区別つかないんだけどね」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「しっかし、
+　呑気な顔してるな、このボウヤ。
+　喧嘩もしたことなさそうじゃん」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「この子に、人が殺せると思う？」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ハハ、冗談だろ。
+　虫も殺せそうにねぇよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そうね」
+
+<BOX type="2">//%w
+　リズィに返されたパスポートを、
+　クロウディアはもう一度、
+　まじまじと眺めた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やっぱり、そう思うわよね……」
+
+<A HREF="0079.txt" OPERATOR="">//~ 0079

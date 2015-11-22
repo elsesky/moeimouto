@@ -1,0 +1,293 @@
+<CLEAR><BACKGROUND SRC="Contena1">//# Contena1 1
+<WIPE EFFECT="fade" TIME="10">
+　翻身滚到一个集装箱后，我稍微松了口气……
+  这时，我注意到敌人的举动有些奇怪。
+
+　有这样绝佳的机会，却只开了两枪？
+　难道对方用的是单发射击的枪吗。
+
+　更奇怪的是，
+  子弹打的都是很低的位置。就好象只是在射击我的脚。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　对方好像没有要杀死我的意思……
+
+　突然，我的脑中闪过一个极为讽刺的残酷念头。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　这只是没有根据的空想。
+  应该不可能……怎么可能……
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我伏下身，匍匐着从集装箱的另一面爬了出去。
+
+　我必须要确认一下。
+  对方的位置我已经知道了。
+
+　我屏住呼吸，从一个隐蔽物爬到另一个隐蔽物，
+  朝着狙击手的所在地，谨慎地迂回前进。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 0320p1 mainL 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="0320p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+　侧腹的出血，
+  已经像瀑布一般无法抑制。
+
+　看起来，刚才的射击已经让伤口彻底裂开了。
+
+　接下来还要忍受多少枪呢。
+
+　尽管如此，她还是对强塞给自己这把枪的主人充满了感激。
+
+　这份痛楚，是主人的福音。
+
+顺着她内心的裂缝渗进的胆怯、迷惘……这份疼痛，将把这一切全部烧尽。
+
+　现在，主人再一次给予胆怯的她强大的力量，让她可以战至最后。
+
+　可是，
+  她已经再也不想扣动扳机了……
+
+<BOX type="4">//%w
+“还能做到”
+
+“我，还能战斗……”
+
+<BOX type="3">//%w
+不迷惘。
+不思考。
+能感受到的，只有这份痛楚。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　……看到了。
+　遮蔽物的后面，有什么人的背影在那里。
+
+　不要开枪……
+　这样想着，我举起格洛克，慢慢探出身子。
+
+　察觉到我的气息，对方翻过身来，
+  手上拿着一把不锈钢制的银色巨枪。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 255 255
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……当我们的枪口和惊愕的视线相对的时候，
+  时间突然停止了。
+
+　为什么？
+
+　为什么{ヒロイン}会在这里？
+
+<wait time="800">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="儖僈乕2楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay6">//#! bay6 1
+<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　像是为了打破这冻结的时间一样，新的枪声响了起来。
+　面前迸溅开的火花将我的意识拉回了战场，
+  我慌忙躲回到集装箱后面。　
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<BUSTUP NAME="sice4" face="" MODE="on" zoom="" ALIGN="left">//# sice4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Ein，你在发什么愣呢!?」
+
+<BOX type="0">//%w
+　赛斯!?
+
+<se id="1" src="儖僈乕4楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="600">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　我刚想探出头，一片弹雨就劈头盖脸地打了过来。
+
+「船来了，你在这里把他们截住!!」
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……是，主人……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　失算了。没想到这家伙亲自出马了。
+
+　虽然我现在想在这里与赛斯对决，可是也不能置{ヒロイン}于不顾。
+
+　要是他们两人一起发难的话，我……
+
+正如我想的那样，
+趁着我被赛斯的弹雨拖住的间隙，{ヒロイン}失去了踪影。
+
+　可恶。
+　用一发子弹……要怎么摆脱这样的困境？
+
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　与此同时……赛斯的鲁格仍在射击，
+  大口径子弹的怒号继续轰鸣着。
+
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="2" src="11_02_HB5楢幩" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="5">//%sR
+「唔啊啊啊啊!!」
+
+<BOX type="0">//%w
+　是莉兹。
+  她一边朝着赛斯疯狂扫射，一边向我这里突进。
+
+<BUSTUP NAME="sice4" face="" MODE="on" zoom="" ALIGN="left">//# sice4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　害怕了的赛斯也端起枪还击，样子极其狼狈。
+
+<se id="1" src="儖僈乕4楢幩" mode="normal" time="" loop="off" effect="">//!se 
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="4" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　穿过这些子弹，
+  莉兹一个倒地翻身，横着翻滚到我的旁边。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「蠢货!
+  你也太能逞强了吧!!」
+
+<se id="1" src="11_03" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　莉兹一边换着子弹，一边破口大骂。
+
+<BOX type="5">//%sR
+「全世界也找不出像你这样只带着一颗子弹就来打仗的傻瓜……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　突然，咆哮着的莉兹脸部一阵扭曲。
+
+　向下看去，才发现她的右小腿全是血。
+
+　应该是在冲向这里的时候中弹了……
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那家伙是一个人吗？」
+
+<BOX type="0">//%w
+「不，Ein也在……」
+
+<BOX type="5">//%sR
+「OK。
+  我来引开Phantom」
+
+「你去把赛斯干掉」
+
+<BOX type="0">//%w
+　赛斯……话说回来，这家伙人呢？
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我立刻向集装箱外探视。
+  赛斯已经不见了。
+
+　加上莉兹的话就是2对2，即是五成胜算。
+  赛斯已经没有绝对的优势了。
+  那家伙应该是想到这一点，自己逃跑了吧。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「快点去」
+
+<BOX type="0">//%w
+「可是你的脚……」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，那个小丫头还真是不太好对付呢」
+
+<BOX type="0">//%w
+　莉兹自嘲似地笑了笑。
+
+<BOX type="5">//%sR
+「不过，现在就要看你的了。
+  如果你干掉了赛斯，
+  那个人偶丫头也会停止行动」
+
+「我会在这里缠住她的，
+  你赶紧去杀掉那个混蛋」
+
+<BOX type="0">//%w
+　莉兹……
+　你要把自己的性命托付给我吗？
+
+<BOX type="5">//%sR
+「要守信用啊，Zwei」
+
+「好了，
+  速战速决，快点回来」
+
+<BOX type="0">//%w
+　我只是轻轻点了点头。
+　为了真正地感谢莉兹，
+  我不能浪费她争取到的时间。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="楁擇憱傝1" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　之后，我低着头从集装箱的后面跑了出去。
+
+<se id="2" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　左手的方向传来马格南子弹的咆哮声，
+
+<se id="3" src="11_02_HB5楢幩" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　与此相对的，是莉兹的枪发出的连射的轰鸣声。
+
+　{ヒロイン}，还有莉兹……
+　我不希望她们任何一个人受到伤害。
+
+　让我来尽早结束这一切吧。
+
+<A HREF="0340.txt" OPERATOR="">//~ 0340
+　

@@ -1,0 +1,100 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left rooftop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="rooftop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　晴朗，湿度18%，西北风，风速约10英里/时。
+
+　对于狙击来说是个绝佳的好天气。
+
+　我望向东北方向的邮政局大楼。
+
+　现在我所站着的地方，是洛杉矶时代杂志编辑部大楼的楼顶……也就是昨天从大礼堂的楼顶目侧到的，能够实施反狙击的狙击点。
+
+　再过1个小时，太阳的高度就将有明显的变化。
+　到那时，邮政局大楼将被这座编辑部大楼的阴影所覆盖。
+
+　……也就是说，这里从敌方狙击手的位置看来会处于完全的逆光之中。
+　这是为了与敌方狙击手进行狙击战所做的准备。
+
+　我将背着的枪盒放到地上，打开盒盖。
+
+<se id="1" src="15_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="僽儗僀僓乕2">//# 僽儗僀僓乕2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　静静躺在枪盒内等待出场的Blaser狙击枪，漆黑的枪身在阳光的照射下散发着冷酷的光泽。
+
+与普通的狙击枪不同，
+为了追求极致的性能，这把Blaser有着极其怪异的造型，看上去就像一只残忍的捕食昆虫。
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我找到适合摆出伏击姿势的地方，然后铺上毛毯。
+
+<se id="1" src="23_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1252x2">//# 1252x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　展开狙击枪前端的支架后，我抱着枪托趴在地上。
+
+　我将枪托底部固定在锁骨和上腕骨的接缝处，将可动垫固定在颊骨上。
+<se id="1" src="16_01" mode="normal" time="" loop="off" effect="">//!se 
+　确定好这个姿势后，我将枪托内藏着的支架拉了出来，调到合适的高度。
+
+这样一来，枪身就由3个支架支撑在地面上了。
+现在，匍匐卧倒的人体、水泥地面还有枪已经互相结合成了一个不可动摇的整体。
+
+　最后我又确认了一下太阳的高度，确认之后太阳光会不会照射到狙击镜里来。
+　因凸形镜面的表面反射太阳光而暴露自己位置的可能性……为零。
+
+　常规的准备结束了。
+  我取下狙击镜的镜盖，精心加工过的清晰镜头露了出来。
+
+　弹药盒里装着的，是Lake-City-Match-M852。
+　按照竞技比赛所需精度制成的0.308口径狙击枪子弹。
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+　我将子弹压入弹匣，然后前后推动滑盖将子弹推入弹仓。
+<se id="1" src="16_03" mode="normal" time="" loop="off" effect="">//!se 
+
+　一阵冷酷的机械音响起，
+  当滑盖再也推不动的时候，弹仓自动合上了。
+
+子弹上膛时死气沉沉的机械音，
+不禁让人联想到牢房大门关闭的声音，还有断头台的刀刃落下的声音。
+
+　我漫无目标地眺望了一下四周。
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　从楼顶上看到的景色，显得那么的陌生。
+
+眼睛所及之处都是林立的楼群。
+ 排列整齐的玻璃窗，只是冷冷地反射着阳光，根本看不到里面的人在做些什么。
+
+　从这里看去，现实与幻境的界限实在过于模糊，无法分辨。
+
+　这里是位于天空与地面之间的死亡孤岛。
+  周围只有乌鸦飞过。
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，只要从狙击瞄准镜里向外窥视，视野中的景色瞬间就会被放大。
+
+　这种事并不仅限于这里。
+　只要是被选择用来实施狙击的场所，不管是哪里，最后都会变成与世隔绝的、孤立的忘却之地。
+
+　在这与世隔绝的地方，我正伏着身，默默地等待着。
+　自己与世界的交点……只有狙击镜那硬币大小的镜口而已。
+
+<calc workname="gun08" operator="1" mode="global">
+<A HREF="1255.txt" OPERATOR="">//~ 1255

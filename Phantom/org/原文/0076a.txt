@@ -1,0 +1,387 @@
+<BOX type="0">//%w
+　ナイフの刃は切れないように、
+　カンバス生地の布を幾重にも巻きつけてあった。
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「その刃で、
+　わたしの身体に触れたら、
+　その日の訓練はおしまい」
+
+「いいわね」
+
+<BOX type="0">//%w
+　訓練は最初から、いきなり模擬戦だった。
+　だがナイフでなら、アインとは真剣勝負をしたこともある。
+　あの時は、なんとか勝てたんだ。
+
+　しかもあれから、身体はかなり鍛えている。それなりに自信はあった。
+
+「本気を出して、いいんだな」
+
+<BOX type="5">//%sR
+「どうぞ」
+
+<BOX type="0">//%w
+　それならば。
+　まず腰を落とし、身構える……
+
+　そう見せかけて、いきなり前に踏み込みながら、横薙ぎに斬りつけた。
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　まるで見透かしていたかのように、アインは一歩退がって身をかわす。
+
+<BOX type="5">//%sR
+「ナイフは
+　斬りつける武器じゃない。
+　突き刺す武器よ……」
+
+<BOX type="0">//%w
+　まだだ！
+　最後まで言わせずに、今度は身体ごとぶつかるようにして突進した。
+
+　届いた！
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　そう思った刹那、ナイフはアインの身体を素通りし……
+
+　わけも判らず、
+　勢い余ってアインの懐に転がり込みそうになったところを、
+　襟首を掴まれ、止められた。
+
+　喉に押しつけられた、アインのナイフの感触。
+
+　ほんの僅かに身体を揺らしただけで、
+　アインはこちらのナイフを避けたのだ。
+
+<BOX type="5">//%sR
+「ナイフコンバットの鉄則は、
+　まず大振りを避けること」
+
+「動作はなるべく小刻みに。
+　最低限の動きで済ませなさい」
+
+<BOX type="0">//%w
+　冷たく、鋭く、それこそナイフのような口調だった。
+
+　突き飛ばされて、もとの位置まで戻される。
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「つねに刃の位置を、敵の身体と、
+　自分の身体を結ぶ直線の上に
+　保つよう心がけて」
+
+<BUSTUP NAME="elen2" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　言い終えるや否や、アインのナイフが閃いた。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　のけぞって躱わしたところに、間髪入れず追い打ちが続く。
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　二撃、三撃……体捌きだけでは避けきれない。
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ナイフで弾いて応戦するが、ますますスピードは速くなる。
+
+<se id="2" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　もうこっちのナイフは、襲いかかってくる刃を防ぐだけで手一杯だった。
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　まさか素手で振り払うわけにもいかない。
+
+<BUSTUP NAME="elen2" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そう、その調子。
+　ナイフは武器であると同時に
+　楯なのよ」
+
+「だから……」
+
+<BOX type="0">//%w
+　アインの手の中で、ナイフの柄がくるりと回転した。
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　
+　一瞬で逆手に持ち替えたナイフの峰を、
+　アインはこちらのナイフの峰に絡めて、ぐっと真横に振った。
+
+<BOX type="5">//%sR
+「……ナイフ同士の戦闘は、
+敵のナイフを外側に弾き出すことで
+勝負が決まる」
+
+<BOX type="0">//%w
+　身体が右に引っ張られ、背中と脇腹をアインの正面に晒してしまう。
+　しまった……
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="factory4b">//#! factory4b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　身体を固くした瞬間に、脇腹に左拳を見舞われた。
+
+　身構えたにも関わらず、効く……
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「右手のナイフで、
+　相手のナイフを右に払えば、
+　左拳が決め手の一撃になるわ」
+
+「逆に、右から左に払うなら……」
+
+<BUSTUP NAME="elen2" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さらにアインは、刃が絡み合ったままのナイフを左に振る。
+　無理矢理、姿勢を裏返されて、今度は体勢がまるっきり逆になった。
+
+　まずいと思った瞬間には、アインの脚が目の前に……
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="factory4b">//#! factory4b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　頭の中で星が散り、気がつけば仰向けに倒れていた。
+
+　顎の下にクリーンヒット。
+　手加減抜きでやられていたら……
+　頸椎も顎骨も一度にバラバラになっていた。
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……こんな風に、
+　右のサイドキックが有効よ」
+
+<BOX type="0">//%w
+　アインは汗ひとつかいてない。全て筋書き通りとでもいう風に、
+　落ち着き払った口調で続ける。
+
+<BOX type="5">//%sR
+「正面切って戦う場合、
+　ナイフ自体の役割は
+　フェイントと防御が主になるわ」
+
+「だから打突系の攻撃も積極的に
+　活用すること。いいわね」
+
+<BOX type="0">//%w
+　だめだ、手も足も出ない。
+　初めての時は、まったく手加減されていたのだ。
+　悔しさで頭の中が熱くなる。
+
+　今度こそ……!!
+　飛び起きた勢いのままに、
+　取り澄ましたアインの顔めがけ、下からナイフを繰り出した。
+
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="factory4b">//#! factory4b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　またしても空振り。
+
+　空を切ったその手首を、細い指で掴まれ、
+　胸の真ん中に右肩を突き当てられ……
+　理解できたのは、そこまでだ。
+
+<se id="1" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="砂漠大回転">//#! factory4b 1
+<WIPE EFFECT="fade" TIME="0">
+　次の瞬間には、砂漠の景色が一回転していた。
+
+<se id="2" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="factory4b">//#! factory4b 1
+<WIPE EFFECT="fade" TIME="0">
+　どうして屋外で訓練しなきゃならなかったのか、ようやく分かった。
+
+　コンクリート敷きの床で、こんな風に投げ飛ばされていたら……
+　とても無事じゃ済まなかった。
+
+//> left sunset wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　結局は、アインに一矢報いるよりも、身体の限界が来る方が早かった。
+
+　いったい今日だけで何回、殴られ、蹴られ、投げ飛ばされたんだろう？
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　次の日も、そのまた次の日も……
+　ナイフどころか指一本、アインには届かなかった。
+
+　何となくわかった。
+　こういう近接戦闘は、アインがもっとも得意とするところなんだろう。
+
+　繰り出される技の多彩さには、ただもう舌を巻くばかりだった。
+
+　間合いの外と思った次の瞬間には、もう内懐に滑り込まれ、
+　絞め技や関節技に持ち込まれる。
+
+　変幻自在、まさにそんな言葉がふさわしい。
+
+　体格では間違いなく、こちらに分があるというのに、
+　そんなものはハンディキャップにも何にもなっていない。
+
+　次元が違う……
+　そう思い知ってからは、もう真っ向から勝負しようとはせず、
+　ただ相手の技を盗むことだけに専念した。
+
+　見覚えのない技でやられたら、けっして見逃さず目に焼き付けて……
+　そして隙あらば、同じ技を真似て反撃する。
+
+　当然、真似事で通用するわけがない。
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　あっさりと躱わされ、さらに手痛いカウンターをくらう羽目になる。
+
+　だがそうすることで、真似したもとの技に対する反撃法も理解できた。
+
+　身体の傷や痛みは意に介さず、ただ目を見開いて、脳裏に刻む……
+　それが、すべてだ。
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　いったい何日目の訓練、何回目の模擬戦だっただろうか。
+
+　こちらが繰り出したナイフの下をくぐり抜け、
+　アインは背負い投げを仕掛けてきた。
+
+　胸ぐらを掴まれ、肩の上に巻き込むようにして引っ張られたその時……
+
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+　まったくの偶然だった。
+　日々の訓練でボロボロになっていたシャツの布地が、
+　胸元で裂けてちぎれたのだ。
+
+　アインの投げ技は空振りに終わり、バランスを崩したまま、
+　彼女は背中をこちらの胸に押しつける姿勢になった。
+
+　チャンスだ!
+
+<CLEAR><BACKGROUND SRC="0076p1">//# 0076p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　体勢を立て直す暇を与えず、アインの両肩を下から羽交い締めにする。
+
+　このまま、手首を頭の後ろに廻せば……
+
+　何かが鼻をくすぐった。
+
+　錆びた鉄骨の臭いとも、突き刺すような硝煙の臭いとも違う。
+　この場にはまったくそぐわない、どこか柔らかい香り……
+
+　アインの、髪の匂いだった。
+
+　……まったく場違いな感慨だが、
+　そのとき、はたと気がついた。
+
+　肘に挟んだアインの腕の、ぎょっとするような細さ、なめらかさ。
+
+　いま、締め上げているのは……
+　たしかに、優秀な殺し屋なのかもしれないが、
+　それ以前に、年下の女の子なんだ。
+
+　こめかみに鈍い痛みが走り、我に返った。
+
+<BOX type="5">//%sR
+「ナイフを持たせたまま
+　絞めに持ち込んで、どうするの」
+
+<BOX type="0">//%w
+　羽交い締めにされたアインは、そのまま肘を曲げて、
+　ナイフの切っ先で頭を小突いてくる。
+
+　なんてザマだ。
+　最後の決め手の場面で、こんな馬鹿馬鹿しいミスをするなんて……
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……すまない」
+　
+　恥ずかしくて、そのぐらいしか言葉が出てこなかった。
+　真面目にやってないと思われても、仕方がない。
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「惜しかったわね」
+
+<A HREF="#分岐" OPERATOR="0076d=1">
+<A HREF="#スルー" OPERATOR="">
+<MARKER NAME="#分岐">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079
+<MARKER NAME="#スルー">
+「でも、丁度いい区切りかも。
+　そろそろ別の訓練も
+　始める頃合いだったし」
+
+<BOX type="0">//%w
+「……今度は、何だ？」
+
+　何だっていい。
+　この格闘訓練よりはまだマシだろう。
+
+<BOX type="5">//%sR
+「もう少し、
+　銃器に馴れておかないとね」
+
+「前と同じリボルバーか、それともオートマチックか……どうする？」
+
+<CALC WORKNAME="0076a" OPERATOR="1">//
+<BOX type="0">//%w
+<CHOICE HREF="0076b.txt" TEXT="＊リボルバー" OPERATOR=""></A>//{ ＊リボルバー 0076b ＊オートマチック 0076c
+<CHOICE HREF="0076c.txt" TEXT="＊オートマチック" OPERATOR=""></A>//{ ＊リボルバー 0076b ＊オートマチック 0076c
+c

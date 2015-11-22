@@ -1,0 +1,187 @@
+　但是，记忆犹新的、伤感的痕迹，依旧残留在心底。
+
+　恐惧与哀伤。
+　这应该是早已被舍弃的感情了……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「那个……」
+
+//<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+「你会做梦吗？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为什么这么问？」
+
+<BOX type="0">//%w
+「如果在梦中见到从没见过的景色，
+  遇到从未遇到过的人……」
+
+「说不定，那就是我过去的记忆吧」
+
+<BOX type="5">//%sR
+「你见到那样的梦了么？」
+
+<BOX type="0">//%w
+「不……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　是怎样的的梦呢。
+　这样模糊的印象没有什么意义，
+　至少……让我想起哪怕一个关键词也好。
+
+「不知道，记不太起来了」
+
+「不过……」
+
+ 虽然没有证据，
+  但是，那个梦的内容，的确比自己现在的生活更加具有现实的味道。
+ 说不定，比自己与Ein交谈的这个瞬间都要更有现实感……
+
+「这种事，你没有过吗？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　Ein没有回答。
+
+　对于梦这样无聊的话题，
+  Ein应该是不会作出回应的吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我摇摇头，甩掉余存的倦意，换上出门的衣服。
+
+　紧急任务……是什么呢。
+　突然决定在夜间执行……真是乱来啊。
+
+<BOX type="5">//%sR
+「偶尔，会梦到颜色」
+
+<BOX type="0">//%w
+「哎？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不经意间背后传来这样的声音，吓了我一跳。
+　没有错，这是Ein的声音。
+  不过……
+
+「……你说颜色？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对，颜色」
+
+「还有……风」
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「青色，白色，还有翻滚的绿色……除此之外，其他什么都没有的地方」
+
+「但是，让人感到刺眼的明亮，
+　……还吹着风。
+　非常强烈的风」
+
+<BOX type="0">//%w
+「那是，你的梦？」
+
+<BOX type="5">//%sR
+「对」
+
+<BOX type="0">//%w
+　那是怎样的景色呢。
+　我试着在心里描绘这样的景象，
+  但是做不到，画出来的东西太过模糊了。
+
+「是你的家乡吗？　那景色」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「就算是的话，又能怎样？」
+
+<BOX type="0">//%w
+　仿佛要舍弃一切那样，Ein用冰冷的、硬邦邦的声音说道。
+
+　这样的一句话，就像给我当头泼了一盆冷水，打断了我的遐想。
+
+「你不想去确认一下吗？」
+
+<BOX type="5">//%sR
+「你，想去确认吗？」
+
+<BOX type="0">//%w
+「这个……」
+
+　当然的吧。
+  在我这么说之前，Ein的话打断了我。
+
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「回想起自己的家乡，
+  然后呢，要怎么做？」
+
+「你认为，那里会欢迎杀人犯的归来吗？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我无言以对。
+
+　……的确如此。
+　自己并没有考虑到这一点。
+
+　即使取回丢失的记忆，
+  早已成为杀人犯的自己，也已经不可能回去了。
+
+　不应该是这样的吧……
+　结果，自己只是背负了更加凄惨的悔恨吗。
+
+　既然走到这个地步，索性就把这一切都忘记吧，
+　说不定那样做反而会比较幸福。
+　可是……
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「准备好了？」
+
+<BOX type="0">//%w
+「……嗯」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　对了，还有任务在等着。
+　现在不是像这样不慌不忙地苦恼的时候。
+
+　任务……
+　现在，只有这种持续不断地、充满紧张感的东西，
+  才能够给予我甜美的安心感。
+
+<A HREF="0175.txt" OPERATOR="">//~ 0175

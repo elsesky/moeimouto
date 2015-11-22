@@ -1,0 +1,77 @@
+<BOX type="0">//%w
+　建物を出ていくクロウディアを見送りながら、彼女の話を反芻する。
+
+　インフェルノ……犯罪集団を束ねる大組織。
+
+　そして、その中で“ファントム”という称号で呼ばれる、
+　最強の暗殺者……
+
+　それが、あのアインだっていうのか？
+
+　どれもこれも、にわかには信じられない話だが、それを言うなら、
+　いま自分が置かれている環境だって、もう充分に現実離れしている。
+
+　……本当にここは、現実の世界なんだろうか？
+
+　おそろしく長くてリアルな、
+　それでいて、目が覚めたら何も思い出せないような……
+　そんな夢の世界にいるんじゃないのか？
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left sunset wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ひときわ長い、一日だった。
+　アインがいないと、時の経つのが遅い。
+
+　そういえば、ここには時計がない。
+　代わりに、時計のような正確さで下されるアインの指示が、
+　一日の節目を区切ってくれていた。
+
+　訓練にも、身が入らない。
+
+　そうだ。こんな風に、日が沈んでいくのを眺めて過ごすのは、
+　もうずいぶん久しぶりの事だ。
+
+<CLEAR><BACKGROUND SRC="nightfield">//# nightfield 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　夜は、荒野を渡る風の音。あとは……沈黙。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="radioCH" mode="normal" time="" loop="off" effect="">//!se radioCH
+　一人でラジオの放送を聞いてみる。
+<se id="1" src="radioCH2" mode="normal" time="" loop="off" effect="">//!se radioCH2
+　もう、ほとんど内容が聞き分けられるようになっていたが、
+　今夜はなぜか、いくら耳を傾けていても、言葉が頭に入ってこない。
+
+　日々の単調な反復が乱されると、ここまで調子が狂うものだろうか。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// crou2 20
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# factory 1  crou2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　クロウディア＝マッキェネン……
+　何もかも、彼女が唐突に訪れたせいだろう。
+
+<CLEAR><BACKGROUND SRC="room1d">//# room1d 1 dummy 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　時間を持て余したので、早々と寝ることにした。
+　もっとも、本当にいつもの就寝より早い時刻かどうかはわからない。
+
+　……やはり、なかなか寝付けない。
+
+　闇に目を凝らし、沈黙に耳を澄ませて、待った。
+　……アインは帰るだろうか。それとも、朝の訪れの方が先か？
+
+<A HREF="0070.txt" OPERATOR="">//~ 0070

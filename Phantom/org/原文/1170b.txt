@@ -1,0 +1,153 @@
+//> left kazino wide 255 godo^3 20 siga^2 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="kazino">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……依然、梧桐の快勝は続いている。
+　しばらくこの場を離れる様子はない。
+
+　今のうちに、室戸の様子も確かめておくべきか。
+
+<CLEAR><BACKGROUND SRC="bar">//# dummy 19 dummy 20 bar 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そう思ってバーを覗いてみると、
+　くだを巻いているはずの室戸の姿がない。
+
+　即座に数度、体温が冷えた。
+
+　内心の緊張を、緩んだ笑顔で隠して、バーテンダーに声をかける。
+
+「あのゥ、ここに連れが休んでたハズなんですが……」
+
+　わざと、たどたどしい英語で尋ねると、
+　それで観光客と思いこんだのだろう。
+　バーテンは訳知り顔で、
+
+<BOX type="5">//%sR
+「ああ、あの日本人の方ですね？」
+
+<BOX type="0">//%w
+　笑顔を交えて、そう応じた。
+
+<BOX type="5">//%sR
+「お部屋に戻られたようですよ。
+　若い御婦人を伴って」
+
+<BOX type="0">//%w
+　緊張が戦慄へと変わる。
+　
+　やられた……
+
+　慌てず騒がず、バーテンに礼を言ってから、カジノに戻る。
+
+<CLEAR><BACKGROUND SRC="kazino">//# kazino 1 godo^3 20 siga^2 19
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# kazino 1 godo^3 20 siga^2 19
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# kazino 1 godo^3 20 siga^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　去り際に一瞥したところ、依然、梧桐はギャンブルに夢中になっていた。
+　当然、志賀も動かない。
+
+　こいつらの心配はいい。これだけの人混みの中で、
+　しかも注目を浴びていれば、ある意味では安全だ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hotel0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="hotel0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　カジノを出て、足早にロビーを横切り、エレベーターに乗る。
+
+<se id="1" src="elevator" mode="normal" time="" loop="off" effect="">//!se elevator
+<CLEAR><BACKGROUND SRC="erebeter3">//# erebeter3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　このホテルに、梧桐たちは3人とも個室をとっている。
+　室戸の部屋は……9階、17号室。
+
+　誰もいないエレベーターケージの中で、ジャケットの前をはだけ、
+　ホルスターのストラップを外す。
+
+“若い御婦人を伴って……”
+
+　迂闊だった。
+　
+<CLEAR><BACKGROUND SRC="erebeter2">//# erebeter2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　敵の目的が、ヤクザのインフェルノ加盟を阻止することだとすれば、
+　直に梧桐を狙わなくても、他に手段はいくらでもある。
+
+　たとえば油断した側近を一人ずつ血祭りにあげ、
+　怯えた梧桐が日本に逃げ帰るよう仕向けたっていい。
+　
+　むしろ事情の解っていない舎弟たちの方が、襲う側としてはやりやすい。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="pinpon" mode="normal" time="" loop="off" effect="">//!se pinpon
+<CLEAR><BACKGROUND SRC="erebeter">//# erebeter 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　軽やかな電子音とともに、エレベータが9階への到着を告げる。
+
+　扉が開いたその先は、戦場と思っていい。
+
+<CLEAR><BACKGROUND SRC="passage3b">//# passage3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　廊下は無人だ。
+　煌々と照明されてはいても、カジノとはうって変わった静寂が、
+　カタコンベにいるような錯覚を与える。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　917号室は……ほぼ、廊下の突き当たり。
+
+　早足に、それでも足音に注意して、静寂の廊下を渡る。
+
+<CLEAR><BACKGROUND SRC="door917">//# door917 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　917号室の前に立った。
+
+　中から、人の気配は伝わってこない。
+
+　つまり中にいる人間は、死んでいるか、
+　あるいは気配を殺して待ち受けているということだ。
+
+<se id="2" src="ドアノブ" mode="normal" loop="off">
+
+　細心の注意で、ノブに触れ、回す。
+
+　もう既に判りきっていたことだが、やはり鍵はかかっていない。
+
+　ノブが回りきったところで、突き飛ばすように扉を開けた。
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se door4
+
+<CLEAR><BACKGROUND SRC="hotel5">//# hotel5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　床に転がり、銃を抜き、
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　室内にくまなく視線を巡らす……
+　その3つを同時にやってのけた。
+
+<A HREF="1170c.txt" OPERATOR="">//~ 1170c
+
+
+
+
+<A HREF="1170c.txt" OPERATOR="">//~ 1170c
+<A HREF="1170d.txt" OPERATOR="">//~ 1170d

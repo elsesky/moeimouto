@@ -1,0 +1,462 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right Inchurch6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="Inchurch6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　今日一日、礼拝堂の静寂は、
+　いつにも増して……
+　まるで世界と切り離されているかのようだった。
+
+　いつもなら、距離の隔たった校舎の活気が、風に乗って届くこともあったが……
+
+　だが今日は、
+　試験前日の日曜日だ。
+　学園はまったくの無人である。
+
+　校庭や体育館で、曜日を問わず行われる部活動の練習も、今日ばかりは、ない。
+
+　美緒を解放した、その足で……
+　{ヒロイン}はこの場所に赴き、そのまま時を過ごしていた。
+
+<CLEAR><BACKGROUND SRC="Inchurch4">//# elen7^3 20 Inchurch4 1
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20 Inchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　この静寂の空間は、
+　いつも彼女を癒してくれた。
+　寂しさも、不安も、
+　心から洗い流してくれた。
+
+　だから、時を待つのであれば、
+　少しでも長く、この静止した空気に身を浸していたかった。
+
+　ステンドグラスから差し込む陽光は、じりじりと、緩やかに引き延ばされながら床を滑り……
+　いつしか斜陽の朱を帯びて、礼拝席を長く横切るまでになっていた。
+
+　間もなく、キャルはやってくる。
+　最後にもう一度、祈っておこう。
+　{ヒロイン}は祭壇の前に赴き、
+　恭しく膝をついた。
+
+<CLEAR><BACKGROUND SRC="3010p2">//# 3010p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+　主よ……お赦し下さい。
+
+　わたしは大切な人を謀りました。
+
+　わたしは憎しみに
+　胸を焦がしました。
+
+そして今また、あなたの愛を拒み、
+あなたの導きに背を向けて……
+人を殺めんとしています。
+
+　奈落へと堕ちる我が魂を、どうかサタンからお守りください。
+
+　ここより旅立つ全ての魂が、
+　どうか御許に召されんことを
+
+　ここに残る全ての者が、
+　いつか楽園に導かれんことを
+
+　もし、
+　これより集う者たちの罪科が、
+　あなたの愛を阻むなら、
+
+　すべての咎は、どうか、
+　わたしに、お与えください。
+
+　七つの地獄を巡る贖罪が、
+　永劫に及ぼうと、
+
+　もう、わたしは恐れません……
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="ドカ急減速停止" mode="normal" time="" loop="off" effect="">//!se accel
+<BACKGROUND SRC="school1a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　篠倉学園の校門前で、
+　キャルはバイクを停めた。
+
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="" mode="fadeout" time="20">
+<BOX type="2">//%w
+　自分を捨てた{名}が憎いのか？
+　{名}を奪ったアインが憎いのか？
+
+　もう、どうでもいいことのような気もする。
+
+　昨夜、美緒に語った言葉は、思えばキャル自身に向けても良さそうなものだった。
+
+　{名}に、アイン……
+　あの二人に安息の場所はない。
+　地の果てまで追われ、狩り立てられるだろう。
+
+　この楽園のような国にいれば、誰であれ幸福を分け与えられるはずなのに、過客の二人には、それさえも叶わない。
+
+　キャルでなくても、誰かが殺す。
+　生かしておけぬほど憎いとしても、捨て置けば済むことなのだ。
+
+　手ずから殺す必要が、
+　どこにある？
+　この身を憎しみに焼く必要が、
+　どこにある？
+
+　美緒に、憎むことの虚しさを説いておきながら、なぜキャル自身は赦せないのか？
+
+　それは……
+　キャルが一人だからだ。
+　赦せば、今日までの
+　すべてが嘘になるからだ。
+
+　この2年、キャルが何を求め、
+　何に飢え、
+　何を想って泣いてきたか、
+　誰一人として、知る者はいない。
+
+　やがて時が経てば、今日まで
+　キャルが過ごしてきた時間は、
+　誰の記憶にも残らないまま、
+　すべてが忘れ去られるだろう。
+
+　たった一人で生きてきた自分など、いなかったも同然なのだ。
+
+　今日までの涙も、苦痛も、すべてが無かったことにされてしまう。
+
+　それだけは、
+　耐えられない。許せない。
+　あまりにも、フェアじゃない。
+
+　誰かの胸に、自分という存在を刻み込むことができるとすれば、
+
+　憎み、傷つけ、恐怖させる……
+　ただそれだけしか、
+　キャルは術を知らない。
+
+　だからそのように、生きてきた。
+
+　今から臨む決闘も……
+　勝とうが、負けようが、
+　実のところは、どうでもいい。
+
+　ただ、{ヒロイン}が恐怖し、{名}が悲しみに身を捩るほど、戦いが熾烈であればいい。
+
+　生き延びた者は、
+　今日の日のキャルを、
+　決して忘れることなく憎み、
+　恐怖し続けるだろう。
+
+　望むところは、それだけだ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　時間だった。
+
+　最後にバックミラーを覗き、
+　自分を確かめる。
+
+　鏡の中の少女は、
+とても見ていられない面相だった。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“馬鹿野郎……”
+
+<BOX type="2">//%w
+　そうキャルは、
+　自分自身に檄を飛ばす。
+
+<BOX type="5">//%sR
+“そうじゃないだろう？
+　ファントムは。ちゃんと
+　死神の顔をしていけよ……”
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　胸に溜まったものの中から、
+　ありったけの凶々しいものを
+　集めて口元に装うと、
+　キャルは校庭に入っていった。
+
+<bgm src="" mode="fadeout" time="30" loop="on">//> right 3805p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="3805p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+
+//> right 3805p1 wide 255
+<se id="1" src="礼拝堂開ける" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BACKGROUND SRC="3805p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="ドライ歩き3" mode="normal" loop="off">
+
+//> right INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「正確ね」
+
+<BUSTUP NAME="drei3" face="2" MODE="on" zoom="" ALIGN="left">//# drei3^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei3^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「待たせちゃ悪いと思ってね」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　祭壇の前で、二人は対峙した。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="left">//# drei3^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「申し合わせるほどの、
+　ルールはないよな」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen7^2 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「そうね」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei3^2 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei3" face="2" MODE="on" zoom="" ALIGN="left">//# drei3^2 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「だが、脈絡なく始めるってのも、
+　芸がない」
+
+<BOX type="3">//%m
+　そう言ってキャルは、
+　懐から取り出した懐中時計を、
+　祭壇の真ん中に置いた。
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　指先で弾いて蓋を開けると、
+　オルゴールのか細い調べが、
+　重い沈黙の中で囁くように、
+　演奏を始める。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei3^3 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="left">//# drei3^3 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「曲が終わったら、始めよう」
+
+「それまでに、祈っとくんだな」
+
+<CLEAR><BACKGROUND SRC="Inchurch1">//# Inchurch1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　後ろ足に、祭壇から退くキャル。
+　{ヒロイン}もそれに倣って、距離を取る。
+
+　キャルは神父室の前に。
+　{ヒロイン}は聖歌隊席の傍らに。
+
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　在りし日の賛美歌の
+　残響のように……
+　旋律は、細く、優しく、
+　薄闇の世界を満たしていく。
+
+　幾度となく聞いて、キャルの鼓膜に刻み込まれた、名も知らぬ曲。
+
+　だが、この曲を聞かせてなお、
+まだ生きているのは、キャルにこの時計を買い与えた男だけだ。
+
+　だが……
+
+<BOX type="5">//%sR
+「我に来よと主は今
+　優しく呼び給う」
+
+「などて愛の光を
+　避けてさまよう」
+
+<CLEAR><BACKGROUND SRC="Inchurch4">//# drei3^4 19 dummy 20 Inchurch4 1
+<BUSTUP NAME="drei3" face="4" MODE="on" zoom="" ALIGN="left">//# drei3^4 19 dummy 20 Inchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+“……？”
+
+<BOX type="3">//%m
+　細いメロディに、囁くような歌唱がそっと乗せられるのを聞いて、
+キャルは眉を顰めた。
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen7^5 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「帰れや……我が家に
+　帰れや……と
+　主は今、呼び給う」
+
+<BOX type="2">//%w
+　歌う{ヒロイン}も、当然、キャルの戸惑いに気づきはしなかった。
+　彼女はただ、聞き知った旋律を耳にして、つい歌詞を唇に昇らせたに過ぎない。
+
+<BOX type="5">//%sR
+「疲れ果てし旅人
+　重荷を下ろして」
+
+「来たり憩え、我が主の
+　愛のみもとに」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　賛美歌、第517番……
+『Jesus Is Calling』
+それが主の慈愛を讃える曲だったとは、キャルには知る由もなかった。
+
+<CLEAR><BACKGROUND SRC="INchurch7">//# INchurch7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「帰れや……我が家に
+　帰れや……と
+　主は今、呼び給う」
+
+「迷う子らの帰るを
+　主は今、待ち給う」
+
+「罪も咎もあるまま
+　来たりひれ伏せ」
+
+<BOX type="2">//%w
+　高く、細く、粛々と、
+　オルゴールは旋律を奏でる。
+　まるで秘めやかな
+　宇宙の鼓動のように……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei3^4 19 INchurch4 1
+<BUSTUP NAME="drei3" face="4" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei3^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+<bgm src="calling" mode="fadeout" old="" time="70" loop="on">//$ calling.swa 255 50
+　そのリズムが、
+　ゆるやかに鈍りはじめる。
+　曲の終わりが……近い。
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# dummy 19 elen7^5 20 INchurch8 1
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# dummy 19 elen7^5 20 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「帰れや……我が家に
+　帰れや……と
+　主は今、呼び給う」
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# INchurch1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　そして……静寂に世界が凍る。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<WIPE EFFECT="fade" TIME="20">
+<CLEAR><BACKGROUND SRC="INchurch4">//#! INchurch4 1 drei3^3 19
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei3^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch8">//#! INchurch8 1 elen5^4 20 dummy 19
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="0">
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+　だが……
+　スコーピオンの咆吼よりも、
+　アゥグの哄笑よりも、
+
+　なお速く轟いた一発の銃声が、
+　祭壇の懐中時計を打ち砕いた。
+
+//> left INchurch1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　交差する筈だった銃口が、同時にこっちを向いて硬直した。
+
+　間に合った……
+
+　だが、そんな安堵も束の間、
+　こちらに一言も発する暇を与えずに、ふたたび二人は動きはじめていた。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　キャルがアゥグを構え直し、{ヒロイン}が身を翻す。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　薄闇を薙ぎ払う5.56mm高速弾の一掃射を、
+　一瞬早く側廊に飛び込んだ{ヒロイン}は、柱の影でやり過ごした。
+
+　初弾での必殺を逃したキャルもまた、
+　迷うことなく背後の側廊へと身を躍らせる。
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　刹那の遅れで、32口径の銃弾雨もまた、キャルの身体を捉え損ねた。
+
+<se id="3" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　信徒席の列を間に挟み、
+　左右の側廊から交わされるフルオート射撃の応酬。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ステンドグラスの光の中を、死の旋風が乱れ飛ぶ。
+
+　始まってしまった……
+
+　吼え猛る銃声の前に、もう言葉は用を成さない。
+　止める手段は、ただひとつ。
+
+　汗の滲んだ掌の中に、{銃}の重みが、ずっしりとのしかかる。
+
+<A HREF="3810.txt" OPERATOR="3800=1">//~ 3810
+<A HREF="3720.txt" OPERATOR="">//~ 3720

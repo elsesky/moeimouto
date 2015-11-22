@@ -1,0 +1,241 @@
+　不行……
+　这件事不能交给{ヒロイン}。
+
+「凯尔的事，就交给我吧」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　每次有疑问的时候，她都会这么做。这一次也不例外。
+  {ヒロイン}无言地对我投来仿佛能看穿一切的锐利目光。
+
+　别对凯尔出手……
+　现在无论自己说什么，{ヒロイン}都不会接受这个请求。
+
+「你……不是要去准备逃跑的事吗？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「上周我什么都没干，把所有的重任都交到了你一个人身上……」
+
+　在想着如何辩解的时候，我渐渐察觉到了自己内心的真实想法。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 3240p3 1 
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="3240p3">//# dummy 20 3240p3 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　上周发生在礼拜堂的那一幕，在我的脑中重现。
+
+　如果现在让{ヒロイン}一个人去的话……自己就只能眼睁睁地看着她与凯尔拼个你死我活。
+
+　这将是最坏的结果，光是想想就让自己不寒而栗。
+
+　即便和凯尔的对决已经是不可避免的了，我也不想将它托付给{ヒロイン}。
+
+　和这样的真心话相比，自己口中所说的辩解之言是多么的可笑啊。
+
+<CLEAR><BACKGROUND SRC="Jroom2">//# elen7^2 20 Jroom2 1 
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 Jroom2 1 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}只是沉默地望着虚空。
+　从她那毫无表情的侧脸上，根本窥测不出她的心中所想。
+
+<BOX type="5">//%sR
+「我之前也曾问过你……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你会向她开枪吗？」
+
+<BOX type="0">//%w
+　一反常态的、尖锐的语气……
+　自己的身体仿佛被在场的空气禁锢住了一样。
+
+「……会的」
+
+　我的回答很不自然地慢了一拍。
+　单凭这个冷不丁提出的问题……我根本无法推测出{ヒロイン}的意图。
+
+　之前在礼拜堂与凯尔相遇后，我也曾这样问过自己。
+
+　这一次，自己不能逃避抉择。
+
+　必须要开枪。
+　这关系到美绪的安危。
+
+　救出美绪、逃离日本……这是我们如今唯一的选择。
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「我会开枪的……」
+
+　像是辩解一般，我再次这样说道。
+
+　我面向{ヒロイン}，坚持着自己的主张……不管多么烦恼，自己终究要做出抉择。
+
+　在被凯尔的枪口锁定、最后的瞬间到来……之前。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage5b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="passage5b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}君？」
+
+<BOX type="0">//%w
+「……这么突然想干吗？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要不要一起吃午饭呢？」
+
+「你已经是美绪的东西了，和我们一起吃午饭的机会可不多了哦」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今天的午饭还真寂寞呢」
+
+「美绪和江漣都请假了」
+
+<BOX type="0">//%w
+「江漣？」
+
+「她早上还跟我一起上学的啊……？」
+
+<BOX type="4">//%sL
+「她早退了」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她好像从早上开始就不太舒服，你没注意到吗？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「所以嘛，机会难得，我们有好多事想听哦」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你和美绪到底进展到什么地步了？」
+
+//> left classroom2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="phoneCall" mode="normal" time="" loop="on" effect="">//!se phoneCall
+<BACKGROUND SRC="classroom2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不管我呼叫{ヒロイン}的手机号码多少次，她都没有应答。
+
+　是在地下室吗，还是说切断了电源呢……
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　这时，铃声响起，第五节课开始了。
+
+　上课的时候手机响起当然是不行的。
+　我叹了口气，切断了手机的电源，将它放进口袋。
+
+　只好等下课再尝试了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="noonchim" mode="normal" time="" loop="off" effect="">//!se noonchim
+<wait time="200">
+//$ 0 0 0
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="0">//%w
+　……这里是·自动录音电话服务中心。
+
+　您有·1条·留言信息……
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<wait time="200">
+<BOX type="6">//%w
+<font color="#010101">
+　你听到这个的时候，可能会生气……
+
+　不过我认为这是最好的处理方法。
+
+　你不应该和凯尔战斗。
+
+　把美绪卷进来的是我。
+　我必须要赌上性命把她救出来。
+
+　所以，你先逃吧。
+
+　关于逃亡的计划，与俄罗斯人的接触是在3天后。
+
+　小樽市里有一家名叫清风亭的旅馆，你就在那里待命。
+
+　夜里11点的时候，会有一个叫波利斯的男子来接你，之后你按他说的做就行了。
+
+　我救出美绪后，也会马上赶往清风亭。
+
+　要是……我在时限之内没有出现在旅店。
+
+　那时候，就当我已经死了吧。
+
+　我希望你不要悔恨，也不要自责。
+
+　自从你叫我{ヒロイン}的那一刻起，我的生命就是为了保护你而存在的。
+
+　只要你能活下去，那就是我曾经活在这个世界上的证明。
+
+　就这样吧，3天后见。
+
+　……
+</font>
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　……这是·下午两点五十分·收到的信息……
+
+<CALC WORKNAME="3520" OPERATOR="1">//
+<A HREF="3540.txt" OPERATOR="">//~ 3540

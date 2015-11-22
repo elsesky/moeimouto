@@ -1,0 +1,337 @@
+<CALC WORKNAME="M92F" OPERATOR="1">//
+<CALC WORKNAME="M1911" OPERATOR="1">//
+<BOX type="0">//%w
+「这样啊……我想试试别的种类的枪」
+
+<BOX type="5">//%sR
+「……我明白了」
+
+//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="gava_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「这是柯尔特0.45口径自动手枪IV」
+
+「在这个国家中最常见的枪」
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 cV 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「装弹数8发。
+　威力比之前所用的0.38口径特制弹更大」
+
+「耐久性与可靠性也不亚于左轮手枪」
+
+<BOX type="0">//%w
+「要从哪里装填子弹呢？」
+
+<se id="1" src="04_01" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="僈僶儊儞僩儅僈僕儞岎姺">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein按下枪把一侧的按钮，拔出弹夹给我看。
+
+<BOX type="5">//%sR
+「这是弹夹。自动手枪只需更换弹夹即可补充子弹，比左轮手枪更具实战性」
+
+<clear>
+<BACKGROUND SRC="room2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　弹夹中严严实实地压入着8发子弹。
+<se id="1" src="04_03" mode="normal" time="" loop="off" effect="">//!se 
+　将弹夹推回枪把内，Ein把枪递给了我。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「但是，操作有一些复杂。」
+
+<BOX type="0">//%w
+  Ein指着包裹着枪体上半部、像壳套一样的那个部件说道。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是套筒。
+　也可称为枪栓」
+
+「向后拉到头，然后松手」
+
+<BOX type="0">//%w
+　我照她所说抓住枪栓向后拉。
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　由于内置的硬弹簧，拉起来意外地费力。
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+　拉到头后松开手指，
+  枪栓伴随着粗鲁的金属音回到了原位。
+
+<BOX type="5">//%sR
+「要注意的是，在这之后扣动扳机的话就会开火」
+
+「第一枪需要像这样手动设置，之后就可以依靠膛内的高压气体反向推动套筒前后运动」
+
+「这样的动作可以装填子弹，同时枪机也得以就位」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「枪栓后退到头并停在那个位置的话，就说明子弹打光了」
+
+「那样的话就更换弹夹，之后打开闭锁」
+
+「等到枪栓复位，初弹装填就完成了」
+
+//> left factory4b wide 255 dummy 20 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我拿着柯尔特来到外面。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+　这把枪的重量，和目前为止的练习中所用的枪差别不大，
+  但是内部装有弹夹的椭圆形枪把握起来非常困难。
+
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　由于口径很大，后坐力使我的双臂剧烈地震动。
+
+<se id="2" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　……但由于每次射击后枪机都能回到待击发状态，
+  连射时扳机的感触反而比左轮手枪更加轻巧。
+
+　抓住诀窍的话，我就能做到快速射击了。
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+「相当不方便啊」
+
+　击碎20块砖，我露出这样的感想。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那，试试这把枪吧」
+
+<clear>
+<BACKGROUND SRC="beretta_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……这次的枪比刚才见到的柯尔特结构更加复杂，
+  虽然套筒比柯尔特更细，但整把枪却给人少许粗重、圆滑的印象。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「贝瑞塔公司的9mm自动手枪M92FS。现役军方制式手枪」
+（注：贝瑞塔公司，全世界最古老的军械企业之一，由Mastro-Bartolomeo-Beretta于1526年创立。）
+
+<BOX type="0">//%w
+　我试着架起枪。
+  这把枪的枪把比柯尔特更粗。
+
+「……很难握呢」
+
+<BOX type="5">//%sR
+「这是因为弹仓较大。
+  这把贝瑞塔可以16连发，而后坐力相比柯尔特则更小」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　我找到适合自己手指的握枪位置，瞄准目标，尝试着射击。
+
+<se id="2" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……的确，后坐力与0.38口径的枪相比大不一样，
+  要是掌握持枪方法的话，这把枪应该会很容易使用。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然弹量较大，但是威力不能与0.45口径相比，这点要注意」
+
+「为了保证确实地击倒对手，
+  你要养成连续2发射击的习惯」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在废工厂中，Ein布置着新的射击训练场。
+
+支撑着钢架的支柱中间，吊着数块用钢缆系住的胶合板靶子。钢缆连接着50cc的电动机和齿轮盒，用来移动吊着的活靶。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天开始用移动靶训练」
+
+「你必须假设实战中所有的目标都处于移动状态。 因为能够击杀静止目标的机会是微乎其微的」
+
+<BOX type="0">//%w
+　这么说着，Ein启动了发动机。
+<se id="1" src="motor" mode="normal" time="" loop="off" effect="">//!se motor
+　伴随着隆隆的发动机声，
+  缆线被徐徐拉动。
+
+　滑轮的直径和数量都被精心设计过，所以各个靶子的移动方向和速度都各不相同。
+  对自己来说，这恐怕会很麻烦。
+
+<BOX type="5">//%sR
+「虽然光线暗，但要领与在户外没有区别。注意不要被发射焰和枪声所干扰」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　瞄准移动靶，对于自己而言并不是太难，
+  我在用砖块当靶子的时候，
+  就已经开始训练快速射击的能力了。
+
+　麻烦的是闪光和轰响。
+
+　由于在室内，开枪后的回声形成了极其巨大的响声。
+　注意力被分散，不知不觉连瞄准都变得困难。
+
+　从枪口迸发出的火焰……『发射炎』十分的猛烈。
+<se id="1" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　每打一枪，昏暗的工厂内都会被映照得如白昼一般。
+
+　如果正视的话就麻烦了，
+  视网膜像被烧灼一样，无法进行下次的瞄准。
+
+　每一天天黑的时候地面上都落满了空弹壳，
+  连落脚的地方都没有。
+
+//> left room1 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我的鼓膜被枪声所麻痹，
+  脑袋里面充斥着一阵阵的耳鸣声，连睡觉时都不能幸免。
+
+　自己被彻底消耗、燃烧殆尽之后昏昏睡去……生活又回到了从前的样子，
+  但是这一次，精神会比体力先到极限，
+  这种严酷性不是单纯的肉体锻炼所能比拟的。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="motor" mode="normal" time="" loop="off" effect="">//!se motor
+　……心如止水，
+  我全身紧绷地站着。
+
+　身后，发动机在呜呜地响着，
+  转动着的缆线上，标靶在向左向右地移动着。
+
+「……红色的，从面前第一个开始，至第五个结束」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　话音未落，我迅速转身，
+  映入视野的是20块被做了各色标记的胶合板。
+
+　我迅速架起枪……
+　在这个瞬间，眼睛已经将指定的目标全部捕捉完毕。
+
+　红色标靶，从眼前的第一个开始，到第五个为止……
+  只是“看到”目标是无法掌握目标的“位置”的。
+
+　运动方向、速度，一切都预读好了。
+　5个目标的“所在地”也“感知到了”……
+
+<se id="1" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="200">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="150">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　下面要做的，只是扣动5次扳机。
+
+  不是把“射击、命中”重复5次。
+　必须一击必中、一击必杀……
+
+　我总算抓住了要领。
+
+<calc workname="gun22" operator="1" mode="global">
+<calc workname="gun23" operator="1" mode="global">
+<CALC WORKNAME="0076c" OPERATOR="1">//
+<A HREF="#暘婒" OPERATOR="0076a=1">
+<A HREF="#暘婒" OPERATOR="0076d=1">
+<A HREF="0076d.txt" OPERATOR="">//~ 0076d
+<MARKER NAME="#暘婒">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079

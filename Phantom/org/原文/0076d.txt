@@ -1,0 +1,27 @@
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「3発目が外れ。焦りすぎよ」
+
+<BOX type="0">//%w
+　恐れ入るのは、アインのこの観察力だ。
+　どんな撃ち方をして見せようと、
+　何発目でどの標的を撃ったのか、確実に見抜いてしまう。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、そろそろ次の段階に
+　進んでも良さそうね」
+
+「どうする？」
+
+<CALC WORKNAME="0076d" OPERATOR="1">//
+<BOX type="0">//%w
+<A HREF="#スルー" OPERATOR="0076c=1">
+<CHOICE HREF="0076g.txt" TEXT="＊ナイフ" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと弾数の多い銃 0076f
+<CHOICE HREF="0076f.txt" TEXT="＊もっと弾数の多い銃" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと弾数の多い銃 0076f
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="0076g.txt" TEXT="＊ナイフ" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと威力のある銃 0076e
+<CHOICE HREF="0076e.txt" TEXT="＊もっと威力のある銃" OPERATOR=""></A>//{ ＊ナイフ 0076g ＊もっと威力のある銃 0076e

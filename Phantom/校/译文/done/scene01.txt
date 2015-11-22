@@ -1,0 +1,549 @@
+<CALC WORKNAME="射撃音" OPERATOR="21_03">//
+<CALC WORKNAME="銃" OPERATOR="シグ">//
+<CALC WORKNAME="銃画像" OPERATOR="シグ">//
+<CALC WORKNAME="射撃画像" OPERATOR="シグ2">//
+
+<CLEAR><BACKGROUND SRC="{銃画像}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　膝立ちの姿勢で下肢を固定し、引き抜いた{銃}を構える。
+
+　思えば何百回、何千回繰り返した動作だろうか。
+
+　何も考えなくても、身体はいつものように動いてくれた。
+
+　今ではこれが、いちばん自然な身体の動作なんだ。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="10">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="10">
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="streetsmoke">//# streetsmoke 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まず、間違いなく武装しているはずのナビ席の人影にむけて、
+　3連射を放つ。
+
+　銃声と同時に悲鳴が上がり、開け放しになっていた
+　サイドウィンドウから、わずかに赤い飛沫が見えた。
+
+　こんな風に今日まで、何人殺してきたんだろう。
+
+　もう何も感じない。手応えさえない。
+
+　殺す、ただひたすらに殺す。
+　今ではもう、いちばん自然な行動だった。
+
+<se id="3" src="BMWブレーキ" mode="normal" time="" loop="off" effect="">//!se brake
+　泡を食って急発進したベンツは、
+　そのまま強引なハンドルワークで反転し、こちらを向こうとする。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="10">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700x3">//#! 1700x3 1
+<WIPE EFFECT="fade" TIME="0">
+
+<se id="3" src="ベンツフル加速" mode="normal" loop="off">
+<BOX type="0">//%w
+　立ち上がり、そのドライバーを狙って2連射したが、
+　動きのせいで狙いが定まらない。
+
+　いいだろう。もっと近くに来い……
+
+　案の定、ドライバーは殺意のステアリングで、
+　こちらにまっしぐらに加速してきた。
+
+　もっと来い。もっと近くまで。
+
+　仁王立ちのまま避けもせず、
+　突進してくるベンツのフロントガラスに、必殺の照準点を探す。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="street0b">//# street0b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+<se id="2" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　引金を引いたほぼ直後に、バンパーに身体を跳ね飛ばされた。
+
+<se id="3" src="crash2" mode="normal" time="" loop="off" effect="">//!se crash2
+　宙を飛びながら、しまったな、と気付く。
+　さっきの弾は若干、急所を逸れた。あのドライバーは即死しちゃいまい。
+
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　アスファルトの路面に叩き付けられたものの、すぐに起き上がる。
+
+<CLEAR><BACKGROUND SRC="bmw_crash">//# bmw_crash 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ベンツはあのまま壁に激突し、ラジエーターから白煙を噴いていた。
+
+　肋骨が数本砕けているようだが、そんなことより再装填が先だ。
+　足早にベンツに歩み寄りながら、{銃}の弾倉を交換する。
+
+　ちょうど運転席へと回り込んだところで、
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　瀕死のドライバーが車外に転がり出てきた。
+
+　虫の息だったが、だからといって放ってはおけない。
+　こいつはまだ、死んでない。
+
+　呻き悶えるその男を、
+　動かないよう胸板を踏みつけて地面に押し付けると、
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　その頭に1弾倉ぶんの弾丸を撃ち込んでやった。
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　目玉から脳漿から跡形もなくなったところで、車内を窺う。
+
+<CLEAR><BACKGROUND SRC="mp5_k_000">//# mp5_k_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　助手席の死骸が、手にMP5クルツを抱えていた。
+　素晴らしい。有り難く頂戴しよう。
+
+<CLEAR><BACKGROUND SRC="streetsmoke">//# streetsmoke 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　クルツと予備の弾倉を奪い取り、
+　ようやく騒ぎにたたき起こされた近隣の住民が騒ぎ出すのを尻目に、
+　乗ってきた車のところへ戻る。
+
+　銃があり、車があり、まだこの身体も動いている。
+
+　なら、やることはひとつだ。
+
+　もう命の心配はいらない。
+　命はさっき、燃えてしまった。
+
+　炎とともに、爆風とともに、
+　どこか遠くへ、
+　手の届かない所へ行ってしまった。
+
+　あながち、知らない場所でもない。
+　それは、これから目指す場所の、ほんの少し先にある。
+
+　待ってろよ。大して待たせやしない。
+
+　すぐに、そっちに行くからな。キャル。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「西棟、沈黙! 応答ありません!」
+
+<BOX type="4">//%sL
+「C班! E班と合流して包囲しろ。
+　早急に……」
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="5">//%sR
+「プールサイドです!
+　奴が現れました!!
+　早く応援を……早く……」
+
+<BOX type="4">//%sL
+「畜生!! やつは化け物か!?」
+
+//> right room3 wide 255 inferuno1 20
+<clear>
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「一体、何を手こずっている？
+　敵はたったの一人だぞ!」
+
+<BOX type="4">//%sL
+「申し訳ありません」
+
+<BOX type="3">//%w
+　マグワイヤの剣幕に対し、護衛たちには弁解の言葉がない。彼らとて悪夢を見ている心境だった。
+
+　なぜ、止められない？
+
+　名にしおうファントムとは……
+　これほどのものなのか？
+
+　クロウディアを追う追跡隊が出払っていたために、館の防備が手薄になっていたのは事実だが、
+　それでも20人からの兵隊が詰めていたのだ。
+
+　いや……そのうち何人が、未だに生き残っているだろうか。
+
+　久しく味わったことのない恐怖がマグワイヤの肝を締め上げる。
+
+　かつてファントムに狩られてきた多くの犯罪王たちも、この恐怖を味わってきたのか？
+
+<CLEAR><BACKGROUND SRC="room3b">//# room3b 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　……不意に、
+　部屋の照明が消えた。
+
+<BOX type="4">//%sL
+「!!」
+
+<BOX type="3">//%m
+　室内の護衛たちが色を失い、
+　小声で何事か囁きあう。
+
+<BOX type="4">//%sL
+「マグワイヤ様、ここでお待ちを」
+
+<BOX type="3">//%m
+　側近のボディガードは、そう抑揚のない声で囁くと、配下の護衛たちに慌ただしく指示を飛ばしながら、部屋を出ていった。
+
+<se id="1" src="02_10" mode="normal" time="" loop="off" effect="">//!se 
+　途端に、雷鳴のような銃声が、
+　廊下で立て続けに轟き渡る。
+
+<se id="2" src="09_02" mode="normal" time="" loop="off" effect="">//!se 
+　銃撃と悲鳴の狂想曲に耳を覆いつつ、マグワイヤはキャビネットへと駆け寄り、護身用の銃を手に取った。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<wait time="900">
+
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="1" src="" mode="fadeout" time="10">
+//<se id="1" src="" mode="normal" time="20" loop="off" effect="">//!se 
+//<se id="2" src="" mode="normal" time="20" loop="off" effect="">//!se 
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<wait time="900">
+<BOX type="3">//%m
+　不意に喧噪が途絶える。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+物陰に身を潜めながら、
+息を殺して、
+マグワイヤは闇に目を凝らした。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+外に出た連中は死んだのか？
+……声ひとつしないということは
+そうなのだろう。
+
+　窓からの弱い明かりだけでは、廊下へ出るドアが開いているのかどうか、判別できない。
+
+　奴は……どこへ行った？
+　まさかもう、この部屋の中に？
+
+　耳を澄ましても、
+　聞こえてくるのは、
+　自分自身の動悸の音しかない。
+
+　奴は暗闇を見通せるのか？
+　何の音も立てずに動けるのか？
+
+馬鹿な……せめて、
+息遣いぐらい聞こえてもいい筈だ。
+
+そうは思っても、
+やはり身体は動かせない。
+万が一……その可能性を考えると、
+下肢から力が抜けてしまう。
+
+　……どれほどの時間、闇の重さと恐怖に耐えていただろうか。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="5">//%sR
+“いくら何でも、もう……”
+
+<BOX type="2">//%w
+　大丈夫だろう。
+　そう判断して
+　マグワイヤは息を吐いた。
+
+もし部屋の中にいたとしても、
+これほど長い時間、
+じっとしている訳がない。
+隠れている者がいないか探すなり、
+何らかの動きをとったはずだ。
+
+　物陰に潜むマグワイヤに気付かず
+　立ち去ったか、
+　もしくは廊下での撃ち合いで、
+　ボディガード達と
+　相打ちになったか……
+
+　明かりを求めて窓辺まで動いて、
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　そこでマグワイヤは、身じろぎもせずソファに腰かけている少年に気がついた。
+
+<CLEAR><BACKGROUND SRC="1570x1">//# 1570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="2">//%w
+　射るような眼光が、微動だにせずマグワイヤを見据えている。
+
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　恐怖のあまり、声も出なかった。
+
+　だが……
+　この少年の有様はどうだ？
+
+　館の人間が、総出で手玉に取られていたのかと思いきや……
+　すでにファントムもまた満身創痍だった。
+
+　服は裂け、血が滲み、いったい何発撃たれているのかさえ判らない。
+　どう見ても致命傷としか思えない傷もある。
+
+にも、関わらず……
+右手に携えたマシンガンの銃口は、
+過たずマグワイヤを狙い、
+そして半眼の双眸には、
+まだ確かに意志の光が宿っている。
+
+……虚ろに宙を彷徨いながら、
+異常なまでに鋭く熱を帯びた目。
+まぎれもない狂気の眼差しだった。
+
+<CLEAR><BACKGROUND SRC="room3b">//# room3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……何の、つもりだ？」
+
+<BOX type="2">//%w
+　度を超した恐怖のあまり、
+　逆に声帯の緊縛が弛んで、
+　マグワイヤは言葉を漏らした。
+
+<BOX type="5">//%sR
+「貴様……いったい何のつもりだ？
+　何を思ってここに来た!?」
+
+<BOX type="2">//%w
+勝算も、生還する算段もなしに殴り込んできたファントムの目的が、
+マグワイヤには、
+皆目見当もつかない。
+
+<CLEAR><CLEAR><BACKGROUND SRC="1570x1">//# 1570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　少年の、
+　吐血に染まった唇が動き、
+　地獄の底から漏れ出たような
+　声がした。
+
+<BOX type="4">//%sL
+「……キャルは？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="4">//%sL
+「キャルは……何処に、いる？」
+
+<BOX type="3">//%m
+　マグワイヤが、手にした銃を少年に向けたのは、もはや理性の判断ではなく、恐怖に竦んだ動物的本能の仕業だった。
+
+<se id="1" src="14_05" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ソファに掛けたファントムの腹に、もうこれで何発目になるのか判らない弾丸が撃ち込まれる。
+
+少年は、苦痛も衝撃も顔に表さず、ただ小首を傾げるようにして微笑すると、やおらクルツを発砲した。
+<se id="2" src="06_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　弾倉に残っていた十数発の9mm弾を、残らず総身に浴びて……
+　悲鳴を上げる暇もなく、レイモンド＝マグワイヤは絶命した。
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+気がつけば、
+もう腕も持ち上がらなくなっていた。
+
+　少し休憩するつもりで
+　腰かけただけなのに、
+　なかなか立つことができない。
+
+　うんざりするほど、
+　身体が重かった。
+
+　それに、寒い。
+　どうしたっていうんだ？
+　一体……
+
+　こんな所で、のんびりしている
+　場合じゃないんだ。
+　早く、行かないと。
+　キャルが待ってる。
+
+　探さないと。
+　あの子を、探さないと……
+
+　眠い。
+　それに、猛烈に、寒い。
+
+　キャルのぬくもりが恋しかった。
+
+　心細くなるほど華奢な、
+　それでいて、抱き留めると、
+　はっとするほど温かい身体。
+
+　もう一度、抱きしめたい。
+　一人で座っているには……
+　ここは、あまりに寒すぎる。
+
+　……何処に、いるんだ？
+　キャル……
+
+<bgm src="" mode="fadeout" time="40" loop="on">//> right room0g wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="雨室内ループ" mode="fadein" old="fadeout" time="10" loop="on">//$ rain.swa 0 255
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　ガラスの失せた窓からは、
+　外の冷たい雨音が、
+　じかに聞こえてくる。
+
+　焼け焦げたその部屋で、
+　キャルは一人、待ち続けた。
+
+<bgm src="" mode="fadein" old="fadeout" time="20" loop="on">//$ 0 _1 0
+<clear>
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　何が起こったのかは、
+　わからない。
+
+　あの日……
+　修理を終えたビデオデッキを
+　試そうと、夜半に
+　ビデオレンタル店に出かけ……
+
+　戻ってみれば、パトカーと消防車の詰め掛けた路地の上で、帰るべき部屋が燃えていた。
+
+　何もかもが、黒焦げだった。
+
+　丹念にベッドメイクしたシーツも
+　愛情込めて整えたキッチンも、
+
+　はじめて、
+　買ってもらえた服も……
+
+　だが別に、
+　どうということはない。
+
+　危険な暮らしは覚悟の上だ。
+
+　殺し屋ファントムの相棒になる。
+　今は駄目でも、いつかは、なる。
+　そう心に決めていたのだから。
+
+<clear>
+<BACKGROUND SRC="キャル座り込み">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　だからキャルは、待ち続けた。
+
+　きっと彼は、戻ってくる。
+　そう約束したのだから。
+
+　必ず、迎えに来てくれる……
+
+　泣くのは、それからにしよう。
+
+　彼の顔を見たら、まず思いきり
+　怒って、2、3回叩いてやって、
+　それから彼の胸の中で、
+　声を上げて泣こう。
+
+　それまでは、我慢する。
+　そうキャルは決めていた。
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+<clear>
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="2">//%w
+　信じ続け、待ち続けて、
+　そして3度目の朝がきた。
+
+<se id="1" src="雨室外" mode="normal" time="" loop="off" effect="">//!se rainOut
+　先に、
+　抜け駆けをして泣き始めたのは、
+　空だった。
+
+　さめざめと、
+　路面を叩き続ける朝の雨。
+
+　その音を、
+　空っぽの窓の外に聞くうちに……
+　いつしかキャルの頬骨を、
+　雫がひとつ伝っていった。
+
+//> black dummy center 255
+<clear>
+<se id="1" src="" mode="fadeout" time="30">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="1">
+「……うそつき」
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+
+２章皆殺しのエンド・最凶の亡霊
+
+<BGM SRC="l_inferno" MODE="fadein" OLD="fadeout" TIME="20" Loop="on">
+<A HREF="recollection.nps">
+

@@ -1,0 +1,231 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bar wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="bar">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　郵政省ビルの屋上で見つかったランディ＝ウェーバーの死体が、
+　クロウディアの主張をすべて正当化していた。
+
+　死体は何も語らない。
+　もうワイズメルにも、ランディにも、事の次第を糺すことはできない。
+
+　だが……
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「浮かねぇ顔だな？　ファントム」
+
+<BOX type="0">//%w
+「……ホテルが銃撃されたのは、ランディが死んだ後だった」
+
+「もう一人、スナイパーがいたんだ。撃ったのはランディじゃない」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そいつもワイズメルの
+　手下だったんじゃないのか？」
+
+「念を入れた二段構えだったとか。
+　現にランディの方は
+　アンタに叩かれたわけだし」
+
+<BOX type="0">//%w
+「……」
+
+　どうも、しっくりこない。
+
+　特殊部隊くずれのランディは、
+　ワイズメルの手札の中ではスペードのエースだった。
+　現に800ヤードという長距離狙撃に、臆すことなく挑んでいる。
+　当てる自信だってあっただろう。
+
+　そのランディの失敗を見越して、別の狙撃手を配置する……
+　そこまで凝った手をワイズメルが講じるだろうか？
+
+<BOX type="5">//%sR
+「その二人目のスナイパーだが……
+　どうして事前に
+　見抜けなかったんだ？」
+
+<BOX type="0">//%w
+「探す範囲が狭すぎた。迂闊だったよ」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「狭すぎたって……
+　半径1マイルでか？」
+
+<BOX type="0">//%w
+「軍用の対戦車ライフルなら、
+　有効射程が2000mを越えるやつがある。特殊部隊の装備だがな」
+
+　無論、事前にそんな突飛な可能性まで考えが及んだはずもないが。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「2000mだぁ？」
+
+「まさか敵さん、
+　ドジャーズ＝スタジアムから
+　撃ってきたんじゃあるまいな？」
+
+<BOX type="0">//%w
+「もう少し手前からなら、届く」
+
+<BOX type="5">//%sR
+「対戦車ライフル……ねぇ」
+
+<BOX type="0">//%w
+　リズィは深々と溜め息をついた。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しっかし、敵もそこまでやって
+　しくじってりゃぁ世話ねぇわな」
+
+<BOX type="0">//%w
+「それだよ。妙なのは」
+
+「一発目を外したきり、何でそいつは黙ってたんだ？」
+
+「ワイズメルが殺されるのも、殺したクロウディアも放っておいた。
+　なんでもう一発、撃ってこなかった？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最初の一発が外れたもんだから、
+こりゃ手に余ると諦めてトンズラ
+こいたとか、さ」
+
+「いろいろあるんだろ？
+　風とかさ」
+
+<BOX type="0">//%w
+　それは、確かにそうだ。
+　いくら度外れたライフルを用意したからといって、
+　それでも2000mという距離は無茶すぎる。
+　大気と重力が、いったいどういう影響を弾道に及ぼすか……
+　そこまで離れては見当もつかない。
+
+　もしそんな任務を強いられたらどうするか？
+　考えるまでもない。もっとましな手段を模索する。
+
+　そうせずに、堂々と初弾を撃ってきた以上……
+　当てられた筈なのだ。そいつは。
+
+「弾は当たらなきゃ意味がない」
+
+「当てられるかどうかも判らない距離を狙撃ポイントに選ぶくらいなら、
+　たとえ見つかる危険を冒してでも、確実に当たる距離を選ぶはずだろ」
+
+<BOX type="5">//%sR
+「アタシの警戒態勢や、それにアンタが遊撃手をやってたことも、敵さん気付いてたのかもしれないぜ」
+
+<BOX type="0">//%w
+　だからって、不可能と判りきっている挑戦をする馬鹿はいない。
+　やはり、釈然としない。
+
+　……
+
+　ふと、突拍子もない着想が湧いた。
+　
+　最初から、当てる気がなかった……と、したら？
+
+「見つかりさえしなければ……
+　当たるかどうかは、どうでもよかったのか？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はぁ？」
+
+<BOX type="0">//%w
+「2発目がこなかったのも、
+　最初の1発で用が事足りたから……だとしたら……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ガラス割るだけが
+　目的だったってのか？」
+
+<BOX type="0">//%w
+　失笑するリズィ。
+
+<BOX type="5">//%sR
+「どこの阿呆が、そのために
+　大砲もどきのシロモノなんぞ
+　持ち出してくるっていうんだ？」
+
+<BOX type="0">//%w
+「……」
+
+　問題は、それだ。
+
+　いったい何が目的だったんだ？
+
+「この一件、万事が敵の狙い通りに運んだとしたら、どうだ？」
+
+「あの銃弾がきっかけになって、あの部屋で起こったこと……
+　それがスナイパーの狙いだったとしたら？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ワイズメルを
+　死なせたかったってのか？」
+
+<BOX type="0">//%w
+　そうじゃない。
+　それなら最初から、ワイズメルを撃つ算段を立てればいい。
+
+「クロウディアの手で、ワイズメルを殺させたかった……ってことか」
+
+　そんな顛末を見越していた奴がいるとすれば……
+　そいつは……クロウディアとワイズメルの立場や思考パターンを、
+　すべて正確に把握していたことになる。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やめようぜ、ファントム」
+
+「仮定が多すぎる。その先は、
+　いくら考えたって泥沼だよ」
+
+<BOX type="0">//%w
+　……それもそうだ。
+　そんな突拍子もない可能性を探っていても、埒があかない。
+
+　溜息をついて、グラスを干すと、スツールを立った。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「引き上げかい？」
+
+<BOX type="0">//%w
+「さすがに今日は、疲れたんでね」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「無理もない。ゆっくり休みな」
+
+<BOX type="0">//%w
+「おやすみ」
+
+<A HREF="1315.txt" OPERATOR="1100=1">//~ 1315
+<A HREF="1350.txt" OPERATOR="1150=1">//~ 1350
+<A HREF="1400.txt" OPERATOR="">//~ 1400

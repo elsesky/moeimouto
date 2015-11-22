@@ -1,0 +1,128 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left skycity wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="skycity">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夕焼けを望むシティホールの屋上から、
+　二人は今日一日の成果を検分していた。
+
+　32階のこの高さからは、ダウンタウンの景観が一望に見渡せる。
+
+　狙撃手探しクイズの解答は、郵政省ビル屋上。
+　明日、午後3時にボナベンチャーホテルを狙う狙撃手は、
+　間違いなく、あそこに現れる。
+
+<BUSTUP NAME="cyall2" face="5" MODE="on" zoom="" ALIGN="right">//# cyall2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大変だったね。今日は」
+
+<BOX type="0">//%w
+「ああ」
+
+　生返事をしながら、思考の大半は、
+　眼下の朱色のパノラマの検証に割り振っていた。
+
+　敵の出方は、これで判った。
+　ならばこちらは、どう出るか？
+
+　郵政省ビルでじかに網を張るというのは、やはり問題外だろう。
+　あんな場所では待ち伏せのしようがない。
+
+　やはり、やるとすれば逆狙撃……
+　現れた狙撃手を、どこか別のポイントから狙撃するしかない。
+
+　敵と違って、こちらは下準備の時間はない。
+
+　距離、角度、日光の向き……
+　すべてを今、この場所からの目算で割り出して、選んでおくしかない。
+　実地に赴いて確認する猶予はないのだから。
+
+　そうなると、一番、妥当と思えるのは……
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、明日も一日、
+　{名}は
+　大変なんでしょ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「ああ」
+
+　またそう生返事をしてから、
+　傍らのキャルの、まっすぐな視線に気付いた。
+
+<BUSTUP NAME="cyall2" face="a" MODE="on" zoom="" ALIGN="right">//# cyall2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今日探した、ホテルを
+　狙うっていうスナイパー……」
+
+「{名}はそいつを、
+　殺すのね？」
+
+<BOX type="0">//%w
+　一瞬、答えあぐねて空いた間が……
+　包み隠さぬ返答になってしまった。
+
+<BOX type="5">//%sR
+「そいつは、ジュディの仇なの？」
+
+<BOX type="0">//%w
+　……忘れていた。
+　この数日間、無邪気にはしゃぐ彼女ばかりを見ていたせいだ。
+
+　失ったもののため、
+　奪われたもののため、
+　すべてを、仇に血で贖わせるために、
+　キャルはここにいたのではないか。
+
+「……多分、そうだろう」
+
+「その一味なのは、間違いない」
+
+　後に続く言葉は、容易に想像がついた。
+
+<BUSTUP NAME="cyall2" face="3" MODE="on" zoom="" ALIGN="right">//# cyall2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「傍に、いさせて」
+
+「あたしに見せて。
+　{名}が、
+　そいつを殺すところを」
+
+<BOX type="0">//%w
+「……」
+
+　いつだって明るく無邪気に振る舞っていたキャル。
+
+　弾けるような彼女の笑顔は、
+　この残酷な世界とは、一番縁遠いもののはずだった。
+
+　なのに……
+　どうして、そんなキャルまでもが、死に取り憑かれなきゃならないんだ？
+
+「そんなにも、見たいのか？　人が死ぬところを」
+
+<BUSTUP NAME="cyall2" face="4" MODE="on" zoom="" ALIGN="right">//# cyall2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「初めてじゃ、ないよ」
+
+「ジュディが殺されたのだって、
+　あたしの目の前だったんだ」
+
+「……ジュディだけじゃ、嫌だ」
+
+<BOX type="0">//%w
+<CHOICE HREF="1230a.txt" TEXT="＊承諾する" OPERATOR=""></A>//{ ＊承諾する 1230a ＊承諾しない 1230b
+<CHOICE HREF="1230b.txt" TEXT="＊承諾しない" OPERATOR=""></A>//{ ＊承諾する 1230a ＊承諾しない 1230b

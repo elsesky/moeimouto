@@ -1,0 +1,47 @@
+//> right sibuya4 wide 255 elen7^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="phone2" mode="normal" time="" loop="off" effect="">//!se phone2
+<BACKGROUND SRC="sibuya4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　听到手机的来电提示音，{ヒロイン}停下了脚步。
+
+　因为私自离开了{名}，她为自己的手机设置了通信限制。
+
+　如今，这部手机只能接收特定号码的呼叫。
+
+　那就是，美绪的号码……
+　现在，她只能与拿着美绪手机的人通话。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+{ヒロイン}按下了通话键。
+对方顿了一下，接着用她十分熟悉的英语问道。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……Ein吗』
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……是Drei吧？」
+
+<BOX type="2">//%w
+　{ヒロイン}没有感到惊讶。
+　虽然不清楚理由，但她的确是在等着这个电话。
+
+　相比{名}，Drei肯定会先将自己作为目标吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『找个没人打扰的地方』
+
+『结束这一切吧』
+
+<A HREF="3585.txt" OPERATOR="">//~ 3585

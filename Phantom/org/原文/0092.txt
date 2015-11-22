@@ -1,0 +1,161 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　武器庫の扉が見える場所まで来た。
+
+　扉は開いている。
+　やはり、相手は何かしら武器を手に入れたのだろう。
+
+　武器庫の内容は憶えている。
+　なくなっている武器を確かめれば、何を持って行ったかわかるが……
+
+　ふと、アインの言葉を思い出した。
+
+　こういう状況で判断を下す基準を、以前、教わったことがある。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# factory 1  elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“追う時は逃げる気になって、
+　逃げる時は追う気になって
+　考えるのよ”
+
+<BOX type="0">//%w
+　彼女は、そう言っていた。
+
+//> left factory3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　敵の武装がわかれば、それだけ戦いやすくなる。
+　武器庫の中は確かめておくべきだ。
+
+　……そう。当然、普通はそう考える。
+
+　追っ手は武器庫に寄る……
+　それを、逃げる側が見越していたとすれば、どうするか？
+
+　自分が逃げる立場なら、どうする？
+
+　……罠を仕掛けるのに絶好だ。
+　きっとそう考えるだろう。
+
+　武器庫まで、あと20m弱。
+　あの部屋への出入り口はひとつしかない。
+　これが罠だとしたら……何だ？
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　武器庫にあるものを応用すれば、即興のトラップは作れるだろう。
+
+　だが、そんな工夫を凝らしている時間があっただろうか？
+
+　効果的なトラップを仕掛けるには、猶予がなさすぎる。
+　むしろ逃げる側にとってリスキーだ。
+
+　だとすれば、室内で待ち伏せか？
+
+　たしかに多勢に無勢の状況だ。
+　ここだけでなく、
+　敷地の外にもインフェルノのメンバーが待ちかまえている。
+
+　勝算があるとすれば、ゲリラ戦。
+　とくに最初にやってきた追っ手は、
+　他に気づかれないよう仕留めたいところだろう。
+
+<CLEAR><BACKGROUND SRC="ナイフ">//# ナイフ 1
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　なら銃より、ナイフによる接近戦か。
+　室内に潜み、追っ手が入ってくるまで待ち受ければ……
+
+<CLEAR><BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……いや、やはり待ち伏せも考えにくい。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// elen1^6 20
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# factory4b 1  elen1^6 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“待ち伏せを仕掛けるなら、
+　かならず退路を確保しておく”
+
+<BOX type="0">//%w
+　これもアインに教わった鉄則だ。
+
+　袋小路で追っ手を迎え撃つのは得策じゃない。そう彼女は言っていた。
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　武器庫の入り口はひとつしかない。待ち伏せには不利だ。
+　相手もそれぐらい心得ているだろう。
+
+　だとすれば……
+
+<CLEAR><BACKGROUND SRC="factory3">//# factory3 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　状況を、改めて観察する。
+
+　武器庫の入り口の周囲に、身を隠せる場所はない。
+
+　逆に言えば、武器庫に近づく人間は、周囲から丸見えになる。
+
+　……そうか。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//$ 0 _1 0
+　敵は武器庫の側にはいない。
+
+　離れたところに身を隠し、
+　そこから武器庫へ近寄る者を
+　狙い撃ちにする気だ。
+
+　この暗闇で狙いを定められるのは、
+　長く見積もっても10メートル以下。
+
+　武器庫の入り口から、
+　その圏内にある遮蔽物は……
+
+//> left factory3b wide 255
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="factory3b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　向かって左の、放置されたフォークリフトを見据えた。
+
+　周囲の空間が、
+　渦を巻いてフォークリフトの裏側に集約されていくような感覚。
+　いま立っている場所と、壊れたフォークリフト……
+　まるでその2点だけが、世界のすべてになったようだった。
+
+<A HREF="0092a.txt" OPERATOR="0090bIe=1">//~ 0092a
+<A HREF="0092c.txt" OPERATOR="0090bSm=1">//~ 0092c
+<A HREF="0092b.txt" OPERATOR="">//~ 0092b

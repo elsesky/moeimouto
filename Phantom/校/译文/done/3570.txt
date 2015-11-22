@@ -1,0 +1,260 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right boss_room wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="boss_room">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　同一夜，同一时刻……
+
+区域黑帮组织·梧桐组组长……梧桐海典的宅邸，来了一位深夜的访客。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是志贺吗……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「深夜来访，打扰了」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看来是坏消息啊」
+
+<BOX type="2">//%w
+　在这样的时间毫无理由地突然造访。
+　这个一生都活在修罗道之中的老狐狸自然明白其中的意思。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是藤枝美绪小姐的事」
+
+<BOX type="3">//%m
+　志贺也做好了觉悟。没有多说一句废话。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「都怪志贺我保护不周，让大小姐陷入了困境」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　没有激动也没有慌乱，老人用岩石一般的沉默接下了志贺的报告。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「到现在事态还是分秒必争的状况」
+
+「志贺我已经做好了觉悟」
+
+「但在那之前，应该先把美绪小姐救出」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「所以，今夜我有一个请求」
+
+「我想把梧桐家的人全部投入搜索……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「元凶……是那帮美国人吗？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　老人的慧眼让志贺感到浑身发冷。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美绪的性命还在吧？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是的，这可以确定」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那么……」
+
+「我们不要出手，志贺。
+  别出动梧桐组」
+
+「一切都交给那帮外国人处理」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可是……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是动用组员，事情就会传遍日本」
+
+「梧桐组究竟为什么会为了一个女孩子大动干戈……大家都会想知道」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「也不需要你做了断。
+　没这个理由」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可是，那样的话……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没有就是没有。志贺」
+
+「梧桐和藤枝家没有关系」
+
+「也不能有关系。
+  不管是从前还是现在」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　这样说着，老人那严肃的目光暂时望向了远方。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「知道了吧。只要美绪还没事就不要有任何行动」
+
+「只要不是要钱或是恐吓，就没有我们能出手的地方」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过还是得感谢你的关心，志贺」
+
+「说到底黑帮这种东西就是没用的废物，特别是到了要保护什么的时候……」
+
+「刀和子弹都只能用来破坏，保护不了任何东西」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……我明白了」
+
+「我会铭记于心的……」
+
+//> right bay3 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　同一夜，不同的地方……
+
+　赛斯·玛斯塔正简单地检阅着召来的私人卫队。
+
+<CLEAR><BACKGROUND SRC="3570x1">//# 3570x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+这是赛斯在2年前组建的亲卫队
+——“数字姐妹”（Zahlen-Schwestern）
+
+　她们是赛斯通过更有效率地实施根据Ein确立的调教程序而创造出的少女卫队。
+　换言之就是“量产型”。 
+
+“Vier”、“Fünf”、“Sechs”、“Seiben”、“Acht”、“Neun”……全员一共6人。
+
+　假面下的面容不过是十几岁的少女，但她们战斗力足以与精锐的特种部队匹敌。这一点赛斯深信不疑。
+
+　不知恐惧，也不知慈悲，
+　她们只是如忠实的猎犬一般的、传播死亡的自动人偶。
+
+　这就是赛斯追求的究极士兵。
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# bay3 1 sice 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　无论是志贺的意思还是梧桐组与Inferno的关系，
+  事实上都没有被赛斯放在眼里。
+
+　当Drei将Ein和Zwei逼得走投无路的时候……这些赛斯亲手制作的作品们就将上演梦幻般的表演。
+
+　当然，数字姐妹们也会参加。
+
+　优良作的Ein，实验作的Zwei和Drei。体现着赛斯理想的少女亲卫队将与他们展开一场怎样的战斗呢。
+
+　单是想到这里，赛斯就已经难以抑制内心的激动。
+
+<CLEAR><BACKGROUND SRC="ak_74_000">//# ak_74_000 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　与此相配的小道具，则是从俄罗斯黑帮那里弄来的AK74突击步枪。
+　米哈伊尔·卡拉什尼科夫制造的名枪。
+
+
+（注：AK74突击步枪，前苏联制造，由前苏联枪械设计师卡拉什尼科夫领导的设计小组在AKM突击步枪的基础上改进而成。1974年定型生产，它是前苏联装备的第一种小口径步枪，也是世界上大规模装备部队的第二种小口径步枪（第一种是美军的M16自动步枪）。AK-74于70年代装备苏联军队，逐步取代AKM，首次露面是在1974年11月7日的莫斯科红场阅兵式上。在1980年代是前苏联军队制式步枪）
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# bay3 1 sice 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　虽然将舞台选在这样的极东岛国有些可惜，但也因此不会有人打扰，就像是赛斯独占了全场。
+
+　接下来，就等开幕的铃声响起了。
+
+<calc workname="gun01" operator="1" mode="global">
+<A HREF="3580.txt" OPERATOR="">//~ 3580

@@ -1,0 +1,150 @@
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だが俺たちも、まさか筋書きに
+　続きがあるとは思わなかった」
+
+「まさか最後にゃ、
+　俺たちを抜きにして梧桐組と
+　繋がる腹だったとはな」
+
+「口封じに俺たちをバラす一方で、
+　ドサクサに紛れて自分のライバル
+　まで消しやがった……」
+
+「どこまで腹黒いんだか
+　知れねぇや」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もうインフェルノも何も
+　知ったこっちゃねぇ」
+
+「ここまで舐められて
+　黙っていられる
+　梧桐大輔じゃねぇんだよ」
+
+<BOX type="0">//%w
+　押し殺した梧桐の声は、
+　なまじ大声で吼えるより、なお獰猛な気配があったが、
+　もう、それに臆するだけの心も、持ち合わせてはいなかった。
+
+　ただ、笑うほかなかった。
+
+　誰も彼もが、筋書き通りに踊る人形だったのだ。
+
+　クロウディア……
+　なんて女だ、あんたは。
+
+　誰も彼もが、1年も前から、彼女の掌の上で弄ばれていたのか？
+
+　……だが、おかしい。
+　確かに梧桐たちの生命を脅かした奴はいたが、
+　断じてそれはクロウディアではない。
+
+　誰よりもクロウディアが、その正体を知ろうと躍起になっていた。
+　彼女のただ一人の尖兵として馳せた身であればこそ、断言できる。
+
+　敵は、他にいる。
+
+　お互い秘密を抱えあう梧桐とクロウディアの間に、
+　疑心暗鬼という名の楔を打ち込んで、亀裂を作ろうとした奴が。
+
+「梧桐さん、俺たちじゃない。信じてくれ」
+
+「クロウディアだって、
+　俺を使って探ってたんだ。あんたたちを襲った敵を」
+
+「どこかに、俺たち全員をハメた奴がいる」
+
+「あんたが、ここでヤケを起こしたら、ますますそいつの思う壺だ!!」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「陳腐だぜ。
+最期の台詞にしちゃ、下の下だな」
+
+「テメェはとっとと舞台を降りな。
+　もう、潮時だぜ」
+
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="0">//%w
+　梧桐は懐からコルトを抜き、大きく虚ろな銃口を見せる。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　まずい……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　静寂を破ったのは、梧桐の拳銃ではなく、
+　リズィより先に脳天を撃ち抜かれたのは、
+　取り巻きのヤクザの一員だった。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　続けざまに轟く銃声。
+　夜霧を切り裂く曳光弾。
+　マズルフラッシュの閃きが、稲光のように夜空を照らす。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　突撃ライフルの掃射だった。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1430x1">//# 1430x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　あそこだ……すぐ頭上のコンテナの上!?
+
+<se id="2" src="教会ヤクザ銃撃" mode="normal" time="" loop="on" effect="">//!se 
+　だが、まるで位置が読めていないヤクザたちは、
+　ただ銃声に負けじと罵声を張り上げながら、
+　盲滅法に銃を撃ちまくるほかない。
+
+　梧桐とて同然だった。もはや虜囚の二人は眼中になく、
+　見えざる敵に怒りの銃弾を撃ちまくっている。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+　その場にいる全員が、即座に散開する程度の判断力を備えていれば、
+　まだ被害も抑えられただろうが、
+　そんな訓練とは無縁な無頼漢の群れである。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　襲いくる弾丸の雨から、身を隠す術すらなく、
+　十余人の男たちは、怒声と悲鳴を張り上げながら、
+　次々と絶命していった。
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「リズィ！」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「おうよ!!」
+
+<se id="2" src="教会ヤクザ銃撃" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="波戸場バイパー">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　呼ぶまでもなく心得たもので、
+　彼女一人は恐慌に陥ったヤクザたちを後目に、
+　さっさとヴァイパーに飛び乗っていた。
+
+<BOX type="4">//%sL
+「ずらかるぞ、ファントム!!」
+
+「乗りな！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+<A HREF="1445.txt" OPERATOR="">//~ 1445
+　

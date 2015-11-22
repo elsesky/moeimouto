@@ -1,0 +1,26 @@
+//> left 僷僀僜儞 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="僷僀僜儞3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　训练中，用的最顺手的枪……
+
+　这样的话，就是这把柯尔特“蟒蛇”了。
+
+　大小与手相适合的枪把，还有易于掌控的尺寸。
+  只有这把枪与我最合得来。
+
+　用这把枪的时候，射击的成绩也是最好的。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<CALC WORKNAME="俧僷僀僜儞" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a

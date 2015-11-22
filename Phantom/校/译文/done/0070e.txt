@@ -1,0 +1,48 @@
+　突然间，
+　就像自己在做什么可耻的事情一样，产生了一种莫名的负罪感。
+
+　这样目不转睛地盯着面前如同全裸一般的少女，总归是不太好。
+
+　Ein却没有感到什么不自然，
+  她就这样没有防备地站在那里，更加重了我的罪恶感。
+
+　这种心情简直就像是在对完全不会抵抗的对手施虐一样。
+
+//> left room1d wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……没什么」
+　
+　小声嘟囔着，我翻过身，背对Ein睡去。
+
+　避开Ein的视线，
+  我突然有种如释重负的感觉，
+  这才发现手掌已经渗出了汗。
+
+　可恶，自己在说什么呀……
+　简直就像个笨蛋一样。
+
+//もえらＳＥ追加
+<se id="1" src="アイン寝る用意" mode="normal" loop="off">
+
+<se id="2" src="zipper" mode="normal" time="" loop="off" effect="">//!se zipper
+　背后传来拉上睡袋拉锁的声音……
+　之后，房间里安静了下来。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　我到底想要问Ein什么呢……
+　由于紧张的缘故，
+  重要的部分全被自己忘掉了。
+
+　没等自己想明白，意识已经变得模糊，
+　我就这样沉入了睡梦的深渊。
+
+<A HREF="0076.txt" OPERATOR="">//~ 0076

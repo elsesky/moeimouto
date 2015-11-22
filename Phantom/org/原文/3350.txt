@@ -1,0 +1,56 @@
+<BOX type="0">//%w
+　……どう考えても、無理だ。
+　キャルの話をするには、どう工夫しても、アメリカでの暮らしについて触れせざるを得ない。
+
+　たとえ誤解を招くことになろうとも、
+　真相に比べれば、誤解された方がまだましだ。
+
+「……帰ろうか」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……はい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さっきまで、一分一秒も惜しいと思っていた時間だが、
+　今となっては、持て余すほどに長く感じられた。
+
+<CLEAR><BACKGROUND SRC="station_day">//# station_day 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　駅前で別れるまで、二人はほとんど、言葉を交わすことがなかった。
+
+「じゃあ、また明日」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はい」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今日は、ありがとうございました」
+
+<BOX type="0">//%w
+「こっちこそ……」
+　
+　ごめん、と、そう言いかかったところで言葉を呑み込んだ。
+
+　蒸し返してどうする？
+　隠すと決めた以上は、腹をくくって、なかったことにしてしまうしか……ない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ぎこちない別れの挨拶の後、美緒は改札口を目指す人の波に呑み込まれていった。
+
+　結局、美緒に対しては、
+　すべてを嘘で塗り固めて接することしかできないのか。
+　キャルのときと、同じように……
+
+<A HREF="3360.txt" OPERATOR="1330=1">//~ 3360
+<A HREF="3365.txt" OPERATOR="">//~ 3365

@@ -1,0 +1,248 @@
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　忽明忽暗的枪火之下，两条身影在礼拜堂内狂舞。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p2">//#! 3720p2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+{ヒロイン}在扣动扳机后，也开始固执地向凯尔不停扫射。
+由于礼拜堂的建材是水泥，所以无法指望子弹能够贯穿或弹射。
+但是，如果对手置身于狭窄的侧廊里，就可能会被飞散的碎片击伤。
+
+　{ヒロイン}在侧廊的某个位置……
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　正当我在粉尘中眯起眼睛的时候，彩绘玻璃的光照下出现一个急速奔驰的身影。
+
+<se id="2" src="" mode="fadeout" time="3">
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="3720p4">//# 3720p4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+不知何时，{ヒロイン}已经从侧廊移动到了祭坛旁边。
+借助信徒席的遮掩，{ヒロイン}弯着腰从祭坛前跑了过去。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p2">//#! 3720p2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　紧追其后的，是凯尔手中AUG的枪口。
+
+<CLEAR><BACKGROUND SRC="3720p4">//# 3720p4 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="" mode="fadeout" time="3">
+<BOX type="0">//%w
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+5.56mm的高速子弹扫射在信徒席上，信徒席的一端立刻被击的粉碎，仿佛被磨床的砂轮磨过一般。
+{ヒロイン}在距离子弹一步远的前方，以疾风般的速度奔跑着。
+
+<se id="2" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="3720p5">//# 3720p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{ヒロイン}刚滚进凯尔一侧的侧廊里，便立刻横着身子单手扣动了冲锋枪的扳机。
+
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<se id="1" src="" mode="fadeout" time="3">
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720x5">//#! 3720x5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+虽然凯尔使用的是容易左右回转的AUG，但在如此狭窄的空间内仍旧很难活动，况且对手使用的还是与大型手枪相同尺寸的Vz61冲锋枪。
+因此，她的行动不得不{ヒロイン}慢上几秒钟。
+
+　就在凯尔转身退到柱子后面前的一刹那……在每秒发射20发子弹的Vz61面前，这便是致命的破绽。
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　一瞬间，凯尔做出了令人难以置信的举动。
+
+　她右手松开AUG，以抓在左手中的握把为轴，使枪口像旋棍一样转了一圈，然后立刻将枪又举了起来。
+<se id="1" src="僗僩僢僋嵱偐傟" mode="normal" loop="off">
+
+<se id="2" src="" mode="fadeout" time="5">
+　如此一来，凯尔暴露在{ヒロイン}枪口下的右半身便被AUG的枪柄挡住了。
+
+　本应击在她肩膀上的0.32口径ACP子弹仅仅击碎了玻璃纤维制的枪柄。
+
+<se id="1" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p1">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　凯尔就这样跃进了信徒席……她在半空中扔掉已经无法使用的AUG，从腰后同时拔出两把自动手枪。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1 elen5^3 20
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{ヒロイン}也扔掉子弹打光的冲锋枪，拔出了Python。
+
+<se id="2" src="05_02_6楢幩" mode="normal" time="" loop="off" effect="">//!se shotM2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　{ヒロイン}瞄准躲在信徒席后面的凯尔，毫不犹豫地连开6枪。
+  同时，她一步步地向从信徒席朝祭坛方向移动的凯尔迫近。
+
+<wait time="800">
+<se id="2" src="" mode="fadeout" time="10">
+<se id="1" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僪儔僀擇挌対廵B">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　可是，等到{ヒロイン}的枪停止射击后，凯尔也冲进忏悔席，横着举起两把手枪以连射还击。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch2">//#! INchurch2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　两把自动手枪编织出的弹幕疯狂地射向{ヒロイン}藏身的祭坛，这份威力是左轮手枪无法相比的。
+
+　躲在祭坛后面的{ヒロイン}扔出了打光子弹的转轮。
+
+<CLEAR><BACKGROUND SRC="僪儔僀廵寕愴">//# INchurch5 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔注意到她的举动，抢先一步躲进了忏悔席中。
+
+<se id="1" src="05_02_6楢幩" mode="normal" time="" loop="off" effect="">//!se shotM2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　太奇怪了。
+　{ヒロイン}的战斗方式完全没有她一贯的谨慎。
+　这……简直就是凯尔。
+
+<CLEAR><BACKGROUND SRC="3720p1">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}又打光了全部六发子弹，只能等在那里挨打。
+  凯尔的9mm帕拉贝鲁姆弹在祭坛那里掀起了一阵暴风。
+
+<se id="2" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僪儔僀擇挌対廵B">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　战斗完全步入了凯尔的节奏。
+
+　通过疯狂的扫射实现压制。
+  凭借火力的强弱决定胜负。
+
+　按照当前态势发展下去的话，火力强大的凯尔将占据绝对的优势。
+
+　虽然武装有所不同，但{ヒロイン}为什么会如此轻易地步入凯尔的节奏呢？
+
+<CLEAR><BACKGROUND SRC="傾僀儞廵寕愴">//# INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……不，果真如此吗？
+  如果{ヒロイン}这样做并非出于迫不得已，而是故意的呢？
+
+　脑中闪现的念头令我感到一阵战栗。
+
+<se id="1" src="02_05" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僪儔僀擇挌対廵B">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+　凯尔的战斗方式看似猛烈异常，可实际上却缺少足够的变化。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　是的，如果{ヒロイン}已经看穿凯尔的打法，打算借势以其人之道还治其人之身……
+　虽然凯尔打算凭借火力优势压倒对方，但事实上她已经陷入了对方的掌控之中……
+
+<se id="2" src="" mode="fadeout" time="3">
+<se id="1" src="02_05" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="傾僀儞廵寕愴">//#! 3720p1 1
+<WIPE EFFECT="fade" TIME="0">
+　{ヒロイン}并不是简单地被压制住了。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　她正在一步一步将凯尔引诱到存在于其自身战斗方式中的“陷阱”里。
+
+<CLEAR><BACKGROUND SRC="傾僀儞廵">//# INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="" mode="fadeout" time="10">
+<BOX type="0">//%w
+　就在凯尔弹匣里的子弹将要打光的时候，{ヒロイン}从祭坛后面跳了出来，举起第三次填满子弹的手枪一通乱射，
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　同时向凯尔藏身的忏悔席冲去。
+
+<CLEAR><BACKGROUND SRC="僪儔僀廵寕愴">//# INchurch5 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{ヒロイン}的突击无异于自杀，凯尔恐怕已经确信胜利在握了。
+
+　在到达忏悔席前，{ヒロイン}便会射光枪里的六发子弹。
+  已经没有了藏身之处的她将彻底成为凯尔射击的靶子。
+
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="傾僀儞廵">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　在信徒席中奔跑着、单手开枪的{ヒロイン}甚至根本没有瞄准。
+　这是当然。
+　因为这六发子弹根本没打算击中对手。
+
+<se id="3" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僪儔僀廵寕愴">//# INchurch5 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　躲在忏悔席里的凯尔只是等待着第六声枪响，根本没有注意到{ヒロイン}的姿势。
+　当然，她也没有注意到{ヒロイン}藏在身后的左手……以及拿在左手中的小刀。
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="傾僀儞幘憱">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　{ヒロイン}用手指夹住刀刃，做好了投掷的准备。
+
+　当Python陷入沉默，凯尔从忏悔席探出身来的那个瞬间……{ヒロイン}便会打出她必杀的“第七枪”。
+
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch5">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　这次攻击将完全出乎凯尔的意料，她根本不可能有办法躲避……
+
+<calc workname="gun09" operator="1" mode="global">
+<A HREF="3730.txt" OPERATOR="3545c=1">//~ 3730
+<A HREF="3830.txt" OPERATOR="">//~ 3830
+
+
+545c
+<A HREF="3730.txt" OPERATOR="">//~ 3730
+<A HREF="3830.txt" OPERATOR="">//~ 3830

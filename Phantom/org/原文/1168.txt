@@ -1,0 +1,17 @@
+<BOX type="0">//%w
+　扱い馴れたベレッタにも惹かれたが、
+　正直なところ、前回のスライド破損の一件以来、
+　信頼していいものかどうか、判断に迷っていた。
+
+　大事をとって、このシグ＝ザゥアーにしてみるか。
+　口径も装弾数も一緒なら、そんな違和感もないだろう。
+
+<CALC WORKNAME="射撃音" OPERATOR="21_03">//
+<CALC WORKNAME="銃" OPERATOR="シグ">//
+<CALC WORKNAME="銃画像" OPERATOR="">//
+<CALC WORKNAME="射撃画像" OPERATOR="">//
+<CALC WORKNAME="構え画像" OPERATOR="">//
+<CALC WORKNAME="1168" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170
+0

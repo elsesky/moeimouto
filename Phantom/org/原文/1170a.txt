@@ -1,0 +1,122 @@
+//> left vegas wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="vegas">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　生き残ったヤクザたちの監視を始めて、一週間が経過していた。
+　一昨日から連中は、ここラスベガスにまでツアーを組んで豪遊中である。
+
+　何の緊張感もなく、観光気分で遊び呆けている梧桐たちが相手なら、
+　気取られないよう監視するのは、造作もないことだった。
+
+　むしろ、同様に梧桐たちを見守る別の視線の有無……
+　そちらに神経を尖らせねばならない。
+
+<CLEAR><BACKGROUND SRC="kazino2">//# kazino2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　クロウディアの推測……再び梧桐たちが危険に曝されるという予見に、
+　信憑性を与える事実がひとつある。
+　もっともそれは、クロウディア自身も知らない情報なのだが。
+
+　最初の取り引きに臨んだ4人を殺した襲撃者。
+　正体は依然、不明だが、その目的は金ではない。
+
+　25キログラムのコカインと交換されるはずだった500万ドルは、
+　今、ノルマンディ通りのロフトに眠っている。
+
+　それを知らずに、金銭強奪の線で犯人を追っているインフェルノは、
+　当然ながら捜索に行き詰まっていた。
+
+　こうしてヤクザに張り付いて待つというのも、消極的な手段だが、
+　それでもミスリードされているインフェルノよりは、
+　前を走っていることになる。
+
+　キャルの保身のためには、どうあってもインフェルノを出し抜いて
+　襲撃犯を探し出さねばならないが……
+　今、焦りは禁物だ。ここは辛抱して待つしかない。
+
+　第一、ワイズメルが真面目に探しているかどうかが、
+　そもそも問題なのだ。
+
+　クロウディアの懸念通り、裏で糸を引くのがワイズメルだとすれば、
+　すべてが狂言だったという結論になる。
+
+//> left kazino wide 255 godo^3 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="kazino">//
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　さっきから快調に勝ち続けている梧桐だが、その舎弟の室戸は、
+　どうにもツキに恵まれず、相当、負けが混んでいる様子だ。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+//<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　もう一人の舎弟の志賀という男は、ゲームに加わる様子がない。
+　常時、影のように梧桐の傍に付き従っている。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　結局、臍を曲げたのか、
+　室戸はゲームを下りてバーの方に行ってしまった。
+
+　気にはなったが、本命の梧桐を放置して追うわけにもいかない。
+
+　相棒がいればな……
+　ふと頭を掠めたそんな思いから、キャルへと連想が繋がって、
+　苦い感慨が胸に湧く。
+
+<CLEAR><BACKGROUND SRC="1160p2">//# 1160p2 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　この前の射撃訓練での驚きは、今も記憶に新しい。
+
+　あれは何かの偶然だったと、
+　頭の中では、そう、安直に片を付けていた。
+
+　だが実のところは、思い起こして、深く考えるのが嫌なだけだ。
+
+　あの、天真爛漫で無邪気なキャルが……
+　実は殺しの天才だなんて、どうあっても認めたくはない。
+
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そういえば料理についても、あの子は似たようなことを言っていた。
+
+　旨いと思えば、真似するだけだと……
+
+　あの時は聞き流していたが、考えてみれば、生半可なことじゃない。
+
+　真似などと、言ってみるだけなら容易いが、
+　口にしたものの味を再現するというのは、
+　つまりイメージ通りの味付けが、自在にできるということだ。
+
+　万事につけて、あの子は天才肌なのかもしれない。
+
+　なら尚のこと、彼女には、より相応しい方向に才能を向けてほしい。
+　なにも殺し屋になるいわれなんて、どこにもないのだ。
+
+　やはり……
+　彼女のためを思うなら、長く傍に置いておくべきではない。
+
+　可能な限り早く、あの子は解放しなければ。　
+
+<A HREF="1170b.txt" OPERATOR="">//~ 1170b

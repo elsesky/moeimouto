@@ -1,0 +1,12 @@
+<BOX type="0">//%w
+　何の気なしに、今夜は.357マグナム口径のパイソンを手にとってみた。
+　尾行の助っ人くらいなら、まさか十数発の弾数に
+　ものを言わせるようなことにはなるまい。リボルバーで充分だ。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

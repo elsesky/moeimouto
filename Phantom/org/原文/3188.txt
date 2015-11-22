@@ -1,0 +1,76 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left diningHall wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mob" mode="fadein" old="fadeout" time="10" loop="on">//$ mob.swa 0 255
+<BACKGROUND SRC="diningHall">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　学食はいつものように、まるで市場のような活気で沸いていた。
+
+　暴れ盛りの少年少女が、
+　誰に率いられるでもなく、これだけの密度で集まると、
+　やはり気圧されるほどの喧しさが場に溢れる。
+
+　売り切れ寸前の購買部に、我先にと殺到する生徒たちは、
+　ちょっとした暴徒の様相である。
+
+　その点、麺類やカレーライスといったセルフサービスの厨房は、
+　多少割高だというだけの理由で、比較的平穏な行列で済んでいた。
+
+<A HREF="#スルー" OPERATOR="3080a=0">
+　美緒には咄嗟の言い訳でああ言ったが、
+<MARKER NAME="#スルー">
+　いつも昼食は購買部ではなく厨房のメニューに依っていた。
+　たかだか百円かそこらの差で、あの騒動に巻き込まれたのでは、
+　割が合わない。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっと、あんた」
+
+<BOX type="0">//%w
+　妙に険のある声が、背中にかけられた。
+
+<BOX type="5">//%sR
+「なんであんたが、
+　ここにいるのよ？」
+
+<BOX type="0">//%w
+　あからさまに不機嫌な早苗だが、まるきり質問の意図が掴めない。
+
+「なんでって……なんで？」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あぁぁもう、
+　あのイカズゴケ候補生!」
+
+<BOX type="0">//%w
+　訳の分からないことを言いながら、地団駄を踏む早苗。
+
+<BOX type="5">//%sR
+「まぁ、いいわよ。どっちみち
+　今日は邪魔が入ることに
+　なってたみたいだし」
+
+<BOX type="0">//%w
+「だから、何なんだよ一体？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんたにお客さんよ」
+
+「なんだかよく判らないけど、
+　向こうの学校で
+　担任だったっていう先生」
+
+「ギュゼッペさんとか
+　言ったっけ？」
+
+<A HREF="3235.txt" OPERATOR="">//~ 3235

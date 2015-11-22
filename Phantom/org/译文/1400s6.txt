@@ -1,0 +1,11 @@
+//> left シグ wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="シグ">//
+<WIPE EFFECT="fade" TIME="20">
+<CALC WORKNAME="Ｇシグ" OPERATOR="1" MODE="global">//
+<wait time="200">
+<A HREF="1408a.txt" OPERATOR="1168=1">//~ 1408a
+<A HREF="1408.txt" OPERATOR="">//~ 1408

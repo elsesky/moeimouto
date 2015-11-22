@@ -1,0 +1,46 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1480x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1480x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　仿佛是不吉的阴影一样，一辆奔驰停在了阁楼的前面。
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="right">//# randy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　从车上走下来的巨汉，是维斯梅尔的亲信。
+　没记错的话，他的名字是……兰迪·韦伯。
+　据说他有着特种部队一样的身手。
+
+<BOX type="5">//%sR
+「不好意思，Phantom，请跟我走一趟。维斯梅尔先生想见你」
+
+<BOX type="0">//%w
+　他的话可谓绵里藏针，透露出对我的威胁。
+
+「什么事？」
+
+<BOX type="5">//%sR
+「维斯梅尔先生会亲自告诉你的」
+
+<BOX type="0">//%w
+　事到如今，我已经顾不上对维斯梅尔的霸道作风表示不满了。
+
+　不过，仔细想一想，这也是一个探探他底细的机会。
+
+　如果维斯梅尔在打着明天会谈的主意，那么试着套一套他的话，或许能得出什么线索。
+
+<BUSTUP NAME="randy" face="2" MODE="on" zoom="" ALIGN="right">//# randy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「放心吧，不会占用你太长时间的」
+
+<BOX type="0">//%w
+「但愿如此吧」
+
+<A HREF="1245.txt" OPERATOR="">//~ 1245

@@ -1,0 +1,208 @@
+「一定要死的话，就死在你的手上好了」
+
+「狠下心来杀了我吧」
+
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　闭上眼睛，深深地呼出一口气，等待解脱的那一刻。
+
+　可是，不管等了多久，枪声还是没有响起。
+
+<BOX type="5">//%sR
+「……求你了。你也拔出枪来吧」
+
+<BOX type="0">//%w
+　耳边传来{ヒロイン}苦苦的哀求。
+
+　她应该是说自己无法对一个毫不抵抗的人下手吧。
+　这可不像她该有的感伤啊。
+  算了，要是这么做能减轻她的负担，就如她所愿吧。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　于是，我当着{ヒロイン}的面，从怀中拔出枪来。
+
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="right">//# elen6^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「把枪口对准我」
+
+<BOX type="0">//%w
+　我按照她说的，将准星对准了{ヒロイン}的眉心，看起来就像要杀死她一样。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">//# elen6^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对，这样就行了」
+
+「就这样扣下扳机，快点」
+
+<BOX type="0">//%w
+「……」
+
+　她的语气很急切，好象被什么追赶着一样。
+　以前的{ヒロイン}决不会说出这样的话。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BOX type="5">//%sR
+「求求你，杀了我，然后逃走吧」
+
+「不要死在这种地方」
+
+<BOX type="0">//%w
+「这样的事情……我不可能做得到吧」
+
+<BUSTUP NAME="elen6" face="9" MODE="on" zoom="" ALIGN="right">//# elen6^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那这一切都是谎言吗？」
+
+「即使要伤害别人，也要以自己的意志活下去」
+
+「……那个时候，你明明这样说过」
+
+<BOX type="0">//%w
+　我无言以对。
+
+<BOX type="5">//%sR
+「……虽然只有很短的时间，但我憧憬过，那一天的你的强大……」
+
+「我一直相信你肯定还活着……」
+
+「肯定还在坚强自由地活着……就因为一直这样想着，我才能活到今天」
+
+<BOX type="0">//%w
+　我们就像是在完全不懂彼此心意的情况下分别了一样……
+　那天以来自己内心所受的伤痛，被{ヒロイン}的话语治愈了。
+
+<BUSTUP NAME="elen6" face="0" MODE="on" zoom="" ALIGN="right">//# elen6^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你，是我的梦」
+
+「或许我也可以选择，选择另外一段人生」
+
+「你曾经向我承诺过……终有一天，我也能拥有那样的人生」
+
+「只是因为你还活着，这个世界才没有变成无尽的地狱」
+
+<BUSTUP NAME="elen6" face="9" MODE="on" zoom="" ALIGN="right">//# elen6^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……所以，求求你，开枪吧」
+
+「我不想一个人活在没有你的世界里」
+
+<BOX type="0">//%w
+「{ヒロイン}……」
+
+  我不知道，也不可能知道。
+  不知道从什么时候起，这样的自己……竟然成为了别人的心灵支柱。
+
+　可是，正因如此我才感到羞愧。
+
+　去哪里了呢？
+  一年前，支撑我这副身躯的气势。
+  不管怎样都要活下去、都要和{ヒロイン}一起逃跑的决意。
+
+　绝望也好，放弃也好，都是很容易的事情。
+  可是，那不单单是我一个人的失败。
+
+　那一天，灼烧着我胸口的那份感情，现在又重新复苏了。
+
+　我想拯救这个女孩。
+
+　我不想让她再过机器人一样的生活，
+  哪怕只有一点点也好，我要让她感受到作为一个人应该有的幸福。
+
+　只要有这样的信念，再稍微努力一下的话……
+
+　我下定决心，放下了举着的枪。
+
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="right">//# elen6^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+「我不会开枪的」
+
+　我没有让{ヒロイン}说出责难一般的言语。
+
+<BUSTUP NAME="elen5" face="2" MODE="on" zoom="" ALIGN="right">//# elen5^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，我……」
+
+<BOX type="0">//%w
+「随你喜欢吧」
+
+　说着，我站起来，一步步走近{ヒロイン}。
+
+「如果命令真的那么重要，那就朝我开枪吧。
+  从明天起，忘记我重新开始生活吧」
+
+「如果做不到，你就是个不合格的杀手，就是赛斯·玛斯塔的耻辱。
+  那样的话，你还是不要叫Ein这个名字比较好」
+
+　我一步一步，慢慢地逼近举着枪的{ヒロイン}。{ヒロイン}则一边哆嗦着嘴唇，一边朝后退去。
+
+<BOX type="5">//%sR
+「我要……把你……」
+
+<BOX type="0">//%w
+「决定吧，用自己的意志」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　像是再也无法忍受了一样，{ヒロイン}突然闭上了眼睛。
+
+<CLEAR><BACKGROUND SRC="1520p1">//# 1520p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　摇晃的枪口、颤抖的肩膀，都已经近在咫尺。
+  我一下子抱住了她。
+
+<se id="1" src="書偒偟傔傞" mode="normal" loop="off">
+　这时，{ヒロイン}将枪扔到一边，将胆怯的脸庞深深地埋进了我的胸口。
+
+　她那僵直生硬的身体，突然失去了力气。
+
+<BOX type="5">//%sR
+「我……不合格吗？」
+
+<BOX type="0">//%w
+「是啊」
+
+「这样就好了。
+  你不是Ein，是{ヒロイン}」
+
+「你已经决定了，不是吗？」
+
+//傑偝偐傝丗捛壛
+<CLEAR><BACKGROUND SRC="1520p2">//# 1520p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+　臂弯中{ヒロイン}的身体一直在不停地颤抖着。
+
+　她自嘲似地笑了起来。
+  但是，那的确是她的笑容。
+  是我第一次见到的、{ヒロイン}发自内心露出的笑容。
+
+「我们再重新来过吧」
+
+「这次，我们两个人一定不会再分开了……一起走到最后吧」
+
+<A HREF="1530.txt" OPERATOR="1127=1">//~ 1530
+<A HREF="1525.txt" OPERATOR="">//~ 1525

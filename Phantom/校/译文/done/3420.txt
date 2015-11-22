@@ -1,0 +1,38 @@
+<CLEAR><BACKGROUND SRC="coffeeshop">//# coffeeshop 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　之前的礼拜天。
+　和{姓}{名}在一起的时候，突然闯入的白人少女……
+
+　她究竟是什么人呢。
+
+　在美国的时候认识的人……{姓}是这么说的。
+
+　可是，如果仅仅是认识的关系，那个时候他们两人之间那种外人难以介入的气氛又是什么呢。
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio2^8 20  mio_room3 1
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20  mio_room3 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　不能再想下去了……
+　美绪这样告诫自己。
+
+　为什么想要介入进去呢？
+　自己应该没有这样做的理由吧。
+
+　回想起过去的点点滴滴……自己既没有特别喜欢的东西，也不曾被别人喜欢过。
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　即便发生了那样的事，美绪依旧没有讨厌{名}。
+　在那一天，她终于能够以一种非常好的氛围同{名}交谈了。
+
+  即使是在走廊中遇到{名}，美绪也没有提起关于那名金发少女的事。
+  美绪是这样，{名}也是如此，他也在有意地避开这个话题。
+
+　不能再想下去了。
+　现在必须要专心应对考试。
+
+<A HREF="3430.txt" OPERATOR="">//~ 3430

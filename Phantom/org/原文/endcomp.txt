@@ -1,0 +1,57 @@
+//////////////////////////////////////////////
+//all end complete?
+//////////////////////////////////////////////
+<BGM MODE="fadeout">
+
+<A HREF="#GUNCLEAR" OPERATOR="ENDCOMP">	//もう見たからここには用がない
+//エンディングを見たかどうかのチェック
+<A HREF="#NOALLCLEAR" OPERATOR="クロウエンド=0">
+<A HREF="#NOALLCLEAR" OPERATOR="エレンエンド=0">
+<A HREF="#NOALLCLEAR" OPERATOR="ドライエンド=0">
+<A HREF="#NOALLCLEAR" OPERATOR="美緒エンド=0">
+
+//コンプリート画像の表示
+<コマンド メニュー>
+<CALC WORKNAME="ENDCOMP" OPERATOR="1" MODE="global">//
+<BACKGROUND SRC="final2">
+<WIPE EFFECT="fade" TIME="7">
+<WAIT TIME="20000">
+<clear>
+<WIPE EFFECT="fade" TIME="10">
+
+<MARKER NAME="#NOALLCLEAR">
+<A HREF="#GUNCLEAR">
+//////////////////////////////////////////////
+
+
+
+//////////////////////////////////////////////
+<MARKER NAME="#GUNCLEAR">
+
+<A HREF="menu.nps" OPERATOR="GUNCOMP">	//もう見たからここには用がない
+//がんを全部見たかどうかのチェック
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇベレッタ=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇパイソン=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇガバメント=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="ＧＵＳＰ=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇイーグル=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇマテバ=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇシグ=0">
+<A HREF="#NOGUNCLEAR" OPERATOR="Ｇマグナム=0">
+
+//コンプリート画像の表示
+<コマンド メニュー>
+<CALC WORKNAME="GUNCOMP" OPERATOR="1" MODE="global">//
+<BACKGROUND SRC="銃コンプリート">
+<WIPE EFFECT="fade" TIME="7">
+<WAIT TIME="20000">
+<clear>
+<WIPE EFFECT="fade" TIME="10">
+
+<MARKER NAME="#NOGUNCLEAR">
+<A HREF="menu.nps">
+//////////////////////////////////////////////
+
+
+
+

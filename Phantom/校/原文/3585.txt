@@ -1,0 +1,146 @@
+//> right ruins3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　不穏なやり取りを、
+　美緒は闇の中で、
+　息を殺して聞いていた。
+
+<BOX type="5">//%sR
+「ああ、そうだよ。
+　{名}は抜きで、
+　あたし達だけで」
+
+<BOX type="2">//%w
+　誰かと……キャルが話している。
+　美緒の持っていた携帯電話で。
+
+　{名}では、
+　ないのか……？
+
+　だが、テンキーでダイヤルした様子はない。
+　電話に登録された番号を呼び出したのであれば、相手は美緒の知り合いのはずだが。
+
+<BOX type="5">//%sR
+「……オーケイ。あそこなら、
+　いいだろう。午後5時だね」
+
+「あんた、篠倉学園の上にある廃墟、
+　知ってるかい？」
+
+「……ああ、それだ。
+　美緒はそこにいる」
+
+「何か、
+　着るものを用意しといてやって」
+
+<BOX type="2">//%w
+　電話を切って、
+　キャルは腰を上げ……
+　そこで初めて、
+　見つめる美緒と目があった。
+
+　どうやら彼女は、美緒が眠っているものとばかり思っていたらしい。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　気まずそうに、視線を逸らし、
+　それからキャルは、重い口を押し割るようにして話し始めた。
+
+<BOX type="5">//%sR
+「済まなかった……なんて、
+　いまさら
+　言えた義理じゃないけどさ」
+
+「気にするこたぁ、ないよ。
+　野良犬に噛まれたとでも
+　思っときゃ、いい」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="left">//# mio3^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio3^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　謝罪の言葉には程遠いが、
+　それでも……
+　沈痛な声音は、あのキャルのものとは思えなかった。
+
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたしは、
+あんたに恨まれるまでもない女だ」
+
+「そうじゃなくても、あたしを
+　恨んで許さねぇって連中は、
+　もう他にごまんといる」
+
+「たぶん長生きすることはないし、
+　その時がくれば
+　間違いなく地獄に堕ちるさ」
+
+「だから、わざわざ
+　あんたが恨むまでもない。
+　忘れちまった方がいい」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="left">//# mio3^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio3^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　奇妙な沈黙の時間が過ぎた。
+
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あばよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　やおら踵を返し、
+　あとは振り向きもせずに、
+　キャルは部屋を出ていった。
+
+<A HREF="#分岐" OPERATOR="3520=1">
+<A HREF="3590b.txt" OPERATOR="">//~ 3590b
+<MARKER NAME="#分岐">
+<A HREF="#分岐2" OPERATOR="3545b=1">
+<A HREF="3590c.txt" OPERATOR="">//~ 3590c
+<MARKER NAME="#分岐2">
+<A HREF="#分岐3" OPERATOR="3190=1">
+<A HREF="3590a.txt" OPERATOR="">//~ 3590a
+<MARKER NAME="#分岐3">
+<A HREF="3590c.txt" OPERATOR="3120=1">//~ 3590c
+<A HREF="3590a.txt" OPERATOR="">//~ 3590a
+
+
+
+
+<A HREF="#分岐" OPERATOR="3520=1">
+<A HREF="3590b.txt" OPERATOR="">//~ 3590b
+<MARKER NAME="#分岐">
+<A HREF="#分岐2" OPERATOR="3545b=1">
+<A HREF="3590c.txt" OPERATOR="">//~ 3590c
+<MARKER NAME="#分岐2">
+<A HREF="#分岐3" OPERATOR="3190=1">
+<A HREF="3590a.txt" OPERATOR="">//~ 3590a
+<MARKER NAME="#分岐3">
+<A HREF="3590a.txt" OPERATOR="3120=1">//~ 3590c
+<A HREF="3590c.txt" OPERATOR="">//~ 3590a

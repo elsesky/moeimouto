@@ -1,0 +1,64 @@
+//> left rooftop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="rooftop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　刚才的是……枪声？
+
+　听上去离得很远，
+  难道说……
+
+<A HREF="#僗儖乕" OPERATOR="1280b=1">
+　我从枪盒中再次拿出Blaser，用狙击镜对准西南方向。
+　目标是半英里外伯纳海滩酒店的五楼。
+
+<A HREF="#崌棳">
+<MARKER NAME="#僗儖乕">
+　我拿起落在地上的Blaser，用狙击镜对准西南方向。
+　目标是半英里外伯纳海滩酒店的五楼。
+
+<MARKER NAME="#崌棳">
+　整楼的玻璃窗都在阳光下闪闪发光，只有那个地方被开了个大洞，像是张开的地狱之口。
+
+　这不可能……
+
+　我愕然地环视周围，目光所及之处只有无言耸立着的摩天大楼。
+
+　不对，不在近处。
+　刚才的枪声是从很远的地方传过来的。
+　声源的位置，大概离这里……还有1公里远。
+
+「这……不可能」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1290x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="1290x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//<se id="1" src="17_02" mode="normal" loop="off">
+
+<BOX type="4">//%sL
+「任务，完成」
+
+
+<BOX type="5">//%sR
+『……很好。
+  情况我已经确认过了，辛苦了』
+
+『你立刻以路线C撤离，等待下一个指示』
+
+<CLEAR><BACKGROUND SRC="1290p3">//# 1290p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……明白。现在开始撤离」
+
+<calc workname="gun26" operator="1" mode="global">
+<A HREF="1300.txt" OPERATOR="">//~ 1300

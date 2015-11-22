@@ -1,0 +1,163 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right room3 wide 255 inferuno1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　微にいり細に渡った
+　サイス＝マスターの陳述を、
+　マグワイヤは、ただの一言も
+　挿し挟むことなく聞いていた。
+
+　もはやマグワイヤの心を占めるのは、驚きでも怒りでもなく、重くのしかかるような疲労感だった。
+
+　マグワイヤもまた、梧桐組の加盟騒動からワイズメルの死に至るまでの顛末には、どこか作為的なものを感じ取っていた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　それゆえ、一年の時を経て忽然と姿を現した、この追放者の説明に、耳を傾ける気になっていた。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「先程、リズィ＝ガーランドから
+　緊急の連絡があった」
+
+「信じがたい話ではあるが……
+　サイス＝マスター、
+　君の話の裏付けは取れている」
+
+<BOX type="2">//%w
+　しかし、冤罪を晴らして
+　インフェルノへと復帰するための
+　雌伏だったとはいえ……
+
+　まさかこの男が、
+　ヤクザ達のオブザーバーを
+　務めていようとは。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　そして今、サイスの提示する決着は、さらに人を食ったものだった。
+
+<BOX type="4">//%sL
+「手段の是非はともあれ、梧桐大輔の業績は評価に値するものです」
+
+「たしかに１年前のコカイン強奪事件は、インフェルノにとっても手痛い記憶でしょう」
+
+「ですが、今、梧桐組が取り仕切る極東のマーケットの利潤は、消えたコカインに数倍する価値がある」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「なお加えて
+　感情論を説くのであれば……」
+
+「真相を知った時点で、即座に身内の粛正に踏み切ったミスタ志賀の英断も、どうかご一顧いただきたい」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　黙然と頭を垂れて、傍らに控えている若い日本人ヤクザを、マグワイヤは一瞥する。
+
+<BOX type="4">//%sL
+「つまり、どうしろと？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「インフェルノと梧桐組の同盟は、
+　引き続き維持すべきです。
+　このミスタ志賀を窓口にして」
+
+「梧桐組もまた、一部の人間の専横によって面子を潰されたという点では、インフェルノと変わらない」
+
+「ここは互いに手を取り合って、
+一刻も早く傷を癒すべきでしょう」
+
+<BOX type="2">//%w
+　損益の回収という点では、
+なるほど理にかなった提案だった。
+
+　ただでさえ、インフェルノにとっては破格の好条件だった、梧桐組との商談だが、梧桐組が要求していたマージンは、ペナルティという形で、さらに縮小される。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……よかろう」
+
+「ミスタ志賀。きみの同胞を唆した
+　クロウディア＝マッキェネンに
+　ついては……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「インフェルノが
+　責任を持って処断する」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「感謝します。
+　ミスタ＝マグワイヤ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「クロウディアの追跡には、すでに手勢を差し向けてあるが……」
+
+「問題は、ファントムだ。
+　未だ行方が掴めていない」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なるほど……」
+
+「もしよろしければ、
+　ミスタ＝マグワイヤ……」
+
+「彼の追跡には、
+　私のアインを差し向けても
+　宜しいでしょうか？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ほう……」
+
+「新旧ファントムの対決か。
+　面白い。やってみたまえ」
+
+<A HREF="1500.txt" OPERATOR="1450b=1">//~ 1500
+<A HREF="1600.txt" OPERATOR="1470a=1">//~ 1600
+<A HREF="1900.txt" OPERATOR="">//~ 1900

@@ -1,0 +1,693 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……友達には、今夜、渡りをつけてみる」
+
+「その返事を聞いてから、明日、もう一度話し合おう」
+
+　日を改めて、いかにもという強面な奴の顔を見せれば、
+　この子も納得するだろう。
+　たとえば、リズィとか……
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「う～ん、明日かぁ……」
+
+<BOX type="0">//%w
+「都合でも、悪いのか？」
+
+<BOX type="5">//%sR
+「ううん。ただ、明日まで
+　どうしてようかって思って」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ねぇ{名}、
+　今夜、泊めてくれない？」
+
+<BOX type="0">//%w
+「……なに？」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたし、今夜は寝るとこないの」
+
+「ジュディの部屋は、
+　家賃溜めまくってたから、けさ、
+　追い払われちゃったし……」
+
+<BOX type="0">//%w
+　……なるほど。
+　それで、この手荷物の量か。
+
+　まさかとは思うが、この娘……今夜の寝床を確保するために、
+　わざわざ話をこじらせたんじゃないだろうな？
+
+　どうにも、このキャルという子には、真意を計りかねるところがある。
+　さっきから、都合のいい方向にばかり
+　話を持っていかれているような気もする。
+
+　……故意にこっちを振り回そうとしてないか？
+
+「……わかったよ」
+
+　まぁ、いいだろう。
+　話を聞くまで身柄を押さえておけると思って、良しとするしかない。
+
+//> left room0c1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0c1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なんか……寂しい部屋ね」
+
+<BOX type="0">//%w
+　あまりにも生活感を感じさせないロフトの有様に、
+　キャルは面食らった様子だった。
+
+<CLEAR><BACKGROUND SRC="room0a1">//# dummy 20 room0a1 1
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「外泊ばかりで、あまり戻らないんでな……」
+
+　そう言ってはぐらかしながら、奥から吸塵器を引っぱり出す。
+
+　部屋で過ごす時間などなきに等しいだけに、
+　そうそう取り散らかしているわけでもないのだが、
+　それでも部屋の隅々に居座っている綿埃は、
+　あまり見せびらかしたいものじゃない。
+
+「ちょっと、待ってろよ」
+
+　手早く済まそうと、しばらくは掃除に専念していたが、
+　すぐにキャルを放っておくのが不安になってきた。
+
+　あまり遠慮やデリカシーを期待できそうな子じゃない。
+　いちおう、釘は刺しておくべきか？　
+“勝手に物に触るな”とか……
+
+<se id="1" src="coolbox" mode="normal" time="" loop="off" effect="">//!se coolbox
+<BOX type="5">//%sR
+「あーあ、この冷蔵庫、
+　ビールばっかじゃん」
+
+<BOX type="0">//%w
+　……遅かったか。
+
+<CLEAR><BACKGROUND SRC="room0b1">//# room0b1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　すでにキャルは我が物顔で、食べ残しのハンバーガーを、
+　せっせと冷蔵庫に詰め込んでいる。
+
+　結局、彼女の念願は、
+『食べきれないほどのハンバーガーを眺める』ことだけだったらしい。
+　観賞を終えた十数個のハンバーガーは、
+　すべてテイクアウトで持ち帰ってきた。
+
+　後生大事に仕舞っているが、痛む前に食べきる気なんだろうか。
+　……いや、それ以前に、
+　まさかあれを食べ尽くすまで居座る気じゃあるまいな？
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ね、ね、
+　ケーブルテレビ見れる？」
+
+<BOX type="0">//%w
+「……地上波だけだ」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちぇっ」
+
+<CLEAR><BACKGROUND SRC="room0a1">//# dummy 20 room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　床から半年分の埃を拭い、ベッドカバーを交換したら、
+　とりあえず一晩は過ごせそうな状態になった。
+
+<CLEAR><BACKGROUND SRC="room0b1">//# room0b1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャルはといえば、どうやら全部のバーガーの収納に成功したらしい。
+　……代わりに、中にあったビールがすべてテーブルに出してある。
+
+「……おい」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ、これ？
+　入りきらなかったんだ。
+　ごめんね」
+
+<BOX type="0">//%w
+　キャルは悪びれた風もない。
+
+「どうするんだよ、これは」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「邪魔だし、飲んじゃおうよ」
+
+<BOX type="0">//%w
+　頭を抱えたくなった。
+
+「おまえ、歳、いくつだよ？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}は？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「どう見ても、ハタチ過ぎてるようには見えないんだけどなぁ？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「未成年者の飲酒を反省するんなら
+　これ、捨てに行くの
+　手伝ってあげるよ」
+
+<BOX type="0">//%w
+　この娘は……
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1 dummy 20
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ほらほら、
+　しかめっ面してないで、
+　座ってよ」
+
+「ぬるくなっちゃうよ」
+
+<BOX type="0">//%w
+　もうこっちの返事も待たず、キャルは缶のプルトップを開けている。
+
+「おまえ、本当に大丈夫なのか？」
+
+<BOX type="5">//%sR
+「へーきへーき。いっつも
+　ジュディの晩酌してたんだから」
+
+「かんぱーい」
+
+<BOX type="0">//%w
+　いっそ酔っ払わせた方が、スムーズに話を聞き出せるかもしれない。
+　なかば悔し紛れだが、そう思って自分を納得させることにした。
+
+「ところで、歳は？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うん」
+
+<BOX type="0">//%w
+　妙にませているので、或いはとも思ったのだが、
+　聞けば何のことはない、見た通りの歳だった。
+
+<BOX type="5">//%sR
+「{名}はいくつ？」
+
+<BOX type="0">//%w
+「いくつに見える？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「んー」
+
+<BOX type="0">//%w
+　毛穴の数まで数えるように、まじまじとキャルに凝視される。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まさかとは思うんだけどさ……
+　年下？」
+
+<BOX type="0">//%w
+　あまりの回答に、思わずビールを気管に吸い込んでいた。
+
+　無様に噎せ返る様子を見て、さすがにキャルも反省したらしい。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ごめんごめん。冗談だって」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「んとね、同い年？」
+
+<BOX type="0">//%w
+「……年上だよ」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うそぉ!?」
+
+<BOX type="0">//%w
+　身も蓋もない驚き方をしてから、あわててキャルは取り繕う。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いや、えーと、その……
+　お若いのね」
+
+<BOX type="0">//%w
+　いくら東洋人の歳が見分けにくいとはいえ、
+　年下ってことはなかろうに。
+
+「おまえ、年下の小僧が車を乗り廻して、
+　ヤクの売人をしてると思ったのか？」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+　だがキャルには、そんな質問の方が見当違いに聞こえたらしい。
+
+<BOX type="5">//%sR
+「そんなの、ザラじゃん」
+
+<BOX type="0">//%w
+　……そういえば、そうだった。
+　彼女は、サウスセントラルの住人なんだ。
+
+　ストリートギャングの巣窟に成り果てた、あの地区では、
+　犯罪の低年齢化が、信じがたいところまで進んでいる。
+
+　もはやギャングの主流は、10代の少年だ。
+　小学生の構成員すら珍しくはない。
+
+　学校ですら、校内でのギャング抗争を恐れ、
+　警官を駐在させている有様なのだ。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　なるほどな。
+　子供扱いしていたら、しっぺ返しをくらうわけだ。
+
+　さっきから、なぜこうもキャルのペースに呑まれっぱなしなのか、
+　理由がようやく納得できた。
+
+　サウスセントラル在住の子供なら、
+　もう大人と一人前に張り合うだけのしたたかさを、
+　身につけていてもおかしくない。
+
+　飲みっぷりも、大したものだ。
+　さっきから、かなり早いペースで缶を空けている。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ぷっはー」
+
+「なぁに？このビール、
+　なんか凄ぅんごくオイシイ」
+
+「こんな銘柄、見たことない。
+　どぉこで買ったの？」
+
+<BOX type="0">//%w
+　そういえば、街中で見掛けるラベルじゃない。
+　たぶん輸入物だろう。
+　いつもリズィがケースで取り寄せてくれるのだが、
+　真面目にラベルを読むこともなかった。
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}ってさぁ、
+　やぁっぱ結構、
+　稼いでんでしょぉ？」
+
+<BOX type="0">//%w
+「おいおい、呂律が回ってないぞ」
+
+　やはりペースが速すぎる。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いーのいーの。
+冷ぇてるぅちに飲んじゃわなぃと、
+もぉったぃなぃって」
+
+<BOX type="0">//%w
+　……。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}、家族とか、
+　いなぃの？」
+
+<BOX type="0">//%w
+「天国だ」
+
+　まるきり嘘じゃない。
+　今は天国より遠いところで暮らしている。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ふぅん」
+
+「一人ぼっちなんだぁ。
+　あたしと一緒だね」
+
+<BOX type="0">//%w
+「……ご両親は、もう？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「知らない。忘れたわ」
+
+「あたしの親父、
+　最低のクズ野郎だったもん」
+
+「だから、
+　この街に逃げてきたんだ」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+　あまり、多くを聞きたい話じゃない。
+　この病んだ国には、いくらでも転がっている物語だ。
+
+「……一人で、ロスに？」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うぅうん。一人じゃなかったよ。ジュディが拾ってくれたから」
+
+「んでなきゃ、あたし死んでたよ。あん時、まぁだ5歳だったしぃ」
+
+<BOX type="0">//%w
+「……そうか」
+
+　ふと途切れた会話の隙間が、苦かった。
+　取り繕うように、言葉を足す。
+
+「だから、姉妹……か」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そぉよ。あたしの姉貴よ」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BOX type="0">//%w
+　キャルの眼差しは冥かった。
+　声も力なく、低かった。
+
+<BOX type="5">//%sR
+「そのときジュディが言ったんだ。
+『あたしの親父もクソ野郎だった』って」
+
+「親父が同じクソ野郎なんだから、あたしたち、姉妹だって」
+
+<BUSTUP NAME="cyall" face="b" MODE="on" zoom="" ALIGN="right">//# cyall^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だから、一緒に……
+　暮らそうって……」
+
+<BOX type="0">//%w
+　大粒の涙が、ぼとぼととテーブルの上に散る。
+
+　無法の街に、育った少女……
+　確かに、子供じゃないかもしれない。
+　下手な大人よりずっと、したたかかもしれない。
+
+　だが、酒に酔って死者を思い出せる歳じゃない。
+
+<BOX type="5">//%sR
+「なんで、死んじゃわなきゃ、
+　いけないの？」
+
+<BOX type="0">//%w
+　答えられは、しなかった。
+　誰に答えられる問いでもなかった。
+
+<BOX type="5">//%sR
+「ジュディが、何したっての？」
+
+「たまたま、あの晩、
+　あの道を歩いてたってだけで……
+　何でそれで、殺されちゃうの？」
+
+<BOX type="0">//%w
+「誰が、やった？」
+
+　酔わせて、喋らす……
+　そういえば、そんな企みもあった。
+
+　最低のクズになった気分だった。
+
+<BOX type="5">//%sR
+「知らないよ、そんなの」
+
+<BOX type="0">//%w
+　吐き捨てるように、言い放つキャル。
+
+<BOX type="5">//%sR
+「あんな真っ暗い場所で、
+　なにも見えるわけないよ」
+
+<BOX type="0">//%w
+　しゃくりあげながら、ようやく少女が洩らした真相は、
+　もうすでに、半ば予期できていた内容だった。
+
+　横から肩に腕を廻して、あやすように叩いてやる。
+
+「死に方にだって、色々ある」
+
+「さんざん苦しんで死ぬ奴もいるし、
+　誰にも悲しまれないまま、忘れ去られていく奴もいる」
+
+「それに比べれば、お前が泣くぶん、ジュディはまだ幸せだ」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「キャル、もう休め」
+
+　涙とともに、溜め込んだ疲労も湧いたのか、
+　キャルは言葉だけでなく、身体を支える力も失っていた。
+
+<CLEAR><BACKGROUND SRC="room0f1">//# dummy 20 room0f1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　細く軽い身体を持ち上げて、そっと奥のベッドに運ぶ。
+
+<CLEAR><BACKGROUND SRC="1070p1">//# 1070p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　洗い立てのシーツの上に横たえた時にはもう、
+　涙に濡れた目を閉じて、キャルは微かな鼾を立てていた。
+
+<BOX type="5">//%sR
+「ジュディ……」
+
+<CLEAR><BACKGROUND SRC="1070p2">//# 1070p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　閉ざされた瞼の隙間から、また一筋の雫が溢れ出る。
+
+　昨夜、失われたものは？
+　そう聞かれたら、どう答えようか。
+
+　組織の沽券、ならず者4人の命、そして500万ドルの札束。
+
+　だが、この少女の答えは違うだろう。
+
+　キャルは、たった一人の家族と、帰るべき部屋を失った。
+
+　失ったもののために、真相を暴く……
+　言葉は同じでも、意味には天と地ほどの差がある。
+
+　協力だと？　手伝いだと？
+　大嘘もいいところだ。
+
+　この子の心の傷を、つつき散らして拡げた挙げ句に、
+　結局、どれ程の情報が得られたというのか？
+
+//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　もう、やめにしよう。
+　これ以上、キャルを巻き込むべきじゃない。
+
+　朝になったら、お別れだ。
+　彼女は、彼女の人生に戻らせる。
+　あの歳の少女が一人で生きていくには、残酷な場所だとしても、
+　それでも、インフェルノと係わりを持たせるよりはマシだ。
+
+　……だが、
+　今夜一晩は、このベッドで休ませてやろう。
+　それがせめてもの罪滅ぼしだ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0b1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　シャワーを浴び、そろそろ休もうとしていた矢先、
+<se id="1" src="knock" mode="normal" time="" loop="off" effect="">//!se knock
+　玄関のドアが激しくノックされた。
+
+<CLEAR><BACKGROUND SRC="room0d1">//# room0d1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　誰だ？　こんな時間に。
+
+　用心のために銃を手にして、髪を拭いていたタオルを被せて隠す。
+
+<CLEAR><BACKGROUND SRC="レイジ部屋玄関">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　ドアミラーから外を窺うと、意外な顔ぶれが廊下に揃っていた。
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 randy 19
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 20 randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　アイザック＝ワイズメルと、その隣の巨漢は……
+　たしかボディガードのランディ＝ウェーバー。
+　噂では、デルタフォース崩れの凄腕らしい。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さらに、どういう訳かリズィもいる。
+
+<CLEAR><BACKGROUND SRC="room0d1">//# room0d1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「開けな、小僧！」
+
+<BOX type="0">//%w
+　あたり一帯に轟きそうな、ワイズメルの怒鳴り声。
+
+　嫌な予感はしたが、相手はインフェルノの幹部だ。
+　ドアチェーン越しにあしらえる相手じゃない。
+
+<CLEAR><BACKGROUND SRC="room0c1">//# room0c1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　チェーンを外し、鍵を開けると、
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se doorslam
+　その音を合図にしたようにドアが乱雑に開け放たれた。
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 randy 19
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 20 randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我が物顔で、ワイズメルとその側近は、ずかずかと入ってくる。
+
+<BOX type="5">//%sR
+「こりゃまた……ずいぶん殺風景なネグラだなぁ、ファントム」
+
+<BOX type="0">//%w
+「何の御用ですか？」
+
+　物々しい雰囲気につられて声が固くならないよう、
+　冷静を装ってそう訊く。
+
+<BOX type="5">//%sR
+「鯱張るなよ。らしくねぇぜ」
+
+「オマエのボスのクロウディアのせいで、俺は今、しち面倒くさい仕事を押しつけられてるわけだが……」
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我らがリズィ嬢が、街のネズミに何やらこそこそ探らせてるのが目についたんでな」
+
+「いろいろと面白い話を
+　聞かせてもらったわけさ」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　得意げに語るワイズメルの後ろで、
+　リズィが苦虫を噛みつぶしたような顔で俯く。
+
+　ジュディについて探らせていたのが、バレたのか？
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「例の娘ッ子は、この奥か？」
+
+<BOX type="0">//%w
+「ここに何をしに来たのかと、訊いてるんです」
+
+　必要以上に語気が荒くなっているのが、自分でもわかった。
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あのな、
+　こちとら暇じゃないんだよ」
+
+「クロウディアの尻拭いなんぞに割く時間は、1秒だって惜しいんだ」
+
+「娘と喋らせろ。
+　洗いざらい吐かす」
+
+<A HREF="1075.txt" OPERATOR="">//~ 1075
+
+吐かす」
+
+<A HREF="1075.txt" OPERATOR="">//~ 1075

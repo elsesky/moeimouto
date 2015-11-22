@@ -1,0 +1,142 @@
+//> left kazino wide 255 godo^3 20 siga^2 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="kazino">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……梧桐大辅依然是赢得不亦乐乎，暂时没有离开的意思。
+
+　现在我应该去看一下室户的情况吧。
+
+<CLEAR><BACKGROUND SRC="bar">//# dummy 19 dummy 20 bar 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这样想着，我来到了酒吧，然而却没有发现本该失意到极点的室户。
+
+　我的心一下子凉了半截。
+
+　尽量掩饰起内心的紧张，我微笑着向调酒师问道。
+
+「请问一下，我的朋友本来是在这里休息的，你知道他去哪里了吗……」
+
+　我故意用蹩脚的英语询问他，这样他就会把我当成一个普通的观光客了吧。
+
+<BOX type="5">//%sR
+「哦，你说的是那位日本客人吧？」
+
+<BOX type="0">//%w
+　调酒师带着一副知道内情的笑脸这样回答道。
+
+<BOX type="5">//%sR
+「他好象回房间了哦，跟一个年轻女子一起」
+
+<BOX type="0">//%w
+　之前的紧张瞬间变成了战栗。
+　
+　被摆了一道……
+
+　我不慌不忙地向调酒师道了谢，返回了赌场。
+
+<CLEAR><BACKGROUND SRC="kazino">//# kazino 1 godo^3 20 siga^2 19
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# kazino 1 godo^3 20 siga^2 19
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# kazino 1 godo^3 20 siga^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　梧桐大辅仍然沉浸在赌博中。当然，志贺也没有什么动作。
+
+　暂时不必担心他们。
+  像这样处于人群之中，而且倍受注目，在某种意义上讲是最安全的。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hotel0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="hotel0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　于是我离开赌场，迅速穿过大厅，乘上了电梯。
+
+<se id="1" src="elevator" mode="normal" time="" loop="off" effect="">//!se elevator
+<CLEAR><BACKGROUND SRC="erebeter3">//# erebeter3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在这个酒店中，梧桐组的3个人每人一个房间。
+　室户的房间是……9层17室。
+
+　在空无一人的电梯中，我将夹克杉敞开，打开了手枪皮套。
+
+“跟一个年轻的女人一起……”
+
+　我真是大意了啊。
+　
+<CLEAR><BACKGROUND SRC="erebeter2">//# erebeter2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　敌人的目的如果是阻止梧桐组加盟Inferno的话，那么即使不直接杀掉他们，也可以用其他手段逼其就范。
+
+　比如说，将他身边放松警惕的人一个个地杀掉，逼迫害怕了的梧桐逃回日本就可以了。
+　
+　袭击毫不知情的小弟们，对敌人来说简直是易如反掌。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="pinpon" mode="normal" time="" loop="off" effect="">//!se pinpon
+<CLEAR><BACKGROUND SRC="erebeter">//# erebeter 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　伴随着一声轻轻的电子音，电梯到达了9层。
+
+　电梯门敞开后，在那前方就是战场了吧。
+
+<CLEAR><BACKGROUND SRC="passage3b">//# passage3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+走廊里没有人。
+虽然灯火辉煌，然而这种与赌场完全不同的安静，却给人一种身处无人区的错觉。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　917号室……大概是在走廊的尽头。
+
+　我迅速而又悄无声息地穿过了静寂的走廊。
+
+<CLEAR><BACKGROUND SRC="door917">//# door917 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我来到917号房间的门前。
+
+　里面没有人的气息。
+
+　里面的人已经死了吗，还是说，隐藏了气息在等待着什么吗。
+
+<se id="2" src="僪傾僲僽" mode="normal" loop="off">
+
+　我小心翼翼地转动门把手。
+
+　很显然，门并没有上锁。
+
+　拧开把手后，我砰地一下将门撞开，冲了进去。
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se door4
+
+<CLEAR><BACKGROUND SRC="hotel5">//# hotel5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我滚到地上，拔出枪，
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　扫视了一下室内……
+  这一切都是在一瞬间完成的。
+
+<A HREF="1170c.txt" OPERATOR="">//~ 1170c
+
+
+
+
+<A HREF="1170c.txt" OPERATOR="">//~ 1170c
+<A HREF="1170d.txt" OPERATOR="">//~ 1170d

@@ -1,0 +1,35 @@
+　没有选择的余地了。
+
+　即使留在这里……自己也没有什么能做的。
+
+「抱歉啊……」
+
+　望着Ein失去血色的苍白面容，
+  我虽然知道她不可能听见，却还是这样小声地说道。
+
+//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我已经决定不再回头了，
+  连想都不会去想。
+
+　比起考虑如何从Inferno的杀手那里逃脱这种现实的问题，
+  现在……
+
+　只要一想到被留在身后的Ein，
+  我的脚就像被钉子钉住一样，一步都挪不动。
+  这让我感到极度的恐惧。
+
+<CLEAR><BACKGROUND SRC="nightField">//# nightField 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　快一点，再快一点……
+　趁自己的头脑一片空白，赶快……
+
+<A HREF="0235.txt" OPERATOR="">//~ 0235

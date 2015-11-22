@@ -1,0 +1,236 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……これは……」
+
+　初めて持たされた拳銃の重さは、外見からは想像もつかないものだった。
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「持ち方は……こう。
+　トリガーには指を掛けないで」
+
+<BOX type="0">//%w
+　アインに、両手の指を取られて、
+　一本ずつ、しっかりと銃把の上に巻きつけられる。
+
+<BOX type="5">//%sR
+「両腕とも、肩じゃなくて、
+　握る指に力を込めるようにして」
+
+<BOX type="5">//%sR
+「ここが照門、ここが照星。
+　照門の谷間から
+　照星を見るようにして狙うのよ」
+
+//> left field wide 255 dummy 20 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいわね、
+　じゃ、あの標的を狙って」
+
+<clear>
+<BACKGROUND SRC="並ぶレンガ">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そしてアインは、10mほど離れた場所に、
+　横一列に並べられたレンガのブロックを指し示した。
+
+<clear>
+<BACKGROUND SRC="アイン拳銃指南">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「構える時は、右腕を突っ張り、
+　左腕を引っ張るようにして、
+　銃を安定させるの」
+
+「それでも、
+　いちばん力を込めるのは
+　腕全体よりも手よ」
+
+<BOX type="0">//%w
+　言われた通りに、構える力具合を加減する。
+　力を込めながら、なおかつ腕が震えないように保つのは、意外に難しい。
+
+<BOX type="5">//%sR
+「引金を引くときは、
+　慌てずに、
+　静かに絞るように……」
+
+「……撃って」
+
+<clear>
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="吹き飛ぶレンガ1">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　しっかりと構え方を教わっていたせいか、
+　反動でよろけるようなことはなかった。
+　むしろ、銃声の大きさに驚いた。
+
+　見れば、狙いをつけた左端のレンガは、粉微塵になって飛び散っている。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「残り5発。続けて撃って」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　生唾を飲み込み、言われたとおり、慎重に銃を構え直す。
+
+　2発目……
+<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　外れた。もう一発……
+
+<se id="3" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="吹き飛ぶレンガ2">//
+<WIPE EFFECT="light" TIME="0">
+　命中。次だ……
+
+<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="吹き飛ぶレンガ3">//
+<WIPE EFFECT="light" TIME="0">
+　また命中。
+
+<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="吹き飛ぶレンガ4">//
+<WIPE EFFECT="light" TIME="0">
+　最後は外した。
+　たった6発撃っただけで、腕が痛いほどに痺れている。
+
+　でも、2発に1発は当てられた計算だ。
+
+<clear>
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……意外に、当たるもんだね」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「基礎になる平衡感覚を、
+　ちゃんと鍛えておいたからよ」
+
+<BOX type="0">//%w
+　そう言って、アインは弾倉の開け方と、再装填の仕方を教えてくれた。
+　まだ硝煙をただよわせる薬夾に指が触れ、あやうく火傷しかかる。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まず第一に、この距離では
+　全弾とも当てること」
+
+「それができたら、
+　次はスピードよ」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「6発で、そうね……
+　まずは4秒を目標にして」
+
+<BOX type="0">//%w
+　4秒？　1発1秒でも間に合わない。
+
+「……それじゃ、まともに狙ってる暇がないじゃないか」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう訊くと、アインは黙って手を差し出してきた。
+
+　手本でも見せてくれるのか？
+　少し期待して、弾を込め直した拳銃を手渡す。
+
+<BOX type="5">//%sR
+「最終的なノルマはね……」
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BUSTUP NAME="elen5" face="" MODE="on" zoom="" ALIGN="right">//# elen5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　言いながら、アインは何気なく拳銃を持ち上げ……
+
+//もえらＳＥ追加
+
+<se id="1" src="13-02-6連射" mode="normal" loop="off">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="6" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="3" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="1" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="2" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+//<se id="3" src="13_02" mode="normal" time="" loop="off" effect="">//!se 
+//<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　6個のレンガが続けざまに砕け飛んだ。
+
+　2秒……かかってない。
+　狙いをつけている素振りさえない。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「スピードは、まだいいわ。
+　まずは当てること」
+
+<calc workname="gun21" operator="1" mode="global">
+<A HREF="0060.txt" OPERATOR="">//~ 0060

@@ -1,0 +1,262 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left shop3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="僔僢僺儞僌儌乕儖" mode="normal" loop="off">
+
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="shop3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我跟凯尔一起走上街时，周围满是刺人的目光。
+　为什么每个人都在用奇怪的眼神看着我们？
+
+　……啊，原来如此。
+
+　凯尔身上那一看就知道是捡来的旧衣服，跟其他买东西的客人有着明显的区别。
+　她的衣服并不脏，可即便如此，还是不可避免地让人觉得她是个流浪儿。
+
+　在店里选东西时，店员或许把她当成了小偷了吧，十分露骨地露出了警戒的神情。
+
+「我说，凯尔，你身上的衣服不能不穿吗？」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「就算你这么说」
+
+<BOX type="0">//%w
+　凯尔对周围众人的白眼完全无视。
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果不能穿这个的话，那我只有光着身子了」
+
+<BOX type="0">//%w
+　虽然她这么说，不过这种事不可能发生吧。
+
+　……真是没有办法。
+  接下来还有很多事情要做。
+
+「我们等会再买别的，先去买衣服吧」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「买衣服，是给我买吗？」
+
+<BOX type="0">//%w
+「是啊。给你买些更好的衣服吧」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　我本以为凯尔肯定会高兴地手舞足蹈，
+  可是不知道为什么，这次她却莫名其妙地扭捏起来。
+
+「怎么了？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「不喜欢吗？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不，不是不喜欢」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……真的可以吗？」
+
+<BOX type="0">//%w
+「你怎么了？突然这么客气起来」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不，因为……」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有人在商店买衣服送给我……这还是第一次」
+
+<BOX type="0">//%w
+　这根本就不像是那个一下子就榨了我20个汉堡、将我冰箱里的啤酒一扫而光的孩子说的话。
+  那个跟这个有什么不同吗。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可以吗？真的可以吗？」
+
+<BOX type="0">//%w
+「嗯，可以啊」
+
+　凯尔的反应非常好笑，于是我很痛快地答应了。
+
+「连鞋子一起，全都换成新的吧。你挑你喜欢的买就好了」
+
+<se id="2" src="" mode="fadeout" time="30">
+
+//> left shop4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="僔僢僺儞僌儌乕儖" mode="normal" loop="off">
+
+<wait time="900">
+<BACKGROUND SRC="shop4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……怎么样了？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　已经过去了2个小时。这也已经是第5家店了。
+
+　可是，凯尔还是没有决定好要买的衣服。
+
+　虽然我一开始以为她会很吵闹……不过，看来是我想错了。
+
+　每一件货架上的衣服她都要拿在手上看看，可是目光还是犹犹豫豫的。
+  与其说是在犹豫，还不如说她是没有了主意更贴切一些。
+
+「这周围的店，你都不满意吗？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……不，这个，唔」
+
+<BOX type="0">//%w
+　凯尔好象不太会说话了，变得语无伦次。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……我不知道啊」
+
+<BOX type="0">//%w
+　她这样小声说道。
+
+「没有你想要的衣服吗？」
+
+<BOX type="5">//%sR
+「不是的，有很多，有很多很多。可是……」
+
+「要说让我选哪个的话，我真的不知道该怎么选」
+
+<BUSTUP NAME="cyall" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为啊，这里的衣服我都想要」
+
+「一定要选一件的话……就要放弃其它的吧？」
+
+<BOX type="0">//%w
+　她怎么会有这样的想法啊？
+
+「我说啊，凯尔」
+
+「你如果这么说的话，就买不了东西了」
+
+「如果还有非常喜欢的衣服，下次再带你来买不就行了吗」
+
+「这些衣服不会马上就卖光的」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……下次？」
+
+<BOX type="0">//%w
+「有什么奇怪的吗」
+
+「你以为这是一生一次的购物吗？」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……唔」
+
+<BOX type="0">//%w
+　有必要看得这么重吗。又不是去麦加朝拜这样的大事……
+
+　不过……或许在凯尔以前的生活中，这已经算是一件大事了吧。
+
+「我下次还会再带你来的」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真的吗？」
+
+「以后还可以再买衣服吗？」
+
+<BOX type="0">//%w
+「当然可以」
+
+　突然，我想起了买汉堡时的破财事件，于是又追加了一句。
+
+「不过事先说好，可不是每天都来啊」
+
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯!!」
+
+<se id="2" src="" mode="fadeout" time="30">
+
+//> left 1127p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1127p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在买完衣服回去的路上，
+  凯尔始终是蹦蹦跳跳的，时不时还转起圈来，从没有直着走过路。
+
+<BOX type="4">//%sL
+「呐，呐，合适吗？可爱吗？」
+
+<BOX type="0">//%w
+「嗯，很合适」
+
+　不管我回答多少次……几分钟后她又会问同样的问题。
+  看到她这么夸张地感激的样子，这回我倒是有些不知所措了。
+
+<BOX type="4">//%sL
+「好棒啊，这样轻飘飘的衣服，我还是第一次穿!!」
+
+<BOX type="0">//%w
+「是，是吗」
+
+　这些衣服花的钱，还不够克劳蒂娅买一只鞋子。
+
+　她既然这么开心，那下次就再抽空带她去吧。
+
+<CALC WORKNAME="1127" OPERATOR="1">//
+<A HREF="1127b.txt" OPERATOR="1022a=1">//~ 1127b
+<A HREF="1127e.txt" OPERATOR="">//~ 1127e

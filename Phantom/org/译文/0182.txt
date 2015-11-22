@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+  对于护卫这种差事，
+  应该没有比这把枪更合适的了……
+  说起来，我是不是有点小心过头了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="03_01">//
+<CALC WORKNAME="廵" OPERATOR="M29">//
+<CALC WORKNAME="廵夋憸" OPERATOR="44儅僌僫儉">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="44儅僌僫儉2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Sm">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

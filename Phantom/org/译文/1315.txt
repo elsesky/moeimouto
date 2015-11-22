@@ -1,0 +1,100 @@
+//> left city5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="city5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　坐进高尔夫的时候，我用后视镜扫了一眼酒吧。
+
+　莉兹没有出来的意思，看样子还得再喝上一阵子吧。
+
+//> left nightWay2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="僑儖僼憱峴幒撪壒1" mode="normal" loop="off">
+
+<BACKGROUND SRC="nightWay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　从好莱坞大道上出来以后，为了慎重起见，我再次确认了一下是否有人跟踪。
+  之后便向西驶去。
+
+　今天晚上，还有一件微不足道的大事要做。
+
+//> left villa2 wide 255
+<clear>
+<se id="1" src="" mode="fadeout" time="30">
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="villa2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　黎明时分，
+  我来到了位于箭头湖畔的维斯梅尔的别墅。
+
+　据说这个地方是为了让黑帮头领们进行密谈、风流等极其隐密的事而准备的。
+
+　所以，这里就算有维斯梅尔的一些“秘密”也不足为怪。
+
+　……比如说，装有已消失的500万美元的皮箱。
+
+　乍一看，这里不像有人来过。
+　
+　这是当然的。
+  昨天和今天，维斯梅尔的党羽们不可能有心情在这里舒舒服服地享乐。
+
+　不触动警报器，我小心地潜入进去。
+　
+　果然，碍事的家伙一个都没有。
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我打开被精心装饰过的窗户，确认了里面没有损坏的物品，然后将沉重的手提箱扔了进去。
+
+<se id="1" src="僩儔儞僋搳偘傞" mode="normal" loop="off">
+　结束了。
+
+　即使草率地放在这里，熟悉维斯梅尔的人也不会觉得奇怪吧。
+  因为他不会为了钱而去袭击黑社会的。
+
+//> left villa wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="villa">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　从那里出来时，
+  已经泛白的天空中，传来了小鸟婉转的歌唱声。
+
+　这样做真的好吗？
+
+　我深吸了一口清晨的寒冷空气，再次扪心自问。
+
+　总之，只要这个手提箱被发现，梧桐组袭击事件就会迎来圆满的结局。
+
+　已经不会有人再去注意细节了。
+
+　可是，明明还留有如此多的疑问……
+
+<A HREF="1315b.txt" OPERATOR="1230a=1">//~ 1315b
+<A HREF="1350.txt" OPERATOR="1150=1">//~ 1350
+<A HREF="1400.txt" OPERATOR="">//~ 1400

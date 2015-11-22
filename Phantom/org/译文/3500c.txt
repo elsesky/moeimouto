@@ -1,0 +1,267 @@
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嘘」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「为什么这么想？」
+
+「你对那个男人了解多少呢？」
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　美绪的心里一阵刺痛，表情也变得迷惘起来。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「顺便告诉你」
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+凯尔从枪套中拔出枪来，让枪在指尖绕了一圈。
+
+<BOX type="4">//%sL
+「这家伙也是他教我用的。杀人的手法也是哦」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　美绪一时不知该说什么好，只能呆呆地望着凯尔。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你猜那家伙在美国是干什么的？」
+
+「暗杀者哦。
+　而且还是超一流的」
+
+「死在他手里的人数都数不清」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么可能……」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　这太荒谬了。
+　美绪虽然想这样反驳，可是话到嘴边又被她咽了回去。
+
+　暗杀者……
+　用外国语的形式说出，让人感到十分另类的单词。
+
+凯尔说的是『Assassin』。
+不是『Killer』
+不是『Murder』。
+
+不是因形势所迫而杀害众多的人，
+而是把这当成工作，像执行任务一样去杀人……是这样的意思吗？
+
+『Assassin』……
+　短短的留宿生活期间，在日常对话中一次也没有听到过的词语。
+
+即使是在自己接触过的电影和游戏中，也只是听过用片假名英语表示的。
+
+　Assassin……刺客、暗杀者。
+　这是与现实毫无联系的虚幻世界中的词语。
+
+　可是，同样的词语，为什么从她口中说出来就会让自己感到如此地真实。
+
+　就像是她一说完，这个词语就伴随着实体出现在自己眼前……
+
+　对了，就在不久之前，她刚刚在自己眼前杀了一个人。
+  非常自然，连眉毛都不动一下。
+
+　在这广阔的世界上，说不定真的存在着以杀人为生的可怕的人们。
+
+　即便现在站在面前的少女就是其中的一员，自己也能接受。
+
+　可是……如果说那个{姓}{名}也是的话，就有些令人难以置信了。
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……一定是什么地方搞错了……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　凯尔用冰冷、轻蔑的眼神看着她，不屑地哼了一声。
+
+<BOX type="4">//%sL
+「2年前，梧桐大辅死在了洛杉矶。记得他是你的叔父吧」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　美绪再次大吃一惊。
+
+<BOX type="5">//%sR
+「为什么你会知道这件事……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我当然知道。
+　而且比你清楚的多哦」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　这个少女究竟是什么人呢？
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你受骗的地方主要有三点」
+
+「第一，梧桐大辅不是贸易商，而是黑帮的一员」
+
+「就是在你们的国家被称为黑社会的组织」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……黑、黑社会？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「第二，梧桐大辅不是你的叔父，而是你同父异母的哥哥」
+
+「……也就是说，你是黑社会家族的孩子」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「骗人……」
+
+<BOX type="2">//%w
+　这是谎言。
+　全部都是谎言……
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「第三」
+
+「梧桐大辅的死因不是事故。他是被你最爱的{名}杀掉的」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你骗人!!」
+
+「你究竟……想干什么!?
+  为什么要宣扬这种荒谬的话」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你也会这样大喊大叫啊」
+
+<BOX type="3">//%m
+　凯尔的笑容中明明白白地透出一股恶意。
+
+<BOX type="4">//%sL
+「真是令人不爽啊。自认清高的大小姐。我真想剥下你的假面具」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　毫不畏惧……
+　虽然美绪的气势看似惊人，不过凯尔很清楚那只是虚张声势罢了。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「信不信随便你。
+  要是愿意你就相信好了」
+
+「但是，不久后将会有一场腥风血雨因你而起」
+
+「其中的理由，现在的你是根本不可能知道的」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「到那时就回忆一下我刚才说的话吧，这样你就能想通一切了」
+
+<BUSTUP NAME="mio2" face="0" MODE="on" zoom="" ALIGN="right">//# mio2^0 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^0 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你的目的是什么？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「决斗」
+
+<BOX type="3">//%m
+　笑脸也好，丝毫不是在开玩笑的声音也好，都透露出美绪从未见过的杀意。
+
+<BOX type="4">//%sL
+「和你最爱的{姓}{名}决斗」
+
+「为了决出谁更强」
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么会……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么？我可是在为你的哥哥报仇哦」
+
+「你应该更高兴一些才对吧？」
+
+<BUSTUP NAME="mio2" face="c" MODE="on" zoom="" ALIGN="right">//# mio2^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　从膝盖开始，全身的力气都消失了。
+　如果这是梦的话，请快一点醒来吧……美绪这样恳求着。
+
+<A HREF="3510.txt" OPERATOR="">//~ 3510

@@ -1,0 +1,50 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1480x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1480x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　そのベンツは、まるで不吉な影のように、ロフトの前に停まっていた。
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="right">//# randy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　降り立った巨漢は、ワイズメルの用心棒だった。
+　たしか名前は……ランディ＝ウェーバー。
+　噂では、デルタフォース崩れの凄腕らしい。
+
+<BOX type="5">//%sR
+「ファントム、
+　悪いが、ご同行願いたい。
+　ミスタ＝ワイズメルがお呼びだ」
+
+<BOX type="0">//%w
+　言葉の物腰は柔らかいものの、有無を言わさぬ凄みが込めてある。
+
+「用件は？」
+
+<BOX type="5">//%sR
+「ボスから直々に、話がある」
+
+<BOX type="0">//%w
+　もはやこの期に及んで、ワイズメルとその一派の機嫌を慮ることはない。
+
+　だが、考え直した。
+　ここでひとつ、探りを入れておくのも手だ。
+
+　明日の会談で、ワイズメルに何か企みがあるとすれば、
+　上手く鎌を掛ければ、何か手がかりになるものが得られるかもしれない。
+
+<BUSTUP NAME="randy" face="2" MODE="on" zoom="" ALIGN="right">//# randy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「安心しろ、手間は取らせない」
+
+<BOX type="0">//%w
+「そう願いたいね」
+
+<A HREF="1245.txt" OPERATOR="">//~ 1245

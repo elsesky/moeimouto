@@ -1,0 +1,27 @@
+<BOX type="0">//%w
+「……ナイフにしよう」
+
+　いい加減、射撃訓練にはうんざりしていたところだ。
+　もう毎晩、銃声の反響が耳の奥に残って離れない。
+　頭がおかしくなりそうだった。
+
+<BOX type="5">//%sR
+「わかったわ。準備するから、
+　外で待ってて」
+
+<BOX type="0">//%w
+　……どういうわけか、訓練は屋外でやるらしい。
+　外を見れば、白い砂の上で陽炎が踊っている。
+　見ているだけで憂鬱になった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4b wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4b">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="0076a.txt" OPERATOR="">//~ 0076a

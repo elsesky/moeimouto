@@ -1,0 +1,15 @@
+<BOX type="0">//%w
+　今後しばらくは、
+　言うなれば興信所の真似事のような仕事が続くことになる。
+　当然、得物はコンシールド性の高いものがいい。
+
+　そこで今回はパイソンを選ぶことにした。
+　手元にある銃の中では、これが一番かさばらない。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

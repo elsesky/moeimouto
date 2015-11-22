@@ -1,0 +1,19 @@
+<BOX type="0">//%w
+「……是的」
+
+　我想起了那如梦一般过分短暂的、属于我们两个人的爱情。
+
+「在我以为她死去的那个夜晚……我自己也被追赶着」
+
+「如果没有江漣的话，我肯定已经死了」
+
+<BUSTUP NAME="mio2" face="8" MODE="on" zoom="" ALIGN="right">//# mio2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　这样的坦白会让美绪为难吧。
+  不过，至少自己说的都是真心话。
+
+<A HREF="3345c.txt" OPERATOR="">//~ 3345c

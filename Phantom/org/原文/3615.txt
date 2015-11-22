@@ -1,0 +1,264 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　昼下がりの時間が、
+　じりじりと過ぎていく。
+
+　まだ美緒は悩んでいた。
+
+　ここに隠れていろと、江漣……
+　{ヒロイン}は言っていた。
+
+　だが本当に、それでいいのか？
+
+　もう、彼に会うことはできないと……
+　そう冷ややかに宣言した{ヒロイン}の声が、思い出すたび、ナイフのように胸に突き刺さる。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="2">//%w
+　ふと、美緒は耳をそばだてた。
+　固い靴が、廊下の羽目板を踏み鳴らす音……
+
+　誰かが、やって来る。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……お怪我は、ありませんか？」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたは……」
+
+<BOX type="2">//%w
+　それは初見の顔ではなかった。
+
+　記憶は遠くても、その印象は鮮明に覚えている。
+　2年前、梧桐大輔の形見を美緒の元へと届けた、大輔の部下と称する男……
+
+<BOX type="5">//%sR
+「たしか……志賀、さん？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ご無沙汰しております」
+
+「あなたが誘拐されたと、出張先のお母様から連絡を頂きまして……」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……え？」
+
+<BOX type="2">//%w
+　今イギリスにいるはずの母が、
+どうして、そんなことを知っているのか？
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「亡くなった梧桐さんの他に、
+　親族で頼みにできる方が
+　おられなかったそうで……」
+
+「及ばずながら、私が、
+　代理を引き受けた次第です」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「警察沙汰にするのは見合わせて、穏便に身代金を払いました」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「み、身代金？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「犯人も約定通り、
+　こうして美緒さんを
+　解放したわけですし……」
+
+「どうやら、正解だったようです」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　美緒は混乱した。
+
+　身代金を受け取った
+　犯人というのは……
+　あの、キャルのことか？
+
+　では一体、彼女の話は何だったのだ？
+　不意に現れ、{ヒロイン}などと名乗っていた江漣は？
+
+<BOX type="5">//%sR
+「あの……あの……」
+
+「どうも、
+　よく解らないんですけど……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「無理もない。
+　3日も監禁されていたのです。
+　疲れて当然ですよ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何もかも忘れて、
+　ゆっくり休んでください。
+　ご自宅までお送りします」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　そこで美緒は思い至った。
+　梧桐大輔を知る者に、ぜひとも訊いて確かめなければならない件。
+　この志賀という男なら、うってつけだ。
+
+<BUSTUP NAME="mio1" face="e" MODE="on" zoom="" ALIGN="right">//# mio1^e 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^e 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あのぅ、志賀さん……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何か？」
+
+<BUSTUP NAME="mio1" face="e" MODE="on" zoom="" ALIGN="right">//# mio1^e 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^e 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「その、わたしの兄……
+　叔父の、ことなんですけど」
+
+「本当はヤクザだったって、
+　そう言う人がいて……」
+
+<BUSTUP NAME="siga" face="4" MODE="on" zoom="" ALIGN="left">//# siga^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ヤクザ？」
+
+<BOX type="3">//%m
+　さも呆れたと言わんばかりに、
+　志賀は失笑する。
+
+<BOX type="4">//%sL
+「どこのどいつです？
+　そんな失礼なことを
+　言っていたのは？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐大輔さんは我が社の誇る社員でした」
+
+「ロサンゼルスでの不幸も、コンテナの積載に立ち会った折りの、起重機の倒壊事故です」
+
+「そんないかがわしい話は、
+　お忘れください」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　未だ釈然としない様子の美緒を前に、素知らぬ顔を装いながら、志賀は彼女の監禁されていた部屋……ドライ・ファントムの隠れ家だった室内を見渡した。
+
+　……もちろん、
+　すべて根も葉もない嘘だ。
+　あとで美緒の母親には、
+　帰国する前に連絡をつけて、
+　口裏を合わせておく必要がある。
+
+　美緒が納得した様子はないが、
+　それも時間の問題だろう。
+
+　殺し屋だの、暴力団だのといった突拍子もない話に比べれば、美緒にとっては、まだ営利誘拐の方が、よほど呑み込みやすい話のはずだ。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「さ、参りましょう」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「は……はい……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　美緒に続いて部屋を出ながら、志賀は最後にもう一度、部屋の隅に捨てられた布地の塊を一瞥した。
+
+　破り捨てられた着衣……
+　おそらくは美緒のものだろう。
+
+　いま彼女が着ている制服は、
+　3日も監禁されていたにしては、
+　汚れがなさすぎる。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　穏やかな顔を装いながら、腹の底でじりじりと熱を帯びていく怒りを、志賀は感じていた。
+
+　ファントム……
+　奴らは決して許さない。
+　一人残らず。
+
+<A HREF="3620.txt" OPERATOR="3590a=1">//~ 3620
+<A HREF="3805.txt" OPERATOR="">//~ 3805

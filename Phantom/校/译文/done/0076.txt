@@ -1,0 +1,31 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room2 wide 255 elen1^6 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「基础的东西，
+  大部分你都已经掌握了」
+
+「从今天起，训练的重心转移到实战方面」
+
+<BOX type="0">//%w
+「实战……？」
+
+<BOX type="5">//%sR
+「熟悉更多种类的枪，
+　还是说，练习小刀的白刃战……」
+
+「要怎么做？
+　根据你的喜好选择吧」
+
+<BOX type="0">//%w
+<CHOICE HREF="0076h.txt" TEXT="＊小刀" OPERATOR=""></A>//{ ＊ナイフ 0076h ＊威力のある銃 0076b ＊弾数の多い銃 0076c
+<CHOICE HREF="0076b.txt" TEXT="＊威力大的枪" OPERATOR=""></A>//{ ＊ナイフ 0076h ＊威力のある銃 0076b ＊弾数の多い銃 0076c
+<CHOICE HREF="0076c.txt" TEXT="＊弹数多的枪" OPERATOR=""></A>//{ ＊ナイフ 0076h ＊威力のある銃 0076b ＊弾数の多い銃 0076c

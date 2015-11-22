@@ -1,0 +1,82 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightField wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　また日が沈んだ。
+　今日の訓練も終わりだ。
+
+//> left room1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="radioCH" mode="normal" time="" loop="off" effect="">//!se radioCH
+　ラジオを点けて、空電混じりの英語のニュースに耳を傾ける。
+<se id="1" src="radioCH2" mode="normal" time="" loop="off" effect="">//!se radioCH2
+
+　いつもならアインも黙って傍らに座り、
+　意味の取れないフレーズに注釈をつけてくれるのだが、
+　その夜は外出の支度を始めていた。
+
+　珍しいことではない。
+　時折こんな風に、アインは夜、どこかへ出かけることがある。
+
+　任務、なのだろうか。
+　また誰かを殺す仕事なのか？
+
+　そう思うと、何となく質問するのが憚られ……
+　だから事情は、まだ一度も聞いたことがない。
+
+　ついつい気がそぞろになり、ラジオの放送は耳を素通りしてしまう。
+　代わりに、鼓膜が捉えたのは……
+　砂漠の夜の静けさを乱す、車の排気音だった。
+
+　アインを迎えに来た車だ。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　立ち上がったアインが、こちらを一瞥する。
+
+　相変わらず、まったく表情の窺えない瞳。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　何処に行くのか？
+　知りたい気もするし、知りたくない気もする。
+
+　訊くか、訊かないか……
+
+　だが、そんなことを迷っている時間はもらえなかった。
+　……いつだってそうだ。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　アインは背を向け、部屋を出ていった。
+
+//もえらＳＥフェード
+<se id="1" src="" mode="fadeout" time="20">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　結局、今夜も黙って彼女を見送ることになった。
+
+<A HREF="0080.txt" OPERATOR="0030c=1">//~ 0080
+<A HREF="0080.txt" OPERATOR="0070l=1">//~ 0080
+<A HREF="0090.txt" OPERATOR="">//~ 0090

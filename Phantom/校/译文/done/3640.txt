@@ -1,0 +1,186 @@
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　敌人是从左右的窗户和正面的入口进行包抄的……
+　对了，还有后门。
+　右手方向的神父室里有着可以直接通到礼拜堂后面的出口。
+
+　被夹击的话就完蛋了……
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　正当我这样想着，神父室的门被从里面一脚踹开了。
+
+　自己已经无路可退，只能在对方现身的瞬间将其击倒……我绝望地想着，举起了枪口。
+
+　可是……
+　没有新的侵入者冲进来，
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　取而代之的是，从门里传出清脆、快速的连射声。正面迫近的梧桐组杂兵们纷纷倒地。
+
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="right">//# elen5^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}，到这来!!」
+
+<BOX type="0">//%w
+　{ヒロイン}一边喊着，一边再次进行连射，
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　在Vz61冲锋手枪0.32ACP子弹的扫射下，从窗口向内射击的射手们退缩了。
+
+　为什么……你还在这里？
+
+<BOX type="5">//%sR
+「快点！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　没时间犹豫了。
+　听到催促声，我在{ヒロイン}的掩护下跌跌撞撞地从祭坛冲进了神父室。
+
+「你不是早就离开了吗……」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不那样做才是正确的」
+
+<BOX type="0">//%w
+　像是在讽刺我一样……
+<se id="1" src="13_03" mode="normal" time="" loop="off" effect="">//!se 
+　{ヒロイン}平静地说完，接着更换了Vz61的弹夹。
+
+<BOX type="5">//%sR
+「总之先逃出去再说吧」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right church3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="church3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　枪声消失后不久，黄昏的夕照也消失了。
+
+　成为死斗舞台的礼拜堂里，梧桐组的众人照料着受伤的同伴，确认着死去同伴的尸体。
+
+　能够自己行走的人屈指可数。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“出动了20余人……就是这样的结果吗？”
+
+<BOX type="0">//%w
+　面对这样悲惨的结局，志贺的内心懊恼不已。
+
+<BOX type="5">//%sR
+“那些家伙到底是什么人？”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这时，有什么人在咬牙切齿的志贺身后大大地叹了口气。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哎呀哎呀……我应该忠告过你吧，志贺先生」
+
+「专业和外行之间的差距，不是用数量可以弥补的」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　志贺的心里咯噔一下。
+  这家伙从哪得来的风声，怎么会在这里冒出来……
+
+　自从Phantom暴走以后，他也和自己一样，一直在监视着{姓}{名}吗？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不过，真是想不到啊」
+
+<BOX type="3">//%m
+　赛斯冷笑着瞥了一眼礼拜堂里的惨状。
+
+<BOX type="4">//%sL
+「对你来说，又是一场华丽的演出啊」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为……对手是那些家伙」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　望着愁眉苦脸地扔下这句话的志贺，赛斯得意地笑了起来。
+
+<BOX type="4">//%sL
+「既然你明白了，那就好办了」
+
+「既然有了那样的对手，说不定今晚将会有一场前所未有的盛大宴会」
+
+<se id="1" src="巜傪柭傜偡" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="3570x1">//# dummy 19 3570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　赛斯打了一个响指，接着，从森林的阴影中出现了奇异的白影。
+
+　就像人偶的队列一样、令人毛骨悚然地排成一排的少女们……
+
+　她们的脸上戴着狂欢节的面具，手中则拿着凶恶的军用自动步枪。
+
+<CLEAR><BACKGROUND SRC="church3">//# sice 19 dummy 20 church3 1
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20 church3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「事态紧急，就由我代劳吧，志贺先生」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　虽然大为光火，但志贺还是用理智控制住了自己。
+　他已经明白了，单凭自己的手下是不可能赢过那两个人的。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……好吧，我们就此撤退」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「后面的事就交给你们了，尽情地大闹一场吧」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「非常感谢，我的盟友」
+
+<calc workname="gun09" operator="1" mode="global">
+<A HREF="3650.txt" OPERATOR="">//~ 3650
+
+」
+
+<A HREF="3650.txt" OPERATOR="">//~ 3650

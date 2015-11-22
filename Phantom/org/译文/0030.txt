@@ -1,0 +1,50 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+//$ 0 _1 0
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+  Ein给我留下了考虑的时间。
+
+//> left nightfield wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="nightfield">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+  明天起，开始日常的「训练」，在此之前让身体休息一下吧。
+  女孩这么说着，乘上前来接她的车，离开了。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  现在身处这座废弃工厂的，只有我自己。
+  逃走吗……不，这样的想法还是放弃的好。
+
+  身处语言不通的国度，而且现在还是在荒野的正中心，
+  一个人逃的话，无论怎么做，都只是单单的自杀行为吧。
+
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  为了防寒，我用她给我的毛毯裹住身体，
+  不再会因为寒冷而被冻醒。
+  但今夜依旧无法入睡，头脑中一片混乱。
+
+  距离黎明前还有时间，
+  在那之前，稍稍整理一下思绪吧。
+
+<CHOICE HREF="0030a.txt" TEXT="考虑自己的事情" OPERATOR=""></A>
+//{ 仏帺暘偺偙偲傪峫偊傞 0030a 仏曔傑偭偰偄傞慻怐偵偮偄偰峫偊傞 0030b 仏傾僀儞偲偄偆彮彈偵偮偄偰峫偊傞 0030c0c
+<CHOICE HREF="0030b.txt" TEXT="考虑追捕自己的组织的事情" OPERATOR=""></A>
+//{ 仏帺暘偺偙偲傪峫偊傞 0030a 仏曔傑偭偰偄傞慻怐偵偮偄偰峫偊傞 0030b 仏傾僀儞偲偄偆彮彈偵偮偄偰峫偊傞 0030c0c
+<CHOICE HREF="0030c.txt" TEXT="考虑名为Ein的少女的事情" OPERATOR=""></A>
+//{ 仏帺暘偺偙偲傪峫偊傞 0030a 仏曔傑偭偰偄傞慻怐偵偮偄偰峫偊傞 0030b 仏傾僀儞偲偄偆彮彈偵偮偄偰峫偊傞 0030c0c

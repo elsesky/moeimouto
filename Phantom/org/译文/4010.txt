@@ -1,0 +1,307 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left slum4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="slum4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　赫尔穆特·冯·盖塞培。1944年生于柏林。
+
+　他在莫斯科大学获得了心理学和脑生理学的博士学位。
+　回国后加入东德国家安全局，作为审讯和洗脑专家活跃着。
+　随后，他的才能被克格勃看中，因而得以以特别顾问的身份施展狠辣的手段。
+
+　苏维埃政权瓦解后，他像很多克格勃军官一样投身黑手党，在各地游荡。
+　不久便以自由杀手中介人的身份名声大噪。
+  他在黑手党中的别名是“赛斯·玛斯塔”……
+
+<CLEAR><BACKGROUND SRC="night2">//# night2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　为了寻找{ヒロイン}的过去，首先要调查这个男人的底细。
+
+　在她以“Ein”的身份开始生活是在，5年前……赛斯在那段时间内的行踪是调查的关键。
+
+当时的赛斯好象作为某个帮派的客人，在香港逗留了一段时间。
+而且，在{ヒロイン}掌握的语言中，唯一不记得是别人教会的便是粤语。
+
+<CLEAR><BACKGROUND SRC="night5">//# night5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　他们二人是在香港相遇的……这种推测肯定没错。
+
+在没有任何人可以依赖的情况下，我们在异国的土地上开始了孤立无援的探访。
+我们一边调查因离家出走或被人拐骗而失踪的孩子……一边深入到人口贩卖及儿童猥亵的黑暗之网中进行探访。
+
+　这条道路是如此漫长，整个过程宛如大海捞针一般。
+  可是，我们绝对不会放弃。。
+
+<bgm src="" mode="fadeout" time="40" loop="on">//> left 4010x6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="4010x6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　自从离开日本，{ヒロイン}根本没有笑过。
+  她的表情总是像在洛杉矶时那样……不，比那时还要空虚。
+
+　与赛斯的对决肯定令她无法介怀。
+  {ヒロイン}的沉默比以前更甚，她绝对不会主动多说一句话。
+
+　有时，她会在躺在酒店里的床上，一个人小声地哭泣。
+
+　在黑暗中，我感觉到她的呜咽，却束手无策……在那样的夜里，我只能在心中立下新的誓言。
+
+　一定要，找到她的故乡……
+
+//> left 4010x5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="4010x5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　终于，我们找到了线索。
+　那是一家专门贩卖幼女的妓院。
+
+　妓院老板的老婆记得……在5年前，曾经有一个“银发白人”要为一名幼女赎身。
+
+　这种商谈每天都会发生，妓院老板的老婆之所以会记得，一方面是因为客人的独特长相，另一方面则是因为那个被赎身的孩子出身很特别。
+
+<CLEAR><BACKGROUND SRC="4010p1">//# 4010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　当妓院老板的老婆从奴隶贩子手中买下那名幼女时，那个孩子还不会说话，但全身肌肤雪白。
+　她十分惊异，便向商人打听那个孩子的人种，奴隶贩子回答说那个孩子并不是本地人，而是被人从遥远的乌兰巴托绑架来的。
+
+此后，随着幼女一天天长大，她的肌肤也逐渐出现了颜色，最后已经与普通的亚洲人毫无两样。
+可是，妓院老板的老婆却认为那个奴隶贩子的话是真的，便给少女起名为『匈』。
+
+<BOX type="4">//%sL
+“如果那个孩子还活着，应该跟你一般年纪了”
+
+<BOX type="0">//%w
+　在讲完过去的故事后……妓院老板的老婆凝视着{ヒロイン}，这样说道。
+
+<BOX type="4">//%sL
+“也许是我的错觉……那女孩的面貌和匈一模一样”
+
+<BOX type="0">//%w
+　就这样，我们来到了亚洲最北部的高原……蒙古。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left mongol1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+//<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+//傕偊傜俽俤捛壛
+<se id="1" src="儌儞僑儖晽" mode="normal" loop="off">
+
+<BACKGROUND SRC="mongol1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　这里地势平坦，没有什么能够阻止风儿的吹过。
+
+放眼望去，只能看见一片茫茫的草原。
+地平线也好，天空也好，看起来都十分遥远……眼前只有悠悠飘动的云朵。
+
+　空气轻轻地触碰着肌肤，令人产生一种错觉，仿佛身体已经化为羽毛。
+
+干燥而稀薄的空气已经无法用澄净一词形容。
+不管如何用力眯起眼睛，都看不到一丝雾霭或热气流。仿佛世界的亮度都变得不一样了，甚至可以看出低处的沉重空气能够阻挡多少光线。
+
+　我们的眼睛尚未习惯这里的景色，
+  草原和云朵……仿佛自身就能发出光芒。
+
+　苍穹无限深远……湛蓝得仿佛直达遥远宇宙的另一端。
+
+「……是这里了」
+
+　我低声说着，却没有听到回答。
+
+　我向身旁望去，只见{ヒロイン}正丢了魂似的望着流动的云彩出神。
+
+//傕偊傜俽俤僼僃乕僪
+<se id="1" src="" mode="fadeout" time="50">
+
+//> left motel wide 255 sepia 22
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我们虽然来到了乌兰巴托，但线索却至此中断了。
+
+即使对那个名叫『匈』的少女被绑架的年代进行粗略估算……大概也要追溯到蒙古受苏维埃政权瓦解余波影响而陷入大混乱的时期。
+
+　当时的人们都过着饥一顿饱一顿的生活，即使有卖身和拐卖人口的事情也不会引起人们的关注。
+  我们的搜索陷入了令人绝望的境地。
+
+　在酒店上班的青年翻译向我们提供了建议。
+
+　我们毫不隐瞒地告诉那名青年，我们正在寻找故乡，而他则笑着说道。
+『你们去草原吧』。
+
+<BOX type="5">//%sR
+『去草原仰望天空吧，这样就一定可以确认了』
+
+<BOX type="0">//%w
+　他的话如迷一般，
+  但我们已经没有了其他线索，只好按照他说的去做。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我们乘上了开往草原的公车，然后……
+
+　刚刚迈出车厢一步，我们便双双陷入沉默。
+
+//傕偊傜俽俤捛壛
+<se id="1" src="儌儞僑儖晽" mode="normal" loop="on">
+
+//> left mongol1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="mongol1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+我们已经无计可施了。
+ 即使她是诞生在这片土地上，我们也不知道该如何找到她的家人或相关的人。
+
+　如果就此放弃的话，{ヒロイン}将永远无法知道自己究竟是谁。
+  可是……
+
+　天地是如此辽阔，
+  我们二人在这样的天地之间渺小得简直微不足道。
+
+　一种无可奈何的无力感在心底沉淀。
+  {ヒロイン}似乎也是如此。
+
+　我想说些安慰的话……但自己并不清楚{ヒロイン}此刻的心情。
+
+　她只是呆呆地仰望着苍穹。
+
+「……{ヒロイン}？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　……那个时候，青年翻译曾经说过。
+
+<BOX type="4">//%sL
+『如果你真的是蒙古的孩子，就不可能忘记天空』
+
+『天空和云彩都已经渗入了你的骨肉。只要你仰望天空就会明白』
+
+<CLEAR><BACKGROUND SRC="4010p2">//# 4010p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　就像要抓住流动的云朵一样，{ヒロイン}向天空伸出了手臂。
+
+　与头上深邃的天空相比，云朵仿佛就近在眼前……的确会令人产生一种能够用手抓住的错觉。
+
+　{ヒロイン}静静地握起伸出的手指……然后，她便一直凝视着抓在虚空中的手。
+
+<CLEAR><BACKGROUND SRC="mongol1">//# mongol1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「到这里……就足够了」
+
+<BOX type="0">//%w
+　{ヒロイン}用一如既往的平静声音低声说道。
+  通过声音我无法判断她是气馁了还是放弃了。
+
+「……这样可以吗？」
+
+　{ヒロイン}的视线从天空落下，望向遥远的远方，轻轻地点了点头。
+
+<BOX type="5">//%sR
+「到这里，就足够了」
+
+<BOX type="0">//%w
+　不知为何……{ヒロイン}脸上浮现出平静的微笑。
+
+<CLEAR><BACKGROUND SRC="4010p3">//# 4010p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　久违的笑容……不，这种笑容也许我是第一次见到。
+
+　她此刻的微笑，是如此的明朗清澈……
+
+//傕偊傜俽俤僼僃乕僪
+<se id="1" src="" mode="fadeout" time="30">
+
+//<bgm src="" mode="fadeout" time="20" loop="on">//> right mongol1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="mongol1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　少年的愿望最后并未实现……但少女的心已经得到了满足。
+
+　她记得这片天空，
+  曾经在梦中无数次见到过的天空。
+
+　自己肯定是在这片天空下的某个地方……出生的。
+
+　少女缓缓地望着一望无际的草原。
+  在这片天空下的……哪个地方呢？
+
+　答案不得而知。
+  已经无法确认自己究竟是哪里的谁了。
+
+　可是……深邃的天空给了自己答案。
+
+自己是谁，已经没有必要去在意了。
+
+少女身旁的少年是那样的温柔，一直在担心地望着她。
+
+　少年的眼神充满悲伤，因为他还不知道少女心中的想法。
+
+//<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="on">//$ tema.swa 0 255
+<bgm src="flyshort1" mode="fadein" old="fadeout" time="0" loop="off">//$ tema.swa 0 255
+<BOX type="5">//%sR
+「到这里，就足够了」
+
+<BOX type="0">//%w
+　少女对少年如此说道。
+  没有继续下去的必要了。
+
+　即使什么都找不到，我……
+
+　还拥有你给的名字，
+  还拥有和你在一起的记忆。
+
+　这样，就够了，
+  这样，我就能继续活下去了。
+
+<CLEAR><BACKGROUND SRC="4010p3">//# 4010p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　为了将这一切传达给少年，少女的脸上露出了微笑。
+
+//仛傑偝偐傝丗僼儔僌捛壛
+<CALC WORKNAME="僄儗儞僄儞僪" OPERATOR="1" MODE="global">//
+<A HREF="1550.txt" OPERATOR="">//~ 1550

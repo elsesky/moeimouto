@@ -1,0 +1,103 @@
+<clear>
+<BACKGROUND SRC="room0e2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BOX type="2">//%w
+将脸埋在枕头里。
+Ein用一只眼睛凝视着站在床边的Zwei的背影。
+
+　在漏进黎明微光的房间内，
+  他黑色的背影，
+  现在还保留着午夜的颜色。
+
+　人偶的黑暗。
+　漂浮着的空虚的空间。
+
+　回到阁楼的时候，
+　待在屋内的Zwei……
+　简直就如同影子一般。
+
+　如果他是敌人，设置了陷阱准备伏击自己的话……
+  自己能够看穿吗？
+
+　仅仅半年，
+  Zwei以不可思议的速度成长了。
+
+　和以往一样，主人果然是正确的。
+　那个少年，是天才。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+回想起那个记忆被夺去，
+在夜晚的沙漠中嚎啕大哭的Zwei。
+
+在那之后他所承受的，
+无论是身体遭受的苦痛，
+还是灵魂被侵蚀的绝望。
+Ein都能想象的到。
+
+　因为，这一切，
+  Ein在过去全都经历过。
+
+　感到痛苦、烦闷，
+  然后慢慢变得习惯……
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　被顺利培养成暗杀者的Zwei……
+  望着他的身姿，
+  简直就像再现自己过去的人生。
+
+　仅仅两年的、被限定的过去。
+  自己没有与此相等的记忆。
+
+　虽然没有过去的记忆，
+  但自己已经不觉得痛苦了。
+
+　失去过去的痛苦……
+　相比于回想起过去的痛苦，就显得微不足道了。
+
+作为杀手而度过的两年时间，对于领悟出这一点来说，足够了。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="2">
+　不过，为什么？
+　同为杀手的自己，
+  为什么会害怕看到他的眼睛。
+
+//> right room0e2 wide 255
+<clear>
+<BACKGROUND SRC="room0e2">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="2">//%w
+　Ein之后的Zwei，
+  第二个的自己。
+
+　凝视着他的眼睛，说不定就如同是在窥视自己的眼睛。
+
+　自己……
+　在害怕着那种事吗？
+
+  像是能够剥离假象的镜子一样，
+  在Zwei的眼中所映出的，
+  是自己真实的姿态。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="2">
+　怀着悄然而至的不安，
+  听着隐匿声响的脚步声。
+
+　一直以来，Ein都在这样等待着睡梦的降临。
+
+<CALC WORKNAME="0120b" OPERATOR="1">//
+<A HREF="0125.txt" OPERATOR="">//~ 0125

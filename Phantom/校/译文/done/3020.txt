@@ -1,0 +1,178 @@
+//> left church2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="church2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　眼前出现了一幢古色古香的砖瓦结构建筑，与钢筋水泥结构的校舍截然不同。
+
+　旧礼拜堂……
+　这所蓧仓学园的前身是圣蓧仓女子学院。
+
+　据说，这所学校是在昭和末期从基督教系的全宿制女子学校转变成男女同校的升学学校的。
+
+四周被树林包围着，不穿过复杂的校舍楼房是无法来到这里的。
+重型机械很难搬运到这里，直到现在还能看到一些尚未拆毁的房屋。
+
+由于这些建筑已经严重老化，变得十分危险，所以学校禁止学生进入这片区域。
+不过，由于这里的气氛有些恐怖，即使校方并未禁止，恐怕也不会有人愿意来的。
+
+<se id="1" src="楃攓摪奐偗傞" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="INchurch1">//# INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+不过，{ヒロイン}好象会时不时地偷偷跑过来，在这里待上一阵子。
+
+　虽然历史上的基督教学校制度早已废除，但蓧仓学园的教育理念仍旧建立在基督教的基础之上，这从校歌及校规的条文中就可以找到明显的痕迹。
+
+　转入蓧仓学园后，{ヒロイン}与宗教不期而遇。
+  对她来说，这次邂逅似乎具有重大意义。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　作为旧态的遗痕，这所学园设有可以随意参加的神学讨论及赞颂歌小组，{ヒロイン}常常乐此不疲地参加这些活动。
+
+这种热情在以前的{ヒロイン}身上是难以想象的，但与狂热地盲目崇拜又存在着很大不同。
+从她的情况来看，与其说是有了信仰的对象，倒不如说她是被宗教哲学的某一面吸引住了
+
+她似乎对交流信仰这种事没什么兴趣。
+也许对于{ヒロイン}来说，一个人沉浸在这座静寂的礼拜堂中才是最重要。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<CLEAR><BACKGROUND SRC="3010p2">//# 3010p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这份寂寞的静谧，或许会让{ヒロイン}有种置身于神的宫殿一般的感觉。
+
+  虽然我没有和她进行过深入的交谈。不过，既然她有着那样的经历，对教义的接受方式和信仰的存在方式肯定会与常人有很大不同吧。
+
+　{ヒロイン}跪在祭坛前、向已经开始腐朽的圣人像默默祈祷。
+  她浑身上下散发出的那种丝毫不加修饰的沉默，深深地震撼了我。
+
+　谈论藤枝美绪的时候，她的冷静语气还能让人联想起她身为杀手时的模样……
+
+　可是，只要看到{ヒロイン}向着圣人真挚祈祷的样子，任谁都无法将她和那个甘愿成为杀人机器的少女联系到一起。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「你……变了呢」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没有你变得多」
+
+<BOX type="0">//%w
+　结束祈祷后的{ヒロイン}站起身来，低声说道。
+
+<BOX type="5">//%sR
+「自从来到这个国家以后，你……真的变了」
+
+<BOX type="0">//%w
+「……是吗？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看着这一切，我明白了。
+  你的心正渐渐地卸下防备」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「所谓的故乡，一定就是这样的吧」
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}的眼中浮现出略带悲伤的神色。
+
+<BOX type="5">//%sR
+「我不希望你回忆起以前的事情……」
+
+「可能的话，我想让你永远忘掉过去」
+
+<BOX type="0">//%w
+　所以，你才瞒着我吗？
+　一个人冷静地制定出利用美绪的计划……
+
+「你，还是什么都忘不掉啊」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是的」
+
+「什么都忘不掉」
+
+<BOX type="0">//%w
+「……为什么？」
+
+　我原以为在这个国家度过的安稳平和的日子已经治愈了{ヒロイン}心灵的创伤。
+  看来，是我错了。
+
+「这些全都是地球另一侧的事了吧」
+
+<BUSTUP NAME="elen7" face="8" MODE="on" zoom="" ALIGN="right">//# elen7^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为，我还没有完成忏悔」
+
+<BOX type="0">//%w
+「……」
+
+　的确，如果{ヒロイン}要忏悔的话，内容恐怕会多到连神父大人都处理不完。
+
+「……你在对谁忏悔呢？」
+
+<BOX type="5">//%sR
+「直接向神忏悔」
+
+「因为，总有一天我会见到神的」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+总有一天，会见到神……
+在那一天到来之前，{ヒロイン}恐怕会一直在这种孤独的静寂中祈祷下去吧。
+
+<A HREF="#僉儍儖慖戰巿" OPERATOR="1330=1">
+<A HREF="#僄儗儞慖戰巿" OPERATOR="1450b=1">
+<A HREF="3050b.txt" OPERATOR="">//~ 3050b
+
+<MARKER NAME="#僉儍儖慖戰巿">
+<A HREF="#嶰戰" OPERATOR="1450b=1">
+
+<CHOICE HREF="3050b.txt" TEXT="＊去找美绪" OPERATOR=""></A>//
+<CHOICE HREF="3040b.txt" TEXT="＊一个人静一静" OPERATOR=""></A>//
+
+<MARKER NAME="#嶰戰">
+<CHOICE HREF="3120.txt" TEXT="＊留在这里" OPERATOR=""></A>//
+<CHOICE HREF="3040b.txt" TEXT="＊一个人静一静" OPERATOR=""></A>//
+<CHOICE HREF="3050b.txt" TEXT="＊去找美绪" OPERATOR=""></A>//
+
+<MARKER NAME="#僄儗儞慖戰巿">
+<CHOICE HREF="3120.txt" TEXT="＊留在这里" OPERATOR=""></A>//
+<CHOICE HREF="3050b.txt" TEXT="＊去找美绪" OPERATOR=""></A>//
+
+
+
+
+
+　sく 3050b
+
+<A HREF="3050b.txt" OPERATOR="">//~ 3050b
+
+
+
+
+
+　

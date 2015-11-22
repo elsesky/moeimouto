@@ -1,0 +1,221 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left tunnel_exit wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="tunnel_exit">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　隧道内的司机们被眼前的惨状吓破了胆，纷纷弃车而逃。
+　托他们的福，F40的替代品总算是有了着落。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left airport2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="airport2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「是这里吗？」
+
+　蒂华纳郊外的机场似乎在很久之前就被弃用了，如同废墟一样地荒废着。
+
+风吹日晒，又没有足够的养护。
+机场的跑道已经变得坑坑洼洼，满是裂缝，而且还积了厚厚的一层尘土。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「应该是这里没错，可……」
+
+<BOX type="0">//%w
+　看到这样冷清的景象，克劳蒂娅也没了自信。
+
+<BOX type="5">//%sR
+「还没有人来吗？」
+
+<BOX type="0">//%w
+　我看了一眼手表。
+  距离约定好的早上5点还有一段时间。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……走吧」
+
+<BOX type="0">//%w
+　克劳蒂娅关闭发动机后，我们离开了BMW。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hangar wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hangar">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　里面虽然也是乱糟糟的，但远比外面好得多。
+
+　在车载发电机与燃料桶的包围中，之前提到过的喷气式飞机正静静地停在那里。
+
+　看样子……在昨天就已经被调试好了。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「果然一个人也没有呢」
+
+<BOX type="0">//%w
+「……说的是啊」
+
+<BOX type="0">//%w
+　我尽量装成平静的样子，这样小声说道。
+
+　虽然嘴唇干得要命，但我并没有用舌头去添湿它。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……咦？」
+
+「我把那张光碟交给你了？」
+
+<BOX type="0">//%w
+「……没有啊，光碟不在我这里」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样啊……」
+
+<BUSTUP NAME="crou" face="a" MODE="on" zoom="" ALIGN="right">//# crou^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳迪娅吐了吐舌头，不好意思地笑了起来。
+  她的样子非常可爱……我发自内心地这样想着。
+
+<BOX type="5">//%sR
+「我这是怎么了」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看来是放在车里了。
+　稍等一下，我马上把它拿回来」
+
+<BOX type="0">//%w
+“不，由我去吧……”
+　
+“一个人太危险了，我们一起去吧……”
+
+　虽然自己想到很多回答，但无论是哪一个，一经说出都会成为负担。
+
+　我已经累了，已经累到连一句话都不愿说了。
+
+　所以，我只是默默地点了点头。
+
+<se id="1" src="僋儘僂僨傿傾曕偒" mode="normal" loop="off">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　带着平常那样的微笑，克劳蒂娅走出了机库。
+
+<CLEAR><BACKGROUND SRC="hangar2">//# hangar2 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="30">
+<BOX type="0">//%w
+　随后，这里只剩下了淡蓝色的曙光和死一般的寂静。
+
+　我悄悄地将手放在腰间的HARDBALLER上。
+
+　发电机的背面有一个人……
+  飞机的阴影里还有一个人……
+
+　此外，还有一个人在……头上的简易悬索吊桥上吗。
+
+　太简单了。
+　真是一无是处，简单到令人悲哀。
+
+　不管怎么说，至少应该能在不被发现的情况下靠近自己……这样的家伙才是我想面对的。
+
+　吹过跑道的圣安娜焚风，在我的耳中留下了呜呜的声音。
+
+（注：圣安娜焚风，即Santa-Ana，分布于美国加利福尼亚州南部。焚风是出现在山脉背面，由山地引发的一种局部范围内的空气运动形式——过山气流在背风坡下沉而变得干热的一种地方性风，可促进春雪消融，作物早熟；同时也易引起森林火灾、干旱等自然灾害）
+
+　从遥远的高空，传来了夜鹰的鸣叫声。
+
+<se id="1" src="11_02_HB5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="3" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="100">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<wait time="800">
+　冈宾诺的杀手们连一枪都没能射出。
+
+　从天窗射进的微光中，硝烟在飘荡着、缓缓地形成了一个漩涡。
+
+　从简易悬索吊桥上掉下的尸体，重重地落在了地上。
+<se id="1" src="巰懱棊壓壒" mode="normal" time="" loop="off" effect="">//!se down
+　之后，机库恢复了原本的寂静。
+
+　这个时候……
+
+<se id="1" src="02_08" mode="normal" time="" loop="off" effect="">//!se 
+　枪机被扳起的细小金属音，再一次地在身后响起。
+
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<CLEAR><BACKGROUND SRC="1290p1">//# 1290p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我扭过头，看到克劳蒂娅正举着枪站在机库的入口处。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　这应该是她第3次对人开枪了吧。
+
+　罗梅洛，接着是维斯梅尔……在她悲壮的人生中，作为无法回避的障碍挡在她面前的男人们。
+
+「……太简单了啊，克劳蒂娅」
+
+「以这么简单的方式结束……真是可悲啊」
+
+<BOX type="5">//%sR
+「……对不起……」
+
+<CLEAR><BACKGROUND SRC="hangar2">//# hangar2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　踏入机库、察觉到埋伏着的杀意的时候，如果可能的话，我真的想放声大哭。
+
+　右手的HARDBALLER还剩2发子弹。
+  转过身对她开枪……这样的事不是不能做。
+
+　可是，那样做的话……会怎么样呢？
+　事到如今，自己是为了什么而开枪的呢？
+
+　我曾经仅仅为了生存而多次扣下扳机，可这一次……那样的目的，真的值得我开枪吗？
+
+　现在用枪指着我的后背的，不是别人而是克劳蒂娅……为了让她活下去，我情愿一死。
+
+　明明是这样，
+  明明活在这样的世界，
+  为什么，自己还是想要活下去呢？
+
+<CHOICE HREF="1760.txt" TEXT="＊击杀克劳蒂娅" OPERATOR=""></A>//{ ＊クロウディアを撃ち殺す 1760 ＊観念して、諦める 1770
+<CHOICE HREF="1770.txt" TEXT="＊寻求解脱" OPERATOR=""></A>//{ ＊クロウディアを撃ち殺す 1760 ＊観念して、諦める 1770
+
+
+
+
+
+
+　

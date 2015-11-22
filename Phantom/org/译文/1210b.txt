@@ -1,0 +1,305 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left city7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="city7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「那里就是伯纳海滩酒店」
+
+　我指着那个西南面反射着阳光、四面都被玻璃包裹起来的柱体建筑对凯尔说。
+
+「的确有人想要在我昨天晚上跟你说的那种条件下杀人。
+　阻止那家伙的袭击，就是我这次的任务」
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔……」
+
+「可是啊，这种事情，只靠这样走路就可以知道吗？」
+
+<BOX type="0">//%w
+「所谓的狙击，并不是什么准备都不做就能成功的」
+
+「狙击手必须要预先进行准备工作。
+  所以今天我们是来探路的」
+
+「比如说，对了……最容易找到的就是风标」
+
+<BUSTUP NAME="cyall2" face="0" MODE="on" zoom="" ALIGN="right">//# cyall2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「风标？」
+
+<BOX type="0">//%w
+「在射击的时候，狙击手必须要预读风向，预先计算好风对弹道的影响」
+
+<BOX type="5">//%sR
+「一阵小小的风就可以使弹道偏离？」
+
+<BOX type="0">//%w
+「就算是一点点的偏离，到了800码以外也会变成很大的误差」
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……这样啊」
+
+<BOX type="0">//%w
+「特别是在这周围还会受到楼风的影响。
+  必须要细心地掌握风向才行」
+
+「为此，风标是必须的」
+
+<BOX type="5">//%sR
+「很多屋顶上立着风向标，就是起那样的作用吗？」
+
+<BOX type="0">//%w
+「没错。用旗子或者布条都可以。
+  这些都是可以确认风的风向和强度的标志」
+
+<BUSTUP NAME="cyall2" face="a" MODE="on" zoom="" ALIGN="right">//# cyall2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，这样的东西随处都可以见到吗？」
+
+<BOX type="0">//%w
+「当然不会。所以要自己准备」
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「原来如此，这就是准备工作啊」
+
+<BOX type="0">//%w
+「就是这样」
+
+「我们的任务，就是要找到放置在奇怪地方的布条之类的东西」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔望着成片的摩天大楼，一脸的兴趣索然。
+
+<BOX type="5">//%sR
+「会辛苦吧？」
+
+<BOX type="0">//%w
+「昨晚我们不是已经定下预选的目标了吗？」
+
+//> left city8 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="city8">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在开始搜寻工作以前，我先教给了凯尔狙击手式的搜查法。
+
+「你见过打字机里的纸张吧？
+　视线的移动和那个是一样的」
+
+「从视野的左上方开始，像打字一样，以一定间隔一点一点将视线向右方移动」
+
+「要点在于切换视线焦点。看完远处以后再看近处，看过近处以后再看远处，每次移动视线都要切换焦点」
+
+「视线移到最右端的话就换行」
+
+「之后再从下一个水平高度开始从左向右的搜索……明白了吗？」
+
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+「好，那我们开始吧」
+
+<CLEAR><BACKGROUND SRC="city^a">//# city^a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自从我跟凯尔一起生活以来，只要碰到事情，她的注意力与直觉的敏锐性就会完全体现出来。
+  撇开杀手的训练不说，凯尔的优秀是不容怀疑的。
+
+　虽然我没有说出口，
+  不过今天的搜索，我对凯尔寄予了很大的希望。
+
+//> left city9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="city9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　今天正好是休息日。
+
+　紧邻唐人街和小东京这些名胜的市中心，挤满了观光客和各种各样的人。
+
+　混在这样的人群中进行实地调查可以说是很辛苦的。
+  不过，这只是对我一个人而言的。
+
+　看样子，凯尔已经完全被周围的气氛感染了。
+
+<BUSTUP NAME="cyall2" face="7" MODE="on" zoom="" ALIGN="right">//# cyall2^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「快看那边！是街道表演!!」
+
+<BOX type="0">//%w
+　每次她扯我夹克衫的衣角时，我都会感到头痛。
+  她究竟在注意着什么呢？
+
+快点给我认真的找……
+虽然我好几次都想这样训斥她，可是因为要一直向上面看，所以就没有发作。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+现在已经发现了两个类似风标的东西。
+……都是挂在墙上的破布。
+乍一看，会以为不过是被风吹起来的垃圾之类的，不过在那么高的地方实在有点不正常，肯定是人为的。
+
+　明天的会谈会遭到袭击，这一点已经确认无误了。
+
+　抛开这些不提，这两处线索，都是凯尔最先发现的。
+
+　基于这两点，我真是不好对她发火。
+
+　总之……目前的调查已经让我锁定了8成的方位。
+  候补的场所几乎全都被排除了。
+
+<CLEAR><BACKGROUND SRC="city0">//# city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　狙击的场所，应该就是邮政局大楼的楼顶。
+
+　距离和角度，那个时间的太阳方向，还有很明显是人为放置的风标的位置……
+  所有这些要素都成为了推理的重要依据。
+
+　接下来，只要再发现一个明显的风标就可以确定了……
+
+　突然，我发现身边安静了许多，本来应该跟在边上的凯尔不见了。
+
+「……？」
+
+　回头一看，才发现凯尔在我刚才根本就没注意的露天商人那里停住了。
+
+　真是的……
+　我已经连喊她的想法都没有了，就这样默默地走到了她的身旁。
+
+<CLEAR><BACKGROUND SRC="僉儍儖業揤彜">//# city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　凯尔正在聚精会神盯着的，是件看起来很便宜的装饰品。
+
+　可是，看着被那种破烂货吸引住了眼球的凯尔，我不可思议地打消了责备她的念头。
+
+　这样的镜头并不常见。
+
+　看到融入假日街道的热闹气氛中的高兴的凯尔，总觉得自己介入进去的话会很难为情。
+  我突然感到这个情形好熟悉。
+
+　不如说，一心一意地寻找着狙击手痕迹的自己，反而与这里的热闹显得格格不入。
+
+<CLEAR><BACKGROUND SRC="city0">//# city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「买下来怎么样？」
+
+<BUSTUP NAME="cyall2" face="0" MODE="on" zoom="" ALIGN="right">//# cyall2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎!?」
+
+<BOX type="0">//%w
+　我这么一说，凯尔又像给她买衣服时一样，表情变得一点都不自然了。
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样……不好吧」
+
+<BOX type="0">//%w
+　这个孩子对吃饭这样的共有物不会有丝毫客气，可一旦要送给她属于她个人的赠与物，她就会突然间变得诚惶诚恐，非常滑稽。
+
+「是这个吗？」
+
+　我看了一下她从刚才就一直恋恋不舍地看着的那件东西。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# dummy 20 1210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+　是一个带盖子的手动怀表。
+  虽然是便宜的纪念品，不过指针和表盘的做工却很精细。
+
+　店主看我想买，便一边喋喋不休地用西班牙语和英语说着什么，一边将表盘的盖子盖上，上了一下发条。
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="5" loop="on">//$ calling.swa 255 255
+　再次打开盖子的时候，随着秒针的转动，细小的旋律响了起来。
+
+「咦，还带有八音盒呢」
+
+<CLEAR><BACKGROUND SRC="city0">//# cyall2^5 20 city0 1
+<BUSTUP NAME="cyall2" face="5" MODE="on" zoom="" ALIGN="right">//# cyall2^5 20 city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　刚才还犹犹豫豫的凯尔，现在却越来越喜欢这个东西了，从她的脸上就能看得出来。
+
+　这时，店主大叔已经开始在数放在零钱盒子里的零钱了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left city1 wide 255 cyall2^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 0 255
+<BACKGROUND SRC="僉儍儖帪寁俧俤俿">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="1210x2">//# dummy 20 1210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　上发条，不断地打开盖子再盖上，
+
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔已经完全沉浸在了她手心上的世界里了。
+
+　搜索的事已经被她忘到九霄云外去了。
+
+<CLEAR><BACKGROUND SRC="僉儍儖帪寁俧俤俿">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不过我还是没有责备她。她帮我帮到这个程度，已经是值得大大表扬一番了。
+  接下来，我一个人就足够了。
+
+「可不要把它也拆了哦」
+
+<BOX type="5">//%sR
+「……嗯」
+
+「我会好好珍惜的。永远……」
+
+<A HREF="1230.txt" OPERATOR="">//~ 1230

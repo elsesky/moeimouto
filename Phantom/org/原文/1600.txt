@@ -1,0 +1,326 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　目立つフェラーリはクロウディアに譲り、
+　こちらは道すがらに盗んだシヴィックを足にすることにした。
+
+//> left houseC3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="houseC3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　寝静まった深夜のマリブーを走り抜け、
+　クロウディアの邸宅に辿り着いたのが、午前1時。
+
+　一旦、前を素通りして、人気がないのを確かめてから、
+　引き返して車庫前にシヴィックを停める。
+
+　車庫内に設けた警備システムの端末で調べても、
+　留守中に敷地に押し入った者はいない。
+
+　インフェルノに先回りされ、待ち伏せを受けるのを危惧していたが、
+　どうやら間に合ったらしい。
+
+　とはいえ、連中が押し掛けてくるのは時間の問題だ。迅速に動かねば。
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　外見に留守を装えるよう、
+　屋内の明かりは一切点けずに、夜目だけで廊下を駆け抜け、寝室に急ぐ。
+
+<CLEAR><BACKGROUND SRC="bedRoom2">//# bedRoom2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　鏡台の裏に手を突っ込むと、ディスクはすぐに見つかった。
+
+<CLEAR><BACKGROUND SRC="MO">//# MO 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　これ一枚で、はたしてニューヨークでは何人の人間が、
+　マンハッタン湾のヘドロに身を沈めることになるのだろうか。
+
+　先月、リズィたちと奔走したニューヨークでの工作も、
+　すべてが御破算になる。
+
+　昨日の敵は今日の友、か……
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+<se id="1" src="警報サイレン" mode="normal" time="" loop="off" effect="">//!se phone2
+　居間を通り抜けようとしたところで、耳障りな電子音が耳朶を打った。
+
+　音のトーンで警報の種別も判る。
+　作動したのは、庭側に設置したセンサーだ。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　来たか……
+
+　懐の{銃}に触れてから、
+　思い直してバーに行き、アイスピックを手に取る。
+
+　敵の人数も、武装も不明。
+　だが多勢に無勢で不利かといえば、そんなことはない。
+
+　こっちには、闇と静寂が味方についている。
+　付き合い方さえ心得ていれば、これほど頼もしい仲間はいない。
+
+//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+　カウンターの裏に身を潜めているうちに、空気の動きが感じ取れた。
+
+　まずは、一人……
+
+　影がカウンターの前を行き過ぎたところで、そっと背後に忍び寄り、
+　影のように寄り添ったまま、数歩、共に進む。
+
+　相手の呼吸に耳を澄まし、相手と同じものに注目しながら、
+　相手の鼓動を、意識の動きを、自分の中に再現して同調する。
+
+　……そうすることで、絶妙の瞬間の訪れを、
+　より速やかに、着実に、この男の生命を絶つための、
+　絶対的な一瞬を待ち受ける。
+
+　やがて男は、高まりすぎた緊張を鎮めるために、より深く息を吐き……
+　そして一瞬、動きを止めた。
+
+　待ち受けていたその瞬間に、影よりもなお近くに肉薄し、
+　男の頭部をリーチに捉える。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　まず左手で口と鼻孔を一度に塞ぎ、
+　間髪入れず、後頭部……盆の窪から小脳に至るまで、
+<se id="2" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+　一気にアイスピックを貫き通す。
+
+　悲鳴もなく、断末魔の痙攣もなく、
+　まるで糸の切れた人形のように、
+　男はその場でぐにゃりと四肢の力を失った。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+　どっと床に頽れかかるところを抱き止めて、そっと静かに横たえる。
+
+　どんな人生を歩んできたのかは知らないが、
+　望みうる最良の死に方だっただろう。
+　最後の瞬間まで、その訪れに気付くことすらなかったのだから。
+
+　手早く、死体の装備を改める。
+　H&K＝MP5サブマシンガンと予備弾倉、
+　それと、耳にはイヤホンタイプの通信機。
+　微かな空電音と、かさかさ囁く声が聞こえる。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……ガレージで車を発見。
+　まだエンジンは暖かい。
+　いるぞ。間違いなく』
+
+//<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……二階クリア。
+　人っ子一人いねぇよ。
+　下はどうなってる？』
+
+//<se id="2" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……おいチコ？　どうした？
+　応答しろ……』
+
+//<se id="3" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……Shit……』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="0">//%w
+　イヤホン越しの会話で、概ね状況は理解できた。
+　声からして、敵は残り3人。
+　居間での異常に気付き、すぐにもやってくるだろう。
+
+　慌てず騒がず、廊下に続くドアの横で、壁に背中を貼り付けて待つ。
+
+//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　すぐに廊下で気配が動き、二人目の男が、
+　慎重な足取りで踏み込んできた。
+
+　構えているのは、ベネリのオートマチックショットガン、M3。
+　セミオートマチックで散弾をばらまく代物だ。
+　接近戦ではこれに勝る脅威はない。
+　さらに銃身にレーザーサイトまで装着している。
+
+　闇を裂いて走るルビー色の輝点が、獲物を求めてゆらめき動く。
+
+　だが、援護を受けてる動きじゃない。
+　こいつもまた単独だ。気配でも判る。
+
+　今度はタイミングを見計らうことなく、即座に動いた。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　低い姿勢から、まず左手で敵の構えている銃を逆手に掴んで引っぱり、
+　空いた脇の下に身を潜らせて、懐から真上の頭を襲う。
+
+<se id="1" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+　顎と喉の境目から、やはり小脳を狙って一突き。
+
+　一動作で二人目を仕留めつつ、素早く廊下の気配を窺う。
+
+<BOX type="5">//%sR
+「……チコ？」
+
+<BOX type="0">//%w
+　まずい。階段の辺りからもう一人、こちらに顔を突き出している。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<CLEAR><BACKGROUND SRC="passage4">//# passage4 1
+<WIPE EFFECT="fade" TIME="10">
+　即断し、男の死体を抱えたまま、廊下に飛び出した。
+
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="0">//%w
+　突如、廊下へ躍り出た影に向けて、階段側の3人目は、
+<se id="2" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　容赦なくサブマシンガンの連射を浴びせてきた。
+
+　だが盲撃ち同然の乱射で、
+　しかもこっちは、抱えた死体が盾になっている。臆することはない。
+
+　死体の手にしたショットガンを持ち直すより、右手のアイスピックを口にくわえて、懐の{銃}を抜く方が早かった。
+
+<se id="2" src="" mode="fadeout" time="5">
+
+<CLEAR><BACKGROUND SRC="{銃画像}">//# gun 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+　階段で閃くマズルフラッシュ目掛けて、死体の影から2連射を放つ。
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="10">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="passage4">//# passage4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　絶叫が上がり、銃火が途絶えた。
+　残るは、あと一人……
+
+　背後の玄関の方から、慌ただしく駆ける足音が迫る。
+
+　身を隠す猶予はなかった。
+
+　死体を抱えたまま振り向いて、
+　左手に奪い取ったM3ショットガンを構え、待ち受ける。
+
+　最後の一人が廊下に飛び込んできた瞬間を見計らって、
+<se id="1" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+　すでに仲間の弾丸で蜂の巣になった死体を突き飛ばした。
+
+　いきなり血塗れの仲間に抱きつかれ、4人目が怯んだその隙に、
+　右手の{銃}と左手のM3で、容赦なく弾幕を浴びせる。
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　恐慌に陥り、死体もろとも床に倒れ込む4人目。
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　この至近距離では、さっきのように死体が盾になることはない。
+<se id="3" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　貫通した弾丸は、容赦なく敵の身体を抉っていく。
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="2" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　パニックに泣き叫ぶ声も、
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　{銃}とM3の弾が切れる頃には途絶えていた。
+
+　猛り狂う銃火と悲鳴の協奏曲が、真空のような静寂に取って代わる。
+
+　これで全滅……の、筈だが。
+
+　左手のM3を捨て、{銃}の弾装を換えようとして……
+　そうはせずに、口にくわえていたアイスピックを掴んだ。
+
+　微かに、風が流れている。
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　居間を覗き込むと、
+　テラスに出る窓辺のカーテンが、夜風を受けて、幽鬼の如く踊っていた。
+　窓が、開いている。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">//# elen6^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　窓辺の淡い月明かりを背負って、細くしなやかな影が佇立していた。
+　冷たく鋭い刃の視線。
+　殺意を内に封じたまま、微塵も漏らさぬ静謐の気配。
+
+<calc workname="gun03" operator="1" mode="global">
+<calc workname="gun04" operator="1" mode="global">
+<A HREF="#分岐" OPERATOR="0260=1">
+<A HREF="1630.txt" OPERATOR="">//~ 1630
+<MARKER NAME="#分岐">
+<A HREF="1620.txt" OPERATOR="1450b">//~ 1620
+<A HREF="1610.txt" OPERATOR="">//~ 1610
+
+
+
+630

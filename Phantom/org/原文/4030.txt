@@ -1,0 +1,570 @@
+<bgm src="" mode="fadeout" time="40" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> after1 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1年後">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7">//%w
+<k>
+
+//※一年後
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right boss_room wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="boss_room">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　差し出された数点の写真を、
+　梧桐海典は無言で見つめた。
+
+　……いずれも、ありふれた生活を送っている一人の少女を、慎重に隠し撮りしたものだ。
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「裏ァ取るのに、
+　散々苦労したんですぜ」
+
+<BOX type="3">//%m
+　笑い声だけは
+普段通りの卑屈さで……
+だが若頭・本庄の冷たい目には、
+明らかに恫喝の意志が見て取れた。
+
+<BOX type="4">//%sL
+「安心しておくんなさい。
+このネタは、まだ俺と、
+俺の舎弟どもしか押さえてません」
+
+「まだ、今のところはね」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……何が望みだ？」
+
+<BOX type="2">//%w
+　低く静かに、海典は問う。
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐の代紋」
+
+<BOX type="3">//%m
+　臆することもなく、
+　本庄は笑って言ってのけた。
+
+<BOX type="4">//%sL
+「親方も、いい加減、長く居座りすぎですよ。何事も頃合いってモンがあるでしょうが」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それで、
+　お前が仕切るってのか？」
+
+<BOX type="2">//%w
+　侮蔑しきったように、
+　鼻で笑う海典。
+
+<BOX type="5">//%sR
+「お前が梧桐一家を仕切れるだけの
+　タマだってのか？　えぇ本庄」
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「小娘一人に揺さぶられるような、
+　ボケた爺様よりゃマシでしょう」
+
+「これも組のためですわ。
+　女子供の命が気になるようじゃ、
+　この渡世はやっていけませんぜ」
+
+「遅かれ早かれ、
+　誰もが気付くでしょう」
+
+「たまたま先に嗅ぎつけたのが、
+この本庄だから良かったんですよ」
+
+「西の連中が、
+　この娘に
+　手ェ出したらどうするんです？
+
+「親方、あんた娘一人のために
+　組を滅茶苦茶にする気ですか？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+//> left boss_room wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="boss_room">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……聞けば聞くほど、下司な話だ。
+　結局、大筋は予想した通りだったわけか。
+
+　もう充分に、裏は取れた。精算して構わない。<se id="1" src="ふすま開ける" mode="normal" loop="off">
+　何も言わずに襖を開けて、二人のいる座敷に踏み込んだ。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!?」
+
+<BUSTUP NAME="honjyo" face="2" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「な、何だ手前ェは!?」
+
+<BOX type="0">//%w
+　無様に狼狽を見せたのは、やはり本庄の方だった。
+　この程度の男に跡目を寄越せと強要されては、梧桐の親方もたまるまい。
+
+「茶番は終わりだ。本庄さん」
+
+「あんたにはもう……美緒を、どうすることも出来ない」
+
+<BOX type="4">//%sL
+「な、何ィ？」
+
+<BOX type="0">//%w
+「美緒のまわりには、もう誰もいない」
+
+「見張ってた奴も、尾けてた奴も……一人残らず、始末した。
+　あんたの一派は、お終いだ」
+
+<BOX type="4">//%sL
+「こ、この！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　懐に呑んだ銃を掴もうと、本庄が手を伸ばす。
+　まるで訓練されていない、鬱陶しくなるほど遅い手の動き。
+
+　やっと銃把をジャケットから引っ張り出したところで、
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　辟易して{銃}を突きつけた。
+
+「そういえば……忘れていたよ。もう一人いたっけな」
+
+<BOX type="4">//%sL
+「な……や、やめ……」
+
+<BOX type="0">//%w
+　命乞いを聞き届けるつもりはなかった。
+　こいつは美緒を傷つけようとした。
+　おまけに……懲りるほど利口じゃない。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="500">
+<se id="2" src="down" mode="normal" time="" loop="off" effect="">//!se down
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+
+<BOX type="5">//%sR
+「……ふん」
+
+<BOX type="0">//%w
+　目の前で子分の一人が殺されたにも関わらず、
+　梧桐海典の態度は、相変わらず堂々としたものだった。
+
+<BOX type="5">//%sR
+「他人の座敷に上がり込んで、
+　挨拶もなしか？」
+
+<BOX type="0">//%w
+「名乗るほどの名前はない」
+
+<BOX type="5">//%sR
+「……貴様は、日本の外に逃げたと
+　聞いていたが」
+
+<BOX type="0">//%w
+「キナ臭い噂が聞こえてきたんでね。戻ってきた」
+
+<BOX type="5">//%sR
+「……この男を殺しに、か？」
+
+<BOX type="0">//%w
+「それがひとつ」
+
+<BOX type="5">//%sR
+「……後は？」
+
+<BOX type="0">//%w
+「この男の話の続きをしにきた」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「引退しろ。梧桐海典」
+
+<BOX type="5">//%sR
+「……何ぃ？」
+
+<BOX type="0">//%w
+　老いた組長の眼光が、ひときわ鋭く光る。
+
+「あんたが組長に居座ってる限り、美緒は危険に晒される」
+
+「……本庄の言っていた通り、いずれは誰もが気付くことだ」
+
+<BOX type="5">//%sR
+「笑わせるんじゃない。若造が」
+
+「貴様ごときが、口出しできる
+　事だとでも思ったか？」
+
+<BOX type="0">//%w
+「口出しされたくない事情は、察するよ」
+
+「本庄みたいなクズが若頭を張っていたぐらいだ。
+　今の梧桐組には人がいない」
+
+「あんたが退くに退けないほど、
+　組の行く末を危ぶんでるのも、無理はない」
+
+<BOX type="5">//%sR
+「……小癪な餓鬼めが」
+
+「貴様なんぞの脅しで怯む梧桐海典と思ったか？　儂の肩には、今も梧桐一家3000人の命が掛かっておる」
+
+<BOX type="0">//%w
+「俺の肩に掛かってるのは、たったひとりの命だが……」
+
+「そのために、あんたの3000人を皆殺しにしてやってもいい」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「1週間やる。梧桐海典、それまでに進退を決めろ」
+
+「それでもあんたが、意地を張るなら……梧桐組は、俺が潰す」
+
+<BOX type="5">//%sR
+「舐められたものよの」
+
+「関東一帯、
+　まるごと敵に回す気か？」
+
+<BOX type="0">//%w
+「そうならないよう、祈っているよ」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 0235x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0235x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="2">//%w
+　また再び、桜が散る。
+
+<CLEAR><BACKGROUND SRC="sakuraED">//# sakuraED 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BOX type="2">//%w
+　繚乱と舞い散る花弁の中を、
+　美緒は彷徨い歩いていた。
+
+　武蔵野で随一を誇るその墓地は、
+　壮麗な桜並木を備えていた。
+　死者の眠る場所というよりは、
+　広大な庭園に近い。
+
+　おかげで、
+目指す墓標を見つけるのに、
+小一時間ほどもかかってしまった。
+
+<CLEAR><BACKGROUND SRC="4030x2">//# 4030x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　予想を裏切らず、
+　大きく厳めしい墓石。
+
+まるでひとつの砦のようだった。
+ここに眠る代々の男たちの、
+生き様を象徴しているかのように。
+
+『梧桐家』……刻まれた碑銘を、
+美緒は確認する。
+
+　始めて訪れる、
+　父と兄の墓だった。
+
+　無論、母には告げていない。
+　卒業式に参加した、その足で、
+　美緒はこの霊園に赴いた。
+
+　手に携えた紙筒には、
+まだ受け取ったばかりの卒業証書が
+収まっている。
+
+　篠倉学園への入学を、
+　真っ先に伝えたその人に……
+　今度もまた真っ先に、
+　美緒は報告する気でいた。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最後に話したのは、
+入試に合格した時でしたよね……」
+
+「今日、無事に卒業しました。
+　あれからもう、3年ですよ。
+　叔父さん……」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……それとも、兄さん、って、
+　呼ぶべきなのかな」
+
+<BOX type="2">//%w
+　いかつく大きな、物言わぬ墓標は
+　どこかあの屈強な男の体躯を
+　思わせた。
+
+<BOX type="5">//%sR
+「まだ……ピンと来ないんです。
+　だってずっと、
+　叔父さんは叔父さんだったから」
+
+<BOX type="2">//%w
+あの激しい夢のような数日間のあと、美緒はまた、いつもの平和な日常に戻っていた。
+
+　あれきり2度と、暴力の世界が、彼女の日常を犯すことはなかった。
+振り返れば、すべてが幻のようだ。
+
+　ヤクザの親方の血縁だなどと言われても、美緒はいまだに実感が持てない。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうだ、これ……」
+
+<BOX type="2">//%w
+　美緒は懐から、リボンで包装された細長い箱を取り出した。
+
+<BOX type="5">//%sR
+「貰ったんです。卒業記念に」
+
+<BOX type="2">//%w
+　卒業生に贈られた、
+　篠倉学園からの寄贈品は、
+　瀟洒な腕時計だった。
+
+　文字盤には校章の浮き彫り。
+　デザインは女子にも似合うよう、
+　細くシックにまとめられている。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも折角だけど、時計は……
+　私、間に合ってますから」
+
+<BOX type="2">//%w
+　墓石に供えた、線香の横に……
+　美緒は記念の腕時計を、
+　そっと載せた。
+
+<BOX type="5">//%sR
+「だから、これは叔父さんに、
+　あげますね」
+
+<BOX type="2">//%w
+　いつも贈り物ばかり受け取って、
+　思えば美緒が、大輔に何かを贈るのは、これが初めてだった。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　ロレックスの針で、
+　時間を確かめる。
+　重くてかさばる時計だが、
+　正確さだけは自慢だった。
+
+　仲間内の卒業パーティの時間に、もう遅れそうだった。
+　また早苗に叱られてしまう。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もう、行きます」
+
+<BOX type="2">//%w
+初めての墓参りなのに、ろくに時間も割けず、美緒は心残りだった。
+
+<BOX type="5">//%sR
+「でもこれで、
+　場所は覚えたから……
+　また、会いに来ますね」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　お辞儀をして、
+　美緒は墓石を離れる。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　いつからそこにいたんだろうか。
+　その厳めしい顔の老人は、
+　どこか複雑な表情で、
+　じっと美緒を眺めていた。
+
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　だが目が合った途端、老人は視線を逸らし、何も言わずに美緒の横を通り過ぎる。
+
+　美緒も、いちおう、軽く会釈しただけでやり過ごしたが、その間もずっと、記憶を探っていた。
+
+<BUSTUP NAME="mio1" face="4" MODE="on" zoom="" ALIGN="right">//# mio1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　どこかで会った人だろうか？
+　そう考えると、どことなく、
+　懐かしい雰囲気がしなくもない。
+
+　だが……どう考えても、
+　初めて会う人物だった。
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……人違いかな？」
+
+<BOX type="2">//%w
+　多分、美緒が孫か誰かに似ているとか、その程度の理由で見つめていたのだろう。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　それ以上、美緒は考えず、
+　霊園の門に続く桜並木へと
+　戻っていった。
+
+<CLEAR><BACKGROUND SRC="4030p1">//# 4030p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　門出の季節を彩る花が、
+　彼女を祝福し、差し招くように、
+　繚乱と行く手を飾る。
+
+　新しい生活。
+　新しい日常。
+　これから美緒を待ち受けるのは、
+　きっと想像もしなかった世界。
+
+　未来は彼女の前に開けていた。
+
+<CLEAR><BACKGROUND SRC="sakuraED">//# sakuraED 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　弾む足取りで、美緒は薄桃色の
+花道を抜けていった。
+
+<bgm src="" mode="fadeout" time="40" loop="on">//> left sakuraED wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="sakuraED">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BUSTUP NAME="アイン私服2" face="" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……会わなくて、良かったの？」
+
+<BOX type="0">//%w
+　遠ざかる美緒の背中を、桜の木陰から見守っていると……
+　いつの間にか、傍らに{ヒロイン}が立っていた。
+
+「今は、まだ……駄目だ」
+
+「もう少し、この国に、馴染めるようになってからでないと、な」
+
+//<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="on">//$ tema.swa 0 255
+<bgm src="flyshort1.ogg" mode="fadein" old="fadeout" time="3" loop="off">//$ tema.swa 0 255
+<CLEAR><BACKGROUND SRC="0235x1">//# dummy 20 0235x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　見上げれば春の青空は、淡く靄に包まれて、限りなく優しい。
+
+　かつて間近に見た美緒の笑顔のように、
+　なにもかも包み込むように。
+
+「……もうしばらく、かかるよな」
+
+　終わらせなければならないことも、
+　決別しなければならないことも、
+　まだ、あまりにも多すぎる。
+
+　ごめんよ、美緒。
+　道のりは……まだ遠いみたいだ。
+
+<CLEAR><BACKGROUND SRC="sakuraED">//# sakuraED 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「行こうか」
+
+<BUSTUP NAME="アイン私服2うつむき微笑み" face="" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そうね」
+
+<CALC WORKNAME="美緒エンド" OPERATOR="1" MODE="global">//
+<A HREF="1550.txt" OPERATOR="">//~ 1550

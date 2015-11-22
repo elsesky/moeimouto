@@ -1,0 +1,279 @@
+　駄目だ……
+　ここで{ヒロイン}を行かせるわけにはいかない。
+
+「キャルの件は、俺が引き受ける」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　いつも疑問を懐いたときは、そうするように、
+　{ヒロイン}は無言のまま、
+　すべてを見透かすような鋭い視線を投げかけてくる。
+
+　キャルに手を出すな……
+　いま口走ったその言葉に、何か論理的な説明をしなければ、
+　{ヒロイン}は納得してくれない。
+
+「君の方は……だって、
+　逃げる段取りを整えてもらわなきゃならないだろ？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「先週末だって俺は、ただ待っているだけだったし、
+　一切合切、君に任せっぱなしっていうのも……」
+
+　言い訳に頭を巡らすうちに、いつしか自分自身の本音にも気付いていた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 3240p3 1 
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="3240p3">//# dummy 20 3240p3 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　先週、礼拝堂で目の当たりにした一触即発の光景が、脳裏に蘇る。
+
+　今ここで{ヒロイン}を、一人で行かせたら……
+　彼女とキャルとの対決を、
+　今度こそ、ただ成す術もなく傍観するしかなくなる。
+
+　それは想像するだけでも鳥肌の立つ、最悪の展開だ。
+
+　もはやキャルとの対決が、避けられないものになったとはいえ、
+　それを{ヒロイン}に託したくはない。
+
+　そんな自分の心に気付いてみると、
+　口先だけで言い繕う言葉の、何と白々しいことか。
+
+<CLEAR><BACKGROUND SRC="Jroom2">//# elen7^2 20 Jroom2 1 
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 Jroom2 1 
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　黙したまま、虚空を見つめる{ヒロイン}。
+　冷ややかなその横顔からは、胸中を窺うことができない。
+
+<BOX type="5">//%sR
+「前にも、
+　一度訊いたけれど……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたには、
+　彼女が撃てるの？」
+
+<BOX type="0">//%w
+　いつになく鋭い、その語調に……
+　まるで、その場の空気に身体が縫い止められたような気がした。
+
+「……撃てるさ」
+
+　問いへの返答が、どれだけ不自然に遅れたか、
+　その不用意な間のうちに、{ヒロイン}が何を思ったか……
+　察することは叶わなかった。
+
+　以前、礼拝堂での対面の後で、自分自身にぶつけた問い。
+
+　今度はあのときのように、決断からは逃げられない。
+
+　撃てなければ、ならない。
+　今となっては、美緒の安否までかかっている。
+
+　美緒を救い出し、日本から逃げ延びる、
+　そのための選択肢が、すべて潰えたその後は……
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「撃てるさ……」
+
+　もう一度、まるで弁解するかのように、そう言葉を繰り返す。
+
+　{ヒロイン}に、そして自分自身に向けて、そう言い張りながら……
+　悩み続けて、結論を出すしかない。
+
+　キャルの銃口に捉えられる、最後の瞬間が訪れる……その前に。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage5b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="passage5b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}クゥン？」
+
+<BOX type="0">//%w
+「……何だ？　いきなり」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「たまには、ランチを
+　ご一緒してくれないこと？」
+
+「あんたは美緒に囚われの身なんだから、滅多にないわよ。あたしたちと食事できるチャンスなんて」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今日は食事が寂しいのよね」
+
+「美緒も、江漣も、休みだしさぁ」
+
+<BOX type="0">//%w
+「江漣が？」
+
+「今朝は、俺と一緒に登校したけど……？」
+
+<BOX type="4">//%sL
+「早退したのよ」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「朝から具合が悪かったんだって。あんた、気付かなかったの？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「だからさ、折角だし、
+　色々聞かせてよ」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美緒とは、
+　どのくらい進んでるワケ？」
+
+//> left classroom2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="phoneCall" mode="normal" time="" loop="on" effect="">//!se phoneCall
+<BACKGROUND SRC="classroom2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　何度、{ヒロイン}の携帯電話を呼び出しても、応答がない。
+
+　地下室にでもいるのか、それとも電源を切っているのか……
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　そのうちにチャイムが鳴り、五限の授業が始まった。
+
+　当然、授業中にベルを鳴らすのは御法度だ。
+　溜息をついて電源を切り、内ポケットの中に放り込んだ。
+
+　また試すには、授業が終わるのを待つしかない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="noonchim" mode="normal" time="" loop="off" effect="">//!se noonchim
+<wait time="200">
+//$ 0 0 0
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="0">//%w
+　……コチラハ・留守番電話
+　サービスセンター・デス。
+
+　メッセージヲ・1ケン・
+　オ預カリシテイマス……
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<wait time="200">
+<BOX type="6">//%w
+<font color="#010101">
+　これを聞く頃、あなたは
+　怒っているかもしれないけれど……
+
+　でもこれが、
+　最善の手だと思っています。
+
+　あなたは、
+　キャルと戦うべきじゃない。
+
+　美緒を巻き込んだのは、
+　わたしの責任です。
+　彼女は、わたしが
+　命に代えてでも救い出します。
+
+　だからあなたは、
+　先に逃げてください。
+
+　逃亡計画を伝えます。
+　ロシア人との接触は3日後。
+
+　小樽市の色内に、
+　清風亭という旅館があるから、
+　そこで待機していて下さい。
+
+　夜11時に、
+　ボリスと名乗る男が迎えに来ます。
+　後は、その男の指示に従って。
+
+　わたしも美緒を救った後で、
+　清風亭に向かいます。
+
+　もし……刻限までに、
+　わたしが旅館に現れなかったら、
+
+　そのときは、わたしは
+　死んだものと判断してください。
+
+　どうか悔やんだり、
+　自分を責めたりしないでほしい。
+
+　あなたに
+　{ヒロイン}と呼ばれて以来、
+　わたしの命は、
+　あなたを守るためにありました。
+
+　あなたが生き延びてくれるなら、
+　それが、わたしの生きた証です。
+
+　それじゃあ、3日後に。
+
+　……
+</font>
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　……キョウ・
+　ゴゴ2ジ・15フンデス……
+
+<CALC WORKNAME="3520" OPERATOR="1">//
+<A HREF="3540.txt" OPERATOR="">//~ 3540

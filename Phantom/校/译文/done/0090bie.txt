@@ -1,0 +1,31 @@
+//> left 僨僓乕僩僀乕僌儖 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="僨僓乕僩僀乕僌儖">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我毫不犹豫地选择了0.50AE口径的沙漠之鹰。
+
+　要说自己对这把枪用的很熟练，那是撒谎。
+  说实话，现在我对这把枪还是有难以驾驭的感觉。
+
+　尽管如此，对于要立刻做出选择的自己，
+  在这样一把大放异彩的枪面前，根本看不到其他枪支的光芒。
+
+　究竟会发生什么，自己一无所知。
+  但是，就算是逞强也好，
+  只要拿着这把最强之枪，什么样的困难都将不在话下。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="20_01a">//
+<CALC WORKNAME="廵" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僨僓乕僩僀乕僌儖2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Ie">//
+<CALC WORKNAME="俧僀乕僌儖" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<CALC WORKNAME="0090bIe" OPERATOR="1">//
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a
+

@@ -1,0 +1,43 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我被叫去执行那个奇怪的任务，是这个周末的事。
+
+　25千克的可卡因和500万美元的交易。
+  平时的话，身为杀手的我是不会参与这种事的。
+  这次破例被带上，是因为克劳蒂娅亲自参加交易吧。
+
+「不带手下没关系吗？」
+
+　令我惊讶的是，我们这边出动的人数，只有克劳蒂娅和我两个人。
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们这次的交易是为了巩固相互的信赖关系」
+
+「如果带的人太多，会给对方留下不好的印象吧？」
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你一个人就够了哦，{名}」
+
+<BOX type="0">//%w
+「……对方是？」
+
+<BOX type="5">//%sR
+「都是你的同胞哦」
+
+<BOX type="0">//%w
+　是这样啊。
+  看来，要和那个黑道集团……开始正式的谈判了吧。
+
+<A HREF="1040.txt" OPERATOR="">//~ 1110

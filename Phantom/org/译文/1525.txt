@@ -1,0 +1,28 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightField wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　走到外面，风向改变了，漆黑的夜幕正渐渐变得明亮。
+  早晨，就要来临了。
+
+「那时我们是朝北逃的」
+
+「这一次，我们朝南走吧」
+
+<BUSTUP NAME="elen6" face="8" MODE="on" zoom="" ALIGN="right">//# elen6^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+　虽然是和上次一样的、没有目的地的旅行，但是我的心却很轻松。
+  
+  因为，这次从一开始，身边就有{ヒロイン}的笑容。
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550

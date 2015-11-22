@@ -1,0 +1,106 @@
+「……那样做的话，感激不尽」
+
+　这种没有气概的话脱口而出。
+
+　我马上从车上下来，和克劳蒂亚交换了位置。
+
+<CLEAR><BACKGROUND SRC="0140x6">//# 0140x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「驾驶的训练……做过很多吗？」
+
+　克劳蒂娅平静自如地驾驶着这辆可怕的跑车，
+  那份气势，根本不是女流之辈所能具有的。
+  我不禁再次对她敬畏起来。
+
+<BOX type="5">//%sR
+「算是吧，
+  我只是见的多了而已」
+
+「最初的时候，我可是一直坐在副驾驶席上的哦」
+
+<BOX type="0">//%w
+「这辆车曾经是别人的吗？」
+
+<BOX type="5">//%sR
+「这可就说来话长了」
+
+<BOX type="0">//%w
+　望向天空的克劳蒂娅一边小声嘟囔着，
+  一边把手放在变速箱的控制杆上。
+
+//<se id="1" src="F40go1" mode="normal" time="" loop="off" effect="">//!se F40go1
+<se id="1" src="F40壛懍2" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="0130x1">//# 0130x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　从1档启动的F40，
+  作出了不可思议的动作。
+
+　就像划过水面的水鸟一般，法拉利平滑地开动了。
+
+　……同样的车，在不同驾驶者面前也会变得不同吗？
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130p2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="0130p2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「今天真是对不起啊，
+  让你一直陪着我」
+
+<BOX type="0">//%w
+「没什么……」
+
+　刚才明明差一步就坠入地狱了，
+  从克劳蒂娅的笑容中却看不出任何忧虑。
+
+<BOX type="5">//%sR
+「如果那辆高尔夫不能满足你的话，就再来挑战一次法拉利吧」
+
+「只要告诉我，
+  什么时候都可以借给你哦」
+
+<BOX type="0">//%w
+「……」
+
+　这种想法，无论如何我也不会再有了。
+
+「那，我走了」
+
+<BOX type="5">//%sR
+「嗯，再见。Zwei」
+
+//> left way wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="way">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　驾驶的天才么……
+
+　我望着后视镜中渐渐远去的汽车餐馆，
+  重新考虑起克劳蒂娅的赞语。
+
+　只是着了魔一样地被接受了驾驶的邀请，
+  自己就差点丢掉性命。
+
+　不过，那样醒目的车在任务中是用不到的吧，
+　自己没必要以驾驶那样的怪物为目标来进行训练。
+
+　虽然开着那样的车，
+　但不论怎样，我都不认为她会是有那种爱好的人。
+　应该说她喜欢乱来呢，还是说她像个冒险家……
+
+  自己看到了，
+  那个一贯以老成干练形象示人的克劳迪娅让人意想不到的另一面。
+
+<A HREF="0160.txt" OPERATOR="">//~ 016060

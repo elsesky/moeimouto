@@ -1,0 +1,647 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right church1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="church1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　旧・聖篠倉女学院礼拝堂……
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# INchurch2 1 elen7^2 20
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# INchurch2 1 elen7^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+ステンドグラスの光を浴びながら、{ヒロイン}は嗅ぎ馴れた静寂の空気を、深々と吸い込んだ。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いい加減、出てきたら？」
+
+「ここなら
+　誰の邪魔も入らないわよ」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# dummy 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="ドライ歩き1" mode="normal" loop="off">
+<BOX type="2">//%w
+　いずこにともなく向けた呼びかけに応えるように、入り口に飄然と影が現れる。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「初めまして……かな？」
+
+「だが、噂はかねがね聞いてるよ。
+　アイン」
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# elen7 20 dummy 19 INchurch5 1
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20 dummy 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あなたは？」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「サイスにはドライと
+　呼ばれてるし、他の連中には
+　ファントムで通ってる」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+{ヒロイン}は小さく頷いた。
+簡潔だが充分な説明だった。
+
+<BOX type="5">//%sR
+「近頃のファントムは、
+　わざわざ相手に姿を見せるの？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「こっそり背中からバンッ、
+　ってのは、
+　面白味がないからね」
+
+<BOX type="3">//%m
+　冷たい笑い声が、伽藍に響く。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あんたと{名}を追うためだけに、あたしはインフェルノなんぞに飼われてきた」
+
+「あんたら二人を狩って、
+　追いつめて、ブチ殺す……
+　2年待ったよ、この日のために」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「だから、
+　たっぷり見せてもらわないとね」
+
+「あんたらが怯えて、
+　逃げ回るザマを」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それがあなたの、喜び？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そうだよ」
+
+「あたしの顔見たときの
+　{名}ったら、
+　なかったよ」
+
+「幽霊でも見たみたいに
+　ブルってさ」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「次は、そうだな……」
+
+「ぜひとも{名}の
+　目の前で、あんたを
+　ブチ殺して見せたいね。アイン」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「{名}が
+　どんなツラするか……
+　見物だよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　その場の空気に、
+　霜降るような冷気が立ちこめた。
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「無理ね」
+
+<BOX type="2">//%w
+　にべもなく、
+　{ヒロイン}は言い放つ。
+　冷たい空気より、
+　なお冷ややかな口調で。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}は
+　ここにいないし、あなたが
+　彼に会うことも、二度とない」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何でさ？」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたは先に、
+　わたしと会ったから」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<bgm src="" mode="fadein" old="fadeout" time="10" loop="on">//$ 0 _1 _
+<CLEAR><BACKGROUND SRC="２分割_a">//#! 3240x2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<CLEAR><BACKGROUND SRC="２分割_b">//#! 3240x2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 2
+<WIPE EFFECT="fade" TIME="0">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+//> left 3240p3 wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="3240p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「へぇ……用意がいいじゃん」
+
+<BOX type="5">//%sR
+「おかげさまで」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei2^2 19
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei2^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「身体張って{名}を
+　守ろうってのかい？
+　健気だねぇ。恋する女は？」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あなたは、どうなの？」
+
+「捨てられたこと、
+　忘れられなかったんでしょ？
+　2年間、ずっと」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei2^3 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……何だと？」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「{名}に、
+　悔やんでほしいんでしょう？
+　悲しんでほしいんでしょう？」
+
+「でも無駄よ」
+
+「所詮、あなたは、ただの過去。
+でもあの人は、現在を生きている」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei2^4 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「知ったような口を
+　利くじゃねぇか……」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あの人は、苦しんだりしない」
+
+「あなたが立ち塞がるのなら、
+　あの人は迷わず、あなたを撃つ。
+　それで自分を責めたりはしない」
+
+「笑わせないで。
+　今さら、あなたが彼にとって
+　何だっていうの？」
+
+「あなたが知らないだけ。
+　あの人の、本当の強さを」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei2^6 19 dummy 20 INchurch4 1
+<BUSTUP NAME="drei2" face="6" MODE="on" zoom="" ALIGN="left">//# drei2^6 19 dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……!!」
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# dummy 19 INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「やめろ!!」
+
+<CLEAR><BACKGROUND SRC="3240p3">//# 3240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　礼拝堂で繰り広げられていたのは、
+　ぞっとするような光景だった。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei2^2 19
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei2^2 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「おや？　来るはずのない奴が
+　来たみたいだよ」
+
+<BOX type="0">//%w
+　視線も、銃口も、微動だにさせずに、皮肉めかした口調で……
+　だがそれは紛れもなく、あのキャルの声だった。
+
+　2年前、ノルマンディ通りのロフトで、爆殺されたはずのキャル。
+
+　いったいどういう経緯で、あの爆発を生き延びたのか解らないが……
+　だが今キャルは、生きて、ここにいる。
+
+　手にした{銃}は、すでに撃鉄を起こして、
+　{ヒロイン}と相対する彼女に向けてはいるが……
+
+　向けて、どうしようというんだ？
+　相手は……キャルなんだぞ？
+
+<CLEAR><CLEAR><BACKGROUND SRC="INchurch2">//# dummy 19 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……銃を下ろすんだ、二人とも」
+
+<CLEAR><BACKGROUND SRC="3240p3">//# 3240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　かたや冷たい沈黙で、かたや嘲るような笑い声で、
+　二人はそれぞれに返答する。
+
+<BOX type="4">//%sL
+「あんなこと言ってるよ？
+　アイン」
+
+「ちょいと話が
+　違うんじゃないの？」
+
+「たしか、あの男は、
+　容赦なくあたしを
+　撃つはずだったよね」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「キャル……頼む」
+
+<BOX type="4">//%sL
+「情けない声、
+　出してんじゃないよ」
+
+「どうした{名}？
+さっさと撃ちゃあいいじゃないか」
+
+<BOX type="0">//%w
+　まるで死のスリルを弄ぶかのように、平然とキャルは言ってのける。
+
+<BOX type="4">//%sL
+「今さらビビるような事かい？」
+
+「あんた一度は、
+　あたしを見捨ててんだよ。
+　忘れたわけじゃないだろ？」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1 drei2^3 19
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# INchurch4 1 drei2^3 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「一度も二度も同じこった。
+　殺してみなよ。あたしを」
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……だけど、むざむざ
+　死にゃしないよ。この女も
+　地獄に連れていくからね」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 dummy 19 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19 INchurch8 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# dummy 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{ヒロイン}とともに、同時に悟った。
+　この次の瞬間に、キャルは撃つ気だと。
+
+　二つの銃口に身をさらしたまま、笑って引き金を引くほどに……
+　そこまで彼女の判断は、常軌を逸していると。
+
+<BOX type="5">//%sR
+「やめねぇか!　ド阿呆!!」
+
+<BOX type="0">//%w
+　絶望の瞬間を、一歩手前で制止したのは、まったく別の叱咤だった。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^4 20 INchurch3 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……リズィ？
+　あんたまで、なぜここに……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^8 19 INchurch4 1
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^8 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「あんた、まだ日本にいたの？」
+
+<BOX type="0">//%w
+　キャルもまた、彼女の乱入は予想外だったようだ。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^3 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「オマエ一人を野放しにして、
+　おちおち帰れてたまるかよ」
+
+「ったく、心配した通りだよ。
+なにトチ狂った真似してやがる？」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^2 19 INchurch4 1
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^2 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「あんたの知ったことじゃない」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^4 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ここは日本だぞボケナス!!
+　真っ昼間に銃なんぞブッ放して、
+　後の始末はどうすんだ!?」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^3 19 INchurch4 1
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^3 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「あたしの知ったこっちゃない」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^4 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　気配だけで、リズィの堪忍袋の緒が切れたのが判った。
+
+<BOX type="5">//%sR
+「一発鳴らしゃ、
+　あとは二発も三発も同じこった」
+
+「オマエが撃つなら、ファントム。
+　そん時ゃオマエもろとも全員、
+　アタシが撃ち殺す」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^4 19 INchurch4 1
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^3 20 dummy 19 INchurch3 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 dummy 19 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「銃を下ろせ。
+　その二人は気にしないでいい。
+　アタシが狙ってる」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch8">//# elen5^3 20 INchurch8 1
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 INchurch8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 drei2^4 19 INchurch4 1
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^4 19 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「バンッ!!」
+
+<BOX type="0">//%w
+　キャルの大声に心臓が止まりかかったが、
+　その手の銃口は沈黙したままだった。
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei2^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……ったく、つまんないオチが
+　ついちまったね」
+
+<se id="1" src="銃まわす" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さながら西部劇の如く、華麗なガンスピンで銃口を反転させると、
+　キャルは腰のホルスターに銃を収め、
+　振り向きもせずに礼拝堂を出ていった。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# rizy^3 20 INchurch3 1
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# rizy^3 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　あとは{ヒロイン}ともども、リズィの銃口の前に取り残された。
+
+「ここで撃つほど、俺たち二人は馬鹿じゃない」
+
+<BUSTUP NAME="rizy" face="9" MODE="on" zoom="" ALIGN="right">//# rizy^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そりゃそうだろうよ」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　リズィも銃口を下ろして、疲れ果てた声で吐き捨てる。
+
+<BOX type="5">//%sR
+「あれがアンタの後釜だよ、
+　ツヴァイ。おかげでこっちは
+　生きた心地がしない」
+
+<BOX type="0">//%w
+「苦労をかけるな」
+
+<BOX type="5">//%sR
+「まったくだ」
+
+<BOX type="0">//%w
+　言葉を交わすうちに、つい立場を忘れて、気の抜けた会話になっていた。
+
+　複雑な面持ちで眉を顰め、リズィは踵を返す。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ともかく、
+　学生ゴッコは切り上げて、
+　さっさと姿を消すんだな」
+
+「次に面付き合わせたときに、
+　あの狂犬を止められるかどうか、
+　アタシゃまるきり自信がない」
+
+<BOX type="0">//%w
+「……わかってる」
+
+「急ぐよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　はたして聞き届けたかどうか判らないが、
+　リズィもまた足早に、礼拝堂を去っていった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch5 wide 255 elen7^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="INchurch5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「撃つつもりだったのか？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}は答えず、手にしたパイソンを見つめていた。
+
+<BOX type="5">//%sR
+「あなたは、どうなの？」
+
+<BOX type="5">//%sR
+「撃てた？　あの子を」
+
+<BOX type="0">//%w
+「……」
+
+　キャルが引金をひくと、そう確信を持ったあの瞬間……
+
+　もしリズィが割り込むのが、あと一瞬でも遅かったら、
+　この{銃}でキャルを撃っていたんだろうか？
+
+　そうしなければ、{ヒロイン}は死んでいた。
+　キャルより先に、こちらが撃っていなければ……
+
+　考えたくもなかった。
+
+　だが次に、もう一度、強いられたらどうする？
+　キャルか、{ヒロイン}か、
+　生者と死者を、この手で選べと迫られたら……
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「時間、ないわね」
+
+<BOX type="0">//%w
+「……ああ」
+
+　{ヒロイン}の呟きが、葛藤をとりあえず棚上げにしてくれた。
+
+　そう、まず何よりも、時間だ。
+
+　今までは、インフェルノの追撃に慎重さを期待すればこそ、
+　まだこちらにも出し抜く望みがあった。
+
+　だが、追っ手に差し向けられてきたキャルがあの調子では、
+　そんな駆け引きなど意味がない。
+
+　キャルは何の躊躇もなしに、所構わず撃つ気でいる。
+　人目につくところだからといって、
+　それで安全を確保できるなんて、もう考えない方がいい。
+　相手がキャルでは、もはや一体どこで襲われようと不思議はない。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの子は、インフェルノに
+　押さえさせるしかないわ。
+　無理矢理にでも」
+
+<BOX type="0">//%w
+「……」
+
+　{ヒロイン}の言わんとするところは、解っていた。
+
+　切り札を使うしかない。
+　時間稼ぎのための切り札を。
+
+　美緒を……利用するしかない。
+
+<A HREF="3260.txt" OPERATOR="">//~ 3260
+
+3260

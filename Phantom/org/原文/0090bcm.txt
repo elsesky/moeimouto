@@ -1,0 +1,26 @@
+//> left パイソン wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="パイソン3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　訓練で、いちばん馴れた銃……
+
+　そうなると、これだ。コルト＝パイソン。
+
+　手になじむ大きさのグリップといい、取り回しやすいサイズといい、
+　いちばん性に合っていた。
+
+　射的の成績でも、この銃を使ったときが、もっとも成績がよかった。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<CALC WORKNAME="Ｇパイソン" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a

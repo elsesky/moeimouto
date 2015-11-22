@@ -1,0 +1,224 @@
+//> right hotel6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+<BACKGROUND SRC="hotel6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="2">//%w
+　会談の厳かな空気は、何の前触れもなく、甲高い破砕音とともに打ち砕かれた。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　壁一面を覆うガラス窓が、
+　粉微塵の破片になって、
+　室内の人間に浴びせられる。
+
+　何者かによる銃撃だった。
+
+<BUSTUP NAME="godo" face="4" MODE="on" zoom="" ALIGN="right">//# godo^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうかい、
+　結局そういう魂胆かい!!」
+
+<box type="2">//%w
+　まず最初に轟いたのが、
+　梧桐大輔の逆上した怒号だった。
+
+　再三に渡り漏れた秘密。
+　計画的な襲撃。
+
+　静かに募っていたインフェルノへの疑念が、ここに至って爆発したのである。
+
+<BOX type="5">//%sR
+“皆殺しだ……”
+
+<se id="1" src="三人銃を抜く.wav" mode="normal" time="" loop="off" effect="">//!se 
+　若頭の逆鱗を合図に、ヤクザたちは一斉に懐の銃を抜く。
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<CLEAR><BACKGROUND SRC="hotel6b">//# rizy^4 19 dummy 20 hotel6b 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="left">//# rizy^4 19 dummy 20 hotel6b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　まったく事情が見えないものの、
+それでもリズィとその部下たちも
+<se id="1" src="三人銃を抜く" mode="normal" time="" loop="off" effect="">//!se 
+また、混乱を保留して銃を抜いた。
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+　言葉ひとつを費やす間に、
+　銃の引き金は何度でも引ける。
+
+　もはや
+　流血を回避する道はない……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="14_05" mode="normal" time="" loop="off" effect="">//!se 
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<box type="2">//%w
+　轟き渡った最初の銃声は……
+　しかし、乱戦の火蓋を切る
+　ものではなかった。
+
+　まったく予期せぬ場所から湧いたその銃声に、殺意と怒号の吹き荒れていた場が、まるで一喝されたように凍りつく。
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<CLEAR><BACKGROUND SRC="1290p1">//# 1290p1 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="2">//%w
+　硝煙をくゆらす小型拳銃は、クロウディア＝マッキェネンの手に。
+　そしてその銃口の先では、一人のギャングスターが眉間を打ち抜かれ絶命していた。
+
+　ロサンゼルス最大勢力
+　『ブラディーズ』首領、
+　アイザック＝ワイズメル……
+
+<CLEAR><BACKGROUND SRC="hotel6">//# hotel6 1 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# hotel6 1 crou^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「静粛に!!」
+
+<box type="2">//%w
+　呆気にとられたその場の全員を、さらに叱咤して呑むクロウディア。
+
+<BOX type="5">//%sR
+「これ以上の流血は無用……
+　皆、銃を収めなさい!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 godo^5 19
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="left">//# dummy 20 godo^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お……おい、クロウ……」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ミスタ＝梧桐。
+　お腹立ちはごもっともだが、
+　ここは収めていただきたい」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">//# crou^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「再三に渡りあなたを脅かし、
+　あなたの部下5人を手にかけた
+　陰謀の首謀者……」
+
+「アイザック＝ワイズメルの首級をここに差し出します」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……何だと!?」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">//# crou^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「インフェルノの一員として、
+私欲のままに組織の方針を惑わした
+裏切り者を誅殺いたしました」
+
+「ミスタ＝マグワイヤ。やむなく
+　場を弁えぬ狼藉に至りましたが、
+　ご容赦を」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「納得いく説明をしたまえ、
+　クロウディア!!」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「私の配下が、すでに動かぬ証拠を押さえているはずです」
+
+<BOX type="3">//%m
+　そう言ってクロウディアは、割れた窓の外を、恐る恐る窺っている男たちを一瞥する。
+
+<BOX type="4">//%sL
+「ご安心ください。私の部下は
+　優秀です。すでに狙撃者は
+　無力化されているでしょう」
+
+「おそらく郵政省ビルの屋上に、
+狙撃手の死体があります。リズィ、
+警察が動く前に押さえなさい」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ヤ、ヤー……」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ミスタ＝梧桐、
+　それにミスタ＝マグワイヤ」
+
+「ひとまずは退散を。ご両人とも、警察の注目を浴びるべきではない」
+
+「この場は、
+　私のスタッフで収拾いたします」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 godo 20
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……おう、野郎ども、
+　引き揚げだ」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　ただ一人、梧桐の側近の志賀だけが、去り際に冷ややかな一瞥をクロウディアに向けたが、残りのヤクザたちは毒気を抜かれた表情のまま、連れだって続き部屋を後にした。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ミスタ＝マグワイヤ。
+　今夜、改めてそちらに伺います。
+　子細は、そこで」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……よかろう。待っている」
+
+<A HREF="1290b.txt" OPERATOR="">//~ 1290b90b

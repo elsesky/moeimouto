@@ -1,0 +1,145 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「よう、もう戻ったのか」
+
+<BOX type="0">//%w
+　インフェルノの本拠へ出頭すると、
+　すでに一足早くロスに戻っていたリズィがいた。
+
+<BOX type="5">//%sR
+「報告は、
+　アタシの方から済ませてある」
+
+「アンタはのんびりしてきても、
+　良かったんだぜ」
+
+<BOX type="0">//%w
+「寒いところは、苦手でね」
+
+　ここ数日、見上げて過ごしたニューヨークの摩天楼を思い出す。
+　ロスに馴れると、空のない街は鬱陶しくてかなわない。
+　もう当面、東海岸に用はあるまい。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20^6
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しっかしまぁ、
+　今度も無茶をしたもんだなぁ」
+
+「まさか役者と入れ替わるとはね」
+
+<BOX type="0">//%w
+「他に狙える場所がなくてね」
+
+　プライベートの観劇ですら、
+　デルーカのガードは鉄壁すぎて、付け入る隙がなかった。
+
+　あの劇場で、唯一ボックス席を狙えたのが……舞台の上だ。
+
+　たまたま、似たような体格で、
+　銃を隠し持つのに都合のいい衣裳を着た役者がいたので、
+　急遽、代役を引き受けさせてもらったのだが……
+
+　正直言って、肝の冷える体験だった。
+
+「クロウディアは？」
+
+<BOX type="5">//%sR
+「また首脳会談中さ」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう口にしたリズィの表情を、ナーバスな色が掠め過ぎた。
+
+「……揉めてるのかい？」
+
+<BOX type="5">//%sR
+「ほら、あれさ。クロウが日本で
+　見つけてきた連中」
+
+<BOX type="0">//%w
+「ヤクザの件、か」
+
+　クロウディアが、日本の暴力団と積極的に交渉を持っているのは、
+　周知の事実である。
+
+<BOX type="5">//%sR
+「あれ、マズいよな」
+
+<BOX type="0">//%w
+「……」
+
+　それも、クロウディアに近しい人間であれば、
+　誰もが胸中で呟く言葉だった。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　クロウディアの立場では、
+　特定の犯罪組織の人間とプライベートに親交を結ぶというのは、
+　本来なら許されないことなのだ。
+
+　インフェルノという連盟集団のエージェントを、
+　公正明大に果たすためには、徹底した中立を求められる。
+　もうずいぶん前に、それはクロウディア自身の口から
+　説明されたことでもあった。
+
+　それを弁えた上での、行動にしては……
+　彼女は、あの梧桐組とかいう連中に肩入れしすぎている。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なぁ、どうなんだ？　最近」
+
+<BOX type="0">//%w
+「どう、って？」
+
+<BOX type="5">//%sR
+「クロウディアだよ。今はアンタが付き人みたいなもんだろ？」
+
+<BOX type="0">//%w
+　クロウディアの護衛役をリズィから委譲されてから、かなり経つ。
+
+　規模の肥大化したインフェルノが、いわゆる常備軍としての戦闘部隊を
+　抱えるようになったため、今のリズィはその指揮に奔走しているのだ。
+
+<BOX type="5">//%sR
+「何つぅか、どっか無理してる風に見えるんだよね。アタシには」
+
+「最近、変わったこととか、
+　ないか？」
+
+<BOX type="0">//%w
+「いや……別に」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あのなぁ」
+
+<BOX type="0">//%w
+　さも呆れたと言わんばかりに、顔を顰めるリズィ。
+
+<BOX type="5">//%sR
+「その辺、真っ先に気付くとすりゃ
+アンタなんだからな。
+気ぃ使っとけよ。女の顔色ぐらい」
+
+<BOX type="0">//%w
+「……」
+
+<A HREF="1015a.txt" OPERATOR="0200=1">//~ 1015a
+<A HREF="1015a.txt" OPERATOR="0255=1">//~ 1015a
+<A HREF="1020.txt" OPERATOR="">//~ 1020

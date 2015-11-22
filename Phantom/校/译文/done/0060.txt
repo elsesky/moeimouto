@@ -1,0 +1,312 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　某一天的早上，结束马拉松的练习后，
+　我看到废弃工厂的入口处停着一辆黑色汽车。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　那个男人是……
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="left">//# elen1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今天就到这里吧，我要出门，你可以去休息了」
+
+<BOX type="0">//%w
+「出门？要去哪呢？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="left">//# elen1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「去执行任务」
+
+<BOX type="0">//%w
+　任务……？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「走吧，Phantom」
+
+<BOX type="4">//%sL
+「是，主人」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　银发的男人只是向我这边淡然地瞥了一眼，
+　便和Ein一起进到车里。
+
+//もえらＳＥ追加
+<se id="1" src="車のドア開く" mode="normal" loop="off">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　赛斯·玛斯塔……没错，是那个家伙。
+　如今自己会在这里为成为杀手而接受训练，不都是拜他所赐吗。
+　还是说，自己应该把他当成救命恩人么。
+
+//<se id="1" src="carStart" mode="normal" time="" loop="off" effect="">//!se carStart
+//もえらＳＥ追加
+<se id="1" src="ベンツ走り出し" mode="normal" loop="off">
+
+　没等我整理好混乱的思绪，黑色汽车已经开走了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right backsheet wide 255
+<clear>
+
+
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="40">
+<wait time="900">
+//傕偊傜俽俤捛壛
+<se id="2" src="儀儞僣憱峴" mode="normal" loop="off">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="傾僀儞偲僒僀僗幵拞E">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「……这是关于目标的详细情况。距离700码。我为你准备了雷明顿.308口径」
+（注：雷明顿，著名枪械公司，由伊莱佛利-雷明顿二世始创于1816年，总部设于美国纽约州的伊利恩城。这里提到的枪可能是雷明顿700枪型衍生出的M24或M40狙击枪）
+
+「逃走路线也已安排就绪。行动地点天气为阴天、微风。根据预报，明早之前天气不会有变」
+
+「这次是久未接手的狙击任务，不过对你而言是轻而易举的吧……有什么问题吗？」
+
+<BOX type="5">//%sR
+「没有」
+
+<BOX type="4">//%sL
+「很好……说起来，
+　Zwei的情况如何？」
+
+<BOX type="5">//%sR
+「基础课程已经大致完成。
+　从明天开始将进行其他训练」
+
+<BOX type="4">//%sL
+「喔……看起来很顺利嘛」
+
+<BACKGROUND SRC="傾僀儞偲僒僀僗幵拞B">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="4">//%sL
+「差不多也该给他准备实战考试的题目了……」
+
+<se id="2" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一个人被留在废弃的厂房内，时刻增加的静寂悄悄将我包围起来。
+　虽然说让我休息，但却没有什么能做的。
+
+　Ein，大概不知什么时候就会回来吧。
+　她的任务，究竟是……
+
+　对了。Ein才不是什么教练，她本来就是个杀手。
+　所谓的任务，大概是去杀掉谁吧。
+
+　事到如今，自己才发觉。
+　就这样跟随Ein学习杀人技巧的话，
+　总有一天我也必须去完成那种任务吧。
+
+　但是为什么，对于这种明摆着的事，自己还是不愿接受。
+　难道说，是在这样缺乏现实感的生活中预见到这种事情的缘故吗。
+
+　接下来的事情，将向着怎样的方向发展呢……
+
+　我有点惶惶不安起来。
+　看来，与其就这么沉溺于想象，
+　还是专心活动活动身体比较好。
+
+　于是我一个人开始了平时的平衡感训练。
+
+<BOX type="0">//%w
+　用手帕蒙住眼睛，站在吊起来的钢架上，
+　先用脚尖站立着，身体转5圈。
+　之后用脚尖确定钢架的位置，从一端到另一端，快速地往返。
+
+　开始的时候，我走不了3步就会踏空，从钢架上掉下来，
+  不过现在已经非常熟练了。
+
+　我自己并不清楚这样的训练到底有什么用，不过Ein说过，
+  平衡感是射击的关键。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="crou_s2" face="" MODE="on" zoom="" ALIGN="right">//# crou_s2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……？
+　突然间，感受到人的气息。
+　有什么人正站在旁边。
+
+<BOX type="5">//%sR
+「不要在意我，继续吧」
+
+<BOX type="0">//%w
+　……是英语。是个女的，但这不是Ein的声音。
+
+　照她所说的，我走到钢架的尽头，
+　把蒙着眼睛的手绢摘下来。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20  0060p1 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="0060p1">//# dummy 20  0060p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……这个人是……
+
+　我记得她。最初的那个夜晚，和赛斯-玛斯塔一起的那个女人……
+
+<BOX type="4">//%sL
+「很了不起嘛」
+
+<BOX type="0">//%w
+　被这样赞扬，我反而有些不知所措。
+　自从自己掌握各种的技术以来，还是第一次得到这样的评价，
+  Ein是从来不说赞誉的话的。
+
+　仿佛觉察到了什么，女人像要打破紧张局面一样对我露出了微笑。
+
+<CLEAR><BACKGROUND SRC="factory">//# crou2 20 factory 1
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20 factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我叫克劳蒂娅·麦肯宁，这是我们第二次见面了吧」
+
+<BOX type="0">//%w
+　……难道自己记错了么，她现在给我的感觉与第一次见面时完全不同。
+　印象中她应该有着更加冰冷、像在估价一样的眼神……
+
+<BUSTUP NAME="crou2" face="4" MODE="on" zoom="" ALIGN="right">//# crou2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「交谈的话，用日语可以吗？」
+
+<BOX type="0">//%w
+　转换到另一种语言，她……克劳蒂娅开始使用日语。
+　与Ein不同，她的日语非常流利。
+
+　自己有点迷惑了。
+
+「如果要说的话比较难懂……还是用日语好了」
+　我这么回答道。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你知道我的身份么？」
+
+<BOX type="0">//%w
+「不……」
+
+　说起来，她究竟是什么人呢。
+
+　赛斯·玛斯塔的同伴吧，
+  如果是这样的话，她就是那个“Inferno”组织的……
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我是Inferno的一员哦」
+
+「准确的说，应该是干部中的一员，也是收留你的那个赛斯·玛斯特的上司」
+
+「所以说，我也是你和“Phantom”的上司呦」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Inferno。
+　一切的元凶，谜一样的名字。
+
+「你是……」
+
+「……不，你和那个叫赛斯的人……
+　还有那个Inferno,到底是什么？」
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么说呢……」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在没有章法秩序的世界里，创造另一种秩序的集团……这一类的组织吧」
+
+<BOX type="0">//%w
+「……这是什么意思？」
+
+<BOX type="5">//%sR
+「你知道这个国家的暴力团体和黑手党集团吗？」
+
+<BOX type="0">//%w
+「哎？　嗯……知道一点」
+
+　自己只是在电视、电影上看到过。
+
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# crou2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「把这些犯罪组织比做一个个国家的话，Inferno就好比联合国」
+
+<BOX type="0">//%w
+「……也就是说，是暴力团体和黑手党集团的总司令吗？」
+
+<BOX type="5">//%sR
+「虽然不是正确的形容，不过现在的你能理解到这种程度就可以了」
+
+<BOX type="0">//%w
+　虽然自己不太明白……但果然还是非法的犯罪集团吧。
+　而且还异常的强大。
+
+　我就是被这样的组织捕获，被迫成为杀手的吗……
+
+<BUSTUP NAME="crou2" face="9" MODE="on" zoom="" ALIGN="right">//# crou2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这次的事，我必须向你道歉呢……」
+
+<BOX type="0">//%w
+「唉？」
+
+　从克劳蒂娅的口中，传出了完全在我意料之外的话语。
+　在这里，有人会担心自己，或是把自己当成普通人一样对待……
+  这样的事不可能发生……
+  自己已经将这样的现实当成理所当然的了。
+
+<BOX type="5">//%sR
+「这是不得已的事情，
+  也可以说是事故吧」
+
+「虽然除了这种方式以外，你没有任何保护自己的办法」
+
+「但是，我们却没有给你任何选择的余地……」
+
+<BOX type="5">//%sR
+「……你在恨着我们吧？」
+
+<A HREF="0060d.txt" OPERATOR="0030b=1">//~ 0060d
+<A HREF="0060c.txt" OPERATOR="">//~ 0060c

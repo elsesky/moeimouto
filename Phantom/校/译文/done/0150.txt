@@ -1,0 +1,275 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right bar2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bar2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　汽车餐厅中，有三双眼睛在看着红色跑车离去。
+
+　琥珀色的那一双是克劳蒂娅的，
+　剩下两双漆黑冰冷的眼睛，
+  则属于两名东洋人。
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这真是一辆顶级的王者之车」
+
+「说起来，那个驾驶者不还是个小鬼吗？」
+
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="left">//# crou^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「资质跟年龄应该没有关系的吧？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们这是第一次见面吧，梧桐先生」
+
+「……这一位是？」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我的弟弟，志贺」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……请多关照」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，这样合适吗？
+  这么明目张胆见面」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不用担心。我已经布置好掩人耳目的措施了」
+
+「所以在这里我们大可不必顾忌，想说什么都可以」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好极了」
+
+<BOX type="2">//%w
+　无畏地笑着的男人……梧桐大辅，顿时将宽阔的背放松了下来。
+
+<BOX type="5">//%sR
+「我认真地考虑了你写的提案」
+
+「简单地说……
+  就是你提供武器，我提供人」
+
+「是这样的条件吧？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你理解得还真是简单啊」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这我可无法接受」
+
+「我们这边可是既要背负罪名，又要承受人员伤亡啊」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="left">//# crou^0 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^0 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你觉得这个条件很不公平吗？」
+
+<BOX type="4">//%sL
+「这个计划的好处可都是属于你们那边的哦」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么」
+
+「这个说法我们可是更加接受不了」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这对我们来说确实是求之不得的有利条件，而且简直可以说是天上掉下来的馅饼」
+
+「可是，我听了你的话之后有一个疑问」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「克劳蒂娅小姐，这么做对你自己到底有什么好处？」
+
+<BOX type="5">//%sR
+「我们看不到你的目的啊」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# crou^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这么说对于梧桐组就太谦逊了吧？」
+
+「我想卖给重情重义的梧桐组各位一个人情」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔。
+  说的很好听嘛」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……你是说，你的目的只是为了卖一个人情？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# crou 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「义气这种东西，也是非常宝贵的财产」
+
+「尤其是在你们黑社会的世界里，
+  不是最稳定的流通货币吗？」
+
+「我可是个投资家哦」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好吧。
+  不管你是不是在骗我们」
+
+「总之，
+  我们这边的答复是不会变的」
+
+「你的计划，我们奉陪到底」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40楢懕捛偄敳偒" mode="normal" time="" loop="off" effect="">//!se F40corner
+<bgm src="l_speed" mode="fadein" old="fadeout" time="10" loop="on">//$ speed.swa 0 255
+<BACKGROUND SRC="0140x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+
+//<se id="1" src="F40corner" mode="normal" time="" loop="off" effect="">//!se F40corner
+　疾驶……这种行为的乐趣。
+
+如果要比喻的话， 大概，与用大口径的枪将炉渣块击成碎末所带来的那种暴力性的爽快感差不多 。
+
+　但是，与那样一瞬间就会消失的、凭借破坏带来的快感不同。
+　法拉利的疾驶，在踩下刹车之前是不会停止的。
+
+//<se id="2" src="F40憱峴150抁弅" mode="normal" time="" loop="off" effect="">//!se F40corner
+
+　一直持续着……麻痹感渗进脑袋里面，一直维持着爽快的感觉。
+
+　时速200公里的速度感的作用下，
+　我感觉就像是得到了无比强大的权力。
+
+　如果超越300公里的话，
+  就会有成为世界霸主的感觉吧。
+
+　速度，就是力量。
+
+　这种感触，就像手掌上滚动着巨大的能量。
+
+　权力……脑海中模糊地浮现出这样的词语。
+
+<se id="1" src="F40壛懍4" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="0130x1a">//# 0130x1a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　至今为止也好，从今以后也好，
+　自己作为被组织饲养的杀手这一境遇是不会变的。
+　无论什么时候，只要想到这里，胸中就会充满凄惨的绝望感。
+
+　可是，现在不同了。
+　纵使内心被空虚所占据，
+　那也只是15秒之后，后方1千米的事了。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40憱峴150幒撪" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　突然间，脸上有抽筋一样的感觉，
+  我不禁用手摸了摸嘴角。
+
+　颧骨的肌肉，在以奇怪的样子弯曲着。
+
+　难道说……
+
+　我试着转变后视镜的角度，把它扭到朝着自己的方向。
+
+　镜中，熟知的脸上，正浮现着从未见过的表情。
+
+　睁大的双眼，为了什么而着迷的目光。
+　然后是，向上弯成弓形的嘴角两端……
+
+这是，微笑。
+ 
+没有温柔、开朗这样的东西，
+这是，被内啡肽的湍流冲掉了自制的、像得了狂躁症简直要发疯一般的……微笑。
+
+　用名为“速度”的暴力将世界的一切征服……
+  这份欣喜与骄傲，不知什么时候，夺取了我的脸。
+
+　我望着细长的镜中那大胆无畏的表情，
+　试着像肉食动物那样发出高亢的叫声。
+　我就这样喊着，直到腹肌痉挛。
+  再来一次……
+
+　干枯的笑声，非常令人失望地从喉咙中滑出。
+
+　从第一次笑开始，自己就再也停止不住。
+  翻腾着的喜悦的声音，从体内无穷无尽地涌出来。
+
+
+<CLEAR><BACKGROUND SRC="0140x7a">//# 0140x7a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　如果从车上离开，双脚重新被大地所禁锢的话。
+  那个时候，空虚的生活又将继续。
+
+<se id="1" src="F40憱傝嫀傝" mode="normal" loop="off">
+　所以现在，再让我尽情享受一会这样的疾驰吧
+
+　从失忆至今究竟过了多久，已无法得知……
+　但从今天起，拥有记忆的人生开始了。
+  因为我，大声地欢笑过。
+
+<wait time="800">
+<clear>
+<WIPE EFFECT="fade" time="12">
+<wait time="1500">
+<se id="1" src="" mode="fadeout" time="20">
+
+<CALC WORKNAME="0150" OPERATOR="1">//
+<A HREF="0160.txt" OPERATOR="">//~ 0160

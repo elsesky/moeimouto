@@ -1,0 +1,183 @@
+//> left roomC3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「预定……提前？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是的」
+
+「4天后，梧桐大辅将与马格维雅会面」
+
+「到那时，马格维雅将亲自判断梧桐组的可信度」
+
+<BOX type="0">//%w
+　事态的发展出乎意料。
+
+　实际上，梧桐组和Inferno还没有过正式的交易和交涉。
+
+　想要加盟的话，按照正常的程序应该是先进行一些小规模的交易来确立信赖关系。
+
+　虽说只是走一个形式，但如果不经过这样的程序，就算是远东的毒品大王，对于Inferno来说也只不过是一个无名小辈而已。
+
+　可是，凭借克劳蒂娅的面子，梧桐组居然直接被引见给了Inferno的最高领导人。
+
+「……马格维雅同意了吗？」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「刚开始不太同意，不过后来还是接受了」
+
+「因为他也担心梧桐组会再次遭受袭击」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「梧桐组的微妙立场让他们身陷危险之中」
+
+「如果能够正式加盟Inferno的话，敌人就不敢轻举妄动了」
+
+「因为这样的话，袭击梧桐组就等于是袭击Inferno」
+
+<BOX type="0">//%w
+「那些家伙怎么样都无所谓」
+
+「我担心的是你啊，克劳蒂娅。
+  这不是乱来吗？」
+
+「你如果还这么我行我素的话，会越来越引起大家的反感啊」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我也没有办法啊」
+
+「虽然不想这么说，不过这都是对你期待过高的代价」
+
+<BOX type="0">//%w
+「……」
+
+　被她这样一说，我真的是无言以对。
+  在拉斯维加斯犯下的错误是致命的。
+
+「……对了，维斯梅尔呢？」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「他什么都没说」
+
+「自始至终都没有表态，看起来心情很坏呢」
+
+<BOX type="0">//%w
+「这样啊……」
+
+　我沉默下来，再没有说什么。
+　
+  已经没有讨论的必要了，看来维斯梅尔也下定决心了。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对敌人来说，这是最后的机会」
+ 
+
+「接下来，他们肯定会对梧桐大辅本人下手」
+
+「不过，这次肯定不会在疏忽大意时被他们得手」
+
+「我身边有莉兹，梧桐组那边应该也有自己的武装」
+
+<BOX type="0">//%w
+「……会面的场所呢？」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「伯纳海滩酒店。5层的总统套房」
+
+<BOX type="0">//%w
+「不行!!」
+
+<CLEAR><BACKGROUND SRC="bonaventure">//# bonaventure 1 dummy 20 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「那里的墙壁都是玻璃。被狙击枪袭击就全完了!」
+
+　这对狙击手是绝好的饵食吧。
+  参加会面的众人就像是被陈列在展示柜里一样。
+
+<CLEAR><BACKGROUND SRC="roomC3">//# crou^8 20 roomC3 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「远程狙击。
+应该会是这样吧，敌人已经没有其他选择了」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是{名}，你能找到吧？敌人的狙击位置」
+
+<BOX type="0">//%w
+　原来她已经预料到了这次狙击，想让我进行反狙击。
+　找到敌人狙击手的位置，用狙击对其进行攻击性防御。确实是存在这种手法的，不过……
+
+「……至少也要挑挑地方吧」
+
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当然，这里就是选出的地方。
+  为了让你的工作更方便一些」
+
+<BOX type="0">//%w
+　诱饵和鱼钩……之前的表演还在继续进行吗。
+
+<BOX type="5">//%sR
+「这次，敌人会在你的面前现出原形。
+  你必须要将他搞定」
+
+<BOX type="0">//%w
+「你……」
+
+「事情到了这个地步，你还想拿梧桐组作诱饵吗？」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我不会让梧桐大辅死的，但也不能对妨碍我和梧桐组的家伙置之不理」
+
+「我们现在只有这一次机会了。
+  所以决不允许失败」
+
+<BOX type="0">//%w
+　我没有回绝也没有答应。
+
+　背负着无可挽回的失态，这次我得到了再次挑战的机会。
+
+　虽然不得不解决这个极其严酷的、甚至可以被称作是无理难题的要求。
+
+　可现实依旧容不得自己有丝毫异议。
+
+　所有的困难都是由于我自身的错误造成的，这次是清算之前错误的唯一一次机会。
+
+「……我回去考虑一下具体的计划」
+
+<BOX type="5">//%sR
+「我所有的赌注都押在你身上了啊，{名}」
+
+<BOX type="0">//%w
+　时间还剩4天。
+  在那之前，我必须将一切都准备好。
+
+<A HREF="1210.txt" OPERATOR="1127=1">//~ 1210
+<A HREF="1220.txt" OPERATOR="">//~ 1220

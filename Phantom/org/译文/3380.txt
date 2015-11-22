@@ -1,0 +1,50 @@
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen7^5 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是令人难忍的平静啊」
+
+<BOX type="0">//%w
+「看样子，威吓是奏效了」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是那样就好了」
+
+<BOX type="0">//%w
+　像是要提醒我不要过分乐观，{ヒロイン}冷静地说道。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「算上今天，还剩5天……还是不要掉以轻心的好」
+
+<BOX type="0">//%w
+　还剩……5天吗。
+
+　该说这段时间漫长，还是短暂呢。
+
+　上周末的交涉，顺利结束了。
+
+　走私船会在下周一的午夜出港。
+　我们必须在傍晚之前去小樽与接应我们的人汇合。
+
+　换句话说，下周一的早上我们就必须从东京动身。
+
+　不能和任何人告别。
+　早苗也好，美绪也好……我们能做的，只有在周五放学的时候平静地与他们告别。
+
+　没有任何预兆，像烟雾一般失踪的兄妹。
+　“赴香港上任的父母”也联系不上……
+
+　我不知道身边的人会怎么想，
+  不过，肯定不会有人去试着解开谜团。
+
+　接着，他们就会忘记我们的离去吧。
+　无论是谁，最关心的都只有自己的生活吧。
+　我们的离奇失踪，不可能长久地停留在他们的记忆中。
+
+<A HREF="3400.txt" OPERATOR="">//~ 3400

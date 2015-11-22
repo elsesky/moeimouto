@@ -1,0 +1,232 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0110p4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight2" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="0110p4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　就像影子一样……
+　两个人迅速而又悄无声息地从通道里冲了出来。
+
+　Ein弓下身子快速向前突进，
+  而我则卧倒在路面上，摆出伏击的姿势。
+
+<CLEAR><BACKGROUND SRC="shopMobA">//# shopMobA 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　虽然遭受到突然袭击，
+  不过那些贴身保镖们的反应也很快。
+
+　后排的两个人把卢西奥推到奔驰车后面的座位上。
+　前排的三个人则为了保护他们的老大，
+  像屏风一样站在那里挡住冲过来的Ein。
+
+　迎接一边扫射一边飞奔而来的刺杀者的，
+  是那些身穿防弹衣的壮汉们组成的看似坚不可摧的铁壁。
+
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不过对于接受过精密射击训练的我来说，
+  这些注意力被Ein吸引过去的跟班的脑袋，
+  只不过是排成一排的射击靶子而已。
+
+　我冷静地瞄准……
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+//<wait time="10">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　……3枪连射。
+　3个彪形大汉就像断了线的木偶一样，
+  从边上开始依次倒了下去。
+
+<CLEAR><BACKGROUND SRC="shopMobA">//# shopMobA 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　另一边，
+  作为前锋的Ein趁卢西奥和保镖不注意，直接向奔驰冲了过去。。
+
+　卢西奥乘坐的奔驰，连车门都没来得及关上，
+<se id="1" src="BMW僽儗乕僉" mode="normal" time="" loop="off" effect="">//!se brake
+　就这样朝着Ein飞弛而来。
+
+<se id="2" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+　Ein一跃而起，轻巧地越过保险杆，跳到了发动机罩上，
+  之后她马上伏下身，用“蟒蛇”对准奔驰的前挡风玻璃。
+
+　汽车的前窗是防弹的……
+
+<se id="1" src="02_10" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僷僀僜儞2">//#! 僷僀僜儞2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　毫无间断地、雷鸣般的6连射。
+
+　这一次，装填在她的手枪里的，
+  是带有黄铜弹头、经过特氟隆加工的KTW穿甲弹。
+
+（注：KTW穿甲弹，弹头由全铜制成。表面涂敷有聚四氟乙烯，初速高，穿透力大。因破坏力过大，1986年后被禁止销售给民间）
+
+　被那种子弹在几厘米的距离内集中射击一点的话，
+  不管是什么样的防弹措施都没有用。
+  想必司机已经当场死亡了。
+
+<CLEAR><BACKGROUND SRC="shopMobA">//# shopMobA 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　剩下的两个保镖拔出手枪，
+  想要干掉发动机罩上的Ein。
+
+　但在这千钧一发之时，
+  Ein一个转身闪到了车身底下，躲在了挡泥板的后面。
+
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　趁着二人将枪口对准Ein的空隙，
+  我又不慌不忙地瞄准了他们。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+//<wait time="200">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="shopMobC">//# shopMobC 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　将卢西奥的贴身保镖全部歼灭，前后还不到10秒钟。
+  但碍事的家伙依然存在。
+  散布在购物中心内的瓦鲁萨尼的家族卫队马上就会追出来吧。
+
+<se id="1" src="BMW僽儗乕僉" mode="normal" time="" loop="off" effect="">//!se brake
+　……在这紧要关头，一辆BMW一边扫射一边疾驰而来。
+
+<CLEAR><BACKGROUND SRC="0110x6">//# 0110x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「好了，撤退了！」
+
+<BOX type="0">//%w
+　BMW一个急刹车，上面握着方向盘的人正是塞斯·玛斯塔。
+  他不仅带着面具，而且不知为何，
+  还戴着很夸张的羽毛装饰着的帽子和斗篷。
+
+　我迅速起身，扫视了一下周围。
+  周边只有陷入恐慌而四散奔逃的市民。
+
+<CLEAR><BACKGROUND SRC="UZI2">//# UZI 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我打开车门，一跃乘上BMW的后座。
+
+<CLEAR><BACKGROUND SRC="UZI3">//# UZI 1
+<WIPE EFFECT="fade" TIME="5">
+　我拿起早已在座位上准备好的乌兹冲锋枪，
+<se id="1" src="13_01" mode="normal" time="" loop="off" effect="">//!se 
+　拉开枪栓。
+
+<CLEAR><BACKGROUND SRC="shopMobC">//# shopMobC 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　回头一看，逆着惊慌失措逃跑的人流，
+  瓦鲁萨尼家族的保镖们已经从购物中心里冲了出来。
+
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　同时，Ein已经将枪重新装上子弹，
+  对准卢西奥·瓦鲁萨尼的脑门开了枪。
+
+<CLEAR><BACKGROUND SRC="0110x6">//# 0110x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「该谢幕了。
+  快去接应，Zwei」
+
+<CLEAR><BACKGROUND SRC="shopMobC">//# shopMobC 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="15_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　按照赛斯的命令，我拿起乌兹冲锋枪，
+  朝着敌人的头上疯狂地进行扫射。
+
+　吓破胆的凶徒们，全都趴到了地上。
+
+　趁着这个间隙，Ein也跳进了BMW。
+<se id="2" src="BMW媫敪恑憱峴" mode="normal" time="" loop="off" effect="">//!se startdash
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="" mode="fadeout" time="30">
+
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+「……辛苦了，两位」
+
+//> left street^a wide 255
+<clear>
+<BACKGROUND SRC="street^a">//
+<se id="1" src="儀儞僣憱峴" mode="normal" time="" loop="off" effect="">//!se inCar
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　Ein摘下面具，把它扔到了车外。
+
+　她露出来的侧脸，与平时毫无区别。
+  没有紧张的迹象，甚至连一滴汗都没有流……
+
+　虽然刚刚经历了一场生死搏斗，
+  她的脸上却看不出一丝放松和喜悦。
+
+<CLEAR><BACKGROUND SRC="0110p1">//# 0110p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  刚才见到的灿烂的笑容、生气的样子……
+  我试着把脑海中残存的影像与现在所看到的她的侧脸重叠。
+
+<CLEAR><BACKGROUND SRC="street^a">//# street^a 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　但是，无论怎么做，二者都无法重合在一起。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="30">
+
+<wait time="900">
+
+<wait time="200">
+<box type="0">
+　我停止了这没有意义的想象，
+  靠在车座的靠背上，闭上了眼睛。
+
+　照这样的速度去机场的话……
+  最迟明天早上，就可以返回洛杉矶了
+
+<calc workname="gun02" operator="1" mode="global">
+<A HREF="0115.txt" OPERATOR="">//~ 0115

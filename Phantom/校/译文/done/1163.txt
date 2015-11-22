@@ -1,0 +1,14 @@
+<BOX type="0">//%w
+  说起来，这次的任务就像是在暗中持续进行调查一样。
+  所以用的枪自然是隐蔽性越高越好。
+
+　因此，我选择了“蟒蛇”。
+  在所有枪中，它是最不容易被发现的一把。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

@@ -1,0 +1,430 @@
+<BOX type="0">//%w
+　雑踏。
+　喧噪。
+　澱んだ空気。
+
+　街……
+　幾万もの人々の、密集した、だが決して交わることのない日常。
+　どこか懐かしいようでいて、どこか絵空事めいた活気。
+
+　かつて、ごく普通の暮らしをしていた頃には……
+　こういった人波の中に紛れ込み、
+　かまびすしい活気の一部になっていた頃もあったんだろうか。
+
+　あり得ることにも思えるし、信じがたいような感じもする。
+
+　今こうして、ざわめきと人いきれの中に身を浸し、佇んでいる自分は、
+　すでにこの平和で凡庸な景色とは、遠くかけ離れた世界の住人なのだ。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　鏡を見るたび、足を止め、
+　そこに映る顔を見つめ返す。
+
+　オマエハ、ダレダ……
+
+　この国では、
+　もうさして珍しくもない、
+　無表情なアジア人。
+
+　だが西洋人にとっては、
+　特徴を掴みにくい風貌だろう。
+　服装次第で、
+　歳は14から18まで通用する。
+
+//> left shop wide 255
+<clear>
+<BACKGROUND SRC="shop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ポケットには偽の身分証。
+　運転免許と、ハイスクールの学生証。
+
+　ウォレス＝楊。18歳。
+　住所はロサンゼルス市……
+
+　用意された偽名は憶えやすかった。
+　最初に殺した男と同じ名だ。
+
+　あれから、4人を殺した。
+
+　今回の標的は、ルシオ＝ヴァルサーニ。
+　ダラスに君臨するイタリア系マフィアの雄。
+
+　孫娘の誕生日を前に、マフィアのドンは、
+　じっくりとプレゼントを物色している。
+　今、このショッピングモールのどこかで……
+
+　さりげなく見渡せば、
+　街路のそこかしこに、屈強で眼光鋭い男達の姿がある。
+
+　20人目から後は数えるのをやめた。
+　おそらくファミリーの兵隊は総出に近いだろう。
+
+　広いショッピングモール全体を、
+　ヴァルサーニ一家が制圧している有り様だ。
+　ドンの命が危険にさらされていることを、連中も承知しているらしい。
+
+　ふいにポケットの携帯電話が、バイブレーションで着信を告げる。
+
+<BOX type="5">//%sR
+『……ターゲット、確認』
+
+<BOX type="0">//%w
+　アインだ。先にドン＝ルシオを見つけたらしい。
+
+<BOX type="5">//%sR
+『でもマークされたわ。
+　こっちにトレーサーが一人』
+
+<BOX type="0">//%w
+　ほう？
+
+「感づかれるとは、君らしくもない」
+
+<BOX type="5">//%sR
+『ごまかすから手伝って。
+　西ブロックの噴水で……』
+
+<BOX type="0">//%w
+「わかった」
+
+　モール内のレイアウトは頭に叩き込んである。
+　指示されたポイントは、すぐ傍だ。
+
+//> left shop2 wide 255 elen3^4 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shop2">//
+<BUSTUP NAME="elen3" face="4" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……いた。
+
+　クロークコートにベレー帽のアイン。
+　落ち着きなく噴水の前を行き来している。
+　どう見ても、デートで待ちぼうけを食わされた女の子にしか見えない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だがそんなアインに、20ｍほど間を置いて、
+　ダークスーツの男が訝しげな視線を送っている。
+　あれがトレーサーか……
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　スーツの仕立てからして三下じゃない。おそらく側近の用心棒……
+　アインの挙動に不審を懐き、
+　護衛グループから離れて追ってきたんだろう。
+
+　外見に惑わされないカンの鋭さは、さすがというべきか。
+
+<bgm src="" mode="fadein" old="fadeout" time="10" loop="on">//$ 0 _1 0
+　だが……
+
+<BUSTUP NAME="elen3" face="2" MODE="on" zoom="" ALIGN="right">//# elen3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　目が合った途端アインは、
+　まなじりを吊り上げ、足早にこっちに迫ってきた。
+
+<clear>
+<BACKGROUND SRC="shop2">//
+<WIPE EFFECT="fade" TIME="10">
+　何事だ……そう思った矢先に、
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　いきなり頬に平手打ち。
+
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="アインデート背景">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「バカ！」
+
+<BOX type="0">//%w
+　思わず顎の位置を確かめる。
+　大丈夫、外れてはいない。
+　本気の一撃に比べれば、軽く撫でられたようなもんだ。
+
+　しかし……どうしたっていうんだ、アイン？
+
+//<BUSTUP NAME="elen3" face="4" MODE="on" zoom="" ALIGN="right">//# elen3^4 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何分待ったと思ってるのよ！
+　もう一人でほとんど
+　見て廻っちゃったわよ！」
+
+<BOX type="0">//%w
+「ご……ごめん」
+
+　面食らったが、アインの意図は飲み込めた。
+
+　東洋人の幼いカップル。ボーイフレンドが約束に遅れ、
+　彼女は手持ち無沙汰に、あてもなく辺りを散策……
+
+　そういうシチュエーションの演出だろう。
+
+//<BUSTUP NAME="elen3" face="2" MODE="on" zoom="" ALIGN="right">//# elen3^2 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こんなルーズな奴って知ってたら
+　オッケーするんじゃなかったわ。
+　わたしの休日、返してよ！」
+
+<BOX type="0">//%w
+「ごめん。本当にごめん。その……」
+
+　うまく話を合わせなければ……
+　それは充分わかってるんだが、舌が絡んで言葉にならない。
+
+　これが……あの、アインなのか？
+
+//<BUSTUP NAME="elen3" face="4" MODE="on" zoom="" ALIGN="right">//# elen3^4 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ねぇ、埋め合わせは
+　どうしてくれるわけ？」
+
+<BOX type="0">//%w
+「え？」
+
+<BOX type="5">//%sR
+「え？　じゃないでしょ！」
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<clear>
+<BACKGROUND SRC="shop2">//
+<WIPE EFFECT="fade" TIME="0">
+
+<BOX type="0">//%w
+　再び平手打ち。
+　避けられない。だめだ。実戦よりも動転してる。
+　いや、この場合、避けちゃいけないんだろうが……
+
+<BUSTUP NAME="elen3" face="2" MODE="on" zoom="" ALIGN="right">//# elen3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「責任取ってよ！
+　返事によっては、
+　わたし今すぐ帰るからね」
+
+<BOX type="0">//%w
+「その……今日は、だから……」
+
+　何でもいい。この場はとにかく言い繕えばいいんだ……
+
+<BOX type="0">//%w
+「今日の買い物は、全部、僕が……」
+
+<BUSTUP NAME="elen3" face="" MODE="on" zoom="" ALIGN="right">//# elen3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ディナーも？」
+
+<BOX type="0">//%w
+「も、もちろん……いや、でも」
+
+<BUSTUP NAME="elen3" face="3" MODE="on" zoom="" ALIGN="right">//# elen3^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わぁい」
+
+<BOX type="0">//%w
+　いきなり首に、アインの両腕が巻きついた。
+
+　……ちがう、身構えるな！　絞め落とされるわけじゃない！
+　慌てて、そう自分に言い聞かせる。
+
+　満面に笑みを湛えたアイン。
+　普段からは想像もつかない。
+
+　……必要とあらば、こんな顔もして見せられるのか。
+
+<BUSTUP NAME="elen3" face="" MODE="on" zoom="" ALIGN="right">//# elen3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃぁ、行こ。案内してあげる」
+
+「お店はね、
+　もう全部見つけてあるの」
+
+<BOX type="0">//%w
+　身をすり寄せるようにして、アインが腕にぶら下がる。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　何気なく辺りを窺う。
+　……アインをマークしていた、あの用心棒の姿はない。
+
+　杞憂だったと納得して、ボスの側に帰ったか。
+
+　ガールフレンドに振り回される、情けない有様に呆れてか、
+　どこかで誰かが忍び笑いを漏らしていた。
+
+//> left shop5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shop5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　アインと身を寄せ合ったまま、モールを歩く。
+
+<CLEAR><BACKGROUND SRC="0110p1">//# 0110p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　どこにでもいそうな、何の変哲もない恋人どうし。
+　誰も、注意を払わない。
+
+　アインの、こんな晴れやかな表情は始めて見た。
+　とても殺し屋なんて思えない。年相応の女の子の顔だった。
+
+　彼女も任務を離れたら、
+　ああいう、普通の女の子になるんだろうか。
+
+　そう、これが普通なんだ。
+
+　自分やアインと同じ年頃の子なら、
+　祝日は恋人と、こんな風に腕を組み合って……
+
+<CLEAR><BACKGROUND SRC="0110p2">//# 0110p2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="2" loop="on">//$ 0 _1 0
+<BOX type="5">//%sR
+「ターゲットは、
+南モールのアンティークショップ」
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="0">//%w
+　肩の辺りから、冷ややかな声が囁いた。
+
+<BOX type="5">//%sR
+「だから迎えの車は、
+　南出口に廻されるはず……
+　乗り込む間際を、やるわよ」
+
+<BOX type="0">//%w
+　緊張で、背筋が凍った。
+
+「……続行するのか？　顔を見られたのに」
+
+<BOX type="5">//%sR
+「問題ないわ。
+　連中は油断しはじめている」
+
+<BOX type="0">//%w
+　傍らの少女を、まじまじと見つめる。
+　さっきまで屈託なく笑っていた……いまは人形のように無機質な顔。
+
+　わからない。
+　どっちが本当のアインなんだろう。
+
+//> left shop6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shop6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　南モール。
+　まず、ひときわ売場の広いジーンズショップに入る。
+
+<CLEAR><BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　それから店員の目を盗み、搬入口を抜けて裏路地へ。
+
+　きらびやかなモールの賑わいから隔離された薄暗がり。
+
+　ここから大通りに出れば、モールの南出口はすぐ右手……
+　距離は、およそ20ｍ。
+
+　隠れながら通りを見張るには、絶好のポジションだった。
+
+<se id="1" src="アインマント脱ぐ" mode="normal" time="" loop="off" effect="">//!se binta
+<CLEAR><BACKGROUND SRC="0110p3">//# 0110p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　アインはクロークコートと帽子を脱ぎ捨てた。
+
+　ハンドバックには、謝肉祭のマスケラがふたつ。
+　その片方を手渡される。
+
+<BOX type="5">//%sR
+「用意はいい？」
+
+<CLEAR><BACKGROUND SRC="{銃画像}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　頷いて{銃}を抜き、撃鉄を起こす。初弾は装填済みだ。
+
+　美麗に飾り立てられたマスケラを被った。
+　くり抜かれた仮面の目の形に、視界が縁取られる。
+
+<CLEAR><BACKGROUND SRC="street1">//# street1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　送迎車は防弾と思って間違いない。
+
+　安全な車内にドンが乗り込み、
+　役目を終えた護衛たちが、
+　安堵に緊張を緩める……
+　その時が襲撃のチャンスだ。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　こっちの役割はバックアップ。
+　アタックはアインが仕掛ける。
+
+　ほんの数十秒で、カタはつく。
+
+//> left shopMobB wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shopMobB">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……さして待たされはしなかった。
+
+　けたたましく通りを行き交う車の群れの中から、
+　まるで幽霊のような静けさで現れたベンツが、路肩に車体を寄せてくる。
+
+<CLEAR><BACKGROUND SRC="passage2">//# elen2^3 20 passage2 1
+<BUSTUP NAME="elen2" face="3" MODE="on" zoom="" ALIGN="right">//# elen2^3 20 passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……行くわよ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　アインもマスケラを被った。
+　仮面のような無表情が、本物の仮面で隠される。
+
+<A HREF="0110a.txt" OPERATOR="">//~ 0110a

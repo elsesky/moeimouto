@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+　結局、いつものコルトを選ぶことにした。
+　毛色の違う任務だが、やはり扱い馴れた銃がいい。
+
+<CALC WORKNAME="射撃音" OPERATOR="11_02">//
+<CALC WORKNAME="銃" OPERATOR="コルト">//
+<CALC WORKNAME="銃画像" OPERATOR="ガバメント">//
+<CALC WORKNAME="射撃画像" OPERATOR="ガバメント2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用CV">//
+<CALC WORKNAME="0181a" OPERATOR="1">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

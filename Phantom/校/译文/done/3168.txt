@@ -1,0 +1,21 @@
+<BOX type="0">//%w
+  自己首先要考虑的……是如何将枪带在身上。
+
+　无论如何都要优先顾及隐蔽性。自己带枪的事绝对不能暴露。
+
+　有可能藏在学生服里的左轮手枪……
+　既然有这个限定条件，能选择的就只有9mm口径的自动手枪了。
+
+　自己究竟是选贝瑞塔，还是选SIG-SAUER呢……
+
+　经过一番考虑，我拿起了更加小巧的SIG。
+
+　考虑到体育课换衣服的问题，枪套肯定是不能带的。
+  经过反复试验，我决定将枪别在腰后。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="21_03">//
+<CALC WORKNAME="廵" OPERATOR="僔僌">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僔僌">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僔僌2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡2">//
+<A HREF="3170.txt" OPERATOR="">//~ 317070

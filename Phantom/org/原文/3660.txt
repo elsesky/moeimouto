@@ -1,0 +1,494 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　感電死した一人目の手を握ったまま、二人目の少女も即死した。
+
+　武器はAK74。
+　カラシニコフ系突撃銃の最新型だ。
+　世界中に出回っている旧型のAK47と形こそ似ているが、
+　底値で買い叩けるような銃じゃない。歴とした現役の軍用銃だ。
+
+<CLEAR><BACKGROUND SRC="死に手B_640">//# 3660x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　無骨な造形の突撃銃に比べて、
+　死んだ少女の腕はあまりに細く、たおやかに見えた。
+　……もっとも、そんな彼女が自在に銃を扱う様は、
+　つい今しがた目にしたばかりだが。
+
+　顔には、精緻な装飾を施した謝肉祭のマスケラ。
+
+<CLEAR><BACKGROUND SRC="passage6c">//# passage6c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……この子たちは、一体？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「こういう歪んだセンスの持ち主は、一人しかいないわ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　仰向けに転がる骸のマスケラを、{ヒロイン}はそっと取り外す。
+
+　多分、この学園の生徒と同年代の、まだあどけなさの残る少女。
+　光の失せた虚ろな眼差しは、だが、まだ憎悪の相を留めている。
+
+　何を思っていたんだろうか。
+　どれほど恨みながら死んだんだろうか。
+
+　今となっては、もう問うことも叶わない。
+
+「この子も、サイスの……」
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうでしょうね」
+
+<BOX type="0">//%w
+　死相を見下ろす{ヒロイン}の眼差しには、言いようのない悲哀があった。
+
+　この子はサイスに魅入られて、
+　笑顔を忘れ、涙を忘れ、
+　……そして死んだ。
+　かつての自分や{ヒロイン}と、まったく同じ境遇の少女。
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「西棟も掃討されてた。たぶん、
+　あと二人か、それ以上……」
+
+<BOX type="0">//%w
+「……部が悪いな」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうでもないわ」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「この子たちの他に、
+　インフェルノの手勢が
+　出てくることはないと思う」
+
+<BOX type="0">//%w
+「……どうして？」
+
+　遠くを見つめる{ヒロイン}の眼差しに、
+　ふと、いつか懐いたもどかしい距離感を思い出す。
+　……まだ彼女がアインと呼ばれていた頃。
+　誰にも理解が及ばないほど遠く、そして限りなくサイスに近かった少女。
+
+<BOX type="5">//%sR
+「あの人が動くのは、他にけしかける相手がいなくなった後……いつだって、最後の最後よ」
+
+「そして、
+　いざ行動に移るとなれば、
+　側近しか使わない」
+
+<BOX type="0">//%w
+　そう、彼女には解っている。
+　かつての主の判断が。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これが、最後の戦いよ」
+
+<BOX type="0">//%w
+「……」
+
+　{ヒロイン}がそう言うのなら……
+　そうなのかもしれない。
+　今、この校内のどこかに、サイスは潜んでいるんだろうか。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「敵の人数が判らないんじゃ、作戦の立てようがないな」
+
+　死んだ少女のカラシニコフを拾い上げ、スリングベルトに肩を通す。
+
+　予備の弾倉も回収した。
+　二人ぶん合わせて、6マガジン。
+
+「こいつらは……俺が囮になって引き付ける」
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BOX type="0">//%w
+「君はその隙に、サイスを探し出せ。
+　奴のことだ。きっとどこかで見物してる」
+
+<BOX type="5">//%sR
+「無茶よ。あなた一人で何人を
+　相手にすることになるのか……」
+
+<BOX type="0">//%w
+　そう、解らない。
+　だからこそ、策を弄したところで無意味だ。
+　捨て身で活路を開くしかない。
+
+「この子らの司令塔はサイスだ。奴さえ叩けば、どうにかなる」
+
+「……それに、奴の手の内が読めるとしたら……それは、君しかいない」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}は表情を冷まして押し黙る。
+　今は、感情に流されていい場面じゃない。
+
+　プロとして、よりベストの判断を取る。
+
+　勝率と確実性、それがすべてだ。
+　それが解らぬ{ヒロイン}ではない。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……気をつけて」
+
+<BOX type="0">//%w
+「君もな」
+
+//> left passage8c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage8c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　カラシニコフを手に、渡り廊下を駆け抜けながら……
+　想いは、趨勢も判らぬ敵よりも、{ヒロイン}とサイスとの対決に飛ぶ。
+
+　本当に……これでいいのか？
+
+　彼女なら、サイスの手の内も見透かせる。
+　その点は間違いない。
+
+　だが……
+　{ヒロイン}にとってサイスとは、
+　いわば父親も同然の存在なのではないか？
+
+　そんなサイスとの対決を、{ヒロイン}に強要してしまって……
+　それで本当に良かったんだろうか。
+
+　かつての{ヒロイン}の、サイスに対する依存ぶりを思い出す。
+
+　一度ならず命を投げ出してまで、サイスを守ろうとした{ヒロイン}。
+
+　確かに彼女は、もうアインと呼ばれていたころの彼女じゃない。
+
+　だが……いや、だからこそ、危うい。
+
+　人を殺す、その行為の耐えがたい重み。
+　そこから逃れるための、みずからの良心を欺くための詭弁を、
+　今の彼女は持ち合わせていない。
+
+　期せずして、再び戦いの場に身を投じる羽目になった二人だが、
+　今の{ヒロイン}が、かつての非情さを発揮できるとは思えない。
+
+　忘れろ。
+　そして信じろ。
+
+　敵はサイス麾下の精鋭だ。
+　心を煩わせたまま、片手間に相手ができるほど、やわな連中ではない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right schooltop3 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　西棟に場所を移しての銃撃戦を、サイスは東棟の屋上から見守っていた。
+
+　暗く沈んだ窓の内側から、雲中の雷のように、マズルフラッシュの閃きが洩れる。
+
+<BOX type="5">//%sR
+「なかなかどうして、
+　健闘しているじゃないか……」
+
+<BOX type="2">//%w
+　ドライ、そして梧桐組との抗戦で疲弊しているかと思いきや、アイン、ツヴァイの善戦ぶりは、予想以上のものだった。
+
+　既に階下でノインとフェンフを倒し、今は奪い取った武装で、西棟のアハトとフィーアを相手に、互角の戦いぶりを見せている。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　果たしてあれは、アインか、ツヴァイか……
+
+　いずれにせよ、どうやらアハトとフィーアの報告では、今、交戦中の敵は単身らしい。
+
+　と、なると、もう一人は何処に？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どこかにもう一人、
+　別の片割れが潜んでいるはずだ」
+
+<BOX type="2">//%w
+　傍らに控えるゼクスとズィーベ……護衛として手元に残していた二人を一瞥し、サイスは冷ややかに命令する。
+
+<BOX type="5">//%sR
+「ここはもういい。
+　お前たち二人で……」
+
+<clear>
+<BACKGROUND SRC="schooltop3b">//
+<WIPE EFFECT="fade" TIME="10">
+
+<BUSTUP NAME="zs6" face="" MODE="on" zoom="" ALIGN="left">//# zs6 19 zs7 20
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs6 19 zs7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　だがサイスが指示を出すよりも、鍛え抜かれた精鋭の二人が、背後の気配に振り向く方が早かった。
+
+<clear>
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="10">
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+//> right schooltop3b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　昇降口から、そっと屋上の様子を窺って、
+　{ヒロイン}はこちらに背を向けて中庭を見下ろしているサイス＝マスターを見つけた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　こちらには気付かれてない。
+　が、厄介なことに護衛が二人。
+
+<BACKGROUND SRC="schooltop3b">//
+<WIPE EFFECT="fade" TIME="10">
+
+<BUSTUP NAME="zs6" face="" MODE="on" zoom="" ALIGN="left">//# zs6 19 zs7 20
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs6 19 zs7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　サイスが連れ歩くほどの少女なら、まず相応の兵士と見て間違いない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　不意を討って、まず一人を倒せたとしよう。
+　だが次の瞬間には、残る一人が、振り向きざまにカラシニコフの応射を浴びせてくる。
+
+　この距離から連射を浴びせて、二人同時に倒すのは……
+　幸運に恵まれれば、不可能ではないだろうが、確実とは言い難い。
+
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="10">
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　どうするか……
+　ほんの刹那の逡巡に、{ヒロイン}は囚われる。
+
+　距離を隔てた隣の校舎では、今も熾烈な銃撃音が聞こえてくる。
+
+　なぜ、自分はここにいる？
+　なぜ、サイスを任された？
+
+　それは{ヒロイン}が、サイス＝マスターという男を知り尽くしているからだ。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　意を決し、{ヒロイン}は飄々と屋上に踏み出すと、右手のパイソンを床に投げ捨てた。
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+
+//> right schooltop3 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これは驚いた……」
+
+<BOX type="2">//%w
+　意外な展開に、
+　サイスは眉を上げた。
+
+　2挺のカラシニコフの銃口の前に、アインは何を思ったか、銃を捨てて丸腰で佇んでいる。
+
+<BOX type="5">//%sR
+「まさか、
+　投降する気ではあるまいね？」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いいえ」
+
+「わたしは、
+　あなたを倒しに来ました。
+　マスター」
+
+<BOX type="3">//%m
+　怖じ気もなく淡々と語るアイン。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　サイスは当惑しつつも、いつもの悪い癖で、アインの理不尽な行動に興味を惹かれる。
+
+<BOX type="5">//%sR
+「ひとつ、
+　聞かせてもらいたいのだが……」
+
+「この絶望的な状況で、
+　おまえは、どのように私に
+　挑戦しようというのかね？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　問われたアインは、つきつけられた銃口を、つまらなそうに一瞥する。
+
+<BOX type="4">//%sL
+「このままわたしを射殺するのが、
+　もっとも適切な
+　判断でしょうが……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そんな他愛もない結末を、
+　あなたが望むはずがありません」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　その言葉に、
+　サイスは破顔一笑した。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まさかお前が、そういう興に
+　理解を持っているとは
+　思わなかったぞ。アイン」
+
+「お前の言うとおり、
+　私がこんな島国に
+　舞い戻ってきたのも……」
+
+「我が娘たちの饗宴を
+　この目で愉しみたいからだ」
+
+<se id="1" src="指を鳴らす" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="schooltop3b">//
+<WIPE EFFECT="fade" TIME="20">
+
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19 zs7^2 20
+<BUSTUP NAME="zs7" face="2" MODE="on" zoom="" ALIGN="right">//# zs6^2 19 zs7^2 20
+<WIPE EFFECT="fade" TIME="5">
+//もえらＳＥ追加
+<se id="1" src="二人ナイフを抜く" mode="normal" loop="off">
+
+<BOX type="2">//%w
+　サイスが指を鳴らすと、仮面の少女たちは何の躊躇もなく銃を捨て……そしてナイフを抜き放った。
+
+<clear>
+<BACKGROUND SRC="schooltop3">//
+<WIPE EFFECT="fade" TIME="20">
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「紹介しよう。ゼクスとズィーベ。
+　お前の妹にあたる子たちだよ。
+　アイン」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あれはアイン。
+　お前たちのテストベースとなった
+　被献体だ」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まずは遊んでやれ。
+　そして限界を見せはじめたら……
+　少しずつ切り刻んでいけ」
+
+<BUSTUP NAME="zs6" face="2" MODE="on" zoom="" ALIGN="left">//# zs6^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs6^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="zs7" face="2" MODE="on" zoom="" ALIGN="right">//# zs7^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs7^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen2" face="6" MODE="on" zoom="" ALIGN="left">//# elen2^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen2^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　にじり寄る仮面の二人を、アインは動じることもなく見据えつつ、彼女もまたナイフを抜いた。
+
+<A HREF="3670.txt" OPERATOR="">//~ 3670

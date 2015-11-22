@@ -1,0 +1,217 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="0130x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　只要没有其他的安排，每天必须要开3个小时的车……
+  这也是Ein规定的“自学科目”之一。
+
+对于洛杉矶市民来说，汽车是跟衣食住一样重要的生活必需品。
+ 想要在这个城市过普通市民的生活，就必须像习惯走路一样地习惯驾车。
+
+　对于没有铁道站点的洛杉矶来说，
+  街区的划分是依靠高速公路围成的网状结构来完成的。
+  每一个街区，就像这张大网上的一个网点。
+
+　如果不能将这庞大的道路网记在脑子里的话，
+  就无法判定自己的位置。
+
+　虽然我没有接受过正规的训练，驾驶证也是伪造的，
+  但是很快就掌握了一般水平的驾驶技术。
+
+　与射击和格斗相比，开车不会对身体造成什么负担，
+  对我来说无疑是一种放松。
+
+//傕偊傜俽俤捛壛
+<se id="1" src="僑儖僼憱峴" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="0130x6">//# 0130x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　现在，我正驾驶着老式的大众高尔夫，在高速公路上以70英里的时速飞驰。
+　有些过时的高尔夫，对于靠打工谋生的高中生来说，是再合适不过的车了。
+
+　其他可供利用的车辆被藏在城市的大街小巷，
+  在开展行动需要进行伪装的时候，以供紧急使用。
+
+　以沃列斯·杨的名义，
+  以韩国城的那个阁楼作为地址而被登记的这辆高尔夫，
+  可以说是自己和Ein的私人车辆。
+
+　午后……在一侧有4条行车线的宽阔的高速公路上，
+  几乎没有车可以妨碍到我。
+
+　即使在超速飞驰，
+  我依旧有闲暇去欣赏车外的景色。
+
+　从旁边开着的车窗涌进的风吹拂着我的头发，感觉非常惬意。
+
+　虽然这也是被强制规定的训练之一，
+  不过，我并不讨厌像这样在高速公路上悠闲地“散步”。
+
+<se id="1" src="" mode="fadeout" time="20">
+//傕偊傜俽俤捛壛
+<se id="2" src="僑儖僼憱峴幒撪壒1" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="way">//# way 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这种疾驶的感觉，可以激发出人类的动物本能。
+
+　过去的自己有着这样的爱好吗？
+  虽然在脑海中展开了各式各样的想象，
+  不过，应该不可能吧，
+  曾经的自己有没有驾驶经验都值得怀疑。
+
+　即使真的有驾驶经验，
+  恐怕也不曾体验过这样的爽快感吧。
+
+
+　驾驶高尔夫，尽情享受放纵的乐趣，
+<se id="1" src="F40僑儖僼捛偄墇偟" mode="normal" time="" loop="off" effect="">//!se F40ovre
+　世界虽大，也只有在洛杉矶才能做得到吧。
+
+//<se id="1" src="F40ovre" mode="normal" time="" loop="off" effect="">//!se F40ovre
+　我飘忽不定的思绪，被突如其来的轰鸣声拉了回来。
+
+<CLEAR><BACKGROUND SRC="0130x4">//# 0130x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　伴随着耳边响起的排气声，从高尔夫边上呼啸而过的深红色车体……
+  简直就像一道红色闪电从眼前闪过。
+
+　是法拉利。
+　像那样趾高气昂的高级车在高速公路上并不稀奇。
+
+　可是像近乎疯狂的速度我还是第一次见到。
+  时速150英里……毫无疑问，这已经超过250公里了。
+
+//傕偊傜俽俤捛壛
+<se id="2" src="僑儖僼憱峴幒撪壒1" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="way">//# way 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　而且，刚才的司机好象是一个女人。
+
+　虽然只有一瞬，但是我好象看到了她那飘逸的浅棕色长发。
+
+　浅棕色的长发……
+　说起来，克劳蒂娅的头发好像也是那样。
+
+　就在我浮想联翩的时候，
+<se id="1" src="phone" mode="normal" time="" loop="off" effect="">//!se phone
+　胸前口袋里的手机响了起来。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+「……喂？」
+
+<BOX type="5">//%sR
+『你好啊，Zwei』
+
+<BOX type="0">//%w
+　不是别人，正是克劳蒂娅。
+  与平日冷静优雅的口吻不同，她现在的声音似乎有些发颤。
+
+<BOX type="5">//%sR
+『我在下一个汽车餐厅等你。
+  快点过来吧』
+
+<BOX type="0">//%w
+　听到她用恶作剧一般的口吻这样说完后，电话就突然被挂断了。
+
+　如果是偶然的话，时间也太过巧合了。
+　这么想的话，莫非……
+
+<se id="2" src="" mode="fadeout" time="30">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130p2 wide 255
+<clear>
+//傕偊傜俽俤捛壛
+<se id="1" src="暷崙岎嵎揰拫" mode="normal" loop="off">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="0130p2">//
+<WIPE EFFECT="fade" TIME="20">
+
+
+<wait time="200">
+<BOX type="5">//%sR
+「好久不见了啊」
+
+<BOX type="0">//%w
+　我来到汽车餐厅的停车场后，
+  立刻就看到了克劳蒂娅。
+
+　不过，她的车有点太眩目了。
+
+<CLEAR><BACKGROUND SRC="0130x3">//# 0130x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「那个……好厉害的车啊」
+
+<BOX type="0">//%w
+　法拉利F40。
+  虽然是已经退出了王者宝座的上一个世纪的机器，
+  但也绝不是一般人所能拥有的车。
+
+<CLEAR><BACKGROUND SRC="0130p2">//# 0130p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「V8双涡轮478马力……
+  习惯了这辆车的话，
+  开其他车都会很不适应」
+
+「偶尔开开这个，
+  是我现在唯一的消遣哦。」
+
+<BOX type="0">//%w
+「今天莉兹没来么？」
+
+<BOX type="5">//%sR
+「她可受不了这么快的速度」
+
+<BOX type="0">//%w
+　就算那样，她所处的立场应该也不允许她独自出门吧。
+
+「只有自己的话，没关系吗？」
+
+<BOX type="5">//%sR
+「担心吗？」
+
+「那么，陪我一起兜风怎么样？
+  用我的这部车」
+
+<BOX type="0">//%w
+　她带着调侃的口气对我如此说道。
+  听起来，不像是在命令我。
+
+　怎么办？
+　这可是难得一见的超级跑车啊。
+  况且我自己也很有兴趣乘坐它……
+
+　可是，我并不是来兜风游玩的。
+  即使坐在副驾驶的位置上，也无法进行练习。
+
+「对不起啊，我要进行驾车的练习」
+
+<BOX type="5">//%sR
+「我知道啊。
+  当然，这不会妨碍你练习的哦」
+
+「怎么样？
+　不试着驾驶它一下吗？」
+
+<BOX type="0">//%w
+「……啊？」
+　
+　邀请来得太过突然，以致我都有些怀疑自己的耳朵。
+
+　驾驶……这辆法拉利吗？
+
+<se id="1" src="" mode="fadeout" time="20">
+<CHOICE HREF="0140.txt" TEXT="＊试着驾驶" OPERATOR=""></A>//{ ＊乗ってみる 0140 ＊やめておく 0140a
+<CHOICE HREF="0140a.txt" TEXT="＊还是算了" OPERATOR=""></A>//{ ＊乗ってみる 0140 ＊やめておく 0140a

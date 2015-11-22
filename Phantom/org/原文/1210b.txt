@@ -1,0 +1,340 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left city7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="city7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「あそこが、ボナベンチャー＝ホテル」
+
+　南西の方角で陽光を跳ね返している、4本束ねられたガラスの円柱を、
+　傍らのキャルに指差して示す。
+
+「ゆうべ話したような条件で、本当に人を撃とうとしてる奴がいる。
+　そいつがどこから撃とうとするか、突き止めるのが、今回の仕事だ」
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ふ～ん……」
+
+「でもさぁ、そんなことって、
+　歩き回っただけで
+　判ることなの？」
+
+<BOX type="0">//%w
+「狙撃っていうのは、何の準備もなしにできることじゃない」
+
+「スナイパーは予め、必ず下準備をしておくものなんだ。
+　だから今日は、それを足で探す」
+
+「たとえば、そうだな……いちばん見つけやすいのは、風見か」
+
+<BUSTUP NAME="cyall2" face="0" MODE="on" zoom="" ALIGN="right">//# cyall2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「風見？」
+
+<BOX type="0">//%w
+「いざ撃つときには、スナイパーは風を読む必要がある。
+　風の影響で弾道が逸れるのを、あらかじめ計算しなきゃならない」
+
+<BOX type="5">//%sR
+「ただの風で、弾が曲がるの？」
+
+<BOX type="0">//%w
+「ほんの僅かな曲がり方でも、800ヤード先ではとんでもない誤差になる」
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そっか」
+
+<BOX type="0">//%w
+「特にこの辺は、ビル風の影響もある。
+　かなり細かく風を読まなきゃならないだろう」
+
+「そこで、風見が必要になる」
+
+<BOX type="5">//%sR
+「よく屋根の上に立ってる
+　風見鶏とか、ああいうの？」
+
+<BOX type="0">//%w
+「そうだ。旗とか梢とかでもいい。
+　風の向きや強さを確かめる目印になるものだ」
+
+<BUSTUP NAME="cyall2" face="a" MODE="on" zoom="" ALIGN="right">//# cyall2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、そんなもの、そうそう
+　都合よく立ってるかなぁ？」
+
+<BOX type="0">//%w
+「立ってないさ。だから自分で用意する」
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そっか、それが、下準備」
+
+<BOX type="0">//%w
+「そういうことだ」
+
+「変なところに引っかかってる布きれとか、そういうのを探すんだ」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　うんざりした顔で、キャルは居並ぶ摩天楼を見渡した。
+
+<BOX type="5">//%sR
+「すんごく、大変じゃない？」
+
+<BOX type="0">//%w
+「ゆうべ、候補は絞ってあるだろ？」
+
+//> left city8 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="city8">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　捜し物にとりかかる前に、
+　キャルにスナイパー式の走査法を教えることにした。
+
+「タイプライターのヘッドがあるだろ？
+　あれと同じように目を動かすんだ」
+
+「視野の左上から始めて、一文字ずつ刻んでいくように、
+　一定間隔で、右、右、右、と視線を動かしていく」
+
+「このとき、目の焦点を遠近交互にずらすのがコツだ。
+　遠くを見た後は近くに、近くを見たあとは遠くに、
+　視線をずらすたびに、焦点を切り替えろ」
+
+「視点が右端まで行ったら、改行だ」
+
+「今度はもう一段下を、また左端から右、右、右……と刻んでいく。
+　わかったか？」
+
+<BOX type="5">//%sR
+「うん」
+
+<BOX type="0">//%w
+「よし、じゃぁ始めるぞ」
+
+<CLEAR><BACKGROUND SRC="city^a">//# city^a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一緒に暮らしはじめて以来、キャルの注意力や直感の鋭さには、
+　事あるごとに仰天させられてきた。
+　殺し屋修行云々は抜きにしても、
+　そういうキャルの優秀さには、疑いの余地がない。
+
+　口にこそ出さなかったが、
+　今日の探索では、キャルの助力にそれなりの期待を寄せていた。
+
+//> left city9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="city9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　折しも、その日は休日だった。
+
+　オルベラ街やリトル＝トーキョーといった名所に隣接する
+　ダウンタウンは、観光客やら何やらで、人出に溢れかえっている。
+
+　そういう人混みに紛れ込めるぶん、
+　実地調査にはうってつけの日よりと言えたが、
+　それは一人で行動していた場合の話だ。
+
+　隣のキャルには、
+　どうやら周囲の浮ついた空気が、完全に伝染している様子だった。
+
+<BUSTUP NAME="cyall2" face="7" MODE="on" zoom="" ALIGN="right">//# cyall2^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「見て見てあっち!
+　大道芸やってる!!」
+
+<BOX type="0">//%w
+　ジャケットの裾を引っ張られるたび、いちいち頭が重くなる。
+　この子はいったい、何を走査してるんだ？
+
+　真面目に上を見て探せ……そう叱りたいのは山々なのだが、
+　本当に上も見ているのだから始末が悪い。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　すでに風見とおぼしきものが二つ、見つかっていた。
+　……ビルの壁面に引っかかった襤褸布。
+　一見、風で飛ばされたゴミか何かにしか見えないが、
+　あの高さは不自然だ。
+　人為的に用意されたのは間違いない。
+
+　明日の会談が狙われているのは、今となっては間違いなかった。
+
+　それはそれとして、
+　どちらの手がかりも、先に見つけたのはキャルだった。
+
+　この2点差を覆さない限り、キャルに文句のつけようがない。
+
+　だが……今の時点で、調査の結果は8割方、固まっている。
+　いくつかあった候補地のうち、すでに殆どが除外されていた。
+
+<CLEAR><BACKGROUND SRC="city0">//# city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　おそらく、狙撃ポイントは郵政省ビル屋上。
+
+　距離と角度、該当時間の太陽の向き、
+　そして、明らかに人為的に置かれた風見の位置……
+　あらゆる要素が、その推理を示唆していた。
+
+　せめて、あともう一つくらい、露骨な風見が見つかれば、
+　確証が持てるのだが……
+
+　ふと静寂に気づいてみると、横ではしゃいでいたはずのキャルがいない。
+
+「……？」
+
+　振り向くと、
+　さっき何の気なしに通り過ぎた露天商で、キャルは足を止めていた。
+
+　まったく……
+　もう呼びかける意気も失せ、黙ってキャルの所まで戻る。
+
+<CLEAR><BACKGROUND SRC="キャル露天商">//# city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　売られているのは、見るからに安っぽい装身具だった。
+
+　だが、そんなガラクタに目を輝かせているキャルを見ていると、
+　不思議と苛立ちが退いていく。
+
+　そうそう目くじらを立てることでもない。
+
+　休日の街の活気の中に、嬉々として溶け込んでいるキャルの姿は、
+　割り込むには気が引けるほど、その景色に馴染んで見えた。
+
+　むしろ、一心不乱に狙撃手の痕跡を探している自分の方こそ、
+　この賑わいの中では、異質な部外者だ。
+
+<CLEAR><BACKGROUND SRC="city0">//# city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「買ってやろうか？」
+
+<BUSTUP NAME="cyall2" face="0" MODE="on" zoom="" ALIGN="right">//# cyall2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え!?」
+
+<BOX type="0">//%w
+　そう提案すると、
+　キャルは服を買ってやった時と同じ、途方に暮れたような表情を見せた。
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……悪いよ」
+
+<BOX type="0">//%w
+　この子の場合、たとえば食事のような共有物には、
+　まったく遠慮しないのだが、
+　彼女個人の所有物を贈られるとなると、
+　いきなり滑稽なほど恐縮しはじめる。
+
+「これか？」
+
+　さっきまでのキャルの視線を辿って、彼女の憧れの対象をつきとめた。
+
+<CLEAR><BACKGROUND SRC="1210x2">//# dummy 20 1210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+　蓋付きの、手巻きの懐中時計。
+　安っぽい土産物には違いないが、針や文字盤の細工など、
+　かなり凝っている。
+
+　目敏く購買意欲を見て取った店主が、
+　英語とスペイン語の混ざった意味不明な口上を並べながら、
+　文字盤の蓋を閉じ、ネジを巻いて見せる。
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="5" loop="on">//$ calling.swa 255 255
+　再び蓋を開けると、小さく時を刻む秒針にあわせて、
+　か細い旋律が流れ出た。
+
+「へぇ、オルゴール仕込みか」
+
+<CLEAR><BACKGROUND SRC="city0">//# cyall2^5 20 city0 1
+<BUSTUP NAME="cyall2" face="5" MODE="on" zoom="" ALIGN="right">//# cyall2^5 20 city0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　相変わらず、もじもじと躊躇っているキャルだが、
+　ますます気に入ってしまった様子なのは、顔を見ていれば判る。
+
+　店の親父は、もう釣り銭入れの小銭を数えていた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left city1 wide 255 cyall2^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 0 255
+<BACKGROUND SRC="キャル時計ＧＥＴ">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="1210x2">//# dummy 20 1210x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ネジを巻き、蓋を何度も開けては閉じ、
+
+<CLEAR><BACKGROUND SRC="1210x3">//# 1210x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　それからのキャルは、手のひらの上の世界に没頭してしまっていた。
+
+　もう視線走査など、前世も同然に忘れてしまっている。
+
+<CLEAR><BACKGROUND SRC="キャル時計ＧＥＴ">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だがもう、敢えてそれを咎める気はしなかった。
+　ここまで手伝ってくれただけでも、ご褒美をやるには充分だ。
+　続きは一人でやればいい。
+
+「そいつは、分解するなよ」
+
+<BOX type="5">//%sR
+「……うん」
+
+「大事にするね。ずっと……」
+
+<A HREF="1230.txt" OPERATOR="">//~ 1230

@@ -1,0 +1,291 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right boss_room wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="boss_room">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　同じ夜の、同じ頃……
+
+　広域暴力団・梧桐組組長、
+　梧桐海典の邸宅に、
+　深夜の来訪者があった。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「志賀、か……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「夜分、恐れ入ります」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうやら、
+　悪い知らせのようだな」
+
+<BOX type="2">//%w
+　こんな時間に、子細も告げぬ直々の訪問である。
+　修羅道を生き抜いてきた老獪なれば、当然の勘働きだった。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「藤枝美緒さんの、件です」
+
+<BOX type="3">//%m
+　志賀も覚悟は決めている。無駄に言葉を費やしはしなかった。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「この志賀が到らねぇばかりに、
+　お嬢さんを、
+　難儀に巻き込んじまいました」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　激することも、
+　乱れることもなく、
+　老人は巌の沈黙で、
+　報告を受け止めた。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いま現在も、
+　事態は一刻を争う状況です」
+
+「この志賀が、指詰めてケジメを
+つけるのが筋とは承知しています」
+
+「ですがその前に、
+　まずは美緒さんを救うのが先決」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そこで、
+今夜はお願いにあがった次第です」
+
+「今回の一件、
+　梧桐一家の郎党を動かして、
+　事に当たりたく……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「元凶は……
+　例の、アメリカ人どもか？」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　老人の慧眼に、
+　志賀の背筋が凍る。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美緒の命は、まだ無事なのか？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「はい。確かに」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なら……」
+
+「手出し無用だ、志賀。
+　梧桐組は動かすな」
+
+「万事は、
+　その外人どもに任せておけ」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「しかし……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「組が動けば、
+　次第は日本中に知れ渡る」
+
+「いったいどういう理由で、娘っ子一人に梧桐組が躍起になるのか……皆が知りたがるだろうな」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お前の指も、無用だ。
+　けじめをつける理由がねぇ」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="left">//# siga^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「しかし、それでは……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ねぇんだよ。志賀」
+
+「梧桐と藤枝の家に、縁はねぇ」
+
+「あっちゃぁ、いけねぇんだよ。
+　今も、昔も」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　そう言って老人は、
+　厳めしい眼光を、しばしの間、
+　遠い彼方に飛ばした。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいな。美緒が無事なうちは、
+　何があっても動くな」
+
+「金や脅迫が目当てでない限り、
+　俺たちにできる事はねぇ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お前ぇの気遣いにゃ、
+　感謝してるがな。志賀」
+
+「所詮、極道なんてのは、役に立たねぇ木偶の坊だ。とりわけ何かを護るとなると、な……」
+
+「ヤッパもハジキも、
+　壊して殺すだけが能よ。
+　護る足しにはなりゃしねぇ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……承知、しました」
+
+「心得ておきます……」
+
+//> right bay3 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　同じ夜の、違う場所で……
+
+　サイス＝マスターは、呼び寄せた私兵を前にして、ささやかな閲兵を行っていた。
+
+<CLEAR><BACKGROUND SRC="3570x1">//# 3570x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　この2年間にサイスが揃えた、
+　懐刀の親衛隊、
+“ツァーレンシュヴェスタン”
+
+　かつてアインで確立した
+　調教プロセスを、
+　より効率的に施した少女たち。
+　言うなれば“量産型”である。
+
+“フィーア”“フェンフ”
+“ゼクス”“ズィーベ”“アハト”
+“ノイン”
+　……現在、総員はこの6名。
+
+　仮面の下の素顔は、いたいけな十代の少女でも、その戦闘力は特殊部隊の精鋭に匹敵するものと、サイスは自負している。
+
+　恐怖もなく、慈悲もなく、
+　ただ忠実な猟犬の如く、
+　死を運ぶオート・マタ。
+
+　これぞサイスの求めていた、
+　究極の兵士たちだ。
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# bay3 1 sice 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　志賀の意向も、梧桐組とインフェルノの関係も、実のところサイスは眼中になかった。
+
+　いずれドライに追いつめられたアインとツヴァイが、窮鼠よろしく牙を剥くとき……サイスの手がけた作品たちの、夢の競演が実現する。
+
+　当然、
+このツァーレンシュヴェスタンも、
+参加させない手はあるまい。
+
+　習作のアインが、そして実験作のツヴァイとドライが、このサイスの理想の具現たる親衛隊の少女たちと、はたしていかなる戦い方を演じるのか。
+
+　思い描くだけで、サイスは胸の高鳴りを抑えられない。
+
+<CLEAR><BACKGROUND SRC="ak_74_000">//# ak_74_000 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　小道具は、いつものようにロシアン・マフィアのつてを辿って取り寄せた、AK74突撃銃。
+　ミカエル＝カラシニコフの手による名品である。
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# bay3 1 sice 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　舞台が、こんな極東の島国というのは惜しい話だが、おかげで横槍はほとんど入らない。サイス一人の貸し切りだ。
+
+　あとは、開幕のベルを待つのみ。
+
+<calc workname="gun01" operator="1" mode="global">
+<A HREF="3580.txt" OPERATOR="">//~ 3580

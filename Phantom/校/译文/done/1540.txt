@@ -1,0 +1,69 @@
+//> left villa wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="villa">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="right">//# elen6^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……为什么要到这里来？」
+
+<BOX type="0">//%w
+　{ヒロイン}应该非常不理解为什么我要选择路过这里吧。
+
+　因为我不想像上次那样十分辛苦地逃亡。
+  虽然只是临时想到的主意，但毕竟有冒险的价值。
+
+　位于箭头湖畔的、艾扎克·维斯梅尔的别墅……
+　没想到自己会再次来到这里。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　和我预料的一样，那只手提箱还在原来的地方。
+
+　这几天Inferno连续受到的打击，已经使他们忘记了艾扎克的死，以及从梧桐组手中消失的那笔巨款。
+
+　500万美金。
+  作为两个人的逃亡资金已经绰绰有余了。
+
+　这时，我想起了第一次看到这些钞票的那个晚上。
+
+<CLEAR><BACKGROUND SRC="1050p1">//# 1050p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔……
+
+　这些钞票里包含的是凯尔的愤怒与悲伤。
+  可我却要靠这个来继续活下去。
+
+<CLEAR><BACKGROUND SRC="1070p2">//# 1070p2 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一直在欺骗她、利用她，最终得到了这样的结果。
+  事到如今，我即使想补偿她也无法实现了。
+
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔……
+
+　你肯定会生气吧，肯定会恨我吧。
+
+　可是，抱歉啊，凯尔。
+  你所在的那个世界，我暂时还不能过去。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　因为，我还有必须要做的事情…………
+
+<A HREF="1580.txt" OPERATOR="">//~ 1580
+
+　

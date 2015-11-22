@@ -1,0 +1,128 @@
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，我们也没想到事情还有下文」
+
+「到最后，我们只是她跟梧桐组联手的踏板而已」
+
+「一边为了灭口而袭击我们，一边趁乱将自己的敌人消灭……」
+
+「真不知道她的内心狠毒到什么程度了」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我再也不管Inferno什么的了」
+
+「被欺负成这样还不做声，我就不是梧桐大辅了」
+
+<BOX type="0">//%w
+　梧桐大辅咬牙切齿地说着。
+  比起刚才的大声吼叫，他现在给人的感觉更加狰狞恐怖。
+  现在的他，已然是无所畏惧了。
+
+　可是，我只是想笑。
+
+　不管是谁，都只是照着剧本舞蹈的人偶。
+
+　克劳蒂娅……
+　你是一个怎样的女人呢。
+
+　不管是谁，都从一开始就被她玩弄于股掌吗？
+
+　……可是，太奇怪了。
+　的确有人想取梧桐组众人的性命，可那绝不是克劳蒂娅。
+
+　她比谁都更想知道那个杀手的真面目。
+  正是因为一直作为她唯一的前锋而四处奔走，我才能如此断言。
+
+　敌人，另有其人。
+
+　那家伙打算在彼此都藏有秘密的梧桐组与克劳蒂娅之间打下名为疑神疑鬼的楔子，从而制造裂痕。
+
+「梧桐先生，真的不是我们干的，请相信我们」
+
+「克劳蒂娅一直在派我寻找着袭击你们的家伙」
+
+「那家伙算计了我们所有人」
+
+「你在这里引发事端的话，就正中那家伙的下怀了!!」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「最后的台词还真是老套啊」
+
+「赶快从舞台上滚下来吧，现在轮到我们登场了」
+
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="0">//%w
+　梧桐大辅从怀中掏出柯尔特半自动手枪，用黑洞洞的枪口对准了莉兹。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　糟了……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+打破寂静的不是梧桐大辅的枪声。
+莉兹并没有倒下，取而代之的是，梧桐组的一个小弟的脑袋被打开了花。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　持续轰鸣的枪声。
+  撕破夜雾的曳光弹。
+  闪烁的光芒像闪电一样照亮了夜空。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　这是突击步枪的扫射。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1430x1">//# 1430x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在那里……集装箱上面!?
+
+<se id="2" src="嫵夛儎僋僓廵寕" mode="normal" time="" loop="on" effect="">//!se 
+　不知道枪手位置的梧桐组只能一边咒骂着，一边举枪乱射。
+
+　梧桐大辅也是一样。
+  顿时，在我和莉兹的眼前，怒射向敌人的子弹在漫天飞舞着。
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+　在场的众人如果具备立刻散开的判断力，或许伤亡还不至于这么惨重。
+  可是，他们只是一群没怎么受过训练的混混。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　甚至连如何在弹雨中隐蔽都不知道，十几个男人就在怒骂和悲鸣声中，一个个地倒地身亡了。
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「莉兹！」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喔!!」
+
+<se id="2" src="嫵夛儎僋僓廵寕" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="攇屗応僶僀僷乕">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　还没等我喊完，她就甩开了陷入恐慌的梧桐组众人，迅速钻进了她的Viper。
+
+<BOX type="4">//%sL
+「开溜了哦，Phantom!!」
+
+「快上来!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+<A HREF="1445.txt" OPERATOR="">//~ 1445
+　

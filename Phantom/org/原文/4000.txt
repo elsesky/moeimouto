@@ -1,0 +1,52 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="2">//%w
+　翌日……
+
+　多くの生徒を憂鬱にさせた期末試験は、誰も予想しなかった理由で、一日、先延べにされた。
+
+　週末から始まった旧礼拝堂の撤去工事で、着工早々に、戦時中の不発弾が発見されたのだ。
+
+　もちろん、当日まで耳にしたこともなかった礼拝堂撤去の工事計画に首を傾げた者は少なからずいたし、
+
+　そもそも戦中当時、まだ開拓もされていない山林だった筈の場所から、いったいどうして不発弾など出てくるのか、突き詰めれば謎は謎を呼んだであろうが、
+
+<CLEAR><BACKGROUND SRC="schoolway2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　ともかく撤去作業のために学園は封鎖され、生徒たちは、不意に手に入った猶予期間を、諸手を上げて歓迎した。
+
+　偶然、同じ週末に不審火のあったという化学室も、人知れず春休みの間に修復され、
+
+　十数年の永きにわたり取り壊しが見送られていた礼拝堂も、わずか数日のうちに更地になった。
+
+　山間の学園を、たった一日だけ騒がした事件は、それきり誰に追究されることもなく、人々の記憶の片隅に追いやられていった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 0235x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="0235x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　新学期。
+　新たな学年を迎える生徒たちは、皆それぞれに新たな想いを懐き……
+　そんな彼らに、過ぎた日を顧みる余裕などあるはずもない。
+
+　何の前触れもなく“転校”して学園を去った帰国子女の兄妹についても、憶測を巡らす者はいなかった。
+
+　恋に、学業に、将来に……
+　思いを馳せることは、いくらでもある。
+
+<A HREF="4002.txt" OPERATOR="3990=1">//~ 4002
+<A HREF="4004.txt" OPERATOR="">//~ 4004

@@ -1,0 +1,287 @@
+//> left room3 wide 255 inferuno2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いよぅ兄弟。待たせてくれたな」
+
+<BOX type="0">//%w
+「あんたがいつから、俺の兄弟になった？」
+
+<BOX type="5">//%sR
+「そう邪険にするモンじゃねぇ」
+
+「俺はなファントム。
+　これでもオマエのことは
+　高く買ってるんだぜ」
+
+<BOX type="0">//%w
+「用件は何だ？」
+
+「さっさと済まそう。お互い、明日は忙しい身だ」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そいつぁイイな。俺も回りくどい話は嫌いなタチだ」
+
+「じゃあ、結論から言おう。
+　クロウディアを切って俺につけ。
+　それがオマエの身のためだ」
+
+<BOX type="0">//%w
+　呆れて、真面目にとりあう気にもなれなかった。
+
+「笑えない冗談だな」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「冗談じゃねぇさ。本気だ」
+
+<BOX type="0">//%w
+「ならお笑いぐさだ」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「間の抜けた話だと思うなら、
+そりゃオマエが間抜けだからだぜ。ファントム」
+
+「一体いつになったら、オマエ、
+　あの女の本性に気付くんだ？」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「見てられねぇんだよ」
+
+「このままじゃオマエ、
+　ロメロの二の舞だぜ」
+
+<BOX type="0">//%w
+「あんたに殺される、ってのか」
+
+　鼻で笑ってやった。
+　ワイズメルともあろう男が、陳腐な脅し方をするもんだ。
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「悲しいねぇ。まさかお前、俺が
+　ロメロを殺ったと思ってるのか」
+
+<BOX type="0">//%w
+「……？」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「生憎だが、俺じゃねぇ」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「知りてぇか？」
+
+「ちょいと俺の思い出話に
+　付き合えば、わかることさ」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「まぁ座れよ」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1240x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="1240x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+//<BOX type="4">//%w
+　話は5年前に遡る。
+　……俺とマグワイヤが組んで、インフェルノの基盤ができ始めた頃だ。
+
+　当時ストリートに、とんでもねぇ勢いで力を伸ばし始めたギャング団があった。
+
+　そいつら、正体はまるきりクズの集まりだったがよ。リーダーが図抜けてたんだな。
+
+　ヒスパニックのチンピラがフランス人の売春婦に孕ませた小僧で、ガキのくせに頭は切れるし度胸はあるし、まぁ大したタマだったよ。
+
+　そいつの名は
+　ロメロ＝メスカーソ。
+
+<CLEAR><BACKGROUND SRC="1240x2">//# 1240x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="1">//%m
+　だがロメロの本当の強みはな、マフィアのバックアップを受けてたことさ。当時ロスの暗黒街を仕切ってたサバティーニ＝ファミリーが、ロメロに肩入れしてたんだ。
+
+　サバティーニと俺の『ブラディーズ』は、まぁ言ってみりゃ宿敵っつうかよ。
+
+　俺はマフィアを蹴落としてロスの覇者になる気でいたし、サバティーニも俺らを潰すためなら何でもやった。ロメロを可愛がったのも、俺の対抗馬にする腹だったんだろうな。
+
+　ところで、だ。そのサバティーニのボスは若い情婦を囲ってた。実はこいつがロメロの姉貴でな。お前もよく知ってるご婦人よ。
+
+<CLEAR><BACKGROUND SRC="1240x3">//# 1240x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="5">//%w
+　そう、我らがクロウディア＝マッキェネンさ。
+
+　一体どういう経緯で、クロウディアがサバティーニの懐に転がり込んだのかは解らねぇ。
+
+　ロメロの野心を手伝うためにヒヒ爺ィを誑し込んだのか、それとも逆に、サバティーニの玉の輿に乗りたくて弟を利用したのかもしれん。
+
+　まぁどっちにしたって、ロメロのギャング団とサバティーニ＝ファミリーは身内同然の中だったってワケよ。
+
+　さて、いよいよロメロが俺のシマを荒らし始めて、ストリートに血の雨が降りだした。裏に控えるサバティーニも乗り出して、とうとう全面戦争さ。
+
+　ところが、ここに至ってクロウディアが、俺のバックに勘付いた。
+
+　俺が南米の麻薬王とつるんで、インフェルノっていうドでかい組織を立ち上げようとしてたのを、どういう訳か、あの雌犬が嗅ぎつけたのさ。
+
+　旨い話と思っただろうな。淫売の身からしてみりゃよ、汁気たっぷりの極上のストーリーだ。
+
+　あいつは、どうあっても俺達の計画に、一枚噛みたいと思うようになったのさ。身内から何から一切合切を投げ捨ててでも、な。
+
+<CLEAR><BACKGROUND SRC="1000x9">//# 1000x9 1
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="5">//%w
+　で結局、あいつは俺とマグワイヤの側に鞍替えした。
+
+　俺の手下をクローゼットに隠れさせてよ。哀れドン＝サバティーニは、愛人宅のベッドルームにて、9ミリ＝パラで蜂の巣だ。
+
+<CLEAR><BACKGROUND SRC="1240x4">//# 1240x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="5">//%w
+　弟のロメロの方は、姉貴みずからがホテルに呼び出し、直々に撃ち殺した。
+
+　驚きだったぜ。あの女、裏じゃロメロとも寝てやがったのさ。哀れなギャング小僧はお供も連れず、鼻の下伸ばしてやってきた所を眉間にズドン……
+
+　まったく、
+　とんだ姉弟がいたもんだ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room3 wide 255 inferuno2^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「言っとくが、
+　ノンフィクションだぜ」
+
+「俺が信用できなけりゃ、
+　マグワイヤにも掛け合ってみな。
+　裏が取れるさ」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうだい？　感想の程は？」
+
+<BOX type="0">//%w
+「……反吐が出そうだ」
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そりゃそうだろうよ」
+
+<BOX type="0">//%w
+「あんたの息は、臭すぎる。長話は耐えきれない」
+
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="right">//# inferuno2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「用が済んだんなら、帰らせてもらう」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……後悔するぜ、ファントム」
+
+<BOX type="0">//%w
+　ワイズメルの憎まれ口には、ただ冷笑だけを返して、
+　あとは振り返りもせずに部屋を出た。
+
+　帰りは、ランディに送らせるつもりはない。
+　金輪際、こいつらとの馴れ合いは、お断りだ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ワイズメルの話は、鵜呑みにする根拠などないが……
+　頭から否定する材料だってない。
+
+　奴の心算では、ロメロに関する打ち明け話は、
+　切り札になると信じていたのだろう。
+
+　事実無根の作り話に、それだけの自信を持てるわけがない。
+
+　たしかに想像を絶した話だったが、
+　だからといって、動じるつもりはなかった。
+
+<BOX type="5">//%sR
+“もう、
+　とっくに汚れきってるのよ……”
+
+<BOX type="0">//%w
+　いつか、そう呟いていたクロウディア。
+　彼女の涙が、すでに全てを語っていた。
+
+　あのとき、心は決めていた。
+　決して過去など問うまいと。
+
+　だからワイズメルの話など、耳を貸すつもりは毛頭ない。
+　真偽を問う価値さえない。
+
+　いずれ時が満ち、
+　アイザック＝ワイズメルをこの手で殺す時が来たとしても、
+　もう一瞬の躊躇さえ感じないだろう。
+
+　単にクロウディアへの中傷が腹立たしいわけではない。
+　ワイズメルの物語は、掛け値なしの真実かもしれないし、
+　奴は本気で、ロメロの二の轍を踏もうとしている愚か者を、
+　心配しているのかもしれない。
+
+　そもそも、取り合う気などないのだから、怒りを懐くいわれさえない。
+　だからワイズメルへの感情は、
+　ただの怒りを飛び越えて、シンプルな殺意に直結していた。
+
+　闇に葬られねばならないクロウディアの過去。
+　奴はそれを記憶に留めており、あまつさえ、その渦中に身を置いていた。
+　そんな男がまだ生存しているということが、許せない。
+
+　奴の存在そのものが、愛する人の屈辱なのだ。
+
+<A HREF="1250.txt" OPERATOR="">//~ 1250

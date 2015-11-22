@@ -1,0 +1,36 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right slum3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="アイン走り2" mode="normal" time="" loop="off" effect="">//
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="slum3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　恐い。
+
+　裏路地を駆け抜けながら、
+　嗚咽が口を割って出る。
+
+　暗く狭い路地の背後から、
+　追っ手の駆ける足音と罵声が、
+　幾重にも反響して聞こえてくる。
+
+　こんなにも自分は弱かったのか？
+
+　もっと危険な窮地を、
+　何度も脱してきたはずなのに……
+
+　今は怯えて逃げるだけなのか？
+　冷静になることも、
+　反撃することもできないのか？
+
+<CLEAR><BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　涙に視界を曇らせたまま、
+　路地の角を曲がったその途端、
+
+<A HREF="0270c.txt" OPERATOR="">//~ 0270c

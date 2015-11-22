@@ -1,0 +1,200 @@
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だが俺たちも、まさか筋書きに
+　続きがあるとは思わなかった」
+
+「まさか最後にゃ、
+　俺たちを抜きにして梧桐組と
+　繋がる腹だったとはな」
+
+「口封じに俺たちをバラす一方で、
+　ドサクサに紛れて自分のライバル
+　まで消しやがった……」
+
+「どこまで
+　腹黒いんだか知れねぇや」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+「もうインフェルノも何も
+　知ったこっちゃねぇ」
+
+「ここまで舐められて
+　黙っていられる
+　梧桐大輔じゃねぇんだよ」
+
+<BOX type="0">//%w
+　押し殺した梧桐の声は、なまじ大声で吼えるより、
+　なお獰猛な気配があったが、
+　もう、それに臆するだけの心も、持ち合わせてはいなかった。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<CLEAR><BACKGROUND SRC="0320p1">//# 0320p1 1 dummy 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{ヒロイン}……
+
+　何のために二人、傷ついて、泣いて……
+　何のために二人が戦った？
+
+<CLEAR><BACKGROUND SRC="0340p2">//# 0340p3 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　すべて、クロウディアが仕組んだことだったのか？
+
+　信じられない。
+　信じたくない。
+
+　鵜呑みにするには、梧桐の話は、あまりに残酷すぎた。
+
+<CLEAR><BACKGROUND SRC="bay3">//# godo^3 20  bay3 1 
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20  bay3 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ケッ、
+ようやく気付いたってツラだなぁ？
+手前ェの馬鹿さ加減に」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「下司野郎!!」
+
+「信じねぇぞ!
+　アタシゃ信じねぇぞ!!
+　薄汚ねぇ盗ッ人野郎!!」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「落ち着けや、姐さん」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「インフェルノを舐めるなよ……
+　貴様ら地獄の果てまで追ってでも
+　ツケは払わせるからな!!」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「話せる奴かと思ったが、
+こりゃとんだ藪蛇だったようだな」
+
+「おたくがそういう覚悟なら、
+　ここは生かしちゃ帰せねぇ」
+
+<se id="2" src="rist" mode="normal" loop="off">
+<BOX type="0">//%w
+　梧桐が、手にしたベレッタをリズィに向ける。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　まずい……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　静寂を破ったのは、梧桐の拳銃ではなく、
+　リズィより先に脳天を撃ち抜かれたのは、
+　取り巻きのヤクザの一員だった。
+
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　続けざまに轟く銃声。
+　夜霧を切り裂く曳光弾。
+　マズルフラッシュの閃きが、稲光のように夜空を照らす。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　突撃ライフルの掃射だった。
+
+//<se id="3" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1430x1">//# 1430x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　あそこだ……すぐ頭上のコンテナの上!?
+
+<se id="1" src="教会ヤクザ銃撃" mode="normal" time="" loop="on" effect="">//!se 
+　だが、まるで位置が読めていないヤクザたちは、
+　ただ銃声に負けじと罵声を張り上げながら、
+　盲滅法に銃を撃ちまくるほかない。
+
+　梧桐とて同然だった。もはや虜囚の二人は眼中になく、
+　見えざる敵に怒りの銃弾を撃ちまくっている。
+
+<se id="2" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+　その場にいる全員が、即座に散開する程度の判断力を備えていれば、
+　まだ被害も抑えられただろうが、
+　そんな訓練とは無縁な無頼漢の群れである。
+
+<se id="3" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+　襲いくる弾丸の雨から、身を隠す術すらなく、
+　十余人の男たちは、怒声と悲鳴を張り上げながら、
+　次々と絶命していった。
+
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「リズィ!」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「おうよ!!」
+
+<se id="2" src="教会ヤクザ銃撃" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="波戸場バイパー">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　呼ぶまでもなく心得たもので、
+　彼女一人は恐慌に陥ったヤクザたちを後目に、
+　さっさとヴァイパーに飛び乗っていた。
+
+<BOX type="4">//%sL
+「ずらかるぞ、ファントム!!」
+
+「乗りな!」
+
+<CLEAR><BACKGROUND SRC="1430x1">//# dummy 19 1430x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　リズィに促されながらも、頭上で瞬くマズルフラッシュを一瞥する。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　奴だ……
+
+　最初の麻薬取引に出向いた4人のヤクザを殺し、
+　2キロ先からホテルの会談を狙撃し……
+　そして恐らくは、ラスベガスで室戸を殺した、あの女。
+
+　エレベーターで見た一刹那の幻影が、脳裏を去来する。
+
+<BOX type="4">//%sL
+「おい!　どうした!?」
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="" mode="fadeout" time="30">
+<se id="3" src="" mode="fadeout" time="30">
+//<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+<CHOICE HREF="1445.txt" TEXT="＊逃げる" OPERATOR="0260=1"></A>//{ ＊逃げる 1445 ＊襲撃者を確認する 1450b
+<CHOICE HREF="1450b.txt" TEXT="＊襲撃者を確認する" OPERATOR="0260=1"></A>//{ ＊逃げる 1445 ＊襲撃者を確認する 1450b
+
+<A HREF="1445.txt" OPERATOR="">//~ 1445
+　

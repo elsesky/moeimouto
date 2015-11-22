@@ -1,0 +1,169 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right court2c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="court2c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="zs6" face="" MODE="on" zoom="" ALIGN="right">//# zs6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　逃走する2名に気付いたのは、
+　中庭にいたゼクスだった。
+
+　訓練された動きではない。男と、女……ツヴァイに同伴した藤枝美緒と、その後から校内に逃げ込んだ志賀透であろう。
+
+　小さく歯を打ち鳴らし、
+　散会中の他のメンバーに
+　モールス信号で報告しながら、
+　ゼクスは木陰からAK74を構える。
+　無論、両名とも抹殺対象である。
+
+　そこでふと、彼女の戦術判断が、別の可能性を示唆した。
+
+　あの2名が囮である可能性。
+
+　藤枝美緒はツヴァイと戦術的に連携している可能性が高い。
+　彼女を逃がすと見せかけて、ツヴァイはこちらの反応を窺う気だろうか？
+
+　ゼクスは、
+　刷り込まれた判断基準に忠実に、
+　取るべき行動を決定した。
+
+　囮には囮。
+
+　このまま物陰から標的を狙い撃つことも可能だが、
+　ここは発砲の前に、敢えて一旦、姿を晒すことにする。
+
+　もし標的がツヴァイの援護を受けているならば、応射等の反応が得られよう。そうなればツヴァイの位置も露見する。
+
+　再びモールスで援護を求めると、フェンフ、ズィーベ、アハトから応答があった。中庭を射界に収めているのは、現在、ゼクス以外にはこの3名なのだ。
+
+　逃走者2名は、
+　ゼクスの潜む場所めがけて、
+　何も気付かずに駆け寄ってくる。
+
+<CLEAR><BACKGROUND SRC="court^d">//# court^d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　その眼前に、
+<se id="1" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+　やおらゼクスは躍り出た。
+
+<BOX type="4">//%sL
+「!!」
+
+<BOX type="5">//%sR
+「な……!!」
+
+<BOX type="2">//%w
+　藤枝美緒が驚愕に息を呑み、
+　慌てた志賀透が
+　手にしたP7を振り向ける……
+
+<BUSTUP NAME="zs6" face="" MODE="on" zoom="" ALIGN="left">//# zs6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　だがそれよりも早く、ゼクスが腰溜めに構えたカラシニコフは、5.45mmロシアン高速弾のシャワーで
+両名を八つ裂きにする……
+
+　……はずだった。
+
+<bgm src="" mode="fadein" old="fadeout" time="1" loop="on">//$ 0 _1 0
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+　だが全ての予定を覆したのは、
+　何よりも真っ先にゼクスの眉間を撃ち抜いた9mmパラベラムの一撃だった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　美緒と志賀の動きに、まんまと釣られて出てきた一人を、
+　まず昇降口から狙撃して倒した。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　間髪入れず、対面の西棟校舎の２階と３階、
+　それに今いる東校舎の屋上から、
+　カラシニコフの猛連射が一斉に昇降口に浴びせられる。
+<se id="2" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ガラスと、
+　それに木っ端微塵に粉砕された靴箱の破片が飛び散る中を駆け抜けて、
+　校舎の奥まで逃げ戻りながら、内心ではほくそ笑んでいた。
+
+　ひとまずは、思惑通りだ。
+　さっきの狙い撃ちで連中は、
+　逃げる二人が囮になっているものと思い込んだに違いない。
+　今からは脇目もふらずに、本命のこちらに攻撃を集中させるだろう。
+
+　敢えて美緒たちを危険に晒したことで、
+　奇しくも二人の安全は確保できた。
+
+　後は……敵に息をつく間も与えぬよう、派手に暴れまくるだけだ。
+　志賀が美緒を逃がす時間を、少しでも稼がねば。
+
+//> right court3c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="court3c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　ターゲット＝ツヴァイは東校舎1階、中央昇降口付近。
+　現状の武装で籠城はあり得ない。移動しながらのゲリラ戦を展開するものと予想される。
+
+<CLEAR><BACKGROUND SRC="passage5d">//# zs4 19 dummy 20 passage5d 1
+<BUSTUP NAME="zs4" face="" MODE="on" zoom="" ALIGN="left">//# zs4 19 dummy 20 passage5d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　東棟3階、フィーアより報告。
+　すでに同階は確保済み。
+
+<CLEAR><BACKGROUND SRC="schooltop3">//# zs8 20 dummy 19 schooltop3 1
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="right">//# zs8 20 dummy 19 schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　東棟屋上、アハト。
+　ターゲットを視界から喪失。
+　現在もツヴァイは、
+　東棟内にいる模様。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　結論、共通判断……
+　既に東棟にいるアハト、フィーアは、校舎両端の階段を3階から制圧。
+
+　フェンフ、ノインは速やかに東棟に移動し、連携して１階を掃討。
+
+　西棟2階のズィーベは、そのまま渡り廊下まで移動して待機。2階唯一の脱出路を封鎖。
+
+　以上……
+
+<A HREF="3930.txt" OPERATOR="">//~ 3930
+
+
+ﾈ上……
+
+<A HREF="3930.txt" OPERATOR="">//~ 3930

@@ -1,0 +1,142 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="door2" mode="normal" time="" loop="off" effect="">//!se door2
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「サイスッ!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　ドアを蹴破らんばかりの勢いで現れたリズィの剣幕で、サイスは即座にドライの件だと察したが、勿論、そんなことはおくびにも出さなかった。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ファントムはどうした!?
+　手前ェ、
+　また何か企んでるのかッ!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ファントム？」
+
+「はて？　今日はてっきり
+ミズ＝リズィにお供しているものと
+ばかり思っていましたが」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「姿が見えねぇ。くそう、
+　ちょっと目を離した隙に……」
+
+<BOX type="2">//%w
+　数日前にも、あの無軌道な少女は無断でホテルを抜け出していた。
+　幸い、何事もなく夜半には戻ってきたが……
+
+　だが、今度は違う。
+　すでにリズィは
+　最悪の展開を予期していた。
+
+　何しろ、ホテルの部屋から消えた
+　武器弾薬の量が、尋常ではない。
+　今度こそ、
+　事を起こす気なのは明白だ。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「フム、それは危ういですなぁ」
+
+「野放しになると
+　何をしでかすことやら……
+　私でも判断つきかねます」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「行きそうな所なら、
+　見当はつく……」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「マグワイヤと志賀に連絡を。
+　アタシはすぐに追う」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　吐き捨てるように指示だけを飛ばし、リズィは現れた時と同じ荒々しい足取りで、サイスの部屋を出ていった。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「で、お二方の小言を
+　聞かされるのは私かね？
+　やれやれ……」
+
+<BOX type="3">//%m
+　さも迷惑そうにかぶりを振ったあと、残されたサイスは一人、頬を綻ばせた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「賽は投げられた、か……」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right mio_room3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="mio_room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="4" MODE="on" zoom="" ALIGN="right">//# mio2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……はぁ」
+
+<BOX type="2">//%w
+　ノートから顔を上げて時計の針を確かめ、美緒は溜め息をついた。
+
+　根を詰めすぎたせいか、
+　いつもより睡魔の訪れが早い。
+
+とはいえ、
+今日で憶えなければならない構文は
+まだノート1ページぶん残っている。
+
+<BOX type="5">//%sR
+“集中力、なくなってるよね”
+
+<BOX type="2">//%w
+　普段なら、試験前の準備に
+　ここまで難儀する美緒ではない。
+
+　自分でも判るほど、
+　集中力が落ちていた。
+　正念場にもかかわらず、
+　別のことに気が散って仕方ない。
+
+<A HREF="3410.txt" OPERATOR="3345=1">//~ 3410
+<A HREF="3420.txt" OPERATOR="">//~ 3420

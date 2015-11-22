@@ -1,0 +1,13 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　飛び起き、女の子に背を向けて、逃げ道を探す。
+　出口はないのか？　扉は？　窓は？
+
+　ろくに辺りを見回す暇もなく、背後から殺気。
+　走ろうとした足がもつれて、また床に転んでしまった。
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　すぐ頭上の空気をナイフが切り裂く。
+
+<A HREF="0010d.txt" OPERATOR="">//~ 0010d

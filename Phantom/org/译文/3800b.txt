@@ -1,0 +1,125 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left mio_house2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="mio_house2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+带着一丝的希望，我来到了美绪的家。
+
+万一美绪已经被释放了……
+这样的期待果然还是落空了。她的家里似乎没有人在。
+
+玄关的门大敞着。
+环视周围，确认没有被人看到以后……我走进美绪的家。
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+美绪房间的桌子上放着打开的笔记本和文具。
+看上去就像是在学习的时候中途离开了一样。
+
+礼拜三的晚上，美绪是在自家附近被凯尔绑架的吗？
+
+如果试着推想那个时候的情形，说不定能够发现什么线索。
+虽然我这样想，可对房间的搜索最后还是以徒劳收场。
+
+窗外的夕阳正缓缓下沉。
+时间一分一秒地流逝着。
+
+自己已经束手无策，不知该怎样继续寻找美绪了。
+我坐在美绪的床上，绝望地抱着头。
+
+自己……没有遗漏什么吗？
+在预测{ヒロイン}和凯尔的行动上，没有做出什么错误的判断吗？
+
+<CLEAR><BACKGROUND SRC="school2b">//# elen7^2 20 school2b 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 school2b 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+首先是{ヒロイン}。
+在这种时候，她肯定会理性地采取行动，应该不会不顾一切地追寻凯尔的踪迹。
+
+……真的是这样吗？
+如果是过去那个被称作Phantom、被称作Ein的{ヒロイン}，的确会是这样。
+
+<CLEAR><BACKGROUND SRC="3010p2">//# 3010p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+可是，经历了2年的逃亡生活，她的内心已经发生了很大的变化。
+
+这样的{ヒロイン}，还会像过去那样采取行动吗？
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+接着是……
+无视肆意行动的自己、始终保持着沉默的凯尔。
+如果她放弃了对我的监视，那又在做着什么呢？
+
+<CLEAR><BACKGROUND SRC="coffeeshop">//# drei^6 19 coffeeshop 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19 coffeeshop 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「我会不断地折磨你……」
+
+「最后再给你致命一击」
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1  dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+最后……
+折磨我的最后一招……
+
+我终于理解凯尔的意图了。
+
+<CLEAR><BACKGROUND SRC="3240p3">//# 3240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+她的目标是{ヒロイン}。
+说起来凯尔最初的袭击便是对{ヒロイン}的挑战。
+
+而且，{ヒロイン}也毫不畏惧地只身应战。
+那一天，她的确打算不与任何人商量、仅凭一己之力将事情摆平。
+
+这两个人……
+打算为那一天的决斗画上句号吗？
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+绝望感涌上心头。
+事态正朝着最糟糕的方向发展下去。
+
+<BOX type="0">//%w
+镇静下来。
+冷静地想一想。
+
+在日本，{ヒロイン}和凯尔都知道的地方。
+进行决斗不会受到任何人打扰的地方。
+没有旁人、谁也不会注意到的地方……
+
+<CLEAR><BACKGROUND SRC="school1b">//# school1b 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+不用想，肯定是蓧仓学院。
+
+平常的礼拜日那里也许会有精力充沛的学生在进行社团活动。
+可是，只有大考临头的今天是个例外。
+孤零零地建在山中的校舍应该会空无一人。
+
+<CLEAR><BACKGROUND SRC="mio_house2">//# mio_house2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+既然如此，自己便一刻都犹豫不得了。
+蓧仓学院距离这里足足有1个小时的路程。
+
+拜托了……一定要赶上啊……
+
+<A HREF="3615.txt" OPERATOR="">//~ 3615

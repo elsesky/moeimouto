@@ -1,0 +1,179 @@
+<BUSTUP NAME="elen2" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　覆い被さるようにして、女の子がナイフを突き下ろしてきた。
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　声にならない悲鳴を上げながら、床を転げ回って避ける。
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　彼女は本気だ。それに、おそろしく動きが速い。
+　重いナイフを無造作に、馴れた手つきで軽々と振ってくる。
+　まるで、テレビに出てくる殺し屋のように。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　どういうことだ？　一体こいつらは誰なんだ？
+　何一つ解らない。
+　が、確かなことが、一つだけ。
+
+　今、彼女から気を逸らしたら……
+　余計なことを考えていたら、殺される。
+
+　女の子の目を見据え、
+　渡されたナイフを前に突き出して、慎重に立ち上がった。
+
+　黒く、深く、冷たい瞳。
+
+　……そうか。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="アインナイフ通常">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+　やっとわかった。
+　これはさっきの夢の続きだ。
+　まだ夢の中にいるんだ。
+
+　追いかけてきた黒い瞳……あれは、この女の子だったんだ。
+
+　それなら何も、とまどう必要なんてない。
+　これはただの夢なんだから。
+
+　ともかく、生き延びることだけを、逃げきることだけを考えればいい。
+
+　そして、もし逃げきれないのなら、そのときは……
+
+　殺さなきゃ。
+　殺される前に、殺さなきゃ。
+
+　だが、どうすればいい？
+
+　彼女は明らかにナイフの扱いに馴れている。どう考えても勝ち目はない。
+
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　部屋のどこかで、誰かの忍び笑いがする。
+　さっきの銀髪の外人……
+　彼女を“ファントム”と呼んでいた、あの男。
+
+　さっき、あいつは女の子に英語で何か命令していた。
+　だとすると……
+
+　間合いを計りながら、ゆっくりと、横歩きで移動した。
+
+　女の子は動かない。悠然とナイフを構えたまま、
+　身体の向きだけを変えてくる。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……いた。
+　視界の隅に、あの銀髪の外人の姿が入る。
+
+　男は興奮している様子だった。
+　ナイフを構えて睨み合う二人を、熱っぽい眼差しで眺めている。
+
+　一瞬でいい。
+　女の子の注意を、何か他に逸らすことができれば……
+　多分、勝ち目は他にない。
+
+　危険を承知で、女の子から視線をはずし……
+　そして銀髪の男を睨み据える。
+　雄叫びを上げてナイフを振り上げ、男をめがけて投げつけようとした。
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　一瞬、だが明らかに、女の子は動揺した。
+
+<BUSTUP NAME="アインナイフ" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　男を庇おうとするかのように、間に割り込んでくる。
+
+　待ち望んでいた、一瞬の隙。
+　今しかない。
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="room1">//#! room1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　ナイフを投げかかった姿勢のまま、女の子に体当たりをかけた。
+
+<se id="2" src="床に転がる" mode="normal" time="" loop="off" effect="">//!se down
+　もつれ合うようにして、二人とも床に転がる。
+　女の子は完全に尻餅をついたが、こちらはすぐ膝立ちになれた。
+　間髪入れず飛びかかり、倒れた相手に掴みかかる。
+
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　なぜか、まったく怖くなかった。
+　いくら夢とはいえ、人を殺そうとしていたのに……
+
+　まるで自分ではなく、
+　振りかざしたナイフの方が、意志を持っているかのようだった。
+
+　そしてなぜか、彼女もまた、怯えている風には見えなかった。
+
+　むしろ悲しむような、哀れむような……
+　最後にそんな眼差しで、見返されたように思う。
+
+//もえらＳＥ追加
+<se id="1" src="傷口をナイフで刺す" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="アインナイフ刺さる">//
+<WIPE EFFECT="fade" TIME="10">
+
+
+<box type="0">
+　振り下ろしたナイフの先で、確かに、赤い血が見えた。
+
+<se id="2" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="0">
+<clear>
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="0">
+<box type="0">
+　同時に、貫くような衝撃に、真下から顎を襲われる。
+　彼女が仰向けのまま繰り出した、強烈なアッパーパンチ。
+　目の前が真っ白になる。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<BOX type="6">//%w
+<font color="#010101">
+　どこか遠くで、あの銀髪の外人が、興奮した声で喋っている。
+
+『“Zwei”……You are “Zwei”』
+　……何のことだろう？
+　やはり意味が分からない。
+
+『あなたの名前よ』
+
+　不意に、耳元で声がした。
+　あの哀しい目をした女の子の声。
+
+『あなたの名は、
+　今日から“ツヴァイ”……』
+
+　ツヴァイ？
+　何だそれは。どういう意味だ？
+　名前が、どうしたって？
+
+　ここは、一体、どこなんだ……
+</font>
+
+<A HREF="0015.txt" OPERATOR="">//~ 0015

@@ -1,0 +1,53 @@
+//> right 1135p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1135p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「呐，梧桐……」
+
+<BOX type="5">//%sR
+「放心吧。我还没有打算两手空空的返回日本」
+
+「要是不能在这里和Inferno搭上关系，就只能破产了」
+
+「我们还没打算沦落到潦倒的境地」
+
+<BOX type="4">//%sL
+「可是，你的部下……」
+
+<BOX type="5">//%sR
+「志贺吗？ 别担心，他只是个提意见的」
+
+「你还是多注意一下自己的事吧，克劳蒂娅」
+
+「最近混的不太好吧？」
+
+<BOX type="4">//%sL
+「……被你看穿了？」
+
+<BOX type="5">//%sR
+「枪打出头鸟，这在哪个国家都一样」
+
+「如果能有Inferno作为稳固的货源，整个日本都将成为梧桐组的东西」
+
+「无论是中国、香港还是台湾，都再也不能阻挠我们」
+
+「之后，梧桐组一家3000人都将成为你的后盾」
+
+<BOX type="4">//%sL
+「真可靠呢」
+
+<BOX type="5">//%sR
+「这是你的投资对吧？既然这样，先分给我一些红利好了」
+
+<A HREF="1140.txt" OPERATOR="1133=1">//~ 1140
+<A HREF="1152.txt" OPERATOR="1111a=1">//~ 1152
+<A HREF="1154.txt" OPERATOR="1113a=1">//~ 1154
+<A HREF="1156.txt" OPERATOR="1114a=1">//~ 1156
+<A HREF="1158.txt" OPERATOR="1127=1">//~ 1158
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

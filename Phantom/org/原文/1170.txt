@@ -1,0 +1,66 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left vegas wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="vegas">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　生き残ったヤクザたちの監視を始めて、一週間が経過していた。
+　一昨日から連中は、ここラスベガスにまでツアーを組んで豪遊中である。
+
+　何の緊張感もなく、観光気分で遊び呆けている梧桐たちが相手なら、
+　気取られないよう監視するのは、造作もないことだった。
+
+　むしろ、同様に梧桐たちを見守る別の視線の有無……
+　そちらに神経を尖らせねばならない。
+
+　こうしてヤクザに張り付いて待つというのも、消極的な手段だが、
+　聞いた話ではワイズメルも、捜索に行き詰まっているという。
+
+<CLEAR><BACKGROUND SRC="kazino2">//# kazino2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そもそも、はたしてワイズメルは、真面目に捜索をしているんだろうか？
+
+　クロウディアの懸念通り、裏で糸を引くのがワイズメルだとすれば、
+　すべてが狂言だったという結論になる。
+
+//> left kazino wide 255 godo^3 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="kazino">//
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　さっきから快調に勝ち続けている梧桐だが、その舎弟の室戸は、
+　どうにもツキに恵まれず、相当、負けが混んでいる様子だ。
+
+//<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　もう一人の舎弟の志賀という男は、ゲームに加わる様子がない。
+　常時、影のように梧桐の傍に付き従っている。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　結局、臍を曲げたのか、
+　室戸はゲームを下りてバーの方に行ってしまった。
+
+　気にはなったが、本命の梧桐を放置して追うわけにもいかない。
+
+　相棒がいればな……
+
+　そうは思っても、この任務は、秘匿性こそが重要だ。
+　最期まで、一人でこなすしかない。
+
+<A HREF="1170b.txt" OPERATOR="">//~ 1170b

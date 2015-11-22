@@ -1,0 +1,12 @@
+<BOX type="0">//%w
+  常用的贝瑞塔的确不错，不过偶尔用用这家伙也不坏。
+
+  既然口径与装弹数都一样，那应该就没什么不适应的吧。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="21_03">//
+<CALC WORKNAME="廵" OPERATOR="僔僌">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僔僌">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僔僌2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

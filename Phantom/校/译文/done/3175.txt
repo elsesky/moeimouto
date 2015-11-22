@@ -1,0 +1,608 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<box type="2">//%w
+　发动袭击后的第二天清晨……
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<box type="2">//%w
+　梧桐组的年轻首领——志贺透，出现在莉兹率领的Inferno战斗部队所居住的酒店中。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哎呀哎呀，这不是志贺先生吗。真是久违了」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……原来你也来日本了，盖瑟培」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不，你在这里使用的名字是赛斯·玛斯塔吧」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「您还能记得这个名字，真是我的荣幸」
+
+「如今的Phantom也是我培养出来的人才。这次远征日本，我也将她一起带来了」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　Phantom……志贺望向那个旁若无人地躺在赛斯身后的沙发上的少女。
+
+　从一开始，那名新近获得Inferno最强称号的金发少女便入神地听着耳机里的音乐，对志贺的来访视若无睹。
+
+　说起来，这个男人在使用盖瑟培这个名字的时候，身边也带着接受过战斗训练的少女，用来代替保镖。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　虽然赛斯的恶趣味令志贺非常不快，但这种事情没有必要说出来。
+
+　志贺今天要找的本来就不是这个男人，而是指挥昨夜袭击的莉兹。
+
+<BOX type="5">//%sR
+「你读过日本的报纸了吗？莉兹小姐」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「还没有」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是吗？那让我来告诉你吧……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「昨晚10点左右，5名持有手枪的外国武装分子闯入位于横滨市樱木町的中国餐馆『香林』」
+
+「店长徐荣中（42岁）及其他3名职员被杀害，另有5人受伤……」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「幸好媒体非常善意地对事件进行了美化」
+
+「报道的牺牲者只有实际的三分之一」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……看来这次事件受到了报道管制，恐怕是警方的干预」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那是当然的，这个国家还从来没有发生过这种事呢」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 rizy^2 19
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# siga^3 20 rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+赛斯以完全一副与己无关的姿态插嘴说道。
+志贺和莉兹同时向他投去冷冷的目光。
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我建议参与昨晚袭击的人尽快离开日本」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是么」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「幸好你们成功杀死了徐和周，没有留下与梧桐组有关的任何证据」
+
+「在这一点上，我要向Inferno的各位表示感谢」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，假如可以的话，希望你们今后在日本活动时……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不管想做什么，务必事先和我们商量一下」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……这么说有些太过分了吧」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「告辞了」
+
+//> right hotel3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　在客人面前一直努力不表现出羞愧的莉兹，在看到志贺离开后，开始狠狠地瞪向Phantom。
+
+　莉兹并非因为志贺的嘲讽而生气。
+
+　日本警方如何行动都无所谓，反正手下的袭击小队早就离开日本了。
+
+　真正令莉兹感到恼怒的是——自己带来了10名部下，可在成田机场登上飞机的却只有8人。
+
+<BOX type="4">//%sL
+「凯内斯和莱克塔，这个时候原本也应该在飞机上的」
+
+<BOX type="3">//%m
+　这二人在昨晚的战乱中丧命，甚至连尸体都没能找回。
+
+　他们死在遥远的异国他乡，变成了两具身份不明的遗骸。
+
+<BOX type="4">//%sL
+「你认为他们为什么会死？啊？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//# drei^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为他们太弱了」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「如果你不做出那种蠢事的话……」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「徐就会成功逃走，作战也会以失败告终」
+
+<box type="2">//%w
+　面对莉兹的责难，Phantom丝毫不为所动，坦然地回答道。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果你不希望有人死的话，为什么不将这次行动交给我一个人处理？」
+
+「那样的话事情不就简单多了吗」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//# drei^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那种程度的杂鱼，我在10秒钟之内就能全部解决掉」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你满脑子想的就只有这些吗!?」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「算了算了，两个人都歇歇吧」
+
+<box type="2">//%w
+带着一脸虚伪的笑容，赛斯打断了二人的争吵。
+
+<BOX type="5">//%sR
+「现在的问题不是这个。
+在这个国家的工作还没有结束不是吗？」
+
+<box type="2">//%w
+　正如赛斯所说，这次访日的目的，其实不是为了掩护梧桐组。
+
+　除了完成志贺的委托，Inferno还有别的问题要处理。
+
+　对逃走的前Phantom进行处刑……
+
+自从克劳蒂娅叛变之后，这位前Phantom就下落不明。直到上周Inferno才查明他正潜伏在日本。
+
+　为了实现一石二鸟的目的，Inferno欣然接受了志贺歼灭中国黑帮的请求，并顺势将最强的下属派往日本。
+
+　不过……
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们应该暂时从这里撤离」
+
+<BOX type="3">//%m
+　莉兹十分肯定地说。
+
+<BOX type="4">//%sL
+「志贺说得没错，我们还是不要在日本继续搞出骚乱了」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真够软弱的……」
+
+「我们有必要如此迁就志贺先生吗？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「消灭Zwei这件事与梧桐组毫无关系」
+
+「完全是我们Inferno的内部事务」
+
+「志贺先生是无权干涉的」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「难道说你还要让这个小丫头继续留在日本吗!」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//# drei^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　虽然被莉兹狠狠地瞪着，Phantom却若无其事般地笑了起来。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可是，莉兹小姐，
+如果没有她，这次追捕行动将变得非常棘手」
+
+「不管怎么说，我们的猎物可是两个曾经拥有过Phantom称号的杀手，而且他们此刻正待在一起」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+“还不都是你这个混蛋创造出来的……”
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我要先向马格维雅报告」
+
+「后面的事要听他的指示」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是么」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　Phantom哼了一声，从沙发上站起身来走出了房间。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喂，你要去哪儿!?」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「别担心，我只是去外面吹吹风」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+望着Phantom离去的背影，莉兹的眼神中透露出愤怒和烦躁。
+但更多的，却是一种极其复杂的感情，仿佛正在看着一个令人心痛的东西。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice 19
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「性格方面的问题暂且不提，Phantom的优秀程度如今已经不需要再怀疑了吧」
+
+「马格维雅先生对此也表示理解」
+
+「她还有着很大的上升空间哦，莉兹小姐」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那她的性格也会变得越来越古怪吧？」
+
+<box type="2">//%w
+　莉兹冷冷地盯着赛斯，目光中充满了杀气。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice2 19
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……看来你是误会了」
+
+「我的确是洗脑专家，但我对Drei没有做过任何处理」
+
+（注：Drei，德语，意为“3”，从顺序上看便是Ein、Zwei、Drei……）
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是她自己的感情引导她走到这一步的」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Drei只是太着急了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　如今的Drei……抛开行为的善恶不谈……其Inferno最强杀手的实力已经不需要怀疑。
+
+因此，所有人都用『Phantom』的称号来称呼她。
+从习惯的角度考虑，这样并无不妥。
+
+　可是……
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「现在的Drei还没有名正言顺地继承Phantom这个称号」
+
+「要想真正得到这个最强的名号，她需要与上一代的Phantom一较高下」
+
+「如果能亲手打倒Zwei，名正言顺地坐上Phantom的宝座……」
+
+「她就会表现出与最强杀手相符的稳重与从容」
+
+「她本人也应该希望能尽早实现自己的夙愿」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「真的是这样吗？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你的意思是？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看你这么愉快」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大概心里在想着什么坏点子吧」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么会呢」
+
+<BOX type="3">//%m
+『愉快』的赛斯一脸猥琐的笑，这令莉兹更加怀疑起来。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「莉兹小姐，你先去联系马格维雅先生吧」
+
+「我去看看Drei的情况」
+
+//> right Duca_parking wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<BACKGROUND SRC="Duca_parking">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="2">//%w
+　地下停车场内响起摩托车引擎的猛烈轰鸣声。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　Phantom愉快地享受着传入耳中的引擎空转声，回想起昨日的邂逅。
+
+　再会的时候才发现……两年不见，{名}竟然愈发显得年轻了。
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　二人擦肩而过时他那惊愕的表情……每次想到这些，少女的心中就会涌起残酷的喜悦。
+
+<BOX type="5">//%sR
+“好戏才刚刚开始哦，{名}”
+
+“我会让你好好尝尝痛苦的滋味哦……”
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你看起来好象很高兴啊，Drei」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<box type="2">//%w
+　这家伙什么时候来的……Drei颇为扫兴地瞥了赛斯一眼。
+
+在没有人的场合下，赛斯在叫Drei的时候通常都会显得很亲密。
+Drei早就对这个男人感到非常厌烦了。
+
+　你还不配被称为Phantom……Drei总觉得在他谈谈的笑容里暗藏着这样的轻蔑。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「昨天傍晚你好象不在啊」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「稍微去拜访一下熟人」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你和Zwei接触了吗？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　赛斯惊讶地耸起了肩膀。
+
+<BOX type="4">//%sL
+「……哎呀哎呀，你竟然舍弃了偷袭的机会」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是不会明白的」
+
+「我会用我的方法对付他。你不要插手」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我理解你的心情……但大家是否会同意你继续任意妄为呢？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那我就先把妨碍我的人干掉」
+
+<box type="2">//%w
+Drei脸上露出狞笑，令人觉得她就像放在火中的炸药一样危险。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你不要太乱来哦，我也有我的立场啊」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哦，是吗」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　Phantom踢起摩托车支架，背对赛斯，跨上了震动着的摩托车。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今天你要去哪里呢？」
+
+<se id="1" src="accel" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR><BACKGROUND SRC="3175p1">//# 3175p1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我要在有人妨碍我之前尽快处理掉这件事」
+
+「……因为你也有你的立场嘛」
+
+<se id="2" src="僪僇憱傝嫀傞" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR><BACKGROUND SRC="parking">//# sice 19 parking 1
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 parking 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……喔？」
+
+<BOX type="3">//%m
+　望着远去的Phantom，赛斯一个人窃笑起来。
+
+<BOX type="4">//%sL
+「看来有热闹看了……」
+
+<se id="2" src="" mode="fadeout" time="30">
+<A HREF="3180.txt" OPERATOR="">//~ 3180
+
+
+
+3180

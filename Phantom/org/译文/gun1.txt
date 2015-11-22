@@ -1,0 +1,196 @@
+//<コマンド メニュー>
+//<system cmd="savemode" mode="on">
+
+//テスト用
+//<calc workname="クロウディア初Ｈ" operator="0">
+//<BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="8">
+
+// ---------------------------------------------------
+<MARKER NAME="#main">
+
+<BACKGROUND SRC="extra\GUN_back">
+
+<CHOICE HREF="#パイソン"         disable="gun21=0"   FILE="data\gunextra\001_パイソン357.png;data\unindicate.png"    x="130" y="90"  TYPE="2">
+<CHOICE HREF="#Auto_Mag"         disable="gun17=0"   FILE="data\gunextra\002_Auto_Mag.png;data\unindicate.png"       x="240" y="90"  TYPE="2">
+<CHOICE HREF="#Glock19"          disable="gun10=0"   FILE="data\gunextra\003_Glock19.png;data\unindicate.png"        x="350" y="90"  TYPE="2">
+<CHOICE HREF="#シグP226"         disable="gun06=0"   FILE="data\gunextra\004_シグP226.png;data\unindicate.png"       x="460" y="90"  TYPE="2">
+<CHOICE HREF="#ガバメント"       disable="gun22=0"   FILE="data\gunextra\005_ガバメント.png;data\unindicate.png"     x="570" y="90"  TYPE="2">
+<CHOICE HREF="#イーグル50AE"     disable="gun19=0"   FILE="data\gunextra\006_イーグル50AE.png;data\unindicate.png"   x="130" y="175" TYPE="2">
+<CHOICE HREF="#S&W_M5906"        disable="gun11=0"   FILE="data\gunextra\007_S&W_M5906.png;data\unindicate.png"      x="240" y="175" TYPE="2">
+<CHOICE HREF="#S&W_M29"          disable="gun20=0"   FILE="data\gunextra\008_S&W_M29.png;data\unindicate.png"        x="350" y="175" TYPE="2">
+<CHOICE HREF="#ベレッタM92"      disable="gun23=0"   FILE="data\gunextra\009_ベレッタM92.png;data\unindicate.png"    x="460" y="175" TYPE="2">
+<CHOICE HREF="#ベレッタM93R"     disable="gun15=0"   FILE="data\gunextra\010_ベレッタM93R.png;data\unindicate.png"   x="570" y="175" TYPE="2">
+<CHOICE HREF="#マテバ"           disable="gun05=0"   FILE="data\gunextra\011_マテバ.png;data\unindicate.png"         x="130" y="260" TYPE="2">
+<CHOICE HREF="#AMT_Backup"       disable="gun25=0"   FILE="data\gunextra\012_AMT_Backup.png;data\unindicate.png"     x="240" y="260" TYPE="2">
+<CHOICE HREF="#ルガー"           disable="gun29=0"   FILE="data\gunextra\013_ルガー.png;data\unindicate.png"         x="350" y="260" TYPE="2">
+<CHOICE HREF="#ソコムピストル"   disable="gun27=0"   FILE="data\gunextra\014_ソコムピストル.png;data\unindicate.png" x="460" y="260" TYPE="2">
+<CHOICE HREF="#ハードボーラー"   disable="gun18=0"   FILE="data\gunextra\015_ハードボーラー.png;data\unindicate.png" x="570" y="260" TYPE="2">
+<CHOICE HREF="#H&K_P7"           disable="gun12=0"   FILE="data\gunextra\016_H&K_P7.png;data\unindicate.png"         x="130" y="345" TYPE="2">
+<CHOICE HREF="#H&K_USP"          disable="gun07=0"   FILE="data\gunextra\017_H&K_USP.png;data\unindicate.png"        x="240" y="345" TYPE="2">
+<CHOICE HREF="#H&K_G3"           disable="gun28=0"   FILE="data\gunextra\018_H&K_G3.png;data\unindicate.png"         x="350" y="345" TYPE="2">
+<CHOICE HREF="#ブレーザーR93"    disable="gun08=0"   FILE="data\gunextra\019_ブレーザーR93.png;data\unindicate.png"  x="460" y="345" TYPE="2">
+<CHOICE HREF="#ゲパードM1"       disable="gun26=0"   FILE="data\gunextra\020_ゲパードM1.png;data\unindicate.png"     x="570" y="345" TYPE="2">
+
+//<CHOICE HREF="#back" FILE="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" x="447" y="25">
+<CHOICE HREF="#next" FILE="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" x="545" y="25">
+<CHOICE HREF="#menu" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+//<system cmd="exmode" count="回想WORK" total="6">
+// ---------------------------------------------------
+<WIPE EFFECT="fade" TIME="10">
+<SELECT>
+
+<MARKER NAME="#menu">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="extramenu" OPERATOR="">
+
+//<MARKER NAME="#back">
+//<clear>
+//<A HREF="gun1" OPERATOR="">
+
+<MARKER NAME="#next">
+<clear>
+<A HREF="gun2" OPERATOR="">
+
+// ---------------------------------------------------
+<MARKER NAME="#パイソン">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+
+<A HREF="kaisetu.txt#gun21">
+// ---------------------------------------------------
+<MARKER NAME="#Auto_Mag">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun17">
+// ---------------------------------------------------
+<MARKER NAME="#Glock19">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun10">
+// ---------------------------------------------------
+<MARKER NAME="#シグP226">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun06">
+// ---------------------------------------------------
+<MARKER NAME="#ガバメント">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun22">
+// ---------------------------------------------------
+<MARKER NAME="#イーグル50AE">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun19">
+// ---------------------------------------------------
+<MARKER NAME="#S&W_M5906">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun11">
+// ---------------------------------------------------
+<MARKER NAME="#S&W_M29">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun20">
+// ---------------------------------------------------
+<MARKER NAME="#ベレッタM92">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun23">
+// ---------------------------------------------------
+<MARKER NAME="#ベレッタM93R">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun15">
+// ---------------------------------------------------
+<MARKER NAME="#マテバ">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun05">
+// ---------------------------------------------------
+<MARKER NAME="#AMT_Backup">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun25">
+// ---------------------------------------------------
+<MARKER NAME="#ルガー">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun29">
+// ---------------------------------------------------
+<MARKER NAME="ソコムピストル">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun27">
+// ---------------------------------------------------
+<MARKER NAME="#ハードボーラー">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun18">
+// ---------------------------------------------------
+<MARKER NAME="#H&K_P7">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun12">
+// ---------------------------------------------------
+<MARKER NAME="#H&K_USP">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun07">
+// ---------------------------------------------------
+<MARKER NAME="#H&K_G3">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun28">
+// ---------------------------------------------------
+<MARKER NAME="#ブレーザーR93">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun08">
+// ---------------------------------------------------
+<MARKER NAME="#ゲパードM1">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun26">

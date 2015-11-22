@@ -1,0 +1,17 @@
+<BOX type="0">//%w
+  说起来，这次的任务就像是在暗中持续进行调查一样。
+  所以用的枪自然是隐蔽性越高越好
+
+　况且我对敌人的行动方式一无所知。
+  对方会在何时、何地、以何种形式进行袭击呢……
+
+　考虑到应对的灵活性，果然还是应该选择口径小、弹数多的枪型。
+  决定了，就选这把贝瑞塔好了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

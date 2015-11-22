@@ -1,0 +1,79 @@
+<CALC WORKNAME="P226" OPERATOR="1">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255 rizy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「リズィ、連絡しておいたベレッタなんだが……」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、用意しといたぜ」
+
+<BOX type="0">//%w
+　そう言ってリズィは、新品のM92FSを差し出した。
+
+<BOX type="5">//%sR
+「軍のトライアルなんざ
+　真に受けるからさ」
+
+「もうSEALじゃ総スカンだぜ、
+　そいつ」
+
+<BOX type="0">//%w
+「……いいんだよ。気に入ってるんだ」
+
+<BOX type="5">//%sR
+「じゃぁ、こいつは必要ないか？」
+
+<BOX type="0">//%w
+　もう一挺、リズィが取り出したのは、別の9mmオートマチックだった。
+
+<clear>
+<BACKGROUND SRC="sig_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……へぇ、シグ＝ザゥワーか」
+
+<BOX type="5">//%sR
+「同じ9mm口径で、15連発。
+　でも、こっちの方が小柄だろ？」
+
+<BOX type="0">//%w
+　確かに一回り小さい印象がある。デコッキング＝レバーの配置も、
+　ベレッタより利に叶っていて、扱いやすそうだ。
+
+「……悪くなさそうだな。こいつも」
+
+<clear>
+<BACKGROUND SRC="passage1">//
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「預けとくから、試してみな。
+　気に入った方を使えばいい」
+
+<calc workname="gun06" operator="1" mode="global">
+<A HREF="#分岐" OPERATOR="1127=1">
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+<MARKER NAME="#分岐">
+<A HREF="1158a.txt" OPERATOR="1150=1">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

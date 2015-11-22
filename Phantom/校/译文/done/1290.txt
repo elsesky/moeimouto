@@ -1,0 +1,200 @@
+//> right hotel6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+<BACKGROUND SRC="hotel6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="2">//%w
+没有任何前兆。
+会场内紧张的气氛瞬间就被巨大的破碎声打破了。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　充当墙壁的玻璃窗被打碎，无数细小的碎片将室内的众人包裹了起来。
+
+　这是不知什么人的……枪击。
+
+<BUSTUP NAME="godo" face="4" MODE="on" zoom="" ALIGN="right">//# godo^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「原来如此，这就是你们的阴谋吗!!」
+
+<box type="2">//%w
+　首先反应过来的是梧桐大辅，他怒不可遏地吼了起来。
+
+　几次三番被泄露的秘密。
+  有计划的袭击。
+
+　他对一直按兵不动的Inferno的怀疑，终于在此全部爆发了出来。
+
+<BOX type="5">//%sR
+“把他们都给我杀了……”
+
+<se id="1" src="嶰恖廵傪敳偔.wav" mode="normal" time="" loop="off" effect="">//!se 
+　以梧桐大辅的愤怒为信号，梧桐组成员们一齐掏出了怀中的手枪。
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<CLEAR><BACKGROUND SRC="hotel6b">//# rizy^4 19 dummy 20 hotel6b 1
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="left">//# rizy^4 19 dummy 20 hotel6b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+虽然丝毫没有看到事情的经过，
+<se id="1" src="嶰恖廵傪敳偔" mode="normal" time="" loop="off" effect="">//!se 
+莉兹和他的部下们还是在混乱之中拔出了枪。
+<se id="2" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+　这种的情形下，一句话说的不恰当就可能导致全场的火拼。
+
+　看样子，流血冲突已经不可避免了……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="14_05" mode="normal" time="" loop="off" effect="">//!se 
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<box type="2">//%w
+　最初响起的枪声……并没有成为乱战的导火索。
+
+　从无人预料到的地方传出的这声枪响，使充满杀气和怒吼的会场立刻安静了下来。
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<CLEAR><BACKGROUND SRC="1290p1">//# 1290p1 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="2">//%w
+　克劳蒂娅·麦肯宁的手上，正握着一把冒着硝烟的小型手枪。
+　从枪口所指的方向看去，一个黑帮头领被打中了眉心，当场毙命。
+
+　洛杉矶最大势力『布拉迪兹』的首领，艾扎克·维斯梅尔……
+
+<CLEAR><BACKGROUND SRC="hotel6">//# hotel6 1 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# hotel6 1 crou^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「安静!!」
+
+<box type="2">//%w
+　在场的所有人都愣住了。
+  紧接着，克劳蒂娅大声说道。
+
+<BOX type="5">//%sR
+「没有必要再让任何人为此流血了……大家把枪都收起来!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 godo^5 19
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="left">//# dummy 20 godo^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂……喂、克劳……」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐先生。我们知道您很生气，但是可否请您收敛一下」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">//# crou^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们在此献上再三威胁您，致使您五名部下毙命的阴谋主使……」
+
+「艾扎克·维斯梅尔的首级」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你说什么!?」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">//# crou^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「作为Inferno的一员，我已处决了因私欲而扰乱组织计划的背叛者」
+
+「马格维雅先生。
+事出紧急，我不得已才导致这里一片狼藉，还请您见谅」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「给我好好解释一下吧，克劳蒂娅!!」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我的部下应该已经掌握了铁证」
+
+<BOX type="3">//%m
+　说着，克劳蒂娅瞥了一眼战战兢兢地向破碎的窗外窥视的男人们。
+
+<BOX type="4">//%sL
+「放心吧。我的部下很优秀，应该已经干掉了那个狙击手」
+
+「狙击手的尸体恐怕就在邮政局大楼的楼顶上」
+ 
+「莉兹，在警察行动之前必须要控制住局面」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊、是……」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐先生，还有马格维雅先生」
+
+「两位请暂且离开这里，而且最好不要引起警察的注意」
+
+「这个地方就交给我的手下来收拾」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 godo 20
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……小子们，撤退了」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　梧桐组的小弟们面无表情地一个接一个离开了，只有梧桐大辅身边的志贺在走出房间时冷冷地瞥了克劳蒂娅一眼。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「马格维雅先生。
+今夜我会再去拜访您，到那时会为您详细解释的」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……好吧。我等着你」
+
+<A HREF="1290b.txt" OPERATOR="">//~ 1290b90b

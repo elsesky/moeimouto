@@ -1,0 +1,75 @@
+<BOX type="0">//%w
+　目送克劳蒂亚离开，我反复回味着她说过的话。
+
+　Inferno……联合众多犯罪集团的巨大组织。
+
+　并且，存在于其间、被称作“phantom”，最强的暗杀者……
+
+　是那个……Ein？
+
+对于这些话语，哪一句都令人感到难以置信。
+但是话说回来，就连自己现在所处的环境，也已经充分地从现实中剥离。
+
+　……这里真的还是现实的世界吗？
+
+　真是漫长而恐怖的现实啊，
+　而且，自己明明醒着却什么都回想不起来……
+　这岂不是像处在梦中的世界一样吗？
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left sunset wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　真是格外漫长的一天啊。
+　因为Ein不在的缘故，感觉时间过的极为缓慢。
+
+　说起来，这里什么钟表都没有。
+　取而代之的是，Ein下达的指示如同钟表一般准确，
+　将每一天分割成不同的时段。
+
+　训练也是，身心完全没法投入。
+
+　对了，就像这样望着太阳沉入地面，已经是很久没有的事了。
+
+<CLEAR><BACKGROUND SRC="nightfield">//# nightfield 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　夜晚，荒野上传来风吹过的声音，之后是无尽的沉默。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="radioCH" mode="normal" time="" loop="off" effect="">//!se radioCH
+　我一个人听着收音机播放的节目。
+<se id="1" src="radioCH2" mode="normal" time="" loop="off" effect="">//!se radioCH2
+　虽然自己已经可以听懂节目的主要内容，
+　但不知为何，今夜无论怎么听，都还是连一句话都听不进去。
+
+　单调的日常练习被打乱了节奏，情况开始变得混乱。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// crou2 20
+<BUSTUP NAME="crou2" face="" MODE="on" zoom="" ALIGN="right">//# factory 1  crou2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　克劳蒂亚·麦肯宁……
+　这一切，都是她突然来访的造成的吧。
+
+<CLEAR><BACKGROUND SRC="room1d">//# room1d 1 dummy 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　没有可以打发时间的事可做，我决定早早睡觉。
+　不过，自己也不清楚是不是比平时睡的要早。
+
+　……果然还是睡不着啊。
+
+　我就这样凝视着黑暗，在一片沉寂中聆听着，等待着。
+　……Ein会回来吧。还是说，先到来的是明日的黎明吗？
+
+<A HREF="0070.txt" OPERATOR="">//~ 0070

@@ -1,0 +1,126 @@
+　我没有回答的必要。
+
+　可是，少女仿佛要诉说什么的眼神，让我不能置之不理。
+
+　或许不会再与自己见第二面的少女……
+
+　即使说几句安慰她的话，也是不会受到惩罚的。
+
+「杀害茱蒂的家伙要接受应有的惩罚」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　少女的眼中透出一丝昏暗的光芒。
+
+<BOX type="5">//%sR
+「你办得到吗？」
+
+<BOX type="0">//%w
+「嗯」
+
+　真是不诚实的安慰方法。我的心中有点后悔。
+
+　少女带着困惑的表情，一直盯着我看。
+  应该是在判断我刚才说的话是真是假吧。
+
+<BOX type="5">//%sR
+「那么，就带上我吧」
+
+<BOX type="0">//%w
+　我心中更加后悔了。
+  她好象完全把我的话当真了。
+
+「不行」
+
+<BOX type="5">//%sR
+「我可以帮的上忙的」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我冷淡地假装没有听到，转身向停在那里的高尔夫走去。
+
+　背后又传来了少女的声音。
+
+<BOX type="5">//%sR
+「我知道是谁杀了茱蒂」
+
+<BOX type="0">//%w
+　听到这句话，我的脚定在了地面上。
+
+「……你说什么？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我全都看到了」
+
+「昨天晚上茱蒂被袭击的时候……我跟她在一起」
+
+「是在茱蒂在酒吧喝醉了，我去接她回来的路上」
+
+「可是，那个时候，茱蒂为了保护我……」
+
+「茱蒂告诉我有危险，要我快点逃，可是她喝醉了跑不动……」
+
+<BOX type="0">//%w
+　……原来是这么回事啊。
+
+　我终于知道是谁给她盖上的大衣。
+
+　大概，茱蒂确实与昨天晚上的袭击事件没有关系，只是倒霉地被误杀了吧。
+
+　所以，从她的身上想找到杀人凶手是不可能了。
+
+　不过，事情又有了新的进展。
+  现在我的眼前，就有一位活生生的目击证人。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，能带上我吗？」
+
+<BOX type="0">//%w
+　虽然不情愿……
+  不过不管怎样，我暂时必须要接受这个罪恶的任务。
+
+　因为，我必须从这个少女口中打听出尽可能多的事情。
+
+「……你叫什么名字？」
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「凯尔。
+  凯尔·迪文斯。你呢？」
+
+<BOX type="0">//%w
+「{姓}……{名}」
+
+<BOX type="5">//%sR
+「唔，你是日本人吗？」
+
+<BOX type="0">//%w
+「嗯，没错」
+
+　我一不留神将真实姓名说了出来。
+  不过想想，现在这个名字与假名也没什么两样，已经毫无意义了。
+
+<BOX type="5">//%sR
+「OK，{名}。
+　我们一边吃东西一边说吧」
+
+<BOX type="0">//%w
+　话没说完，凯尔就将旅行包背上肩，坐到了高尔夫的副驾驶席上。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　跟刚才完全不一样的活泼。
+  能为茱蒂复仇，竟然让她这么开心吗。
+  想到这里，我的心情又变得沉重了。
+
+　这样的谎言……到底能骗她到什么时候呢？
+
+<A HREF="1060.txt" OPERATOR="">//~ 1060

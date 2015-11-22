@@ -1,0 +1,117 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="door3" mode="normal" time="" loop="off" effect="">//!se door3
+<BACKGROUND SRC="room0b3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+<BOX type="0">//%w
+　玄关那里，传来轻轻的开关门的声音。
+
+　好像Ein也回来了。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　欢迎回来、我回来了……
+  这样的问候，我们之间从来没有过。
+
+　Ein在进入房间时特意没有发出声音，
+  看样子她也明白在屋里的人是谁吧。
+
+　言语的交流，视线的相对，
+  这些对我们两个人来说都是不必要的。
+
+　淋浴间传来了哗哗的流水声……
+  不久，水声停止了，空气中的湿气开始散发出香味。
+
+　她现在应该像平时一样，刚淋完浴，
+  正在擦干身体吧。
+
+　不必忌讳也无需害羞。
+  我们就像完成任务回到狗屋的两只猎狗。
+  这样的关系，早已经习惯了。
+
+　……突然间，自己注意到，
+  房间里的空气似乎凝固了。
+
+<CLEAR><BACKGROUND SRC="傾僀儞晽楥忋傝">//# night1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我无意间回头，
+　发现就这样裸着身体的Ein，正一动不动地盯着我。
+
+「……怎么了？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　Ein没有回答。
+
+　有什么原因吧。
+  我就这样沉默着被她所凝视。
+  为什么……感觉自己正被问着用言语无法回答的问题。
+
+<CLEAR><BACKGROUND SRC="傾僀儞晽楥忋傝2">//# night1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……没什么」
+
+<BOX type="0">//%w
+　说长不长，说短不短的一阵沉默之后，
+  Ein终于开了口。
+
+<BOX type="5">//%sR
+「只是……
+　觉得你有些可怕」
+
+<BOX type="0">//%w
+「唉？」
+
+//<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没什么。不要在意」
+
+<BACKGROUND SRC="room0b3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　说着，Ein迅速转过身，
+  躺到了床上。
+
+　……是我听错了吗？
+
+　如果不是的话，那应该是句不可能听到的话才对。
+
+　但是刚才，Ein的确是……
+　
+　“可怕”……她是这样说的。
+
+  这是句对她而言极其不合适的话吧。
+
+<CLEAR><BACKGROUND SRC="street0c">//# street0c 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一边考虑着这句话的意思，一边把视线投向窗外。
+
+　在渐渐变白的天空下，
+  看着面前的景色慢慢取回颜色与轮廓……
+  我已经像这样看了有一段时间了吧。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　……大概，自己没有听错。
+
+　这就是我最后得出的结论。
+
+<A HREF="0120b.txt" OPERATOR="0030c=1">//~ 0120b
+<A HREF="0120b.txt" OPERATOR="0070l=1">//~ 0120b
+<A HREF="0125.txt" OPERATOR="">//~ 0125

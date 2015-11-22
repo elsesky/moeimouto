@@ -1,0 +1,84 @@
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen7^6 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……美绪呢？」
+
+<BOX type="0">//%w
+「在图书馆里当班。因为她是图书委员嘛」
+
+<CLEAR><BACKGROUND SRC="passage5b">//# passage5b 1 mio1^7 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="mio1" face="7" MODE="on" zoom="" ALIGN="right">//# passage5b 1 mio1^7 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这几天里，我依旧每天都和美绪待在一起。
+　放学以后，我常常在图书馆里帮她做应考的复习。
+
+　虽说这次期末考试的出题范围并不很宽泛，不过，因病缺席一周而没学到的课程还是得补上才行。
+
+　当然，有人问起的话，“笔记借给了别人所以一起学习”是绝佳的借口。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen7^5 20 INchurch2 1 
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20 INchurch2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「真是令人难忍的平静啊」
+
+<BOX type="0">//%w
+「看样子，威吓是奏效了」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是那样就好了」
+
+<BOX type="0">//%w
+　像是要提醒我不要过分乐观，{ヒロイン}冷静地说道。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「算上今天，还剩5天……还是不要掉以轻心的好」
+
+<BOX type="0">//%w
+　还剩……5天吗。
+
+　该说这段时间漫长，还是短暂呢。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　上周末的交涉，顺利结束了。
+
+　走私船会在下周一的午夜出港。
+　我们必须在傍晚之前去小樽与接应我们的人汇合。
+
+　换句话说，下周一的早上我们就必须从东京动身。
+
+　不能和任何人告别。
+　早苗也好，美绪也好……我们能做的，只有在周五放学的时候平静地与他们告别。
+
+　没有任何预兆，像烟雾一般失踪的兄妹。
+　“赴香港上任的父母”也联系不上……
+
+　我不知道身边的人会怎么想，
+  不过，肯定不会有人去试着解开谜团。
+
+　接着，他们就会忘记我们的离去吧。
+　无论是谁，最关心的都只有自己的生活吧。
+　我们的离奇失踪，不可能长久地停留在他们的记忆中。
+
+　……美绪也会这样吗？
+
+我想……应该会是这样吧。
+一开始，美绪可能会陷入深深的悲伤，
+可随着时间的推移，她总有一天会对我们的失踪失去兴趣，不再想去探求真相，最后回到正常的生活中去……
+
+　应该会是这样。
+　我从内心希望会是这样。
+
+　如果真的是替美绪着想……
+
+<A HREF="3400.txt" OPERATOR="">//~ 3400

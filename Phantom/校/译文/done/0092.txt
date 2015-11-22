@@ -1,0 +1,159 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我来到了能窥视武器库大门的地方。
+
+　门开着。
+　果然，大尉已经拿到了武器。
+
+我还记得那里面有什么武器。
+只要能确定没有的武器是哪一把，就知道大尉手里拿着的是什么了……
+
+　突然，我想起了Ein的话。
+
+　这种状况下应当以什么为基准作出判断，
+  之前她是教过我的。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# factory 1  elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“追击时要站在逃跑者的立场上考虑。逃跑时则要站在追击者的立场上考虑”
+
+<BOX type="0">//%w
+　她这么说过。
+
+//> left factory3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　如果知道敌人的武器是什么，战斗就变得容易多了。
+  所以应该到武器库里面确认一下。
+
+　……是的。一般人肯定会这么想。
+
+　追击的一方进入武器库……
+　如果逃跑的一方预料到这点，要怎么办？
+
+　自己如果是逃跑的一方……该怎么做？
+
+　……设置陷阱是最好的选择。
+　自己一定会这么想吧。
+
+　自己距离武器库还有不到20米。
+　那个房间的出入口只有一个。
+　要是设置陷阱的话……该怎么做？
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　对于大尉来说，
+  如果利用武器库里的东西，是可以做一个临时的陷阱吧。
+
+　但是，他有这么多时间来做吗？
+
+　不，他不可能有时间来做一个有效的陷阱。
+  如果来不及完成，将使他自己更加危险。
+
+　如果说，他埋伏在屋内呢？
+
+　的确，现在的状况是以多打少，
+  除了我，工厂外还有Inferno的成员在等待着。
+
+　大尉唯一的胜算，就是打游击战。
+　而且他一定想在不被其他人注意到的情况下，把我这个最初的追击者杀掉吧。
+
+<CLEAR><BACKGROUND SRC="僫僀僼">//# 僫僀僼 1
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那么比起枪，他更可能选择用小刀进行接近战吧。
+　潜藏在室内，等待追击者进入……
+
+<CLEAR><BACKGROUND SRC="factory3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……不，埋伏的可能性还是太低了。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// elen1^6 20
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# factory4b 1  elen1^6 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“如果想要埋伏，
+  首先必须为自己找好退路”
+
+<BOX type="0">//%w
+　这也是Ein教给我的铁则。
+
+　在死胡同里迎击追杀的人不是上策，她这样说过。
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　武器库的入口只有一个，对于埋伏十分不利。
+  对手也应该十分清楚这一点。
+
+　这样的话……
+
+<CLEAR><BACKGROUND SRC="factory3">//# factory3 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我再次观察了一下地形。
+
+　武器库入口的周围，没有可以藏身的地方。
+
+　反过来说，
+  躲在附近的话，就可以把武器库周围的一切尽收眼底。
+
+　……对啊。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//$ 0 _1 0
+　敌人不在武器库里面。
+
+　他很可能藏在远处，
+  准备狙击靠近武器库的人。
+
+　在如此昏暗的环境中，
+  射击的最远距离应该也在10米以下。
+
+　以武器库入口为圆心，10米为半径，
+  这个半圆形区域内的掩体是……
+
+//> left factory3b wide 255
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="factory3b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我向左前方望去，那里放置着一辆叉车。
+
+　周围的空间仿佛被卷入漩涡、汇聚在叉车的里侧。
+　站着的地方、坏掉的叉车……
+  对我来说，
+  这两个点，就是世界的全部。
+
+<A HREF="0092a.txt" OPERATOR="0090bIe=1">//~ 0092a
+<A HREF="0092c.txt" OPERATOR="0090bSm=1">//~ 0092c
+<A HREF="0092b.txt" OPERATOR="">//~ 0092b

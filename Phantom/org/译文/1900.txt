@@ -1,0 +1,162 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　风吹过夜间的沙漠。
+
+　过去也好，现在也好，都没有任何变化。
+  这里是，时间停止了的地方。
+
+　这里是一切开始的地方，也是我决定找寻新的人生的地方。
+
+　既然如此……就在这里结束吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　事到如今，我已经没有一丝逃跑的想法了。
+
+　现在不逃的话，就只能等死了吧……
+　所以，要怎么办呢？
+
+　守护的东西也是、
+  相信的东西也是，
+　在一切都溃散了的现在……为什么自己还是想要活下去呢？
+
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……那个时候，自己要是逃回日本就没事了吧……
+　不对，那样做只会让自己今后的人生陷入无尽的空虚之中。
+
+<A HREF="#僋儘僂" OPERATOR="0092r=1">
+<CLEAR><BACKGROUND SRC="0090p3">//# 0090p3 1
+<WIPE EFFECT="fade" TIME="10">
+<A HREF="#崌棳">
+<MARKER NAME="#僋儘僂">
+<CLEAR><BACKGROUND SRC="0092p2">//# 0090p3 1
+<WIPE EFFECT="fade" TIME="10">
+<MARKER NAME="#崌棳">
+<BOX type="0">//%w
+　那么，要是在那个时候断然抗命而死的话……
+
+<CLEAR><BACKGROUND SRC="0160x1">//# 0160x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不，要是在最初就从Ein手中逃脱的话……
+
+　自己就不会遭受如此漫长的折磨了吧。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可能的话，希望在最后，能有慈悲降临在自己身上。
+
+　没有恐惧、
+　没有痛苦。
+
+　再没有注意到的情况下被一枪击毙……我希望能有这样的慈悲降临。
+
+　如果对方有如此高明的手法，那么就应该能找到这里。
+
+　然后……
+
+<se id="1" src="hardShock" mode="normal" time="" loop="off" effect="">//!se hardShock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　身中致命伤的时候，自己已经听不见枪声了……不过，那样的声音，自己曾经在哪里听到过。
+
+　让视觉与听觉全都麻痹了的强烈冲击，自己也已经感觉不到了。
+
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　倒地之后，耳朵才勉强捕捉到了在废墟回响着的枪声的残音。
+
+//> dream dummy center 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1 elen5^2 20
+<BUSTUP NAME="elen5" face="2" MODE="on" zoom="" ALIGN="right">//# factory2 1 elen5^2 20
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　……是你……吗……
+
+自己的心跳声已经听不到了。
+能感受到的，只有如退潮般渐渐消失的温暖。
+
+　被击中心脏了吧。
+
+　可是，在自己的血流尽之前，大脑是不会死亡的。
+　她明明可以……瞄准头部的。
+
+　算了……
+　想再多也没用了……
+
+　至少在最后可以如我所愿……
+　……谢谢你……Ein……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right factory2 wide 255 elen6^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory2">//
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　没有必要再补上一枪了。
+
+　望着少年的尸体，Ein回想起过去的点点滴滴。
+
+　{姓}、{名}……
+
+　置身于这个无情的世界，却依然试图用自己的意志开拓出属于自己的道路……
+
+　仅仅因为取回了失去的记忆，就可以像人一样坚强地活下去。
+
+　不那样做的话，明明就可以一直像台机器一样，感受不到任何痛苦。
+
+　可悲。
+  可怜。
+
+　这个少年背负着Ein最为恐惧的苦痛，逝去了。
+
+　空虚也好。
+　无情也好。
+　心这种东西，只要封冻起来就好了。
+<bgm src="" mode="fadeout" time="30" loop="on">//> right factory2 wide 255 elen6^2 20
+
+　所以，少女将他的死牢牢铭记于心。
+
+　为了训诫身为无名杀手的自己。
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550

@@ -1,0 +1,33 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="INchurch1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　早朝、まだ暗いうちからここに張り込み、もう数時間が経つ。
+
+　夜闇が拭われるのにつれて、徐々に輝きを取り戻していくステンドグラスの聖人たちを、漫然と眺めながら……ただ{ヒロイン}のことをただずっと考えていた。
+
+　色鮮やかな、それでいて厳粛な、あの光の絵画の数々を、いつも{ヒロイン}は、何を思って仰ぎ見てていたんだろうか。
+
+　ここは、{ヒロイン}にとっては特別な場所だ。
+
+　キャルに戦いを挑む前に、きっと彼女は、ここへ立ち寄り、心の整理をつけようとするだろう。
+
+　必ず現れると……
+　そう信じて、待つしかない。
+
+　他には、何の手がかりもない。
+　昨夜一晩、奔走したものの、結局、{ヒロイン}の足取りは掴めなかった。
+
+　だが、彼女が留守電に遺した通り、明後日の出国を本気で考えているのなら、きっと今日中に美緒を救い出そうとするはずだ。
+
+<CALC WORKNAME="3590a" OPERATOR="1">//
+
+<A HREF="3595.txt" OPERATOR="">//
+
+<A HREF="3595.txt" OPERATOR="">//~ 3595

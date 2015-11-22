@@ -1,0 +1,135 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bay1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ロサンゼルス＝ハーバー。
+　午前10時……
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あそこの埠頭よ」
+
+「今夜22時、中国国籍の
+　カーゴフェリーが、あそこに
+　入港することになってるの」
+
+「積み荷は陶器」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……それと、東海岸の
+チャイニーズマフィアが仕入れた、
+コカイン500キログラム」
+
+<BOX type="0">//%w
+「そいつを、横取りしてこいと？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最終的にはね。でもそれは
+　わたしたちの役目じゃない」
+
+<BOX type="0">//%w
+「？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「襲撃チームは、別にいるの。
+　わたしたちの任務はその援護」
+
+「この位置からライフルで、
+　襲撃班をバックアップするのよ。
+　船内突入から脱出まで」
+
+<BOX type="0">//%w
+　双眼鏡から目を離し、裸眼で距離を目測する。
+
+「200ヤードと……50ってとこか？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうね」
+
+<BOX type="0">//%w
+　周囲を見回す。
+　いまひとつ、気に入らない。
+
+「もう少し、離れられないもんかな？
+　見つかって囲まれたら終わりだよ、ここじゃ」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「フェリーの甲板上まで狙える射角は、ここからしか得られないわ」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしがライフルを
+　引き受けるから、ツヴァイ、
+　あなたは周囲の警戒を」
+
+<BOX type="0">//%w
+「なるほど」
+
+　それなら万全だ。
+　本来の任務には一人分の火力しか割けない形になるが、
+　アインの腕前なら充分だ。
+
+「今ロフトにある武器だけで、事足りるかな？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしは
+シャフシュッツ・ゲヴェアを使う。
+あなたはアゥグ＝カービンにして」
+
+<BOX type="0">//%w
+「アゥグねぇ……」
+
+　機関部を銃床に納めたブルバップ＝タイプのマシンガンだ。
+　ライフル級の火力をコンパクトに携行できるのが利点なのだが、
+　カービン型のアゥグは重量配分が後部に偏りすぎていて、
+　いまいち好きになれない。
+
+「ウズィじゃ駄目か？」
+
+　できれば使い慣れてるサブマシンガンを……と思ったが、
+　アインは首を横に振る。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ここじゃ、9ミリ弾の射程まで
+　敵を近づけるのは得策じゃないわ」
+
+「念のために、
+　高速弾の火力が欲しいの。
+　アゥグにして」
+
+<BOX type="0">//%w
+「わかったよ」
+
+　装備を選り好みして決めようとすると、いつもアインは手厳しい。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「戻りましょう。準備しないと」
+
+<BOX type="0">//%w
+「じゃあ、昼飯は帰りがけに済ませとこう」
+
+<A HREF="0180.txt" OPERATOR="">//~ 0180

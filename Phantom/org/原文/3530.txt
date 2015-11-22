@@ -1,0 +1,78 @@
+「美緒を……危険には、さらせない」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも……」
+
+<BOX type="0">//%w
+「理屈が通用する相手じゃないんだ」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　キャルの行動に脅しやブラフはない。
+　こちらが無視すれば、本当に何をしでかすか判らない。
+　刺激するのが、いちばん危険だ。
+
+「キャルの狙いは、主導権を握ることだけだ。それ以上のことに美緒を利用するすもりはない」
+
+「インフェルノと梧桐組、それに俺たち……皆が皆、あいつの思惑通りに動いていれば、それでキャルは満足する」
+
+「最後の目的さえ果たせば、キャルは美緒を手放すだろう」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最後の、目的って？」
+
+<BOX type="0">//%w
+　喫茶店での、キャルの挑発を思い出す。
+
+「俺との、決闘……だろうな」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「まだ当面は、俺を嬲りものにする腹だろう」
+
+「だが、いずれは俺に引導を渡すために現れる。そのとき……美緒も、解放される」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それを、待つの？」
+
+<BOX type="0">//%w
+「そうだ」
+
+　他に手はない。
+
+　例の密輸船の逃走ルートは、この際、諦めるしかない。
+　今後の展開は、キャルの胸先三寸で決まる。
+　月曜日までに片が付く望みは薄い。
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしが、美緒を巻き込んでいなければ……」
+
+<BOX type="0">//%w
+「言うな」
+
+　蒸し返したところで、始まらない。
+
+「キャルを、あそこまで狂わせたのは……俺だ。君は関係ない」
+
+<BOX type="5">//%sR
+「……」
+
+<A HREF="3540.txt" OPERATOR="">//~ 3540
+
+
+c」
+
+<A HREF="3540.txt" OPERATOR="">//~ 3540

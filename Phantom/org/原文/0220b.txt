@@ -1,0 +1,34 @@
+　選択の余地はなかった。
+
+　今この場にいたところで……何ができよう筈もない。
+
+「ごめんよ……」
+
+　青褪めたアインの顔を見下ろし、聞こえるはずがないと知りつつも、
+　口に出して、そう呟いた。
+
+//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　決して振り向きはしなかった。
+　考えることさえ拒んでいた。
+
+　インフェルノの追っ手から逃げられるかという、
+　現実的な問題よりも、今は……
+
+　後に残すものを想って、この場に足を釘付けにされる、
+　そのことの方が恐かった。
+
+<CLEAR><BACKGROUND SRC="nightField">//# nightField 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　急げ、急ぐんだ……
+　頭を空っぽにしていられるうちに、早く……
+
+<A HREF="0235.txt" OPERATOR="">//~ 0235

@@ -1,0 +1,38 @@
+　……本当はもう、ただの一歩だって進みたくない程に、疲れている。
+　クロウディアに裏切られ、そしてキャルさえ守れなかった自分には、
+　ほとほと愛想が尽きている。
+
+　だが休むのは、まだ少し先でいい。
+
+　いつか{ヒロイン}が立ち直り、自分一人で生きていけるようになるまでは、
+　もうしばらく、弱音を吐かずにいよう。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightField wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　外に出ると、風の向きが変わっていた。
+　深い夜闇が、透けつつある。
+　朝が近い。
+
+「北に逃げたんだよな。あの時は」
+
+「今度は、南に行ってみようか」
+
+<BUSTUP NAME="elen6" face="8" MODE="on" zoom="" ALIGN="right">//# elen6^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そうね」
+
+<BOX type="0">//%w
+　行く当てのない旅の始まりなのは、前回と同じだが、
+　それでも心は、はるかに軽い。
+　今度は、初めから、隣に{ヒロイン}の笑顔がある。
+
+<A HREF="1540.txt" OPERATOR="">//~ 1540

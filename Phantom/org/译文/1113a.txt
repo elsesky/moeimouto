@@ -1,0 +1,18 @@
+<BOX type="0">//%w
+虽说带着落伍的左轮手枪可能会被莉兹笑话，不过我最后还是选择了柯尔特“蟒蛇”。
+
+　自动手枪的装弹数的确很有吸引力，可是那粗大笨重的枪柄还是让我望而却步。
+
+　对于偏好7毫米口径的柯尔特政府型手枪的莉兹来说，这可能算不上问题。
+  算了，人各有好吧。
+
+　不管对谁而言，熟悉的武器都是最佳的选择。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<CALC WORKNAME="1113a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

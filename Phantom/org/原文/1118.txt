@@ -1,0 +1,48 @@
+//> left room0d2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0d2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あれ？　出かけるの？」
+
+<BOX type="0">//%w
+　台所で洗い物をしていたキャルが、振り向いて目を丸くする。
+
+<BOX type="5">//%sR
+「お仕事？」
+
+<BOX type="0">//%w
+「ああ」
+
+　何の気なしに答えてから、しまった、と思った。
+
+<BUSTUP NAME="cyall3" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃ、あたしは？
+　あたしは!?」
+
+<BOX type="0">//%w
+「……今日のところは、アジトで待機」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「えぇ～？　つまんない」
+
+<BOX type="0">//%w
+「仕事はつまらないんだ。楽しくないんだ」
+
+「夕方には戻る。大人しく待ってろ。
+　誰かが来ても居留守を使え。いいな？」
+
+<BOX type="5">//%sR
+「うん……」
+
+<A HREF="1120.txt" OPERATOR="">//~ 1120

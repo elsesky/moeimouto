@@ -1,0 +1,115 @@
+<CLEAR><BACKGROUND SRC="passage5c">//
+<BUSTUP NAME="zs9" face="" MODE="on" zoom="" ALIGN="right">//# zs9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+Neun按照清理1楼时的要领，对2楼的各间教室进行着疯狂扫射，以确保无一遗漏。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　只要遇到可疑的隐蔽处，就毫不留情地用5.45mm子弹进行扫射，以确认是否有威胁。
+
+　这是非常彻底的扫荡，连一只小猫都无法逃脱。
+
+　与此同时，Fünf也在这一层的另一端做着同样的事。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　在踏入第4间教室前，Neun向走廊对面的厕所走去。
+  先从面前的男厕所开始吧。
+
+<se id="1" src="door1" mode="normal" time="" loop="off" effect="">//!se door4
+<CLEAR><CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="toilet">//#! toilet 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　端着卡拉什尼科夫，将门一脚踹开……Neun立刻发现了眼前的异状。
+
+　她已经在楼下确认过了，这里厕所的隔间门被设计成依靠自身重量向内关闭的结构。如果隔间里面没人，门应该是敞开的。
+
+　而面前的5个隔间全都紧紧地关着门，就像有什么人躲在里面一样。
+
+当然，Neun并不会因此犹豫。
+不管是谁躲在里面，在突击步枪的面前都将如赤身裸体一般。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　同之前一样，Neun用卡拉什尼科夫突击步枪横向对5个隔间逐一进行了扫射。
+
+
+　隔间中水桶被子弹击中后纷纷滚倒，<se id="2" src="僶働僣悈偙傏傟傞3" mode="normal" loop="off">里面的水同时流到了地上……
+　当然，Neun不会看到这些。
+
+　不过，她能够清楚地看见大量的水从被打成蜂窝的隔间底部汹涌而出，仿佛洪水决堤一般……
+
+<se id="1" src="eleshock" mode="normal" time="" loop="off" effect="">//!se eleshock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　还有……在厕所里面的换气扇的正下方，四散飞溅的漏电火花。
+
+　陷阱……
+　Neun刚刚认识到这一点，水流便带着数百伏特的交流电侵湿了她的脚尖。
+
+//> right passage7c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage7c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%m
+　从走廊深处传来了Neun的惨叫声和电火花的噼啪声……
+
+<BUSTUP NAME="zs5" face="" MODE="on" zoom="" ALIGN="left">//# zs5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　Fünf马上中断作业，一边向同伴报告异常情况，一边全速奔跑起来。
+
+　男厕所里，被水浸湿的电线还在迸溅着火花，从入口处伸到走廊里Neun的手依旧在不住地痉挛着。
+
+　毫无疑问，里面是不能进入的。Fünf站在走廊中，用卡拉什尼科夫对准换气扇的电线接口处开了一枪，中止了漏电。
+<se id="1" src="18_05a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　皮肉被烧焦的味道伴随着火药味涌入鼻腔。
+
+//<CLEAR><BACKGROUND SRC="巰偵庤B_640">//# 3660x1 1
+//<WIPE EFFECT="fade" TIME="10">
+//<BOX type="2">//%w
+　Fünf弯下腰，摘下了Neun脸上的面具。
+
+　触电令Neun的脸痛苦地扭曲到了一起，死状十分可怕，根本无法与她生前的那份可爱联系到一起。
+
+　虽然这是在任务中绝不允许发生的事……悲痛的回忆还是涌上了Fünf的心头。
+
+　Neun是最后一个成为主人的属下的。
+
+　一直以来Fünf都在守护着、鼓励着始终无法舍弃恐惧心的Neun。
+
+　对Fünf来说，Neun就像自己的妹妹一样。
+
+　不知从什么时候起，她们两人已经心灵相通，开始相互扶持着度过残酷的每一天。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　仿佛要抓住虚空中的某物的Neun的手……曾经如丝绸般柔软光滑。
+  Fünf紧紧地将这只手握在掌中。
+
+　Zwei……
+　一定要杀了你。
+　一定要把你碎尸万段。
+
+　可是，那家伙究竟在哪里……？
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　这时Fünf突然注意到，不知什么时候，身后的女厕所的门打开了。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<A HREF="3660.txt" OPERATOR="3610=1">//~ 3660
+<A HREF="3960.txt" OPERATOR="">//~ 3960

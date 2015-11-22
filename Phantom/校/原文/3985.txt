@@ -1,0 +1,403 @@
+　化学室にいた二人は、間違いなく即死だろう。
+　だが、あともう一人いる……
+
+　そうだ、美緒……
+　美緒が危ない。
+
+　立ち上がろうと身を起こしたところで、
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　鋭い銃声とともに花壇の黒土が舞い上がった。
+
+<BOX type="5">//%sR
+「そこまでだ」
+
+<BOX type="0">//%w
+　暗がりから歩み出る長身の影。
+
+「サイス……!!」
+
+<se id="2" src="" mode="fadeout" time="60">
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="right">//# sice5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いささか既視感を覚える
+　対面だな。これは」
+
+<BOX type="0">//%w
+　嫌味な微笑みを満面にたたえ、サイスはルガーを腰溜めに構える。
+
+　銃は……
+　そういえばベルトに挿んでいたはずの{銃}がない。
+　飛び降りた拍子に、どこかに落としたんだろうか。
+
+　カラシニコフも、吹き飛ばした化学室に置き去りにしてきた。
+　こっちは……完全な丸腰だ。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「素晴らしい戦いぶりだったよ。
+　ツヴァイ」
+
+「わたしの少女たちを、
+　まさか5人同時に
+　相手取るとは……な」
+
+<BOX type="0">//%w
+「悪かったな。せっかくのハーレムを根絶やしにしちまって」
+
+<BOX type="5">//%sR
+「損失は大きいが、代価に
+見合うだけの名勝負を観戦できた。
+まぁ、良しとしよう」
+
+「私の探究にも、これでどうやら
+　解答が出せたようだし、な」
+
+<BOX type="0">//%w
+　こいつにとっては、あの仮面の少女たちでさえ……
+　興味本位のモルモットでしかないのか。
+
+<BOX type="5">//%sR
+「やはり君が最強だったよ。
+　ツヴァイ」
+
+「鍛え抜かれた戦士の質を、
+最終的に決するものは、
+やはり『動機づけ』のようだな」
+
+「強固な信念、守るべきもの、生き残るための不屈の意志……ヒロイズムとは、幻想ではなかったようだ」
+
+<BOX type="0">//%w
+　悦に入って語りつつも、
+　サイスのルガーの銃口は、油断なくこちらを睨んでいる。
+　逃げ場は……ない。
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="right">//# sice5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今にして思えば、惜しむらくは、
+　君の『動機』を導く方向を
+　誤ってしまったことだが」
+
+「君が私の敵として終わるのは、
+　本当に残念だよ。ツヴァイ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ここで……死ぬのか？
+　ここまで戦っておきながら、
+　こんな奴の手にかかって……
+
+「いつか誰かが、貴様を倒す」
+
+　絶望に駆られて、怨嗟の言葉が、胸の奥から湧いて出た。
+
+「貴様に何もかも奪われて、玩具にされた誰かが、きっと」
+
+「忘れるな。{ヒロイン}も、キャルも、まだ生きているんだからな……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だが、さも滑稽だと言わんばかりに、サイスは鼻で笑っただけだった。
+
+<BOX type="5">//%sR
+「フン……恐るるには足りんさ。
+　過去の失敗作などは」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<bgm src="" mode="fadein" old="fadeout" time="1" loop="on">//$ 0 _1 0
+「へぇ、そうかい」
+
+<BUSTUP NAME="sice4" face="" MODE="on" zoom="" ALIGN="right">//# sice4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!?」
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="court^c">//#! court^c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　愕然と振り向いたサイスの眼前で、マズルフラッシュが闇に閃く。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　構えたルガーを取り落とし、サイスは信じられないといった面持ちで、
+　胸に穿たれた弾痕を見下ろしていた。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「黙って聞いてりゃ、
+　好き勝手なこと抜かしやがって」
+
+「誰が失敗作だと？　あん？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　何かを抗議するように、ぱくぱくと口を開閉するサイス。
+　だが声の代わりに口から溢れたのは、どす黒い血糊だった。
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ほら、
+　いつもみたいに笑ってみなよ」
+
+「それともあんた、
+　そんな間抜け面のまま
+　死ぬ気かい？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<se id="1" src="死体落下音" mode="normal" loop="off">
+<BOX type="0">//%w
+　キャルの皮肉に、応じる言葉もなく、
+　サイス＝マスターは仰向けに校庭に転がった。
+　その目から、意志の光が消えていく。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　キャルは躯に歩み寄り、爪先で小突いて死を確かめると、
+　次いで鋭い視線をこちらに向けた。
+　硝煙をくゆらすS&Wは、まだ抜き放たれたままだ。
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+「キャル……」
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# drei2^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「慌てるんじゃないよ。
+　残りの一人もカタはついてる。
+　美緒は無事だよ」
+
+<BOX type="0">//%w
+　胸に安堵が広がる一方で……
+　それと鬩ぎ合う新たな不安。
+
+　キャルは、ここでまた、礼拝堂の続きを始める気だろうか。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ひとつ、解せないんだがな」
+
+<BOX type="0">//%w
+　表情の窺えない声で、おもむろにキャルは切り出した。
+
+<BOX type="4">//%sL
+「あの鼻っ柱の強い娘が、
+　なんであんたを置いて
+　先に逃げたんだい？」
+
+<BOX type="0">//%w
+　別れ際に美緒と交わした、口先だけの誓いを思い出す。
+　美緒を納得させるためだけに、志賀と申し合わせて口にした、
+　残酷な思いやり。
+　守れるなんて、露ほども思っていなかったが。
+
+「約束したからだ」
+
+「後で……必ず、迎えに行くって」
+
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　心の底まで射抜くような眼差しを、ひとしきり向けてきた後、
+　キャルは疲れたように、視線を逸らした。
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# drei2^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「じゃ、行ってきな」
+
+<BOX type="0">//%w
+「……」
+
+<se id="1" src="銃まわす" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　毎度のように、手慣れた仕草で、
+キャルは銃をスピンさせてホルスターに収め、そしてこちらに背を向けた。
+
+<BOX type="4">//%sL
+「この場は、ひとまず預けてやる。
+　美緒には……借りがあるんでね」
+
+<BOX type="0">//%w
+「キャル……」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　呼びかけた途端、いっそう激しい眼差しで、肩越しに睨まれた。
+
+<BOX type="4">//%sL
+「言っとくが、
+　美緒に免じてのことだ」
+
+「次に会う時は、必ず殺す。
+　あんたも、アインも」
+
+<BOX type="0">//%w
+「……」
+
+「お前は、これから……どうするんだ？」
+
+　インフェルノから離反したキャルもまた、今では逃亡者のはずだ。
+　行く当てなど、あろう筈もない。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だがキャルは、つまらなそうに鼻を鳴らしただけだった。
+
+<BOX type="4">//%sL
+「あんたの知ったことじゃない」
+
+<BOX type="0">//%w
+「……でも……」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……いいな。
+　美緒を放ったらかして
+　逃げようなんて思うなよ」
+
+「女との約束破ったらどうなるか、
+　あんた、
+　骨身に沁みて解ってるだろ？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そしてまた、再びキャルは踵を返し、二度と振り向くことはなかった。
+
+　一人、すべてを拒むかのように歩み去るライダージャケットの影は、
+　校庭の彼方の闇に消え……
+　やがて、校門の方角でバイクの猛々しい排気音が吼えた後、
+　それもまた静寂に呑み込まれていった。
+
+　一人、グラウンドに取り残されたまま、キャルの言葉を思い出す。
+
+<BOX type="4">//%sL
+“次に会うときは、必ず……”
+
+<BOX type="0">//%w
+　結局、許してはもらえなかったか。
+　考えればそれも、当然のことだが。
+
+　だがなぜ、キャルは美緒のために……？
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ひとまずは、終わったわね」
+
+<BOX type="0">//%w
+　静かな呟きに振り向くと、そこに{ヒロイン}が佇んでいた。
+　彼女もまだ、ここにいたのか。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしたちも、急いだ方がいい」
+
+「長居すると、厄介よ」
+
+<BOX type="0">//%w
+「……そうだな」
+
+　今夜一晩で、いったい何発の銃声が山に轟き、
+　学園じゅうに幾つの骸が転がっていることやら、
+　もう知れたものではない。
+　巡視のパトカーでも来ようものなら、騒動は想像するまでもない。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「待ち合わせ場所は、伝えた通り。
+　憶えてるわよね？」
+
+<BOX type="0">//%w
+「……え？」
+
+<BOX type="5">//%sR
+「わたしは先に行って、待ってる」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたは、
+その前に寄るところがあるはずよ」
+
+<BOX type="0">//%w
+「……」
+
+　彼女に、どう切り出したものか、内心悩んでいたのだが、
+　どうやら{ヒロイン}も、さっきの話を聞いていたらしい。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　果たせるはずもなかった約束を、今なら果たすことができる。
+
+　……だが、躊躇が足を重くする。
+
+　もう一度、美緒に会いに行く……
+　だがそれは、もう一度、美緒と別れるということだ。
+
+　別れを告げる、ただそれだけのために美緒と会う……
+　それは彼女の心の傷を、さらに広げるだけなんじゃないだろうか。
+
+「……許されるのかな？　そんなこと」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「許してもらいに、
+　行くんでしょう？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「朝までに発てば、間に合うわ」
+
+「時間を無駄にしない方がいい。
+　急ぎなさい」
+
+<BOX type="0">//%w
+「……わかった」
+
+<A HREF="3990.txt" OPERATOR="">//~ 3990
+
+<A HREF="3990.txt" OPERATOR="">//~ 3990

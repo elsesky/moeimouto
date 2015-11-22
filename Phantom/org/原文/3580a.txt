@@ -1,0 +1,32 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　ひとしきり泣いた後、
+　キャルはポケットから、
+　美緒の携帯電話を取り出した。
+
+　もう、終わらせよう。
+　何もかも。
+
+　美緒の携帯電話のアドレス帳を、もう一度、検める。
+
+　キャルに漢字は読めないが、
+　それでも、
+　形を目で覚えることはできる。
+
+　{名}を示す文字列と、途中まで同じ綴りの登録が1件あるのは、前々から気付いていた。
+
+　この前半部分が、
+　姓だとすれば……
+
+　そういえばアインは、{名}の妹という肩書きで日本国籍を得ていたはずだ。
+
+<A HREF="3580b.txt" OPERATOR="3520=1">//~ 3580b
+<A HREF="3580c.txt" OPERATOR="">//~ 3580c

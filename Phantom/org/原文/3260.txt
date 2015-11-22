@@ -1,0 +1,407 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right yakuza wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="yakuza">//
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「あの、兄貴、お電話ですが」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「？　こんな時間に、
+　どこのどいつだ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それが……」
+
+「何でも
+“クロウディアの腹心だ”とか、
+　言ってるんですが」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……繋げ」
+
+<BOX type="2">//%w
+　内心の動揺を押し隠したまま、
+　志賀は受話器を受け取った。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『……2年ぶりだな。志賀透』
+
+<BOX type="3">//%m
+　相手の声は、驚くほど若く、
+　それでいて底冷えのするような
+　威圧感を秘めていた。
+
+　流暢な日本語は、
+　ホームランゲージに違いない。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「貴様、いったい何者だ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『さっき名乗った通りの者さ』
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　2年前……
+　クロウディア＝マッキェネン……
+　いつも隣に侍っていた
+　東洋人のガキ……
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　暗殺者……ファントム。
+
+奴は逃げ延びて今もインフェルノに
+追われていると聞く。
+そのファントムが、
+今さら、いったい何の用だ？
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『こいつは国際電話じゃない。
+　俺たちは今、
+　あんたと同じ日本に隠れてる』
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それが何だと……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『ついでに言うと、
+　篠倉学園の生徒に化けている』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　じわじわと群雲のように、
+　志賀の胸に不安が拡がっていく。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『もうひとつ、ついでに言うと、
+　藤枝美緒とは親しい友達だ』
+
+『あの子が梧桐海典の
+　娘だってことも知っている』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……貴様ら」
+
+<BOX type="2">//%w
+　受話器を持つ手のわななきは、
+　志賀自身にも自覚できた。
+
+<BOX type="5">//%sR
+「……判ってるんだろうな？
+　貴様ら、触れちゃならないものに
+　触れてるんだぞ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『安心しろ。俺達は、あと一週間もしないうちに日本を離れる』
+
+『何事もなければ、美緒とは二度と会うこともない』
+
+『……何事もなければ、な』
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どういう意味だ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『いま俺たちは、
+インフェルノの刺客に追われてる』
+
+『あんたが止めろ、志賀透。いま
+日本にいるインフェルノの連中を
+押さえるんだ。あんたの責任でな』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　そういえば……
+
+何のつもりか、いまだに出国を
+引き延ばしているサイスとリズィ。
+そして、あの薄気味の悪い金髪娘は
+……たしかファントムの襲名者。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『忘れるな。俺達は二人組だ。
+　いつもどちらか一方は、
+　藤枝美緒の傍にいる』
+
+『もし俺達の片方でも死ねば、
+　残った一人が美緒を殺す』
+
+『撃たれようが、事故に遭おうが、
+　一人死んだら一人を殺す。
+　解るな？』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっと待て……」
+
+<BOX type="2">//%w
+　志賀の脳裏に蘇るのは、
+　横浜中華街での大虐殺だった。
+
+　冗談じゃない。
+　梧桐一家とて軍隊とは違う。
+　あんな無茶をしでかす奴らを
+　止められるはずがない。
+
+　が、志賀の異議には耳も貸さず、
+　電話の声は非情に先を進める。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『それと、もしあんたたち
+　梧桐組の手の者が、
+　俺達の目に留まったら……』
+
+『そのときは美緒を監禁して、
+　あらいざらい彼女に教えてやる』
+
+『誰のせいでこんな目に遭ったのか
+一切合切、説明した上で、それから
+日本を出るまで人質にする』
+
+『以上だ。
+　別に複雑なルールじゃない。
+　理解できただろ？』
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　落ち着け、そう志賀は自分に言い聞かせた。取り乱してみたところで始まらない。
+
+<BOX type="5">//%sR
+「インフェルノの連中は、
+　こっちとは関わりなく
+　勝手に動いてる」
+
+「なんでそれを
+　俺が止められると思う？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『なんで、だって？』
+
+　不気味に掠れた笑い声が、
+　受話器から漏れ出てきた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『なんでなら、
+　美緒に無事でいてほしいからさ』
+
+『可愛い娘だ。できることなら、
+　切り刻んだりしたくはない』
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　こいつ、狂ってる……
+　そう志賀は確信した。
+
+　インフェルノの来日で、あの小僧は絶体絶命の窮地に追い込まれているんだろう。
+　手負いの獣も同然だ。迂闊に刺激すれば、何をしでかすか判らない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+『せいぜい手を尽くすんだな。
+　志賀透』
+
+『俺もファントムと呼ばれた男だ。情けなんて期待しない方がいい』
+
+<se id="1" src="電話切られる" mode="normal" loop="off">
+<wait time="500">
+<se id="2" src="tootoo" mode="normal" loop="off">
+<BOX type="3">//%m
+　再び、あのぞっとするような笑い声を残して、唐突に電話は切れた。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「くそっ!!」
+<se id="2" src="" mode="fadeout" time="1">
+
+<BOX type="2">//%w
+　苛立ちのままに、
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　志賀は受話器を机に叩きつけた。
+
+　藤枝、美緒だと……
+
+　組の事務所の電話では、
+　決して聞くはずのない……
+　決して聞いてはならないはずの
+　名前だった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="Jroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　受話器を電話の上に押しつけたまま、深く息を吐いて神経を落ち着けた。
+
+「……あんなもんで、いいかな？」
+
+<BUSTUP NAME="elen7" face="8" MODE="on" zoom="" ALIGN="right">//# elen7^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「役者になったわね。あなたも」
+
+<BOX type="0">//%w
+「君には及ばないさ」
+
+　声だけは凄みを効かせていられたものの、
+　終始、膝は笑いっぱなしだった。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　今の電話の脅迫を、志賀が真に受けてくれれば……
+　そして、志賀のインフェルノに対する影響力に、望みを託せるなら……
+
+　ひとまず日本を離れるまでは、安泰と思っていいだろう。
+
+　思惑通りに事が運ばなかったとしても、
+　脅しを実行する気は毛頭ない。
+
+　道が閉ざされたその時は、
+　美緒をどうこうしたところで、どうなるものでもない。
+
+　彼女は何も知らないままに、残りの学園生活を送るだろう。
+　彼女の友達と想い人の運命は……
+　失踪であれ、あるいは唐突な変死であれ……
+　心優しい彼女を深く悲しませることになるだろうが。
+
+　それも、すべての真相を知ることに比べれば、まだ遙かに慈悲深い。
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしはこれから、
+　小樽へ発つわ」
+
+<BOX type="0">//%w
+「……どうしたって、急に」
+
+<BOX type="5">//%sR
+「直談判に、行ってくる」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ロシア船籍の貨物船で、日本車の密輸をしている船よ。密入国も金額次第で引き受けるらしいわ」
+
+「昨日、船長の代理人に
+　アポが取れたから、
+　この週末で交渉してくるわ」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「次の便は再来週……
+　上手くいけば、
+　それに乗れるわね」
+
+<BOX type="0">//%w
+「一人で、大丈夫か？」
+
+　望みの綱とはいえ、会ってみるまでは、得体の知れない犯罪者である。
+　ただの商談とは訳が違う。用心に越したことはない。
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あなたは、美緒の側にいて」
+
+「さっきの脅しの裏を取るために
+　志賀が動くかもしれない」
+
+「あなたと美緒が一緒のところを、
+　見せつけておかないと」
+
+<BOX type="0">//%w
+「志賀が……動くか？」
+
+　姿を現せば即座に美緒に類が及ぶと、そう脅しておいたばかりだ。
+　そんな軽率な挙に出るだろうか。
+
+<BOX type="5">//%sR
+「それが用心。でしょ？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「明後日の夜までには戻るわ。
+　欠席は明日一日だけで済ますから
+　届けておいて」
+
+<A HREF="3270.txt" OPERATOR="">//~ 3270

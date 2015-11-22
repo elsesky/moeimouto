@@ -1,0 +1,735 @@
+//> left 1700x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1700x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「法拉利太显眼了，换我的Civic吧」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……居然要把它丢在这样的地方，真是可怜」
+
+<BOX type="0">//%w
+「没办法，现在我们只能选择Civic……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　说到这里，我突然注意到了。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<se id="1" src="BMW僽儗乕僉" mode="normal" time="" loop="off" effect="">//!se brake
+<CLEAR><BACKGROUND SRC="1700x20">//#! 1700x2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　一台福特野马以不寻常的速度冲进了停车场。
+<se id="2" src="BMW媫敪恑憱峴" mode="normal" time="" loop="off" effect="">//!se brake
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+
+「趴下!!」
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="儉僗僞儞僌偐傜廵寕">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　在我抱着克劳蒂娅滚进Civic车后阴影的瞬间，从野马车上传来了一阵猛烈的枪击。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僔價僢僋抏嵀">//# m3_000 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="1200">
+
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="m3_000">//# m3_000 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　顾不得劈头盖脸打下来的安全玻璃的碎片，我拉开副驾驶席的车门，从子弹横飞的车内找到放在座位上的M3霰弹枪——那是在克劳蒂娅家战斗时从敌人手中夺来的。
+
+//<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<se id="3" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="M3幩寕">//# m3_000 1
+<WIPE EFFECT="fade" TIME="0">
+　我算好时机，在敌人的射击间隙从Civic后探出上身，用M3的半自动模式进行连射。
+
+<se id="2" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+//<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+//<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　这时，克劳蒂娅离开了Civic的阴影，
+<se id="3" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　跑向停在里面的法拉利。
+
+<se id="1" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　为了掩护她，
+<se id="2" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我不停地朝野马车开枪，持续压制着车后部的枪手。
+
+<se id="3" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="挀幵応斈梡">//
+<WIPE EFFECT="fade" TIME="0">
+　当弹仓里的OOBuck散弹全部打光的时候，野马车上的家伙总算是沉寂了。
+
+（注：OOBuck,即double-O-buck散弹，弹长76.2毫米，直径8.38毫米，最早用于猎鹿）
+
+<se id="1" src="BMW僽儗乕僉" mode="normal" time="" loop="off" effect="">//!se brake
+<CLEAR><BACKGROUND SRC="1700x3">//#! 1700x3 1
+<WIPE EFFECT="fade" TIME="0">
+
+<BOX type="0">//%w
+可是没等我喘口气，又有一辆奔驰车从相反的方向直冲进停车场。
+<se id="2" src="BMW媫敪恑憱峴" mode="normal" time="" loop="off" effect="">//!se brake
+
+这次的敌人似乎想利用车体的硬度与重量取代射击。奔驰车一路狂奔，朝着满是疮痍的Civic冲了过来。
+
+　打算连人带车一起干掉吗!?
+
+<se id="3" src="儀儞僣僼儖壛懍" mode="normal" time="" loop="off" effect="">//!se brake
+
+　没时间换子弹了。
+  我扔掉M3，从怀里拔出手枪，对准来车的挡风玻璃连射起来
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　1枪、2枪……
+
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　第3枪似乎击中了驾驶员……但这并没能阻止奔驰车的突进。
+
+<se id="1" src="儀儞僣僼儖壛懍" mode="normal" time="" loop="off" effect="">//!se brake
+<CLEAR><BACKGROUND SRC="儀儞僣撍恑儗僀僕恎峔偊">//# 1700x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　来不及闪开了。
+　我打定主意，跳上Civic的发动机罩，在渐渐逼近的奔驰车的前车灯光中摆好了姿势。
+
+<se id="2" src="crash2" mode="normal" time="" loop="off" effect="">//!se crash2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+　就在奔驰车从侧面将Civic像纸箱一样撞的七零八落之前，我从发动机罩上一跃而起，跳向奔驰车的顶盖。
+
+<se id="3" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　我用肩膀在坚硬的顶盖上着陆，接着顺势滚向车后窗和后备箱，最终落在了奔驰车的后方。
+
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<CLEAR><BACKGROUND SRC="儀儞僣僋儔僢僔儏">//# bmw_crash 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不光后背和腰部，自己的全身都遭受了强烈的冲击，不过似乎没有伤到骨头。
+　可是，落到奔驰车上的时候，自己好像把枪弄掉了。
+
+　幸运的是，奔驰车撞到Civic以后就停住了，并没有人从车上下来。
+  他们应该都在自己的枪击中丧命了吧。
+
+　我们的位置已经暴露了。
+  这两辆车只是个开始，马上就会有更多的追兵赶过来吧……
+
+<wait time="800">
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="1" src="F40accel2" mode="normal" time="" loop="off" effect="">//!se F40accel2
+<CLEAR><BACKGROUND SRC="儀儞僣僋儔僢僔儏">//# bmw_crash 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　身后响起了V8发动机的轰鸣声。
+  那刚猛的气息，像是要吹飞所有的软弱一样，让人感到无比的可靠。
+
+<BOX type="4">//%sL
+「快上来，{名}!」
+
+<BOX type="0">//%w
+　自己的枪……大概滚到那两台报废的汽车下面了吧。
+  我环视了一圈，一时也没能发现。
+
+<CLEAR><BACKGROUND SRC="mp5_000">//# mp5_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　无奈之下，我只得从Civic里取回MP5和备用弹夹。
+  就现在而言，先弄把武器才是上策。
+
+<BOX type="4">//%sL
+「{名}，快一点!!」
+
+<BOX type="0">//%w
+「哦!」
+
+<CLEAR><BACKGROUND SRC="1700x4">//# 1700x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我刚乘上副驾驶席，
+<se id="1" src="F40媫敪恑" mode="normal" time="" loop="off" effect="">//!se F40go1
+　连车门都还没来的及关上，克劳蒂娅就开着F40冲了出去。
+
+　既然已经被发现了……就没必要在意显眼不显眼了。
+　现在最重要的是机动力。
+
+　最后，我们只得依靠V8发动机那怪物一般的潜在力量。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140n6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="3" src="F40憱峴150幒撪" mode="normal" loop="off">
+
+<wait time="900">
+<bgm src="speed2" mode="fadein" old="fadeout" time="10" loop="on">//$ speed2.swa 0 255
+<BACKGROUND SRC="僋儘僂僨傿傾幵拞">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「最后的疾驶……真的是一种享受啊!」
+
+<BOX type="0">//%w
+　无视被追杀的现状……
+　不，正是因为深陷这样的窘境，克劳蒂娅才会吵吵嚷嚷地用无畏的笑脸注视着眼前的高速公路。
+
+<BOX type="4">//%sL
+「那些家伙的破车可是追不上我们的哦」
+
+<CLEAR><BACKGROUND SRC="MP_5_旼偺忋">//# mp5_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　听着她的豪言，我拉开MP5的枪栓，更换了子弹。
+
+「莉兹的枪呢？」
+
+<BOX type="4">//%sL
+「在仪表盘那里」
+
+<CLEAR><BACKGROUND SRC="HB_0000">//# HB_0000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在丢失了手枪的现在，自己不得不选择这把HARDBALLER。
+
+<se id="2" src="13_01" mode="normal" time="" loop="off" effect="">//!se 
+　我确认了一下弹仓和药室，打开保险之后便将HARDBALLER别在了腰带上。
+
+<se id="3" src="" mode="fadeout" time="15">
+<CLEAR><BACKGROUND SRC="1700x5">//# 1700x5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="F40楢懕捛偄敳偒" mode="normal" time="" loop="off" effect="">//!se F40run
+<BOX type="0">//%w
+　克劳蒂娅将档位升高，驾着F40向禁断的领域驶去。
+
+被强行超越的抗议声还来不及听见，就已经在多普勒效应中渐渐远去了。
+
+（注：多普勒效应，由奥地利物理学家、数学家克里斯琴·约翰·多普勒于1842年提出，该理论指出声调的高低是由声波振动频率的不同决定的，如果频率高，声调听起来就高；反之声调听起来就低。例如，火车以恒定速度驶近时，观察者会感觉到声调变高；相反，当火车驶向远方时，声音听起来则显得低沉）
+
+　在这样的速度下，已经没有人能够追上来了。
+
+「想试着突破音障吗？」
+
+<BOX type="4">//%sL
+「还是先离开地面再说吧」
+
+<BOX type="0">//%w
+　经过马里纳戴尔雷伊的时候，我们轻松地调侃起来。
+
+（注：马里纳戴尔雷伊，建于1968年，其间共花费10年时间，是世界上最大的人工游艇码头。马里纳戴尔雷伊在西班牙语中的意思是“王者之海”）
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　离开地面……吗。
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40憱峴150幒撪" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="moon2">//# moon 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　望着车窗外的夜空，我突然有了一种不祥的预感。
+
+　月光下，一个黑影从我的眼角闪过。
+
+「……」
+
+　刚才的，是什么？
+
+<BOX type="4">//%sL
+「保持这个速度的话，我们在日出前就能到达蒂华纳」
+
+<BOX type="0">//%w
+「嗯……」
+
+　我一边随口应答，一边小心地望着车外的那片黑暗。
+
+　这样就结束了吗……
+
+<CLEAR><BACKGROUND SRC="MP_5_旼偺忋">//# 1700x7 1
+<WIPE EFFECT="fade" TIME="10">
+　由于那种不祥的预感，
+  自己注意到的时候，手中MP5的枪柄上已经沾满了汗。
+
+<se id="2" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1700x6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1700x6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="chopper" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x7">//# 1700x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在进入杰弗逊大道的路口那里，那个死神正浮在半空。
+
+那个黑影与夜空融为了一体。
+自己之所以能在最后关头辨认出它，全靠从挡风玻璃里面透出的模糊的机内灯光。
+
+「克劳蒂……」
+
+<se id="2" src="F40幵慄曄峏" mode="normal" loop="off">
+　没等我警告，克劳蒂娅也已经注意到了。她猛然将车身横了过来。
+  与此同时，突击步枪的枪口闪起了火光。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="3" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xg">//#! 1700xg 1
+<WIPE EFFECT="fade" TIME="0">
+　打破黑暗的弹雨差一点就击中了法拉利，在柏油路面上溅起阵阵火星。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+　果然是刚才的……直升机干的吗!!
+
+<se id="1" src="僿儕弰峲" mode="normal" time="" loop="on" effect="">//!se chopper
+<se id="2" src="F40媫敪恑" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="1700x9">//# 1700x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　悬停着的直升机，一下子就变成了后视镜中的一个点。
+  可是……
+
+　它马上以凌驾F40的加速力追了上来。
+
+　想不到连这种东西都用上了……
+　这条林肯大道在洛杉矶国际机场的管辖范围内，塔台现在应该正陷入一片混乱之中吧。
+
+　看样子，Inferno也已经豁出去了。
+
+<BOX type="4">//%sL
+「抓紧!」
+
+<se id="3" src="F40僪儕僼僩" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="1700xg">//# 1700xg 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　话音未落，克劳蒂娅便驾车小幅度地蛇行起来，试图躲避敌人的视线。
+
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　曳光弹飞过左右车窗，留下了流星一般的轨迹。
+
+　幸运的是，我们遭受的只有枪击而已。
+　由于驾驶的不是真正的武装直升机，敌人只能让拿着突击步枪的枪手坐在机内进行攻击，这就使射击的稳定性受到了极大的影响。
+
+//<se id="2" src="僿儕弰峲" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x4">//# 1700x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　话虽如此，我们还能撑多久呢……？
+
+　螺旋桨的声音盖过了V8发动机隆隆的吼声。这让我产生了和敌人肉搏的想法。
+
+「要打开了!」
+
+<BOX type="4">//%sL
+「啊？」
+
+<BOX type="0">//%w
+　没时间扳动开关了。
+  我用MP5的枪托敲碎了侧面的车窗。
+<se id="2" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+
+　时速200公里的狂风瞬间灌进F40车内，
+  头发在风中狂舞的克劳蒂娅发出了不似人声的尖叫。
+
+//<se id="3" src="僿儕弰峲" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x8">//# 1700x8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　直升机正直直地对着法拉利，紧跟在后面。
+　被安全带吊着的枪手将半个身子探出机外，他手中的AR15发出暗淡的光芒，仿佛近在眼前……
+
+（注：AR15，即AR15自动步枪，该枪由费尔柴德阿玛莱特公司的尤金·斯通纳设计的，由于首次使用5.56毫米的口径，因而被誉为是开创小口径化先河的步枪）
+
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//# 1700x8 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="庡恖岞俵俹俆幩寕">//# 1700x8 1
+<WIPE EFFECT="fade" TIME="0">
+　我费力地在刀子一般的气流中睁开眼睛，将手臂伸出打破的窗外用MP5进行射击。
+
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　大部分的子弹都打偏了，命中的几发也只是在直升机身上溅起了点点火星。
+  这样根本没法对它造成致命打击。
+
+　敌人和我面临着相同的处境……彼此的速度都太快了，没法用手中的武器轻易击中对方。
+
+//<se id="1" src="僿儕弰峲" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x9">//# 1700x9 1
+<WIPE EFFECT="fade" TIME="10">
+　明明没有必要害怕，可是直升机还是有意地与F40保持着距离。
+　看起来，敌人似乎打算对下方的猎物好好嘲弄一番。
+
+……这是当然的。
+地上的家伙无论跑的多么快，在天上的猛禽看来也只是爬行着的猎物而已。
+骏马也好，甲虫也好，都没什么区别。
+
+　可恶，要怎么办才好……
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40僇乕僽" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="1700x0">//# 1700x0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　正当我咬牙切齿地懊恼的时候，身体被猛然甩向一边。
+
+　凭借娴熟的漂移技术，克劳蒂娅驾着F40从林肯大道直接切进了萨巴鲁维塔大道。
+
+<se id="1" src="F40憱峴150幒撪" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="1120n1">//# 1120n1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「还有1公里，再忍耐一下吧」
+
+<BOX type="0">//%w
+　克劳蒂娅冷静地说道。
+
+　从这里起，1000米……？
+
+　在脑中展开道路地图以后，我总算明白了克劳蒂娅的意图。
+
+<se id="1" src="" mode="fadeout" time="15">
+<se id="3" src="F40憱峴250" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="1700x5">//# 1700x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这条路是南北向的一条直线，但在中途有长达500米的隧道。
+
+　直升机应该不会追进去吧。
+　的确，以那个驾驶员的水平可以将直升机开进隧道，但绝对无法保持当前的速度。
+　凭借F40的加速度，很快就可以拉开决定性的距离。
+
+<se id="2" src="僿儕旘傃嫀傝" mode="normal" time="" loop="off" effect="">//!se chopper2
+　就像是等待着濒死的猎物断气的秃鹫一样。
+  一直紧跟在F40上方的直升机从容地提高了速度，向前方飞去。
+
+　……原来如此。
+　隧道的出口只有一个，他们打算抢先一步在出口那里拦截我们吧。
+　
+　有什么办法能比他们更快一步吗？
+
+<se id="2" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="black">//
+<WIPE EFFECT="fade" time="7">
+<wait time="1000">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="Tunnel1">//# Tunnel1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在我绞尽脑汁思考的时候，F40冲进了隧道。
+<se id="1" src="F40憱峴80" mode="normal" time="" loop="off" effect="">//!se F40down
+　……可是不知为何，克劳蒂娅渐渐降低了F40的速度。
+
+<CLEAR><BACKGROUND SRC="Tunnel3">//# Tunnel3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……要弃车了哦」
+
+<BOX type="0">//%w
+「啊!?」
+
+<BOX type="4">//%sL
+「这么长的隧道里肯定会有安全通道，从那里逃往机场吧」
+
+「敌人无法长时间停在空中。
+  这样一来就能甩掉他们了」
+
+<BOX type="0">//%w
+「……接下来呢？」
+
+<BOX type="4">//%sL
+「还没想好」
+
+「可是，不这样的话就没法从直升机那里逃掉了」
+
+<CLEAR><BACKGROUND SRC="Tunnel2">//# Tunnel2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　伴随着V8发动机的低吟，我们沿着路边慢慢地前行，同时在空空的直线隧道内寻找着安全通道的荧光指示牌。
+
+<se id="1" src="" mode="fadeout" time="20">
+<se id="2" src="F40掅懍掆巭" mode="normal" time="" loop="off" effect="">//!se F40idol
+
+<BOX type="4">//%sL
+「……在那里」
+
+<BOX type="0">//%w
+找到了。
+保持着发动机的空转，克劳蒂娅将车停了下来。
+不过，现在的问题是，我们逃进机场以后该怎么办呢？难道要寻找即将起飞的客机、躲进货仓里面吗？
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+<CLEAR><BACKGROUND SRC="searchlight">//# searchlight 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，隧道远方闪烁着的探照灯的白光打断了我的思绪。
+
+//<se id="1" src="chopper" mode="normal" time="" loop="off" effect="">//!se chopper
+　……在接近，吗？
+
+　看来敌人也在中途想到了这样的计划。
+
+　为了阻止我们弃车逃走……直升机从隧道的那一侧直接冲了进来。
+
+　大部分的车辆都惊恐地给直升机让开道路，慌乱地停在了路边。
+
+　这下全完了……
+　离开汽车逃往安全通道的话，我们两人将刚好处于直升机的射程之内。
+
+　那么，掉头逃走呢？
+　可是后路应该也已经被追兵断绝了。
+
+<se id="1" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="1120n1">//# 1120n1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　仅仅是一个对视，就已经足够让我们意志相通了。
+
+<se id="1" src="19_05" mode="normal" loop="off">
+　我为MP5换上新的弹夹，同时用左手拿起HARDBALLER。
+
+<se id="2" src="F40嬻悂偐偟" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　克劳蒂娅则在空挡的状态下踩下油门踏板，转速计上的指针猛烈地跳动起来。
+
+<se id="1" src="" mode="fadeout" time="8">
+　不会后退、不会停止，只是……一路向前。
+　她一直都是这样活着的，现在，也是如此。
+
+　即使没有相互示意，我们的心意也是相通的。
+　迷惘的话，只要像平时那样向前冲就好了。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+　用无人能及的速度……前进。
+
+<CLEAR><BACKGROUND SRC="searchlight">//# searchlight 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　探照灯的白光，照亮了F40的车内。
+
+<se id="1" src="F40僔僼僩" mode="normal" loop="off">
+　最后，彼此都朝着对方露出开朗的微笑……接着，克劳蒂娅挂上了最高档。
+
+<se id="2" src="F40儂僀儖僗僺儞" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="1700xa">//# 1700xa 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　被注入过量扭矩的后轮在地上空转着，擦出阵阵白烟。
+　随着制动装置的解除，F40如同火箭一样疯狂地冲了出去。
+
+<se id="1" src="F40壛懍4" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="1700xc">//# 1700xc 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　转速计上的指针突破了4000大关。
+  伴随着耳边响起的怒号，涡轮觉醒了。
+
+<se id="3" src="F40憱峴250" mode="normal" loop="off">
+
+　我戴上墨镜，看到了探照灯光芒那一侧的、直升机上的人影。
+
+<CLEAR><BACKGROUND SRC="1700xb">//# 1700xb 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　直升机一边加速，一边开始朝我们射击。
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　敌人的速度也不低于每小时100公里。
+
+<se id="3" src="" mode="fadeout" time="15">
+<se id="2" src="F40壛懍4" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="1700xc">//# 1700xc 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一边紧盯着漫天飞舞的子弹，一边冷静地作出判断。
+
+　必须更进一步地吸引敌人的注意。
+　再近些，
+  还得再近些，直到我能准确击中那架直升机的座舱罩为止……
+
+　涡轮的声调在不断地升高，听上去就像不祥的赞美歌……
+
+<se id="3" src="F40憱峴250" mode="normal" loop="off">
+　双方的相对速度已经超过了每小时300公里。
+
+　现在已经轮不到神明出场了。
+  自己根本就没时间去想那些适合的祈祷词。
+
+　不过，对恶魔许愿的言辞，倒是马上就能想出来。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xb">//# 1700xb 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+非要许愿的话，我希望敌人被地狱之火烧灼殆尽……
+撒旦，保佑我的50发子弹全部命中吧，为它们施加一击必杀的祝福吧。
+
+　在自己不输给V8发动机的怒吼声中，右手的MP5与左手的HARDBALLER同时咆哮起来。
+
+<se id="2" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xh">//#! 1700xh 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　第1枪打碎了F40的挡风玻璃。
+//<se id="2" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+　被打坏的玻璃在强大风压的作用下，如雪崩一般瞬间涌入了车内。
+
+　分裂成粉尘状的玻璃颗粒像雨夹雪一样包围了车内的二人。
+
+<se id="3" src="19_03_roop" mode="normal" time="" loop="on" effect="">//!se 
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xe">//#! 1700xe 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　第2枪的发射炎则将这场玻璃暴风雪烧的无影无踪。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<se id="2" src="11_02_HB5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　疾风、玻璃碎片、空弹壳……还有敌人的子弹，
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　这些东西混杂在一起，如台风般席卷着车内。
+
+//<se id="1" src="15_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　眼睛能看到的只有一片白色。
+　烧灼着视网膜的闪光与发射炎……覆盖了世间的一切。
+　
+//<se id="1" src="15_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　枪声、涡轮声，还有呼啸的风声。
+
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<se id="2" src="" mode="normal" time="" loop="off" effect="">//!se 0
+
+<BOX type="0">//%w
+　接着，一切都消失了。
+　无论是枪声、双手扣动扳机的感觉，还是令人炫目的、充斥着白光的世界……
+　全都同时陷入了沉默。
+
+　我已经死了吗……
+　在突如其来的寂静中，我这样问着自己。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left F40explosion wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="VER3" mode="normal" time="" loop="off" effect="">//!se exprosion
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="F40explosion">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　下一个瞬间，背后响起了巨大的爆炸声。红色的火光和灼热的冲击波朝着F40直扑过来。
+
+　刹那间，后视镜中映出了……化为火海的隧道内的惨状。
+
+　MP5和HARDBALLER……究竟是哪把枪、哪发子弹击毙了直升机驾驶员，已经无从知晓了。
+
+　驾驶员中弹后，由于失去控制，直升机的螺旋桨撞上了隧道的壁面……紧接着，失去升力的直升机成为了牛顿力学的牺牲品，掉下来摔成了一堆废铁。
+
+　在直升机即将坠落地面的时候，F40从下方与它擦肩而过，惊险地逃过一劫。
+
+<se id="2" src="F40憱峴80幒撪" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="Tunnel1">//# Tunnel1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我向旁边看去。
+　克劳蒂娅也安然无恙，正两眼发直地死命握着方向盘。
+
+　F40已经被打成了马蜂窝。
+　明明吃了整整1梭子的0.223口径阿玛莱特弹，可是，不但乘员与发动机毫发未损，就连轮胎都安然无恙……真可以称得上是奇迹了。
+
+「……克劳蒂娅？」
+
+<BOX type="4">//%sL
+「……!?」
+
+<BOX type="0">//%w
+　经我这么一喊，她才从震惊的状态下缓过神来。
+
+<se id="2" src="" mode="fadeout" time="20">
+<se id="1" src="F40掅懍掆巭" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="1700xf">//# 1700xf 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　克劳蒂娅踩下制动踏板，将伤痕累累的F40停了下来。
+
+　坠落起火的直升机残骸已经被远远地甩在了身后。
+  面前就是出口，无尽的夜色正张开大口等待着我们。
+
+<BOX type="4">//%sL
+「赢了……吧？」
+
+<BOX type="0">//%w
+「看样子，应该是吧」
+
+
+<calc workname="gun16" operator="1" mode="global">
+<A HREF="1750.txt" OPERATOR="">//~ 175050

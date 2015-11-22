@@ -1,0 +1,472 @@
+　Ein……
+
+「没想到……你还活着」
+
+<BOX type="5">//%sR
+「彼此彼此。{姓}{名}……」
+
+「不……现在应该叫你Phantom了吧」
+
+<BOX type="0">//%w
+　现在总算是真相大白了。
+　能够差使她的人，只有一个。
+
+　赛斯·玛斯塔……
+　一切都是他一手操纵的。
+
+　所有发生的事情，都是他所导演的完美的复仇剧。
+
+　梧桐大辅、克劳蒂娅、还有维斯梅尔……他煽动这三个人互相猜忌、勾心斗角，然后让这些曾经陷害过自己的仇敌们一个个地自取灭亡。
+　怎么看这都是他的做事风格。
+
+　我不知道他究竟是如何打探到Inferno和梧桐组的内部情报、然后秘密进行谋划的。
+  不过，除了这个疑问，其他的一切都指明他就是罪魁祸首。　
+
+　揭露真相、引Inferno出动的，应该也是赛斯吧。
+
+「无论如何都要动手吗？」
+
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="right">//# elen6^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="right">//# elen6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不想死的话，就拿出真本事来吧」
+
+<CLEAR><BACKGROUND SRC="0010p2">//# 0010p2 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0070p1">//# 0070p1 1
+<WIPE EFFECT="fade" TIME="10">
+
+<CLEAR>
+<BACKGROUND SRC="black">//# 0070p1 1
+<WIPE EFFECT="fade" TIME="10">
+
+<BOX type="0">//%w
+　她的言语、笑脸与泪水……还有和她共同度过的每一天的记忆。
+　全都如同被冰霜覆盖了一样，渐渐隐没进浓浓的杀意之中。
+
+<CLEAR>
+<BACKGROUND SRC="roomC2">//# roomC2 1 elen6 20 
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="right">//# roomC2 1 elen6 20 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　到最后，我们还是迎来了这样的命运。
+
+　1年前……
+　误伤她的那个瞬间，自己只要想起来就会止不住地后悔。
+
+　可是，那样的自责都是徒劳的。
+　即使是重新相见的现在，我们两人依旧要相互厮杀。
+
+　无论怀有怎样的感情，见面的话还是不得不战斗……
+　这就是我们的命运。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　我把枪扔到了地上，现在已经没有换子弹的时间了。
+　就让我用近身格斗来应对她的挑战吧，就像我们初次见面的那个夜晚一样。
+
+「真是让人怀念的场景啊」
+
+　我深深地、慢慢地调整着呼吸，同时重新攥紧了冰镐的手柄。
+
+<BUSTUP NAME="elen2" face="4" MODE="on" zoom="" ALIGN="right">//# elen2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Ein也摆出感受不到呼吸与心跳的静谧的架势，慢慢地举起了刀。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　先动手的，是我。
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　首先是朝她面部的一击。当然，这只是佯攻。
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　杀招与佯攻交织在一起，我持续不断地刺向Ein的脸部。
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　而她则不慌不忙地将我的攻击一一避过。
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="3" src="swingG" mode="normal" time="" loop="off" effect="">//!se swingG
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="傾僀儞僫僀僼愴摤暈">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　作为回礼，Ein看准时机，用小刀给了我一记迅速、沉重而又准确到令人绝望的反击。
+
+<se id="1" src="pally" mode="normal" time="" loop="off" effect="">//!se pally
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="傾僀儞偲僫僀僼奿摤姰惉">//# 僫僀僼 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　千钧一发之际，我用冰镐挡住了刀刃。
+　军刀与冰镐本来就不是一个级别的武器，想用纤细的冰镐挡住来势汹汹的刀锋，实在是太勉强了。
+
+　两把武器交错在一起，冰镐渐渐吃不住劲了。
+
+　糟糕……
+
+　可是Ein并没有拘泥于武器上的优势。
+　在我因武器的问题而动摇的时候，她不失时机地改变了战法。
+
+　她空着的左手犹如蛇一般地伸了出来，以迅雷不及掩耳的速度抓住了我的夹克衫的领子。
+
+「!!」
+
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　我也马上作出反应，在身体浮空之前迅速地扯开了夹克衫的前排扣。
+
+<se id="1" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+　虽然自己被扔了出去，但由于之前夹克衫已经敞开了，因而大大破坏了背投的完美性。
+
+　由于威力大打折扣，自己虽然吃了一记致命的背投，却依然能够一跃而起。
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1 elen2^4 20
+<BUSTUP NAME="elen2" face="4" MODE="on" zoom="" ALIGN="right">//# roomC2 1 elen2^4 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　保持刚才的距离，我再次和她对峙起来。
+
+　交手仅仅数秒，就已经分出胜负了……不管我再怎么挣扎，都不会有任何胜算。
+
+　昔日的恐惧与战栗在脑中苏醒了。
+　只要像这样认真交手……就能明明白白地感受到我们之间的实力差距。
+
+　自己终于明白了。
+　即使经过了1年的磨练，自己还是跟不上她的脚步。
+
+　速度、准确度、判断力……不管是哪一方面，{ヒロイン}都凌驾于我之上。
+
+　无论如何我都不能输……现在输掉的话，死的不仅仅是自己，还会搭上克劳蒂娅的一条命。
+　如果不能活着把这张光碟交到克劳蒂娅手中，那她也是活不长的。
+
+　可是，要怎么做才好？
+　在如此悬殊的实力对比下，究竟哪里才有胜算呢？
+
+　只有一次。
+　胜利的机会，只有一次……
+
+<CLEAR><BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一边谨慎地计算着间距，一边小心地开始横向移动。
+
+　说起来，第一次与Ein战斗的时候，自己也是像这样变换位置，靠着偷袭赛斯打了她一个出其不意才获胜的。
+
+　我慢慢地移动，在后背正对吧台的位置停住，压低上身与Ein对峙起来。
+
+　忘记吧。
+　战斗的理论也好，要害的位置也好，统统忘记吧。
+
+　自己瞄准的，是脚。
+　现在要考虑的，只有如何攻击脚部而已。
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　和刚才一样，我再次用冰镐进行连续的攻击。
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　只不过这一次，我充分利用了自己力量上的优势，
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　采取的是大幅度长间隔、攻守兼备式的攻击。
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　当然，臂力的差距可以很轻易地用腿技弥补。
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……不过，这正是我的目标所在。
+<se id="2" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="swingS" mode="normal" time="" loop="off" effect="">//!se swingS
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="傾僀儞僫僀僼2" face="" MODE="on" zoom="" ALIGN="right">//# roomC2 1 elen2^4 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一直在游刃有余地躲避着冰镐的Ein，突然大幅压低上身。
+　来了……
+
+<se id="2" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　在我的引诱下，她终于开始了连续的侧踢。
+
+轻盈的身体，再加上速度与准确性。
+她侧踢的威力虽然还没到致命的程度，可被踢断的肋骨要是刚好扎进心脏，同样会造成一击必杀的效果。
+
+　虽然了解那种致命的效果，我还是丝毫没有要躲避的意思。
+
+　踮起脚尖，将全身的力量聚集在腹部……这就是我的对策。
+
+　Ein的左腿直奔我的胸口而来……
+<se id="1" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+　我对准她的腿肚子，用冰镐的尖刃不顾一切地向下扎去。
+
+<se id="2" src="hardshock" mode="normal" time="" loop="off" effect="">//!se hardshock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　腿部受伤的Ein踢中了我的腹部。由于腹部坚硬异常，反作用力使得Ein猛烈地全身一震。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+　被一脚踢飞的我在空中强行维系着几乎要因冲击而消失的意识，同时这样告诉自己。
+
+　决胜负吧。
+
+　与实力远高于自己的Ein对决，取胜的方法只有一个……利用『地利』。
+
+　在Ein出现之前，我就已经在这间客厅里开始战斗了，因而对战场的情况更为了解。
+  当然，自己也不过是比Ein早来了几分钟而已。
+
+　可是，就在这几分钟的时间里，4个男人死在了客厅之中。
+
+　这个Ein尚未掌握的情报……成了我的救命稻草。
+
+<CLEAR><BACKGROUND SRC="1000x9">//# 1000x9 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……最初杀死的那个家伙手里，握着一把MP5冲锋枪。
+
+　而且，根据我刚才谨慎的目测与估算，那家伙尸体的位置应该就在自己被踢飞的方向那里。
+
+　就这样滚过去、抢过MP5进行射击……
+　Ein的一条腿受了伤，爆发力已经被削弱了。在她冲过来之前，说不定能赶得上……
+
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="roomC2">//#! roomC2 1 <WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　脊椎感受到了冲击力。
+  后背与地板之间有什么东西在……是那家伙的尸体。
+
+<CLEAR><BACKGROUND SRC="mp5_000">//# mp5_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我疯狂地找寻着MP5。
+
+　指尖传来金属触感的那个瞬间……
+　
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那个瞬间，自己仿佛失去了正常的视力。
+
+<CLEAR><BACKGROUND SRC="僫僀僼">//# 僫僀僼 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　映入双眼的影像中，自己唯一能够辨认的，是克里斯里夫刀的刀刃……
+　那暗淡的光芒，难以阻挡的气势，还有近在咫尺的距离。
+
+　Ein的速度快到令人难以置信，根本看不出她已经伤了一条腿。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　……死吧……
+
+　清醒的大脑中产生了这样冷酷的认识，同时，我的身体向旁侧一翻，右手勾上了MP5的扳机。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="0">
+　目标什么的已经无所谓了，32发9mm帕拉贝鲁姆弹在我的面前形成了一张弹幕。
+
+（注：帕拉贝鲁姆弹，即Parabellum，产自德国狄那米特·诺贝尔公司，是目前世界各国使用最多的军、警、民用弹）
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+　枪声、硝烟与发射炎的闪光……构成了世界的全部……
+
+//> black dummy center 255
+<se id="2" src="" mode="fadeout" time="5">
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="3" src="" mode="fadeout" time="5">
+<wait time="900">
+<se id="1" src="19_04a" mode="normal" loop="off">
+
+<box type="0">
+　接着，子弹打光的同时，真空般的寂静降临了。
+
+//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　想爬起来的时候……却发现自己根本就起不了身。
+  之前腹部挨的那一脚，让我把胃里的东西全都吐了出来。
+
+　我不知道她是不是死了。
+　要是自己失手了，就只能束手待毙、等着她用小刀割断我的颈动脉了。
+
+　可是，呕吐依然在继续，刀刃也没有落下。
+　屋子里没有任何东西在动。
+
+　我用颤抖着的双腿支撑起身体，站了起来。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　被9mm子弹的乱射撕裂的沙发边上……她正倒在那里，就像一具被抛弃的人偶。
+
+　还有呼吸。
+
+　可是，即便是在一片昏暗中，还是可以很清楚地知道她伤在了动脉。
+　……已经，无法救治了。
+
+　不顾满身沾染鲜血，我扶起Ein的上身。
+
+<CLEAR><BACKGROUND SRC="1610p1">//# 1610p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……你变强了呢，{名}」
+
+<BOX type="0">//%w
+「以这样的方式结束，对我们来说真的好吗？」
+
+<BOX type="5">//%sR
+「很好啊……」
+
+「这样一来，总算是结束了。
+　不管是什么，都……」
+
+<BOX type="0">//%w
+「Ein……」
+
+「你从一开始就……」
+
+<BOX type="5">//%sR
+「我想，如果是你的话，一定可以做的到」
+
+「让我作为Ein……作为主人的骄傲——Ein……迎来生命的终结」
+
+「你是个特别坚强的人，不论遇到什么打击都能无畏地前行……」
+
+<BOX type="0">//%w
+「我……」
+
+　“我不是那样特别的人”，虽然自己想要这么说……还是算了吧。
+
+　自己并不强，一切都是被逼无奈。
+
+　不变强的话，就无法活下去。
+  弱肉强食，这个世界就是如此的冷酷无情……
+
+　冷静地击杀曾经既是老师又是同伴的少女……不变成那样的男人，就无法活下去。
+
+<BOX type="5">//%sR
+「对我，有什么……感想吗？」
+
+<BOX type="0">//%w
+「嗯」
+
+「你是最强的敌人」
+
+　没有丝毫的虚伪造作，这是我发自肺腑的真切之言。
+
+<BOX type="5">//%sR
+「太好了……」
+
+「如果你见到主人的话……请这样告诉他」
+
+「你的Ein，很强」
+
+<CLEAR><BACKGROUND SRC="1610p2">//# 1610p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　期望的时刻来临了。少女静静地微笑着，闭上了眼睛。
+
+  稍有偏差的话，说不定自己也会走上和她一样的路。
+  正如她所说的，“你会成为第二个我”。
+
+　一生都在利用与被利用，时候到了就被当成垃圾舍弃。
+
+　这就是杀手。
+　这就是士兵。
+
+　这就是……Ein。
+
+<A HREF="1650.txt" OPERATOR="">//~ 1650
+0

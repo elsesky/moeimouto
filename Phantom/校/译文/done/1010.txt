@@ -1,0 +1,130 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔，回来了啊」
+
+<BOX type="0">//%w
+　我刚出现在Inferno本部，提前回到洛杉矶的莉兹就过来跟我打招呼。
+
+<BOX type="5">//%sR
+「我已经汇报完了」
+
+「你可以休息一下了」
+
+<BOX type="0">//%w
+「我不太适应冷天气呢」
+
+　我回想起这几天在纽约的摩天楼的生活。
+  在洛杉矶住久了，还不习惯看不见天空的街道。
+  好在目前在东海岸暂时没有任务了。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20^6
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「话说回来，你这次也很乱来啊」
+
+「竟然假扮演员」
+
+<BOX type="0">//%w
+「因为没有其他可以下手的地方啊」
+
+　即便是他的个人包场戏，可德鲁克的保镖还是像铜墙铁壁一样，根本无机可乘。
+
+　剧场中唯一可以袭击那个包厢的地方就只有……舞台上。
+
+　我刚好看到有个演员跟自己体格相似，穿着的衣服也正好可以将枪藏起来，于是就跟他调了包……
+
+　说实话，这次真的连我都捏了一把汗。
+
+「克劳蒂娅呢？」
+
+<BOX type="5">//%sR
+「还在进行首领会谈」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　莉兹的脸上掠过一丝不安的神情。
+
+「……发生争执了吗？」
+
+<BOX type="5">//%sR
+「是啊，还不是因为克劳在日本见的那些家伙」
+
+<BOX type="0">//%w
+「黑社会的事吗」
+
+　克劳蒂亚正与日本的黑帮积极地交涉着……这早已是众所周知的事实了。
+
+<BOX type="5">//%sR
+「有点麻烦了啊」
+
+<BOX type="0">//%w
+「……」
+
+　只要是跟克劳蒂娅亲近的人，都会在心里这么说的。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅所处的立场，本来就不允许她跟特定的犯罪组织的人有私人交情。
+
+　为了保证公平，Inferno这个联盟集团的代理人必须要达到彻底的中立。
+  克劳蒂亚在之前曾亲口这样对我说明过。
+
+　从这一点上来看……
+　她给予梧桐组的援助实在是多的有些过分了。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说，最近怎么样」
+
+<BOX type="0">//%w
+「什么怎么样？」
+
+<BOX type="5">//%sR
+「我是说克劳蒂娅。现在不是你做她的护卫吗？」
+
+<BOX type="0">//%w
+　自从我接替莉兹做克劳蒂娅的护卫以来，已经有一段时间了。
+
+　规模越来越庞大的Inferno成立了作为常备军的战斗部队，现在由莉兹担任指挥
+
+<BOX type="5">//%sR
+「不知怎么地，我总觉得你好像在勉强自己」
+
+「最近发生了什么奇怪的事情吗？」
+
+<BOX type="0">//%w
+「不……没什么」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说啊」
+
+<BOX type="0">//%w
+　我茫然地这样说完后，莉兹皱起了眉头。
+
+<BOX type="5">//%sR
+「最近，你可是很受关注啊」
+ 
+
+「你也稍微注意点，比如女人们的脸色什么的」
+
+<BOX type="0">//%w
+「……」
+
+<A HREF="1015a.txt" OPERATOR="0200=1">//~ 1015a
+<A HREF="1015a.txt" OPERATOR="0255=1">//~ 1015a
+<A HREF="1020.txt" OPERATOR="">//~ 1020

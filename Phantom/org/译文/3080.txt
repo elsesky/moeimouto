@@ -1,0 +1,160 @@
+<CLEAR><BACKGROUND SRC="passage5a">//# passage5a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　说不定她已经回家了，那样的话就只能打电话联系。
+  不过，我还是决定先回一趟校舍。
+
+　要是她有社团活动的话，应该就还在校内。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage8a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="passage8a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　看来连扫除组都已经完成了自己的工作，教室和走廊里连个人影都没有。
+
+　……我本以为是这样，
+  但侧耳倾听，却依稀能够听见某处传来一个熟悉的高亢声音。
+
+　那是……B班？
+
+<CLEAR><BACKGROUND SRC="classroom4a">//# classroom4a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我从B班教室门口向里望去，只见本应无人的教室里坐着两个熟悉的人影。
+  其中一个是我正在寻找的，另一个则是多余的。
+
+　美绪低着头，似乎正坐在自己的座位上。早苗则坐在她邻座的椅子上，展开着暴风骤雨般的说教。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「真的是，难得我费尽心血给你准备好，你怎么这么不争气呢!?」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……对不起」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「跟练习的时候一样就好啦」
+
+「『我喜欢你，请做我的男朋友吧』，就这么两句话，然后就算扭断他的脖子也要让他点头答应!」
+
+「……所需时间5秒」
+
+「告白可是闪电作战!
+哪有拖拖拉拉的道理!?」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……可是我，果然还是做不到」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="left">//# sanae1^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「啊啊，受不了你，这可是校园生活最后的一个春天啊？你想白白浪费掉吗」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我实在看不下去了，于是便毫不客气地打断了她们的谈话。
+
+「早苗!」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「!?」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……」
+
+<BOX type="0">//%w
+　看来，她们二人都没有预料到我会突然出现在这里。
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　特别是美绪，比刚才接受早苗斥责时显得更加狼狈。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「来得正好，{姓}。我还正想去找你呢」
+
+<BOX type="0">//%w
+「现在你找到我了，该满意了吧」
+
+「我和藤枝同学有话要说，你赶快给我消失」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哎？　哎呀，这样啊」
+
+<BOX type="0">//%w
+　早苗尽力掩饰着脸上复杂的笑容。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那么老板，小的就按照您的吩咐马上消失，接下来的事请就交给您了……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+说着，早苗逃命一般地冲出了教室……
+在她消失之前，我感觉她在我身后不停地挥动着手臂，似乎在用肢体语言向美绪传达着指令或鼓励。
+
+接着，她便乖乖地离开了教室。
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　教室里又只剩下了我们两个人。
+  不过这一次，我已经明白了事情的原委，因而没有让尴尬的沉默再次降临。
+
+　我无言地坐在早苗刚刚坐过的椅子上。
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪看着我，脸上的表情简直就像等候判决的罪犯一样。
+
+「藤枝同学……那个」
+
+<BOX type="5">//%sR
+「……是」
+
+<BOX type="0">//%w
+「关于刚才的答复……」
+
+<A HREF="#慖戰巿" OPERATOR="1450b=1">
+<A HREF="#慖戰巿" OPERATOR="3080a=1">
+<A HREF="3080a.txt" OPERATOR="">//~ 3080a
+<MARKER NAME="#慖戰巿">
+<CHOICE HREF="3080a.txt" TEXT="＊同意" OPERATOR=""></A>//{ ＊承諾する 3080a ＊断る 3080b
+<CHOICE HREF="3080b.txt" TEXT="＊拒绝" OPERATOR=""></A>//{ ＊承諾する 3080a ＊断る 3080b

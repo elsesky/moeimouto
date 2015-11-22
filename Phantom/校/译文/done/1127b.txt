@@ -1,0 +1,40 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　与凯尔一起买东西的愉快的心情，在返回阁楼以后很快便被忧虑所取代，变得沉重起来。
+
+　对了。
+  我想不通的不是任务本身，而是交给我任务的方式。
+
+　目前，黑社会的众人还没有要被袭击的迹象。
+  自己暂时还可以轻松一阵子。
+
+　既然发出这样的指示，那克劳蒂娅又为何早早解除了我护卫的任务？
+
+　在轮到自己出场之前，我明明可以像往常一样待在克劳蒂亚的身边。
+  说起来，这种行动模式才更为正常吧。
+
+　说不定，需要单独行动的反而是克劳蒂娅吧？
+
+　连担任护卫的人待在旁边都会碍事……她有着这样的秘密吗？
+
+　我有些在意。
+　她究竟在干什么……
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么了？　在想事情吗？」
+
+<BOX type="0">//%w
+　我回过神来，发现凯尔正用非常担心的表情看着我。
+
+<CHOICE HREF="1127c.txt" TEXT="＊去克劳蒂娅那里" OPERATOR=""></A>//{ ＊クロウディアの許へ行く 1127c ＊やめておく 1127d
+<CHOICE HREF="1127d.txt" TEXT="＊还是算了吧" OPERATOR=""></A>//{ ＊クロウディアの許へ行く 1127c ＊やめておく 1127d

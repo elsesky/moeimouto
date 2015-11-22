@@ -1,0 +1,574 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　感電死した二人目の手を握ったまま、三人目の少女も即死した。
+
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+<CLEAR><BACKGROUND SRC="死に手B_640">//# 3660x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　仰向けに床に転がった拍子に、その顔を覆っていたマスケラが外れる。
+
+　多分、この学園の生徒と同年代の、まだあどけなさの残る少女。
+　違う運命を歩んでいれば、
+　早苗のように笑い、美緒のように恋をしていたであろう年頃の、女の子。
+
+　そうなる代わりに、この子はサイスに魅入られて、
+　笑顔を忘れ、涙を忘れ、
+　……そして死んだ。
+　かつての自分や{ヒロイン}と、まったく同じ境遇の少女。
+
+　光の失せた虚ろな眼差しは、だが、まだ憎悪の相を留めている。
+
+　何を思っていたんだろうか。
+　どれほど恨みながら死んだんだろうか。
+
+　今となっては、もう問うことも叶わない。
+
+　いつまで、こんなことを続けるんだろうか。
+
+　生きている限り、続くのか？
+　死ぬまで、終わりは来ないのか……？
+
+<CLEAR><BACKGROUND SRC="passage6c">//# passage6c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　感傷に浸っている暇はなかった。
+　残り三人、すでに異常は察知しているだろう。
+　すぐにも駆けつけてくるはずだ。
+
+　死んだ少女のカラシニコフを拾い上げ、廊下を駆けて階段を目指す。
+　階下に逃れるなら、今だ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school4c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="school4c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　振り向かなくても、隣にいる美緒が泣いているのは、気配で判った。
+
+　なぜ、あんな男のために……
+
+　だが、そう糺したところで
+　何にもならない。
+　美緒とて、
+　答えられはしないだろう。
+
+　逃がすなどと言いながら、奴はまんまと志賀たちを囮に使い、それで一人を仕留めていた。
+　甘い言葉で美緒をほだしておきながら、案の定、奴の中には卑劣な心算だけしかない。
+
+<BUSTUP NAME="siga3" face="3" MODE="on" zoom="" ALIGN="right">//# siga3^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　奴は性根まで
+　ハイエナ同然の屑だ。
+
+　にも関わらず、美緒は今も奴を想って泣いている。
+
+　もう二度と、会わせはすまい……
+　そう、志賀は心に決めた。
+
+　もし再び、
+　美緒の前に現れるようなら、
+　この手で引導を渡してやる。
+
+　約束を違えることには、
+　何の引け目も感じなかった。
+　志賀が守るべきは、
+　梧桐大輔との約束の方だ。
+
+<CLEAR><BACKGROUND SRC="school1c">//# dummy 20 school1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　ようやく、車を乗り付けた校門まで辿り着いた。
+
+　ファントムのバイクに加え、志賀のベンツや、梧桐組の兵隊を詰め込んできたヴァンが並んでいる。
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「乗りなさい、さあ早く!」
+
+<CLEAR><BACKGROUND SRC="3960p1">//# 3960p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+美緒を助手席に押し込んで、志賀もまた運転席についた。
+運転は死んだ舎弟に任せてあったが
+自分でも予備のキーは持っている。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　イグニッションにキーを差し込んだところで、ふと志賀の脳裏を、些細な疑問がよぎった。
+
+　サイス達の車は、どこだ？
+
+　こんな山間の校舎まで、
+　まさか徒歩で来たわけがない。
+
+　あの人数、
+　あの武装、
+　普通の乗用車であれば、
+　どう考えても2台は必要だ。
+
+　だが、校門の前には、
+　見知らぬ車は1台もない。
+
+　奴らは、車を隠している。
+　だが何故か？
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　そこまで考えて志賀は、
+　サイスの意図を理解した。
+
+　校内の掃討を始めた時点で、サイスは一人たりとも、この学園から逃がすつもりはなかった。
+　万が一、校門まで逃げ延びた者がいても、そこに罠を用意しておけば……
+
+<BOX type="4">//%sL
+「……？」
+
+<BOX type="3">//%m
+　志賀の緊張を感じ取ったか、美緒が物問いたげに横顔を窺ってくる。
+
+<BOX type="5">//%sR
+「……降りてください。
+　なるべく車から離れて」
+
+<BOX type="4">//%sL
+「……は、はい」
+
+<CLEAR><BACKGROUND SRC="school1c">//# school1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　訳も分からず降車する美緒。志賀もイグニッションからキーを抜き、外から自分の車を改める。
+
+　子細に観察すれば、
+　実に他愛もない仕掛けだった。
+
+　燃料タンクのフューエルキャップが半開きになり、そこからはみ出た2本のケーブルが、リアホイールア
+ーチの下に消えている。
+
+　タンクの中に突っ込んであったのは、銅線を剥き出しにされ、ショートするように寄り合わされたバッテリーケーブルだった。
+
+　ケーブルのもう一端は……車体の下をくぐって、おそらくはエンジンルームへ。
+
+　ボンネットを開けると、案の定、バッテリーからはプラグの配線が外され、代わりにさっきのバッテリーケーブルが繋がれていた。
+
+　気付かずにイグニッションキーを捻っていれば、点火したのはエンジンではなく燃料タンクの方だった。
+　おそらくは、ここに停めてある車すべてに、同様の細工がしてあるだろう。
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“舐めた真似を……”
+
+<BOX type="2">//%w
+いくら夜闇で気付きにくいとはいえ
+子供騙しも同然のトラップだった。
+
+　慌てふためいて逃げようとする素人が相手なら、この程度で充分と思ったのか。
+
+　さて、どうするか？
+
+　最も安全なのは、サイス達が乗ってきた車を奪うことだが、
+　だからこそ連中は、車を隠したのだろう。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　ベンツに仕掛けられた罠は、簡単に解除できる。今からサイスの車を探すよりは早い。
+
+　……が、大事を取るならば、一旦
+細工された車など、乗るべきではない。仕掛けがひとつだけとは限らない。
+
+　だが志賀は、
+　その可能性を否定した。
+　連中にそんな余裕は
+　なかったはずだ。
+
+　奴らはツヴァイを
+　侮ってはいない。
+
+　狩りたてる獲物の危険度と、学園の広さを鑑みれば、6人という人数は、決して多くはない。
+　連中はツヴァイの追撃に全力を傾けているはずだ。
+
+　素人相手のトラップに、高をくくって手を抜いたのが、余裕のなさの表れだ。
+
+　プラグの配線さえ直せば、きっとこのベンツは動く……
+
+　志賀は
+　自分の判断に賭けることにした。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage6c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage6c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　東校舎2階……
+
+<BUSTUP NAME="zs4" face="" MODE="on" zoom="" ALIGN="right">//# zs4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　折り重なるようにして倒れていた
+　フェンフとノインの骸の傍で、
+　フィーア、ズィーベ、アハトの
+　3人は合流した。
+
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="left">//# zs7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　予想を上回るツヴァイの抵抗で、すでに戦力は半減している。
+　フェンフのカラシニコフが奪われているのも、由々しき事態だった。
+
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="right">//# zs8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+残る3人で、どう狩るか……
+散開して包囲できる人数ではない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　そこへ、通信機にサイス＝マスターからの指示が割り込んできた。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……志賀透、藤枝美緒の両名が
+　脱出しつつある。対処しろ。
+　早急にだ』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+<BUSTUP NAME="zs4" face="" MODE="on" zoom="" ALIGN="left">//# zs4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# zs7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　3人は顔を見合わせた。
+　校門付近の車両にはノインが処置をしておいた筈だが、どうやら見透かされたらしい。
+
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="left">//# zs8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　二人を逃がすわけにはいかないが、かといってツヴァイの追撃を中断するわけにもいかない。
+　……結局、今いる人数を、さらに割くしか手はなかった。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　決定。
+　ツヴァイ追撃は、
+　フィーア、アハトの2名で続行。
+　ズィーベは校門に赴き、
+　残る2名を処理した後、
+　改めて合流する。
+
+　以上……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="school1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　車の整備など、久しく自分ではしていなかった志賀だったが、それでも5分あまり試行錯誤するうちに、
+何とかプラグの配線は修復できた。
+
+　予想外に時間を食った。
+　さっきまで校舎で轟いていた銃声が、しばらく途絶えているのも気になる。
+
+ツヴァイの『時間稼ぎ』とやらが、とうに潰えているのだとすると……
+
+　だが何よりも問題なのは、このままベンツのエンジンを始動させていいものかどうか、だ。
+
+　タイヤやブレーキにも異常はなさそうだが、志賀はその道の専門家ではない。
+
+　ベンツに仕掛けられていたのが、あの陳腐なバッテリーケーブルの罠だけとは、保証できない。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美緒さん」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「は、はい？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これから、
+　車が動くかどうか試してみます。
+　あなたは、充分に離れて……」
+
+<BOX type="2">//%w
+　言葉を切って、
+　志賀は周囲を見回し、
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……そこの、校門の陰に隠れていてください。私が呼ぶまで、絶対に顔を出さないように」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　訳が分からぬ様子だったが、それでも美緒は志賀の指示に従った。
+　美緒とて、この志賀が、誰の身を守るために粉骨しているのかは、よく判っているらしい。
+
+<CLEAR><BACKGROUND SRC="3960x2">//# 3960x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　志賀は深呼吸して、
+　再び運転席に着き、
+　イグニッションにキーを挿した。
+
+　美緒は指示した通り、物陰で小さくなっている。
+　……もし、このままベンツが木っ端微塵に吹き飛ぶようなことになっても、あの位置なら大丈夫だろう。
+
+　こんな時……いつも決まって思い出すのは、まるで危険に興じるように、自分の命を転がしていた梧桐大輔の口癖だった。
+
+<BOX type="5">//%sR
+“『花道』……か”
+
+<BOX type="2">//%w
+　やはり、一生かかっても理解できないかもしれない。
+　今の志賀は、とても大輔のように不敵に笑えるような気分ではなかった。
+
+<BOX type="5">//%sR
+“恐いものは……
+　恐いですよ。兄貴”
+
+<BOX type="2">//%w
+　胸の中でそう告白して、志賀はイグニッションキーを捻った。
+
+//<se id="1" src="cell" mode="normal" time="" loop="off" effect="">//!se cell
+<se id="1" src="ベンツエンジンスタート" mode="normal" loop="off">
+　苦しげに唸るセルモーター。
+//<se id="1" src="motorStart" mode="normal" time="" loop="off" effect="">//!se motorStart
+　しばし間を置いて、エンジンが野太い息を吹き返す。
+
+　点灯したヘッドライトが、校門の奥の校庭を、真昼のように煌々と照らし出した。
+
+　……何も、異常は起こらない。
+
+　ニュートラルのまま空吹かしをしてみても、愛車はいつもと変わらぬ頼もしい排気音で応答する。
+
+<BOX type="5">//%sR
+“……やった”
+
+<BOX type="2">//%w
+　安堵に肩の力を抜き、
+　額に浮いた汗を拭う志賀。
+<se id="1" src="" mode="fadeout" time="10">
+
+<CLEAR><BACKGROUND SRC="school1c">//# school1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　さあ、長居は無用だ。
+　早く美緒を乗せて逃げなければ。
+
+　そう思って志賀がドアを開け、
+美緒を呼ぼうとしたその時、
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ヘッドライトの光輪の彼方から、カラシニコフのマズルフラッシュが轟音とともに閃いた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school5c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="school5c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　かつてないほど間近な距離で吼えたてるマシンガンの銃声。
+　美緒は悲鳴を噛み殺し、志賀のベンツが銃弾に抉られる様を見守っていた。
+
+　逃げなければ……
+　そうは思うのだが、
+　脚に力が入らない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　やがて銃声が途絶え、あの奇怪な覆面姿の殺し屋が、ヘッドライトの光線の中に進み出てきた。
+
+　半開きになっていたベンツの扉が開き、その中から、まるで糸の切れた人形のように、志賀の身体が力なく車外にこぼれ出た。
+<se id="1" src="down2" mode="normal" time="" loop="off" effect="">//!se down2
+
+　俯せに倒れた志賀を目指し、まるでフットライトを浴びる役者のような優雅な足取りで、殺し屋は腰溜めに銃を構えたまま、ゆっくりと歩を進める。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“志賀さん……”
+
+<BOX type="2">//%w
+　叫びたい衝動を堪えて、美緒は歯の根も合わぬほどに震えながら、校門の陰で身を竦めていた。
+
+　すぐ傍を行き過ぎながら、仮面の殺し屋は、そんな美緒にはまだ気付いていない。
+
+<BOX type="5">//%sR
+“助けて……”
+
+<BOX type="2">//%w
+　胸の中で美緒は叫んだ。
+　必至に{名}の名を呼んだ。
+
+<BOX type="5">//%sR
+“お願い、助けて……”
+
+//> right school1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="zs7" face="" MODE="on" zoom="" ALIGN="right">//# zs7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　志賀透は、俯せのまま動かない。
+その身に数発の弾丸を受けているのは、見るまでもなく明らかだった。
+
+　傍らに立ったズィーベは、
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+　脇腹に蹴りを入れてみる。
+　反応はない。やはり死んでいる。
+
+　藤枝美緒は、車内だろうか？
+　もう一人のターゲットの姿を求め、ズィーベは身を乗り出して、ベンツの車内を窺った。
+
+<se id="1" src="24_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="school1c">//#! school1c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%m
+　待ち構えていたその隙に、志賀は
+身を転がして仰向けになり、腹に抱
+え持っていたP7を、弾が切れるまで
+撃ちまくった。
+
+　目を瞑っていても当たる至近距離だけに、弾は一発も外れなかった。
+
+　13発の9mm弾は、ことごとく
+ズィーベの顔面と胸に集中し、彼女の上体を見分けがつかなくなるまでに粉砕していた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="school1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga3" face="2" MODE="on" zoom="" ALIGN="right">//# siga3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……美緒さん、行きましょうか」
+
+<BOX type="2">//%w
+　何事もなかったかのように促す志賀に、美緒は、恐る恐る問いかける。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……志賀さん、あなた、
+　撃たれてるんじゃ……」
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大丈夫、かすり傷です」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="2">//%w
+　着衣は明らかに血まみれだが、
+　さらに返り血を浴びている上に、
+　黒いスーツのせいで傷口がどこだか判然としない。
+　本当に……大丈夫なんだろうか？
+
+<BUSTUP NAME="siga3" face="" MODE="on" zoom="" ALIGN="right">//# siga3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……さぁ、乗って。
+　早くこの場を離れましょう」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　志賀に促されるまま、
+　助手席のドアに手をかけながら、
+　もう一度、美緒は振り返り、
+　夜闇に沈んだ校舎を眺めた。
+
+<BOX type="4">//%sL
+“{姓}さん……”
+
+<BOX type="3">//%m
+　本当に、約束通り……
+　彼は無事に
+　帰ってきてくれるのだろうか？
+
+<A HREF="3970.txt" OPERATOR="">//~ 3970

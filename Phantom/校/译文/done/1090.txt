@@ -1,0 +1,451 @@
+  或者……
+　突然，我想到一个不是办法的办法。
+
+　干脆将凯尔把钱带走的事情隐瞒掉吧？
+
+　这无疑是个非常冒险的想法。
+
+　将钱藏起来，向Inferno隐瞒真相……
+
+　如果要保护凯尔，这是唯一的办法了。
+  然而，对组织而言这是完全的背叛行为。
+
+　Inferno依旧朝着错误的方向严查着这次的袭击事件吧。
+  维斯梅尔暂且不论，甚至连对我完全信任的克劳蒂娅都要欺骗。
+
+　而且，一旦说了那样的谎言，就必须一直保护凯尔。
+  直到事态完全解决，组织对凯尔不再有任何兴趣为止。
+
+　为此我应该找一个什么样的借口才好呢？
+
+　幸运的是，我还有一整夜的时间可以考虑。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1090x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="1090x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　第二天早上……
+
+　我早早地驾驶着高尔夫行驶在穆赫兰道上。
+
+　虽说交通高峰时段的骚乱已经消失得差不多了，
+  但当我驶入贝弗利山以后，周围交通量的减少依旧非常惊人。
+
+（注：贝弗利山，一座位于美国加州洛杉矶县西边的城市。这个区域的高级住宅区被称为“白金三角”，是全美最昂贵的住宅市场之一）
+
+　在这个特权阶级云集的异世界里，时间的流动都与外界不同。
+
+　我一边驾驶，一边再次在脑中确认已经练习了一夜的说辞。
+
+　是否合理，条理是否清晰……这些都必须要一一检查。
+　
+　不必反复回味我都明白，这套借口实在是漏洞百出。
+
+　自己能够确认的……只有坚持说完这一套谎话的胆量。
+
+　现在能做的，仅此而已。
+
+<se id="1" src="" mode="fadeout" time="20">
+
+//> left passage1 wide 255 crou^2 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「这是怎么回事？{名}」
+
+<BOX type="0">//%w
+　在走廊中，克劳蒂娅叫住了我。
+
+　今早做报告的时候遇到她、被她叫住，这些都是理所当然的。
+
+「……这里不适合解释」
+
+「单独交谈的话又会让维斯梅尔起疑心」
+
+「一切都在大家的面前说清楚吧」
+
+<BOX type="4">//%sL
+「……」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room3 wide 255 inferuno1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「好了，Phantom，让我听听你的解释吧」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「听艾扎克说，你藏匿了这次事件的重要目击者？」
+
+<BOX type="0">//%w
+　在以说话的马格维雅为首的Inferno的干部们面前，对我的残酷审问开始了。
+
+　我深深地吸了一口气，将恐惧和不安掩藏在心底，冷静地开了口。
+
+「首先，这是一个彻头彻尾的误会」
+
+「那个少女被我收留，并不能成为她与前天晚上的杀人事件有关的理由」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我对维斯梅尔冷冷的眼神装作视而不见，继续说道。
+
+「最初，我确实是为了从那个孩子身上得到一些有用的情报才接近她的」
+
+「结果却是白费力气。那孩子只是那个被卷进去的过路人的家人而已，什么都不知道」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喂，Phantom……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「等等，艾扎克，Phantom的话还没说完」
+
+<BOX type="0">//%w
+　马格维雅冷静地阻止了正待发作的维斯梅尔。
+
+<BOX type="5">//%sR
+「那么Phantom，你为什么会如此执着于那个毫无关系的小姑娘呢？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　终于到了。
+　我一面为自己鼓劲，一面故作镇定地说。
+
+「我对那个孩子有另外的兴趣」
+
+「那个小姑娘具有极其罕见的素质，也可以说是才能」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……以前，我好象听过相似的话」
+
+<BOX type="0">//%w
+「没错，我就是这样被赛斯·玛斯塔发现后，才加入了Inferno」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　果然，困惑的空气弥漫了整个屋子。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……就是说，你也想将那个少女训练成杀手？」
+
+<BOX type="0">//%w
+「是的」
+
+「她将来会拥有配得上当我助手的实力」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　估计谁都没想到我会这样说吧。
+
+　不过，这与以前赛斯将偶然之下被捉住的旅行者交给Ein训练是一样的。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有什么可以证明那个少女的才能吗？」
+
+<BOX type="0">//%w
+「我的直觉」
+
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="left">//# inferuno2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「开什么玩笑，你这家伙！」
+
+<BOX type="0">//%w
+「这不是用言语能说清楚的东西」
+
+「只有天生的猎犬才能明白，因为同族之间有着相同的味道」
+
+「比如说，赛斯带着的Ein……前代的Phantom也是这样。她的能力应该也已经超出了你们的想象」
+
+「换句话说，1年前……你们能想象到今天的我会是这样吗？」
+
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+Ein与Zwei。
+只有十几岁就获得Phantom称号的这两个人，应该都超出了在场所有人的理解范畴。
+从这个角度考虑，他们不相信也不行了吧。
+
+『这不是你们能理解的话语，所以不必对此有什么异议……』
+
+　这样的话语在道理上实在是说不通，这我自己也知道。
+
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="left">//# inferuno2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「难道你想让我们接受你那荒谬的说辞吗」
+
+<BOX type="0">//%w
+「当然，你是不会接受的对吧」
+
+　我不屑地说道，一脸不耐烦地瞪着维斯梅尔。
+
+「维斯梅尔先生好象很希望发现我和麦肯宁小姐之间有什么阴谋」
+
+「这样的你怎么能将这么好的机会白白浪费掉？」
+
+「我没有开玩笑。如果用自白剂破坏了那个女孩的神经系统，一切就都完了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　干部维斯梅尔的偏执与天才Phantom的直觉……两种毫无根据的妄想被放到了天平的两端。
+
+　剩下的只有听天由命了。
+　马格维雅会得出怎样的结论呢……
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，Phantom，你就那么想要一个新的助手吗？」
+
+「你觉得现在跟莉兹的搭档存在问题是吗？」
+
+<BOX type="0">//%w
+「这个……」
+
+坏了。
+心里咯噔一下，我向从刚才开始就一直默不作声地观察着事态进展的莉兹看了过去。
+
+　再继续说下去的话，莉兹会很没面子的……
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「嗯，确实是有一大堆问题」
+
+<BOX type="0">//%w
+　结果，帮我解围的不是旁人，正是莉兹自己。
+
+<BOX type="4">//%sL
+「说实话，我跟Phantom实在是合不来」
+
+「之前那位Phantom也是……」
+
+「这些赛斯培养的天才不管是做事情还是想事情，全都不按常理出牌」
+
+「根本无视既成的规则。虽然这确实也可以扰乱敌人的判断……」
+
+「也许他能凭借自己的机智杀出重围，可我只不过是个凡人」
+
+「就这样跟在他后面的话，不管有几条命都不够用」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「要是有让这家伙看上的搭档的话……」
+
+「我可真巴不得被换掉」
+
+「同为天才儿童的话，关系应该会更融洽吧」
+
+<BOX type="0">//%w
+「莉兹……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「跟黑社会们一起死掉的那个叫作茱蒂的妓女……」
+
+「确实与这件事无关吗？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「嗯，她是清白的。我已经彻彻底底的查过了」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……唔」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你觉得呢？　艾扎克」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2^4 19
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……你想让我认同吗，雷？」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然那个少女可以暂时先交给你，但是依然归Inferno管理」
+
+「如果我们有任何的疑问，随时都可以制裁她」
+
+「你能负起这个责任吗？Phantom」
+
+<BOX type="0">//%w
+「当然」
+
+　虽然状况并没有得到明显改善……不过，谎话没有露馅，总算是成功地熬过了这一关。
+
+//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……抱歉啊」
+
+　我在确认了周围没有人之后，向莉兹低头道歉。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不必介意」
+
+「让维斯梅尔发现那个孩子，本来就是我的错」
+
+<BOX type="0">//%w
+「可是……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我明白。你不可能想要增加自己的同类」
+
+「……那是为了包庇那个小姑娘而撒得慌吧？」
+
+<BOX type="0">//%w
+「……」
+
+　我一时语塞，不知道该怎么回答才好。
+
+　牺牲自己的名誉帮我解围的莉兹，如果知道了那消失的500万的下落，会作何感想呢？
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，你怎么不想个更好的借口？」
+
+「现在可怎么办，话说得那么大？」
+
+<BOX type="0">//%w
+「只要在风头过去之前，把她放在我身边就好了」
+
+「之后，我会找机会将她放走」
+
+　比如借口说她在训练中死掉了之类的，然后放她逃走就好了。
+　
+　考虑对策的时间很充足。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，那样做的话，你会被追究责任的」
+
+<BOX type="0">//%w
+「我知道」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="0130x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　如果袭击黑社会的犯人被找到的话……
+
+　那个未知的家伙将500万美元扔在现场没动的事情也会暴露……
+
+<CLEAR><BACKGROUND SRC="0130x6">//# 0130x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　那样的话，消失的钱去哪了呢？
+  毫无疑问，矛头肯定会指向在当时身处现场的凯尔。
+  而且，编出种种理由为她辩护的我也会…………
+
+　事情到了这种地步，我与凯尔的命运已经连在一起了。
+
+//> left street0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　为了掩盖事情的真相……
+
+　我必须要在Inferno之前独自找到袭击黑社会的杀手……
+
+　然后，杀他灭口。
+
+　如果将那家伙的尸体和凯尔拿走的500万美元一起交给Inferno的话……所有的事情就都变得合情合理了。
+
+<A HREF="1100.txt" OPERATOR="">//~ 1100

@@ -1,0 +1,108 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left skycity wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="skycity">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在能够遥望夕阳的大礼堂的屋顶上，我们两个人检验着今天一天的成果。
+
+　站在这个32层高的地方，可以将市中心的景观尽收眼底。
+
+　寻找狙击手的游戏的答案，就是邮政局大楼的楼顶。
+　明天下午3点，袭击伯纳海滩酒店的狙击手，肯定会在那里出现。
+
+<BUSTUP NAME="cyall2" face="5" MODE="on" zoom="" ALIGN="right">//# cyall2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天真辛苦啊」
+
+<BOX type="0">//%w
+「嗯」
+
+　我漫不经心地回答着，大半的注意力都放在研究眼前朱红色的画面上了。
+
+　敌人的方位我已经知道了，接下来应该怎么办呢？
+
+　直接在邮政局大楼上埋伏是不现实的。在那样的地方，根本没有办法伏击。
+
+　果然……只能从别的地方进行反狙击了。
+
+　与敌人不同，我没有足够的准备时间。
+
+　距离、角度、阳光的方向，一切都只能在现在、在这个地方依靠目测来计算。
+  因为我没有时间去现场进行确认。
+
+　这样的话，最妥当的办法就是……
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，明天一天，{名}也会很辛苦吧？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「嗯」
+
+　我依然是漫不经心地这样回答，不过之后我突然注意到身边的凯尔那直直的眼神。
+
+<BUSTUP NAME="cyall2" face="a" MODE="on" zoom="" ALIGN="right">//# cyall2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天我们寻找的那个要袭击酒店的狙击手……」
+
+「{名}会杀了他吧？」
+
+<BOX type="0">//%w
+　一瞬之间，我不知道该说什么好。
+
+<BOX type="5">//%sR
+「那个家伙，是茱蒂的仇人吗？」
+
+<BOX type="0">//%w
+　……我忘记了。
+  或许是这几天，看到的都是天真无邪、活蹦乱跳的她的缘故吧。
+
+　不正是为了失去的东西、为了被夺走的东西、为了血债血还，
+  凯尔才会站在这里的吗。
+
+「……大概，是吧」
+
+「至少也是一伙的」
+
+　接下来的话，很容易就能想象出来。
+
+<BUSTUP NAME="cyall2" face="3" MODE="on" zoom="" ALIGN="right">//# cyall2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「让我待在你的身边吧」
+
+「让我亲眼看着{名}将那个家伙杀死吧」
+
+<BOX type="0">//%w
+「……」
+
+　在我的印象里，凯尔一直以来都是活泼开朗的。
+
+　她那天真无邪的笑脸，应该是跟这个残酷的世界最无缘的。
+
+　可是……为什么现在连凯尔也必须面对死亡的场景呢？
+
+「你真的想看人的死亡吗？」
+
+<BUSTUP NAME="cyall2" face="4" MODE="on" zoom="" ALIGN="right">//# cyall2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「又不是第一次了」
+
+「茱蒂不就是在我面前被杀的吗」
+
+「……我唯一不想看到的，只有茱蒂的死」
+
+<BOX type="0">//%w
+<CHOICE HREF="1230a.txt" TEXT="＊答应她" OPERATOR=""></A>//{ ＊承諾する 1230a ＊承諾しない 1230b
+<CHOICE HREF="1230b.txt" TEXT="＊拒绝她" OPERATOR=""></A>//{ ＊承諾する 1230a ＊承諾しない 1230b

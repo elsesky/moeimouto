@@ -1,0 +1,51 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 _1 0
+　不知从什么时候开始，
+  自己打起了瞌睡。
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se doorOpen
+　听到吱吱嘎嘎的开门声，
+  我醒了过来。
+
+//> left room1d wide 255 elen1^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1d">//
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……Ein……
+
+　没有开灯，她走进房间。
+
+　一小束月光，从天花板附近的小窗口照进屋内。
+
+//> left 0070p1 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 125
+<BACKGROUND SRC="0070p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//もえらＳＥ追加
+<se id="1" src="アイン着がえ" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　在微弱的月光下，，
+　Ein打开睡袋，脱下了衣服。
+
+　黑暗中，Ein的肌肤显得尤为白皙。
+　大概是以为我已经睡着了吧，她并没有在意我这边。
+
+<CHOICE HREF="0070b.txt" TEXT="＊出声叫她" OPERATOR=""></A>//{ ＊声をかける 0070b ＊黙って見守る 0070a
+<CHOICE HREF="0070a.txt" TEXT="＊沉默地看着" OPERATOR=""></A>//{ ＊声をかける 0070b ＊黙って見守る 0070a

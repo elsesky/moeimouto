@@ -1,0 +1,53 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔会永远被死者所束缚吗。
+
+　如果可能的话，我很想质问那个未曾谋面、连声音都没有听过的朱蒂的灵魂。
+
+　为什么，你不肯放过凯尔？
+
+　相比于这种在危险面前的紧张的眼神，笑脸才更适合她。
+
+　她不应该永远背负着对死者的遗憾、在泪水中度过一个个夜晚。
+
+　为什么不给予她生者世界的正常生活？
+
+　这是为什么啊，朱蒂？
+　要怎么做，才能切断那孩子和你的联系？
+
+　……其实，没有问的必要。
+
+　答案，自己很久以前就知道了。
+  只是不想承认罢了。
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「本来，狙击任务由两人一组来执行才是理想的」
+
+「在这种情况下，狙击手的旁边需要有一个观测手」
+
+「用望远镜监视目标以及目标周围的状况，以此来协助狙击手，这就是所谓的观测手」
+
+「见证一切的角色」
+
+「……你办得到吗？」
+
+<BUSTUP NAME="cyall2" face="3" MODE="on" zoom="" ALIGN="right">//# cyall2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　凯尔不停地点着头。
+
+　可能的话，我真的希望凯尔永远不会跟这个血腥肮脏的世界沾上任何关系。
+
+　所以，仅此一次。
+
+　之后，我会让她与憎恨和悲伤彻底诀别。
+
+<CALC WORKNAME="1230a" OPERATOR="1">//
+<A HREF="1235.txt" OPERATOR="1150=1">//~ 1235
+<A HREF="1250.txt" OPERATOR="">//~ 1250

@@ -1,0 +1,29 @@
+<BOX type="0">//%w
+　マテバM2006M……
+　ニューヨークからの贈り物を選んだのは、
+　何も目新しさに惹かれたせいだけではない。
+
+　今後しばらくは、
+　言うなれば興信所の真似事のような仕事が続くことになる。
+　当然、得物はコンシールド性の高いものがいい。
+
+　愛用のパイソンでさえ、4インチバレルが邪魔になる。
+
+　そこで、このマテバだ。
+　機構の特殊さもさることながら、この銃のもうひとつの特徴は、
+　専用工具ひとつで様々な長さの銃身を選び、
+　交換することができる点である。
+
+<CLEAR><BACKGROUND SRC="マテバb">//# マテバb 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　最短の51mmバレルを装着すれば、今回の任務には誂え向きだ。
+
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="マテバ">//
+<CALC WORKNAME="銃画像" OPERATOR="マテバb">//
+<CALC WORKNAME="射撃画像" OPERATOR="マテバb2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用MB">//
+<CALC WORKNAME="1167" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

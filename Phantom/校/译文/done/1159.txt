@@ -1,0 +1,6 @@
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「除此之外，我还有话要对你说」
+
+<A HREF="1159b.txt" OPERATOR="">//~ 1159b

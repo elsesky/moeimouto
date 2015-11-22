@@ -1,0 +1,205 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right room3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看看你惹了多大的麻烦！啊？」
+
+「就算没有尸体，可是周边的弹痕超过100发，黏糊糊的血能用宝特瓶装一打…」
+
+「全市的警察都被惊动了!」
+
+「不仅连巡逻的警察都活跃起来了，而且吓到了嫖客和妓女们，完全干不了活」
+
+「我的地盘被搞得鸡犬不宁啊，克劳蒂娅」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你这是想推卸责任吗？维斯梅尔先生」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^4 20
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不管怎么说，洛杉矶都是你的地盘」
+ 
+「在你管辖的地域上，保卫工作应该由你完成」
+
+「可是，我的客人在你的地盘上被抢了500万美元，还有4个人被杀」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">//# crou^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「谁应该受指责，请你好好考虑清楚，维斯梅尔先生」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^3 20
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「臭婊子，什么时候开始你敢用这种口气跟我说话了……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「别吵了」
+
+<BOX type="3">//%m
+　马格维雅厉声阻止了这场争吵。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「克劳蒂娅，日本人那边的反应如何？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然大发雷霆，不过还能保持镇定」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「好，那他们的接待就交给你了。
+  尽量安抚他们吧。」
+
+「必须尽早将客人的钱还回去。当然，还需要那个抢劫者的尸体」
+
+「这件事就交给你了，艾扎克」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^4 20
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「等一下」
+
+「那些亚洲人也算我们的客人吗？
+  我可还没承认」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这是声誉的问题，艾扎克」
+
+「叩响Inferno大门的人被杀了」
+
+「不管是客人还是乞丐，全都一样」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你能允许在我们门口发生这样羞辱的事情吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^4 20
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……OK。我立刻去调查」
+
+//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　隔着厚重的门，都能感受到会议室里紧张的气氛。
+
+　从夜里就被召集过来、一直持续到早上的紧急会议，似乎发生了很大的纠纷。
+
+　看起来，这回的事也是由于克劳蒂娅的独断造成的。
+
+　最坏的情况，
+  搞不好会是克劳蒂娅与维斯梅尔公开决裂。
+
+　说不定，已经是这样了……
+
+　可是，我不明白。
+　为什么克劳蒂娅对日本的黑社会团体如此执着？
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「里面的情况还是那样吗？」
+
+<BOX type="0">//%w
+　从外面回来的莉兹兴趣索然地这样问我。
+  我没有点头，而是耸了耸肩膀。
+
+<BOX type="5">//%sR
+「刚才你说的事，我去调查了」
+
+<BOX type="0">//%w
+　她递过来的传真纸上，记录着在案发现场发现的第5具尸体……那个被击中头部的年轻女人的情报。
+
+　看来，这是莉兹通过情报屋的调查得到的。
+
+「抱歉啊，这样麻烦你」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没事」
+
+「那些正头脑发热的家伙都靠不住不是吗？」
+
+<BOX type="0">//%w
+　虽然是在几小时内收集的情报，但上面的内容非常详细。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　遗体的真实身份是……茱蒂·迪文斯，26岁。
+  在那一带做了很久的电话应召女郎。
+
+　与任何不良组织都没有关联。完全是在自食其力。
+
+「她的房间呢？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「搜查过了。没有枪或匕首。她好象有室友，但是我还没查到」
+
+「不过，我怎么想都觉得她只是一个被流弹击中的路人」
+
+<BOX type="0">//%w
+「……」
+
+　这样的话，那么给那个叫茱蒂的女人的遗体披上大衣的人又是谁呢？
+
+那场袭击毋庸置疑是专业杀手做的……
+ 既然如此，应该不会有悼念死者的这种感伤，更不用说是跟自己没有关系的人了。
+
+　果然还是有疑点……我打算再去现场看一下。
+
+「……这里可以先交给你吗？」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是个麻烦的男人啊」
+
+「去吧，这个时间警察和记者都已经走了」
+
+<A HREF="1050.txt" OPERATOR="">//~ 1050

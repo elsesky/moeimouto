@@ -1,0 +1,191 @@
+<clear>
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　莉兹……
+　一直以来多谢你的照顾了。
+
+　在心底这样话别以后，我无言地举枪对准了莉兹。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+子弹打到了她的背上。
+带着惊讶与愤怒的神情，莉兹狠狠地瞪着我……
+克劳蒂娅也慌忙回过头来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^5 20
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}，你……」
+
+<BOX type="0">//%w
+<se id="1" src="彴偵揮偑傞" mode="normal" time="" loop="off" effect="">//!se down
+　莉兹那高大身躯的倒地声，盖过了克劳蒂娅的声音。
+
+<BOX type="5">//%sR
+「莉兹是不可能开枪的……」
+
+<BOX type="0">//%w
+「嗯，也许吧」
+
+　大概，莉兹是不会开枪的。
+　她并不想对克劳蒂娅开枪吧。
+
+　但是，那只是“大概”。她并不是绝对不能开枪。
+
+　这一点是最关键的。
+
+　我从还在低沉呻吟着的莉兹手中拿过HARDBALLER，还有备用弹夹。
+
+「我没有击中她的要害，运气好的话，说不定还能得救」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　克劳蒂娅呆呆地望着我，就像是在看一个不认识的陌生人。
+
+　我自己也很意外。
+　刚才还存在于内心的混乱，已经不可思议地消失了。现在自己感到非常轻松。
+
+「只有你和我就够了，克劳蒂娅」
+
+「没有碍事的家伙也就罢了。
+　不然的话，我就将他们一个一个消灭，不论对方是谁」
+
+　没有迷惘。
+　不会感到迷惘。
+　我的世界，是无比单纯的。
+
+<BOX type="5">//%sR
+「可是你……」
+
+「可是你明明被我骗了啊……」
+
+<BOX type="0">//%w
+「这样的话不必说了」
+
+「那个夜晚，当我被叫去执行护卫任务的时候，已经明白了理由」
+
+<BOX type="0">//%w
+　为了从对付赛斯和Ein的陷阱中把我救出来……那次的任务实际上是救援的措施。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「呐，克劳蒂娅……
+　虽然这里是世界的中心」
+
+「不过，只有我们两个人而已哦」
+
+　为了金钱和权力而欺骗、背叛、杀戮……直到今日，她还在顽强地挣扎着。
+　这里，就是那样的世界的中心。
+
+　尽管如此，这里却无限地接近我们的约定之地。
+
+　两个人，只有两个人。
+　除此以外的家伙，都是……敌人，都是必须要消灭的阻碍。
+
+「击溃Inferno吧，克劳蒂娅」
+
+「对我们来说，那家伙是障碍」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+　克劳蒂娅的笑脸显得有些僵硬。
+  毕竟她是第一次看到这个既是部下又是恋人的男子的另一面。
+
+<BOX type="5">//%sR
+「你总是这样……」
+
+<BOX type="0">//%w
+「你以为这是谁的错啊？」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是，我的错？」
+
+<BOX type="0">//%w
+「当然啦」
+
+　是你改变了我，克劳蒂娅。
+
+　以高处作为目标，以任何人都无法企及的速度奔驰。
+  是你教给了我这样的生存方式。
+
+「要走了哦。车呢？」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在下面」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1120n2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40僋儖乕僕儞僌" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="1120n2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「首先必须要把名单拿回来」
+
+<BOX type="0">//%w
+　在酒店地下停车场里的F40中，克劳蒂娅提出了作战的方案。
+
+「名单在哪里？」
+
+<CLEAR><BACKGROUND SRC="1120n1">//# 1120n1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「在我的家里。
+那是一张藏在卧室梳妆台后的光碟」
+
+<BOX type="0">//%w
+　现在去取的话，肯定会伴随着危险。
+  不过，这不是唯一的问题。
+
+「我们要怎么联系东海岸的同伴？」
+
+<CLEAR><BACKGROUND SRC="0140n6">//# 0140n6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「这个交给我。
+　我有自己的门路」
+
+<BOX type="0">//%w
+　考虑的还真是周全。
+
+「决定了……」
+
+「我去取回光碟」
+
+<BOX type="4">//%sL
+「我明白了」
+
+「……你还记得第一次见到这辆车时的那家汽车餐厅吗？」
+
+<BOX type="0">//%w
+「嗯」
+
+<BOX type="4">//%sL
+「2小时以后，在那里汇合吧」
+
+<se id="1" src="" mode="fadeout" time="30">
+
+<CALC WORKNAME="1470a" OPERATOR="1">//
+<A HREF="1490.txt" OPERATOR="">//~ 1490

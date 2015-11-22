@@ -1,0 +1,249 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="Jroom2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　翌朝……
+　登校の身支度を整えている最中に、不意に携帯電話に着信が届いた。
+<se id="1" src="phone2" mode="normal" time="" loop="off" effect="">//!se phone2
+
+　液晶画面に、発信者の名が表示される。
+　……美緒だ。
+
+　朝のこの時間に、どうしたんだ？
+　学校で会えるだろうに……
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+「もしもし？」
+
+<BOX type="4">//%sL
+『悪いが、美緒じゃないよ』
+
+<BOX type="0">//%w
+「!!」
+
+　どことなく剽げたような口調は、聞き違える筈もなかった。
+　
+　なぜ、キャルが……？
+
+　着信表示を、もういちど確かめる。
+　間違いない。美緒の番号だ。
+
+　つまり、キャルが、美緒の携帯電話を使っているということか。
+　
+　戦慄が背筋を這い登ってくる。
+
+「……美緒は、どうした？」
+
+<BOX type="4">//%sL
+『生きてるよ。
+　それだけ判れば充分でしょ？』
+
+<BOX type="0">//%w
+「キャル、お前……」
+
+<BOX type="4">//%sL
+『安心しなよ。この娘を
+　どうこうするつもりはない』
+
+『逃げる準備で忙しいのに、
+　人質の世話までするのは
+　荷が重いだろうと思ってね』
+
+『だからあたしが、
+　引き継いでやったんだ。
+　感謝してよ』
+
+<BOX type="0">//%w
+「どうしてだ!?　狙いは俺一人のはずだろうが！　美緒は何の関係も……」
+
+<BOX type="4">//%sL
+『戻りたかったんだろ？
+　カタギに』
+
+『だからあんたの望み通り、
+　あんたの暮らしを守ってやるよ』
+
+『梧桐組にもインフェルノにも、手出しはさせねぇ。大人しくガッコに通っている限り、あんたは安泰さ』
+
+『ただし……いきなりドロン、
+　ってのもナシだ』
+
+『どこに逃げる気か知らないが、
+　あたしの目の届かないところに
+　行ってみな……』
+
+『美緒はあの世で
+　兄貴とご対面だぜ』
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="4">//%sL
+『ともかく、藤枝美緒さんは、
+　まぁ当面登校はできないんでね』
+
+『先生方には、
+いいように言い繕っといておきな』
+
+『憶えておきな。いつもあたしは、あんたを見てる』
+
+『ほら、とっとと家を出なよ。
+　遅刻するぜ』
+<se id="1" src="携帯ツーツー" mode="normal" loop="off">
+
+<BOX type="0">//%w
+　冷笑の尾を引いて、通話は一方的に切られた。
+
+<se id="1" src="cellGet" mode="normal" time="" loop="off" effect="">//!se cellGet
+　咄嗟にリダイヤルをかける……
+　が、電話会社の取り澄ました録音メッセージが、
+　通話不能をアナウンスするだけだった。
+　電源を切られている。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Jroom2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="Jroom2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうしたの？」
+
+<BOX type="0">//%w
+　{ヒロイン}に訊かれても、すぐには返答できなかった。
+
+「美緒が、キャルに……掠われた」
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BOX type="0">//%w
+　さすがの{ヒロイン}も、今度ばかりは動揺を隠せなかった。
+
+<BOX type="5">//%sR
+「……まさか、あの子……
+　インフェルノに逆らってまで？」
+
+<BOX type="0">//%w
+「そのようだな」
+
+　冷め切った自分の声が、まるで他人事のように聞こえて……
+　それが無性に腹立たしかった。
+
+「そこまでやるほど、憎まれてるのさ。俺は」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　それも仕方のないことだとは、思う。
+　殺しても飽き足りないほどに、キャルには恨まれているんだろう。
+　それだけの仕打ちを、彼女にはしてしまったのだから。
+
+　だが、それでどうして美緒に類が及ぶ？
+　彼女がいったい何をした？
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　御しきれない衝動に駆られて、拳を壁に叩きつける。
+
+　美緒を守るはずだった。
+　彼女の、決して脅かされるいわれのない日常を、
+　そのままに守り抜くために……
+　そのためだけに嘘を突き通してきた。
+
+　なのに何故、どうしてこういう結果になる？
+
+“いつだって、同じだろうが”
+
+　心の中の、いちばん暗い奥底から、そう嘲笑うように囁く声がする。
+
+“おまえが関われば、みんなそうなる。
+　キャルの時だってそうだったろう？”
+
+“意外でも何でもないさ。本当は解ってたんだろう？
+　美緒を利用すると決めた時から……”
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+「畜生……」
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　繰り返し、拳に血が滲むまで、廊下の壁を打ち据える。
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+「畜生、畜生……」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ここは、別行動を取るべきね」
+
+<BOX type="0">//%w
+　{ヒロイン}の不意の言葉は、すぐには意味が解せなかった。
+
+「別行動……？」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたし、潜ってドライを探すわ」
+
+「あなたはドライの指図通り、
+　大人しくしていて」
+
+「その隙にわたしが
+　ドライを討って、
+　美緒を助け出す」
+
+<BOX type="0">//%w
+「馬鹿はよせ!!」
+
+「こっちは今すでに見張られてるんだぞ。
+　刺激するような真似をしたら、美緒の身が」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「落ち着いて聞いて、
+　{名}」
+
+「たしかにわたしが姿を隠せば、
+ドライは怒るでしょうけれど……」
+
+「わたし一人のために、
+美緒を手にかけることはしないわ」
+
+<BOX type="0">//%w
+「……どうして、そう言い切れる？」
+
+<BOX type="5">//%sR
+「彼女の狙いは、
+　わたしじゃなくて、
+　あなたよ」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「本命のあなたを牽制し続けるためには、引き続き美緒が必要になる」
+
+「美緒はドライにとって最後の切り札よ。わたし一人が挑発しても、
+おいそれと使えるわけがない」
+
+<BOX type="0">//%w
+　それは、確かにそうかもしれないが……
+
+<CHOICE HREF="3520.txt" TEXT="＊キャルについては任せろ" OPERATOR="3190=1"></A>//{ ＊キャルについては任せろ 3520 ＊美緒に万が一のことがあったらどうする？ 3530
+<CHOICE HREF="3530.txt" TEXT="＊美緒に万が一のことがあったらどうする？" OPERATOR="3190=1"></A>//{ ＊キャルについては任せろ 3520 ＊美緒に万が一のことがあったらどうする？ 3530
+
+<A HREF="3520.txt" OPERATOR="">//~ 3520

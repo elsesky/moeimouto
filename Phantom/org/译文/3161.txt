@@ -1,0 +1,21 @@
+<BOX type="0">//%w
+　体积大、重量重，后坐力还难以控制……即便如此，我还是选择了柯尔特政府型。
+　因为我看中的是0.45ACP弹的强大阻滞力。
+
+（注：阻滞力，又名“立即丧失行动能力”，即immediate-incapacitation，俗称stopping-power。阻滞力是衡量子弹对人体杀伤力的一种标准。stopping-power越大，击倒人体的力量就越大）
+
+　大口径且低初速……0.45ACP弹会在最初命中的目标上释放出全部的动能。
+
+　子弹即使贯穿目标，其势头也已是强弩之末，因而不必担心会伤及无辜。
+
+　可是……
+　认为在人群中进行枪战是理所当然的……这样的自己，让我产生了厌恶的感觉。
+
+　万一自己不得不在公共场合拔枪……到那时，早苗和美绪会怎么想呢。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="11_02">//
+<CALC WORKNAME="廵" OPERATOR="僐儖僩">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僈僶儊儞僩">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僈僶儊儞僩2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡CV2">//
+<A HREF="3170.txt" OPERATOR="">//~ 3170

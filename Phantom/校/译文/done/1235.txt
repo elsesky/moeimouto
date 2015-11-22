@@ -1,0 +1,97 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1480x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1480x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　仿佛是不祥的阴影一样，一辆奔驰停在了阁楼的前面。
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}，那辆车……」
+
+<BOX type="0">//%w
+「嗯，我知道」
+
+　我把手放在凯尔肩上，让她安心下来。
+　同时，我不改变步调，佯装不知地走向阁楼。不过，眼睛却没有丝毫大意地确认着车内的人。
+
+是维斯梅尔的亲信们，他们曾经来过我的住所。
+这次的是兰迪和另一个不知名的男人，不过毫无疑问也是布拉迪兹的成员。
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# randy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不好意思，Phantom，请跟我走一趟。维斯梅尔先生想见你」
+
+<BOX type="0">//%w
+　少言寡语的兰迪，意外地对我这样说。
+　他的话可谓绵里藏针，透露出对我的威胁。
+
+「什么事？」
+
+<BOX type="4">//%sL
+「维斯梅尔先生会亲自告诉你的」
+
+<BOX type="0">//%w
+「那就让他直接来见我吧」
+
+　事到如今，我已经顾不上对维斯梅尔的霸道作风表示不满了。
+
+<BUSTUP NAME="randy" face="2" MODE="on" zoom="" ALIGN="left">//# randy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　可是，兰迪的脸色没有丝毫改变，只是露出了冷酷的微笑。
+
+<BOX type="4">//%sL
+「你不介意老板亲自到这个小姑娘的住所来吗？」
+
+<BOX type="0">//%w
+　凯尔紧紧地攥着我的夹克衫的衣角。
+
+　看样子，在这里争吵不会让事态有任何进展。
+
+「凯尔，你先回房间去」
+
+<BUSTUP NAME="cyall2" face="8" MODE="on" zoom="" ALIGN="right">//# cyall2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# cyall2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是……」
+
+<BOX type="0">//%w
+「我告诉过你的那个电话号码，还记得吗」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+「3个小时以后我要是还没回来，就打那个号码」
+
+「如果是叫莉兹的女人接的，就把一切都告诉她，这样就没问题了」
+
+<BUSTUP NAME="randy" face="2" MODE="on" zoom="" ALIGN="left">//# randy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# randy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　似乎是有些吃惊，兰迪连连摇头。
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你连同一个组织里的同伴都信不过啊」
+
+<BOX type="0">//%w
+「这种话该对你的老板说吧？」
+
+「好了，快走吧，你们只有3个小时的时间」
+
+<A HREF="1245.txt" OPERATOR="">//~ 1245

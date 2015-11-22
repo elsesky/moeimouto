@@ -1,0 +1,171 @@
+　而且，他对于凯尔的那份执着……
+  难道是对作为目击者的凯尔心存恐惧吗。
+
+<CLEAR><BACKGROUND SRC="0140x7">//# 0140x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「可是，你说有人会继续妨碍下去……难道说，梧桐组还会遭到袭击？」
+
+<BOX type="4">//%sL
+「没错，所以轮到你出场了」
+
+<BOX type="0">//%w
+「为什么不警告他们？」
+
+预料到这一点的话，不是应该提前警戒吗。
+虽说同伴的死让梧桐一伙人稍稍绷紧了弦，但即便如此，他们身上依旧留有游客一般的心境。
+
+　如果说闭门不出，老实待在酒店里倒还好……可要是大摇大摆地四处闲逛，想保护他们就非常困难了。
+
+「在这种情形下想要保护他们……」
+
+<CLEAR><BACKGROUND SRC="1120p1">//# 1120p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「不是保护哦」
+
+「他们只要保持这样就好。诱饵如果不引人注目就没有意义了吧？」
+
+<BOX type="0">//%w
+「……诱饵？」
+
+<BOX type="4">//%sL
+「要钓的可是鲨鱼哦，{名}。
+  梧桐组是诱饵，而你则是鱼钩」
+
+「将咬住诱饵的家伙钓上来，让他的真实身份曝光吧」
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……」
+
+　对于工作上的事，不论何时都能冷静敏锐地进行思考，这就是克劳蒂娅。
+
+　不过，她居然是一个能想出如此无情的谋略的人吗？
+
+<CLEAR><BACKGROUND SRC="1120p2">//# 1120p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「对你来说，梧桐组……」
+
+<BOX type="4">//%sL
+「当然，是重要的商业伙伴」
+
+「可是，如果我的身边有人在妨碍我，那么与黑社会的交易就要延后了」
+
+「确定究竟谁是我的敌人，才是当务之急哦」
+
+<BOX type="0">//%w
+「……」
+
+　在狭窄的车内，虽然我跟她的距离只有咫尺之遥……可是我却没有与她交谈的实感。
+
+<CLEAR><BACKGROUND SRC="0130x1a">//# 0130x1a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+打个比方的话……
+她现在就像是在读着写在文件上的问题，根本不在乎面前的是谁，面对的只有麦克风而已……
+她给人的就是这样一种没有实质性的疏远感。
+
+<BOX type="4">//%sL
+「不过目前你还可以悠闲一点」
+
+「就算敌人想有所行动，肯定也会等梧桐组放松警惕以后再下手吧」
+
+<BOX type="0">//%w
+「……我明白了」
+
+<se id="2" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left street0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="street0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　克劳蒂娅把我送到了诺曼底大街的那所阁楼前。
+
+「……真的没问题吗？　放松对你的保护」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不用担心。
+　你只要做好我交给你的任务就行了」
+
+「要报告的话就打电话吧」
+
+<se id="1" src="F40敪恑" mode="normal" loop="off">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　直到F40消失在视野里，我都没能整理好自己的心情。
+
+　诱饵……吗。
+
+<se id="1" src="" mode="fadeout" time="20">
+
+　她对今天会面的这些黑社会们没有任何的情义。
+
+　不过，既然对方已经和我们这边结成了同盟，这样利用他们真的好吗？
+
+//<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="door2" mode="normal" loop="off">
+
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，欢迎回来」
+
+<BOX type="0">//%w
+　完全不知道我的烦恼的凯尔，声音依旧是那么开朗活泼。
+
+<BOX type="5">//%sR
+「能赶上真是太好了。
+  呐，一起去买东西吧」
+
+<BOX type="0">//%w
+「……买东西？」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「去买生活必需品。这里的东西根本不够用哦」
+
+「在这样下去就没法生活了」
+
+<BOX type="0">//%w
+「……到今天为止，我可都还没觉得这样的生活有什么不方便」
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一个人是没问题，可两个人就不行了」
+
+<BOX type="0">//%w
+「是这样吗？」
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是这样哦，好啦，走吧」
+
+<BOX type="0">//%w
+　要怎么做呢。
+　自己明明想要一个人考虑问题……
+
+<CHOICE HREF="1127.txt" TEXT="＊一起去买东西" OPERATOR=""></A>//{ ＊買い物についていく 1127 ＊キャル一人で行かせる 1122b
+<CHOICE HREF="1122b.txt" TEXT="＊让凯尔一个人去" OPERATOR=""></A>//{ ＊買い物についていく 1127 ＊キャル一人で行かせる 1122b
+　

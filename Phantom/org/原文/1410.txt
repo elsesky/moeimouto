@@ -1,0 +1,39 @@
+//> left room0d1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0d1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お仕事？」
+
+<BOX type="0">//%w
+「わからん。遅くなるかもしれない。寝てていいぞ」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「たぶん起きてると思うよ」
+
+「昼間、壊れたビデオデッキ拾ってきたの。修理できるか、今夜一晩は粘ってみようかなーって」
+
+<BOX type="0">//%w
+「……新しいの買ってやるよ。ビデオくらい」
+
+<BOX type="5">//%sR
+「んー、そぉ？」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃ、直んなかったら買って。
+　ソニーの」
+
+<BOX type="0">//%w
+「あまり夜更かしするなよ」
+
+<A HREF="1420.txt" OPERATOR="">//~ 1420

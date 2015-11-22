@@ -1,0 +1,139 @@
+<CLEAR><BACKGROUND SRC="0140x7">//# 0140x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「でも、妨害が続くって……まさか、またヤクザが襲われるとでも？」
+
+<BOX type="4">//%sL
+「そう。だから、あなたの出番」
+
+<BOX type="0">//%w
+「なんで梧桐に警告しなかった？」
+
+　そこまで見越していたのなら、警戒させるべきではないか。
+　仲間が死んで、少しは引き締まってるかもしれないが、
+　それでも連中はまだ観光客気分が抜けてない。
+
+　どこかに立て籠もって、大人しくしているならまだしも……
+　派手に遊び歩かれた日には、護衛なんて無理だ。
+
+「あんな調子じゃ、連中を守るなんて……」
+
+<CLEAR><BACKGROUND SRC="1120p1">//# 1120p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「守れなんて、言ってないわよ」
+
+「彼らは、あれでいいの。
+　餌は目立たなきゃ
+　意味がないでしょ？」
+
+<BOX type="0">//%w
+「……餌？」
+
+<BOX type="4">//%sL
+「サメ釣りよ、{名}。
+　ヤクザが餌で、あなたが針」
+
+「餌に食いついてきた奴を
+　釣り上げて。
+　正体を暴いてちょうだい」
+
+<CLEAR><BACKGROUND SRC="0140x9">//# 0140x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……」
+
+　仕事においては、あくまで冷徹で計算高い。
+　それがクロウディアだ。承知している。
+
+　だが、ここまで非情な計略を思いつく人だったか？
+
+<CLEAR><BACKGROUND SRC="1120p2">//# 1120p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「あんたにとっての、梧桐は……」
+
+<BOX type="4">//%sL
+「もちろん、
+　貴重なビジネスパートナーよ」
+
+「でも、もし身近に私の足を掬おうとする者がいるなら、ヤクザとの
+ビジネスどころじゃないわ」
+
+「いったい誰が敵なのか、
+　確証を掴むのが最優先なのよ」
+
+<BOX type="0">//%w
+「……」
+
+　狭い車内で、手を伸ばせば届く距離にいるにも関わらず……
+　彼女と会話しているという実感が、まるでなかった。
+
+<CLEAR><BACKGROUND SRC="0130x1a">//# 0130x1a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　喩えるなら……
+　今の彼女は、文書で寄せられた質問を読んでから、
+　誰にともなく、据え置きのマイクに向かって話しているような、
+　そんな無機質なよそよそしさを感じさせた。
+
+<BOX type="4">//%sL
+「まだ当面は、
+　のんびりしていていいわ」
+
+「敵に動きがあるとすれば、
+　もっと梧桐たちの気が緩んでから
+　でしょうからね」
+
+<BOX type="0">//%w
+「……わかった」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left street0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="street0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ノルマンディ通りのロフトの前まで、クロウディアは送ってくれた。
+
+「……本当に、いいのか？　護衛を抜けて」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「心配しないで。
+　あなたは、あなたの務めを
+　果たしてちょうだい」
+
+「報告は電話でいいわ」
+
+
+<se id="2" src="F40発進" mode="normal" loop="off">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　走り去るF40を見送る間も、やはり気持ちの整理はつかなかった。
+
+　餌……か。
+
+　今日会ったヤクザ達には、個人的には何の義理があるわけでもない。
+
+<se id="2" src="" mode="fadeout" time="20">
+　だが、仮にもこれから同盟を組もうという相手を、
+　そんな風に利用していいものか？
+
+
+//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<A HREF="1125.txt" OPERATOR="">//~ 1125

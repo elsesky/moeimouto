@@ -1,0 +1,112 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夜の砂漠を、吹き渡る風。
+
+　今も昔も変わりなく、ここは、時の止まった場所。
+
+　始まったのは、ここだった。
+　やり直そうと決めたのも、ここだった。
+
+　なら……終わるのも、ここがいい。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　大丈夫。彼女なら、解っているはずだ。
+　遠からず、ここに来るだろう。
+
+　だから、ただ待つだけでいい。
+
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0070p1">//# 0070p1 1
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="factory">//# factory 1 elen1^6 20
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# factory 1 elen1^6 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　この部屋で見た、{ヒロイン}の仕草、
+　交わした言葉の数々を、思い出す。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　寸分違わぬ背景が、回想に、まるで幻覚のような生々しさを与えていた。
+　
+　本当に、あの頃の彼女が、すぐ傍にいるように……
+
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">//# elen6^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　淡い月明かりの中に佇む影は、幻覚のように朧気で……
+　だが、いつしかそれは、まぎれもなく実体をとっていた。
+
+<BOX type="5">//%sR
+「ここにいると、思ったわ」
+
+<BOX type="0">//%w
+「ああ。解ってるだろうと思った」
+
+<BUSTUP NAME="elen6" face="7" MODE="on" zoom="" ALIGN="right">//# elen6^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「逃げろって、言ったのに」
+
+<BOX type="0">//%w
+「でも、待つことにしたよ」
+
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen5" face="2" MODE="on" zoom="" ALIGN="right">//# elen5^2 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="5">//%sR
+「あなたを、殺さないといけない」
+
+<BOX type="0">//%w
+　冷ややかに宣言しながら、{ヒロイン}は手にした拳銃を構える。
+
+「そうしてくれ。望むところだ」
+
+　{ヒロイン}の構えた銃口に向けて、力なく、そう微笑んだ。
+
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="right">//# elen6^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　それが{ヒロイン}にとっては、意外だったらしい。
+　静寂の瞳が、かすかな動揺に騒ぐ。
+
+<BOX type="5">//%sR
+「……どうしたっていうの？」
+
+<BOX type="0">//%w
+「……疲れたんだよ。もう」
+
+　もう、たくさんだ。
+　騙し合いも、裏切りも、
+
+　人を殺し、勝ち残る……そんな酷い生き方も。
+
+<A HREF="1520.txt" OPERATOR="">//~ 1520

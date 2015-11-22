@@ -1,0 +1,19 @@
+<BOX type="0">//%w
+　今後しばらくは、
+　言うなれば興信所の真似事のような仕事が続くことになる。
+　当然、得物はコンシールド性の高いものがいい。
+
+　加えて、敵の出方も判らない。
+　いつ、どこで、どんな形で襲撃を仕掛けてくるのやら……
+
+　対処できる幅の広さを考えると、
+　やはりここは小口径、多弾倉、といった選択肢か。
+　決まりだ。ベレッタにしよう。
+
+<CALC WORKNAME="射撃音" OPERATOR="02_01">//
+<CALC WORKNAME="銃" OPERATOR="ベレッタ">//
+<CALC WORKNAME="銃画像" OPERATOR="ベレッタ3">//
+<CALC WORKNAME="射撃画像" OPERATOR="ベレッタ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用BS">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

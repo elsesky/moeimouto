@@ -1,0 +1,524 @@
+　それとも……
+　ふと、とんでもない案に思い至る。
+
+　いっそ、キャルが金を持ち去ったという事実そのものを揉み消すか？
+
+　それは、背筋の冷たくなるような着想だった。
+
+　あの金を隠し、インフェルノにはシラを切り通す……
+
+　キャルの身を守るには、それしかない。
+　だが、それは組織に対する完全な背任だ。
+
+　インフェルノは依然、金目当ての襲撃事件として、
+　見当違いの方向で捜査を続けるだろう。
+　ワイズメルはともかく、
+　全幅の信頼を寄せてくれているクロウディアまで、欺くことになる。
+
+　そして、一旦そんな嘘をついてしまえば、
+　キャルは庇い抜かなきゃならない。
+　事態に完全に決着がつき、キャルに寄せられる関心が、
+　まったくなくなるまで。
+
+　そのための、都合のいい口実を、どうやって見つけるか？
+
+　幸い、今夜一晩は、考える時間がある。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1090x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="トーラス走行室内音" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="1090x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　翌朝……
+
+　定刻にゆとりを持って、マルホランド＝ドライブにゴルフを駆っていた。
+
+　ラッシュアワーの騒乱は、ようやく終息に向かっていたが、
+　それもビバリーヒルズに入ったあたりから、
+　夢から醒めたように交通量が減った。
+
+　特権階級が集う、この地続きの異世界では、時の流れも違う。
+
+　ハンドルを握りながら、
+　頭の中では、昨夜一晩かかって練り上げた筋書きを、
+　もう一度、確認していた。
+
+　筋が通ってるか、辻褄はあってるか……
+　そんな点検をしていたわけじゃない。
+　
+　反芻するまでもなく、解っている。どこもかしこも矛盾だらけだ。
+
+　自分自身に確かめておくべきことは……
+　そのデタラメな話を押し通せるだけの、度胸を固められるかどうか。
+
+　今となっては、その一点だけしかない。
+
+<se id="1" src="" mode="fadeout" time="20">
+
+//> left passage1 wide 255 crou^2 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「どういうことなの？
+　{名}」
+
+<BOX type="0">//%w
+　廊下で、クロウディアに呼び止められた。
+
+　今朝の報告に立ち会うよう、彼女が呼び出されたのも、
+　当然の成り行きだった。
+
+「……説明は、ここじゃまずい」
+
+「二人きりで話していると、またワイズメルに疑われる」
+
+「何もかも、皆の前で話すよ」
+
+<BOX type="4">//%sL
+「……」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room3 wide 255 inferuno1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「さてファントム、
+　釈明を聞かせてもらおうか」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「アイザックの話では、君は今回の件について、重要な目撃者を匿っているということだが」
+
+<BOX type="0">//%w
+　居並ぶインフェルノの幹部を前に、絶望的な審問が始まった。
+
+　深く息を吸い、
+　恐れも不安も胸の奥底に押し込んでから、おもむろに切り出す。
+
+「まず根本的なところで誤解があるようですが」
+
+「あの少女を俺が拘束しているのは、
+　一昨日のヤクザ殺しに関わる理由ではありません」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　冷たく燃えるワイズメルの視線を、敢えて無視して話を続ける。
+
+「たしかに最初は、
+　あの子から有益な情報が得られるものと期待して接近しました」
+
+「だが実際は、空振りだった。
+　あの子は巻き添えをくった通行人の身内というだけで、何も知りません」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「おぅ、ファントム……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まあ待て、アイザック。
+　ファントムの話は終わってない」
+
+<BOX type="0">//%w
+　怒気を発したワイズメルを、マグワイヤが冷然と制する。
+
+<BOX type="5">//%sR
+「ではファントム、なぜ君は、
+　その無関係な小娘に
+　固執しているのかね？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　いよいよだ。
+　腹の底に力を溜めつつ、うわべは平然を装って返答する。
+
+「あの子の、別の可能性に興味を惹かれたからです」
+
+「あの娘には珍しい素養があります。才能と言ってもいい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……昔、似たような台詞を
+　聞かされたわね」
+
+<BOX type="0">//%w
+「そうですね。
+　かつて俺も、それと同じものをサイス＝マスターに見いだされ、
+　インフェルノに加えられた」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　案の定、困惑が部屋の空気を占めた。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……つまり、その少女も
+ヒットマンとして訓練したいと？」
+
+<BOX type="0">//%w
+「そうです」
+
+「将来的には、俺の片腕として相応しい腕前になるでしょう」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　誰ひとりとして、これは予想しなかった話だろう。
+
+　だがそれは、かつてサイスが、
+　偶然捕らえた旅行者をアインに訓練させた時も、同じだったはずだ。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「その少女の才能だが、
+　何か確証があるのかね？」
+
+<BOX type="0">//%w
+「俺のカンです」
+
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="left">//# inferuno2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ふざけてるんじゃねぇぞ、
+　おい！」
+
+<BOX type="0">//%w
+「どだい言葉で説明できるもんじゃないんですよ。こればかりは」
+
+「生まれついての猟犬にだけ判る、同族の匂いってやつがあるんです」
+
+「たとえば、サイスの連れていたアイン……
+　先代のファントムもそうだった。
+　彼女の能力も、あなた方の想像を越えていたはずだ」
+
+「さらに言えば、1年前……
+　あなた方に、今のこの俺を想像できましたか？」
+
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　アインと、ツヴァイ。
+　ともに、わずか十代でファントムの異名を手にした二人に対しては、
+　多分ここにいる誰もが、理解を超えた奇異の念を、
+　未だに懐いていることだろう。
+　それを梃子に、押し切るしかない。
+
+『どだい、あんたたちに理解できる話じゃない。
+　だから異論を差し挟まないでくれ……』
+
+　話の筋道として滅茶苦茶なのは、自分でも解ってる。
+
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="left">//# inferuno2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「まさかそんなタワゴトで、納得
+しろっていうんじゃなかろうな？」
+
+<BOX type="0">//%w
+「当然、納得できんでしょうな、あんたは」
+
+　敢えて小馬鹿にした口調で、さもうんざりした風にワイズメルを睨む。
+
+「ミスタ＝ワイズメルとしては、どうあっても俺とミズ＝マッキェネンに
+　陰謀を巡らせていてほしいらしい」
+
+「そんなあんたに、せっかくの金の卵を預けられるか？」
+
+「冗談じゃない。
+　ヘタに自白剤でも打たれて神経系をぶち壊しにされたら、おしまいだ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　幹部ワイズメルのパラノイアと、天才ファントムの直感……
+　いずれ劣らぬ無根拠な妄想が、これで天秤の両端に乗った。
+
+　あとは、運を天に任せるしかない。
+　マグワイヤが、どんな結論を出すか……
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しかしファントム、そこまでして君は新しい助手が欲しいのかね？」
+
+「現状の、リズィとのチームワークでは問題があるというのか？」
+
+<BOX type="0">//%w
+「それは……」
+
+　まずい。
+　内心で臍を噛んで、
+　さっきから黙って成り行きを見守っているリズィを見やる。
+
+　このまま話を押し通すと、リズィの面子を潰してしまう……
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ま、確かに問題だらけだわな」
+
+<BOX type="0">//%w
+　あろうことか、助け船を出してくれたのは、他ならぬリズィ自身だった。
+
+<BOX type="4">//%sL
+「正味の話、
+　アタシとファントムじゃ
+　無理ありすぎるんですよ」
+
+「前のファントムも
+　そうでしたがね……」
+
+「こいつらサイス仕込みの
+　天才サマは、やること成すこと
+　全て無茶なんです」
+
+「プロの定石なんてまるで無視だ。
+　まぁそれで敵の意表を
+　突けるってのも確かだが……」
+
+「当人は才覚で切り抜けられても、
+　こっちは凡人なんでね」
+
+「ノコノコ後について行ったら、
+　命がいくらあっても
+　足りゃしない」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「こいつの眼鏡に適うような
+　パートナーがいるのなら……」
+
+「ぜひとも
+　代わってもらいたいですね。
+　アタシゃ」
+
+「天才児どうし、
+　仲良くやってもらいたいもんだ」
+
+<BOX type="0">//%w
+「リズィ……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ヤクザたちと一緒に死んでいたという、そのジュディ＝ディヴェンスとかいう娼婦だが……」
+
+「事件に関わりがないのは、
+　確かなのかね？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ええ。シロもシロ、
+　真っ白けですよ。
+　もぉ徹底的に洗いましたから」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ふむ」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「納得できたか？　アイザック」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2^4 19
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……納得しろってのか、レイ？」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「その少女をファントムに預けて
+おいても、それはインフェルノの
+手元にあるのと変わらない」
+
+「やはり、どうしても
+　疑わしいとなれば、その時、
+　また引っ立てれば済むことだ」
+
+「責任は持てるな？　ファントム」
+
+<BOX type="0">//%w
+「はい」
+
+　依然、生きた心地はしなかったが……
+　どうやら、言い逃れは成功に終わったらしい。
+
+//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……済まない」
+
+　周囲に人目がないのを確かめて、リズィにそう頭を下げた。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「気にすんな」
+
+「その子のことアイザックに
+　嗅ぎつけられたのは、
+　アタシのミスだしね」
+
+<BOX type="0">//%w
+「だが……」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「解ってるよ。
+　アンタが自分の同類なんぞ
+　増やしたがってるワケがない」
+
+「……その娘を庇う
+　方便なんだろ？」
+
+<BOX type="0">//%w
+「……」
+
+　歯切れ良く答えられない。
+
+　自分の沽券を犠牲にしてまで、助け船を出してくれたリズィ。
+　だが、消えた500万ドルの行方を知ったら、リズィはどう思うだろう？
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しかし、もっとマシな口実を
+　思いつかなかったのかい？」
+
+「どうするんだよ。あそこまで
+　大風呂敷ひろげちまって」
+
+<BOX type="0">//%w
+「ほとぼりが冷めるまで、手元に置いておければいい」
+
+「その後は、隙を見て逃がす」
+
+　たとえば訓練中の事故で死んだとか、そういう偽装で、
+　どこかに逃がすのもいい。
+　
+　今からなら、策を練る時間は充分にある。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、あれだけ売り込んだ以上、
+　アンタは責任を問われるぞ」
+
+<BOX type="0">//%w
+「分かってる」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0130x7 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="0130x7">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　いずれ、ヤクザを襲った犯人が見つかれば……
+
+　そいつが何者であれ、
+　500万ドルの現金を現場に残して立ち去ったことも、
+　露見してしまうだろう。
+
+<CLEAR><BACKGROUND SRC="0130x6">//# 0130x6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そうなれば、消えた金の行方は？
+　当然、疑いは現場にいたキャルに向く。
+　そして、妙な屁理屈で彼女を庇った自分もまた……
+
+　こうなった以上、キャルとは運命共同体だ。
+
+//> left street0 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street0">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　真相を隠し通すためには……
+
+　まず、ヤクザを襲った襲撃者を、単独で……
+　インフェルノを出し抜いて探し出す必要がある。
+　誰にも頼るわけにはいかない。
+
+　そして、口を封じる。
+
+　そいつの死体に、
+　キャルが持ち込んだ500万ドルを添えて
+　インフェルノに差し出せば……帳尻は合うはずだ。
+
+<A HREF="1100.txt" OPERATOR="">//~ 1100

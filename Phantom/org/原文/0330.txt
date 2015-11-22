@@ -1,0 +1,354 @@
+<CLEAR><BACKGROUND SRC="Contena4">//# Contena4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　見定めていたコンテナの陰に転がり込んで、ひとまず安堵してから……
+　改めて戦慄した。
+
+　まずいぞ、完全にマークされている。
+　一筋縄でいく相手じゃない。
+
+　リズィの前で虚勢を張ったのが、今さらながら悔やまれた。
+　勝負できるだけの弾があれば……
+
+　いや、
+　一対一ならば、いっそ勝負をかけるのも手だ。
+
+　仕留めた後で、敵の武器を奪えれば……
+　その後に、サイスと対決する望みも繋げる。
+
+　一発。
+　ただの一発で仕留めなければ。
+
+　当然、正面切って撃ち合うわけにはいかない。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　奇襲以外に道はなかった。
+
+　まず姿をくらまして、
+　裏をかいて側面を突き、
+　慎重に急所を狙い撃つ。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+
+　9mm弾では、当てる場所も
+　選ばなければならない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　身体を伏せて、そっと匍匐でコンテナの反対側に出た。
+
+　さっきのような応射はこない。
+　敵はまだ、こちらが動いているとは露知らず、
+　腰を据えて狙い撃ちのチャンスを窺っているんだろう。
+
+　よし。
+　気取られるより先に、敵の側面に回り込めれば……
+
+　気配を殺し、陰から陰へと移りながら、
+　狙撃手の居場所を目指して、慎重に迂回していく。
+
+//> left bay8 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay8">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……だがすぐに、目論見の甘さに気付かされた。
+
+　そこと見定めていた場所に、敵の姿がない。
+　
+　やられた。
+　今度は敵も移動している。
+
+　こうなると、完全なストーキング勝負だった。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　慎重に移動しながら、
+　全身を神経の塊にして、互いの居場所を探り合うしか……ない。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+　どこだ？
+　どこにいる？
+
+　息をひそめ、気配を殺して、夜霧の中を滑るように移動する。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　足音を、
+　怯えた息遣いを、
+　張りつめた胸の鼓動を、
+
+　先に捉えた方が、勝つ。
+　聞き咎められた方が、死ぬ。
+
+//> left bay8 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay8">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　照明灯に背を向けると、
+　明かりを受けた夜霧が、かすかな燐光を放って、目の前を過ぎていく。
+
+　その、あるかなしかの白い流れが……
+　不意に翳った。
+
+　夜霧が受けていた光線を、何かが、遮ったのだ。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　背後。
+
+　次の瞬間、凍りついた世界の中で、首から下だけが反応した。
+
+<CLEAR><BACKGROUND SRC="bay6">//# bay6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　身を捩り、振り向きざまに横に飛びながら、空中でグロッグを構える。
+
+<CLEAR><BACKGROUND SRC="グロッグ狙い定める">//# グロッグ 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　逆光の中に佇む影が網膜に映った瞬間には、
+　右手の銃口もまた、すでに標的を捉えていた。
+
+<se id="1" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+//> left bay6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bay6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　肩から転がって着地しながら、
+　起きあがりざまにグロッグを構え直したのは、
+　身に染みついた反射行動だったが……当然、意味はない。
+
+　手の中で、グロッグのスライドは後退したまま、
+　薬室を剥き出しに曝している。
+
+　どのみち、それには及ばなかった。
+　ただ一発の弾丸は、狙い違わず標的を射止めていたのだから。
+
+　だが……
+
+//> left 0320p1 mainL 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0320p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　なぜ？
+
+　なぜ{ヒロイン}が、ここに？
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay6">//#! bay6 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　凍りついた時間を打ち砕くように、新たな銃声が轟いた。
+
+　灼熱の衝撃に胴を縫われ、
+　視野の天地がひっくり返る。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<wait time="200">
+<box type="0">
+　撃たれた……
+　だが、誰に？
+
+//> left bay6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　仰向けに倒れたまま、霞む目を凝らして闇を睨む。
+
+　白い霧の中から、ゆっくり靴音を響かせながら、長身の影が現れた。
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="right">//# sice5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……見事だったな」
+
+「まったくもって見事だ。
+　ツヴァイ」
+
+<BOX type="0">//%w
+　サイス……
+
+　誤算だった。まさか、こいつ自身が討って出てくるとは。
+
+<BOX type="5">//%sR
+「いずれはアインを凌ぐものと
+　思っていたが……」
+
+「よもや、
+　こうも短期間で大成するとは、
+　驚きだ」
+
+「それだけに、惜しいよ。
+　あの女狐に奪われたのはな」
+
+<BOX type="0">//%w
+　歯を食いしばり、グロッグの銃把を握りしめるものの、
+　弾の切れた銃など、何の役に立つはずもない。
+
+　力んでみただけ、
+　ただ、撃たれた腹の痛みを、
+　より際立たせただけだった。
+
+<CLEAR><BACKGROUND SRC="0340p3">//# 0340p3 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　地に倒れていたアインを抱き起こすと、
+　サイスは再び、ルガーの銃口をこちらに向けた。
+
+<BOX type="5">//%sR
+「悲しいが、お別れだな。
+　私も先を急ぐのでね」
+
+<BOX type="0">//%w
+　くそう……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay6">//#! bay6 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　吠えたのは……サイスのルガーではなく、より大口径の拳銃だった。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<BUSTUP NAME="rizy" face="4" MODE="on" zoom="" ALIGN="right">//# rizy^4 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="11_02_HB5連射" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="5">//%sR
+「うおおらぁぁぁぁ!!」
+
+<BOX type="0">//%w
+　リズィだった。
+　サイスに向けて銃を撃ちまくりながら、こっちに向かって突進してくる。
+
+<BUSTUP NAME="sice4" face="" MODE="on" zoom="" ALIGN="left">//# sice4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「クッ……!?」
+
+<BOX type="0">//%w
+　怯んだサイスも、肩にアインの身体を担いだまま、
+　ルガーの乱射で牽制しつつ後退する。
+<se id="1" src="ルガー4連射" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="4" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+　閉ざした瞼の向こう側に、銃声の応酬を聞きながら……
+　痛みのあまり、不意に意識が遠のいた。
+
+<CLEAR><BACKGROUND SRC="bay6">//# rizy^2 20 bay6 1
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 bay6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ボケナス!
+　手前ぇ格好つけすぎだ!!」
+
+<BOX type="0">//%w
+　間近な声に目を開けると、リズィがすぐ横に屈んで、
+<se id="1" src="11_03" mode="normal" time="" loop="off" effect="">//!se 
+　ハードボーラーの弾倉を換えている。
+
+<BOX type="5">//%sR
+「どこの世界に、弾一発で本当に
+　撃ち合いに行く馬鹿が……」
+
+「おい!?　大丈夫かよ!!」
+
+<BOX type="0">//%w
+「……ああ」
+
+　あまり大丈夫には見えないだろうが、
+　心配してもらっている場合じゃない。
+
+「構うな、早くサイスを……」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　リズィの顔が、切羽詰まった逡巡に歪む。
+
+「行け!!」
+
+　腹の底に残った、最後の息を振り絞って、そう叱咤した。
+
+<BOX type="5">//%sR
+「……死んだら、
+　承知しねぇぞ!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　無茶な台詞を吐き捨てながら、リズィはサイスを追って駆け出した。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　命を惜しんでもらえるとは……
+　どうやら、信用された……かな？
+
+<calc workname="gun29" operator="1" mode="global">
+<A HREF="0360.txt" OPERATOR="">//~ 0360

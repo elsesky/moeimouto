@@ -1,0 +1,232 @@
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……{名}？」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<BOX type="0">//%w
+「!?」
+
+　耳边传来了不可能出现的声音……我向着声音的方向愕然地转过头去，发现凯尔正不知所措地站在那里。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怎么回事？　发生什么了吗？」
+
+<BUSTUP NAME="cyall" face="3" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，我们的房子……怎么着火了!?」
+
+<BOX type="0">//%w
+「凯尔……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我无言地紧紧抱住她那纤细的身体。
+
+<BOX type="5">//%sR
+「唉、{名}……？」
+
+<BOX type="0">//%w
+　不是喜悦，不是安心，我现在感受到的是难以言表的恐惧。
+　就在刚才，我见到了绝望的深渊……极度冰冷、黑暗、虚无的世界。
+　失去凯尔之后会有什么在等着自己，这下我全都明白了。
+
+　我已经厌倦了。不会再有第二次了。
+　如果再次失去凯尔，我一定会崩溃的。
+
+　可是……既然如此，自己要怎么做呢？
+　凯尔只是因为刚好在外面而逃过一劫，可要是再发生这样的事呢……
+
+<BUSTUP NAME="cyall" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}……呐、{名}，等一下啊」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「待在这里不太好吧？
+　警察就要来了……」
+
+<BOX type="0">//%w
+「……啊，说的没错」
+
+　由于事情的发展太过混乱，自己居然没注意到这种明摆着的事。
+  看来现在凯尔比我要更加冷静。
+
+「不能待在这里了。我们逃吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我重新振作起来，拉起凯尔的手奔向来时乘坐的那辆车。
+　逃亡的话……没有地方可去。
+　即便如此，现在至少应该远离这里，逃的越远越好。
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　从荒野远方的地平线那里开始，夜空渐渐变得明亮。
+　我们一路驾车飞奔，一直逃到认为安全的地方才停下车，暂时休息一下。
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐、{名}？」
+
+<BOX type="0">//%w
+「怎么了？」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「刚才啊……你真的以为我死了吗？」
+
+<BOX type="0">//%w
+「……嗯，没想到你刚好出门了」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我想试试修好的录像机能不能用，所以去了录像带出租铺。结果回来的时候就看到……」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔非常沮丧地叹了口气。
+
+<BOX type="5">//%sR
+「所有的东西都烧没了吧」
+
+<BOX type="0">//%w
+「嗯……」
+
+　在杀机四伏的日子里，只要回到那里就能安下心来。
+
+　看上去似乎算不了什么……但当失去了以后，我才真正明白了那间自己与凯尔一起生活过的屋子是多么的重要。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那是，布拉迪兹的报复吗？难道说{名}你做的事暴露了？」
+
+<BOX type="0">//%w
+「……应该就是这么一回事吧」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们已经不能再回那条街了吧」
+
+<BOX type="0">//%w
+「……觉得寂寞吗？」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不会哦」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「只要和{名}在一起，去哪里都可以哦。才不会想回去呢」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「只不过……之前买的那件衣服烧掉了，有些可惜呢」
+
+<BOX type="0">//%w
+「……」
+
+　现在我们可是既不能回去，又无处可去哦，凯尔。
+
+　追着我们的不是布拉迪兹，而是Inferno……这可是你想象不到的危险敌人呐。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那个、{名}」
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「刚才、{名}抱着我的时候……」
+
+<BOX type="0">//%w
+「嗯？」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我觉得……自己在守护着{名}呢」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<BOX type="0">//%w
+「……」
+
+　我目不转睛地盯着凯尔那恶作剧般的笑脸。
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……生气了？」
+
+<BOX type="0">//%w
+「没有」
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+　凯尔的笑脸是那么的炫目、纯洁，看不到一丝的阴霾……
+　放弃当杀手吧，我这样下定了决心。
+
+　可是，这样的打算还只是个甜美的梦。
+　Inferno一定会毫无宽恕地追杀我们吧。
+
+　逃亡、不停地逃亡。在那之中又会有多少血要流呢。
+　为了和凯尔一起活下去……我会将灵魂出卖给魔鬼吧。
+　有这样的男人陪在身边……凯尔，你还能永远露出笑脸吗？
+
+　疲倦、失去希望、忘记欢笑……这样的事总有一天会发生在你身上吧。
+　在那之前，我必须让你和这样的残酷生活永远分别。
+　可是……这只是我的一厢情愿。
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……{名}？」
+
+<BOX type="0">//%w
+「啊？　……啊、不。没什么」
+
+　我勉强摆出笑脸，赶跑内心的悲观。
+　现在想那么多又有什么用呢。
+
+「差不多，该出发了吧」
+
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　望着轻快地跑回车上的凯尔的背影，我摸了摸怀里的枪。
+
+　从今天开始，每一天都要为了生存而赌上一切。
+　在那样的日子中，唯一能够依靠的……只有这坚硬、冰冷的触感了。
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550

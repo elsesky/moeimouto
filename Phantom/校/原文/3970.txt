@@ -1,0 +1,268 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage7c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="passage7c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　今の……銃声は？
+
+　至近弾と跳弾が周囲を唸り飛ぶ真っ最中だったが、それでも、
+　どこか見当違いの方角から轟いたカラシニコフの銃声は聞き分けられた。
+
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　戦場は西棟の2階に場所を移し、
+　長い廊下を間に挟んでの、真っ向からの銃撃戦にもつれ込んでいた。
+
+　こちらは校舎の端の非常階段に陣取って、
+　渡り廊下からやってきた敵をくい止めている。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　のこる3人のうち、いま撃ち合っている相手は、おそらく二人。
+　残る一人は下から回り込んでくるものかと思っていたが……
+　まさか、美緒たちを追ったのか？
+
+　ぐずぐずしていられなかった。
+　ここで手間取っている場合じゃない。
+
+　カラシニコフの残弾も残り少ない。
+　何か、思い切った手を打たねば。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="ドライ走り" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+　意を決し、銃撃を打ち切って、非常階段を駆け上がる。
+
+　この西棟の3階の、こちら側の端の教室は……
+　たしか、化学室。
+　そこでなら、捨て身の策がひとつある。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school2c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="school2c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%m
+　闇に沈んだ校庭の、
+　立木の陰から……
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　キャルは校門から走り去る志賀のベンツを、見送っていた。
+
+　どうやら加勢するまでもなく、
+ズィーベは志賀が仕留めたらしい。
+　これで美緒は窮地を脱した。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　胸の内の安堵に気付いて、
+　キャルは一人、顔を顰める。
+
+<BOX type="4">//%sL
+“何だってあたしが、
+　気を揉まなきゃならないんだ？”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　気を取り直し、キャルは未だ銃火の止まぬ校舎に目を転じる。
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+　恐れ入ったことに、{名}はたった一人で、ツァーレンシュヴェスタン全員を相手取っているらしい。
+
+　その戦法が不用意に派手なのは、キャルの目にも明らかだった。およそ沈着な{名}らしくない。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+“囮……か？”
+
+<BOX type="3">//%m
+　他には考えられなかった。
+　志賀と美緒が無事に逃げ切るまでの、時間稼ぎ。
+
+　そういえば礼拝堂での乱闘も、そうだった。
+　アインが裏口から逃れたあとも、{名}は中に留まって戦い……
+
+　美緒が割って入らなければ、或いは命を落としていたかもしれない。
+
+　いち早く礼拝堂を脱したあと、実は森へと取って返して、誰に気付かれることもなく戦況を見守っていたキャルは、その顛末を目の当たりにしていた。
+
+　何なのだ？　あの男は……
+
+　喫茶店での邂逅で、アインを見逃してほしいと、無様に懇願した{名}。
+
+　誰ひとり犠牲にしたくないと、綺麗事ばかりを並べる彼に、キャルの怒りはいっそう煽られたが……
+
+　そんな綺麗事も、
+　ここまで徹底して貫かれると、
+　もう呆れるしかない。
+
+　もはやキャルが手を下すまでもなく、{名}は命を落とすだろう。
+
+　言うなれば後輩に当たるツァーレンシュヴェスタンの実力は、キャルも心得ている。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　それにしても……
+　{名}ひとりを放り出して、アインは一体どこに消えた？
+
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　そんな疑念が湧いたちょうどその時、キャルの背後で、撃鉄を起こす音がした。
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「動かないで」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　影そのものから湧いたような、
+　冷ややかな声は……
+　聞き違えようがない。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……あんたも、薄情な女だな」
+
+<BOX type="3">//%m
+　声に冷笑を交えながら、
+　キャルは背後の気配に語る。
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="4">//%sL
+「{姓}{名}は窮地の真っ直中だぜ。助けに行かなくていいのかい？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あの子たちは、何者？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「サイスの親衛隊。言ってみりゃ、
+　あんたの量産型だよ。アイン」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　背中に浴びせられる殺気が、
+　動揺で揺らぐのを、
+　あきらかにキャルは感じ取った。
+
+<BOX type="4">//%sL
+「このままじゃヤバイよ、{名}は。あんた、あたしに構ってる場合かい？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一番の脅威は、あなたよ」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　ぴしりと打ち据えるように言い切る声に、キャルは鼻を鳴らす。
+
+<BOX type="4">//%sL
+「じゃ、何で撃たない？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}がそれを望まないから」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　決して認めたくない、
+　屈辱と敗北感が、
+　再びキャルの胸を過ぎる。
+
+　礼拝堂での、アインとの決闘……
+　{名}の放った銃弾の、露骨に甘い照準は、明らかに威嚇でしかなかった。
+
+　そして彼の横槍が入らなければ、どういう結果に終わっていたか……
+
+業腹だが、疑う余地はない。
+思いもよらなかったナイフの奇襲を
+キャルには躱わす術がなかった。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+“あの馬鹿は……”
+
+“本当に誰一人、
+　死なさずに収めようってのか？”
+
+<BOX type="3">//%m
+　屈辱と、苛立ちと、そして僅かな憐憫の念で、キャルは銃火瞬く校舎の窓を見遣る。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……とはいえ、
+　あんたの身はひとつだ」
+
+<BOX type="3">//%m
+　胸の内の想いを押し殺し、キャルは嘲るように{ヒロイン}に問うた。
+
+<BOX type="4">//%sL
+「ここであたしを見張るなら、{名}は見殺しにするしかない」
+
+「だがあたしを放っとけば、
+　何をしでかすか判らない」
+
+「いったいあんたは、
+　どっちを選ぶ？」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen5^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「同じ質問を、訊かせてもらうわ」
+
+「あなたの望みは、どうなの？
+　キャル」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<A HREF="3980.txt" OPERATOR="">//~ 3980

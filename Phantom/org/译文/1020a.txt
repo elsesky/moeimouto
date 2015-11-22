@@ -1,0 +1,28 @@
+//> left 1020x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40憱峴150幒撪" mode="normal" time="" loop="off" effect="">//!se F40cruise
+<BACKGROUND SRC="1020x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<BOX type="0">//%w
+　我在担任克劳蒂娅随从的时候，F40的驾驶也已经十分熟练了。
+
+　弯弯曲曲的穆赫兰道带来的刺激不是那些高速转角所能相比的，
+　不过今晚我没有必要开的过于生猛。
+
+<BOX type="5">//%sR
+「……不想挑战一下吗？」
+
+<BOX type="0">//%w
+「我偶尔也想像这样悠闲地驾驶」
+
+　虽然她装成非常自然的样子，
+  不过，今夜的她应该也没有驾车飞驰的心情吧。
+
+<A HREF="1022a.txt" OPERATOR="0200=1">//~ 1022a
+<A HREF="1022a.txt" OPERATOR="0255=1">//~ 1022a
+<A HREF="1022b.txt" OPERATOR="">//~ 1022b

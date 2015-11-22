@@ -1,0 +1,301 @@
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　彼女が、撃たざるを得ないであれば、
+　せめて楽に撃たせてやろう。
+
+　辛い思い出にならないように、
+　せめて撃つ口実を作ってやろう。
+
+　うわべだけの殺意を込めて、クロウディアに銃を振り向ける。
+
+<se id="1" src="14_05" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+　乾いた銃声。
+　そして、思った以上に軽い衝撃。
+　支えを失った視野が、ぐらりと横に転がる。
+<wait time="800">
+<se id="2" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<CLEAR><BACKGROUND SRC="white">//# inferuno2 20 
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// white 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ワイズメルは言っていた。
+　このままじゃロメロの二の舞だ、と。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 sice 19
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# dummy 20 sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　サイスは言っていた。
+　そんな末路を辿るべきじゃない、と。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　どいつもこいつも、糞食らえだ。
+
+　どこまでも、彼女と一緒に行きたかった。
+　決して離れたくはなかった。
+
+　そうさせなかったのは、貴様らだ。
+　奴らが邪魔をしたせいだ。
+
+<CLEAR><BACKGROUND SRC="1770p1">//# 1770p1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　責めなくていいよ。自分を。
+
+　撃たなければ、撃たれていた。
+　そう思っておけばいい。
+
+<BOX type="5">//%sR
+「{名}……{名}……」
+
+<BOX type="0">//%w
+　おいおい、何て顔してるんだ。
+　まったく、美人が台無しじゃないか……
+
+「あんたの、せいじゃ……ないさ」
+
+　言葉の後に、血の絡んだ咳が出た。
+　あまり多くを話せそうにはない。
+
+<BOX type="5">//%sR
+「……でも……私、
+　撃っちゃった……」
+
+「これから、
+あなた抜きでどうすればいいのか、
+全然わからないのに……」
+
+<BOX type="0">//%w
+　可哀想に。
+　今日まで生きてくるために、あんたは……
+　どれだけのものを、奪われ、切り捨てて、失ってきたんだろうか？
+
+　でも……
+　らしくないよ。クロウディア。
+　そんな弱気は、あんたらしくない。
+　だって、いつか、あんた自身が言ってたじゃないか……
+
+「なくしたものも、奪われたものも、いつか取り戻せばいい」
+
+「……できる、はずだろ？
+　あんたは、まだ生きてるんだから……」
+
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+「……あの言葉、そっくり返すよ。クロウディア」
+
+「……あんたを、俺を、追いつめた奴ら……
+　最後まで二人で行くのを……許さなかった奴ら……」
+
+「絶対に……許すなよ……」
+
+　それ以上、言葉は続かなかった。
+　励ますつもりだったのに……クロウディアは、ますます涙を溢れさせ、
+　血に濡れた首を掻き抱いて、嗚咽しはじめた。
+
+<BOX type="5">//%sR
+「……ごめんなさい……
+　ごめんなさい……」
+
+<BOX type="0">//%w
+　仕方ないな……
+　最後にもう一度、笑顔を見ておきたかったけれど……
+
+　今はただ、思いきり泣いておくといい。
+　気が済むまで、こうしていていいよ。
+
+　でも、泣くだけ泣いたら、その後は……
+
+　……判ってるよな？
+　クロウディア……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<BACKGROUND SRC="1年後">//
+<WIPE EFFECT="fade" TIME="30">
+<BOX type="7">//%w
+<k>
+//$ 0 0 0
+
+//※１年後
+
+//> after1 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1770x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1770x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　マンハッタン、
+　イーストサイドに聳える
+　高層マンションのロフトハウス。
+
+　遥かな高みから、今夜もまた、
+　クロウディアはニューヨークの
+　夜景を見下ろしていた。
+
+　この絶景の住居は、ガンビーノ
+　ファミリーの現ナンバー2、
+　エマヌエル＝ジェノヴェーゼの
+　持ち物だった。
+
+　デルーカ＝レッツォ暗殺の後、
+空席となったコンシリエーリの座を巡ってマル＝カルローネと争った男である。
+
+　宿敵マルを葬るための絶好のネタ……インフェルノとの癒着の証拠を提供しようというクロウディアに、一も二もなく飛びついてきたのも、この男だ。
+
+　以来、エマヌエルにとってクロウディアは勝利の女神であり、怜悧な策士であり……そして抗えぬ欲望の対象だった。
+
+　そんな女を飼うための檻として、
+　エマヌエルが用意したのが、
+　このペントハウスである。
+
+　野心家の若きコンシリエーリは、
+　男の当然の特権として、
+　女を所有し、
+　従えたつもりでいる。
+
+　そして、傲慢な男の常として、
+　うわべの主従関係とは裏腹の、
+　真の支配関係を、
+　まるで自覚できていない。
+
+　いつだって、雄は気付かない。
+　欲望と虚栄を餌に、
+　ただ踊らされる己の愚かさに。
+
+　現に、寝物語に語られるクロウディアの『助言』を、エマヌエルは、まるで巫女の神託を聞くように耳を傾け、真に受けはじめている。
+
+　そんなエマヌエルの台頭のもと、ガンビーノ＝ファミリーの形態は、徐々に、クロウディアの思い描いていた通りの構図へと変貌を始めていた。
+
+　いつの日か、老いたるガンビーノのボスが引退を余儀なくされれば、ライバル不在のエマヌエルは、晴れて『相談役』から『頭領』へと、最後の昇格を果たすだろう。
+
+//> right 1770p3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="1770p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　燦然と輝く街の灯は、
+　その眩さゆえに、
+　光の隙間の諸々を、
+　すべて闇に沈めてしまう。
+
+　その闇の底にあるはずの、
+　深泥のような汚穢を、
+　クロウディアは知っている。
+
+　かつてはそこに首まで浸かり、
+　いつの日か這い上がろうと、
+　足掻き続けた日々もあった。
+
+　だがそんな記憶も、ともすれば、儚く終わった夢の中の出来事のようにさえ思えてくる。
+
+　思い出させるものは、何もない。
+
+　今はもう、見下ろせど、
+　ただ眩い輝きが見えるばかりだ。
+
+　その奥底に何があろうと……
+　今となっては、確かめる術さえ
+　ないのだから。
+
+　ただ、ひとつの物証を除いて……
+
+<CLEAR><BACKGROUND SRC="1770x2">//# 1770x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　……掌の中の硬い感触は、
+　.32口径弾の空薬莢。
+
+　彼女の銃が、
+　最期に吼えたあの朝の、
+　今に残るただひとつの証。
+
+　1年を経た今も……
+　クロウディアはそれを、
+　肌身離さず持ち歩いている。
+
+<CLEAR><BACKGROUND SRC="yacht3">//# yacht3 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+いつの日か、きっとまた、
+ただ二人だけの世界に辿り着く。
+だから……ただ前にだけ進もうと、
+
+　そう、彼は言っていた。
+
+　果たされなかった、虚しい誓い。
+
+　二人の世界は幕を閉じ……
+　今は、追憶の中にしかない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1770x2 wide 255
+<CLEAR><BACKGROUND SRC="airport2">//# airport2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　今の彼女は、しばしば振り向き、
+　立ち止まる。
+
+　焼けつく日差しの滑走路、薄暗い格納庫の冷気、そして吹き抜けるサンタ＝アナの唸り。
+
+<CLEAR><BACKGROUND SRC="1770x2">//# 1770x2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　感傷は、人を弱くする。
+
+<bgm src="Silence_s" mode="fadein" old="fadeout" time="10" loop="off">//$ lonely.swa 0 255
+　何かに捕らわれ、捨てられぬものを負ったその瞬間から、人生は、ただ避けようのない敗北へと続く道になる。
+
+<CLEAR><BACKGROUND SRC="1770p3">//# 1770p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+いつの日か、忘れるのだろうか？
+この空薬莢を、
+ただの鉄屑と割り切れる日が、
+どこかに捨て去れる日が来るのか？
+
+　さもなければ、彼女もまた、
+　いつか誰かに負けるのだろう。
+
+　失うことも、
+　傷つくことも恐れずに、
+　ただ前を向いてひた走る……
+
+　そんな、
+　かつての自分のような敵に。
+
+<A HREF="1550.txt" OPERATOR="">//~ 1550
+
+
+
+
+　

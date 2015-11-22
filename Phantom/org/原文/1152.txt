@@ -1,0 +1,86 @@
+<CALC WORKNAME="hkUSP" OPERATOR="1">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いよぅファントム。
+　どうした？　今日は」
+
+<BOX type="0">//%w
+「弾薬のストックが乏しくなったんで、補充にね」
+
+<BOX type="5">//%sR
+「そういやアンタも、
+　.45口径のクチだよな」
+
+<BOX type="0">//%w
+「ああ」
+
+　若いくせに、好きこのんで時代遅れのコルトなぞ持ち歩く妙な奴と、
+　影では噂されているらしい。
+
+<BOX type="5">//%sR
+「これさぁ……」
+
+「舎弟からプレゼントに貰ったんだが、アンタ、使うかい？」
+
+<clear>
+<BACKGROUND SRC="h&k_usp_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「ヘッケラー＆コックか……」
+
+　H&K＝USPオートマチック。コルトと同じ.45口径だが、
+　こちらはダブルカラム構造のマガジンに12発を装填できる新型だ。
+
+　性能も鳴り物入りで、これのMk23という発展型は、
+　米軍特殊作戦本部『SOCOM』に正式採用され、一躍有名になっている。
+
+<clear>
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「あんたは、いいのかい？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうにもアタシゃ、
+　プラスチックの握り心地って
+　好きになれなくてね」
+
+<BOX type="0">//%w
+　グロッグやシグマといった、
+　パーツの大半が樹脂製の拳銃が主流を占めつつある昨今だが、
+　このUSPも、金属製スライドに樹脂製フレームを組み合わせるという、
+　いま流行りの構成をしている。
+
+<BOX type="0">//%w
+「じゃ、ありがたく貰っとく」
+
+<calc workname="gun07" operator="1" mode="global">
+<A HREF="#分岐" OPERATOR="1127=1">
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+<MARKER NAME="#分岐">
+<A HREF="1158a.txt" OPERATOR="1150=1">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e
+
+
+
+
+<A HREF="1158a.txt" OPERATOR="">//~ 1158a
+<A HREF="1159.txt" OPERATOR="">//~ 1159
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

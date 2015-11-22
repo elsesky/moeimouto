@@ -1,0 +1,11 @@
+//> left デザートイーグル wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="EAGLE_000">//
+<WIPE EFFECT="fade" TIME="20">
+<CALC WORKNAME="Ｇイーグル" OPERATOR="1" MODE="global">//
+<wait time="200">
+<A HREF="3165a.txt" OPERATOR="1405a=1">//~ 3165a
+<A HREF="3165.txt" OPERATOR="">//~ 3165

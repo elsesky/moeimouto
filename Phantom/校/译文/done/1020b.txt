@@ -1,0 +1,24 @@
+//> left 1020x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40憱峴150幒撪" mode="normal" time="" loop="off" effect="">//!se F40cruise
+<BACKGROUND SRC="1020x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<BOX type="0">//%w
+　说起来，在成为克劳蒂娅的随从前，
+  我还从未想过自己会陷入频繁乘坐F40的窘境。
+
+　在克劳蒂娅不振作的时候替她驾驶，也是常有的事。
+  如今，我已经可以毫无障碍地驾驭这个红色的怪物了。
+
+　当然，自己无法像她那样把车体的性能发挥到极致。
+
+　我能做到，充其量不过是不会让车发出咔嗒咔嗒的响声这种程度。
+
+<A HREF="1022a.txt" OPERATOR="0200=1">//~ 1022a
+<A HREF="1022a.txt" OPERATOR="0255=1">//~ 1022a
+<A HREF="1022b.txt" OPERATOR="">//~ 1022b

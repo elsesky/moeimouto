@@ -1,0 +1,121 @@
+<CLEAR><BACKGROUND SRC="passage5c">//
+<BUSTUP NAME="zs9" face="" MODE="on" zoom="" ALIGN="right">//# zs9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　1階を蹂躙したのと同じ要領で、
+ノインは各教室を、端から虱潰しに確保していった。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　疑わしき物陰には、容赦なく5.45mmロシアン弾の雨を浴びせ、
+脅威の有無を確かめる。
+
+　猫の子一匹逃れられない、
+　徹底した掃討だった。
+
+　同階の反対側では、同じく
+　フェンフが仕事を進めている。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　四つ目の教室に踏み込む前に、ノインは廊下の対面にあるトイレに向き直った。
+　まずは手前の男子トイレからだ。
+
+<se id="1" src="door1" mode="normal" time="" loop="off" effect="">//!se door4
+<CLEAR><CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="toilet">//#! toilet 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+　カラシニコフを腰だめに構えたまま、薄っぺらいドアを蹴破って……
+そこでノインは異常を認めた。
+
+　ここのトイレの個室は、扉が自重で内開きになる構造になっている。すでに1階で確認済みだ。
+　個室が無人なら、開け放たれた扉でそれと判る。
+
+　にも関わらず、五つの個室すべてが、まるで中に誰かいるかのように、ぴったりと扉を閉ざしていた。
+
+　勿論、その程度で躊躇するノインではない。
+　個室の中に誰が居ようと、突撃ライフルの前には丸裸も同然だ。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　これまでと同様に、ノインは横薙ぎのフルオート掃射で、五つの個室すべてを撃ち抜いた。
+
+
+　各々の個室の中で、銃弾を受けたバケツが転倒し、<se id="2" src="バケツ水こぼれる3" mode="normal" loop="off">一斉に中の水を床面にぶちまける……
+　無論、その様相はノインの目に届くものではない。
+
+　ただ彼女に見えたのは、蜂の巣になった個室の下から、堰を切ったように溢れ出る水と、
+
+<se id="1" src="eleshock" mode="normal" time="" loop="off" effect="">//!se eleshock
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　そして奥の換気扇の真下あたりで、まばゆく飛び散った漏電の火花だけだった。
+
+　罠……
+　そうノインが気付いた直後、数百ボルトの交流電圧に沸騰した流水が、彼女の爪先を濡らしていた。
+
+//> right passage7c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage7c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%m
+　廊下の奥から聞こえた、ノインの悲鳴と漏電のスパーク音……
+
+<BUSTUP NAME="zs5" face="" MODE="on" zoom="" ALIGN="left">//# zs5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　フェンフは作業を中断し、モールスで仲間に異常を伝達しながら、全速力で廊下を駆け抜けた。
+
+　男子トイレの奥では、今も水浸しのコードが火花を散らし続け、入り口から廊下へとこぼれ出たノインの手は、まだ痙攣を続けている。
+
+　無論、中には踏み込めない。フェンフは廊下に立ったままカラシニコフを肩付けし、換気扇のコンセントを狙い撃って漏電を止めた。
+<se id="1" src="18_05a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　火薬臭に混じって、肉の焼ける匂いが鼻を突く。
+
+//<CLEAR><BACKGROUND SRC="死に手B_640">//# 3660x1 1
+//<WIPE EFFECT="fade" TIME="10">
+//<BOX type="2">//%w
+　フェンフは腰を屈め、絶命したノインのマスケラを、そっと外した。
+
+　感電死の常とはいえ、苦痛に強張ったノインの死相に、生前の愛らしさは片鱗もない。
+
+　任務の最中に、決して許されないこととはいえ……
+　痛切な想いが、フェンフの胸に押し寄せてきた。
+
+　最後にマスターの配下に加わった、幼いノイン。
+
+　いつまでも恐怖心を捨てきれなかった彼女を、見るに堪えなかったフェンフは、事あるごとに庇い、励ましてきた。
+
+　そんなフェンフに、まるで妹のように懐いていたノイン。
+
+　二人が、いつしか身も心も許しあい、互いに傷ついた心を癒しあうようになったのは、当然の成り行きだった。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　宙を掻きむしるように差し伸べられたノインの手……かつては絹のように柔らかく滑らかだった、その掌を、フェンフは固く握りしめる。
+
+　ツヴァイ……
+　必ず殺す。
+　腑を裂いて殺してやる。
+
+　だが奴は、一体どこに……？
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　我に帰ったフェンフは、すぐ後ろの女子トイレの扉が、いつの間にか開いているのに気がついた。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="0" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<A HREF="3660.txt" OPERATOR="3610=1">//~ 3660
+<A HREF="3960.txt" OPERATOR="">//~ 3960

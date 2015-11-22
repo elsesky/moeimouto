@@ -1,0 +1,34 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="INchurch1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　早晨，自从黑暗散去已经过去了几个小时。
+
+　我漫然地眺望着拭去夜幕的黑暗、缓缓取回光辉的玻璃彩绘上的圣人们……心里想的全是{ヒロイン}的事。
+
+　每当{ヒロイン}思考的时候，她都会抬头仰望这一幅幅颜色鲜艳而又不失庄严肃穆的光之图景吧。
+
+　对{ヒロイン}来说，这里是个特别的地方。
+
+　在与凯尔决战之前，她一定会来这里整理一下心情吧。
+
+　她一定会出现……
+　我能做的只有坚信这一点，耐心地等在这里。
+
+　除此之外，别无他法。
+　虽然昨天我奔波了一整夜，却丝毫没能发现{ヒロイン}的行踪。
+
+　但是，如果{ヒロイン}真的是如同她留下的录音电话所说，打算在明后天离开日本的话，
+  她就一定会设法在今天救出美绪。
+
+<CALC WORKNAME="3590a" OPERATOR="1">//
+
+<A HREF="3595.txt" OPERATOR="">//
+
+<A HREF="3595.txt" OPERATOR="">//~ 3595

@@ -1,0 +1,483 @@
+<BOX type="0">//%w
+　克劳蒂娅·麦肯宁。
+　对了，如果是她的话……
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我的视线刚与她对上，这份期待瞬间就被打散得无影无踪。
+
+　那双眼睛……好陌生
+　不是在废弃工厂与她会面时见到的那双……
+
+　那是……第一次与她相见时的、冰冷的眼睛。
+
+　那个时候，
+  她就是用这种观赏杂耍一样的目光，看着我与Ein决斗……
+
+「克劳蒂娅……小姐？」
+
+<BOX type="5">//%sR
+「快去，Zwei」
+
+<BOX type="0">//%w
+　仿佛要抛弃我一般，不带感情、生硬的声音。
+
+　我不明白。
+　之前她那温柔的话语……统统都是假的吗？
+
+　在任务面前畏畏缩缩，这样的废物一点用都没有……
+
+　尖锐的、不带任何宽恕的目光，仿佛在这样对我说着。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　只有死心了。
+  这个地方，没有属于我的同伴。
+
+　不能再这样傻站着了。
+
+　我转过身，拖着沉重的双脚，向废弃的工厂走去。
+
+　手中拿着的枪柄，由于沾满了汗水变得很滑。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right factory4BZ wide 255 inferuno1 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4bn">//
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……没问题吗？对手可是现役的海豹突击队员吧？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「没有问题」
+
+「从资质上看，他可是比“Phantom”更优秀的人才」
+
+「我特意烦请各位来到这里……」
+
+「目的就是为了让各位亲眼见证他的能力」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是什么时候物色到这个少年的？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　赛斯·玛斯塔没有回答，
+  而是瞥了一眼他忠实的仆人。
+
+<BOX type="4">//%sL
+「Phantom，
+　你觉得如何？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「沃列斯大尉是受过训练的专家，不会受到恐惧和压力的影响」
+
+「实战经验也是他更为丰富」
+  
+「但在训练强度上，Zwei应该更胜一筹」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然说在这样的游击战中，逃跑的一方更占优势……」
+
+「但作为追击一方的Zwei更加熟悉地形」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「结论呢？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「五五开。 剩下的要靠双方的潜在能力决定胜负」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Zwei的胜算呢？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我不知道沃列斯大尉的实力」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……如果那个少年失败的话，
+  要怎么办？」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那样的话，下一个死的人依旧是沃列斯大尉。他的獠牙已经被我们拔去」
+
+「在这沙漠中，没有任何可以逃避的地方」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果不放心的话，请各位先在防弹车中等待如何？」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「就这样吧，克劳蒂娅」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……莉兹，由你陪同」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「嗯」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%w
+　在担任护卫的莉兹的带领下，马格维雅回到了轿车里面。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……您这样做，
+  没关系吗？」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="right">//# crou^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我要确认一下你是不是做了超出自己癖好的事」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　好安静。
+
+　能听到的，只有荒野传来的风声。
+
+　我想起最初的夜晚。
+　想起在里面的房间苏醒、一个人茫然走着的那个夜晚所发生的事。
+
+　和那时一样的场所，
+  面前昏暗的景象，与那个时候一模一样。
+
+　为什么今夜，我却感觉自己从未来过这里。
+
+　沃列斯大尉就藏在这片黑暗中的某个地方。
+　而且恐怕他已经拿到了武器。
+
+　仿佛是落雷前的预兆一般，空气散发着紧张的味道。
+
+　废弃工厂宽广的内部空间，充斥着空气以外的东西。
+　……恐怖、憎恶，还有剃刀一般的杀气。
+
+　在这样的气氛中，虽然我起了一身的鸡皮疙瘩，
+  但仍然小心翼翼地搜寻着。
+
+  现在的自己，已经不再是那个夜晚时的“我”了。
+
+　各种武器的使用方法、人体各个要害的位置……都已经被大脑一一记下。
+
+　无论白天还是夜晚自己都紧握着枪，仿佛手与枪已经合为一体……
+
+　我已经变了。
+  无论怎样，都无法回到从前了。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BOX type="5">//%sR
+「Zwei，你在哪里？」
+
+<BOX type="0">//%w
+　我吓了一跳，连忙转身举起枪。
+
+　不过，这个声音是……
+
+「克劳蒂娅小姐……？」
+
+<BOX type="5">//%sR
+「……你在哪里？　Zwei」
+
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一个人的话会感到不安吧，
+  我来帮忙了哦」
+
+<BOX type="0">//%w
+　我不禁怀疑起自己的耳朵。
+
+「可是，刚才你……」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「抱歉哦」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个场合下……
+　我不得不保持自己的立场。 不能让别人看到我柔弱的一面」
+
+<BOX type="0">//%w
+　是这样啊……
+　我悬着的心放了下来，膝盖瞬间失去了力量。
+
+　我并不是一个人。
+  在这黑暗中，有人陪伴在我的身旁……
+　这多多少少给了我勇气。
+
+　微笑着的克劳迪娅……
+  她的目光是那样的温柔。
+
+　只有这个人，才是我真正意义上的同伴。
+
+　但是……
+
+　克劳蒂娅从怀中掏出的，是一把0.38口径的护身用手枪。
+  不管怎么说，这把枪都不适合实战。
+
+　说起来，她的鞋跟也太高了点，
+  这样子根本没法快速移动。
+
+「那个……」
+
+「你……熟悉战斗吗？」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「一点也不」
+
+<BOX type="0">//%w
+　克劳蒂娅带着尴尬的微笑，冲我摇着头。
+
+<BOX type="5">//%sR
+「这把枪，
+  我只打过一次」
+
+<BOX type="0">//%w
+「……」
+
+　我不知道自己该说什么。
+
+　对手是真正的军人……而且还抢先到达了武器库。
+　那里面可是放有机关枪的啊。
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是不是觉得我像个傻瓜？」
+
+<BOX type="0">//%w
+「不，那个……」
+
+「……真的没关系吗？」
+
+　真是愚蠢的问题。
+  怎么可能没关系。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我这样说希望你不要生气……」
+
+「这个任务不能全交给你一个人哦」
+
+「虽然赛斯似乎把这件事当成了游戏。 但事实上，对叛徒的处刑，是应当由我来承担的工作」
+
+「所以，无论如何都不能让沃列斯大尉活着」
+
+「可是，我无法判断你是否做得到……是这样没错吧？」
+
+<BOX type="0">//%w
+「……」
+
+　是这样……我点了点头，
+　这么说来，克劳蒂娅真的要亲自与沃列斯大尉战斗吗？
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然你用那把枪射击过不下数百次」
+
+「但我却用这把枪杀过人」
+
+<BOX type="0">//%w
+　我稍微有些震惊。
+  这个人也有那样的经验吗……
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这么说来，我应该算是你的前辈吧？」
+
+<BOX type="0">//%w
+「是的……不、可是」
+
+　我不知道克劳蒂娅是在什么状况下向谁开的枪。
+  不过，应该不会是和全副武装的士兵正面交火吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　现在即将进行的，是真真正正的战斗。
+  比起会不会丢掉性命，能不能赢才是我该考虑的。
+
+　……。
+
+　……对啊。
+
+　会不会丢掉性命……现在可不是考虑这种事的时候。
+
+　不能赢的话，
+  不但自己性命不保，
+  还会把在这里的克劳蒂亚置于危险之中。
+
+　现在……只能考虑怎么去赢了。
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「麦肯宁小姐……」
+
+　我把手放在克劳蒂娅的肩上，让她在旁边柱子的阴影里蹲下。
+
+「请你待在这里不要动，千万不要发出声音」
+
+「这件事，由我一个人去做」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，Zwei……」
+
+<BOX type="0">//%w
+　克劳蒂娅的表情严肃起来，陷入了沉默。
+
+<BOX type="5">//%sR
+「……对你来说，还是太勉强了吧……」
+
+<BOX type="0">//%w
+「的确，这么想是理所当然的」
+
+「但现在的我……已经不是自己认识的那个“我”了」
+
+「所以，试试看吧」
+
+「现在的我……说不定能够做到」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Zwei……」
+
+<BOX type="0">//%w
+　克劳蒂娅微笑着点点头。
+
+　看到这样的笑容，我突然回想起来。
+  以前与克劳蒂亚会面，离别时她留给我的话。
+
+　……『下次见面的时候，
+  你肯定会成长到令我刮目相看的吧』……
+
+　我握住枪，站起身来。
+
+　手里的枪的重量，变得与刚才不一样了。
+  不，自己全身好像都变得轻巧了。
+
+　不过随着内心平静下来，自己也察觉到一些别的事。
+
+「打算代替我战斗……其实是骗人的吧？」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　像被发现了一样，克劳蒂娅害羞地低下头。
+
+「你并不是担心自己，而是专程来鼓励我的吧？」
+
+<BOX type="5">//%sR
+「对不起哦。我……」
+
+<BOX type="0">//%w
+「足够了」
+
+「比起担心，你选择给我鼓励……我真的很高兴」
+
+　尽管只有如此，但这是自己被信赖的证明。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「那么，我走了」
+
+<BOX type="5">//%sR
+「Zwei」
+
+<BOX type="0">//%w
+　克劳蒂娅叫住已经走出数步的我。
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……加油啊」
+
+<BOX type="0">//%w
+　这次，轮到我微笑着向她点头了。
+
+　不过要是被发现自己只是勉强挤出微笑，
+  恐怕会被克劳蒂娅责备吧？
+
+　果然……就这么走进里面自己还是会害怕。
+  我还是没有自信啊。
+
+　只有硬着头皮上了。
+　……我把不安和恐怖抛到身后，开始向里突进。
+
+　自己已经无路可退了。
+
+<calc workname="gun25" operator="1" mode="global">
+<CALC WORKNAME="0090c" OPERATOR="1">//
+<A HREF="0092.txt" OPERATOR="">//~ 0092

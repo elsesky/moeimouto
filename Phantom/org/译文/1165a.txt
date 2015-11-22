@@ -1,0 +1,29 @@
+<BOX type="0">//%w
+  说起来，这次的任务就像是在暗中持续进行调查一样。
+  所以用的枪自然是隐蔽性越高越好。
+
+　话虽如此……一旦袭击梧桐组的敌人出现，没有能够与之对抗的火力是不行的。
+
+　如果对方穿着防弹背心怎么办？
+  如果对方是驾车来袭又怎么办？
+  真的是有数不清的问题要考虑。
+
+<BACKGROUND SRC="EAGLE_000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+  在我犹豫的时候，视线落到了这家伙身上。
+
+　0.50AE沙漠之鹰。
+　不管会发生什么，只要有这家伙在就万事无忧了。
+
+　与其怀着对武器性能的不安去执行任务，
+  倒不如直接选择自己最为熟悉的枪械，这样才是最好的选择。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="20_01a">//
+<CALC WORKNAME="廵" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僨僓乕僩僀乕僌儖2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Ie">//
+<CALC WORKNAME="1165a" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

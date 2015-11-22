@@ -1,0 +1,12 @@
+<BOX type="0">//%w
+  我毫不犹豫地像往常一样选择了沙漠之鹰。
+  没有什么枪能够取代这家伙。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="20_01a">//
+<CALC WORKNAME="廵" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僨僓乕僩僀乕僌儖2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Ie">//
+<CALC WORKNAME="1405a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

@@ -1,0 +1,16 @@
+<BOX type="0">//%w
+虽然用惯了贝瑞塔依旧很有吸引力。
+可是说实话，自从上次出现枪栓破损的问题以来，我一直在犹豫是否要继续信任它。
+
+　为了慎重起见，还是试试这把SIG-SAUER吧。
+　既然口径与装弹数都一样，那应该没什么不习惯的。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="21_03">//
+<CALC WORKNAME="廵" OPERATOR="僔僌">//
+<CALC WORKNAME="廵夋憸" OPERATOR="">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="">//
+<CALC WORKNAME="1168" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170
+0

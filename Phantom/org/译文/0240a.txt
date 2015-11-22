@@ -1,0 +1,426 @@
+<CLEAR><BACKGROUND SRC="0210x1">//# 0210x1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　现在，只要闭上眼睛，略微想象，
+  一切就都会在脑海中重现。
+
+　遥远的故乡。
+　令人怀念的面容。
+
+　阻隔在自己与这一切之间的，
+  不仅仅是距离和时间。
+
+<CLEAR><BACKGROUND SRC="slum4">//# slum4 1
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自己成为杀手已经半年了。
+　只有这份记忆，
+  无法用自我欺骗来抹去。
+
+　这是我用双手杀戮了不知多少与自己素未平生的人所留下的、
+  强烈而难以遗忘的、血的记忆。
+
+　我已经无法像从前那样沉浸在安宁、平和的生活中了。
+
+　可是，难道自己要一直像组织饲养的猎狗那样苟活下去吗？
+
+　开什么玩笑，
+  那才是真正的泥潭啊。
+
+　隐藏在无人知晓的角落，不断杀戮着与自己没有任何关系、没有任何仇恨的人们。
+  这种事，我再也不要做了。
+
+<CLEAR><BACKGROUND SRC="room1d">//# room1d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　虽说无论逃到哪里都不可能安心，
+  但总比留在这里要好得多。
+
+　不论自己遭受多么大的打击，也不会比现在的境遇更加悲惨。
+
+　我已再无迷惘。
+　天一亮就出发吧。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　下定决心后，我将胸中的不安尽数驱散。
+　之后，自己就像紧绷的线被切断了一样，彻底松弛了下来。
+
+　意识，一点一点地被拖进睡梦的深渊。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　不过，偶然间，
+  在思绪的最后片断中，
+  不知是谁在向我发问。
+
+　是Ein……
+　她想要做什么呢？
+
+//> left room1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　窗外射进的阳光中，尘埃在慢慢飞舞着。
+
+　我睡眼惺忪地注视着这些灰尘的舞动……
+
+　突然，
+  怀中的Ein动了动身体。
+
+　我望向她的脸，发现她那漆黑深邃的双瞳正回望着我。
+
+「你醒了？」
+
+　Ein没有回答，只是直直地盯着我看了一会，
+  之后她开始挪动身子，想要从我的怀中挣脱开来。
+
+「等等，还不行……」
+
+　我本来就对自己的缝合技术没什么自信。
+　要是乱动的话，伤口就会裂开……
+
+<CLEAR><BACKGROUND SRC="0240p1">//# 0240p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是Ein不顾我的制止，从毛毯中挣脱了出来。
+
+　她想要站起身，
+  可随即便像一只刚生下来的小马驹似的摇晃着倒在地上。
+
+「先安稳地待着吧，现在还不能乱动」
+
+<CLEAR><BACKGROUND SRC="room1c">//# room1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我抱住Ein的背，重新让她坐在铺在地上的睡袋上，
+  用毛毯盖住她露出来的肩膀，让她更暖和一点。
+
+　Ein没有抵抗，不过她向我投来的眼神硬邦邦的，
+  好象是在质问我这样做的真正用意是什么。
+　
+  厚重的沉默……
+
+「需要衣服吧」
+
+　昨天晚上的她穿着的作战服已经沾满了鲜血，没法再穿了。
+
+　Ein低头望向地面。
+
+<BOX type="5">//%sR
+「这座建筑中的高尔夫里，有我的替换衣服」
+
+<BOX type="0">//%w
+　Ein自言自语般地小声说道。
+
+「是吗」
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我立刻跑出去拿衣服。
+  今天，在跟Ein四目相对的沉默中，我有点心虚。
+
+　我该问些什么、说些什么呢。
+　
+　先在头脑中整理一下思绪吧，
+  这种事，在她那尖锐的视线前应该是做不到的。
+
+　尽管刚受过那样的重伤，
+　她身上那种沉默寡言的、冷静的氛围，却和以往没有什么两样。
+　
+　像这样没有任何变化，反而更让人感到悲哀。
+
+　Ein了解现状吗？
+  了解自己现在处于什么样的立场吗……
+
+　对于赛斯·玛斯塔，
+  她好像顺从的有些过头了。
+
+　他们两人之间不是单纯的信赖关系，
+  已经变成了旁人无法插足的主仆关系了。
+
+　如果知道赛斯叛变……Ein会作何感想呢？
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　昨天晚上自己没有注意到的、被隐藏起来的高尔夫，
+　此刻完全暴露在阳光下。
+
+　车窗全被打碎了，
+  车门和挡泥板上满是弹孔。
+
+　应该是从交叉火力中突围出来的吧。车体还算是保住了。
+　从眼前的景象足以想象出昨天晚上Ein经历了多么激烈的战斗。
+
+　驾驶座上，留有凝固了的血迹。
+
+　Ein……
+
+　她能活下来并且挣扎着来到这里，
+  实在是个奇迹。
+
+　在后座上的运动包中，
+  放着分别之前Ein穿着的衣服。
+
+<CLEAR><BACKGROUND SRC="g3_000">//# g3_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　座位下方，滚落着子弹已经打光的G3-Rifle。
+  这东西我可没办法一起带走。
+
+<CLEAR><BACKGROUND SRC="0240p1">//# 0240p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我拿着衣服回去时，Ein正倚着墙站着，
+  一边用手捂住腹部的伤口，一边低头沉思。
+
+　她正在估测自己身体受到的伤害和剩余的体力吧。
+
+　我该说什么好呢？
+  果然还是没有想好。
+
+「快穿上吧」
+
+　我粗鲁地说着，把衣服扔给了她。
+
+<BOX type="4">//%sL
+「我的枪呢？」
+
+<BOX type="0">//%w
+「……」
+
+　我不发一语地将socom手枪递给她。
+　在这样的时候，她想拿枪做什么呢？
+　……虽然这样想，但我还是没有问出口。
+
+（注：socom手枪，又名Mk23，是HK公司根据美国特种作战司令部的要求而研制的进攻型手枪）
+
+<CLEAR><BACKGROUND SRC="room1c">//# room1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein往常一样迅速换好了衣服，
+  虽然我担心伤口会对她造成障碍，
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不过，看到Ein穿上衣服，将伤口掩盖住后，
+  我的心情也变得轻松了许多。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……即便如此，
+  这小小的安心，仅限于她出门前的这段时间。
+
+「喂，等一下」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么事？」
+
+<BOX type="0">//%w
+　Ein头也没回地问道，
+  不带任何感慨，也不带任何试探的语气
+
+　我抑制住内心的动摇，
+  不管怎样，至少声音要装成平静的样子。
+
+「从现在开始，你打算怎么办？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「返回洛杉矶」
+
+<BOX type="0">//%w
+　简短、冷淡、
+　Ein的回答十分简练，就像是理所当然的一样。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　就在我对这个简洁到超出常规的回答哑口无言的时候，
+  Ein遥遥晃晃地走出了屋子。
+
+「……喂!?」
+
+<se id="1" src="楁擇憱傝3" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="factory">//# factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我慌忙追了出去。
+
+<CLEAR><BACKGROUND SRC="field">//# field 1 elen1^5 20
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# field 1 elen1^5 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　追上的时候，她刚刚走出工厂，踏入早晨的阳光之中。
+
+「如果你想去跟赛斯会合的话，已经没用了!」
+
+<BOX type="0">//%w
+　我朝着她小小的身影怒斥道，
+  听到这句话，Ein停下了脚步。
+
+「那个家伙已经逃跑了。
+  昨天晚上他让你袭击的是Inferno的同伴」
+
+「那个家伙从一开始就打算背叛组织」
+
+「……你还什么都没有听说？」
+
+<BOX type="0">//%w
+  Ein没有回答，
+  她望着沙漠的远方，轻轻地点了点头……
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　对我的话，她没有任何的否定。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# dummy 20 factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　即便如此，她再次迈动脚步，
+  向蜂窝一样的高尔夫走去。
+
+「……喂!」
+
+　我跑过去抓住Ein的手，拽着她往回走。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　无论什么时候，
+  Ein的瞳孔，都像冬天的湖水那样平静、清澈。
+
+　像看不透的深水一般的、清澈纯粹的黑暗。
+　如同真空的宇宙一般的、无限的、虚无的空间。
+
+　不管什么样的任务，都不迷惘、不怀疑，
+  当作是理所当然的义务一样，只知道一个劲地往前冲，
+  这就是Ein。
+
+　这样的她，就像昨天晚上克劳蒂娅说的一样。
+
+　…………只是个机器人而已。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……放开我」
+
+「我必须要回去」
+
+<BOX type="0">//%w
+「你要去哪里啊!」
+
+<BOX type="5">//%sR
+「回到市区」
+
+「我必须在确保主人安全之前，引开追杀的人」
+
+<BOX type="0">//%w
+　然后，Ein装作若无其事的样子，
+  手放在腹部的伤口上，试探疼痛的程度。
+
+<BOX type="5">//%sR
+「现在我能做的，仅此而已」
+
+<BOX type="0">//%w
+　与赛斯的卑鄙相比，
+  Ein这种死心塌地的愚忠更令我感到愤怒。
+
+　这份怒火，已经超越了痛苦，可以称得上是哀怨了
+
+「为什么你要为赛斯这样卖命？」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在的你，应该不会明白吧。{姓}{名}」
+
+<BOX type="0">//%w
+　听到那个名字从Ein的嘴里说出来，我像是被当头棒喝一般。
+
+「……你知道了？」
+
+<BUSTUP NAME="elen1" face="7" MODE="on" zoom="" ALIGN="right">//# elen1^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你不是全都告诉我了吗」
+
+「我听到了。
+  虽然是在睡梦中」
+
+<BOX type="0">//%w
+　一股后悔的感觉顷刻间袭上我的心头。
+
+<BOX type="5">//%sR
+「我将竭尽所能地效忠主人，直到最后」
+
+「现在的你不会明白，也没有必要明白」
+
+「你现在已经不是Zwei了。
+  你已经知道了自己真实的身份」
+
+「可是，我……
+  现在还只是Ein而已」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「请你回到属于你的世界去吧」
+
+<BOX type="0">//%w
+「才不是这样!!」
+
+「才不是这样，你本来……
+　不叫Ein这个名字吧」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是这样的话，
+  我的名字该是什么呢？」
+
+<BOX type="0">//%w
+　这个时候，我真正地明白了。
+
+　说她胡闹也好，鲁莽也好，
+  这些话是阻止不了Ein的
+
+　这种明摆着的事，她早就知道了。
+
+　因为早就知道，所以才要去做。
+　
+　为了，死。
+
+　作为一个被赛斯·玛斯塔操纵的人偶，
+  Ein冷静地做出了最后的判断。
+
+　作为一个诱饵去送死。
+  这是用完后被丢弃的人偶的……义务。
+
+<A HREF="#僗儖乕" OPERATOR="0230=1">
+<A HREF="0230a.txt" OPERATOR="">//~ 0230a
+
+<MARKER NAME="#僗儖乕">
+<CHOICE HREF="0230a.txt" TEXT="＊让她去" OPERATOR=""></A>//{ ＊行かせる 0230a ＊行かせない 0240b
+<CHOICE HREF="0240b.txt" TEXT="＊不让她去" OPERATOR=""></A>//{ ＊行かせる 0230a ＊行かせない 0240b

@@ -1,0 +1,193 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bedRoom wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="bedRoom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　自己已经忍耐到极限了。
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　我倾尽全力，一脚踹开了卧室的门。
+
+<CLEAR><BACKGROUND SRC="1140x4">//# 1140x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　克劳蒂娅虽然大吃一惊，但总感觉她事前就已经察觉到了我的存在。
+
+　而那个男人对我的突然介入则没什么反应，只是懒懒地回过头来。
+
+<BOX type="5">//%sR
+「……你这家伙是谁啊？」
+
+<BOX type="0">//%w
+　他的声音中没有一丝动摇。
+　这种威严的气势，与白天在酒店中见到他的时候一样。
+
+　不愧是统领梧桐组的少头目，的确胆识过人。
+　当然，我不会对他的这份胆量给予丝毫的敬意。
+
+「给我从克劳蒂娅的边上滚开」
+
+　话一出口，我发现自己在抑制着自己的声音，就像是在压制迫在眉睫的爆发一样。
+
+<BOX type="4">//%sL
+「{名}……」
+
+<BOX type="0">//%w
+　克劳蒂娅在慌乱中说出了这个秘密的名字。
+
+<BOX type="5">//%sR
+「喂，克劳蒂娅，你对你手下的狗是怎么教育的？」
+
+<BOX type="0">//%w
+　另一方面，梧桐大辅却没有丝毫的紧张。
+
+<BOX type="5">//%sR
+「乱叫的话也要看看对方是谁才行吧，这可是基本中的基本」
+
+<CLEAR><BACKGROUND SRC="1140p5">//# 1140p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「唉，真是一条疯狗」
+
+<BOX type="0">//%w
+　没有任何预兆，之前还一脸轻松的梧桐大辅突然露出了狰狞的面容。
+
+<BOX type="5">//%sR
+「你知道自己在朝着谁叫吗？」
+
+<BOX type="0">//%w
+　把握彰显愤怒的时机，趁其不备，从气势上压倒对方……
+
+　这种对付外行人的手法，简简单单地就被回击了。
+
+「在对着你不是吗？」
+
+我的声音也变得极度的冷酷。
+在剥离了一切的情感以后，我的声音如同被杀意冻结了一样，听上去与机器的机械音没什么区别。
+
+「如果叫声不能使你明白，那么尝尝被撕咬的滋味如何」
+
+<BOX type="5">//%sR
+「说的不错啊，小子……」
+
+<BOX type="0">//%w
+　我一步步地逼近梧桐大辅，同时也感受到了倍于他那庞大身躯的巨大压迫感。
+
+　既然恐吓起不到任何作用，那我只好给他最后的警告了。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　就这样射杀这个男人，是不会遇到任何抵抗的。
+
+　这家伙，把克劳蒂娅……
+
+<CLEAR><BACKGROUND SRC="1140x4">//# 1140x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　这种搏命游戏再玩下去，不见血是不会结束的……马上就能看透这一点，不愧是见惯了这种场面的黑帮首领。
+
+　没有胆怯也没有慌张，梧桐大辅只是认真地看着枪口另一侧的我。
+
+　恐怕他已经看出我失去控制了吧。
+
+<BOX type="5">//%sR
+「……切，真是扫兴」
+
+<CLEAR><BACKGROUND SRC="bedRoom">//# bedRoom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　面对我的枪口，梧桐大辅用鼻子不屑地哼了一声，开始慢悠悠地穿起衣服。
+
+　简直是当我不存在。
+
+　站在穿衣镜前，梧桐大辅就像是屋内除了克劳蒂娅以外再无他人一样，非常随意地系着领带。
+
+　胜负已分。
+
+　相比克劳蒂娅被夺走而带来的恐惧感……
+　梧桐大辅面对生死的这份从容更加让我感到震撼。
+
+　在这样的对峙中，恐惧的一方就是输家。
+
+　是我惨败了。
+
+　梧桐大辅对于死亡都没有一丝的恐惧，而我却因为克劳蒂娅被夺走而恐惧异常，甚至丧失了理性。
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="left">//# godo^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「算啦，下次再陪我乐一乐吧。克劳蒂娅」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="left">//# godo^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「在那之前，记得把这条疯狗栓好啊」
+
+<BOX type="0">//%w
+　梧桐大辅临走时留下的话，这是他压倒性胜利的证明。
+
+//> left bedRoom wide 255 crou3^3 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bedRoom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="crou3" face="3" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你知道自己做了什么吗，{名}」
+
+<BOX type="0">//%w
+　我刚被败北感击垮，背后又传来克劳蒂娅一反常态地冷淡的声音。
+　这不仅再次令我怒火中烧。
+
+「这话该我问你吧!?　你为什么和那个男人在一起」
+
+<BUSTUP NAME="crou3" face="7" MODE="on" zoom="" ALIGN="right">//# crou3^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为他对我有用哦」
+
+<BOX type="0">//%w
+　克劳蒂娅冷冷地回应了我的质问。
+
+<BOX type="5">//%sR
+「对我的计划而言，他是必要的棋子，所以必须要和他搞好关系。仅此而已」
+
+<BOX type="0">//%w
+「因为有用……因为是必要的……就可以和他睡觉吗？」
+
+<BOX type="5">//%sR
+「没错」
+
+<BOX type="0">//%w
+　理解这短短的一句话所蕴含的意味，让我感到了莫大的痛苦。
+
+　终于，我道出了那个不想确认的问题，那句不愿说出的话语。
+
+「……对你来说，我也是这样吗？」
+
+「你也是为了这样的理由，才对我……」
+
+<BOX type="5">//%sR
+「如果是这样呢？」
+
+<BOX type="0">//%w
+　仿佛看透了我内心的纠葛，
+  克劳蒂娅带着嘲讽一般的微笑，这样反问我。
+
+　她像是要将一年以来彼此之间相互传达的所有言语尽数否定。
+
+<A HREF="1150.txt" OPERATOR="">//~ 1150

@@ -1,0 +1,413 @@
+<BOX type="0">//%w
+　拥挤。
+　嘈杂。
+　淤塞的空气。
+
+　街上……
+　数万人聚集在那里，但他们的生活绝对不会和我有任何交集。
+　不过，这虚幻的生气，多少让我有种怀念的感觉。
+
+　过去，自己也普普通通地生活着的时候……
+　也曾混入这样的人潮，
+  成为这喧嚣的活力的一部分吗。
+
+　越是考虑这种可能存在的事，自己越是感觉难以置信。
+
+　现在，溶入这一片嘈杂与闷热并伫立其间的自己，
+  已经是远离这种和平庸碌的景色的另一个世界的居民了。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　每次看到镜子，我都会停下来，
+  注视着镜中映照出的那张脸。
+
+　你，是谁……
+
+　在这个国家中已经不怎么稀奇的，
+  面无表情的亚洲人。
+
+　然而对于西方人来说，
+  我的样子应该是很难把握住特征的吧。
+  通过变换服装，自己可以伪装成14到18岁之间的任一年龄。
+
+//> left shop wide 255
+<clear>
+<BACKGROUND SRC="shop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　口袋里装着伪造的身份证、驾驶执照和高中学生证。
+
+　沃列斯·杨。18岁。
+　住址是洛杉矶市……
+
+　这个伪造的名字很好记。
+  是与我杀的第一个人同样的名字。
+
+　从那以后，我已经杀了4个人。
+
+　这次的目标是卢西奥·瓦鲁萨尼。
+
+　他孙女的生日就快到了，这位黑手党的老大正在为她物色礼物。
+  现在，他应该是在这个大型购物中心的某个地方……
+
+　放眼望去，随处可见强壮的、目光犀利的男人。
+
+　可以确认的保镖有20人。
+　大概卢西奥将他的家族卫队全都带出来了吧。
+
+　这个大型购物中心已经完全处在瓦鲁萨尼家族的控制之下。
+  这些手下们好象也都清楚自己的老大有性命危险。
+
+　突然，我口袋中的手机振动了起来。
+
+<BOX type="5">//%sR
+『……目标已确认』
+
+<BOX type="0">//%w
+　是Ein。她好象在我之前发现了目标。
+
+<BOX type="5">//%sR
+『但我被盯上了。
+  这里有一个人在跟着我』
+
+<BOX type="0">//%w
+　喔？
+
+「被人发现了么，这可不像是你的作风啊」
+
+<BOX type="5">//%sR
+『总而言之快来帮忙，
+  我在西区的喷水池那边……』
+
+<BOX type="0">//%w
+「我明白了」
+
+　购物中心的布局自己已经烂熟于心。
+  Ein指示我的地点，马上就找到了。
+
+//> left shop2 wide 255 elen3^4 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shop2">//
+<BUSTUP NAME="elen3" face="4" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……看到她了。
+
+　身着帽衫大衣加贝雷帽，Ein在喷水池前不停地来回走动。
+  不管怎么看，都像是个正焦急地等待着男友的女孩子。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不过，在距Ein二十米之外的地方，有一个穿着深色西装的男人正盯着她。
+　那应该就是盯梢的人吧……
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　从西装的款式来看，那家伙不是普通的喽罗，恐怕是目标的贴身保镖。
+  他应该是发现了Ein行动可疑，所以离开护卫队追了过来吧。
+
+　他那不被外表迷惑的敏锐洞察力，果然不一般。
+
+<bgm src="" mode="fadein" old="fadeout" time="10" loop="on">//$ 0 _1 0
+　不过……
+
+<BUSTUP NAME="elen3" face="2" MODE="on" zoom="" ALIGN="right">//# elen3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Ein一看到我，马上怒目圆睁，朝着我这边快速地走来。
+
+<clear>
+<BACKGROUND SRC="shop2">//
+<WIPE EFFECT="fade" TIME="10">
+　怎么回事……没等我想明白，
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　一个耳光就打在了我的脸上。
+
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="傾僀儞僨乕僩攚宨">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「白痴！」
+
+<BOX type="0">//%w
+我下意识地确认了一下自己下巴的位置。
+还好，没有脱离。
+与她认真起来的一击相比，这种程度的耳光就像是轻轻地抚摸一样。
+
+　不过……为什么要这么做啊，Ein？
+
+//<BUSTUP NAME="elen3" face="4" MODE="on" zoom="" ALIGN="right">//# elen3^4 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「知道你让我等了多少分钟吗！
+　真是的，害人家独自转了好久！」
+
+<BOX type="0">//%w
+「对……对不起」
+
+　虽然我有些慌乱，但是立刻明白了Ein的意图。
+
+　一对东洋的年轻情侣，男朋友约会迟到，
+  女孩子闲得无聊只好到附近四处转悠……
+
+　在这种状况下作出的表演。
+
+//<BUSTUP NAME="elen3" face="2" MODE="on" zoom="" ALIGN="right">//# elen3^2 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「早知道你是这样一个懒散的家伙，我就不跟你出来了。
+  把我的周末还给我！」
+
+<BOX type="0">//%w
+「对不起。真的对不起。我……」
+
+　必须要好好的配合，不然的话……
+  虽然我十分清楚这一点，不过舌头还是像打了结一样，说不出话来。
+
+　她……真的是那个Ein吗？
+
+//<BUSTUP NAME="elen3" face="4" MODE="on" zoom="" ALIGN="right">//# elen3^4 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那么，你打算怎么补偿我？」
+
+<BOX type="0">//%w
+「哎？」
+
+<BOX type="5">//%sR
+「哎？　哎什么啊！」
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<clear>
+<BACKGROUND SRC="shop2">//
+<WIPE EFFECT="fade" TIME="0">
+
+<BOX type="0">//%w
+　又一个耳光。
+　没法躲开。不行了，自己比实战的时候更加慌乱。
+　不对，这样的场合下，其实是不能躲开的吧……
+
+<BUSTUP NAME="elen3" face="2" MODE="on" zoom="" ALIGN="right">//# elen3^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你要负责！」
+  
+「你的回答要是让我不满意，我就回去了」
+
+<BOX type="0">//%w
+「那个……今天，所以说啊……」
+
+　怎样都好，现在只要能蒙混过去就行了……
+
+<BOX type="0">//%w
+「你今天买的东西，全都由我买单……」
+
+<BUSTUP NAME="elen3" face="" MODE="on" zoom="" ALIGN="right">//# elen3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「晚餐也是吗？」
+
+<BOX type="0">//%w
+「当、当然了……不、不过……」
+
+<BUSTUP NAME="elen3" face="3" MODE="on" zoom="" ALIGN="right">//# elen3^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好棒喔」
+
+<BOX type="0">//%w
+　Ein突然用双手抱住了我的脖子……。
+
+　……不是的，别本能地摆出架势！她不是要勒住我！
+　我急忙这样告诉自己。
+
+　这样满面笑容的Ein，
+  在平时，自己根本无法想象。
+
+　……如果需要的话，她也能摆出那样的表情吗。
+
+<BUSTUP NAME="elen3" face="" MODE="on" zoom="" ALIGN="right">//# elen3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那，我们走吧，我来带路」
+
+「那些店我可是全都转过了哦」
+
+<BOX type="0">//%w
+　Ein靠在我的身上，挽着我的胳膊。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我装作若无其事地观察了一下周围。
+  ……盯上Ein的那个保镖已经不见了。
+
+　他大概是意识到自己多心了，然后回到老大的身边去了吧。
+
+　可能是对被女朋友打耳光的可怜的我感到惊奇，
+  边上传来不知是谁的偷笑声。
+
+//> left shop5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shop5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我和Ein互相依偎着，在购物中心里漫步。
+
+<CLEAR><BACKGROUND SRC="0110p1">//# 0110p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我们就像是一对随处可见的、平凡的恋人。
+  谁也没有注意到我们。
+
+　自己还是第一次看到Ein这么明朗的表情，
+  让人根本无法想象她是一个杀手，
+  怎么看都只是一个跟她年龄相称的女孩子而已。
+
+　如果不执行任务的话，
+  她是否也能变成一个真正的普通女孩呢。
+
+　这种事不是很简单吗。
+
+　对于像我和Ein这种年龄的少年少女，
+　在节日的时候，就是和自己的恋人像这样挽着手臂……
+
+<CLEAR><BACKGROUND SRC="0110p2">//# 0110p2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="2" loop="on">//$ 0 _1 0
+<BOX type="5">//%sR
+「目标在购物区南侧的古董店里」
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="0">//%w
+　Ein伏在我的肩膀上，冷冷地低声说道。
+
+<BOX type="5">//%sR
+「所以，接他的车应该停在南面出口处……
+  我们趁着他乘车的空隙动手」
+
+<BOX type="0">//%w
+　由于紧张，我的背部一阵阵地发凉。
+
+「……还要继续吗？我们已经被他们看到样子了」
+
+<BOX type="5">//%sR
+「没有问题。
+  他的部下已经开始放松警惕了」
+
+<BOX type="0">//%w
+　我目不转睛地看着身边的这个少女。
+  刚才还在无忧无虑地笑着……转眼间就变得像人偶一样面无表情。
+
+　我不明白。
+　到底哪个才是真正的Ein呢。
+
+//> left shop6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shop6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　南购物区。
+　我们先走进一个很大的牛仔裤专卖店。
+
+<CLEAR><BACKGROUND SRC="passage2">//# passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　然后趁店员不注意，两人闪进了运货通道。
+
+　这里远离购物中心的灿烂夺目与喧嚣，
+  有的只是一片昏暗。
+
+　从这里出去到大街上的话，购物中心的南出口就在右手边……
+  距离大概有20米。
+
+　这里既隐蔽又可以清楚地看到街道上的情况，是个绝好的位置。
+
+<se id="1" src="傾僀儞儅儞僩扙偖" mode="normal" time="" loop="off" effect="">//!se binta
+<CLEAR><BACKGROUND SRC="0110p3">//# 0110p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein把大衣和帽子都脱了下来，扔在一边。
+
+　手袋里装着两个狂欢节用的假面面具。
+　她递给我一个。
+
+<BOX type="5">//%sR
+「准备好了？」
+
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我握住枪点了点头，同时拉开枪机。
+  初弹装填完毕。
+
+　带上装饰得很漂亮的假面，
+  从挖通了的面具的眼睛向外看，视野被加上了边框。
+
+<CLEAR><BACKGROUND SRC="street1">//# street1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　接送的车肯定是防弹的。
+
+　当卢西奥·瓦鲁萨尼进入安全的轿车时，完成任务的保镖们就会放松警惕……
+  这便是袭击的最佳时机。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　我的任务是掩护接应。
+  Ein负责进攻。
+
+　短短的数十秒，在自己的不安中悄然流逝。
+
+//> left shopMobB wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="shopMobB">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……我们并没有等多久。
+
+一辆宛如幽灵的奔驰从喧嚣往来的车流中悄悄地出现，向路边驶来。
+
+<CLEAR><BACKGROUND SRC="passage2">//# elen2^3 20 passage2 1
+<BUSTUP NAME="elen2" face="3" MODE="on" zoom="" ALIGN="right">//# elen2^3 20 passage2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……行动吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Ein也带上了假面。
+  真正的面具，遮住了她那如假面一般毫无表情的脸。
+
+<A HREF="0110a.txt" OPERATOR="">//~ 0110a

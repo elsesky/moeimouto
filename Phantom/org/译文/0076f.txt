@@ -1,0 +1,316 @@
+<CALC WORKNAME="M92F" OPERATOR="1">//
+<CALC WORKNAME="M1911" OPERATOR="1">//
+<CALC WORKNAME="50AE" OPERATOR="1">//
+<BOX type="0">//%w
+「这样啊……我想试试别的种类的枪」
+
+<BOX type="5">//%sR
+「……我明白了」
+
+<A HREF="#嬋側偟" OPERATOR="0076d=1">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="gava_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="#崌棳">
+
+<MARKER NAME="#嬋側偟">
+//> left room2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="gava_0000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<MARKER NAME="#崌棳">
+<BOX type="5">//%sR
+「这是柯尔特0.45口径自动手枪，
+  这个国家中最常见的手枪」
+
+「装弹数8发。
+　耐久性和性能的可信赖程度都与左轮手枪不相上下」
+
+<clear>
+<BACKGROUND SRC="room2">//
+<BOX type="0">//%w
+「要从哪里装填子弹呢？」
+
+<se id="1" src="04_01" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="僈僶儊儞僩儅僈僕儞岎姺">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein按下枪把一侧的按钮，拔出弹夹给我看。
+
+<BOX type="5">//%sR
+「这是弹夹。自动手枪只需更换弹夹即可补充子弹，比左轮手枪更具实战性」
+
+<clear>
+<BACKGROUND SRC="room2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　弹夹中严严实实地压入着8发子弹。
+<se id="1" src="04_03" mode="normal" time="" loop="off" effect="">//!se 
+　将弹夹推回枪把内，Ein把枪递给了我。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「但是，操作有一些复杂」
+
+<BOX type="0">//%w
+　Ein指着包裹着枪体上半部、像壳套一样的那个部件说道。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是套筒。
+　也可称为枪栓」
+
+「向后拉到头，然后松手」
+
+<BOX type="0">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　我照她所说抓住枪栓向后拉。
+　由于内置的硬弹簧，拉起来意外地费力。
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+　拉到头后松开手指，
+  枪栓伴随着粗鲁的金属音回到了原位。
+
+<BOX type="5">//%sR
+「要注意的是，在这之后扣动扳机的话就会开火」
+
+「第一枪需要像这样手动设置，之后就可以依靠膛内的高压气体反向推动套筒前后运动」
+
+「这样的动作可以装填子弹，同时枪机也得以就位」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「枪栓后退到头并停在那个位置的话，就说明子弹打光了」
+
+「那样的话就更换弹夹，之后打开闭锁」
+
+「等到枪栓复位，初弹装填就完成了」
+
+//> left factory4b wide 255 dummy 20 dummy 21
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我拿着柯尔特来到外面。
+
+　与左轮手枪不同，
+　内部装有弹夹的枪把是椭圆形的，握起来非常困难。。
+
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　和“蟒蛇”相比的话，这把枪的后坐力给人的感觉更加沉重、迟缓。
+
+<se id="2" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……但由于每次射击后枪机都能回到待击发状态，
+  连射时扳机的感触反而比左轮手枪更加轻巧。
+
+　持续射击的话，这种设计自然是非常有利。
+
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="11_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+「……还不错嘛」
+
+　的确，这把枪比左轮手枪需要更多操作，
+  但只要熟悉了的话，使用起来会相当容易。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「下一把是这个」
+
+<clear>
+<BACKGROUND SRC="beretta_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……这次的枪比刚才见到的柯尔特结构更加复杂，
+  虽然套筒比柯尔特更细，但全枪却给人少许粗重、圆滑的印象。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「贝瑞塔公司的9mm自动手枪M92FS。现役军方制式手枪」
+（贝瑞塔公司，全世界最古老的军械企业之一，由Mastro-Bartolomeo-Beretta于1526年创立。）
+
+<BOX type="0">//%w
+　我试着架起枪。
+  这把枪的枪把比柯尔特更粗。
+
+「……很难握呢」
+
+<BOX type="5">//%sR
+「这是因为弹仓较大。
+  这把贝瑞塔可以16连发，而后坐力相比柯尔特则更小」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我找到适合自己手指的握枪位置，瞄准目标，尝试着射击。
+
+<se id="1" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　……的确，后坐力与0.38口径的枪相比大不一样，
+  要是掌握持枪方法的话，这把枪应该会很容易使用。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然弹量较大，但是威力不能与0.45口径相比，这点要注意」
+
+「为了保证确实地击倒对手，
+  你要养成连续2发射击的习惯」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「我知道了」
+
+<se id="1" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　连射时，这把枪比柯尔特更加轻快。
+
+<se id="2" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="200">
+<se id="1" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="200">
+<se id="1" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="200">
+<se id="1" src="02_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我照Ein所说，采取对一个目标进行2连射的射击方式，
+  16发子弹几乎是左轮手枪的3倍弹数，这让我心里更有把握。
+
+「……用自动手枪的话，很轻松呢」
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是吗？」
+
+「这样的话，
+  试试这把枪吧」
+
+<BOX type="5">//%sR
+「这是以色列制造的沙漠之鹰」
+（注：沙漠之鹰，即Desert-Eagle，由以色列军事工业公司IMI制造）
+
+<clear>
+<BACKGROUND SRC="EAGLE_000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这家伙……是怎样的一把枪啊。
+
+　尺寸比柯尔特自动手枪大出两圈。
+  重量也凌驾于0.44口径马格南左轮之上。
+  再加上狂暴粗鲁的造型……
+
+　……怪物。
+　这样的形容再合适不过了。
+
+<clear>
+<BACKGROUND SRC="factory4b">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20 Ie 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「0.50口径，装弹数7发……
+　世界最强的手枪」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，在这之前，
+  先得看你能不能驾驭它」
+
+<BOX type="0">//%w
+「……试试看吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　拉开枪栓，装好子弹……
+
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+　不愧是这样的尺寸，就连枪栓都有相当的重量。
+　单单是装填子弹都能感到手上沉重的触感，
+  简直就像在挥舞铁制哑铃一般。
+
+　瞄准的时候，枪身怎么也稳定不下来。
+　枪把太粗，自己没法用上全力。
+
+<BOX type="0">//%w
+　与其说握住，不如说抱住这把枪更贴切，
+  这家伙，自己真的搞的定吗……
+
+<se id="1" src="20_01a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　后坐力的确厉害。
+  不过由于自己早有准备，并没有出现被向后掀翻的状况。
+
+　由于这把枪自身过于沉重，
+  反而抑制了枪身的上跳吧。
+
+　但是这份重量的确是个问题。
+　本来就过于粗大的枪柄，再加上这样的重量，
+  想要用手臂的力量稳定住几乎是不可能的。
+
+　……果然，子弹朝着预期以外的方向飞去。
+
+　即使自己能撑住第一枪带来的震动，
+  继续进行第二次、第三次的瞄准、射击也是不可能的。
+  这么一来，自动手枪反而领先一分。
+
+「这枪我用不了啊」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这么想的话，再多练习几次吧」
+
+「并不是每次都能选择自己喜欢的武器呢」
+
+<calc workname="gun19" operator="1" mode="global">
+<calc workname="gun22" operator="1" mode="global">
+<calc workname="gun23" operator="1" mode="global">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079

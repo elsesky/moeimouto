@@ -1,0 +1,232 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left tunnel_exit wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="tunnel_exit">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　惨状に恐れをなして、トンネル内に居合わせたドライバーは、
+　ほとんどが車を乗り捨てて逃げていた。
+　おかげで、蜂の巣になったF40の代車は、
+　トンネルの中にいくらでもあった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left airport2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="airport2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「ここか？」
+
+　ティワナ郊外の、その飛行場は、放棄されて久しいのか、
+　廃墟同然に荒れ果てていた。
+
+　風雨と日照りに曝されるまま、ろくな手入れもなしに放置されて、
+　罅の入った滑走路には、砂埃が分厚く積もっている。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「間違いないはずなんだけど……」
+
+<BOX type="0">//%w
+　閑散としたその佇まいに、クロウディアも自信なさげだった。
+
+<BOX type="5">//%sR
+「まだ誰も、
+　来ていないのかしら？」
+
+<BOX type="0">//%w
+　時計を見る。約束の午前5時までには、まだ若干、猶予がある。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……行きましょう」
+
+<BOX type="0">//%w
+　クロウディアはエンジンを止めて、BMWを降りた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hangar wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hangar">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　中の荒れ様は、外見ほどではなかった。
+
+　車載式の発電器や、燃料を収めたドラム缶に囲まれて、
+　話に聞いた通りのリアジェットが羽を休めている。
+
+　昨夜のうちに、用意だけは調えておいた……といった風だった。
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やっぱり、誰もいないわね」
+
+<BOX type="0">//%w
+「……そうだな」
+
+<BOX type="0">//%w
+　努めて平静を装って、そう呟く。
+
+　唇がからからに乾いていたが、舐めて湿らすような真似はしなかった。
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あら？」
+
+「例のディスク、
+　あなたに渡したかしら？」
+
+<BOX type="0">//%w
+「……いいや、そっちに預けっぱなしだよ」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうよね……」
+
+<BUSTUP NAME="crou" face="a" MODE="on" zoom="" ALIGN="right">//# crou^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　照れ笑いを浮かべ、ちろっと舌を見せるクロウディア。
+　その仕草が、可愛いと、そのとき心底、そう思った。
+
+<BOX type="5">//%sR
+「どうかしてるわ。私」
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「車に置いてきちゃったみたい。
+　待ってて、すぐ取ってくるから」
+
+<BOX type="0">//%w
+“いいや、俺が行って来るよ……”
+　
+“一人じゃ危ない。一緒に行こう……”
+
+　色々な返答が思い浮かんだが、
+　どれも、口にするのは億劫なものばかりだった。
+
+　疲れた。もう、一言を発するのも気怠いほどに。
+
+　だから、黙って頷くだけにした。
+
+<se id="1" src="クロウディア歩き" mode="normal" loop="off">
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　いつもと変わらぬ微笑のままに、クロウディアは格納庫を出ていった。
+
+<CLEAR><BACKGROUND SRC="hangar2">//# hangar2 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="30">
+<BOX type="0">//%w
+　あとには、薄青い曙光と、そして死んだような静寂だけが残された。
+
+　ベルトに挿したハードボーラーに、そっと手を触れる。
+
+　発電器の裏に一人……
+　飛行機の影に、もう一人……
+
+　あとの一人は……頭上のキャットウォークの上、か。
+
+　お粗末だな。
+　どうしようもなく、悲しくなるほど、お粗末だ。
+
+　どうせなら、気配もなく背中に忍び寄れるような……
+　そのくらいの手合いを差し向けてほしかった。
+
+　滑走路を吹き渡るサンタ＝アナの唸りが、虚しく耳朶をくすぐる。
+
+　どこか、遥かな虚空の高みから、夜鷹の鳴き声が遠く響いた。
+
+<se id="1" src="11_02_HB5連射" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="3" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="100">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<wait time="800">
+　ガンビーノの殺し屋どもには、ただの1発も撃たせなかった。
+
+　天窓からの淡い光の中で、硝煙が揺らぎ、ゆるやかに渦を巻く。
+
+　キャットウォークから転がり落ちた死体が、重々しい響きで床に落ち、
+<se id="1" src="死体落下音" mode="normal" time="" loop="off" effect="">//!se down
+　そして格納庫は、もとの静寂に包まれた。
+
+　ほんの、束の間……
+
+<se id="1" src="02_08" mode="normal" time="" loop="off" effect="">//!se 
+　銃のセイフティを外す小さな金属音が、再び、背後に聞こえるまで。
+
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<CLEAR><BACKGROUND SRC="1290p1">//# 1290p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　肩越しに窺うと、
+　格納庫の入り口で、クロウディアが銃を構えていた。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　彼女が人を撃つのは、これで3度目になるんだろう。
+
+　ロメロ、そしてワイズメル……
+　彼女の悲壮な人生の中で、
+　避けようのない障壁として立ちはだかった男たち。
+
+「……お粗末だな。クロウディア」
+
+「こんな、お粗末な終わり方……悲しすぎるよな」
+
+<BOX type="5">//%sR
+「……ごめんなさい……」
+
+<CLEAR><BACKGROUND SRC="hangar2">//# hangar2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　格納庫に踏み込んで、待ち伏せの殺意を感じ取ったとき、
+　出来ることなら、声を上げて泣きたかった。
+
+　右手のハードボーラーには、あと2発。
+　振り向きざまに撃つことだって、できなくはない。
+
+　だが、そんなことをして……どうなる？
+　今さら、何のために撃つ？
+
+　生き残る、ただそれだけのために、幾度となく引金を引いてきたが……
+　今度ばかりは、それだけの価値さえないんじゃないのか？
+
+　今、背後から銃口を向けるのは、他ならぬクロウディアで……
+　彼女は、彼女の生き残りを賭けて、この自分の死を願っている。
+
+　それなのに、
+　そんな有様の、この世界なのに、
+　なぜ、まだ生きる価値がある？
+
+<CHOICE HREF="1760.txt" TEXT="＊クロウディアを撃ち殺す" OPERATOR=""></A>//{ ＊クロウディアを撃ち殺す 1760 ＊観念して、諦める 1770
+<CHOICE HREF="1770.txt" TEXT="＊観念して、諦める" OPERATOR=""></A>//{ ＊クロウディアを撃ち殺す 1760 ＊観念して、諦める 1770
+
+
+
+
+
+
+　

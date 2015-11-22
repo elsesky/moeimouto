@@ -1,0 +1,163 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left chemi1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="chemi1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="door1" mode="normal" time="" loop="off" effect="">//!se door4
+　我跑进由两间教室连接成的化学试验室以后，马上拉上拉门，开始查看里面的设备。
+
+　实验室里放着九张大桌子，每张桌子上都有水管和瓦斯阀门。
+
+<se id="1" src="僈僗愷夡偟" mode="normal" loop="off">
+　为了阻止对手开枪……只能这么办了。
+　我像使用锤头那样挥舞卡拉什尼科夫的枪托，开始逐个破坏瓦斯阀门。
+  瓦斯从损坏了的阀门喷了出来。
+
+<se id="1" src="僈僗愷夡偟" mode="normal" loop="off">
+　一股怪味在宽敞的教室里弥漫开来。
+  如果在这里开枪的话，肯定会引发大爆炸。
+
+<CLEAR><BACKGROUND SRC="chemi3">//# chemi3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　将9个阀门全都破坏以后，我冲进准备室，寻找必要的道具。
+
+　……有了。
+  我找到一个两根镍镉耐热导线暴露在外的旧式桌上用电炉。
+  用这个的话……
+
+　……这样太乱来了吧？
+　我突然恢复了冷静，不仅为自己做的傻事苦笑起来。
+
+　只要走错一步，敌人和自己都会被炸成粉末。
+
+　可是，化学实验室外传来的微弱声音打断了我的思绪。
+  看来敌人已经来了，只能这么办了。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# chemi1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我从准备室的入口向化学实验室里偷偷望去，只见那两人已经在教室中了。
+
+<BUSTUP NAME="zs4" face="2" MODE="on" zoom="" ALIGN="right">//# zs4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她们仿佛已经察觉到我正躲在化学实验室里。
+  而且，通过瓦斯的味道，她们也猜出了我的意图。
+
+<BUSTUP NAME="zs8" face="2" MODE="on" zoom="" ALIGN="left">//# zs8^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# zs8^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　两个人都放下手中的枪，拔出了刀子。
+
+<CLEAR><BACKGROUND SRC="chemi4">//# dummy 19 chemi4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我弯下腰，尽量注意不被对方发现，然后屏息静气地躲到桌子后面。
+
+　和水管一样，每张桌子上都有电源插口。
+
+　接下来要考虑的……就是退路了。
+
+　从电炉通电到镍镉耐热导线变热只需要很短的时间。
+  自己必须在仅有的几秒内逃离充满瓦斯的化学实验室……
+
+　跑到走廊里肯定来不及，肯定会被卷入爆炸中。
+
+　那么……窗户呢。
+
+　3楼的窗户与地面之间的距离大概为10米。
+  如果无法安稳落地的话，免不了摔个筋断骨折。
+
+　一双雪白的脚从桌子对面无声地走过。
+  没有时间犹豫了，敌人马上就会发现自己……
+
+　与其同时面对2名手持小刀的专业杀手……我宁可选择万有引力当对手。
+
+<CLEAR><BACKGROUND SRC="nikurom">//# nikurom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　下定决心后，我将电炉的电源线插在了电源插座上。
+  卷曲呈螺旋状的镍镉耐热导线立刻微微透出朱红色。
+
+<CLEAR><BACKGROUND SRC="chemi2">//# chemi2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　接着，如脱兔一般……我头也不回地向窗户冲去。
+
+<CLEAR><BACKGROUND SRC="chemi1">//# zs4^2 20 chemi1 1
+<BUSTUP NAME="zs4" face="2" MODE="on" zoom="" ALIGN="right">//# zs4^2 20 chemi1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　自己已经开始动摇了。
+  如果没有断然做出决定的话，肯定已经被发现了。
+
+<CLEAR><BACKGROUND SRC="nikurom">//# nikurom 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　两个人的注意力都被我的行动吸引了，并没有注意到正在加热的电炉。
+
+<CLEAR><BACKGROUND SRC="chemi2">//# chemi2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　透过窗户，月光根本无法照亮的黑暗校园出现在我的眼前。
+  来得及……
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="800">
+<BOX type="0">//%w
+　我用肩膀撞碎玻璃，从窗口一跃而出，
+<se id="2" src="儘僼僩敋敪" mode="normal" time="" loop="off" effect="">//!se exprosion
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3985x1">//#! 3985x1 1
+<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　与此同时，一阵炽热的波浪撞在我的后背上。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+　在爆炸火焰的映照下，眼前的校园变成了明亮的橘黄色。
+  冲击波在头顶掠过，玻璃碎片四散飞舞。
+
+　身处黑暗与火焰的缝隙、漂浮于半空的一瞬间，我仿佛感觉时间变得永恒起来。
+
+　大地越来越近……我微微屈膝，团起身体，准备承受冲击。
+
+<se id="2" src="burning" mode="normal" time="" loop="off" effect="">//!se burning
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　我打算在撞到地面前抢先一步行动，所以首先让自己的脚后跟着地。
+
+　即便如此，膝盖还是无法承受如此强烈的冲击，腰部和背部也随着猛然一震。
+
+　我立刻用双臂撑住地面，停住了身体。可是，巨大的冲击仍旧让自己差点昏厥过去。
+
+　我仰面朝天地躺在地上，在化学实验室熊熊燃烧的火焰的掩映下，头顶的夜空宛如朝霞般绚丽。
+
+<CLEAR><BACKGROUND SRC="court^c">//# court^c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+手掌感觉到了柔软的泥土。
+看来自己很幸运，窗户正下方有一个花坛。黑色的泥土已经被翻弄得非常柔软，在很大程度上缓解了下落的冲击。
+
+  我尝试着慢慢动了动四肢。
+  虽然疼痛无比，不过骨头和筋都毫无异常。
+
+<A HREF="3680.txt" OPERATOR="3670=1">//~ 3680
+<A HREF="3985.txt" OPERATOR="">//~ 3985

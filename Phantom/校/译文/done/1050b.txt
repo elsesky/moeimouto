@@ -1,0 +1,68 @@
+　不管怎么做，杀了茱蒂的人已经不在这个世界上了。
+
+　导致茱蒂被杀的那个家伙……
+　如果找到了，我可能会被派去杀掉他。
+  但结果难料，说不定最后死掉的会是自己。
+
+　不过，这些事情没有让这个孩子知道的必要。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　当我无言地回到高尔夫上，拧下车钥匙的时候，
+  突然想到。
+
+　他是我的仇人，找到他的话……
+　这种程度的话语对这个少女多少是个安慰吧？
+
+　算了。
+　我没工夫担心毫无关系的外人。
+
+　在我驾驶高尔夫离开这个地方以后，就再也没有想起过这个少女的事。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　今天克劳蒂亚为了解释之前发生的事，需要前往那些黑社会所在的酒店。
+  当然，我也要作为保镖一同前往。
+
+　虽说骚然不安的事态已经平静了下来，但还是提前做好应对危险氛围的心理准备为妙。
+
+//仸廵慖戰
+<CLEAR>
+<BACKGROUND SRC="廵\対廵慖戰back">
+
+// 廵傾僯儊乕僔儑儞 TYPE="97" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="34" y="396" TYPE="97" FILE="cg\廵\3D柍偟.jpg">
+
+// 廵愢柧 TYPE="98" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="276" y="396" TYPE="98" FILE="cg\廵\愢柧柍偟.png">
+
+// 廵慖戰丂TYPE="99" FILE偱巜掕偡傞偺偼丄"捠忢昞帵夋憸 ; 儅僂僗僆乕僶乕帪夋憸 ; 儅僂僗僆乕僶乕僄儕傾夋憸 ; 廵愢柧僥僉僗僩夋憸 ; 廵傾僯儊乕僔儑儞夋憸 亊 24枃"偲側偭偰傑偡丅
+// 儅僥僶
+<CHOICE HREF="ta001.txt"   x="127" y="8" TYPE="99" FILE="cg\廵\儅僥僶.png;cg\廵\儅僥僶.png;cg\廵\儅僥僶a.png;cg\廵\儅僥僶s.png;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_00.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_01.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_02.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_03.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_04.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_05.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_06.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_07.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_08.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_09.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_10.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_11.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_12.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_13.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_14.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_15.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_16.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_17.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_18.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_19.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_20.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_21.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_22.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_23.jpg" OPERATOR="M2006=1">
+// 僨僓乕僩僀乕僌儖
+<CHOICE HREF="1110Ie.txt"   x="235" y="13" TYPE="99" FILE="cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖a.png;cg\廵\僨僓乕僩僀乕僌儖s.png;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_00.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_01.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_02.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_03.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_04.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_05.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_06.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_07.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_08.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_09.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_10.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_11.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_12.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_13.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_14.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_15.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_16.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_17.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_18.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_19.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_20.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_21.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_22.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_23.jpg" OPERATOR="50AE=1">
+// 僔僌
+<CHOICE HREF="ta001.txt"   x="485" y="30" TYPE="99" FILE="cg\廵\僔僌.png;cg\廵\僔僌.png;cg\廵\僔僌a.png;cg\廵\僔僌s.png;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_00.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_01.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_02.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_03.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_04.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_05.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_06.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_07.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_08.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_09.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_10.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_11.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_12.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_13.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_14.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_15.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_16.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_17.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_18.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_19.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_20.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_21.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_22.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_23.jpg" OPERATOR="P226=1">
+// 儀儗僢僞
+<CHOICE HREF="1110BS.txt"   x="0" y="139" TYPE="99" FILE="cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞a.png;cg\廵\儀儗僢僞s.png;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_00.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_01.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_02.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_03.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_04.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_05.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_06.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_07.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_08.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_09.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_10.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_11.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_12.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_13.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_14.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_15.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_16.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_17.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_18.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_19.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_20.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_21.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_22.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_23.jpg" OPERATOR="M92F=1">
+// 僷僀僜儞
+<CHOICE HREF="1110Cm.txt"   x="218" y="151" TYPE="99" FILE="cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞a.png;cg\廵\僷僀僜儞s.png;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_00.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_01.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_02.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_03.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_04.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_05.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_06.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_07.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_08.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_09.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_10.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_11.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_12.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_13.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_14.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_15.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_16.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_17.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_18.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_19.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_20.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_21.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_22.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_23.jpg" OPERATOR="pyson=1">
+// M29
+<CHOICE HREF="1110Sm.txt"   x="439" y="81" TYPE="99" FILE="cg\廵\M29.png;cg\廵\M29.png;cg\廵\M29a.png;cg\廵\M29s.png;cg\廵\廵夞揮_楢斣\M29楢斣\M29_00.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_01.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_02.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_03.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_04.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_05.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_06.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_07.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_08.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_09.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_10.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_11.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_12.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_13.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_14.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_15.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_16.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_17.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_18.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_19.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_20.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_21.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_22.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_23.jpg" OPERATOR="SWM29=1">
+// H_K USP
+<CHOICE HREF="ta001.txt"   x="206" y="238" TYPE="99" FILE="cg\廵\h_k.png;cg\廵\h_k.png;cg\廵\h_ka.png;cg\廵\h_ks.png;cg\廵\廵夞揮_楢斣\USP楢斣\USP_00.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_01.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_02.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_03.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_04.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_05.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_06.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_07.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_08.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_09.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_10.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_11.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_12.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_13.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_14.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_15.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_16.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_17.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_18.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_19.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_20.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_21.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_22.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_23.jpg" OPERATOR="hkUSP=1">
+// 僈僶儊儞僩
+<CHOICE HREF="1110CV.txt"   x="476" y="206" TYPE="99" FILE="cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩a.png;cg\廵\僈僶儊儞僩s.png;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_00.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_01.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_02.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_03.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_04.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_05.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_06.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_07.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_08.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_09.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_10.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_11.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_12.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_13.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_14.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_15.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_16.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_17.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_18.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_19.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_20.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_21.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_22.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_23.jpg" OPERATOR="M1911=1">
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+<A HREF="1120.txt" OPERATOR="">//~ 1120

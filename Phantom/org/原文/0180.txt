@@ -1,0 +1,387 @@
+<calc workname="gun28" operator="1" mode="global">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left street0d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="雨室外" mode="fadein" time="10" loop="off" effect="">//!se rain
+<BACKGROUND SRC="street0d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夕方から、街は激しい驟雨に見舞われた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b4 wide 255
+<clear>
+
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="" mode="fadeout" time="40">
+<se id="1" src="雨室内ループ" mode="fadein" time="" loop="on" effect="">//!se rain
+
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0b4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　雨滴の伝う窓の外では、雷鳴まで鳴っている。
+
+「……厄介だな、これは」
+
+　夜半に控えている任務を思うと、そんな言葉が口をついて出た。
+
+　夜の港は、作業灯で煌々と照らされているぶん、
+　容易に視野を確保できそうに思えるが、これが意外に仇になる。
+
+　明暗のコントラストがつくと、
+　物陰は完全な闇に塗りつぶされて、
+　むしろ視認が難しくなる。
+
+　加えて、この雨だ。
+　今夜の任務は、案外、骨の折れるものになりそうだ。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　アインは黙々と、銃器の点検に余念がない。
+
+<CLEAR><BACKGROUND SRC="aug_shorty_000">//# aug_shorty_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ばらばらに分解してロフトに隠してあった2挺の自動火器……
+
+<CLEAR><BACKGROUND SRC="g3_000">//# g3_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　アゥグ＝カービンと狙撃用G3ライフルは、
+　とうに組立を終え、陽があるうちに照準調整も済ませてある。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「今回、僕らが援護する襲撃チームっていうのは？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「聞いてないわ。何も」
+
+<BOX type="0">//%w
+　どこの誰ともわからないメンバーとチームワークを取るのは、
+　あまり気の進まない話だが、
+　インフェルノという組織の構造上、
+　この手の支援任務では、むしろそれが当たり前だった。
+
+<CLEAR><BACKGROUND SRC="street0d">//# dummy 20 street0d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　加盟者の誰かが私兵を動かす時、
+　インフェルノは往々にして支援を買って出る。
+
+　受け持つのは、クロウディアが統括する
+　インフェルノ直属の戦闘部隊だが、
+　ときにはファントムが駆り出されることもある。
+　……たとえば今夜のように。
+
+　メンバー間の顔合わせがないのは、
+　むしろファントムの存在の秘匿性を保つためだ。
+
+　だが……
+　今夜のように、劣悪な視野での行動を強いられると、
+　ますます、段取りのない作戦に不安がつのる。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「夜中までに、止まないかな、雨」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「期待しない方がいいわね」
+
+<BOX type="0">//%w
+　相変わらずアインは、にべもない。
+　まあ、今夜の要は彼女なのだから、大丈夫だろうが。
+
+<CLEAR><BACKGROUND SRC="room0b4">//# room0b4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="knock" mode="normal" time="" loop="off" effect="">//!se knock
+<BOX type="0">//%w
+　最初は雷鳴かと思ったが、それはロフトのドアをノックする音だった。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1 elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# room0a4 1 elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　素早くアゥグとG3を物陰に隠すアイン。
+　それを見届けて、玄関に応対に出る。
+
+<CLEAR><BACKGROUND SRC="room0d1">//# room0d1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……はい？」
+
+<se id="2" src="door4" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="room0c1">//# room0c1 1 rizy 19
+<WIPE EFFECT="fade" TIME="10">
+<wait time="800">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# room0c1 1 rizy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「お邪魔だったかな？」
+
+<BOX type="0">//%w
+「リズィ……」
+
+　暗い廊下にそびえ立つ長身の影は、クロウディアのボディガードだった。
+
+<BOX type="4">//%sL
+「クロウディアからの言伝だ。
+　ツヴァイ、あんたは今夜8時に、
+　クロウディアの家に行け」
+
+<BOX type="0">//%w
+　しばらく棒立ちになったまま、自分の耳を疑っていた。
+
+「そんな、急に……何事ですか？」
+
+<BOX type="4">//%sL
+「配置換えさ。あたしは今夜、
+　ブツの取り引きに
+　立ち会わなくちゃならない」
+
+「ちょっとキナ臭い気配のある
+　セッションでね」
+
+「で、あたしの留守は、
+あんたが護衛を代行するってこと」
+
+「ミズ＝マッキェネン直々の
+　ご指名だよ」
+
+<BOX type="0">//%w
+「ちょっと、待ってください。僕ら、今夜は別の命令を受けてます」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何ィ？　聞いてないぞ。
+　誰の指示だ？」
+
+<BOX type="0">//%w
+「……サイス＝マスターですが」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ハン……
+　そいつはサイスの独断だな。
+　きっと」
+
+「構うこたぁない。
+　クロウディアの命令が優先だ」
+
+<BOX type="0">//%w
+「でも……」
+
+　反駁しようとすると、リズィは顔を露骨に歪めた。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あのな、アタシらの上司は
+　あくまでクロウディアだぞ」
+
+「サイスはただの参謀さ。
+　近頃、ずいぶんと
+　舞い上がってるようだがな」
+
+「ヤツの道楽に、あんたたちが付き合うのは勝手だけどね、あくまで
+仕事が優先だよ。わかったかい？」
+
+<BOX type="0">//%w
+「……」
+
+　何が道楽なもんか。こっちだって命がけなんだ。
+
+　だが反駁しようとしたところに、アインの声が割り込んできた。
+
+<CLEAR><BACKGROUND SRC="room0b4">//# elen1^2 20 dummy 19 room0b4 1
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19 room0b4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「行きなさい。ツヴァイ」
+
+<BOX type="0">//%w
+「アイン……？」
+
+<BOX type="5">//%sR
+「マスターからの任務は、
+　わたしが一人で遂行するわ」
+
+「あなたはミズ＝クロウディアの
+　指示に従って」
+
+<BOX type="0">//%w
+「そんな……危険だよ」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大丈夫。問題ないわ」
+
+<CLEAR><BACKGROUND SRC="room0c1">//# rizy 19 dummy 20 room0c1 1
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20 room0c1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「だ、そうだよ。ツヴァイ。
+いちゃついてないで支度しときな」
+
+<BOX type="0">//%w
+　そう言ってリズィは、クロウディアの住所を控えたメモを差し出した。
+
+<BOX type="4">//%sL
+「8時だ。忘れるなよ」
+
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="2" src="door2" mode="normal" loop="off">
+<BACKGROUND SRC="room0d1">//
+<WIPE EFFECT="fade" time="7">
+<BOX type="0">//%w
+　そしてそれ以上、こちらに言い返す間を与えずに、
+　リズィは長身を翻して去っていった。
+
+//> left room0a4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「今夜の任務、一人じゃ危ないぞ」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうね。作戦を組み直さないと」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「心配しないで。うまくやるから」
+
+<BOX type="0">//%w
+「しかし……」
+
+　援護射撃だけといえば容易な任務にも思えるが、
+　襲撃チームが引き上げるまで援護しつづけるとなれば、
+　その後は孤立無援ということになる。
+
+　最後に撤収する彼女は、誰の援護も受けられない。
+
+「無茶だよ、アイン」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「それを決めるのは、
+　わたしじゃないわ」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしは与えられた機材と人員で
+　与えられた任務に対処する……
+　それだけよ」
+
+<BOX type="0">//%w
+　自分自身の窮地だというのに、
+　アインの、冷たく乾いた口調は変わらない。
+　まるで、他人事だとでもいう風に。
+
+　それとも……この期に及んで、彼女は余裕を持て余しているんだろうか。
+
+　たしかに彼女は、図抜けた腕前の持ち主だが……
+
+　表情を欠いた顔からも、虚空に据えた眼差しからも、
+　アインの真意は読みとれない。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そろそろ出なさい。遅れるわよ」
+
+<BOX type="0">//%w
+　そして、いつものように、
+　彼女はこちらに逡巡する間を与えてくれない。
+
+　いつだって断ち切るように、突き放すように、
+　ただ、目の前の現実だけを突きつけてくる。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「荷物が多くなるだろうから、
+下に停めてあるゴルフは使わせて」
+
+「あなたは5番街に隠してある
+　トーラスを」
+
+<BOX type="0">//%w
+「……わかった」
+
+　それ以上、交わす言葉は見つからなかった。
+　代わりに、今夜、持って出る銃を選ぶことにした。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+
+//> top dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//※銃選択
+<CLEAR>
+<BACKGROUND SRC="銃\拳銃選択back">
+
+// 銃アニメーション TYPE="97" FILEで指定するのは、銃選択にマウスオーバーしていないときに表示する画像
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="34" y="396" TYPE="97" FILE="cg\銃\3D無し.jpg">
+
+// 銃説明 TYPE="98" FILEで指定するのは、銃選択にマウスオーバーしていないときに表示する画像
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="276" y="396" TYPE="98" FILE="cg\銃\説明無し.png">
+
+// 銃選択　TYPE="99" FILEで指定するのは、"通常表示画像 ; マウスオーバー時画像 ; マウスオーバーエリア画像 ; 銃説明テキスト画像 ; 銃アニメーション画像 × 24枚"となってます。
+// マテバ
+<CHOICE HREF="ta001.txt"   x="127" y="8" TYPE="99" FILE="cg\銃\マテバ.png;cg\銃\マテバ.png;cg\銃\マテバa.png;cg\銃\マテバs.png;cg\銃\銃回転_連番\マテバ連番\マテバ_00.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_01.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_02.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_03.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_04.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_05.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_06.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_07.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_08.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_09.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_10.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_11.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_12.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_13.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_14.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_15.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_16.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_17.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_18.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_19.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_20.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_21.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_22.jpg;cg\銃\銃回転_連番\マテバ連番\マテバ_23.jpg" OPERATOR="M2006=1">
+// デザートイーグル
+<CHOICE HREF="0180Ie.txt"   x="235" y="13" TYPE="99" FILE="cg\銃\デザートイーグル.png;cg\銃\デザートイーグル.png;cg\銃\デザートイーグルa.png;cg\銃\デザートイーグルs.png;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_00.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_01.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_02.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_03.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_04.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_05.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_06.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_07.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_08.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_09.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_10.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_11.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_12.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_13.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_14.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_15.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_16.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_17.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_18.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_19.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_20.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_21.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_22.jpg;cg\銃\銃回転_連番\デザートイーグル連番\デザートイーグル_23.jpg" OPERATOR="50AE=1">
+// シグ
+<CHOICE HREF="ta001.txt"   x="485" y="30" TYPE="99" FILE="cg\銃\シグ.png;cg\銃\シグ.png;cg\銃\シグa.png;cg\銃\シグs.png;cg\銃\銃回転_連番\シグ連番\シグ_00.jpg;cg\銃\銃回転_連番\シグ連番\シグ_01.jpg;cg\銃\銃回転_連番\シグ連番\シグ_02.jpg;cg\銃\銃回転_連番\シグ連番\シグ_03.jpg;cg\銃\銃回転_連番\シグ連番\シグ_04.jpg;cg\銃\銃回転_連番\シグ連番\シグ_05.jpg;cg\銃\銃回転_連番\シグ連番\シグ_06.jpg;cg\銃\銃回転_連番\シグ連番\シグ_07.jpg;cg\銃\銃回転_連番\シグ連番\シグ_08.jpg;cg\銃\銃回転_連番\シグ連番\シグ_09.jpg;cg\銃\銃回転_連番\シグ連番\シグ_10.jpg;cg\銃\銃回転_連番\シグ連番\シグ_11.jpg;cg\銃\銃回転_連番\シグ連番\シグ_12.jpg;cg\銃\銃回転_連番\シグ連番\シグ_13.jpg;cg\銃\銃回転_連番\シグ連番\シグ_14.jpg;cg\銃\銃回転_連番\シグ連番\シグ_15.jpg;cg\銃\銃回転_連番\シグ連番\シグ_16.jpg;cg\銃\銃回転_連番\シグ連番\シグ_17.jpg;cg\銃\銃回転_連番\シグ連番\シグ_18.jpg;cg\銃\銃回転_連番\シグ連番\シグ_19.jpg;cg\銃\銃回転_連番\シグ連番\シグ_20.jpg;cg\銃\銃回転_連番\シグ連番\シグ_21.jpg;cg\銃\銃回転_連番\シグ連番\シグ_22.jpg;cg\銃\銃回転_連番\シグ連番\シグ_23.jpg" OPERATOR="P226=1">
+// ベレッタ
+<CHOICE HREF="0180BS.txt"   x="0" y="139" TYPE="99" FILE="cg\銃\ベレッタ.png;cg\銃\ベレッタ.png;cg\銃\ベレッタa.png;cg\銃\ベレッタs.png;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_00.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_01.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_02.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_03.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_04.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_05.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_06.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_07.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_08.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_09.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_10.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_11.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_12.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_13.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_14.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_15.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_16.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_17.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_18.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_19.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_20.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_21.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_22.jpg;cg\銃\銃回転_連番\ベレッタ連番\ベレッタ_23.jpg" OPERATOR="M92F=1">
+// パイソン
+<CHOICE HREF="0180Cm.txt"   x="218" y="151" TYPE="99" FILE="cg\銃\パイソン.png;cg\銃\パイソン.png;cg\銃\パイソンa.png;cg\銃\パイソンs.png;cg\銃\銃回転_連番\パイソン連番\パイソン_00.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_01.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_02.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_03.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_04.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_05.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_06.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_07.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_08.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_09.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_10.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_11.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_12.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_13.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_14.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_15.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_16.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_17.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_18.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_19.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_20.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_21.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_22.jpg;cg\銃\銃回転_連番\パイソン連番\パイソン_23.jpg" OPERATOR="pyson=1">
+// M29
+<CHOICE HREF="0180Sm.txt"   x="439" y="81" TYPE="99" FILE="cg\銃\M29.png;cg\銃\M29.png;cg\銃\M29a.png;cg\銃\M29s.png;cg\銃\銃回転_連番\M29連番\M29_00.jpg;cg\銃\銃回転_連番\M29連番\M29_01.jpg;cg\銃\銃回転_連番\M29連番\M29_02.jpg;cg\銃\銃回転_連番\M29連番\M29_03.jpg;cg\銃\銃回転_連番\M29連番\M29_04.jpg;cg\銃\銃回転_連番\M29連番\M29_05.jpg;cg\銃\銃回転_連番\M29連番\M29_06.jpg;cg\銃\銃回転_連番\M29連番\M29_07.jpg;cg\銃\銃回転_連番\M29連番\M29_08.jpg;cg\銃\銃回転_連番\M29連番\M29_09.jpg;cg\銃\銃回転_連番\M29連番\M29_10.jpg;cg\銃\銃回転_連番\M29連番\M29_11.jpg;cg\銃\銃回転_連番\M29連番\M29_12.jpg;cg\銃\銃回転_連番\M29連番\M29_13.jpg;cg\銃\銃回転_連番\M29連番\M29_14.jpg;cg\銃\銃回転_連番\M29連番\M29_15.jpg;cg\銃\銃回転_連番\M29連番\M29_16.jpg;cg\銃\銃回転_連番\M29連番\M29_17.jpg;cg\銃\銃回転_連番\M29連番\M29_18.jpg;cg\銃\銃回転_連番\M29連番\M29_19.jpg;cg\銃\銃回転_連番\M29連番\M29_20.jpg;cg\銃\銃回転_連番\M29連番\M29_21.jpg;cg\銃\銃回転_連番\M29連番\M29_22.jpg;cg\銃\銃回転_連番\M29連番\M29_23.jpg" OPERATOR="SWM29=1">
+// H_K USP
+<CHOICE HREF="ta001.txt"   x="206" y="238" TYPE="99" FILE="cg\銃\h_k.png;cg\銃\h_k.png;cg\銃\h_ka.png;cg\銃\h_ks.png;cg\銃\銃回転_連番\USP連番\USP_00.jpg;cg\銃\銃回転_連番\USP連番\USP_01.jpg;cg\銃\銃回転_連番\USP連番\USP_02.jpg;cg\銃\銃回転_連番\USP連番\USP_03.jpg;cg\銃\銃回転_連番\USP連番\USP_04.jpg;cg\銃\銃回転_連番\USP連番\USP_05.jpg;cg\銃\銃回転_連番\USP連番\USP_06.jpg;cg\銃\銃回転_連番\USP連番\USP_07.jpg;cg\銃\銃回転_連番\USP連番\USP_08.jpg;cg\銃\銃回転_連番\USP連番\USP_09.jpg;cg\銃\銃回転_連番\USP連番\USP_10.jpg;cg\銃\銃回転_連番\USP連番\USP_11.jpg;cg\銃\銃回転_連番\USP連番\USP_12.jpg;cg\銃\銃回転_連番\USP連番\USP_13.jpg;cg\銃\銃回転_連番\USP連番\USP_14.jpg;cg\銃\銃回転_連番\USP連番\USP_15.jpg;cg\銃\銃回転_連番\USP連番\USP_16.jpg;cg\銃\銃回転_連番\USP連番\USP_17.jpg;cg\銃\銃回転_連番\USP連番\USP_18.jpg;cg\銃\銃回転_連番\USP連番\USP_19.jpg;cg\銃\銃回転_連番\USP連番\USP_20.jpg;cg\銃\銃回転_連番\USP連番\USP_21.jpg;cg\銃\銃回転_連番\USP連番\USP_22.jpg;cg\銃\銃回転_連番\USP連番\USP_23.jpg" OPERATOR="hkUSP=1">
+// ガバメント
+<CHOICE HREF="0180CV.txt"   x="476" y="206" TYPE="99" FILE="cg\銃\ガバメント.png;cg\銃\ガバメント.png;cg\銃\ガバメントa.png;cg\銃\ガバメントs.png;cg\銃\銃回転_連番\ガバメント連番\ガバメント_00.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_01.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_02.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_03.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_04.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_05.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_06.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_07.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_08.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_09.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_10.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_11.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_12.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_13.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_14.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_15.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_16.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_17.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_18.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_19.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_20.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_21.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_22.jpg;cg\銃\銃回転_連番\ガバメント連番\ガバメント_23.jpg" OPERATOR="M1911=1">
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+<A HREF="0190.txt" OPERATOR="">//~ 0190

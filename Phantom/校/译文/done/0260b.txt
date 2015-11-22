@@ -1,0 +1,46 @@
+<CALC WORKNAME="ヒロイン" OPERATOR="アイン">//
+<BOX type="0">//%w
+　该说我自私吗？
+
+　该说我过分吗？
+
+　是的，这一切也许都是事实。
+
+　以自己的意志而活……我以高声的宣言将这样的东西灌输给依旧没有记忆的Ein。
+　这样，真的好吗？
+
+　如果是那个曾经与她一样的、
+  没有个人情感、坚强地活着的自己，
+  对于她的祈祷、愿望，都能够清晰地察觉。
+
+　为了寻求死亡的安乐而祈祷……
+　虽然自己不想承认这样的事，可是，
+  安慰、鼓励，这些都已经传达给了她。
+
+　诉说生命的可贵，
+  保证幸福的所在，
+  这样的话语全都是空虚苍白的。
+
+　现在已经太晚了吗。
+　取回名字与记忆之后的我，
+  已经再也无法理解Ein的悲伤了吗？
+
+　该说的话语，我找不出。
+
+　自己没有办法阻止她的落泪，
+  能做的，只有默默地注视着她。
+
+　不久，哭累了的Ein沉沉睡去，
+  而我只是一味地紧咬住那份无力感，品尝着其中的苦涩。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> eins fieldWay wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="fieldWay">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<A HREF="0270.txt" OPERATOR="">//~ 0270

@@ -1,0 +1,11 @@
+//> left ガバメント wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ガバメント">//
+<WIPE EFFECT="fade" TIME="20">
+<CALC WORKNAME="Ｇガバメント" OPERATOR="1" MODE="global">//
+<wait time="200">
+<A HREF="3161a.txt" OPERATOR="1401a=1">//~ 3161a
+<A HREF="3161.txt" OPERATOR="">//~ 3161

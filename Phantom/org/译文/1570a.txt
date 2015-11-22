@@ -1,0 +1,392 @@
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我单膝跪地，稳定住身体，同时拔出枪来。
+
+　这样的动作自己已经重复不下千百次了吧。
+
+　即使什么都不想，身体也能像往常那样作出反应。
+
+　现在自己所做的动作，是最为自然的。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="10">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="10">
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="streetsmoke">//# streetsmoke 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我先对着后座上的人影打出一个3连射。
+
+　惨叫声伴随着枪声响起。
+  从开着的车窗看去，车内血浆四溅。
+
+　到今天为止，自己已经像这样杀了不知多少人了吧。
+
+　所以，对这样的场面已经没有任何的反应了。
+
+　杀吧、杀吧。
+  对目前的自己来说，这是最自然的行动了。
+
+<se id="3" src="BMW僽儗乕僉" mode="normal" time="" loop="off" effect="">//!se brake
+　惊慌失措的奔驰车强行调转车头，向我这边冲了过来。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="10">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700x3">//#! 1700x3 1
+<WIPE EFFECT="fade" TIME="0">
+
+<se id="3" src="儀儞僣僼儖壛懍" mode="normal" loop="off">
+<BOX type="0">//%w
+　我站起身，对准驾驶席连开2枪，可却由于汽车的高速移动而没能打中。
+
+　好吧，再近点……
+
+　不出所料，奔驰车的驾驶员带着杀意踩下了油门，一下子加大了车速。
+
+　来吧。再近点吧。
+
+　我不躲不逃地稳稳站定。
+  面对冲过来的奔驰车，寻找着挡风玻璃上的必杀一点。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="street0b">//# street0b 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+<se id="2" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+　扣下扳机的一瞬间，我也被奔驰车的保险杠撞飞了。
+
+<se id="3" src="crash2" mode="normal" time="" loop="off" effect="">//!se crash2
+　在空中的时候，我注意到了。
+　刚才的子弹稍稍偏离了要害，那个司机应该没有当场死亡。
+
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　虽然重重地摔在了柏油路面上，但我还是马上翻身站了起来。
+
+<CLEAR><BACKGROUND SRC="bmw_crash">//# bmw_crash 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　奔驰车狠狠地撞在了墙上，发动机正往外冒着白烟。
+
+　自己似乎断了好几根肋骨，不过现在的当务之急是给枪换子弹。
+　我一边接近奔驰车，一边更换了弹夹。
+
+　正当我靠近驾驶席的时候，
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+　濒死的驾驶员从车里滚了出来。
+
+　已经奄奄一息了……不过，不能就此放过他。
+  这家伙，还没死。
+
+　我用脚踩住这个在地上痛苦呻吟着的男人的胸口，
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+  对准他的头打光了一弹夹的子弹。
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+//<wait time="10">
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　无视地上的一滩脑浆，我小心地向车内看去。
+
+<CLEAR><BACKGROUND SRC="mp5_k_000">//# mp5_k_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　副驾驶席上的死者，手中拿着一把MP5。
+　好极了，我就不客气的收下了。
+
+<CLEAR><BACKGROUND SRC="streetsmoke">//# streetsmoke 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时，周围的居民才因为刚才的骚动而注意到这里。
+  我拿过MP5和备用弹夹，在众人的目光中驾车离开了。
+
+　枪也有了，车也有了。更重要是，这副身体还能动。
+
+　那么，要做的事就只有一件。
+
+没有必要惜命了。
+自己的这条命，早已在刚才的爆炸中烧尽了。
+早已伴随着火焰和爆炸的气浪飞到了远方、飞到了自己永远触不了的地方。
+
+　不过，那里并不是未知的地方。
+　从现在起，我正在一点点地靠近那里。
+
+　等着我吧，不会太久的。
+
+　我马上就会去到你那里，凯尔。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「西栋完全沉默!没有应答」
+
+<BOX type="4">//%sL
+「C班!和E班一起实施包围。
+快点……」
+
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="5">//%sR
+「在游泳池那里!
+　那家伙出现了!!
+　快点支援……快……」
+
+<BOX type="4">//%sL
+「可恶!! 那家伙是怪物吗!?」
+
+//> right room3 wide 255 inferuno1 20
+<clear>
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「有什么棘手的？
+　对方只有一个人吧!」
+
+<BOX type="4">//%sL
+「万分抱歉」
+
+<BOX type="3">//%w
+　面对马格维雅的怒火，护卫们没有一句辩解。
+  他们已经犹如身处噩梦中一般。
+
+　为什么，阻止不了？
+
+　所谓的Phantom……就是这样的东西吗？
+
+　虽然说，因为派出大量人手追捕克劳蒂娅而导致总部防备薄弱也是事实。
+　可即便如此，留守的部下还是超过了20人。
+
+　不……应该说，现在这里还剩下多少人活着呢。
+
+　很久没有品尝过的恐惧的感觉，狠狠地攥住了马格维雅的心。
+
+　曾多次下令追杀Phantom的犯罪大王，到头来也难逃恐惧的侵扰吗？
+
+<CLEAR><BACKGROUND SRC="room3b">//# room3b 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　……突然，房间的照明消失了。
+
+<BOX type="4">//%sL
+「!!」
+
+<BOX type="3">//%m
+　屋内的护卫们不禁大惊失色，相互窃窃私语起来。
+
+<BOX type="4">//%sL
+「马格维雅先生，请待在这里」
+
+<BOX type="3">//%m
+　马格维雅的贴身保镖一边慌乱地给部下们下达指示，一边带领众人走出了屋子。
+
+<se id="1" src="02_10" mode="normal" time="" loop="off" effect="">//!se 
+　紧接着，走廊中响起了雷鸣般的枪声。
+
+<se id="2" src="09_02" mode="normal" time="" loop="off" effect="">//!se 
+　在枪声与悲鸣声交织成的狂想曲中紧紧捂着耳朵的马格维雅，慌忙跑到壁橱前，从中拿出防身用的手枪。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<wait time="900">
+
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="1" src="" mode="fadeout" time="10">
+//<se id="1" src="" mode="normal" time="20" loop="off" effect="">//!se 
+//<se id="2" src="" mode="normal" time="20" loop="off" effect="">//!se 
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<wait time="900">
+<BOX type="3">//%m
+　突然，嘈杂的声音消失了。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+躲在隐蔽处，隐藏起自己的气息。
+马格维雅死死地盯着面前的一片黑暗。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+出去的同伴都死了吗？
+……既然不出声的话，看来是吧。
+
+　仅凭窗口传进的微弱光线，就连通往走廊的门是不是开着都没法看清。
+
+　那家伙……跑到哪里去了？
+　难道说，已经在这间屋子里了？
+
+　马格维雅用耳朵仔细地捕捉着屋内的动静，可听到的只有自己的心跳声。
+
+　那家伙在黑暗中也能看清吗？
+　那家伙能够不发出声音地移动吗？
+
+开什么玩笑……至少应该能听到他的呼吸声吧。
+
+既然这样，自己果然还是不要动的好。
+万一……想到这样的可能性，马格维雅不禁变得腿脚发软。
+
+　……黑暗的沉重与恐怖，自己要忍受多久呢。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="5">//%sR
+“不管怎么说，应该已经……”
+
+<BOX type="2">//%w
+　不要紧了。
+　想到这里，马格维雅松了一口气
+
+即使他已经身在这间屋子里，也不可能在如此长的时间里一动不动。
+况且，他也应该为了搞清楚屋中是否有人躲着而有所行动。
+
+　是没有注意到躲着的马格维雅才走了吗，还是说，在走廊中与保镖们打得两败俱伤……
+
+　想要求得光亮的马格维雅向窗边走去，
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　这时，他注意到了一动不动地坐在沙发上的少年。
+
+<CLEAR><BACKGROUND SRC="1570x1">//# 1570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BOX type="2">//%w
+　锐利的目光，正死死地盯着马格维雅。
+
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="2">//%w
+　马格维雅吓得连声音都没能发出来。
+
+　可是……
+　这个少年的状况又怎么样呢？
+
+　看来这栋建筑里的人已经被全灭了……不过，Phantom也身受重创。
+
+　衣服裂开、渗出了鲜血，已经看不出他究竟中了多少枪。
+  但是，他一定已经受了致命伤吧。
+
+可即便如此……
+少年右手拿着的机关枪，依旧对准着马格维雅。
+他半闭着的双眼中，的确还存在着意志的光芒。
+
+……既有着无尽的空虚，又带着异常的狂热。
+这是不折不扣的、疯狂的眼神。
+
+<CLEAR><BACKGROUND SRC="room3b">//# room3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……你，想干什么？」
+
+<BOX type="2">//%w
+由于过分的恐惧，紧绷的声带反而松弛了下来。
+马格维雅就这样歇底里地地喊道。
+
+<BOX type="5">//%sR
+「你这家伙……究竟想干什么？
+　为什么要来这里!?」
+
+<BOX type="2">//%w
+没有胜算，也没有生还的可能，可即便如此……
+马格维雅根本看不出突然闯入的Phantom究竟有什么目的。
+
+<CLEAR><CLEAR><BACKGROUND SRC="1570x1">//# 1570x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　少年沾满鲜血的嘴唇动了，发出了犹如从地狱深处传出的声音。
+
+<BOX type="4">//%sL
+「……凯尔呢？」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="4">//%sL
+「凯尔……在哪里？」
+
+<BOX type="3">//%m
+马格维雅用枪对准了少年。
+ 这已经不是理性的判断，而是动物因恐惧而激发的本能。
+
+<se id="1" src="14_05" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　已经不知道这是第几发打进少年腹部的子弹了。
+
+少年没有对痛苦和冲击做出任何反应。
+他只是有些疑惑地微笑了一下，接着扣动了MP5的扳机。
+<se id="2" src="06_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　被弹夹中剩下的十余发9mm子弹打遍全身……
+　雷蒙德·马格维雅还来不及发出悲鸣就倒地身亡了。
+
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+  注意到的时候，手臂已经抬不起来了。
+
+　本来只是打算坐下休息一会，可现在已经站不起来了。
+
+　身体好重，真是麻烦啊。
+
+　还有，好冷。
+　究竟是……怎么回事？
+　
+
+　不能再在这里悠哉悠哉了。
+　必须要赶快走了，凯尔在等着我。
+
+　不去寻找的话。
+　不去寻找那孩子的话……
+
+　好困。
+　还有，好冷。
+
+　好想念凯尔的温暖。
+
+　难以形容地奢华的、只要抱上去就能感受到温暖的身体。
+
+　好想，再抱一次。
+　一个人坐在这里……真的好冷。
+
+　……你在哪里呢？
+　凯尔……
+
+<calc workname="gun03" operator="1" mode="global">
+<A HREF="1570b.txt" OPERATOR="">//~ 1570b

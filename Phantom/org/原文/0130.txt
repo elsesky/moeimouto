@@ -1,0 +1,123 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right china wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="米国交差点昼" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="china">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　モントレーパーク、中華街。
+
+　福を呼ぶといわれる真紅と黄金の色彩を、カリフォルニアの陽光が、より一層どぎつく際立たせている。
+
+　世界中のチャイナタウンがそうであるように、ここもまた地元の風土を無視して、独特の文化圏を確立していた。
+
+　ここはアメリカであって、
+　アメリカでない。
+
+　行き交うのはアジア系の黄色人種ばかり。むしろ白人や黒人の姿を探すほうが難しい。
+
+　だがそんな往来の中で、
+　同じ東洋人でありながら、
+　明らかに周囲から浮いている
+　二人の男の姿があった。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「恐れ入ったぜ。
+　ここも本当にLAか？」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どこの国でも、
+　中国人が根を張った街は、
+　この有様です」
+
+「中国系の移民ってのは、
+　人だけじゃなく、
+　街並みごと海を渡るんですよ」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「けっ……
+　ケタクソ悪い話だな」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……兄貴」
+
+「いまさら、
+お諫めする気はありませんが……」
+
+「あの女、本当に信用しちまって、
+　いいんですか」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「信用なんざしてねぇよ」
+
+「どうであれ、
+　あいつが指差してる方向にゃ、
+　確かにヤクと金が待ってる」
+
+「俺達ゃ、
+　それを目指して突っ走るだけよ」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「途中に何が待ちかまえてるか、
+　知れたもんじゃねえがな」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あいつの話、旨すぎます」
+
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="right">//# godo^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「志賀よ……
+堅実なのもいいけどよ、
+ブルッてると見られたら終いだぜ」
+
+<BUSTUP NAME="godo" face="5" MODE="on" zoom="" ALIGN="right">//# godo^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「攻めの一手だ。
+　今はそれしかねぇ」
+
+「足元に罠があるなら、飛び越えて渡るぐらいの覚悟でねぇとな」
+
+「今じゃ日本でも、ヤクの流れは、中国人どもに仕切られっぱなしだ」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「歌舞伎町が
+　こうなっちまってからじゃ、
+　遅ぇんだよ」
+
+<A HREF="0130b.txt" OPERATOR="">//~ 0130b

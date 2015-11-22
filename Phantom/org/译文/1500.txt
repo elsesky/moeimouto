@@ -1,0 +1,161 @@
+//> right passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Ein，我问你」
+
+「今天晚上你本来可以抓住Zwei的吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^3 19
+<BUSTUP NAME="elen6" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……是」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为什么让他逃掉了？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^2 19
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……非常抱歉」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你害怕Zwei吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^3 19
+<BUSTUP NAME="elen6" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那我换个问题吧」
+
+「Ein，你能将Zwei杀掉吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^2 19
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6 19
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……他已经成长了很多」
+
+「对决的话，或许死的人会是我」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「原来如此，这是你的愿望吗」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^3 19
+<BUSTUP NAME="elen6" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「看样子，你也已经到极限了啊，Ein」
+
+<BOX type="2">//%w
+　一年前，受到暴走的Zwei的影响，Ein的精神状态很明显地受到了损害。
+
+　虽然在一段时期内看起来像是痊愈了，可那只是短暂的恢复而已。
+ 她的战斗能力已经发生了致命的退化。
+
+　在这充满苦难的一年中，尽管Ein已经弱化，但她依旧是赛斯唯一一枚可以自由调动的棋子，因而还是被慎重地对待着。 
+
+不过，在回到Inferno的现在，完成使命的Ein已经没有什么利用价值了。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「算了，没关系。你已经立了很多功劳了」
+
+<BOX type="2">//%w
+　通过从Ein身上得到的数据和经验，赛斯已经系统地确立了自己的洗脑调教技术。
+  现在，他可以用更低的成本、在更短的时间内培育出同Ein一样的杀手。
+
+<BOX type="5">//%sR
+「Ein。
+我承认你作为我的实验作品，已经充分发挥了自身的价值」
+
+「在将Zwei抹杀之后，Ein，我就允许你安息」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^4 19
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「把这个当作你的最后一个任务去做吧」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「将现在的Phantom——Zwei抹杀」
+
+「不过，你不必回来报告了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^4 19
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　这句话所包含的残酷意义，深深地传入了少女的内心。
+
+　不必回来……也就是说，在这最后的任务中，自己死掉也没有关系。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这次战斗的难度会很大吧？」
+
+<BOX type="2">//%w
+　无情与慈爱并不是相对的，赛斯那冷冷的微笑便是证明。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^8 19
+<BUSTUP NAME="elen6" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　而Ein则用充满了感激的目光面对着那样的微笑。
+
+<BOX type="4">//%sL
+「谢谢你，主人……」
+
+<A HREF="1600.txt" OPERATOR="1470a=1">//~ 1600
+<A HREF="1510.txt" OPERATOR="1127=1">//~ 1510
+<A HREF="1515.txt" OPERATOR="">//~ 1515
+

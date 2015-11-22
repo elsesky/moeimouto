@@ -1,0 +1,357 @@
+<CLEAR><BACKGROUND SRC="INchurch5">//# INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「!!」
+
+<BOX type="0">//%w
+　从角落飞出的子弹迫使凯尔后退了半步。
+
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="knife2">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　紧接着……小刀的刀刃闪电般地从凯尔的鼻尖划过……
+
+　插在了忏悔室的门上。
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch5">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+
+　刀刃深深插入门板的声音在礼拜堂内沉沉地回响着。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　望着插在面前的小刀的冰冷光泽，凯尔顿时一句话都说不出来了。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　{ヒロイン}也提着打光了子弹的Python……向我投来疑问的视线。
+
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……把枪扔掉，凯尔」
+
+　我用枪口对准凯尔，一边将身体转向她那边，一边用低沉的声音这样喊道。
+
+「Ein也不要出手……这件事到此为止」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　虽然我并不期待她能老老实实地按我说的去做……
+　可是，出乎我的意料，凯尔干脆利索地将手中的两把S&W扔到了忏悔席外。
+<se id="1" src="gunfall" mode="normal" time="" loop="off" effect="">//!se gunfall
+
+<BOX type="4">//%sL
+「事到如今，打算两个人一起上吗？」
+
+<BOX type="0">//%w
+　即使脑子里满是仇恨，凯尔也不可能不明白。
+　刚才的一击不是为了协助{ヒロイン}，而是为了相反的目的。
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「然后呢？难道这样就结束了吗？」
+
+<BOX type="0">//%w
+「……结束了」
+
+「好好想一想吧，我们没有相互厮杀的理由」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔轻蔑地哼了一声。
+
+<BOX type="4">//%sL
+「对你来说也许是这样」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不过……单纯的仇恨可是我最好的理由哦」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你们中的某一人只要走错一步，就会落入地狱哦……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="13_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　凯尔左手一甩……一团不锈钢的光芒像蛇一样从夹克衫的袖口中滑出。
+
+　糟了……备用枪!?
+
+<se id="1" src="14_04" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 19
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch5">//#! INchurch5 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　下一瞬间，身体因为预想到子弹的袭来而变得僵硬……
+
+　可是，0.38口径的冲击没有到来，
+<se id="1" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　取而代之的，是玻璃的碎裂声和不知什么人的悲鸣。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+　我愕然回头，
+  只见被打坏的彩绘玻璃外，几个人影正慌乱地叫骂着左右乱窜。
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# INchurch3mob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　以枪声为开端，数名男子从礼拜堂的入口那里冲了进来。
+
+<se id="1" src="14_04" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="3">
+<se id="2" src="14_04" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="3">
+<se id="3" src="14_04" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="3">
+<se id="1" src="14_04" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　凯尔以迅雷不及掩耳的速度扣下扳机，在AMT的连射下，2个人应声倒在礼拜席那里。
+
+<CLEAR><BACKGROUND SRC="INchurch1">//# drei5^4 19 INchurch1 1
+<BUSTUP NAME="drei5" face="4" MODE="on" zoom="" ALIGN="left">//# drei5^4 19 INchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「别呆呆地站着，赶快躲起来!!」
+
+<CLEAR><BACKGROUND SRC="INchurch5">//# dummy 19 INchurch5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="2" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+　凯尔话音未落，周围的彩色玻璃突然被从外打碎，手枪和霰弹枪的枪口从缺口处露了出来。
+
+　怎么回事……我们被完全包围了!?
+
+　在Vz61轻快的射击声中，幸存的玻璃也被打成了碎片。
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　袭击者们慌张地撤回了枪口。
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen5^4 20 INchurch2 1
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="right">//# elen5^4 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「快点，来这里!!」
+
+<BOX type="0">//%w
+　举着Vz61的{ヒロイン}在祭坛的阴影里这样喊道。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　听到催促，我赶忙在她的掩护下压低身子向后退。
+　捡起扔在地上的S&W以后，凯尔也开始撤退……
+　可是，她的目标不是祭坛……而是礼拜堂的正面入口。
+
+「喂……凯尔!?」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　没等我喊完，凯尔已经怒吼着冲出了礼拜堂。
+<se id="2" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+　枪声和悲鸣声立即交织着在外面响起。
+
+　太乱来了……谁也不知道外面有多少人，她打算只身杀出一条血路吗？
+
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen5^4 20 INchurch2 1
+<BUSTUP NAME="elen5" face="4" MODE="on" zoom="" ALIGN="right">//# elen5^4 20 INchurch2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「{名}，快点……」
+
+<se id="1" src="嫵夛儎僋僓廵寕" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//# elen5^4 20 INchurch2 1
+<WIPE EFFECT="light" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch2">//# elen5^4 20 INchurch2 1
+<WIPE EFFECT="light" TIME="0">
+<BOX type="0">//%w
+　从身后的祭坛呼喊我的{ヒロイン}的声音一下子被枪声打断了。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　Vz61的火力压制刚一消失，
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　早已占据左右窗户的家伙们便开始了攻击。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　这一次，他们的火力全都集中到了祭坛这里。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+「{ヒロイン}！」
+
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我用手枪连射牵制住窗口位置的枪击，一路猛冲后滚进了祭坛的阴影里。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　右手满是鲜血的{ヒロイン}正费力地用左手为Vz61更换弹夹。
+
+　刚才的时候被击中了吗……
+
+　没有时间说慰劳的话了。
+　我从{ヒロイン}的手中拿过Vz61，
+<se id="1" src="08_03a" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="100">
+　装上弹夹后冲着祭坛外面就是一阵扫射。
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　窗口的枪手由于畏惧我的弹雨而再次沉默了下来。
+
+「剩下的弹夹呢？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还有……2个」
+
+<BOX type="0">//%w
+　{ヒロイン}用左手从怀中掏出备用弹夹，将它们并排放在地上。
+　刚才在与凯尔战斗的时候，她将Vz61扔掉……是为了引诱对手疏忽大意吗。
+
+<CLEAR><BACKGROUND SRC="INchurch3mob">//# dummy 20 INchurch3mob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　与此同时，虽然死伤惨重，但袭击者们仍旧不停地进行着攻入礼拜堂的尝试。
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　敌人……看来是一伙的，但却没有统一的指挥。
+　他们只是怒吼着向前猛冲，完全不讲任何战术，只是空有胆量的外行罢了。
+
+　……是梧桐组。
+　看来他们终于察觉到美绪已经被释放了。
+
+<se id="1" src="" mode="fadeout" time="3">
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　可是，现在要怎么办？
+　虽说他们不过是外行人，可是被群起而攻之的话还是会让人无法应付。
+　刚才贸然杀出去的凯尔现在也不知道怎么样了……
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这时我突然想到。
+　右手方向的神父室有后门，而且那里目前并没有敌人出现。
+
+　这是唯一的退路……
+　像专业的包围战一样，在那里设下埋伏……从梧桐组这种支离破碎的进攻方式看来，他们不太可能会采取那样的战术。
+
+　我们唯一的机会，就在于梧桐组没有彻底掌握这所建筑物的构造。
+
+「{ヒロイン}，你从后门逃吧」
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可你呢？」
+
+<se id="1" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　我没有回答，而是用Vz61朝着窗户一阵扫射。
+
+<BUSTUP NAME="elen7" face="4" MODE="on" zoom="" ALIGN="right">//# elen7^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……不行，不能把你一个人留在这里」
+
+<BOX type="0">//%w
+「现在的你还能做什么？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「放心吧，我一定会追上你的」
+
+「在你还没成为累赘之前，快走」
+
+　不像这样用刻薄的语气说点冷酷的话，{ヒロイン}是不会接受的。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}犹豫了一下，接着便下定决心朝神父室跑去。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch3mob wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="INchurch3mob">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我从饱经枪弹洗礼的祭坛边缘偷偷朝外望去。
+
+　从{ヒロイン}和凯尔的决斗算起，已经有数百发子弹在这里打响。
+  现在的礼拜堂内硝烟弥漫。
+
+　昏黄的阳光下，烟雾在缓缓地打着旋……其间隐约能够透出杂乱的人影。
+
+　终于攻进来了吗。
+
+　一个家伙屏住呼吸，悄悄地沿着侧廊的柱子向我这边移动，
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我等他靠近以后，稳稳地扣下了扳机。
+
+<se id="2" src="嫵夛儎僋僓廵寕" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　以此为开端，梧桐组马上掀起了新一轮的猛烈枪击。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　可恶。这样下去的话……
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="" mode="fadeout" time="20">
+<A HREF="3835.txt" OPERATOR="">//~ 3835
+
+
+35

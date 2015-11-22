@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+　ベレッタM92FS。
+　ボディーガードの役目なら、いちばん妥当な選択だろう。
+　何も、ばかでかい銃を持っていく必要はない。
+
+<CALC WORKNAME="射撃音" OPERATOR="02_01">//
+<CALC WORKNAME="銃" OPERATOR="ベレッタ">//
+<CALC WORKNAME="銃画像" OPERATOR="ベレッタ3">//
+<CALC WORKNAME="射撃画像" OPERATOR="ベレッタ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用BS">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

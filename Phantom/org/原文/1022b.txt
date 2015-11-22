@@ -1,0 +1,88 @@
+<BOX type="0">//%w
+　助手席のクロウディアは、一人黙したまま、
+　なにか考えに耽っている様子だった。
+　先の会合で、何かあったんだろうか。
+
+//> left houseC wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="houseC">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　クロウディアの邸宅に帰り着いたのは、夜半を過ぎた時刻だった。
+
+　いつも通り、警報機のコンソールをチェックしても、異常はない。
+
+　安全は確保された。
+　これで今日の仕事も、すべて完了だ。
+
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「少し、上がっていく？」
+
+<BOX type="0">//%w
+「いえ……」
+
+　せわしなく大陸を西に東に行き交った、
+　この数日間の疲れが、溜まっている。
+　今夜は早々に退散したかった。
+
+　愛想で誘ってくれたクロウディアも、
+　本当のところは、討議に疲れているはずだ。
+
+「じゃあ、今夜はこれで」
+
+<BOX type="5">//%sR
+「お疲れさま」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　広い車庫にF40を乗り入れてから、隣のゴルフに乗り換えて、
+　ノルマンディ通りのロフトへと、帰路についた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　このねぐらに戻るのも、久しぶりだった。
+
+　我が家、という感慨はない。
+　クロウディアの屋敷ほど緊張はせず、街のホテルよりもやや安全な、
+　ただそれだけの空間である。
+
+　アインが去ってからは、とりわけ空間の虚ろさが際立った。
+　もう、久しく電灯も点けてない。
+
+<se id="1" src="coolbox" mode="normal" time="" loop="off" effect="">//!se coolbox
+　唯一、機能している家電といえば、冷蔵庫ぐらいのものだ。
+
+　買い置きのビールを一缶、取って、窓辺でプルトップを引き開ける。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BOX type="0">//%w
+　一体、何度目になるだろう？
+　こんな風に、夜闇の白みゆく街の景色を、一人で眺めて過ごすのは。
+
+　1年と、半年……
+
+　この国に来てから、まだ、それだけしか経っていない。
+
+　記憶を封じられ、自分を見失っていた時期もあったが、
+　それを差し引いても、遥かに長い年月が流れ去ったような気さえする。
+
+　今にして思えば、日本での平和な暮らしなど、
+　まるで前世の記憶のようだ。
+
+<A HREF="1024b.txt" OPERATOR="0280=1">//~ 1024b
+<A HREF="1024a.txt" OPERATOR="">//~ 1024a

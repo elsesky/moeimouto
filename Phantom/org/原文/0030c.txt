@@ -1,0 +1,260 @@
+　アインと名乗る、あの女の子……
+
+<CLEAR><BACKGROUND SRC="0010p2">//# 0010p2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　殺し屋だっていうのは本当だろう。
+　ナイフを持ったときの、あの気迫。躊躇ない身のこなし……
+　思い出しただけでも背筋が寒くなる。
+
+　いかにも手慣れているという雰囲気だった。
+　きっとああやって、何人も人を殺したことがあるんだろう。
+
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　冷たくて、深く澄んだ黒い瞳を思い出す。
+　そうだ、なぜか、あのとき『哀しい目だ』と……
+　そう感じたのを憶えてる。
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1  dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　人を殺すとき、どんな気持ちになるのか……
+　想像もつかないし、想像したくもない。
+　そういうことができるのは、よほど残酷な人間だけだと思う。
+
+　じゃあアインも残酷な性格なんだろうか？
+　……わからない。
+　あの、何かを悼むような眼差しを見たあとでは。
+
+<CLEAR><BACKGROUND SRC="0020p1">//# 0020p1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そういえば彼女は、こうも言っていた……
+『人を殺すことで、生かされてる』と……
+　どういう意味だ？
+
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　考え込むうちに、好奇心が募ってきた。
+　どういう子なんだろう？
+　なぜ殺し屋なんかになったんだろう？
+
+　これからしばらくは、
+　この廃工場で二人きりで暮らすことになるという話だった。
+　その間に彼女から、殺し屋としての訓練を受けるのだと。
+　なら尚のこと、知っておきたい。
+
+　生き延びるためなら、彼女の言う通り、殺し屋になるしかないのだろう。
+　でもそのために、他人の命まで奪うなんてことが、
+　はたして自分にできるのか……
+
+　正直言って、わからない。
+
+　だから明日の朝、まずアインと話をしよう。
+　彼女のようになれというのなら、まず彼女のことを知らなきゃならない。
+　それから……決めよう。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left field wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夜明けとともに、アインは車で帰ってきた。
+
+　ダークスーツの男が二人、
+　アインと一緒に車を降り、トランクから色々な荷物を下ろしはじめる。
+　多分これから、この廃工場で生活するために必要な機材なんだろう。
+
+//> left factory wide 255 elen1 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　目が合うと、アインは黙ったまま返答を促してくる。
+
+　今日から始まる生活を、受け入れるか、拒否するか……
+　返事をしなきゃならない。
+
+「質問しても、いいかな？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしに答えられることなんて、
+　大してないけど」
+
+<BOX type="0">//%w
+　彼女も、質問の嵐を予期していたんだろう。
+　もちろん、そうしたいのは山々だが、
+　どうせ教えてもらえる事柄なんて、たかが知れている。
+
+「何もかも説明してくれなんて言わないよ。もう……」
+
+「でも、君のことだけは知っておきたい」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……わたしの？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　一瞬アインが、戸惑ったような表情を見せたようにも思えたが、
+　すぐにまた、いつもの無表情に戻っていた。
+
+「君も、日本人？」
+
+<BOX type="5">//%sR
+「どうして？」
+
+<BOX type="0">//%w
+「……いや、僕たち、日本語で話してるから」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……違うでしょうね。多分」
+
+「日本語は、
+　後になって習ったから」
+
+<BOX type="0">//%w
+　多分……？
+　アインの言葉が気にかかった。
+
+「多分って、どういう意味だい？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしも、記憶がないから」
+
+<BOX type="0">//%w
+　あまりにも淡々と言い放たれたその言葉は、
+　受け止めるのに時間がかかった。
+
+「……なんだって？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「言ったでしょう。
+　あなたはわたしと同じだと」
+
+「わたしも記憶を消されて、
+　暗殺者になったの」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしはマスターが成功した
+　最初の被験体。
+　だからアイン」
+
+<BOX type="0">//%w
+　そういえば、聞いたことがある。
+　たしか、“アイン”とはドイツ語の“1”じゃなかったか。
+　そして“2”は……“ツヴァイ”
+
+　この子も……同じ境遇なのか？
+
+「……それは、いつから？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「2年前。まだマスターが
+　インフェルノに加わる前よ」
+
+<BOX type="0">//%w
+「辛くは、ないの？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「別に」
+
+<BOX type="0">//%w
+　あくまで平静な、アインの口調。
+　記憶を奪われたことを、まるで気にしていないのか。
+　それとも……2年という歳月が、痛みを忘れさせたのか。
+
+「僕は……辛いよ」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「忘れるわ。そのうち」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今、この瞬間を生き残る……
+　それだけよ。殺し屋は」
+
+「だから過ぎたことも先のことも、
+　すべて無意味な事柄なの。
+　記憶なんて必要ないのよ」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「大丈夫。すぐにあなたも、
+　何も感じなくなるでしょう。
+　考えてる暇なんかなくなるわ」
+
+<BOX type="0">//%w
+　あらためて思った。いったい、どういう子なんだろうか。
+　何を想い、何を信じ、目に映るものを、どう受け止めているのか……
+　あの無表情な横顔からは、なにひとつ窺えない。
+
+　それでも今は、アインを眺め続けて……そして、学ぶしかない。
+　同じ境遇に置かれたまま、彼女は2年の時を過ごしてきた。
+　たとえ理解が及ばなくても、彼女のやりかたを真似るしかない。
+
+　今はそうすることでしか、
+　彼女のような強さを手に入れることは出来ないだろう。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これに着替えて」
+
+<BOX type="0">//%w
+　アインに渡されたのは、
+　ランニングシャツと、ごわついた布地の野戦服のパンツだった。
+
+<BOX type="5">//%sR
+「今日から四六時中、あなたは
+　わたしと一緒よ。指示にはすべて
+　従うこと。いいわね」
+
+<BOX type="0">//%w
+「ああ……」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃあ、始めましょう」
+
+<CALC WORKNAME="0030c" OPERATOR="1">//
+<A HREF="0040.txt" OPERATOR="">//~ 0040

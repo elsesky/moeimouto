@@ -1,0 +1,83 @@
+<CLEAR><BACKGROUND SRC="bay3">//# bay3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……敵の正体も気になるが、今はそれどころじゃない。
+
+<CLEAR><BACKGROUND SRC="Viper">//# Viper 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　言われるままに助手席に転がり込むと、
+<se id="1" src="viperGo" mode="normal" time="" loop="off" effect="">//!se viperGo
+　リズィは後輪を軋らせながら、ヴァイパーを急発進させた。
+
+　野太いV8エンジンの唸りの中で、徐々に銃声が遠のいていく。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="F40低速クルージング" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="バイパー走行1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　あの様子では……梧桐組の連中は、助かるまい。
+　また一本、見えざる敵に勝ちを取られた。
+
+　……だが一体、何者なんだ？
+
+　ヴァイパーのステアリングを握るリズィの横顔からは、
+　何の表情も窺えない。
+
+　何を思っているんだろうか？
+　長年、信じ抜いてきた親友について、あんな話を聞かされて、
+　平気でいられる彼女じゃない。
+
+　まさか、鵜呑みにしているんだろうか？
+
+「リズィ……」
+
+<BOX type="5">//%sR
+「言うな」
+
+「今は何も、聞きたくない」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「これから、クロウと会う」
+
+「アンタにも立ち会ってもらうよ。
+　ファントム」
+
+<BOX type="0">//%w
+「ああ……」
+
+<BACKGROUND SRC="バイパー走行2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　こっちだって説明が聞きたい。
+　梧桐の話の、真偽の程を。
+
+「居場所、知ってるのか？」
+
+<BOX type="5">//%sR
+「今夜はヤクザたちの様子を
+　見に行くって話だった」
+
+「と、なれば、
+　今頃はリーガル＝ホテルで
+　途方に暮れてんだろな」
+
+<BOX type="0">//%w
+　肝の冷える話だ。
+　梧桐と行き違いになって、クロウディアは命拾いしたということか。
+
+<se id="2" src="" mode="fadeout" time="30">
+
+<CALC WORKNAME="1445" OPERATOR="1">//
+<A HREF="1460.txt" OPERATOR="">//~ 1460

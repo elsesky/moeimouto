@@ -1,0 +1,273 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right bay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+……どれほどの時が流れたのかは、解らない。
+
+<se id="1" src="サイス歩き" mode="normal" loop="off">
+
+梧桐大輔が意識を取り戻したのは、間近に聞こえた靴音のせいだった。
+
+　身体を動かそうとして、
+　激痛に喘ぐ。
+
+　腹と、
+　それに肩を撃たれているらしい。
+
+<se id="1" src="" mode="fadeout" time="5">
+
+　何のことはねぇ……
+　そう、梧桐は自分に嘯いた。
+
+　この倍以上の弾丸を食らって、
+　生き延びたこともある。
+　修羅道が俺の花道だ……
+
+やっとのことで上体を起こし、梧桐は目の前に佇む男と向き合った。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%m
+　志賀……か……
+
+//<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+//<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「よぉ……」
+
+<BOX type="0">//%w
+　痛みは意識の外に追いやって、
+舎弟の前での威厳をつくろう梧桐。
+
+//<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　懐を探り、煙草を取り出すと、
+<se id="1" src="zippo01" mode="normal" time="" loop="off" effect="">//!se zippo
+志賀はいつも通りに素早く火を用意した。
+
+<clear>
+<BACKGROUND SRC="ごどう死亡">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「誰が、残った？」
+
+<clear>
+<BACKGROUND SRC="bay3">//
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「全滅です」
+
+<clear>
+<BACKGROUND SRC="ごどう死亡">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「……そうか」
+
+<BOX type="3">//%w
+　紫煙を吸い込むと芳香ではなく、
+　鋭い痛みと血の味が胸に広がる。
+　……おや？　ひょっとして
+　肺もやられてるのか？
+
+<BOX type="4">//%sR
+「結局、
+　また俺と、お前だけか……」
+
+<BOX type="3">//%w
+　いつだって、そうだった。
+血の雨が降り、窮地に追い込まれ、
+どんな修羅場をくぐろうと、志賀は生きて梧桐の傍にいた。
+
+いつだって梧桐は、
+自身の度胸と武運だけで
+切り抜けてきたつもりだったが……
+
+　今にして思えば、
+　こいつの知恵もあったよな。
+
+　この二人が揃えば、負けはねぇ。
+
+<BOX type="4">//%sR
+「クロウディアの方は、
+　どうなった？」
+
+<clear>
+<BACKGROUND SRC="bay3">//
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「あの女は、インフェルノが始末をつけるでしょう」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「……あんな女のことよりも、
+　梧桐組ですよ。問題は」
+
+「放っときゃ、
+　海を挟んで戦争ですよ。
+　インフェルノと」
+
+<clear>
+<BACKGROUND SRC="ごどう死亡">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「ケッ、上等じゃねぇか……」
+
+「インフェルノが何だってんだ。
+　叩き潰してやるさ」
+
+<clear>
+<BACKGROUND SRC="bay3">//
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「……」
+
+<clear>
+<BACKGROUND SRC="ごどう死亡">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「こいつらの弔い合戦だ。
+　なぁ志賀、
+　皆殺しにしてやろうぜ」
+
+<clear>
+<BACKGROUND SRC="bay3">//
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「……及びませんよ。それには」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「あと一人が死ぬだけで、
+　片はつくんです。何もかも」
+
+<clear>
+<BACKGROUND SRC="ごどう死亡">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「……？」
+
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="light" TIME="0">
+
+<BOX type="3">//%w
+　己の胸から迸る血潮を、
+　梧桐は呆然と見守った。
+
+<BOX type="4">//%sR
+「……志賀？」
+
+<BUSTUP NAME="siga2" face="2" MODE="on" zoom="" ALIGN="right">//# siga2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sL
+「こうなっちまってから言っても、
+　信じちゃもらえないでしょうが、
+　兄貴……」
+
+「志賀は心底、
+　あんたに惚れてました」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「志賀ぁぁァァッ!!」
+
+<se id="1" src="11_02_HB5連射" mode="normal" time="" loop="off" effect="">//!se 
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="light" TIME="0">
+<clear>
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="light" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="4" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right bay3 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="bay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「結構です」
+
+「これで貴方の誠意は証明された」
+
+「インフェルノには、
+　私が間に立って取りなします」
+
+「ミスタ志賀、貴方と、
+　貴方の梧桐組は安泰です」
+
+<BUSTUP NAME="siga2" face="2" MODE="on" zoom="" ALIGN="left">//# siga2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……ギュゼッペ」
+
+<BUSTUP NAME="siga2" face="" MODE="on" zoom="" ALIGN="left">//# siga2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「俺は今、
+　あんたを殴りたくて仕方ない」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「殴りますか？　私を」
+
+<BUSTUP NAME="siga2" face="3" MODE="on" zoom="" ALIGN="left">//# siga2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="siga2" face="2" MODE="on" zoom="" ALIGN="left">//# siga2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「どうなるってんだよ、殴って」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうもなりませんな。もちろん」
+
+「ミスタ志賀、どうやら貴方とは
+　話が合いそうだ。
+　いい友人になれそうです」
+
+<BUSTUP NAME="siga2" face="3" MODE="on" zoom="" ALIGN="left">//# siga2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<calc workname="gun22b" operator="1" mode="global"><A HREF="1465.txt" OPERATOR="1445=1">//~ 1465
+<A HREF="1465.txt" OPERATOR="1445b=1">//~ 1465
+<A HREF="1480.txt" OPERATOR="">//~ 1480

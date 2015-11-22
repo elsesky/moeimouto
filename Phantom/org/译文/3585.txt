@@ -1,0 +1,120 @@
+//> right ruins3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　美绪在黑暗中屏住呼吸，悄悄地偷听着凯尔的声音。
+
+<BOX type="5">//%sR
+「啊，没错。
+　不告诉{名}，就在我们之间解决」
+
+<BOX type="2">//%w
+　凯尔……正在和什么人交谈着。
+　用着美绪的电话。
+
+　不是……{名}吗？
+
+　可是，凯尔并没有用手机键盘拨号。
+　如果她呼叫的是记录在手机中的号码，美绪应该知道对方是谁才对。
+
+<BOX type="5">//%sR
+「……OK，那里应该没问题。下午5点对吧」
+
+「你知道蓧仓学院上面的废墟吗？」
+
+「……对，就是那儿，美绪就在那里」
+
+「给她准备点穿的吧」
+
+<BOX type="2">//%w
+　挂断电话，凯尔站起身来……这时她才第一次朝美绪那里看去。
+
+　看来她似乎一直以为美绪在睡着。
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="right">//# drei^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　凯尔的心情似乎很不愉快，她移开视线，接着用沉重的口气说道。
+
+<BOX type="5">//%sR
+「抱歉什么的……事到如今再说这种话，实在是没有道理」
+
+「忘了这一切吧。
+　就当是被野狗咬了一口好了」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="left">//# mio3^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio3^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="3">//%m
+　这算不上是道歉的言辞……可是，这样沉痛的声音，根本不像是那个凯尔发出来的。
+
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# drei^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我是个不值得你怨恨的女人」
+
+「仇恨我、饶不了我的家伙多得不得了，也不少你一个」
+
+「我应该是活不长的，到那时候肯定只能下地狱」
+
+「所以你没有必要刻意仇恨我，只要忘了我就行了」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="left">//# mio3^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio3^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　时间在微妙的沉默中过去了。
+
+<BUSTUP NAME="drei" face="5" MODE="on" zoom="" ALIGN="right">//# drei^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「再见了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔从容地转过身，头也不回地离开了。
+
+<A HREF="#暘婒" OPERATOR="3520=1">
+<A HREF="3590b.txt" OPERATOR="">//~ 3590b
+<MARKER NAME="#暘婒">
+<A HREF="#暘婒2" OPERATOR="3545b=1">
+<A HREF="3590c.txt" OPERATOR="">//~ 3590c
+<MARKER NAME="#暘婒2">
+<A HREF="#暘婒3" OPERATOR="3190=1">
+<A HREF="3590a.txt" OPERATOR="">//~ 3590a
+<MARKER NAME="#暘婒3">
+<A HREF="3590c.txt" OPERATOR="3120=1">//~ 3590c
+<A HREF="3590a.txt" OPERATOR="">//~ 3590a
+
+
+
+
+<A HREF="#暘婒" OPERATOR="3520=1">
+<A HREF="3590b.txt" OPERATOR="">//~ 3590b
+<MARKER NAME="#暘婒">
+<A HREF="#暘婒2" OPERATOR="3545b=1">
+<A HREF="3590c.txt" OPERATOR="">//~ 3590c
+<MARKER NAME="#暘婒2">
+<A HREF="#暘婒3" OPERATOR="3190=1">
+<A HREF="3590a.txt" OPERATOR="">//~ 3590a
+<MARKER NAME="#暘婒3">
+<A HREF="3590a.txt" OPERATOR="3120=1">//~ 3590c
+<A HREF="3590c.txt" OPERATOR="">//~ 3590a

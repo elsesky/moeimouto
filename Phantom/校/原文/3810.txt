@@ -1,0 +1,327 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right classroom2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="classroom2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+
+<BOX type="2">//%w
+　遠雷のような銃声の轟きは、
+　校舎に隠れていた美緒の耳にも
+　届いていた。
+
+　{ヒロイン}とキャルが、戦っている。
+　それも、
+　この学園の敷地のどこかで……
+
+　そしておそらく、{姓}{名}もまた、戦いの場所にいる。
+
+<CLEAR><BACKGROUND SRC="classroom4a">//# dummy 20 classroom4a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　愛する人を守るため、
+　愛した人を殺すため、
+
+　そして、
+　死を賭した二人を止めるため……
+
+　誰が斃れ誰が残ろうと、いずれとも残酷な結末に変わりはない。
+
+　恐かった。
+　逃げ出したかった。
+
+　絶え間なく響く銃声の一発一発が、ともすれば誰かの死を意味するものかもしれず、たびたび、間隙の静寂が訪れるたび、不安で胸が潰れそうになる。
+
+　認めたくなかった。
+　自分の知る日常と背中合わせに、そんな非情で救いのない世界があるなどとは。
+
+<CLEAR><BACKGROUND SRC="classroom3a">//# classroom3a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+これ以上、立ち入れば、もう二度と
+美緒は笑えなくなるだろう。
+どんな幸福を手に入れようと、
+それを疑わずには
+いられなくなるだろう。
+
+　きっとすべてが、
+　嘘に見えてしまう。
+
+　すぐ裏側に、いつの日も血の雨が降る世界があるのを知りながら、
+　それを忘れて得た幸せなど、
+　どうして信じられようか。
+
+　耳を閉ざし、目を瞑り、
+　身を竦めて待つしかない。
+　気怠くも優しい、
+　美緒自身の世界に帰るには。
+
+<CLEAR><BACKGROUND SRC="classroom2a">//# mio1^8 20 classroom2a 1
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 classroom2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　だが……
+　本当にそれで、いいんだろうか？
+
+　今を逃せば、もう二度と、{名}に会うことは叶わない。
+　{ヒロイン}の言葉は、
+　嘘ではあるまい。
+
+　そうだ。
+　今日を限りに、彼が去るなら、
+　明日からの日々に幸せがある筈もない。
+
+　そんな空虚な未来を、
+　どうして惜しむ必要があろうか。
+
+　改めて美緒は、我が身を焦がす想いの激しさを知った。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　あの人に、逢いたい……
+
+　戻れなくなろうと、構わない。
+
+　じっとしていて、
+　いいわけがない。
+　今も轟くあの銃声は、あるいは{名}の生命を断つ弾丸の唸りかもしれないのに。
+
+//> right church2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="900">
+<BACKGROUND SRC="church2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　ここだ……
+
+　銃声の元を探し求めた挙げ句、ついに美緒は、校舎裏の、打ち捨てられた礼拝堂に行き着いた。
+
+　暮れなずむ朱色の空に、煉瓦造りの古風なシルエットが不吉に聳え立つ様は、どこか、この世の終わりの景観のようだった。
+
+　未だ鳴り止まぬ銃声は、
+いまはもう囂々たる轟きとなって、
+美緒の鼓膜を打ち据える。
+
+　その轟きの凄まじさが、いったん奮い立たせた美緒の意気を、再び萎えさせる。
+
+　一体、どうしようというのだ？
+　美緒一人が割り込んでいって、
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　不意に、
+　背後から伸びたいかつい腕が、
+　美緒の顔と腰に巻きついた。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="2">//%w
+　暴れようにも、叫ぼうにも、
+　固い腕の緊縛は、
+　美緒の意志を許さない。
+
+　そのまま為す術もなく、美緒は暗い森の中に引きずり込まれた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　人っ子一人いないと思っていた
+森の中で、どよめきの気配が湧く。
+
+　どうやら大勢の人間が、
+　息を殺して潜んでいたらしい。
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「兄貴、こんな娘が、外に……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「馬鹿野郎ッ!!」
+
+<BOX type="2">//%w
+　押し殺した、だが底冷えのするような怒気を孕んだ一喝が、美緒の捕縛者へと飛ばされた。
+
+<BOX type="5">//%sR
+「そのお方に失礼があってみろ。
+　顎でモノ食えなくなるぞ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<BUSTUP NAME="honjyo" face="2" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「す、すいやせん……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　怯えきった返事とともに、
+　美緒は戒めから解放される。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「お怪我はありませんか？
+　藤枝美緒さん」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「あなたは……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　暗がりに佇む男は、
+　初見の顔ではなかった。
+
+　記憶は遠くても、その印象は鮮明に覚えている。
+　2年前、梧桐大輔の形見を美緒の元へと届けた、大輔の部下を称した男……
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「たしか……志賀、さん？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ご無沙汰しております」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　だが何故、この人が、ここに？
+
+　さらに美緒は、
+志賀の周囲に控えている男たちの、
+人数と風体に瞠目する。
+
+<BUSTUP NAME="ポン刀" face="1" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+　およそ20人近くはいようか。
+　いずれも、無表情に澱んだ目つきに、ただ獰猛な色だけを湛えた、闘犬を思わせる男たちである。
+
+　一人残らず、武器を手に……手斧や日本刀に始まって、短銃、猟銃に至るまで、剣呑なものを堂々と携えている。
+
+　断じて、
+　尋常な生業の連中ではない。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　美緒の怯えを気取ってか、
+　志賀は押さえの効いた声に、
+　わずかに優しさを交えて言った。
+
+<BOX type="5">//%sR
+「安心なさってください。
+　美緒さん、我々はあなたを
+　保護しに来た者です」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……？」
+
+<BOX type="3">//%m
+　男たちの風体から連想できる言葉は、ひとつ……ヤクザだ。
+
+　志賀も、理知的な雰囲気で他と一線を画しているものの、そこはかとなく感じさせる冷酷な凄みには、周囲の男たちと底通するものがある。
+
+　大輔の部下と名乗った男、志賀。
+
+彼がヤクザの一員だとするならば、
+その上司に当たる大輔もまた、やはり……
+
+<BOX type="4">//%sL
+「あなた方は、もしかして、
+　梧桐組っていう……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　恐る恐る美緒が口にした、
+　その呼称が、
+　色眼鏡の奥の志賀の目に、
+　かすかな悲哀を帯びさせた。
+
+<BOX type="5">//%sR
+「美緒さん。あなたは、
+　多くを知るべきじゃない」
+
+「すぐにも安全な場所に
+　お連れします。あとの事は、
+　どうか我々に任せて……」
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　だが、この場から連れ去られると知った美緒は、志賀に最後まで言わせなかった。
+
+<BOX type="4">//%sL
+「ま、待ってください!」
+
+「今、あそこで……あの中で、
+私の、その、友達どうしが……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「心得ております」
+
+「すべて終わらせます。何もかも」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="left">//# mio1^9 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^9 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　良かった……
+
+　安堵の息をついた美緒は、志賀が礼拝堂を見やる眼差しの、限りない冷酷さに気付かなかった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="dummy">//協会内部の絵。次はINchurch2
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<A HREF="3720.txt" OPERATOR="">//~ 3720

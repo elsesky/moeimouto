@@ -1,0 +1,16 @@
+<BOX type="0">//%w
+　いつものガバメントに代わり、
+　早速、リズィから譲られたUSPを試してみることにした。
+
+　たしかに銃把の太くなるきらいはあるが、
+　それでも12連副列弾倉のキャパシティは心強い。
+　樹脂製フレームによる200グラムの重量差も、携行にはメリットだ。
+
+<CALC WORKNAME="射撃音" OPERATOR="10_01">//
+<CALC WORKNAME="銃" OPERATOR="USP">//
+<CALC WORKNAME="銃画像" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="射撃画像" OPERATOR="USP2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用UP">//
+<CALC WORKNAME="1166" OPERATOR="1">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170

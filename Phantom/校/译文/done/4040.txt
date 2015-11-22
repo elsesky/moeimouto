@@ -1,0 +1,331 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" time="20" loop="on">//> left INchurch2 wide 255
+<CLEAR><BACKGROUND SRC="INchurch4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%sR
+　少女漠然地望着倒在地上的{名}的尸体。
+
+　杀掉他的这个瞬间早已在心里被描绘了不知多少次……为了证实自己的假想，她才坚持到了今天。
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+“一直觉得应该会有什么感受的……”
+
+“为什么……会这样？　什么都没有……头脑里空空如也……”
+
+<CLEAR><BACKGROUND SRC="INchurch7">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　仅仅一枪，长久以来的仇恨与悲伤全都消散了。
+　曾经在这样的感情中饱受煎熬的少女……凯尔·迪文斯的存在，现在也消失了。
+
+留下的，只有最强的称号。
+是的，她是唯一的Phantom，仅此而已。
+
+没有取得任何的胜利。
+没有得到任何的东西。
+是的，这场战斗不过是为舍弃这些无用之物而准备的仪式。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……呵」
+
+<CLEAR><BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　掉转S&W的枪口，少女再一次地扣动了扳机。
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%sR
+说教台上的怀表被打得粉碎。
+这是一直以来都引导着她的证物，但现在已经没有存在的必要了。
+
+　从今以后，她的子弹将不再包含任何的感情，仅仅是为了用弹头的灼热散布绝对的死亡。
+
+Phantom。
+带着这最强的称号，成为恐怖的代名词。
+除此之外，任何东西对她来说都是没有意义的。
+
+　不管是身为凯尔时的感情，还是身为Drei时的憎恶，全都已经消失了。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「戏已经演完了呦，偷窥的客人」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「你……已经是完美的了」
+
+<BOX type="3">//%sR
+　赛斯·玛斯塔走进了礼拜堂。他的声音充满了敬畏。
+
+<CLEAR><BACKGROUND SRC="3570x1">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%sR
+　在他身后，跟随着手持突击步枪的假面军团。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「太棒了……这次的任务完成的真是太棒了。
+　如今的你已经没有任何弱点了」
+
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样你就满足了？」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「当然」
+
+「虽然过程中有一些意外的变故，不过凭借现在的我的权限，还是可以摆平的」
+
+「在我的庇护下，你可以安心地回到Inferno」
+
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「如果我不希望回去呢？」
+
+<CLEAR><BACKGROUND SRC="3570x1">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%sR
+　赛斯身后的假面少女们不约而同地举起了枪。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「如果你成为了威胁，我就不得不将你铲除」
+
+「……话说回来，这只是无益的冲突。在Zwei死去的现在，你有一定要与Inferno敌对的理由吗？」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「理由什么的，当然没有」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是啊……在这之前，我杀人就需要理由吗？」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="僒僀僗偁偣傝" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「你这家伙……」
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//
+<se id="1" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p1">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%sR
+　正当赛斯发觉自己估计错误的时候，少女已经化作了旋风。
+
+<se id="1" src="02_07_5楢幩" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="僪儔僀擇挌対廵B">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%sR
+　枪声交错响起。
+　少女在5.56mm子弹的攻击中左躲右闪，手中的2把S&W也射出9mm子弹的弹雨。
+  一瞬间，她的面前鲜血四溅。
+
+　没有任何理由，将碰到的东西尽数毁灭，仅此而已。
+　Phantom，这是唯一能够代表她的称号。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<BACKGROUND SRC="INchurch1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+　这一天，最初在礼拜堂中响起的枪声……杀死{姓}{名}，触发丧失与觉醒的那一发子弹……将会引起多么惨烈的持续杀戮呢。
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%w
+　在前碍事的人，在后追杀的人，全都是她的活祭品。
+
+　没有目的地的流浪。
+  永不终结的死斗。
+
+Phantom。
+伴随着无数的憎恨与畏惧，这个名字已经成为了恐怖的传说。
+
+　究竟有多少人死在自己手下……早已回想不起来了。
+
+　事实上，在到达生命的终点之前，她将一直舍弃自己的过去，将它们尽数遗忘。
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+　在这一夜到来之前……自己已经度过了多少个夜晚呢。
+
+//傕偊傜俽俤捛壛
+<se id="2" src="sea" mode="normal" loop="on">
+
+<CLEAR><BACKGROUND SRC="moon2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　被涌上岸边的波浪冲刷着身体的少女望着天上的明月。
+
+　像这样漫然地仰望月亮，已经是很久都未曾有过的事了。
+　唯一记得的那次……是在那个命运之日的前夜。
+
+　在远离这片沙滩的东洋岛国，她曾经望月而泣。。
+　这，已经是很久之前的事了。
+
+<CLEAR><BACKGROUND SRC="僪儔僀昹曈偱巰朣">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　带着她的体温，冰冷的海浪从被鲜血染红的沙滩上退去了。
+　她很清楚，自己的伤已经无可救治了。
+
+　自己在毫无察觉的情况下从背后被击中了。
+　这样冷不防的突然袭击，不是半吊子能做出的举动。
+
+<BOX type="4">//%w
+「……真是，了不起啊……」
+
+<CLEAR><BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="10">
+//傕偊傜俽俤捛壛
+<se id="1" src="嵒昹曕偔" mode="normal" loop="off">
+
+<BOX type="3">//%sR
+　踩踏着沙子的脚步声响起，Phantom扭头看向声音传来的方向。
+
+当死神迫近的时候，一定会是这样的姿态吧。
+正如她想的那样，站在她面前的是……一位拥有黑色双瞳的女子。
+
+<BOX type="4">//%sR
+「……从那以后已经过去多久了？」
+
+<BUSTUP NAME="傾僀儞巹暈廵" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「2年了」
+
+<BOX type="4">//%sR
+「这样啊……已经2年了啊……」
+
+<BUSTUP NAME="傾僀儞巹暈廵" face="椻徫" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「很漫长啊」
+
+「像今夜这样杀了你……为了这样的目的，我才坚持活到了今天」
+
+<CLEAR><BACKGROUND SRC="僪儔僀昹曈偱巰朣">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「真是令人羡慕啊……」
+
+「我说的……没错吧？　一直以来你都有着能够支撑自己的东西」
+
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="僪儔僀昹曈偱巰朣徫偄">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「不过，那样的东西在今夜也会消失」
+
+　望着冰冷的黑色双瞳，Phantom冷笑道。
+
+「失去憎恨的对手以后，就会……」
+
+「呵，算了，从今以后你也会好好品尝到这份滋味的……」
+
+「你就用余生……尽情享受吧」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<CLEAR><BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　带着不祥的微笑，Phantom留下了这样的话，接着便陷入了永远的沉默。
+
+//傕偊傜俽俤僼僃乕僪
+<se id="2" src="" mode="fadeout" time="50">
+
+<BUSTUP NAME="傾僀儞巹暈2墶" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%sR
+　独自一人待在沙滩上的{ヒロイン}，回想着死去的对手留下的遗言。
+
+　是的，今天以前的日子是非常容易就可以度过的。
+  仇恨令她变得无比强大。
+
+执念给予了她在过去根本想象不到的强大的感情之力。
+因此，{ヒロイン}才毫无迷惘地熬过了严酷的每一天。
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+//<bgm src="Silence_s" mode="fadein" old="fadeout" time="0" loop="off">//$ tema.swa 0 255
+　可是，从今以后呢？
+　战斗的意义在这里消散了。
+  如今的自己，还剩下什么呢？
+
+<BUSTUP NAME="傾僀儞巹暈2墶偆偮傓偒" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+　是的，什么都没有。
+
+　如今的她空虚的如同一具尸骸。
+　在她身为无名杀手的时候，从未像这样被空虚感折磨过。
+
+<CLEAR><BACKGROUND SRC="moon2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　仰望着楚楚闪亮的明月，{ヒロイン}无声地留下了眼泪。
+
+<CLEAR><BACKGROUND SRC="傾僀儞尒忋偘媰偒">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“……救救我……{名}”
+
+“从今以后……我该怎么办？”
+
+
+//傕偊傜僂僄僀僩
+<wait time="1000">
+<A HREF="1550.txt" OPERATOR="">//~ 1550

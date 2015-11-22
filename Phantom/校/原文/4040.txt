@@ -1,0 +1,338 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" time="20" loop="on">//> left INchurch2 wide 255
+<CLEAR><BACKGROUND SRC="INchurch4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%sR
+　倒れ臥した{名}の骸を、少女は虚ろな眼差しで見つめていた。
+
+　彼を殺す、まさに今この瞬間を、何度心に思い描いたか……
+　そのとき胸を満たす感慨が何なのか、それを確かめたいばかりに、彼女は今日まで駆けてきた。
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+“何か感じるはずだって、ずっとそう思ってた……”
+
+“なのに……どうしてだ？　何もない。……頭がカラッポになったみたいだ……”
+
+<CLEAR><BACKGROUND SRC="INchurch7">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　ただ一発の銃弾に、憎しみも悲しみも果てた。
+　それらの想いに身を焦がした少女……キャル・ディヴェンスという存在も今は亡い。
+
+　ただひとつ残ったのは、
+　最強の称号。
+　そう、彼女はただ一人のファントム。ただそれだけの存在だった。
+
+　何を勝ち取ったわけでもない。
+　得る物など何もありはしない。
+　そう、これは余計なものを
+　捨て去るための儀式だったのだ。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……フン」
+
+<CLEAR><BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　S&Wの銃口を横に逸らすと、
+　彼女はもう一度、引金をひいた。
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%sR
+　説教台の上の懐中時計が、粉微塵に砕けて消滅する。
+　今日の日まで彼女を導いた確執の証。だがもうそれも必要ない。
+
+　これより彼女の放つ銃弾は、いかな想いがこもる事もなく、ただ絶対の死を運ぶばかりの灼熱に過ぎなくなるのだから。
+
+　ファントム。最強の称号で、恐怖の代名詞として地上に在る。
+　そう在るためだけの彼女には、それ以外の無駄な物など何一つ残っていない。
+
+　キャルであった頃の想いも、
+　ドライであった頃の憎悪も、
+　すべてが消え去った。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「幕は下りたよ。覗き見のお客さん」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「お前は……もはや完璧だな」
+
+<BOX type="3">//%sR
+　礼拝堂に踏み込んできたサイス・マスターの声音には、畏敬の念さえ滲んでいた。
+
+<CLEAR><BACKGROUND SRC="3570x1">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%sR
+　背後には自動小銃を手にした仮面の一団が控えている。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「よくぞ……
+　よくぞそこまで仕上がった。
+　今のお前には非の打ち所もない」
+
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんたはそれで、満足か？」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「もちろんだとも」
+
+「ここに至るまでの齟齬は些細なものだ。今の私の権限で、どうとでも決着がつけられる」
+
+「君は私の庇護のもと、安心してインフェルノに復帰出来るぞ」
+
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたしがそれを、望まなければ？」
+
+<CLEAR><BACKGROUND SRC="3570x1">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%sR
+　サイスの背後に控えていた仮面の少女たちが、機会仕掛けのように呼吸を合わせて自動小銃を構える。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「君が脅威となるのなら、
+　むろん排除せざるを得ない」
+
+「……が、益のない衝突だ。ツヴァイを仕留めてのけた今、敢えてインフェルノと敵対する理由がどこにある？」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<CLEAR><BACKGROUND SRC="INchurch6">//
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「理由なんてないさ。もちろん」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だからさ……この先、あたしが誰かを殺すのに、理由なんてもんが必要なのかい？」
+
+<CLEAR><BACKGROUND SRC="INchurch3">//
+<BUSTUP NAME="サイスあせり" face="" MODE="on" zoom="" ALIGN="left">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sR
+「貴様は……」
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//
+<se id="1" src="kick" mode="normal" time="" loop="off" effect="">//!se kick
+<CLEAR><BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="3720p1">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%sR
+　おのれが目算を誤ったことに、ようやくサイスが気付いた時にはもう、すでに少女は旋風と化していた。
+
+<se id="1" src="02_07_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="ドライ二丁拳銃B">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%sR
+　交錯する銃声の斉唱。
+　身を翻した少女の陰を追う5.56mmロシアン弾は空を切り、2挺のS&Wオートが吐き出した9mm弾の雨は過たず鮮血の飛沫を散らす。
+
+　理由などない。触れた物はすべからく死に至る。それが彼女の在りようだという、ただそれだけのこと。
+　ファントム。それが今の彼女を示す唯一無二の称号だった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<BACKGROUND SRC="INchurch1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+　その日、礼拝堂で最初に轟いた銃声……{姓}{名}を殺し、喪失と覚醒をもたらした一発の銃弾を皮切りに、戦って、戦い抜いて……どれだけの殺戮を積み重ねてきたのだろうか。
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%w
+　立ち塞がる者、追いすがる者、
+　すべて彼女の生贄だった。
+
+　あてもない放浪、
+　終わりのない死闘。
+
+　ファントム。ただその名に寄せられる憎悪と畏怖だけが積み重なり、伝説を綴っていく。
+
+　そんな風にして、どれほどの屍の山を築いたか……もう思い出すことも叶わない。
+
+　事実、彼女は終点に至るまで、過ぎ去った日々を顧みることさえ忘れていた。
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+　そして……その夜を迎えるまでに、いったいどれほどの夜を越えてきたのだろうか。
+
+//もえらＳＥ追加
+<se id="2" src="sea" mode="normal" loop="on">
+
+<CLEAR><BACKGROUND SRC="moon2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　打ち寄せる波に半身を洗われながら、彼女は月を眺めていた。
+
+　そんな風にただ漫然と月を見上げるなど、久しくなかったことだ。
+　記憶にある限りでは……そう、あの運命の日の前夜。
+
+　この砂浜から遠く離れた東洋の島国で、彼女は月を眺めて泣いたことがあった。
+　もう、ずいぶん昔の話になる。
+
+<CLEAR><BACKGROUND SRC="ドライ浜辺で死亡">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　寄せる波は冷ややかに彼女の体温を奪い、真紅に染まってから砂浜を退く。
+　処置しようのない致命傷なのは、自分でも判っていた。
+
+　気配さえなく、後ろから撃たれた。
+　他ならぬ彼女の不意を討つなど、
+　生半可なことではない。
+
+<BOX type="4">//%w
+「……ホント、大した腕前だな……」
+
+<CLEAR><BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="10">
+//もえらＳＥ追加
+<se id="1" src="砂浜歩く" mode="normal" loop="off">
+
+<BOX type="3">//%sR
+　砂を踏むかすかな足音に、ファントムは視線を向ける。
+
+　死に神に追いつかれるときは、きっとこんな姿で立ち現れるだろうと、そう彼女が予想していた通りの……それは黒い瞳の女だった。
+
+<BOX type="4">//%sR
+「……あれから、どのくらい経つ？」
+
+<BUSTUP NAME="アイン私服銃" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「2年よ」
+
+<BOX type="4">//%sR
+「そう……もう、そんなになるんだ……」
+
+<BUSTUP NAME="アイン私服銃" face="冷笑" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「長かったわ」
+
+「今夜、こうしてあなたを殺すこと……それだけを考えて、わたしは今日まで生きてきた」
+
+<CLEAR><BACKGROUND SRC="ドライ浜辺で死亡">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「そいつぁ羨ましい話だね……」
+
+「だって……そうだろ？　今日までのあんたには、ちゃんと自分を支えてくれるものがあったんだ」
+
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="ドライ浜辺で死亡笑い">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「でももう、それも今夜で終わりだよ」
+
+　冷ややかな黒い瞳に、ファントムは力ない冷笑を返す。
+
+「憎む相手さえ亡くした後は、そりゃもう……」
+
+「ふふ、マァいいさ。これから、たっぷり味わうんだからな。あんたも……」
+
+「せいぜい、余生を……愉しむこった」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<CLEAR><BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　不吉な微笑でそう言い捨てると、
+　それきりファントムは沈黙した。
+
+//もえらＳＥフェード
+<se id="2" src="" mode="fadeout" time="50">
+
+<BUSTUP NAME="アイン私服2横" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%sR
+　独り砂浜に取り残された{ヒロイン}は、ついに仕留めた標的の言い遺した言葉に想いを馳せる。
+
+　そう、今日までの日々は容易かった。
+　憎しみが彼女を強くした。
+
+　執念という、かつては想像もつかなかった感情の力を得て、{ヒロイン}は何の迷いもなく苛烈な日々を乗り越えてきた。
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+//<bgm src="Silence_s" mode="fadein" old="fadeout" time="0" loop="off">//$ tema.swa 0 255
+　だが、今日からは？
+　戦う意味がここに潰えて、
+　これより先の自分には、
+　いったい何が残されているのか。
+
+<BUSTUP NAME="アイン私服2横うつむき" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+　そう、何もない。
+
+　今の彼女は骸よりなお虚ろだった。
+　かつて名もなき暗殺者であった頃でさえ、これほどの虚無感に苛まれたことはない。
+
+<CLEAR><BACKGROUND SRC="moon2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　楚々と光る月を仰ぎ見て、{ヒロイン}は声もなく涙に暮れた。
+
+<CLEAR><BACKGROUND SRC="アイン見上げ泣き">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“……助けて……{名}”
+
+“私、これから……どうすればいい？”
+
+
+//もえらウエイト
+<wait time="1000">
+<A HREF="1550.txt" OPERATOR="">//~ 1550

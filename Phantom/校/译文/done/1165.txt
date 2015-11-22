@@ -1,0 +1,22 @@
+<BOX type="0">//%w
+  说起来，这次的任务就像是在暗中持续进行调查一样。
+  所以自然应当选择轻便、小巧的手枪……
+
+　话虽如此，一旦袭击梧桐组的敌人出现，没有能够与之对抗的火力是不行的。
+
+　如果对方穿着防弹背心怎么办？
+  如果对方是驾车来袭又怎么办？
+  真的是有数不清的问题要考虑。
+
+　犹豫过后，我拿起了沙漠之鹰。
+  全凭直觉好了……
+　毕竟，对方驾车袭击的可能性应该是很高的。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="20_01a">//
+<CALC WORKNAME="廵" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僨僓乕僩僀乕僌儖">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僨僓乕僩僀乕僌儖2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Ie">//
+<A HREF="1170a.txt" OPERATOR="1127=1">//~ 1170a
+<A HREF="1170.txt" OPERATOR="">//~ 1170
+0

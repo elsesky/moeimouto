@@ -1,0 +1,250 @@
+
+<MARKER NAME="#MUSICMODE">
+<CALC workname="fRepeat" operator="0">
+<CALC workname="fRepeatAll" operator="0">
+<BACKGROUND SRC="extra\SOUND_back">
+
+<CHOICE TYPE="10" HREF="#01"   FILE="data\sound_001_a.png;data\sound_001_b.png;data\sound_001_b.png" x="302" y="89">
+<CHOICE TYPE="10" HREF="#02"   FILE="data\sound_002_a.png;data\sound_002_b.png;data\sound_002_b.png" x="302" y="105">
+<CHOICE TYPE="10" HREF="#03"   FILE="data\sound_003_a.png;data\sound_003_b.png;data\sound_003_b.png" x="302" y="121">
+<CHOICE TYPE="10" HREF="#04"   FILE="data\sound_004_a.png;data\sound_004_b.png;data\sound_004_b.png" x="302" y="137">
+<CHOICE TYPE="10" HREF="#05"   FILE="data\sound_005_a.png;data\sound_005_b.png;data\sound_005_b.png" x="302" y="153">
+<CHOICE TYPE="10" HREF="#06"   FILE="data\sound_006_a.png;data\sound_006_b.png;data\sound_006_b.png" x="302" y="169">
+<CHOICE TYPE="10" HREF="#07"   FILE="data\sound_007_a.png;data\sound_007_b.png;data\sound_007_b.png" x="302" y="185">
+<CHOICE TYPE="10" HREF="#08"   FILE="data\sound_008_a.png;data\sound_008_b.png;data\sound_008_b.png" x="302" y="201">
+<CHOICE TYPE="10" HREF="#09"   FILE="data\sound_009_a.png;data\sound_009_b.png;data\sound_009_b.png" x="302" y="217">
+<CHOICE TYPE="10" HREF="#10"   FILE="data\sound_010_a.png;data\sound_010_b.png;data\sound_010_b.png" x="302" y="233">
+<CHOICE TYPE="10" HREF="#11"   FILE="data\sound_011_a.png;data\sound_011_b.png;data\sound_011_b.png" x="302" y="249">
+<CHOICE TYPE="10" HREF="#12"   FILE="data\sound_012_a.png;data\sound_012_b.png;data\sound_012_b.png" x="302" y="265">
+<CHOICE TYPE="10" HREF="#13"   FILE="data\sound_013_a.png;data\sound_013_b.png;data\sound_013_b.png" x="302" y="281">
+<CHOICE TYPE="10" HREF="#14"   FILE="data\sound_014_a.png;data\sound_014_b.png;data\sound_014_b.png" x="302" y="297">
+<CHOICE TYPE="10" HREF="#15"   FILE="data\sound_015_a.png;data\sound_015_b.png;data\sound_015_b.png" x="302" y="313">
+<CHOICE TYPE="10" HREF="#16"   FILE="data\sound_016_a.png;data\sound_016_b.png;data\sound_016_b.png" x="302" y="329">
+<CHOICE TYPE="10" HREF="#17"   FILE="data\sound_017_a.png;data\sound_017_b.png;data\sound_017_b.png" x="302" y="345">
+<CHOICE TYPE="10" HREF="#18"   FILE="data\sound_018_a.png;data\sound_018_b.png;data\sound_018_b.png" x="302" y="361">
+<CHOICE TYPE="10" HREF="#19"   FILE="data\sound_019_a.png;data\sound_019_b.png;data\sound_019_b.png" x="302" y="377">
+<CHOICE TYPE="10" HREF="#20"   FILE="data\sound_020_a.png;data\sound_020_b.png;data\sound_010_b.png" x="302" y="393">
+<CHOICE TYPE="10" HREF="#21"   FILE="data\sound_021_a.png;data\sound_021_b.png;data\sound_021_b.png" x="302" y="409">
+<CHOICE TYPE="10" HREF="#22"   FILE="data\sound_022_a.png;data\sound_022_b.png;data\sound_022_b.png" x="302" y="425">
+<CHOICE TYPE="10" HREF="#23"   FILE="data\sound_023_a.png;data\sound_023_b.png;data\sound_023_b.png" x="302" y="441">
+<CHOICE TYPE="10" HREF="#24"   FILE="data\sound_024_a.png;data\sound_024_b.png;data\sound_024_b.png" x="302" y="457">
+<CHOICE TYPE="10" HREF="#25"   FILE="data\sound_025_a.png;data\sound_025_b.png;data\sound_025_b.png" x="302" y="473">
+<CHOICE TYPE="10" HREF="#26"   FILE="data\sound_026_a.png;data\sound_026_b.png;data\sound_026_b.png" x="302" y="489">
+<CHOICE TYPE="10" HREF="#27"   FILE="data\sound_027_a.png;data\sound_027_b.png;data\sound_027_b.png" x="302" y="505">
+<CHOICE HREF="#nosoundback" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<CHOICE TYPE="17" HREF="#repeat" FILE="data\repeat_sw_001.png;data\repeat_sw_002.png;data\repeat_sw_003.png;data\repeat_sw_003.png;data\repeat_sw_002.png;data\repeat_sw_003.png" x="521" y="25" disable="fRepeat">
+<WIPE EFFECT="fade" TIME="10">
+<SELECT cursorname="data\sound_cursor.png#16">
+<MARKER NAME="#loop">
+
+<CHOICE TYPE="10" HREF="#01"   FILE="data\sound_001_a.png;data\sound_001_b.png;data\sound_001_b.png" x="302" y="89">
+<CHOICE TYPE="10" HREF="#02"   FILE="data\sound_002_a.png;data\sound_002_b.png;data\sound_002_b.png" x="302" y="105">
+<CHOICE TYPE="10" HREF="#03"   FILE="data\sound_003_a.png;data\sound_003_b.png;data\sound_003_b.png" x="302" y="121">
+<CHOICE TYPE="10" HREF="#04"   FILE="data\sound_004_a.png;data\sound_004_b.png;data\sound_004_b.png" x="302" y="137">
+<CHOICE TYPE="10" HREF="#05"   FILE="data\sound_005_a.png;data\sound_005_b.png;data\sound_005_b.png" x="302" y="153">
+<CHOICE TYPE="10" HREF="#06"   FILE="data\sound_006_a.png;data\sound_006_b.png;data\sound_006_b.png" x="302" y="169">
+<CHOICE TYPE="10" HREF="#07"   FILE="data\sound_007_a.png;data\sound_007_b.png;data\sound_007_b.png" x="302" y="185">
+<CHOICE TYPE="10" HREF="#08"   FILE="data\sound_008_a.png;data\sound_008_b.png;data\sound_008_b.png" x="302" y="201">
+<CHOICE TYPE="10" HREF="#09"   FILE="data\sound_009_a.png;data\sound_009_b.png;data\sound_009_b.png" x="302" y="217">
+<CHOICE TYPE="10" HREF="#10"   FILE="data\sound_010_a.png;data\sound_010_b.png;data\sound_010_b.png" x="302" y="233">
+<CHOICE TYPE="10" HREF="#11"   FILE="data\sound_011_a.png;data\sound_011_b.png;data\sound_011_b.png" x="302" y="249">
+<CHOICE TYPE="10" HREF="#12"   FILE="data\sound_012_a.png;data\sound_012_b.png;data\sound_012_b.png" x="302" y="265">
+<CHOICE TYPE="10" HREF="#13"   FILE="data\sound_013_a.png;data\sound_013_b.png;data\sound_013_b.png" x="302" y="281">
+<CHOICE TYPE="10" HREF="#14"   FILE="data\sound_014_a.png;data\sound_014_b.png;data\sound_014_b.png" x="302" y="297">
+<CHOICE TYPE="10" HREF="#15"   FILE="data\sound_015_a.png;data\sound_015_b.png;data\sound_015_b.png" x="302" y="313">
+<CHOICE TYPE="10" HREF="#16"   FILE="data\sound_016_a.png;data\sound_016_b.png;data\sound_016_b.png" x="302" y="329">
+<CHOICE TYPE="10" HREF="#17"   FILE="data\sound_017_a.png;data\sound_017_b.png;data\sound_017_b.png" x="302" y="345">
+<CHOICE TYPE="10" HREF="#18"   FILE="data\sound_018_a.png;data\sound_018_b.png;data\sound_018_b.png" x="302" y="361">
+<CHOICE TYPE="10" HREF="#19"   FILE="data\sound_019_a.png;data\sound_019_b.png;data\sound_019_b.png" x="302" y="377">
+<CHOICE TYPE="10" HREF="#20"   FILE="data\sound_020_a.png;data\sound_020_b.png;data\sound_010_b.png" x="302" y="393">
+<CHOICE TYPE="10" HREF="#21"   FILE="data\sound_021_a.png;data\sound_021_b.png;data\sound_021_b.png" x="302" y="409">
+<CHOICE TYPE="10" HREF="#22"   FILE="data\sound_022_a.png;data\sound_022_b.png;data\sound_022_b.png" x="302" y="425">
+<CHOICE TYPE="10" HREF="#23"   FILE="data\sound_023_a.png;data\sound_023_b.png;data\sound_023_b.png" x="302" y="441">
+<CHOICE TYPE="10" HREF="#24"   FILE="data\sound_024_a.png;data\sound_024_b.png;data\sound_024_b.png" x="302" y="457">
+<CHOICE TYPE="10" HREF="#25"   FILE="data\sound_025_a.png;data\sound_025_b.png;data\sound_025_b.png" x="302" y="473">
+<CHOICE TYPE="10" HREF="#26"   FILE="data\sound_026_a.png;data\sound_026_b.png;data\sound_026_b.png" x="302" y="489">
+<CHOICE TYPE="10" HREF="#27"   FILE="data\sound_027_a.png;data\sound_027_b.png;data\sound_027_b.png" x="302" y="505">
+<CHOICE HREF="#back" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+<CHOICE TYPE="17" HREF="#repeat" FILE="data\repeat_sw_001.png;data\repeat_sw_002.png;data\repeat_sw_003.png;data\repeat_sw_003.png;data\repeat_sw_002.png;data\repeat_sw_003.png" x="521" y="25" disable="fRepeat">
+<WIPE EFFECT="normal" TIME="0">
+<SELECT cursorname="sound_cursor.png#16">
+
+<MARKER NAME="#nosoundback">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="extramenu" OPERATOR="">
+
+<MARKER NAME="#back">
+<BGM SRC="l_inferno" MODE="fadein" OLD="fadeout" TIME="20" Loop="on">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="extramenu" OPERATOR="">
+
+<MARKER NAME="#01">
+<A HREF="#01_loop" OPERATOR="fRepeat=1">
+<BGM SRC="dream" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#01_loop">
+<BGM SRC="dream" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#02">
+<A HREF="#02_loop" OPERATOR="fRepeat=1">
+<BGM SRC="dark" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#02_loop">
+<BGM SRC="dark" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#03">
+<A HREF="#03_loop" OPERATOR="fRepeat=1">
+<BGM SRC="days" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#03_loop">
+<BGM SRC="days" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#04">
+<A HREF="#04_loop" OPERATOR="fRepeat=1">
+<BGM SRC="intriguer" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#04_loop">
+<BGM SRC="intriguer" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#05">
+<A HREF="#05_loop" OPERATOR="fRepeat=1">
+<BGM SRC="fight" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#05_loop">
+<BGM SRC="fight" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#06">
+<A HREF="#06_loop" OPERATOR="fRepeat=1">
+<BGM SRC="REQUIEM" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#06_loop">
+<BGM SRC="REQUIEM" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#07">
+<A HREF="#07_loop" OPERATOR="fRepeat=1">
+<BGM SRC="desert2" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#07_loop">
+<BGM SRC="desert2" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#08">
+<A HREF="#08_loop" OPERATOR="fRepeat=1">
+<BGM SRC="SPEED" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#08_loop">
+<BGM SRC="SPEED" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#09">
+<A HREF="#09_loop" OPERATOR="fRepeat=1">
+<BGM SRC="elen" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#09_loop">
+<BGM SRC="elen" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#10">
+<A HREF="#10_loop" OPERATOR="fRepeat=1">
+<BGM SRC="lonely" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#10_loop">
+<BGM SRC="lonely" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#11">
+<A HREF="#11_loop" OPERATOR="fRepeat=1">
+<BGM SRC="OPERA" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#11_loop">
+<BGM SRC="OPERA" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#12">
+<A HREF="#12_loop" OPERATOR="fRepeat=1">
+<BGM SRC="days2" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#12_loop">
+<BGM SRC="days2" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#13">
+<A HREF="#13_loop" OPERATOR="fRepeat=1">
+<BGM SRC="city" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#13_loop">
+<BGM SRC="city" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#14">
+<A HREF="#14_loop" OPERATOR="fRepeat=1">
+<BGM SRC="school" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#14_loop">
+<BGM SRC="school" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#15">
+<A HREF="#15_loop" OPERATOR="fRepeat=1">
+<BGM SRC="croudia" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#15_loop">
+<BGM SRC="croudia" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#16">
+<A HREF="#16_loop" OPERATOR="fRepeat=1">
+<BGM SRC="daylight2" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#16_loop">
+<BGM SRC="daylight2" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#17">
+<A HREF="#17_loop" OPERATOR="fRepeat=1">
+<BGM SRC="speed2" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#17_loop">
+<BGM SRC="speed2" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#18">
+<A HREF="#18_loop" OPERATOR="fRepeat=1">
+<BGM SRC="days3" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#18_loop">
+<BGM SRC="days3" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#19">
+<A HREF="#19_loop" OPERATOR="fRepeat=1">
+<BGM SRC="MIO" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#19_loop">
+<BGM SRC="MIO" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#20">
+<A HREF="#20_loop" OPERATOR="fRepeat=1">
+<BGM SRC="calling" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#20_loop">
+<BGM SRC="calling" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#21">
+<A HREF="#21_loop" OPERATOR="fRepeat=1">
+<BGM SRC="fight2" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#21_loop">
+<BGM SRC="fight2" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#22">
+<A HREF="#22_loop" OPERATOR="fRepeat=1">
+<BGM SRC="daylight" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#22_loop">
+<BGM SRC="daylight" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#23">
+<A HREF="#23_loop" OPERATOR="fRepeat=1">
+<BGM SRC="cyallend" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#23_loop">
+<BGM SRC="cyallend" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#24">
+<A HREF="#24_loop" OPERATOR="fRepeat=1">
+<BGM SRC="tomorrow" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#24_loop">
+<BGM SRC="tomorrow" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#25">
+<A HREF="#25_loop" OPERATOR="fRepeat=1">
+<BGM SRC="P_Land_S" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#25_loop">
+<BGM SRC="P_Land_S" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#26">
+<A HREF="#26_loop" OPERATOR="fRepeat=1">
+<BGM SRC="flyshort1" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#26_loop">
+<BGM SRC="flyshort1" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#27">
+<A HREF="#27_loop" OPERATOR="fRepeat=1">
+<BGM SRC="Silence_s" MODE="fadein" OLD="fadeout" TIME="20" loop="off"><A HREF="#loop">
+<MARKER NAME="#27_loop">
+<BGM SRC="Silence_s" MODE="fadein" OLD="fadeout" TIME="20" loop="on"><A HREF="#loop">
+
+<MARKER NAME="#repeatAll">
+<CALC workname="fRepeatAll" operator="$1-fRepeatAll"><A HREF="#loop">
+
+<MARKER NAME="#repeat">
+<CALC workname="fRepeat" operator="$1-fRepeat"><A HREF="#loop">
+

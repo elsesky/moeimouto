@@ -1,0 +1,460 @@
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　なぜ……生き延びる？
+　そう、冷えていく心に問いかける。
+
+　守るものも、失うものもなく、
+　目指す場所さえ失って、
+　なのになぜ今、もう一度、命を掴み取ろうとしているのか？
+
+　それは……
+　遠い日に、そう約束したからだ。
+
+　誰よりも強く、
+　誰よりも高く、
+
+　そう生きた彼女に憧れて、
+　そう在りたいと願ったから。
+
+　誇り高く在ることを、
+　命ある限り、決して屈しないことを、
+　眩く尊い面影に、心の中で誓っていたから。
+
+　生きる理由は消え失せても、その誓いだけは残っている。
+
+　怯まずに、自分自身を恐れずに、
+　誰もが恐れる、ケダモノに……
+
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="hangar">//#! hangar 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_requiem" mode="fadein" old="fadeout" time="10" loop="on">//$ requiem.swa 0 255
+　振り向くスピードも、狙いの的確さも、
+　後にも先にもないほどに完璧だった。
+　ファントムの異名に恥じぬ一撃だったと、そう胸を張って言える。
+
+　素人同然の女一人を撃ち殺した、この一発は。
+<se id="1" src="down" mode="normal" time="" loop="off" effect="">//!se down
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　頽れたクロウディアの傍らに、そっと足を運ぶ。
+
+<CLEAR><BACKGROUND SRC="1760p4">//# 1760p4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　弾丸は肋を貫通し、おそらくは肺を撃ち抜いていた。
+
+　震え、咳き込む彼女の口から、血の飛沫が散る。
+　もっとも苦痛が多く、しかも助かりようがない銃創だった。
+　呼吸の度に激痛があるはずだ。
+
+　……見るに耐えなかった。
+　手の中の銃には、あと一発。
+　早く、とどめを刺してやった方がいい。
+
+　壊れ物を扱うように、
+　そっと彼女の上体を抱き上げ、こめかみに銃口を添える。
+
+<BOX type="5">//%sR
+「……待って」
+
+<BOX type="0">//%w
+　薄く目を開け、消え入りそうな声で……クロウディアは抗議した。
+
+<BOX type="5">//%sR
+「まだ、目、見えるから」
+
+「もう少し、
+　あなたの顔を見ていたい」
+
+「だから、私が目を閉じたら……
+　それから、楽にして」
+
+<BOX type="0">//%w
+「クロウディア……」
+
+<BOX type="5">//%sR
+「そうよ……もっと、呼んで。
+　名前……」
+
+「……もっと触って……
+　抱き寄せて……
+　もっと、もっと近く」
+
+<BOX type="0">//%w
+「クロウディア……」
+
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+　力なく震えながら、クロウディアの瞼が下りていく。
+
+<BOX type="5">//%sR
+「わたし、酷い女だったのに……
+こんな幸せで……いいのかしら？」
+
+「こんな風に……
+　あなたに、抱いて、もらえる、
+　なん……て……」
+
+<BOX type="0">//%w
+「愛してるよ。クロウディア」
+
+「今までも、これからも、俺達はずっと一緒だよ……」
+
+　微笑みとともに、クロウディアの瞼が閉ざされる。
+
+　視野に映っていた最期の像が、目に焼き付いているうちに、
+　囁いた愛の言葉が、耳に残っているうちに、
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　……間に合ったはずだ。
+　断言していい。
+　殺しにかけては……自信がある。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1760x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="30">
+<wait time="1500">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1760x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「待ちかねたよ。ファントム」　
+
+<BOX type="5">//%sR
+『すぐ答えなくていいと
+　言ったのは、あんただろ』
+
+<BOX type="4">//%sL
+「その通りだ。君にも考える時間が必要だったろうからな」
+
+「で、私が待っただけの甲斐は
+　あるのかね？」
+
+<BOX type="5">//%sR
+『クロウディアは始末した。
+　例のディスクも、ここにある』
+
+<BOX type="4">//%sL
+「結構だ」
+
+「君の英断については、
+　誰もが高く評価することだろう」
+
+「大船に乗ったつもりでいい。
+　安心して帰ってきたまえ」
+
+<BOX type="5">//%sR
+『その英断に至るまでに、ざっと
+　10人は死なせてるんだが？』
+
+<CLEAR><BACKGROUND SRC="1760x0">//# 1760x0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「その辺の責は、
+　亡きミズ＝マッキェネンに
+　負ってもらうとしよう」
+
+「君はただ、
+　忠実だっただけのこと……
+　上手く口裏を合わせたまえよ」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left airport2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="airport2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　通話を終えて、BMWに乗り込み、エンジンをスタートさせる。
+
+　助手席に乗せたクロウディアは……
+　一見、ただ微睡んでいるだけかと見紛うほどに、
+　いつもと変わらず美しかった。
+
+　こんな風に、かつて何度、その美貌に見入ったことだろうか。
+
+　ここは、二人だけの世界だった。
+　守るべきも、信じるべきも、ただ一人、あなただけだった。
+
+　そのあなたが死んだ今、
+　もはやこの世に、尊いものなど、ありはしない。
+
+　ただ、敵がいるだけだ。
+
+　最後まで、二人で生きていくことを許さなかった、
+　おびただしい敵の群れ。
+　この世界……そのもの。
+
+　さあ、戻るとしよう。
+　憎むべき敵たちの許へ。
+　この身に約束された栄光を享受するために。
+
+　屈辱とは、思わない。
+
+　この命の繋がる限り、それは敗北ではないのだと、
+　それが、この世でもっとも尊い人に教わった真理だから。
+
+　あなたの命と引き替えに、繋ぎ止めたこの命。
+　無駄にはしない。
+　決して、負けはしない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="2000">
+<BACKGROUND SRC="5年後">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7">//%w
+<k>
+//$ 0 0 0
+
+//※５年後
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> after5 news1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="news1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+『犯罪発生率、5年連続の激減』
+
+『犯罪の世紀は終わった……
+　FBI長官、真の新世紀への展望』
+
+//> right room3 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ご覧ください。
+　この微笑ましい紙面を」
+
+<BOX type="2">//%w
+<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　満面に笑みを浮かべて、サイス＝マスターは、居並ぶ重鎮に朝刊を掲げ見せた。
+
+　……その日、LAで一堂に会した面々は、まさしく全米を影で動かす男たちだった。
+　秘密結社インフェルノの、10回目に当たる総会である。
+
+<BOX type="5">//%sR
+「記事にある通り、全米の犯罪は、
+　かつてないほどに
+　鎮静傾向にあります」
+
+「その一方で、我々の収益もまた、飛躍的に向上している。これを共存共栄と呼ばずして何でしょう？」
+
+「すべては、無益な競争と衝突、利己的な独占が解消され、各組織間の連帯と友好が確立された結果です」
+
+「我々のビジネスは、相互の連帯によって、かつてないほど組織化され巧みな隠蔽で保護されています」
+
+「今や全米の全ての犯罪結社は、我らインフェルノの旗の下に集い、共通の利益を求めて提携しています」
+
+「麻薬、売春、恐喝、密輸……すべてが、皆様の強力により、完全な統制下に置かれています」
+
+「法相の方々には、今後とも偽りの平穏に酔いしれて頂くとして……」
+
+<BOX type="2">//%w
+そこで座の端々から漏れた笑いを、サイスは笑顔で手を上げて制する。
+
+<BOX type="5">//%sR
+「我々もまた、新世紀への展望を
+　打ち立てる頃合いです。
+　犯罪の世紀は、まさに今……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="room3">//#! room3 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%w
+得意絶頂の演説に割り込んだのは、一斉に轟いたマシンガンの応酬だった。
+
+<se id="2" src="波止場銃撃" mode="normal" time="" loop="on" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　和やかな会談の場が、一転して阿鼻叫喚の地獄絵図へと変じる。
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　その様相を、サイスは茫然自失の体で見守るしかなかった。
+<se id="1" src="18_03" mode="normal" time="" loop="on" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BUSTUP NAME="サイスあせり" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　一体、これは……
+　どういうことなのだ？
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　ここはサイスが誇る最高の人員によって警護されていたというのに……
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　だが、見守るうちにサイスは、
+　真の驚愕に打ちのめされる。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　眼前で繰り広げられる虐殺の主導者こそ……紛れもなく、彼の誇る
+“最高の人員”たちであった。
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+　己の洗脳技術の粋を集めて調教し、選りすぐった親衛隊……
+
+<se id="2" src="" mode="fadeout" time="10">
+//<se id="2" src="" mode="normal" time="" loop="off" effect="">//!se 
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　いま凶行に及んでいるのは、忠実な僕である筈の、少女たちだった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　霧のように立ちこめた硝煙と、絨毯を覆う血の海のせいで、
+　かつて豪奢に飾られた室内も、
+　今はまるで密林の沼沢のような有様だった。
+
+　そこかしこに転がる骸を蹴り分けて進みながら、
+　棒立ちになっているサイスに歩み寄る。
+
+<BUSTUP NAME="サイスあせり" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ファントム……」
+
+<BOX type="2">//%w
+　驚愕のあまり血の気の退いた顔は、案の定、愉快な見物だった。
+
+　サイスの驚きも無理はない。
+　手塩にかけて育て上げた親衛隊に、
+　今こうして銃口を向けられているのだから。
+
+<BOX type="5">//%sR
+「これは……一体、どういう……」
+
+<CLEAR><BACKGROUND SRC="1760p2">//# 1760p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「俺はアインを知っている」
+
+「あんたがアインで得たノウハウをもとに、調教されたこの子たちは、
+　俺にとっては知己同然さ」
+
+　仕事を終え、周囲に集った少女たちから、
+　一途な信頼と依存の眼差しが浴びせられる。
+
+　彼女らの忠誠と献身は、昨日まで、サイスの甘受していたものだった。
+
+　だが、この男は最期まで、気付かなかったのだ。
+　この少女たちを真に掌握していたのが、誰なのか。
+
+　一人一人を懐柔するのは、造作もなかった。
+　サイスの許の少女らの、満たされぬ渇きも、心の弱さも、
+　こちらはすべて承知の上だ。
+
+「まるきり、あんたのやり方だろう？」
+
+「この5年、俺はあんたに学んできたからな」
+
+<CLEAR><BACKGROUND SRC="room3">//# room3 1 sice3 20
+<BUSTUP NAME="サイスあせり" face="" MODE="on" zoom="" ALIGN="right">//# room3 1 sice3 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「ふざけるな……」
+
+<BOX type="0">//%w
+　腕を振って、サイスは殺戮の跡を示す。
+
+<BOX type="5">//%sR
+「これが、
+　わたしから学んだ成果だと？
+　こんな無粋な手口が!!」
+
+<BOX type="0">//%w
+　口から泡を飛ばし狼狽するサイスの様は、
+　見ているだけで昔年の溜飲が下がった。
+
+「あんた一人だけに学んだわけじゃない」
+
+「統べ方はあんたに教わり、殺し方はアインに教わった」
+
+「だが、一番肝心なことを教えてくれたのは、あんたたちじゃない」
+
+「……裏切り方を教えてくれたのは、な」
+
+<BOX type="5">//%sR
+「小僧が……」
+
+<BOX type="0">//%w
+　絶望と憎悪に、サイスの顔がどす黒く染まる。
+
+<BOX type="5">//%sR
+「わたしの夢を……
+　わたしの帝国を……
+　貴様のような小僧一人が……」
+
+<BOX type="0">//%w
+「もう充分楽しんだだろ？　あんたも」
+
+　笑いを噛み殺しながら、懐から{銃}を抜く。
+
+「そろそろ、お休みの時間だよ。サイス。あの世でアインが待ってるぞ」
+
+<BOX type="5">//%sR
+「ツヴァイ……!!」
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="room3">//#! room3 1
+<WIPE EFFECT="fade" TIME="0">
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<A HREF="1760b.txt" OPERATOR="1127=1">//~ 1760b
+<A HREF="1760c.txt" OPERATOR="">//~ 1760c

@@ -1,0 +1,30 @@
+//> left 1020x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="F40走行150室内" mode="normal" time="" loop="off" effect="">//!se F40cruise
+<BACKGROUND SRC="1020x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<BOX type="0">//%w
+　クロウディアの付き人を務めるうちに、
+　F40の運転にも、だいぶ馴れていた。
+
+　蛇行するマルホランド＝ドライブの峠道では、
+　高速コーナーにはないスリルを堪能するのが恒例のことになっていたが、
+　今夜は敢えて、飛ばさなかった。
+
+<BOX type="5">//%sR
+「……攻めないの？」
+
+<BOX type="0">//%w
+「たまには、のんびり流すのもいいさ」
+
+　何気ない風を装っていても、
+　その実、今夜は彼女も、そういう気分じゃあるまい。
+
+<A HREF="1022a.txt" OPERATOR="0200=1">//~ 1022a
+<A HREF="1022a.txt" OPERATOR="0255=1">//~ 1022a
+<A HREF="1022b.txt" OPERATOR="">//~ 1022b

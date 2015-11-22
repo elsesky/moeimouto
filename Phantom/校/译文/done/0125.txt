@@ -1,0 +1,52 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left slum1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="slum1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　虽然Inferno是一个危险的集团，
+  但暗杀毕竟是最终的手段，
+  杀手的出场并不会十分频繁。
+
+　在这3个月里，实际执行暗杀任务和进行相关准备工作的时间，加起来总共也不到3周
+
+<BOX type="0">//%w
+　即便如此，也不代表着新人暗杀者和他的教练可以休息。
+  在空闲的时候，我会被Ein带到街上去。
+
+　走路的姿势、视线的聚散、地铁和出租车的使用方法……
+  混入人群的伪装技巧。
+
+　掌握杀人技术后，
+  所要进行的，成为一个普通美国市民的训练。
+
+　现在，我即使一个人在街上散步，也不会感到害怕。
+
+　自己对交谈很有自信，
+  读写方面虽然还没能达到流利读报纸的程度，
+  但是广告和道路标示已经完全没有问题了。
+
+<CLEAR><BACKGROUND SRC="slum4">//# slum4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　当然，暗杀术的课程还在继续补充授业中。
+
+　毒药的知识。跟踪、监视、窃听的技巧以及对策。
+
+<CLEAR><BACKGROUND SRC="factory">//# factory 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　如果长时间没有任务安排的话，我们也会回到废弃工厂住几天，
+  不分日夜地进行战斗训练。
+
+　从洛杉矶乘车到工厂大概需要2个多小时。
+  在这个远离高速公路，在地图上也找不到的废墟里，
+  即使是用大炮轰击也不会有人注意到。
+
+　最近的特训内容，将重点转移到了专门的爆破和狙击上。
+
+<A HREF="0130.txt" OPERATOR="">//~ 0130

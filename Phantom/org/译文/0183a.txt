@@ -1,0 +1,16 @@
+<BOX type="0">//%w
+　最后，我决定选一直使用的“蟒蛇”。
+  虽然是性质不同的任务，
+  不过，还是带着用惯了的枪比较好。
+
+　由于不知道自己要应付怎样的场面，
+　我在转轮中交替装填了穿甲弹和空尖弹。
+  （空尖弹，即hollow-point，集中目标后会以命中的点为中心炸开，对人拥有极高杀伤力）
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="僷僀僜儞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僷僀僜儞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="python_幩寕">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Cm">//
+<CALC WORKNAME="0183a" OPERATOR="1">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

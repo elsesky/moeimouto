@@ -1,0 +1,141 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right room3 wide 255 inferuno1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　马格维雅静静地听着赛斯·玛斯塔详细的陈述，一句话也没有说。
+
+　没有惊讶也没有愤怒，马格维雅的内心所充斥的只有沉重的疲惫感。
+
+　从梧桐组的加盟到维斯梅尔的死，早在这一连串事件发生的时候，马格维雅就已经从中察觉到了什么。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　因此，他才会有兴趣听取赛斯这个消失了1年的被放逐者的解释。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「刚才，接到了莉兹·加兰德的紧急联络」
+
+「虽然难以置信……赛斯·玛斯塔，我就当相信你好了」
+
+<BOX type="2">//%w
+　可是，洗清冤屈、重返Inferno的目的如果是为了潜伏下来伺机而动……
+
+　难道说，这个男人是黑帮加盟者们派来的监视者吗。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　而且，现在赛斯提出的解决方案，也丝毫没有考虑自己的意见。
+
+<BOX type="4">//%sL
+「抛开手段不谈，梧桐大辅的成就对我们还是有价值的」
+
+「虽然1年前的可卡因抢夺事件对Inferno也算是个沉重的打击」
+
+「不过，现在梧桐组独占的远东毒品市场的利润是我们之前损失的好几倍」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「此外，为了体现我们Inferno的情义……」
+
+「知道了真相以后，马上对内部进行肃清的志贺先生的这份果断，也希望您能够接受」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　马格维雅看了一眼这个低头不语地站在一旁的日本人。
+
+<BOX type="4">//%sL
+「你认为我们该怎么做？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「以志贺先生为窗口，维持Inferno和梧桐组的同盟」
+
+「虽然梧桐组因为一部分人的专横妄为而损失了不少颜面，不过Inferno也是一样」
+
+「所以我们应当携手合作，尽早让伤口痊愈」
+
+<BOX type="2">//%w
+　这的确是权衡利弊后得出的最佳方案。
+
+　虽然一开始Inferno是破格以优厚的条件与梧桐组谈判的，不过现如今，梧桐组的利益要求将以惩罚的形式缩小。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……好吧」
+
+「志贺先生，关于挑唆你同胞的克劳蒂娅·麦肯宁……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Inferno将负责给予她最严厉的制裁」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「感激不尽，马格维雅先生」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「虽然我们已经在调查克劳蒂娅的行踪……」
+
+「但问题还是Phantom。
+　那个男人至今依然下落不明」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是这样啊……」
+
+「如果可以的话，马格维雅先生……」
+
+「能允许我派Ein去追踪他吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno1 19
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喔……」
+
+「新旧Phantom的对决吗。
+　有意思，就交给你了」
+
+<A HREF="1500.txt" OPERATOR="1450b=1">//~ 1500
+<A HREF="1600.txt" OPERATOR="1470a=1">//~ 1600
+<A HREF="1900.txt" OPERATOR="">//~ 1900

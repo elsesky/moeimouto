@@ -1,0 +1,60 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　谁都不是……
+
+　我能理解如此感叹的她内心中的痛苦。
+
+　与我知道自己丧失记忆时一样的、绝望的恐怖感。
+  无论怎样都无法遗忘。
+
+　仿佛是被丢在真空中，
+  感觉自己的存在从这个世界上消失了似的。
+
+　不安、
+  寂寞、
+  失去所有依靠的恐惧。
+
+　无法忘记。
+  那个时候，自己被迫体会到了一切。
+
+　自己是什么人？
+  如果不知道这个的话，人是无法活下去的。
+
+　所以，面前的这个女孩子才会如此哭泣。
+　
+　既然这样……
+
+「既然这样，我给你起个新的名字吧」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……新的，名字？」
+
+<BOX type="0">//%w
+　她好象没有明白我的意思，
+  茫然地看着我问道。
+
+「没错，是名字」
+
+「一个不再是杀手，不再是木偶，而是作为你自己活下去的名字」
+
+　该起什么名字呢？
+　不是别名也不是数字，更像是人的名字，
+  适合普通女孩子的名字……
+
+<NAMEENTRY NAME="ヒロイン" DEF="艾伦">
+<calc workname="Gヒロイン" operator="ヒロイン" mode="global">
+
+//> name2 motel wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="motel">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<CALC WORKNAME="0260" OPERATOR="1">//
+<A HREF="0260a.txt" OPERATOR="">//~ 0270
+

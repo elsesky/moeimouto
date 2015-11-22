@@ -1,0 +1,173 @@
+//> right passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「さて、アイン」
+
+「おまえは今夜すでに、ツヴァイを捕捉しているはずだ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^3 19
+<BUSTUP NAME="elen6" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……はい」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なぜ、取り逃がした？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^2 19
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……申し訳ありません」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怖いのか？　ツヴァイが」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^3 19
+<BUSTUP NAME="elen6" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……質問を変えよう」
+
+「アイン、
+　おまえにツヴァイは殺せるか？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^2 19
+<BUSTUP NAME="elen6" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6 19
+<BUSTUP NAME="elen6" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……彼は、
+　格段に成長しています」
+
+「対決すれば、死ぬのは、
+　わたしかもしれません」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「なるほど。
+　それが、おまえの望みか」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^3 19
+<BUSTUP NAME="elen6" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうやらお前も、
+　限界のようだな。アイン」
+
+<BOX type="2">//%w
+　一年前、暴走したツヴァイの影響を受け、その精神力を著しく損なったアイン。
+
+　一時期は立ち直ったかのように見えたが、結局はそれも、上辺だけの回復だった。
+　彼女の戦闘能力の劣化は、やはり致命的だったようだ。
+
+　この一年の苦難の日々は、弱体化したアインといえども、唯一、自由にできる貴重な手駒だったが、インフェルノへの復帰を果たした今、もはや節制を心がける必要もない。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「まぁ、良かろう。
+　すでにお前は、
+　充分に役目を果たしている」
+
+<BOX type="2">//%w
+　アインによって得られたデータや教訓により、サイスは自身の洗脳調教術を、システムとして確立していた。今はもう、より低コストに、短時間に、アインと同じ完全兵士を育成できる。
+
+<BOX type="5">//%sR
+「アイン。お前は私の習作として、
+　充分にその役を果たしたものと
+　認めよう」
+
+「ツヴァイを抹殺した暁には、
+　アイン、
+　お前にも安息を許可する」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^4 19
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これを、
+　最後の任務としてやろう」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「現ファントム、
+　ツヴァイを抹殺しろ」
+
+「ただし、
+　帰還し報告する必要はない」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^4 19
+<BUSTUP NAME="elen6" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　その言葉の意味する冷酷な意味に、少女の胸を漣が走る。
+
+　帰還する必要がない……
+　つまり、この最後の任務では、
+　死ぬことも許可されている。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これで、戦略の幅が広がるな？」
+
+<BOX type="2">//%w
+　非情さと慈愛とは、相反するものではない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 elen6^8 19
+<BUSTUP NAME="elen6" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 elen6^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　その証に、サイスの冷たい微笑みに向けられたのは、まぎれもない感謝の眼差しだった。
+
+<BOX type="4">//%sL
+「ありがとうございます。マスター……」
+
+<A HREF="1600.txt" OPERATOR="1470a=1">//~ 1600
+<A HREF="1510.txt" OPERATOR="1127=1">//~ 1510
+<A HREF="1515.txt" OPERATOR="">//~ 1515
+

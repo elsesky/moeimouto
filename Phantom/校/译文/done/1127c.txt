@@ -1,0 +1,50 @@
+「抱歉啊，凯尔……」
+
+　对这个孩子说谎实在是令我良心不安，可这也是没办法的事。
+
+「我突然想起有急事」
+
+<BUSTUP NAME="cyall2" face="8" MODE="on" zoom="" ALIGN="right">//# cyall2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎～？」
+
+「我明明想要给你好好做一顿晚饭的说……」
+
+<BOX type="0">//%w
+「抱歉，我要出去一下」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「很快就回来吗？」
+
+<BOX type="0">//%w
+「嗯？　啊，也许吧……」
+
+　我没有想得太远，就这样含糊地回答了她。
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「OK。那我就好好准备上一顿大餐吧」
+
+「你要快些回来哦。不然饭菜凉了就不好吃了」
+
+<BOX type="0">//%w
+「嗯……」
+
+//> left street0b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street0b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　当我拿着高尔夫的钥匙走出阁楼的时候……突然想到。
+
+　这是怎么搞的，为什么我又对凯尔说谎了呢。
+
+<A HREF="1133.txt" OPERATOR="">//~ 1133

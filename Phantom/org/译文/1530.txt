@@ -1,0 +1,35 @@
+　……我太累了，已经一步都不愿再向前走了。
+　被克劳蒂娅背叛、又没能保护凯尔，我已经受够这样的自己了。
+
+　可是，现在还不能休息。
+
+　在{ヒロイン}可以一个人活下去之前，再坚持一段时间吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightField wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　走到外面，风向改变了，漆黑的夜幕正渐渐变得明亮。
+  早晨，就要来临了。
+
+「那时我们是朝北逃的」
+
+「这一次，我们朝南走吧」
+
+<BUSTUP NAME="elen6" face="8" MODE="on" zoom="" ALIGN="right">//# elen6^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<BOX type="0">//%w
+　虽然是和上次一样的、没有目的地的旅行，但是我的心却很轻松。
+  
+  因为，这次从一开始，身边就有{ヒロイン}的笑容。
+
+<A HREF="1540.txt" OPERATOR="">//~ 1540

@@ -1,0 +1,21 @@
+<calc workname="スタッフロール" operator="1" mode="global">
+//> stuff dummy center 255
+<clear>
+<bgm src="" mode="fadeout" time="80" loop="off">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//Phantom of Inferno
+　
+<clear>
+<BACKGROUND SRC="phantm_end">
+<WIPE EFFECT="fade" TIME="20">
+//<bgm src="Silence_s" mode="normal" loop="off">
+//<SYSTEM CMD="ending" ROLL="staff">
+<wait time="3000">
+<clear>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="20">
+
+<a href="endcomp.txt">

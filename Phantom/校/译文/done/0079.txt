@@ -1,0 +1,82 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightField wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="nightField">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　太阳又一次落下。
+　今天的训练结束了。
+
+//> left room1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="radioCH" mode="normal" time="" loop="off" effect="">//!se radioCH
+　我打开收音机，听着混有电子杂音的英语新闻。
+<se id="1" src="radioCH2" mode="normal" time="" loop="off" effect="">//!se radioCH2
+
+  平时的话Ein会沉默着坐在我边上，
+  为我解释不能理解的词语。
+  今夜，她则在做着外出的准备。
+
+　这种事我已经不觉得稀奇了。
+　Ein时不时就会在夜晚的时候出门。
+
+　是任务吧。
+　是又要去把谁杀掉的工作吧？
+
+　虽然这么想，但总觉得质问她并不妥当……
+  所以对这种事，自己一次也没有再问过。
+
+　不知不觉间，收音机广播的声音再也传不进耳朵，
+  取而代之的是，鼓膜所捕捉到的……
+  打破夜晚沙漠寂静的、汽车的排气声。
+
+　是来接Ein的车。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　站起来的Ein，瞥了我一眼。
+
+　一如既往的、窥视不出任何情感的眼睛。
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　要去哪里呢？
+　自己既想知道，又不想知道。
+
+　要问她吗……不问吗……
+
+　但是，没有迷惑的时间了。
+　……就像平常那样去做吧。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　Ein背对着我，走出了房间。
+
+//もえらＳＥフェード
+<se id="1" src="" mode="fadeout" time="20">
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　结果，今夜又是沉默着目送她离开。
+
+<A HREF="0080.txt" OPERATOR="0030c=1">//~ 0080
+<A HREF="0080.txt" OPERATOR="0070l=1">//~ 0080
+<A HREF="0090.txt" OPERATOR="">//~ 0090

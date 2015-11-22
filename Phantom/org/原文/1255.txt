@@ -1,0 +1,172 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage3ex wide 255 crou^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="passage3ex">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「状況は？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「問題ないよ」
+
+「おおよそ半径半キロ内が、
+　インフェルノの制圧下だ」
+
+「西海岸じゅうの
+　インフェルノメンバーが、
+　こぞって兵隊を貸してくれた」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ただな……」
+
+「ランディっていたろ？
+　ワイズメルの懐刀。
+　あいつの姿が見えねぇ」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「何か……やらかす気かな？
+　ワイズメルは」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何とも言えないわね。
+　この時点では」
+
+<BOX type="5">//%sR
+「用心だけは、怠らないで」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それとな、向こうは向こうで、
+　ファントムがいねぇって
+　騒いでるぜ」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いったい、どこで油売ってんだ？　ボウヤは」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……さあ？　どうしたのかしら」
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いよぅ、どうした？
+　二人揃って、
+　いったい何の相談だ？」
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 rizy^8 19
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# crou^2 20 rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「今日という今日は、
+　トラブル抜きだぞ。
+　これ以上、私に恥をかかせるな」
+
+//> right hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「全員、準備は整いました」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 godo 19
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 godo 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「おうよ」
+
+<BOX type="3">//%m
+　応じながら、梧桐は姿見の前で
+　スーツの襟を正す。
+
+　懐に呑んだ
+　獲物の膨らみは、
+　さして目を引くことはない。
+
+　志賀に用意させた銃は、
+　舎弟たち全員に行き渡っている。
+
+　別段、こういったものに詳しい
+わけではない梧桐は、とりあえず、ひときわ凶悪に見える一挺を選んでおいた。
+
+<CLEAR><BACKGROUND SRC="m_93r_000">//# dummy 19 m_93r_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　なんでも1回引金を引くだけで、
+マシンガンのように3発の弾が連射されるらしい。
+
+　模造リボルバーやトカレフとは
+明らかに違う銃把の感触に、梧桐は一層、奮い立っていた。
+
+　武者震いを呼ぶ高揚感。銃というものの破壊的なイメージが、懐から滲み出て総身に行き渡っていくような気分。
+
+<CLEAR><BACKGROUND SRC="hotel1">//# hotel1 1 godo^3 19
+<BUSTUP NAME="godo" face="3" MODE="on" zoom="" ALIGN="left">//# hotel1 1 godo^3 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「こうで、なくっちゃな」
+
+<BOX type="3">//%m
+　いつ死装束になろうとも構わない
+　白の上下とチャカ一挺。
+　背負った龍の彫り物に、
+　まるで息吹が宿ったようだ。
+
+<BOX type="4">//%sL
+「これが男の花道ってもんよ。
+　なぁ志賀」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どこなりと
+　お供させていただきます」
+
+<calc workname="gun15" operator="1" mode="global">
+<A HREF="1260.txt" OPERATOR="1230a=1">//~ 1260
+<A HREF="1272.txt" OPERATOR="">//~ 1272
+ 1260
+<A HREF="1272.txt" OPERATOR="">//~ 1272

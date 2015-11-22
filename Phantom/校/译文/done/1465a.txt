@@ -1,0 +1,157 @@
+<BOX type="5">//%sR
+「没错，我就是个背叛者。不管是以前，还是现在」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="4">//%sL
+「你……已经完了」
+
+「干掉梧桐大辅他们的是Inferno的人吧。大家都已经察觉到真相了，组织可不是你这样的笨蛋」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^7 20
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哦，是这样吗」
+
+「那我只好逃跑了呢。逃到Inferno的势力范围外」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「在美国不存在那样的地方!」
+
+「这你应该明白吧……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^7 20
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　尽管如此，克劳蒂娅依旧没有丝毫动摇，只是游刃有余地笑着。
+
+<BOX type="5">//%sR
+「既然这样，创造一个不就好了」
+
+「比如说，东海岸的冈宾诺家族……」
+
+「虽然那里面的Inferno加盟者都很有实力」
+
+「不过，他们还没有彻底掌握实权」
+
+「这个时候，要是加盟者的名字被公布，会怎么样呢？」
+
+<BOX type="0">//%w
+　毫无疑问。
+  Inferno对东海岸的渗透将化为乌有。
+
+　冈宾诺内部的Inferno加盟者会被尽数清理吧。
+
+　到现在为止，Inferno之所以能在东海岸确立自己的优势，完全是靠自身的隐秘性。
+  即使是纽约的同盟者，也只是被动地接受Inferno的差遣。
+  一切都是为了让Inferno这个组织隐藏在迷雾之中。
+
+　可是，假如克劳蒂娅倒戈的话？
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「难道说，你……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^7 20
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你猜的没错哦。我已经准备好名单了」
+
+「还有Inferno会议的出席记录和所有的证据呢」
+
+<BOX type="0">//%w
+　……克劳蒂娅没有向我们隐瞒。
+
+　她不仅觊觎霸权，甚至已经为此做好了万全的准备。
+
+　克劳蒂娅从加入Inferno的时候起，就已经盘算好要从组织的内部下手了吗。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你究竟要堕落到什么地步!?」
+
+<BOX type="0">//%w
+　这次轮到莉兹怒吼着质问克劳蒂娅了。
+
+事到如今，她也不得不相信自己一直以来信赖着的好友已经彻底背叛了。
+
+<BOX type="4">//%sL
+「我一直相信着你……」
+
+「因为你的头脑比我更好，所以有些事即便不能理解，我还是愿意接受」
+
+「可是这一次，我不明白，我真的不明白……」
+
+「你做到这个地步究竟是为了什么？　钱吗!?　权利吗!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「既然不能明白，我也就不用多说什么了」
+
+<BOX type="0">//%w
+　即便是看到好友如此愤怒，克劳蒂娅依旧不为所动。
+
+<BOX type="5">//%sR
+「只是，一直以来我都比你更加肮脏」
+
+「……再见了，莉兹」
+
+「谢谢你前来告知我。
+　托你的福我可以马上动身了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　转过身想要离开的克劳蒂娅，
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se 
+　被扳起枪机的声音阻止了。
+
+<clear>
+<BACKGROUND SRC="儕僘傿廵2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　莉兹手中拿着HARDBALLER，长长的枪管正对着克劳蒂娅的后背。
+
+<BOX type="4">//%sL
+「……等一等，克劳」
+
+「如果你真的想要出卖同伴的话……我就打死你」
+
+<BOX type="0">//%w
+　与她那咬牙切齿的声音相反，枪口正微微地颤动着。
+
+<BACKGROUND SRC="hotel2">//
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅只是回过头来，无言地望了一眼莉兹，之后便不打算再说一句话。
+
+<clear>
+<BACKGROUND SRC="儕僘傿廵2">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「克劳蒂娅!!」
+
+<clear>
+<BACKGROUND SRC="儕僘傿廵2_b">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　莉兹紧紧地握着枪把，手背上的青筋条条暴起。
+
+<A HREF="1470b.txt" OPERATOR="">//~ 1470b

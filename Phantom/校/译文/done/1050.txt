@@ -1,0 +1,200 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left houseC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="houseC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我先驾驶F40返回克劳蒂娅的住所，换上车库中的高尔夫。
+
+　虽然很对不住克劳蒂娅，不过今天就由莉兹送她回家吧。
+
+<CLEAR><BACKGROUND SRC="city1">//# city1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　在上高速公路之前，我去市里的花店买了一束白百合。
+
+　如果遇到死者的亲人朋友，这个或许可以派上用场。
+
+//> left street2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　即使是在白天，破落的贫民街上依旧看不到几个人影。
+
+　快到现场时，我放慢车速，
+  一边假装寻找停车的地方，一边观察着周围的情况。
+
+　空弹壳和墙壁上的子弹被做了标记，然而路面上的血痕并没有被洗掉，保持着原来的样子。
+  看来谁都没有在意。
+
+　……不出所料，在茱蒂尸体的标记旁边有一个人。
+  应该不是什么看热闹的家伙。
+
+　我将高尔夫停在路边，拿着花下了车。
+
+<CLEAR><CLEAR><BACKGROUND SRC="1050p1">//# 1050p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这是一个抱着膝盖，背靠墙壁坐着的少女……
+
+　她眼神黯然地看着用粉笔勾画出来的茱蒂的遗体轮廓。
+
+　虽然看起来像是个无家可归的孩子，但她却没有经常露宿街头的样子。
+　衣服虽然很旧，但并没有污垢，气色也还不错。
+
+身边有一个特大的旅行包。
+如果在市外的高速公路边上见到，应该会把她当成离家出走的搭车少女吧。
+
+<CLEAR><BACKGROUND SRC="street2a">//# street2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我在她的身旁停了下来，少女抬起头，用她那翡翠色的眼睛看着我。
+
+　她看我的目光很讶异，
+  于是我在脑中又过了一遍临时想好的台词。
+
+「茱蒂·迪文斯是在这里死的吗？」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你是谁？」
+
+<BOX type="0">//%w
+　嘶哑细弱的声音。
+  声嘶力竭地哭过之后，谁的声音都会变成这样。
+
+「我为她送东西来了」
+
+　我将花束放在了路边。
+
+　弥漫着重重尘雾的柏油路，在昨天晚上甚至将鲜血也吸了进去。
+　放在上面的一簇纯白色的百合花，显得异常突兀。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是谁啊？」
+
+<BOX type="0">//%w
+「这么说来，你是茱蒂的朋友吗？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　少女没有回答，视线又回到了勾勒着茱蒂轮廓的白线上。
+  她的回答有点暧昧。
+
+「茱蒂有恩于我」
+
+　尽管我说的都是些毫无根据的谎话，但我确实有很多东西必须向这个女孩询问。
+  所以，我必须靠这样取得她的信任。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你是茱蒂的常客？」
+
+<BOX type="0">//%w
+「……这么说也可以」
+
+「不过，我并不希望我们以那种关系结束。
+  ……已经，太迟了」
+
+　沉默再次降临。
+  远处的港口和高速公路的喧闹声随着风传了过来。
+
+「你也是茱蒂的朋友吗？」
+
+<BOX type="5">//%sR
+「……是妹妹」
+
+<BOX type="0">//%w
+　少女喃喃地说道。
+  这次轮到我惊讶了。
+
+　昨晚死在这里的女人是个黑人，可是眼前的这个少女却是个白人。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……什么啊，有肤色不同的妹妹很奇怪吗？」
+
+<BOX type="0">//%w
+「不……」
+
+　我没有再往下追究。
+  莉兹曾经说过，茱蒂有个室友……是这个女孩吗？
+
+　可以确定的是……这个女孩在悼念逝去的故人。
+  而且，虽然她在极力抑制，但还是可以看得出她胸中的愤怒。
+
+　她的心中有点动摇了吧。
+
+　或许这样有些太心急了，不过我还是直接奔向了主题。
+
+「是谁杀了茱蒂？」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你觉得我会知道吗？」
+
+<BOX type="0">//%w
+「一点线索都没有吗？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你的意思是说茱蒂有被杀的理由么」
+
+<BOX type="0">//%w
+　少女用眼睛瞪着我，语调低沉了下来。　
+
+　她的眼中充满了愤怒。
+
+　茱蒂没有任何错，却被杀死了……
+　至少这个女孩是这么认为的。
+
+　这个死去的妓女确实只是一个过路人吧。
+　就算不是这样，她的这个“妹妹”估计也什么都不知道。
+
+　不管怎样，从她身上不会再得到什么有价值的情报了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……抱歉啊，问了个冒失的问题」
+
+　我轻轻地笑了笑，躲过了少女怀疑的目光。
+
+　再待下去也没有意义了。到头来还是白跑一趟，什么线索都没有找到。
+
+　最后，我为这个跟我毫无关系的妓女默哀了一会儿，然后就打算离开了。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……等等」
+
+「如果找到开枪的家伙，你要怎么做？」
+
+<BOX type="0">//%w
+<A HREF="#スルー" OPERATOR="1022a=1">
+<A HREF="#スルー" OPERATOR="0350=1">
+
+<A HREF="1050a.txt" OPERATOR="">//~ 1050a
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="1050a.txt" TEXT="＊回答她" OPERATOR=""></A>//{ ＊答える 1050a ＊無視する 1050b
+<CHOICE HREF="1050b.txt" TEXT="＊无视她" OPERATOR=""></A>//{ ＊答える 1050a ＊無視する 1050b
+　

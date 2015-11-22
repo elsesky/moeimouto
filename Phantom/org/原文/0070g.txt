@@ -1,0 +1,40 @@
+　急に、
+　なんだか自分がひどく浅ましいことをしているような気分になった。
+
+　こんな風に、裸も同然の女の子をじろじろ眺めていいわけがない。
+
+　気付かれていないのが、むしろ余計に後ろめたかった
+
+　まるで無抵抗な相手を一方的に虐めているような気がする。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　わざと寝返りを打つふりをして、アインに背を向けた。
+
+　そんな風に、むりやり視線を逸らしてやっと、
+　重苦しいプレッシャーから解放された。
+　手の平に汗が滲んでいる。
+
+//もえらＳＥ追加
+<se id="2" src="アイン寝る用意" mode="normal" loop="off">
+
+<se id="1" src="zipper" mode="normal" time="" loop="off" effect="">//!se zipper
+　背中越しに、寝袋のジッパーを閉める音がして……
+　それきり部屋はまた静かになった。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　アイン……
+　本当に今日、
+　君は誰かを殺してきたのか？
+
+　やがて、意識は眠りの淵へと
+　引き込まれていった。
+
+<A HREF="0076.txt" OPERATOR="">//~ 0076

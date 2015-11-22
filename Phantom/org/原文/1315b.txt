@@ -1,0 +1,227 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「出来たよーっ」
+
+<BOX type="0">//%w
+　銃の分解清掃をしていると、台所からキャルの弾むような声がした。
+
+<BOX type="5">//%sR
+「持っていくから、テーブルの上、
+　片づけといて」
+
+<BOX type="0">//%w
+「……ああ」
+
+<se id="1" src="kitchen3" mode="normal" time="" loop="off" effect="">//!se kitchen3
+<CLEAR><BACKGROUND SRC="1100p1">//# 1100p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャルが来て以来、毎日の食事は一大イベントになっていた。
+
+<se id="1" src="kitchen5" mode="normal" time="" loop="off" effect="">//!se kitchen5
+　いちいちテーブルの全面積を使わなければならない食事というのは、
+　昔なら鬱陶しく思えただけだったろうが、
+　その支度のための、いっときの慌ただしさは、不思議と空気を和ませる。
+
+<se id="1" src="kitchen2" mode="normal" time="" loop="off" effect="">//!se kitchen2
+　あれから何度か、ちょっとしたレストランに連れていってやったのだが、
+　たったそれだけの経験で、キャルの料理はまた格段に進歩した。
+
+　口にした味なら真似できるという宣言は、
+　どうやら誇張ではないらしい。
+　事実、ずいぶん安上がりに旨いものが口に出来るようになった。
+　食材まで一流のものを揃えれば、
+　本当にシェフと張り合えるんじゃないかと思うほどだ。
+
+<CLEAR><BACKGROUND SRC="room0a2">//# room0a2 1
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あのさ」
+
+「街で噂に聞いたんだけど……
+　ブラディーズのアイザックが
+　死んだって、本当？」
+
+<BOX type="0">//%w
+　ギャングスターの怪死の噂は、その真相を抜きにして、
+　ようやく衆人の知るところとなっていた。
+
+　無論、彼の死に至る経緯については、闇に葬られたままだ。
+
+　そして、ランディの死に様を見たキャルには、
+　そのボスのワイズメルこそ、ジュディの仇の黒幕だと教えてあった。
+
+「本当だよ」
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃあ、終わりなんだね。
+　仇討ち……」
+
+<BOX type="0">//%w
+　キャルの笑顔とは裏腹に、胸の内が重くなる。
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……どしたの？」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「もしかして……
+　マズかった？　味付け」
+
+<BOX type="0">//%w
+「いや、違うんだ」
+
+　ジュディの死に関わったすべての人間が仇だと……
+　キャルがそう言うのなら、
+　生き残った梧桐とその一味も、許されざる仇敵だ。
+
+　そして、晴れて梧桐が加盟を果たしたインフェルノと、
+　その一員である自分もまた。
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ところでさ」
+
+「{名}に頼んだ殺しの
+　代金の、差額なんだけど……」
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……どうすればいい？
+　あたし、助手らしいことなんて
+　ロクにしてないよ」
+
+<BOX type="0">//%w
+　一瞬、何のことかと途方に暮れかかって、
+　危ういところでキャルを引き留めていた口実を思い出す。
+
+「律儀な奴だな、おまえ」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これからも、
+　他の殺しとか手伝おうか？」
+
+<BOX type="0">//%w
+　冗談じゃない。
+　本気なのか？　この子は。
+
+　だが確かに、アイザックが死んだからといって、
+　今すぐキャルを手放していいかとなると……いまだ不安は残る。
+
+　インフェルノに『ファントムの助手候補』として紹介してあるキャルを、
+　どう組織の手から逃がすか。
+
+　いずれキャルが持ち込んだ500万ドルは、
+　何の疑念を呼ぶこともなく、インフェルノを経て梧桐の手に戻る。
+
+　意外なことに、
+　まだ誰もワイズメルの別荘を調べようとする者がいないのだが、
+　それも時間の問題だろう。
+
+　それまでは、もうしばらく手元に置いて、様子を窺った方がいい。
+
+　そのための口実を立てて、キャルを納得させねばならないが、
+　まさか助手を続行させるわけにもいかない。
+
+　助手の話をなしにして、なおかつ、彼女を引き留める口実となると……
+
+「殺しの助手はいらないが、この料理の腕は惜しいな」
+
+「よし」
+
+「しばらく住み込みのメイドとして雇ってやる。差額分はそれでチャラだ」
+
+<BUSTUP NAME="cyall3" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「メイド!?」
+
+<BOX type="0">//%w
+　何のつもりか、またしても目を輝かせるキャル。
+
+「……嬉しいのか？　メイドも」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やってみたかったんだもん。
+　一度」
+
+「だってメイドさんの服って、
+　すっごくカワイイじゃん」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「着てみたかったんだ。昔っから」
+
+<BOX type="0">//%w
+「……着ないでいいぞ」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え～？」
+
+「……服、なしぃ？」
+
+<BOX type="0">//%w
+「なし!!」
+
+　どこぞの豪邸ならいざ知らず、こんな狭い部屋で、
+　きっちりお仕着せを着たメイドがうろついていたんじゃ、
+　ただの変態趣味だ。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……じゃ、
+　殺し屋の方がいいよぅ。
+　カッコイイし」
+
+<BOX type="0">//%w
+「駄目だ」
+
+<BOX type="5">//%sR
+「……つまんないの」
+
+<BOX type="0">//%w
+　こっちの気苦労を知ってか知らずか、キャルはむくれて口を尖らせる。
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でもさ、
+　ホントのとこ、どうだった？
+　あたしの殺し屋修行」
+
+「才能あったかなぁ、あたし？」
+
+<BOX type="0">//%w
+　笑顔で訊かれると、つくづく返答に困る。
+　こっちは、思い出すだけで背筋が凍るというのに。
+
+「……まぁ、そこそこに、な」
+
+　適当に濁して、そう答えた。
+
+<A HREF="1350.txt" OPERATOR="1150=1">//~ 1350
+<A HREF="1320.txt" OPERATOR="">//~ 1320

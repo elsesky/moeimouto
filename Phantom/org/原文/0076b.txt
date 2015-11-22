@@ -1,0 +1,334 @@
+<CALC WORKNAME="pyson" OPERATOR="1">//
+<CALC WORKNAME="SWM29" OPERATOR="1">//
+<BOX type="0">//%w
+「練習したピストルと似たような奴で、他にないかな。
+　……もっと大きいのとか、威力があるのとか」
+
+<BOX type="5">//%sR
+「……わかったわ」
+
+<CLEAR><BACKGROUND SRC="python_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そうは言ったものの、
+　アインに渡されたのは、さんざん練習に使ったのと同じ銃だった。
+
+「なあ、これって……」
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 cm 21 dummy 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「弾倉を開けてみて」
+
+<BOX type="0">//%w
+<se id="1" src="02_03" mode="normal" time="" loop="off" effect="">//!se 
+　言われるままにラッチを引いて、
+　弾丸が収まる部分（シリンダーというらしい）を横に押し出す。
+
+　何の変哲もない……そう思ったが、よく見ると弾丸の尻の刻印が違う。
+
+<CLEAR><BACKGROUND SRC="357弾">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+　一発を抜いて、もっとよく観察した。
+　たしかに弾頭の形や素材が違うが、
+　何かもっと、それ以上の違和感を感じる。
+
+<CLEAR><BACKGROUND SRC="room2">//# room2 1 cm 21 dummy 20
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今まで使ってた38スペシャルが、
+　これ」
+
+<BOX type="0">//%w
+　そう言って、アインは別の弾丸をよこした。
+
+　見比べて、はっきりわかった。渡された弾のほうが、薬莢が短い。
+　銃から抜いた弾は、シリンダーの寸法ぎりぎりまで、長さがある。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いま装填されている方が、
+　その銃……コルト＝パイソンの
+　本来の専用弾よ」
+
+「357マグナム弾。薬莢の長さの
+ぶんだけ炸薬が多くなってるの。
+殺傷能力は桁違いよ」
+
+「そのぶん反動も強いから、
+　扱いには注意して」
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　外に出て、マグナム弾を込めたパイソンを構えてみる。
+
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<CLEAR><BACKGROUND SRC="パイソン3">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　当たり前の話だが、構えた感じは何も変わらない。
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<CLEAR><BACKGROUND SRC="#ffffff">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="python_射撃">//# room2 1 cm 21 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　注意された通り、両腕に響く反動はずっと強烈だった。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……だが、素早い連射は無理でも、
+　一発一発のコントロールは、それほど勝手が違うわけじゃない。
+　コツが掴めてくれば、ちゃんと当てられそうだ。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<se id="2" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+//> left factory4b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory4b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="05_01" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+「使えそうだね」
+
+　レンガを20個あまり撃ち砕いたところで、そう感想を漏らした。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「じゃあ、これも試しておいて」
+
+<clear>
+<BACKGROUND SRC="magnum_0000">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……今度の銃は、とてつもなく大きくて重かった。
+　まっすぐ構えているだけで、腕が痺れてしまいそうだ。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1 dummy 20 dummy 21
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「スミス＆ウェッソン社の、
+　モデル29」
+
+「44マグナム……
+“ハンドキャノン”と呼ばれる
+　クラスの拳銃よ」
+
+「人間どころか、
+　自動車のエンジンを撃ち抜いて
+　壊すことだってできるわ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 21
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　恐る恐る、構えてみた。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　この重さになると、
+　腕の先で銃を静止させるだけでも、かなり力を込めなきゃならない。
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　身構えていたにもかかわらず、反動で後ろによろけてしまった。
+
+　銃身はほとんど頭の上まで跳ね上がっている。
+　油断してれば額にぶつけていたかもしれない。
+
+　撃った弾は……どこに飛んだか、見当もつかない。
+
+「……当てられるのか？　こんな銃……」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「たとえ急所を外しても、
+　太めの血管に当てただけで
+　相手は即死よ」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「衝撃で血が逆流して、
+　心臓が破裂するから」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="03_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　何発か撃ってみたが、他の銃と同じ要領で扱える銃じゃなかった。
+
+　構え方から、工夫しなおす必要がある。
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　廃工場の中に、アインは新しい射撃訓練場を設えていた。
+
+　立ち並ぶ鉄骨の支柱の間に、幾条もワイヤーロープを張り巡らし、
+　そのあちこちにベニヤ板の標的が、いくつも吊られている。
+
+　ワイヤーは、50ccの原動機とギアボックスで、吊られている標的ごと
+　ベルトコンベアのように動きまわる仕組みになっているようだ。
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今日からは、
+　動く標的で訓練して」
+
+「実戦では、標的は必ず動き回っていると思っていいわ。むしろ
+静止目標を狙う機会のほうが希よ」
+
+<BOX type="0">//%w
+　そう言って、アインは原動機を始動させた。
+<se id="1" src="motor" mode="normal" time="" loop="off" effect="">//!se motor
+　けたたましいエンジン音に引きずられて、
+　ずるずるとワイヤーが動き出す。
+
+　滑車の径や数に工夫があるらしく、
+　それぞれの標的の動く方向やスピードは、どれもまちまちだ。
+　これは、難しいかもしれない。
+
+<BOX type="5">//%sR
+「暗くても、表でやったのと要領は同じよ。マズルフラッシュと銃声に惑わされないでね」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="2" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　動く的を狙う。そのこと自体は、思ったほど難しくはない。
+　レンガを的にしていた時から、
+　素早く照準する訓練をさせられていたからだ。
+
+　厄介なのは閃光と轟音だった。
+
+　屋内では銃声が反響し、凄まじい轟音になる。
+　集中力を削がれて、ついつい狙いが甘くなる。
+
+　銃口から迸る火炎……『マズルフラッシュ』はさらにひどい。
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se shotM
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　1発撃つたびに、薄暗い工場内が真昼の明るさに反転する。
+
+　こいつを正視してしまったら終わりだ。
+　網膜に焼きついて、次の照準ができなくなる。
+
+　毎日、日が暮れるころには、
+　床に散らばった空薬莢で、足の踏み場もなくなった。
+
+//> left room1 wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　銃声で鼓膜は痺れ、耳鳴りが頭の芯に染みついて、
+　寝床に入ってもつきまとう。
+
+　相変わらず、徹底的に消耗させられて、燃え尽きるように眠る生活。
+　ただし今度は、先に限界がくるのは体力よりも神経だ。
+　過酷さは肉体鍛錬の比ではない。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="motor" mode="normal" time="" loop="off" effect="">//!se motor
+<wait time="200">
+<box type="0">
+　……心を静め、
+　身体の力を抜いて立つ。
+
+　背後からは、
+　ワイヤーを巡らすエンジンの唸り。
+　右往左往する標的たちの気配。
+
+「……赤。手前から5枚まで」
+
+//> left factory wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="factory">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BOX type="0">//%w
+　声にあわせて踵を返す。
+　視野を覆うのは、色とりどりのマーキングをされたベニヤ板、20枚。
+
+　銃を構える一瞬の動作……
+　その間に、目は指示されたターゲットをすべて補足し終えている。
+
+　赤い標的、一番手前のものから5枚目まで……
+“位置”を“見て、確かめる”のではない。
+
+　動く方向、スピード、すべてを読み取り、
+　そして5つの“居場所”を“感じ取る”……
+
+<se id="1" src="05_02_5連射" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　あとはただ、5回続けてトリガーを引く。
+
+“狙って、撃つ”を5回繰り返すのではない。
+　一度に狙いを済ませて、一度に撃ち尽くす……
+
+　ようやくコツが掴めてきた。
+
+<calc workname="gun20" operator="1" mode="global">
+<A HREF="#分岐" OPERATOR="0076a=1">
+<A HREF="#分岐" OPERATOR="0076d=1">
+<A HREF="0076d.txt" OPERATOR="">//~ 0076d
+<MARKER NAME="#分岐">
+<A HREF="0078.txt" OPERATOR="0060a=1">//~ 0078
+<A HREF="0079.txt" OPERATOR="">//~ 0079

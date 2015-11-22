@@ -1,0 +1,128 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left hotel2 wide 255 crou^9 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="hotel2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「莉兹……」
+
+<BOX type="0">//%w
+　看到脸色大变的两个人，克劳蒂娅不禁困惑起来。
+
+<BOX type="5">//%sR
+「究竟发生什么事了？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「再等下去，梧桐大辅也不会回来了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「他和他的小弟已经被不知什么人打成蜂窝了」
+
+「呐，你该对我们说实话了吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这就样不发一语，克劳蒂娅脸上的笑容渐渐褪去了。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……这都是假的吧？」
+
+「那家伙的疯话是不能相信的吧。呐，克劳，这一切都是假的吧？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^a 20
+<BUSTUP NAME="crou" face="a" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅突然笑了起来，这样说道。
+
+<BOX type="5">//%sR
+「看样子你们听到了相当奇怪的话呢」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「啊，可不是吗……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，梧桐大辅的话不是说得通吗」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^7 20
+<BUSTUP NAME="crou" face="7" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「他说的没错哦」
+
+「因为，这一切都是真的哦」
+
+<BOX type="0">//%w
+　没有人说话。
+　没有人打破此时的沉默。
+
+　……除了，冷冷微笑着的克劳蒂娅。
+
+<BOX type="5">//%sR
+「这样啊，梧桐大辅死了啊……」
+
+「明明马上就要成功了，这个蠢货」
+
+//<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……你……」
+
+<BOX type="0">//%w
+　莉兹的声音低沉下来，听上去就像呜咽一样。
+
+<BOX type="4">//%sL
+「你知道自己做了什么吗？」
+
+「你可是背叛了同伴啊!?」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「背叛，么……」
+
+<BOX type="0">//%w
+　简直像是听到了难以忍受的玩笑，克劳蒂娅哼地冷笑一声。
+
+<A HREF="1470.txt" OPERATOR="1150=1">//~ 1470
+<A HREF="1465a.txt" OPERATOR="">//~ 1465a

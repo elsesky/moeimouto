@@ -1,0 +1,29 @@
+//> left 儀儗僢僞 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="儀儗僢僞">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　训练中，自己最熟悉的枪……
+
+　依照Ein所说的话，果然还是这把贝瑞塔最好。
+
+　与其他手枪相比后坐力更小，
+  15连发的装弹数也让人很放心。
+
+　虽然不知道会发生什么，
+  但要是考验自己能力的话，选择这把枪肯定没错。
+
+<CALC WORKNAME="廵" OPERATOR="儀儗僢僞">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儀儗僢僞3">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儀儗僢僞2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡BS">//
+<CALC WORKNAME="幩寕壒" OPERATOR="02_01">//
+<CALC WORKNAME="俧儀儗僢僞" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a
+
+

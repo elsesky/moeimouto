@@ -1,0 +1,256 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0g wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="雨室外ループ" mode="fadein" old="fadeout" time="10" loop="on">//$ rain.swa 0 255
+<BACKGROUND SRC="room0g">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　焼けこげた部屋
+　燃え落ちた壁紙。
+
+　空っぽの窓の外では、虚ろな空から、冷たい雨が降ってくる。
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="left">//# cyall^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ずっとここで、
+　待ってたんだよ」
+
+<BOX type="0">//%w
+　遠い日の面影のまま、キャルは静かに訴えた。
+
+<BOX type="4">//%sL
+「必ず{名}は
+　帰って来るって……
+　そう約束したから」
+
+「あたしはずっと、
+　待ってたんだよ……」
+
+<BOX type="0">//%w
+　やめろ……
+　何故、今になって、こんなものを見せる？
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen7^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="5">//%sR
+「だけどわたしは、
+　あの子を許さない」
+
+<BUSTUP NAME="elen5" face="3" MODE="on" zoom="" ALIGN="right">//# elen5^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「わたしの命は……
+　あなたを守るためだけに、ある」
+
+<BOX type="0">//%w
+　やめてくれ、{ヒロイン}、
+　違うんだ。悪いのは……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="700">
+//<wait time="200">
+<se id="1" src="16_05狙撃" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　目を覚まし、飛び起きて……
+　びっしょりと額を濡らした寝汗を拭った。
+
+　夢じゃない。
+　今も、この夜のどこかで、{ヒロイン}はキャルを追っている。
+
+　もう、誰も失いたくはない。
+　誰にも傷ついてほしくはない。
+
+　なら、どうすればいい？
+　どうすれば全てを終わりにできる？
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left classroom1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="classroom1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　週末への期待に沸き立つはずの土曜日の放課後も、
+　今日ばかりは空気が重い。
+　
+　明後日の月曜日からは、いよいよ学年末試験が始まる。
+
+　結局、昨夜はあれきり一睡もできなかった。
+
+　ただ身体だけが、日々の習慣の通りに、
+　服を着替え、電車に乗って、教室まで移動していた。
+
+　だが意識は……あの夢の余韻を引きずったまま、
+　一向に目覚めた気がしない。
+
+　どこかに潜むキャルと、それを追う{ヒロイン}と、
+　そして囚われの美緒のことばかりが、ただ延々と頭の中を巡っている。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+
+「……」
+
+　背後に……何者かが忍び寄ってくる。
+　咄嗟の危機感に、バネで弾かれたように身体が反転する。
+　まったく無意識の反応だった。
+
+<BOX type="5">//%sR
+「どわぁ!!」
+
+<BOX type="0">//%w
+　今まさに鞄をぶつけようとした姿勢のまま、
+　逆に度肝を抜かれた早苗が、危うく転びそうになっていた。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<CLEAR><BACKGROUND SRC="classroom3b">//# sanae1^2 20 classroom3b 1
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20 classroom3b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「お……おどかさないでよ！」
+
+<BOX type="0">//%w
+「……すまん」
+
+　無理のある苦笑いで、ごまかしつつ……
+
+　腰の後ろで、咄嗟に掴んでいた{銃}の銃把から、
+　そっと手を放そうとするものの、
+　指が異常に強張って、なかなか緩まない。
+
+　我ながら、どれほど精神的に追いつめられているか思い知らされた。
+　駄目だ。相当に参っている。
+
+<BOX type="5">//%sR
+「ちょっと、あんた、大丈夫？
+　江漣の風邪
+　うつされたんじゃないの？」
+
+<BOX type="0">//%w
+「いや……そうじゃない」
+
+　やっと凶器から自由になった手を揉みほぐしながら、
+　それと知れないように深く息をする。
+
+「明後日から、試験だと思うと、ちょっと……な」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あらま、
+　まさか留年のピンチとか？」
+
+<BOX type="0">//%w
+「まあ、最悪の場合は、あり得るかもな」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あらら～」
+
+「{姓}{名}クンとは今年でお別れかぁ。寂しくなるわね～」
+
+<BOX type="0">//%w
+　そう……だな。
+　寂しくなる。
+　こんな風に早苗にからかわれるのも、
+　事によっては、もう最後になるかもしれない。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっとぉ、やめてよ
+　その陰気な顔」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ～あ、せっかく忘れて
+　開き直ろうと思ってたのに。
+　思い出しちゃったじゃないの」
+
+<BOX type="0">//%w
+「まずいのか？　お前も」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんた程じゃぁないんだけどね」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「美緒と江漣は大丈夫なのかなぁ？
+　揃いも揃って、こんな時期に
+　寝込んじゃうなんて」
+
+<BOX type="0">//%w
+「……」
+
+　幸か不幸か、美緒の家族は海外出張で留守中だった。
+　美緒の失踪は届け出が出されることもなく、
+　真相はまだ誰にも知られずにいた。
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ホンット、損よね学生って」
+
+<CLEAR><BACKGROUND SRC="classroom4b">//# dummy 20 classroom4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　早苗は窓枠に両手をつき、
+　青空に向かって身を乗り出しながら、さも悔しげに溜め息をつく。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「見なさいよこの陽気。河原で昼寝しなさいって命令してるのよ。あのお日様は」
+
+「こんな気持ちいい週末を、こんな憂鬱な気分で過ごさなきゃならないなんて、間違ってるわよ絶対」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「残すところ、あと一日かぁ……」
+
+<BOX type="0">//%w
+　そう。
+　あと、1日だ。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　{ヒロイン}が整えた段取りに従って、日本を離れるなら……
+　遅くとも月曜の朝までには、東京を発つ必要がある。
+
+　{ヒロイン}がそのつもりでいるのなら、
+　明日いっぱいで全てのカタをつけようとするに違いない。
+
+　こうしている間にも、
+　彼女は潜伏中のキャルに着々と迫っているんだろう。
+
+<CLEAR><BACKGROUND SRC="room0g">//#! elen5^3 20 room0g 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<CLEAR><BACKGROUND SRC="classroom4b">//#! dummy 20  classroom4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　瞼を閉ざすだけで……
+　昨夜見た悪夢が、フラッシュバックのように脳裏に蘇る。
+
+<A HREF="3545a.txt" OPERATOR="">//~ 3545a

@@ -1,0 +1,367 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left field wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　当我看到凯尔的样子时，不禁停下了脚步。
+
+　她正用夸张的动作进行着某种表演。
+　
+　这小家伙到底在搞什么名堂呢？
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「找我有事吗？
+  怎么？找我有事吗」
+
+<BOX type="0">//%w
+　凯尔紧皱着眉头，对着不会说话的靶子杀气腾腾地喊道……
+  她应该是在模仿电视里的情形吧。
+
+<BOX type="5">//%sR
+「你在跟谁说话？　我吗？
+　你以为你在跟谁说话？」
+
+<BOX type="0">//%w
+　她把手伸进了放着枪的上衣口袋中。
+
+　唉……
+
+　刚才我还佩服她的慎重呢，看来这么一会她就已经厌倦刻板的练习了。
+
+　如果真的拔出枪来射击的话，她肯定会被吓一跳的。
+
+<CLEAR><BACKGROUND SRC="1160p2">//# dummy 20 1160p2 1
+<WIPE EFFECT="fade" TIME="0">
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="1" src="僐乕僩偐傜廵敳偔" mode="normal" loop="off">
+
+<BOX type="5">//%sR
+「嗨!」
+
+<BOX type="0">//%w
+　随着一声大喊，凯尔将手从上衣口袋中伸出。
+
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+　她那小手中握着的AMT，闪烁着淡淡的不锈钢的光芒，我顿时感到一阵凶险的寒气袭来……
+　大概，是因为我有着杀手的直觉吧。
+
+　凯尔的动作，就像是定格了的影像画面，正以毫秒为单位深深地刻在我的眼中。
+
+　她上半身的动作幅度很大，手腕的轨迹呈锐角。
+  由于势头太急而导致上肢用力过大，所有的动作都变形了。
+
+　这样做根本不符合规则，完全是在胡闹……不过，她刚才的表现真的是很完美。
+
+　拔枪的那个瞬间，肩膀的位置与胳膊肘的角度……
+
+　凯尔那一气呵成的预备姿势，是我之前不论跟哪个家伙战斗的时候都未曾见到过的。
+
+　不用看别的，单是她肩膀、肘部和腰的朝向就已经意味着宣战了。
+
+　如果保持那个姿势、胳膊笔直地伸出去的话，
+  手中握着的枪的准星就会同凯尔的眼睛及靶子连成一条直线吧……
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="field">//#! field 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<se id="2" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+第一枪打得太早了。
+胳膊肘还没伸直，她就扣动了扳机。
+AMT的枪口还没对准目标就开火了，子弹打进了沙土里。
+
+　紧接着，手腕的位置因为后坐力的关系而移动了，
+  可她还是直接扣动了扳机。
+
+　毫无疑问，
+  枪口再次朝着错误的方向，子弹也打飞了。
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<CLEAR><BACKGROUND SRC="悂偒旘傇僔儞僟乕僽儘僢僋1b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+　凯尔的面前，靶子依然安然无恙地傲然挺立着。
+
+<CLEAR><BACKGROUND SRC="field">//#! field 1
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你已经死了」
+
+（注：以上台词出自罗伯特·德尼罗主演的《出租车司机》）
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……咦，居然没打中。
+  唉……」
+
+<BOX type="0">//%w
+　我没有理会凯尔失意的叹气声……而是为了能够解释刚才看到的情景，冷静地思考起来。
+
+　可是我无法解释……
+  自己看到的便是现实。
+
+「凯尔」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呀!」
+
+<BOX type="0">//%w
+　听到背后突然传来的声音，凯尔立刻站直了身体。
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……刚才的是，德尼罗……」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不过，凯尔看到我非常认真的眼神，似乎放弃了辩解。
+
+<BOX type="5">//%sR
+「那个……对不起」
+
+<BOX type="0">//%w
+「你按照练习那样射击一次试试」
+
+<CLEAR><BACKGROUND SRC="僉儍儖幩寕楙廗">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　就像是等待责备的留级生一样，凯尔惴惴不安地双手举起了枪。
+
+　在她纤细手臂的前端，手指仿佛是为了保持持枪稳定而在与枪身的重量苦斗着，最后不堪重负地扣下扳机。
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="悂偒旘傇僔儞僟乕僽儘僢僋1b">//# factory4b 1
+<WIPE EFFECT="fade" TIME="10">
+　枪声响过，
+  仿佛像是理所当然的一样，砖块依旧毫发无伤地立在那里。
+
+<CLEAR><BACKGROUND SRC="factory4b">//# factory4b 1
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我的手臂已经麻掉了……」
+
+<BOX type="0">//%w
+　凯尔可怜楚楚地小声嘟囔着。
+
+「再来一次」
+
+「这次照你刚才表演的那样做」
+
+<BUSTUP NAME="cyall" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎？」
+
+<BOX type="0">//%w
+「就是那个德尼罗什么的，再做一次」
+
+　凯尔不知道我葫芦里卖的什么药，就这样惶惶不安地摆好了姿势。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你找我有事吗？怎么……」
+
+<BOX type="0">//%w
+「不用说台词了，直接开枪就行了」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔咳嗽了一声，摆好了架势。
+  然后，没有一点前奏地突然发力。
+
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//# dummy 20 1160p2 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1160p2">//# dummy 20 1160p2 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<se id="2" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　宛如电影中拔枪射击的镜头再现一样。
+
+……似乎不是偶然。
+ 这个孩子的身体就像条件反射一样做出了这样的动作。而且不管看几次，都非常的完美。
+
+<CLEAR><BACKGROUND SRC="field">//# field 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是，还是没有打中。
+  她的姿势很完美，但在把握开枪的时机上差了一点。
+
+　AMT的子弹打光了。
+  我从凯尔手中拿过枪，一言不发地将子弹装上。
+
+　凯尔毕竟是凯尔，
+  她看起来比被责骂还要不安。
+
+<BUSTUP NAME="cyall" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那，那个，{名}」
+
+「我想向你道歉，刚才我是在玩……」
+
+<BOX type="0">//%w
+「再来一次」
+
+<se id="1" src="04-03" mode="normal" loop="off">
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我什么都没有说，而是将装好子弹的枪又塞到了她的手中。
+
+「再做一次刚才的射击。
+  不过这次不要着急」
+
+「摆好架势，停一拍再开枪」
+
+<BOX type="5">//%sR
+「……{名}？」
+
+<BOX type="0">//%w
+「摆好架势以后再开枪，明白了吗？只开一枪就可以了」
+
+　凯尔再没有多说什么，认真地点了点头。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她将枪放进口袋里，轻轻地张开双脚，侧身站立。
+
+不知道是不是我的错觉，感觉她每重复一次，姿势都更加完美。
+她泰然自若地盯着靶子，就像西部电影中的枪手一样。
+
+　或许是在集中精神吧，凯尔眯起了眼睛。
+
+　刚才她是在玩，
+  这次却是很认真地重新进行表演。
+
+<CLEAR><BACKGROUND SRC="1160p2">//# dummy 20 1160p2 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="僐乕僩偐傜廵敳偔" mode="normal" loop="off">
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<BOX type="0">//%w
+　拔出的枪。
+  完美的动作。
+
+　她伸出去的手，停在了我所描绘的那个理想的位置。
+
+<se id="1" src="14_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="悂偒旘傇僔儞僟乕僽儘僢僋2">//#! field 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="5">//%sR
+「……哎，不是吧？」
+
+<CLEAR><BACKGROUND SRC="field">//#! field 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　凯尔一脸困惑地看着被击碎的靶子。
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BUSTUP NAME="cyall" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「打中了？太好了!
+  打中了!!」
+
+<BOX type="0">//%w
+　凯尔高兴地跳了起来。
+  当然，她不会明白。
+
+　那枚子弹能打中，是理所当然的……而且也是令人惊讶的。
+
+<BOX type="5">//%sR
+「太厉害了，{名}，你真是个天才教练!」
+
+「我从没想过这么简单就能打中!」
+
+<BOX type="0">//%w
+「……」
+
+「你真的是今天才第一次用枪吗？」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯，是啊」
+
+<BUSTUP NAME="cyall" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊？难道我很有天赋吗？」
+
+<BOX type="0">//%w
+「……嗯，一般般吧」
+
+　这是谎话。
+　这已经不能用天赋来形容了。
+  应该说……她是真正的天才吧。
+
+　刚刚拿到枪的人，是不可能那么快就认准准星的。
+  可她几乎已经达到了出神入化的境地。
+
+不对，
+凯尔甚至并没有打算锁定目标，她只是下意识地将枪口对准靶子而已。
+
+　如果想将枪用的像自己手臂的延伸一样的话……必须要一刻也不能放松地修炼很长时间才行。
+
+　可是……
+  凯尔只打了数十发子弹，就达到了那样的境界吗？
+
+「今天就到这里吧」
+
+<BUSTUP NAME="cyall" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唉？已经结束了？」
+
+<BOX type="0">//%w
+「嗯，收工吧」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……我还想再多练一会呢」
+
+<BOX type="0">//%w
+　已经没有必要了。
+  凯尔只要像今天这样拿枪的话，肯定会百发百中的。
+
+　之前我为了保护凯尔，
+  在向Inferno解释的时候，对他们说了毫无根据的谎言。
+
+可是……
+如果我将今天的训练情况汇报给马格维雅的话，他肯定会对我更加信任吧。
+
+　这个孩子，是真正的天才。
+
+　这应该是值得高兴的事吧。
+  至少我没有必要再向Inferno隐瞒凯尔的资质了。
+
+　可是……这真的值得高兴吗？
+
+<A HREF="1160e.txt" OPERATOR="">//~ 1160e

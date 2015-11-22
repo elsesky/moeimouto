@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+　ボディガードの仕事に、
+　なにもこんな代物を持っていく必要もないだろうが……
+　まぁ、用心に越したことはない。
+
+<CALC WORKNAME="射撃音" OPERATOR="20_01a">//
+<CALC WORKNAME="銃" OPERATOR="デザートイーグル">//
+<CALC WORKNAME="銃画像" OPERATOR="デザートイーグル">//
+<CALC WORKNAME="射撃画像" OPERATOR="デザートイーグル2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Ie">//
+<A HREF="0190.txt" OPERATOR="">//~ 0190

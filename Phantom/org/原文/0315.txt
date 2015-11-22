@@ -1,0 +1,108 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Contena4 wide 255
+<clear>
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="" mode="fadeout" time="10">
+<se id="3" src="" mode="fadeout" time="10">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="Contena4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+　交錯する銃声が、やや散漫になってきた。
+<se id="1" src="" mode="fadeout" time="40">
+
+　本隊どうしの激突は、もう決着がつきつつある。
+
+　どちらが優位を占めているにしろ……
+　早く、サイスを探し出さねば、奇襲のチャンスを逸してしまう。
+
+<BUSTUP NAME="リズィの部下" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+「動くんじゃねぇ!」
+
+<BOX type="0">//%w
+　背後からの叱咤に振り向くと、リズィの部下の一人が、
+　銃の狙いをつけていた。
+
+<BOX type="5">//%sR
+「逃げ切れるとでも思ったのか？
+　あん？」
+
+<BOX type="0">//%w
+　ここにインフェルノの兵士がやってきたということは、
+　戦闘はインフェルノ側が優位ということか……
+
+　そんな悠長なことを考えている場合じゃなかった。
+　相手の視線は、あからさまに殺気だっている。
+
+<BOX type="5">//%sR
+「死んでもらうぜ、裏切り者……」
+
+<BOX type="0">//%w
+　この状況では、言い逃れのしようがない。
+　どうすれば……
+
+<se id="1" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire4">//#! bayFire4 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　その弾丸は、横合いから飛んできた。
+　そう判別できたのは、リズィの部下の顔面が、
+　右半分から消し飛んで、脳漿を撒き散らしたからだ。
+
+<CLEAR><BACKGROUND SRC="Contena2">//# Contena2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　咄嗟に間近な遮蔽物の陰に身を投げる。
+
+　拳銃弾ともライフル弾とも違う轟音は、
+　おそらくマグナム＝ハンドキャノン。
+　狙撃位置の見当もつくが、こっちの居場所も露見している。
+　二人向き合って棒立ちになっていたところを、
+　狙い撃ちにされたのだから。
+
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+　港に轟き渡るのは、主戦場で繰り広げられるマシンガンの応酬ばかり。
+　さっきのマグナムの狙撃手は沈黙を守っている。
+<se id="1" src="" mode="fadeout" time="30">
+　火力で圧す気はないらしい。回り込んでくる気だろうか？
+
+　そうなると、位置を把握された方が負けだ。
+
+　こっちも動いておく必要がある。
+　覚悟を決めて、遮蔽物の陰から駆け出た。
+
+<CLEAR><BACKGROUND SRC="Contena3">//# Contena3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire4">//#! bayFire4 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　狙いすましたように轟音が轟き、足元に火花が散った。
+
+　くそう、見透かされたか!!
+　敵は動いてない。こっちが痺れを切らすのを待っていた!
+
+<CLEAR><BACKGROUND SRC="Contena3">//# Contena3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　こうなれば、あとは脚力に頼るほかない。
+
+　ジグザグに向きを変えながら、次の遮蔽物を目指してダッシュする。
+
+<se id="1" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　さらに一発、足元に着弾。背筋に冷汗がにじむ。
+
+<A HREF="0320.txt" OPERATOR="0280=1">//~ 0320
+<A HREF="0330.txt" OPERATOR="">//~ 0330

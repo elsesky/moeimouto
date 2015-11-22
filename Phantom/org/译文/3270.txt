@@ -1,0 +1,417 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你变弱了啊，Drei」
+
+「Zwei他们刚刚和梧桐组挂上了关系」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什么？」
+
+<BOX type="3">//%m
+　Zwei，梧桐组……两个八竿子打不着的名字居然会扯到一起，这令Drei有些不解。
+
+<BOX type="4">//%sL
+「那两个家伙是怎么和梧桐组搅到一块去的？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那两个人并不是一时兴起才去扮演学生的」
+
+「那座蓧仓学院里似乎有梧桐组老大的私生女」
+
+「Zwei他们应该是为了她才装成学生的吧」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「志贺先生可谓来势汹汹啊……
+　真是的……不好办了哦」
+
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^8 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……那接下来要怎么办」
+
+<BOX type="3">//%m
+　远眺着窗外的Drei生硬地问道。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「志贺先生要求我们在那两人离开日本之前保持静默」
+
+「Zwei毕竟也曾是Inferno的一员，无情的事他是做得出的」
+
+「在那位梧桐组大小姐的安全得到保证之前，我们是不能出手的哦」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「很遗憾，这一次就到此为止了。等待下次的机会吧」
+
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　留下沉默的凯尔，赛斯离开了房间。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　眼看对方就要大发雷霆，自己再待在这里肯定不是明智之举。
+
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# passage3 1 sice 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　这样的事态发展并没有让赛斯感到意外。
+
+　他还记得，在调查了藤枝美绪的真面目之后，他曾经这一切都告诉了Ein。
+
+　正因为如此，当知道Ein和Zwei正躲在日本的时候，他马上便锁定了蓧仓学院。
+
+　当然，被追杀的Zwei会将美绪当成交涉的筹码，也在他的预料之内。
+
+　不过……
+　既然有明知不行还要插手的Drei在，赛斯也就不抱任何期待了。
+
+接下来不必做任何谋划。
+即使放着不管，Drei自己也会爆发的吧。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喂，赛斯」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔，莉兹小姐，脸色不太好呢」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那个梧桐组小姑娘的事，对Phantom……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哦，我刚刚告诉她」
+
+「暂时不要靠近她才是明智的选择吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　用调侃的语气说完这句话，赛斯匆匆地走回了自己的房间。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……这可不行吧」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Phantom，关于Zwei的事……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^8 19
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「必须要放弃了对吧？
+　我从赛斯那里听说过了」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你不是这么想的吧。
+　看你的样子我就知道」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　说着，莉兹的胸中渐渐变得苦闷。
+
+<BOX type="5">//%sR
+“你还要把多少人卷进来呢，Zwei……”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^4 19
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……可恶!!」
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+
+<BOX type="3">//%m
+　保持着克制的Phantom，一脚踹飞了身旁的椅子。
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^6 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那个混蛋……那个混蛋!!」
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　莉兹无可奈何地望着发狂的Phantom。
+
+　2年前……
+　身负Phantom之名的Zwei拼了命也要保护的少女——凯尔。
+
+　虽然当时莉兹并没有见过凯尔，但当赛斯将她带来时，莉兹一眼就认出了她。
+
+死气沉沉的眼神，空虚的表情，根本不像是她这个年龄的孩子。
+完全无法将她与Zwei所说的那个天真烂漫的少女联系到一起。
+
+　这个孩子在赛斯的训练下一步一步地发生着转变，这一切莉兹都看在眼里。
+
+<BOX type="5">//%sR
+「……你就那么恨他吗」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^4 19
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那是当然的啊」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你以为我是为了什么才听命于这个混蛋组织直到现在？」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「为了找出那个男人，杀了他！」
+
+「为了这一天，我已经等了2年了啊!!」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……说实话，我其实是安心了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^6 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什么!?」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是你和Zwei打起来……我可真是看不下去。凯尔」
+
+<BOX type="2">//%w
+不是称号。
+莉兹说出了少女那很久不曾被叫过的本名。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^3 19
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「还真被你小看了。
+  你以为我会输？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不是」
+
+<BOX type="5">//%sR
+「不是啊……」
+
+<BOX type="2">//%w
+　Zwei被凯尔亲手杀死……这样真的好吗。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那家伙在2年前的确骗了很多人，我也算是受害者」
+
+「可是，唯独对你没有……」
+
+「Zwei可是保护着你的，凯尔」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^4 19
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「保护？」
+
+<BOX type="3">//%m
+　凯尔恨恨地说。
+
+<BOX type="4">//%sL
+「不要笑死人了。
+那家伙想保护的只有他自己而已」
+
+「我一加入Inferno就明白了」
+
+「那家伙是害怕了。
+  害怕不能欺骗我到最后」
+
+「所以他才会将我扔在那间阁楼里」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 drei^6 19
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# dummy 20 drei^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「为了逃离Inferno，就把我抛弃了」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，你也不是想当杀手才当的吧……」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「杀手吗，我很想当哦」
+
+<BOX type="3">//%m
+　听到莉兹这样说，凯尔露出了不祥的笑容。
+
+<BOX type="4">//%sL
+「这不是很棒吗。
+现在我可是哭泣的小孩见到都会乖乖闭嘴的Phantom大人啊」
+
+「那些黑道中人只要听到我的名字就吓的浑身发抖」
+
+「殴打他们，杀掉他们，
+  这样的生活是多么开心啊？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「那家伙在害怕着我」
+
+「他早就发现了，
+我会强得无可匹敌，总有一天会超越他」
+
+「欺骗我、利用我的帐，我会好好跟他算的」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这几天我们只能静观其变……收拾好你的行李吧」
+
+「不要随便外出，明白吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　凯尔根本没有把莉兹的话当回事，不过莉兹也没有再与她纠缠，通知过后便离开了。
+
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1 rizy^5 20
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# passage3 1 rizy^5 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+现在无论怎样的说教都是没用的。
+想让她在回国之前老实待着，就只能擦亮眼睛盯住她。
+
+　到目前为止，莉兹已经不止一次地产生「解决凯尔」的想法了。
+
+没有丝毫的冷静与自制。
+现在的凯尔只是在本能与直觉的作用下肆意妄为的野兽。
+
+　不……野兽的话还好。
+　真正的野兽是不会因为杀戮而产生快感的。
+
+没有紧张、没有恐惧，只有单纯的喜悦。
+凯尔简直就像是在和着破坏的节奏而舞蹈，不断重复着杀戮。
+
+疯狗……
+组织内的众人会如此讨厌凯尔不是没有道理。
+因为她的肆意妄为，已经有很多伙伴丢掉了性命。
+
+　自暴自弃，
+  无策无谋。
+
+　即便如此她依旧能够毫发无伤地完成任务，而敌人那边却是血流成河……说不定凯尔的确是难得一见的天才。
+
+　虽然凯尔华丽的成果让上层很是中意，但在一旁的莉兹看来，她就像快要燃尽的烟花一般。
+
+　那样的做法不可能长久。总有一天她会感到力不从心的。
+
+　在那之前，一定要让她变得冷静与沉稳。
+
+　因为，凯尔会踏入这个充满血腥争斗的世界……莉兹也是有责任的。
+
+最开始的时候，莉兹和Zwei一同犯下了错误。
+如果在那个时候，没有引起维斯梅尔的注意的话……
+
+如今，就连组织内部的人都将凯尔称作“疯狗”，对她又恨又怕。
+只有莉兹因为内疚依然像个姐姐一样守护着她。
+
+<A HREF="3300.txt" OPERATOR="3190=1">//~ 3300
+<A HREF="3280.txt" OPERATOR="">//~ 3280

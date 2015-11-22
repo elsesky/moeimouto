@@ -1,0 +1,108 @@
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　屋里并没有亮灯。
+  此时，嗅觉比视觉更能够说明状况。
+
+　廉价香水残留的香味，以及刺鼻的血腥味。
+
+<CLEAR><BACKGROUND SRC="1000x9">//# 1000x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　室户半裸着倒在床上，已经没有了呼吸。
+
+　旁边扔着一把沾满鲜血的剃须刀，这就是凶器吧。
+
+　是在脱衣服的时候，从背后被割断了喉咙吗……
+
+　颈动脉微微跳动着，依然在流着血。
+  看起来他才刚刚被杀。
+　杀手应该没有时间逃跑……
+
+<CLEAR><BACKGROUND SRC="hotel5">//# hotel5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　从浴室到壁橱，我用15秒将屋内搜了个遍。
+
+　可是，哪里都没有凶手藏身的痕迹。
+
+　如果不在屋内的话，那能在哪里呢？
+  走廊上没有可以藏身的地方。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　……紧急通道。
+　脑中闪过这个念头的瞬间，走廊上传来了一阵滑动的机器声音。
+
+<se id="2" src="pinpon" mode="normal" time="" loop="off" effect="">//!se pinpon
+
+　那是，电梯门关上的声音。
+
+<CLEAR><BACKGROUND SRC="passage3">//# passage3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我一刻也没有迟缓，立刻举起枪冲向走廊。
+
+<se id="1" src="elevator" mode="normal" time="" loop="off" effect="">//!se elevator
+<CLEAR><BACKGROUND SRC="1170p1">//# 1170p1 1
+<WIPE EFFECT="fade" TIME="10">
+//> left passage3c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="passage3c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　当我看到徐徐关闭的电梯门那一侧的那个幻影时，身体顿时像被冻住了一样动弹不得。
+
+　这不可能。
+　这绝不可能。
+
+　她已经死了。
+  被我亲手杀死了。
+
+　我的思绪完全陷入了混乱之中。
+
+　我不知道自己僵硬地举着枪占站了多长时间。
+  或许，只是短短的一瞬间而已。
+
+　终于，我的判断力恢复了正常，可为时已晚。
+
+　电梯已经降至1层。
+  即使我从紧急通道跑下去也追不上了。
+
+　杀害室户的凶手看到了电梯的上升指示，于是立刻躲进了紧急通道内。
+
+然后，和她预想的一样，电梯停在了9层。
+等到慌慌张张的监视者去屋内确认室户的生死后，她便乘上电梯，悠闲地逃走了。
+
+　这种冷静与胆量，就像以前我无数次在她身旁看到过的一样……
+
+<se id="1" src="shock2" mode="normal" time="" loop="off" effect="">//!se shock2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我使劲将头往墙上撞去，阻止自己的胡思乱想。
+
+　给我适可而止吧……
+
+　刚才的是，幻觉。
+
+　调酒师所说的被室户带走的女子……肯定就是杀手。
+
+　我会在那个瞬间将逃跑女子的背影与那熟悉的影像重叠在了一起，一定是在年轻杀手这点上产生了先入为主的观念，从而引起了错觉。
+
+　不然的话，这一切根本无法解释。
+
+　这几天自己的精神压力实在太大了……我只能这么想了。
+
+　……不过，应该不是这样的吧。
+
+　跟克劳蒂娅预测的一样，第二次的袭击在眼皮底下发生了，可是我又让犯人逃跑了。
+
+　诱饵被吃掉了，鱼钩却空空如也。
+  接下来要怎么办呢？
+
+　我深深地叹了一口气，将枪放回怀中。
+
+　看样子，就算是看到了幻觉，我还是得再忙上一阵子。
+
+<A HREF="1180.txt" OPERATOR="">//~ 1180

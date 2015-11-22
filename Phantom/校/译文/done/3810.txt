@@ -1,0 +1,286 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right classroom2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="classroom2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+
+<BOX type="2">//%w
+　远处如雷鸣一般的枪声传进了躲在校舍里的美绪的耳朵。
+
+　{ヒロイン}正在和凯尔战斗着。
+  而且是在这所学院里……
+
+　此外，{姓}{名}也身处战场。
+
+<CLEAR><BACKGROUND SRC="classroom4a">//# dummy 20 classroom4a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　为了守护所爱之人。
+　为了杀掉所爱之人。
+
+　还有，为了拼死阻止两人……
+
+　无论最后谁生谁死，结局的残酷性都不会有任何改变。
+
+　好害怕。
+　想要逃出去。
+
+枪声接连不断地响起。
+每一声枪响都可能意味着某个人的死亡。
+而枪声间歇的每次到来都让自己的内心充满不安，几乎要崩溃一般。
+
+不想承认。
+就在自己熟知的日常生活的背后，存在着如此无情的另一个世界。
+
+<CLEAR><BACKGROUND SRC="classroom3a">//# classroom3a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+如果继续介入的话，自己一定会变得再也无法欢笑、无法相信幸福的存在。
+
+　一切都是骗人的。
+
+　明明知道了永远充斥着血雨腥风的世界真的存在，却要忘记这一切享受幸福，这种事自己怎么可能办得到。
+
+　关闭耳朵，闭上眼睛，老老实实待着。
+　回到自己的世界吧。
+
+<CLEAR><BACKGROUND SRC="classroom2a">//# mio1^8 20 classroom2a 1
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 classroom2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　可是……
+　这样真的可以吗？
+
+　现在逃走的话，就再也见不到{名}了。
+　{ヒロイン}并没有欺骗自己。
+
+是的。
+如果在今天离开了他，从明天起自己就将再也感受不到幸福。
+
+　那样空虚的未来，真的有怜惜的必要吗。
+
+　美绪正在做着激烈的思想斗争。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　想要见到那个人……
+
+　即使不能回头也没有关系。
+
+不能再这样一动不动地躲着了。
+刚才响起的枪声，说不定就是终结了{名}生命的那颗子弹的低吟。
+
+//> right church2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<wait time="900">
+<BACKGROUND SRC="church2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　是这里……
+
+　追寻着枪声的源头，美绪终于来到了被废弃在校园深处的礼拜堂。
+
+　朱红暮色的天空下，一座砖瓦结构的古老建筑不祥地矗立着，仿佛是末日的景观一般。
+
+　持续响起的枪声如今已经变成了猛烈的轰鸣，不断冲击着美绪的鼓膜。
+
+　听到如此骇人的枪声，美绪好不容易鼓起的斗志又消失的无影无踪。
+
+　究竟该怎么做呢？
+　美绪犹豫起来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　突然，美绪的脸和腰被从背后伸出的手臂牢牢地勒住了。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="2">//%w
+美绪拼命地挣扎着、叫喊着。
+可强壮的手臂丝毫没有给她任何的机会。
+
+　束手无策的美绪就这样被拖进了阴暗的森林中。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　本应空无一人的森林里传出了沙沙的响声。
+
+　看样子，似乎有许多人正悄无声息地潜伏在里面。
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「大哥，这个小丫头在外面……」
+
+<BUSTUP NAME="siga" face="3" MODE="on" zoom="" ALIGN="right">//# siga^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「混蛋!!」
+
+<BOX type="2">//%w
+　迎接捕获美绪的壮汉的，是一声极尽克制却又无比冷酷的怒喝。
+
+<BOX type="5">//%sR
+「要是再敢对这位小姐出言不逊，我就拆掉你的下巴」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<BUSTUP NAME="honjyo" face="2" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「万、万分抱歉……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　伴随着胆怯的应答，美绪得到了解放。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「您没有受伤吧，藤枝美绪小姐」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你是……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　伫立在黑暗中的男子，自己并不是第一次见到。
+
+　虽然已经过去了很久，但自己依旧清晰地记得。
+　2年前，将梧桐大辅的遗物带给美绪、自称是大辅部下的男人……
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「没记错的话……是，志贺先生？」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好久不见了」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　为什么，这个人会在这里？
+
+　更让美绪惊讶的，是志贺身边众多男人的人数和样子。
+
+<BUSTUP NAME="億儞搧" face="1" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+　恐怕有20人左右。
+　都是些面无表情、气势汹汹，让人联想到斗狗的男人。
+
+　他们无一例外都拿着武器……从手斧、日本刀到手枪、猎枪一应俱全。
+  每一件看上去都十分危险。
+
+　毫无疑问，这些人从事的肯定不是普通的工作。
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　或许是察觉到了美绪的害怕，志贺用温和的语气这样说道。
+
+<BOX type="5">//%sR
+「请您放心，美绪小姐，我们是来保护你的」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="left">//# mio1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……？」
+
+<BOX type="3">//%m
+　看着这些男人，美绪能联想到的词只有一个……黑社会。
+
+　虽然志贺的理性让他与那些男人划清了界限，但他身上的那种说不出的冷酷气势，说到底和其他的男人还是一样的。
+
+　自称是梧桐大辅部下的男人，志贺。
+
+如果他是黑社会的一员，那么身为他上司的梧桐大辅也……
+
+<BOX type="4">//%sL
+「你们，莫非是梧桐组……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="right">//# siga^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　听到美绪小心翼翼地说出这个名字，志贺那藏在墨镜后面的眼睛里透出了一丝悲哀。
+
+<BOX type="5">//%sR
+「美绪小姐，您没有必要知道的太多」
+
+「我们马上会送您去安全的地方，后面的事就请交给我们吧……」
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="left">//# mio1^c 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^c 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　直到美绪被带离这里，志贺也没有再多说什么。
+
+<BOX type="4">//%sL
+「请、请等一下!」
+
+「现在，那里面……有我的朋友……」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="right">//# siga 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我明白了」
+
+「我会让一切都结束的」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="left">//# mio1^9 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# mio1^9 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　太好了……
+
+　安心下来的美绪，并没有注意到志贺望着礼拜堂的眼神是多么的冷酷无情。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="dummy">//嫤夛撪晹偺奊丅師偼INchurch2
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<A HREF="3720.txt" OPERATOR="">//~ 3720

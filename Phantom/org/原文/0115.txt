@@ -1,0 +1,132 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right airport wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="airport">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　夜半……
+　ビジネスジェットでロングビーチ空港に降り立ったサイス＝マスターを、インフェルノのリムジンが出迎えた。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ご苦労だったな」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いやはや……わざわざ、
+　お出迎え頂けるとは光栄です」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# crou^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今日は、いい働きをしてくれた。
+　感謝している」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　日頃から、サイスの慇懃さに対し不快を露わにしているクロウディアである。こんな感謝の言葉など、
+ついぞサイスは聞いたことがない。
+
+<BOX type="4">//%sL
+“今夜はやけに、
+　しおらしいじゃないか”
+
+<BOX type="3">//%m
+　どうせ、何かしら含むところが
+あるのだろう。
+
+　そう見透かして、サイスは皮肉な微笑を浮かべた。
+
+//> right 0115p1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0115p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「……化けたな。あの少年は」
+
+<BOX type="4">//%sL
+「ご満足いただけたでしょうか？」
+
+<BOX type="5">//%sR
+「まあ、な」
+
+<BOX type="2">//%w
+　気のない返事を返すクロウディアの、なぜか遠い眼差し。
+だが、それにサイスは気付かない。
+
+<BOX type="5">//%sR
+「あの二人は？」
+
+<BOX type="4">//%sL
+「旅客便で帰投させました」
+
+「それぞれ時間も経路も違う便を
+　手配したので、どちらも、
+　まだ機上でしょうな」
+
+「ツヴァイはアインより早く……
+未明ごろにはロスに戻るでしょう」
+
+<BOX type="2">//%w
+　頷き、窓の外を流れ去る夜景に
+しばらく見入った後で、おもむろにクロウディアは切り出した。
+
+<BOX type="5">//%sR
+「近々ロスで、
+　もう一働きしてもらいたい」
+
+<BOX type="4">//%sL
+「……活動の焦点は、東海岸に移るものかと思っていましたが？」
+
+<BOX type="5">//%sR
+「マグワイヤたちに指示された
+　作戦ではない。……まぁ、
+　わたし個人の点数稼ぎだ」
+
+<BOX type="3">//%m
+　さり気なく、サイスは防弾ガラスを隔てた運転席を見やる。
+
+　運転手が、二人の会話を意識している様子はない。
+　後部座席は防音されている。
+
+<BOX type="4">//%sL
+「よろしいのですか？
+ひとつ間違えばスタンド＝プレイと
+見なされるのでは」
+
+<BOX type="5">//%sR
+「予期せぬ功績だからこそ、上の連中への貸しにできる。伺いを立ててから動いたのでは意味がない」
+
+「……そうなれば逆に、お前には
+　借りを作ることになるがな」
+
+<BOX type="4">//%sL
+「なるほど」
+
+<BOX type="3">//%m
+　それをわきまえた上での依頼なら問題ない。
+　満足してサイスは頷いた。
+
+<BOX type="4">//%sL
+「承知しました。
+　他言は無用ということで」
+
+<BOX type="5">//%sR
+「頼むぞ」
+
+<A HREF="0120.txt" OPERATOR="">//~ 0120

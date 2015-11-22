@@ -1,0 +1,28 @@
+//> left 44儅僌僫儉 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="44儅僌僫儉">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　略微犹豫了一下之后，我下定决心，选择了0.44口径马格南左轮。
+
+　这把枪可不是客客气气就能轻易驾驭的。
+
+　是因为左轮手枪特有的单纯结构的缘故吗，
+　装填在其内的子弹的破坏力，通过握着的枪把，仿佛可以直接传到手臂上，
+　这种感觉，给人一种难以言表的可靠感。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="03_01">//
+<CALC WORKNAME="廵" OPERATOR="M29">//
+<CALC WORKNAME="廵夋憸" OPERATOR="44儅僌僫儉">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="44儅僌僫儉2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Sm">//
+<CALC WORKNAME="俧儅僌僫儉" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<CALC WORKNAME="0090bSm" OPERATOR="1">//
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a
+
+

@@ -1,0 +1,574 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　礼拜六……
+　上午的第三节课结束后，今天的课程就算告一段落了。
+
+　2年B班、{姓}江漣的缺席，没有引起任何人的注意。
+
+　精力充沛的学生们吵吵嚷嚷地涌出了校门。
+
+　混在人群中的话，周围的交谈声就会不断传进耳朵。
+　学生们的话题基本上都是关于周末的预定，可谓是谈的不亦乐乎，就像是在讨论什么重大课题一样。
+
+「为什么大家都这么焦躁呢？」
+
+　我随口对走在身边的早苗这样问道。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「下下周一就要期末考试了哦」
+
+<BOX type="0">//%w
+　啊，对了。
+　能够利用的周末，只剩今明两天了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　期末考试……
+　如果{ヒロイン}的计划一切顺利，到那时，虚假的学生生活就将落下帷幕。
+
+　与大家一同紧张应考，享受逃离不及格的喜悦……
+  那样的事，已经与自己无缘了。
+
+<CLEAR><BACKGROUND SRC="schoolway2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　总感觉好寂寞啊……
+　可是，自己现在没有时间沉浸于伤感之中。
+  相比争取及格，我们要做的是……保住性命。
+
+　{ヒロイン}现在正在未知的街道与走私商人交涉着。
+　不知道事情是否能够顺利……
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐～{姓}、
+  明天有什么预定吗？」
+
+<BOX type="0">//%w
+「不，没有……」
+　
+　这样回答之后，我渐渐注意起早苗的意图。
+
+「又是例行的西洋音乐大搜索吗？」
+
+　每个月早苗都会去东京的专卖店逛上一次，入手大量的进口CD。
+
+　而且，她常常以不明白西洋音乐歌词的意思为借口，不由分说地拉着我一起去。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「干什么啊，摆着张苦瓜脸？」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「更坦率地表现出喜悦来吧。
+你可是在独享和女孩子一起逛街的机会」
+
+<BOX type="0">//%w
+「啰嗦」
+
+「你这家伙没问题吗？考试的准备」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「为了能专心致志地学习，有必要用明天1天将烦恼一扫而空哦」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「即使是你，也不会正经到从明天就开始努力学习吧。
+  呐，出去玩吧」
+
+<BOX type="0">//%w
+　该怎么说呢……
+　考试这种东西，怎么样都与自己没有关系了。
+
+不过，正因如此我才会有些伤感。
+在日本的街道上自由自在地散步……这样的事，明天过后就再也没有机会做了。
+
+　总之，在{ヒロイン}从小樽回来以前，我一个人是什么都做不了的。
+
+　如果是为自身的安全着想，
+  那么，与其一个人躲在公寓里，混在人群中反倒更能让我安心。
+
+「好吧」
+
+「那，时间呢？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「1点在车站碰头」
+
+<BOX type="0">//%w
+「我知道了」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left station_day wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mob2" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="station_day">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　下午1点……
+　还有一会儿才到约定的时间。
+
+　我悠闲地走在人流中，享受着星期日的热闹与繁华。
+
+　说起来……
+　虽然好不容易才回到日本，可自己一次都没有像这样置身于日常的情景中。
+
+　传进耳朵的喧嚣声是全是日语……仅仅如此就能让我的心情安宁下来。
+
+<bgm src="" mode="fadeout" time="40" loop="on">
+「……嗯？」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……！」
+
+<BOX type="0">//%w
+　为什么，美绪会在这里……？
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你、你好」
+
+<BUSTUP NAME="mio2" face="5" MODE="on" zoom="" ALIGN="right">//# mio2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪尴尬地笑着，她的动作让人感觉很是僵硬。
+
+　该说是奇遇呢……还是说，自己来的不是时候呢。
+
+「出门有什么事吗？」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是的，这个……」
+
+「早苗说要请我看电影」
+
+<BOX type="0">//%w
+　……什么？
+
+「那，早苗呢？」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她刚去洗手间了」
+
+<BOX type="0">//%w
+「……这样啊」
+
+<BUSTUP NAME="mio2" face="5" MODE="on" zoom="" ALIGN="right">//# mio2^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个，{姓}同学今天是……？」
+
+<BOX type="0">//%w
+「我也是被早苗叫过来的」
+
+　我这才知道美绪也会来看电影。
+  算了，一会好好问问早苗吧。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left station_day wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mob2" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="station_day">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……好慢啊」
+
+<BUSTUP NAME="mio2" face="4" MODE="on" zoom="" ALIGN="right">//# mio2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是啊，真的很慢呢」
+
+<BOX type="0">//%w
+　我们两人已经等了超过20分钟了。
+  这家伙到底在搞什么鬼。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<bgm src="" mode="fadeout" time="40" loop="on">//> left station_day wide 255
+<BOX type="0">//%w
+<se id="1" src="phoneCall" mode="normal" time="" loop="on" effect="">//!se phoneCall
+　我试着用手机联系她……可是，打不通。
+
+　美绪试着用她的PHS呼叫早苗，可依旧联系不上。
+  在这样的繁华街道上，即便是地下通道里也应该有信号才对。
+  难道说，那家伙关机了吗……
+
+（注：PHS，个人手持式电话系统，即Personal.Handy-phone.System。也就是传说中的小灵通）
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+「我们回去吧？」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唉，可是……」
+
+<BOX type="0">//%w
+「不知道她在干什么，竟然让我们白白等了这么久，真是令人不爽」
+
+<BUSTUP NAME="mio2" face="4" MODE="on" zoom="" ALIGN="right">//# mio2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，她还有东西在我这里」
+
+<BOX type="0">//%w
+　虽然这么说，但美绪的手上只有一个小小的手包而已。
+
+「……东西？」
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　美绪从包里拿出装有两张电影票的信封。
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她让我拿着这个」
+
+<BOX type="0">//%w
+「……」
+
+　我总算明白早苗在打什么主意了。
+
+　只是去个洗手间而已，根本没必要把这么小的信封交由别人保管。
+
+「再等下去也是白费时间」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎？」
+
+<BOX type="0">//%w
+「早苗不会回来了。就算去找她估计也不会有结果……不对」
+
+　说到这里，我突然愣了一下，接着急匆匆地扫了一眼周围。
+
+「……说不定，那家伙现在正躲在某处看着我们呢」
+
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　老实巴交的美绪，总算也明白早苗的奸计了。
+
+　干等着的两人。
+　手中的两张票。
+　接下来……就看美绪的了，是这样吧。
+
+　虽然是大妈级的手法，不过，这还真符合早苗的风格。
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那、那、那、那个……」
+
+<BOX type="0">//%w
+　这时候，美绪已经紧张到开始口吃了。
+  她惊慌失措地举着信封，好像里面装着炸弹一样。
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这个……要怎么办啊？」
+
+<BOX type="0">//%w
+　既然是被强迫的，那就没有必要勉强自己使用了。
+　后天遇到早苗的时候，把这两张票还给她就行了。
+
+　不过……
+　我想起那次放学后早苗训斥美绪的样子。
+
+　要是我们在这里分别，美绪肯定又会被早苗责备吧。
+　虽然只要严词拒绝早苗的无理要求就行了，不过，会那样做她就不是美绪了。
+
+　我突然觉得美绪非常可怜。
+
+「一起去看电影吧？」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎……」
+
+<BOX type="0">//%w
+　这样一来，问题就解决了。
+
+　现在先照着早苗的意思去做吧，就当时满足一下她的怪癖好了。
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……这种事……」
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……没关系吗？
+　不会占用你的时间吗」
+
+<BOX type="0">//%w
+「没关系，毕竟是难得的机会嘛」
+
+　说起来……
+　为了以防万一，陪在美绪身边监视她……自己曾经从{ヒロイン}那里接受了这样的指示。
+
+　虽然我不想过分利用美绪，对这样的计划很是反感……可到最后，事情的发展还是和{ヒロイン}的指示殊途同归了。
+
+　为此，我的心里一直很是愧疚。
+　明明不应该把美绪卷进来的……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left coffeeshop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="coffeeshop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟">//# schoolway2 1
+<BOX type="5">//%sR
+「今天真是……很对不起」
+
+<BOX type="0">//%w
+「怎么会呢，不要这么说嘛」
+
+　我想发牢骚的对象只有早苗而已，美绪应该没有必要道歉吧。
+
+<se id="1" src="kitchen4" mode="normal" time="" loop="off" effect="">//!se kitchen4
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿崲榝">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「很麻烦……对吧？
+　被我这样缠着」
+
+<BOX type="0">//%w
+「不会啊。我倒是想问问藤枝同学，你究竟觉得我哪里好呢」
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿斶偟傒">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪没有马上回答，而是沉默了下来。
+　……我的问题让她感到为难了吗。
+
+　不过，轻轻地低着头、一动不动地看着前面的美绪，似乎不是不知道如何回答，而是在寻找着合适的语句。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿崲榝2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}同学，那个，怎么说呢……」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是个不可思议的人呢……」
+
+<BOX type="0">//%w
+「因为……我是归国子女嘛」
+
+　这是我摆脱窘境的妙招。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿捠忢">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，{姓}同学来日本已经有一段日子了吧？」
+
+「江漣可是与我们没什么两样哦」
+
+「有时候，只有听到她那正宗的英语发音，我们才会想起她是归国子女」
+
+<BOX type="0">//%w
+「……」
+
+　{ヒロイン}的出场，着实让我有些招架不住。
+
+「那家伙……你看，她融入群体的能力不是很强吗……」
+
+「我可比不了她，到现在我连一个真正的挚友都还没有呢」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿嬃偒">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，早苗……」
+
+<BOX type="0">//%w
+「她只是把我当成玩具而已」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿偍傃偊">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么会……」
+
+<BOX type="0">//%w
+　美绪似乎很为难，不知道该说什么好。
+　说起来，早苗是她的密友，我本不该说的这么过分。
+　……不过，我真的是被她当成了玩具。
+
+「……还有啊，她居然说要指摘出我的『性格缺陷』。真是让人不爽啊」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿嬃偒">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊……」
+
+「她真的这么说过吗？」
+
+<BOX type="0">//%w
+　美绪会惊讶是理所当然的吧。
+  她一定也不止一次地被早苗“指摘”过
+
+「藤枝同学也是这么想的吗？」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿崲榝2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎？　不，怎么会呢……」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿斶偟傒">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}同学，大概是……价值观与普通人不太一样」
+
+「{姓}同学常常会凝视树木、天空之类的东西……」
+
+「虽然只是什么都不做地看着，但那个时候的{姓}同学，好像非常的感动」
+
+<BOX type="0">//%w
+「……」
+
+　那样的场面被她看到了吗。
+　我可是一点都没有察觉到。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿捠忢">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然对我们来说，这只是平淡无奇的景色而已」
+
+「可在{姓}的眼中，它们好像变得不一样了」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以，只要看着{姓}同学……」
+
+「我就会觉得不论什么事都是有意义的」
+
+「无聊的思绪也是、令人厌烦的事也是……」
+
+「它们都有着非常重要的意义，只是大家都没有注意到而已」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿崲榝">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……对不起。
+　说了莫名其妙的话」
+
+<BOX type="0">//%w
+「不……」
+
+　想说的话脱口而出。
+
+「这里，的确是非常重要的地方」
+
+<CLEAR><BACKGROUND SRC="coffeeshop">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不必担心死亡，也不必担心被杀。
+
+　欺骗、陷害、掠夺殆尽……没有做这些事的必要。
+
+　只是安稳地睡下，明天就会来临。
+
+　为了生存而去赢得战斗……这样残酷的轮回，不去重复也没有关系。
+
+　明天依旧会活着。
+　这是对谁而言，都理所当然的事。
+
+　这里，简直就是天堂。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿捠忢">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　不经意间，我注意到美绪的目光。
+
+<BOX type="5">//%sR
+「果然有些不可思议呢，{姓}同学」
+
+<BOX type="0">//%w
+　无论如何……也不想把这孩子卷进来。
+
+　望着美绪纯洁、温柔的笑容，我这样劝诫自己。
+
+<A HREF="3310.txt" OPERATOR="">//~ 3310
+
+
+
+
+
+
+
+
+
+
+
+
+0
+<BOX type="0">//%w
+　这样的交谈……能让我的心情稍稍舒缓一点吧。
+
+<A HREF="3310.txt" OPERATOR="">//~ 3310

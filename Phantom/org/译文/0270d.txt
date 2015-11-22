@@ -1,0 +1,108 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……我知道了」
+
+　我目送她离开，又一次发动了Taurus。
+
+//> left street9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　虽然我心中还留有一丝不安，
+　不过她的样子与平时没有什么不同。
+
+　一夜的哭泣让她好受一些了吗？
+　如果真的是这样就好了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right street^c wide 255 elen1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="shop" mode="fadein" old="fadeout" time="10" loop="on">//$ shop.swa 0 255
+<BACKGROUND SRC="street^c">//
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　Ein在迷惘着。
+
+　注意到的话，自己正配合着{名}的步调。
+
+　责任感……
+　虽然作为Ein的自己，从不会将目光集中在内心的微妙变化上。
+
+　不过，现在内心这种沉甸甸的感觉，
+  要表达的话，应该就是这个词语吧。
+
+　如果自己不在的话……Ein回想着痛苦的昨日。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　{名}就不会撕破护照吧。
+　他就可以一个人，毫不犹豫地逃回他的祖国吧。
+
+　虽然现在看不到活着的希望，
+  但{名}的决心依旧是那么坚定，没有一丝破裂的迹象。
+
+　至少让{名}找到一条生路吧……自己是这样希望的。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+她太过投入地思考，竟然没发现有人在跟踪她……
+等意识到的时候，为时已晚。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+在她身后10米左右的地方，
+有着一个身穿深色西服，像是在附近经商的中年男子。
+
+　但是很明显，
+  从刚才开始他一直尾随着自己。
+
+　Inferno的追兵吗……
+  不过，从什么时候开始跟在后面的？
+
+　不可能是在这里提前设好了圈套，
+  应该在很早之前就被盯上了……
+　而且，肯定是在下车之前。
+
+　这么说，
+  {名}的车也已经……
+
+　必须要通知他，
+　必须要联络{名}，
+　可是，要怎么做呢？
+
+　跟踪者有几个人呢？
+　{名}被几个人追赶着呢？
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　恐慌慢慢地吞噬着少女的心。
+
+　穿西装的男人离得越来越近。
+
+　如果是单纯的跟踪，距离有点太近了，
+  他好象并不只是想知道她的行踪。
+
+　……想做的是，抓住她。
+
+  制定当下的策略……
+  现在已经没有时间供她冷静地做出判断了。
+
+<se id="1" src="傾僀儞憱傝3" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她推开人群，跑了起来。
+
+<A HREF="0270b.txt" OPERATOR="">//~ 0270b

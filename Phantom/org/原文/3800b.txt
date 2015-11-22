@@ -1,0 +1,134 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left mio_house2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="mio_house2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一縷の望みを託して、美緒の自宅を訪れた。
+
+　万に一つも、すでに美緒が解放されていれば……
+　そんな期待も虚しく、やはり、人がいる気配はない。
+
+　不用心なことに、玄関の鍵さえ開いたままだった。
+　周囲を見渡し、人目がないのを確かめて……中に入る。
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　美緒の部屋の机には、開いたままのノートと筆記用具が放置されていた。
+　まるで勉強の最中に、ちょっと席を立っただけに見える。
+
+　水曜日の夜、美緒は自宅にいたところを、キャルに掠われたんだろうか？
+
+　せめて、そのときの様相が推測できれば、
+　何らかの手がかりになるかもしれない。
+　そう思って屋内を調べるものの、結局は徒労に終わった。
+
+　窓からの西日は、徐々に高さを失っている。
+　時間だけが、じりじりと過ぎていく。
+
+　万策尽きた。
+　もうこれ以上は、探しようがない。
+　美緒のベッドに腰を下ろし、絶望に頭を抱える。
+
+　何か……見落としはないか？
+　{ヒロイン}とキャルの行動を推し量る上で、考え違いをしていないか？
+
+<CLEAR><BACKGROUND SRC="school2b">//# elen7^2 20 school2b 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20 school2b 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まず、{ヒロイン}。
+　彼女ならこんな時は、きっと理詰めで行動する。
+　一直線に脇目もふらず、キャルの痕跡を追い求めていたはずなのだ。
+
+　……本当にそうか？
+　かつてファントムと呼ばれ、アインと呼ばれていた頃の{ヒロイン}を想定するならば、確かに、それで間違いない。
+
+<CLEAR><BACKGROUND SRC="3010p2">//# 3010p2 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だが、2年の逃亡生活を経て、
+　彼女の心境は、少なからず変容を遂げている。
+
+　そんな{ヒロイン}が、
+　以前の彼女からは予測もつかないような行動を取っていたとしたら？
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そして……
+　こちらがこれだけ露骨な行動を取っているにも関わらず、
+　依然、沈黙を通しているキャル。
+　彼女が監視を怠っているのだとしたら、一体、何をやっている？
+
+<CLEAR><BACKGROUND SRC="coffeeshop">//# drei^6 19 coffeeshop 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<BUSTUP NAME="drei" face="6" MODE="on" zoom="" ALIGN="left">//# drei^6 19 coffeeshop 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「あんたは、もっと痛めつけて、
+　苦しめて……」
+
+「それからとどめを刺してやる。
+　一番最後にな」
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1  dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　最後に……
+　苦しめてから、一番、最後に……
+
+　そこでようやく、キャルの意図するところを理解した。
+
+<CLEAR><BACKGROUND SRC="3240p3">//# 3240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　彼女は、{ヒロイン}を狙っている。
+　そういえば最初の襲撃でも、キャルはまず{ヒロイン}に挑戦してきた。
+
+　そしてその挑戦に、単身、臆することなく応じた{ヒロイン}。
+　彼女もまた、あの日、誰に相談することもなく、
+　自分一人で事態を収めようとしていた。
+
+　二人は……
+　あの日の対決に、決着をつける気でいるのでは？
+
+<CLEAR><BACKGROUND SRC="mio_room3">//# mio_room3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　絶望感に、目の前が暗くなる。
+　最悪の予想の通りに、シナリオは進んでいる。
+
+<BOX type="0">//%w
+　落ち着け。
+　冷静に考えろ。
+
+　この日本で、{ヒロイン}とキャルの双方が知っている場所。
+　決闘に臨むにあたり、誰の邪魔も受けないような場所。
+　誰もいない、誰の目にもつかない場所……
+
+<CLEAR><BACKGROUND SRC="school1b">//# school1b 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　考えるまでもない。今日の篠倉学園だ。
+
+　普段の日曜なら、部活に精を出す生徒もいただろう。
+　だが、試験前日の今日に限って、それはない。
+　山腹に孤立した校舎は、完全に無人のはずだ。
+
+<CLEAR><BACKGROUND SRC="mio_house2">//# mio_house2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そこまで思い至れば、あとはもう一刻の猶予もなかった。
+　篠倉学園。ここからなら、ゆうに1時間はかかってしまう。
+
+　頼む……間に合ってくれ……
+
+<A HREF="3615.txt" OPERATOR="">//~ 3615

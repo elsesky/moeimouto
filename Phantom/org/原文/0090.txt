@@ -1,0 +1,163 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　眩しさで、目が覚めた。
+
+　窓から射し込む西日が、ちょうど顔に当たっていた。
+　部屋には、誰もいない。
+
+　こんなに日が傾くまで寝ていたなんて、初めてのことだ。
+　アインは……昨夜、出かけたきりなのか？
+
+//> left factory wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　だが部屋の外に出て、妙なことに気がついた。
+
+　なぜか、動き回る射的の仕掛けが取り払われている。
+　昨夜、寝る前はたしかにあったのに……
+
+　アインは一度戻ってきて、また、どこかへ出かけたんだろうか？
+
+　いまひとつ釈然としないが、
+　ともかく、今日は訓練は休みらしい。
+
+//> left field wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　こんな生活を始めて、もうどのくらい経つんだろうか。
+
+　何週間？　何ヶ月？
+
+　まさか半年以上ってことはないと思うが……確証はない。
+　日付の感覚は、まったくなくなってしまっている。
+
+　自分の腕に触ってみる。
+　日焼けした肌の下に、固く盛り上がった筋肉の感触。
+　我ながら驚く。
+
+　訓練の成果なんだろう。
+　この廃墟で過ごした日々が現実のものだという、確かな証拠だ。
+
+　……だが、
+　それでもなお、夢の中にいるような、
+　地に足のつかない浮遊感は否めない。
+
+　……本当にこれは、殺し屋の育成なんだろうか。
+
+//> left sunset wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　物思いに耽るうち、日が沈み、空の朱色もやがて退き……
+
+//> left nightfield wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="nightfield">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　そして、静寂の夜が訪れた。
+
+//> left nightfield wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="nightfield">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夜風に当たりながら、漫然と荒野を眺めていると、
+　やがて彼方で瞬くヘッドライトの光芒が目についた。
+
+　アイン……か？
+
+//もえらＳＥ追加
+<se id="1" src="ベンツ荒野停止" mode="normal" loop="off">
+
+　やがて廃工場の敷地に乗り入れて来たのは、
+　2ドアのスポーツクーペだった。
+　ハンドルは、アイン自身が握っている。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……どうかしたの？」
+
+<BOX type="0">//%w
+　車を降りたアインに、
+　ぼんやり立っているところを見咎められて、そう声をかけられる。
+
+「いや、別に……」
+
+　今さら、アインに車の運転ができると知ったくらいで、
+　驚くには当たらない。
+
+　だがなぜ、今日に限って……？
+
+　今までアインが送迎車に頼っていたのは、
+　外部との連絡を絶つためだろうと思っていた。
+
+　荒野の真ん中で、万にひとつも脱走の機会など与えぬよう、
+　アインもろとも孤立した生活を送らせる……
+　それが連中の思惑だったんじゃないのか？
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「来て。
+　そろそろ準備をしておかないと」
+
+<BOX type="0">//%w
+　……だがもちろん、アインは何の説明もしてくれないまま、
+　建物の中に入っていった。
+
+//> left factory2  wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……また新手の訓練なのかい？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいえ」
+
+「今夜は……試験よ」
+
+<A HREF="0090b.txt" OPERATOR="">//~ 0090b

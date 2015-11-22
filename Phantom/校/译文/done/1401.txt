@@ -1,0 +1,10 @@
+<BOX type="0">//%w
+  今夜的话，带这把0.45口径的柯尔特政府型就行了。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="11_02">//
+<CALC WORKNAME="廵" OPERATOR="僐儖僩">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僈僶儊儞僩">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僈僶儊儞僩2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡CV">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

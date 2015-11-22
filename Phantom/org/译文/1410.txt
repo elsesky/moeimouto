@@ -1,0 +1,38 @@
+//> left room0d1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0d1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有工作吗？」
+
+<BOX type="0">//%w
+「嗯，可能会晚点回来。你先睡吧」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我大概不会睡吧」
+
+「白天捡到了一台坏掉的录象机，不知道能不能修好，我想试着通宵修理一下」
+
+<BOX type="0">//%w
+「……我给你买部新的不就行了，一台录象机而已」
+
+<BOX type="5">//%sR
+「唔，真的吗？」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那，修不好的话你要买给我哦，要索尼的」
+
+<BOX type="0">//%w
+「我知道了，不要熬夜啊」
+
+<A HREF="1420.txt" OPERATOR="">//~ 1420

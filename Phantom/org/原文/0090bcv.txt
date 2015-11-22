@@ -1,0 +1,25 @@
+//> left ガバメント wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ガバメント">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　訓練で、いちばん馴れた銃……
+
+　悩んだ末に手に取ったのは、コルト＝ガバメントだった。
+
+　同じ自動拳銃のベレッタより扱いにくく、装弾数でも劣るとはいえ、
+　標的のブロックやベニヤ板を吹き飛ばす.45口径の派手な威力を思うと、
+　やはりベレッタにはない頼もしさがあった。
+
+<CALC WORKNAME="射撃音" OPERATOR="11_02">//
+<CALC WORKNAME="銃" OPERATOR="コルト">//
+<CALC WORKNAME="銃画像" OPERATOR="ガバメント">//
+<CALC WORKNAME="射撃画像" OPERATOR="ガバメント2">//
+<CALC WORKNAME="構え画像" OPERATOR="">//
+<CALC WORKNAME="Ｇガバメント" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a

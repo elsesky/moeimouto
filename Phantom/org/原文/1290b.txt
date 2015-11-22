@@ -1,0 +1,68 @@
+//> left rooftop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="rooftop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　今のは……銃声？
+
+　遠すぎて拡散していたが、
+　まさか……
+
+<A HREF="#スルー" OPERATOR="1280b=1">
+　一旦、仕舞ったブレイザーを再びケースから出して、
+　そのスコープを南西方向に振り向ける。
+　半マイル彼方の、ボナベンチャーホテルの5階に。
+
+<A HREF="#合流">
+<MARKER NAME="#スルー">
+　取り落としたまま床に転がしてあったブレイザーを取り、
+　そのスコープを南西方向に振り向ける。
+　半マイル彼方の、ボナベンチャーホテルの5階に。
+
+<MARKER NAME="#合流">
+　陽光に輝く窓ガラスが、そこだけ奈落が口を開けたように割れていた。
+
+　馬鹿な……
+
+　愕然として周囲を見回す。ただ無言の偉容でそびえ立つ摩天楼の群れを。
+
+　違う。この近辺じゃない。
+　今の銃声、ここに届くまでに、そうとう拡散していた。
+　たぶん、この位置からも……さらに1キロは隔たっている。
+
+「そんな……馬鹿な」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1290x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="1290x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//<se id="1" src="17_02" mode="normal" loop="off">
+
+<BOX type="4">//%sL
+「任務、完了しました」
+
+
+<BOX type="5">//%sR
+『……よろしい。
+　首尾はこちらでも確認している。
+　御苦労だった』
+
+『ただちにルートCで離脱し、
+　待避ポイントで次の指示を待て』
+
+<CLEAR><BACKGROUND SRC="1290p3">//# 1290p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……了解。これより離脱します」
+
+<calc workname="gun26" operator="1" mode="global">
+<A HREF="1300.txt" OPERATOR="">//~ 1300

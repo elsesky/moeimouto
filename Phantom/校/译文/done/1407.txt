@@ -1,0 +1,12 @@
+<BOX type="0">//%w
+  常用的“蟒蛇”的确不错，不过偶尔用用这把MATEBA也不坏。
+
+  特殊的结构，或许能够发挥出意想不到的效果。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="05_02">//
+<CALC WORKNAME="廵" OPERATOR="儅僥僶">//
+<CALC WORKNAME="廵夋憸" OPERATOR="儅僥僶">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="儅僥僶2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡MB">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

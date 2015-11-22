@@ -1,0 +1,87 @@
+//> right bay8 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay8">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="" mode="fadeout" time="10">
+<se id="3" src="" mode="fadeout" time="10">
+<wait time="200">
+<BOX type="3">//%w
+　アインもまた、
+　ロシュネンコ大佐の私兵たちとは
+　別行動をとっていた。
+
+　やはり、本隊を囮にしての
+　迂回戦術である。
+
+　コンテナの陰を駆け渡り、
+　位置を転々と変えながら、
+　インフェルノの戦闘員を
+　着実に狙い撃ちにしていく。
+
+<se id="1" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0310p1">//#! 0310p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%w
+　作動の信頼性に欠けるオートマグを、アインは単発銃のつもりで扱っていた。
+
+　撃つときは必ず、銃把左側面の
+スライドストップを押し上げながら引き金をひく。
+
+<se id="2" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　こうすることで、
+　オートマグの遊底は、
+　次弾を自動装填することなく、
+　1発ごとに後退位置で停止した。
+
+　無事に排莢されればそれで良し、
+　もし誤作動で空薬莢が
+　薬室内に残っても、
+　そこに次弾が送り込まれて
+　装弾不良を起こすことはない。
+
+　指で空薬莢をつまみ出してから、
+　遊底を戻せばいい。
+
+<se id="3" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　自動拳銃であることのアドバンテージを最初から放棄した使用法だが、こうでもしなければ、3発に1発はジャミングを起こすというオートマグで、実戦には挑めない。
+
+　どのみち、満足な作動が望めたとしても、今のアインに使いこなすことは出来なかっただろう。
+
+<se id="1" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　自動ライフル同然のローラー＝ロッキングボルト機構が、ある程度は反動を抑えているとはいえ……
+
+　強烈すぎる44マグナム弾の反動は、未だ腹の傷の完治しないアインには、凌ぎきれるものではなかった。
+
+　反動を受け止めるたびに、癒えかけていた脇腹の傷を、抉るような痛みが襲う。
+
+　痛みの余韻は、一発ごとに長く尾を引くようになり、今はもう、ズキズキと疼くような鈍痛が、根を張ったように止まらない。
+
+　この調子で続ければ、
+　いつ傷が開いても不思議はない。
+
+<CLEAR><BACKGROUND SRC="bay8">//# bay8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%w
+　どう転んでも、サブマシンガンで武装した敵が相手では、圧倒的に不利だったが、アインには、武器に難癖をつけるという発想はない。
+
+<se id="2" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　どんな任務であれ、
+　与えられた武器で対処する。
+　装備で及ばないのなら、
+　差は戦術でカバーする。
+
+　サイス＝マスターの最高傑作、
+　アインであれば、
+　そうあって然るべきなのだ。
+
+<A HREF="0315.txt" OPERATOR="">//~ 0315

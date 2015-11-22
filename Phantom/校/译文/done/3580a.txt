@@ -1,0 +1,26 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="ruins3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　哭过之后，凯尔从口袋中拿出美绪的手机。
+
+　结束一切吧。
+
+　凯尔翻看着美绪手机中的通信录。
+
+　虽然不认识汉字，但凯尔能够记住汉字的形状。
+
+　之前她就注意到了，在显示{名}这个名字的文字列中，还有一个具有相同前缀的名字。
+
+　那个名字的前半部分，如果是姓的话……
+
+　说起来，Ein应该是以{名}妹妹的名义取得日本国籍的。
+
+<A HREF="3580b.txt" OPERATOR="3520=1">//~ 3580b
+<A HREF="3580c.txt" OPERATOR="">//~ 3580c

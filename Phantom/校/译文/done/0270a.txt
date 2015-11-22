@@ -1,0 +1,149 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……{ヒロイン}？」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我叫住了打开车门走下车的她。
+  {ヒロイン}俯下肩，“什么事”，她用眼睛这样向我询问
+
+　没有惊讶，没有慌张，她显得非常自然。
+
+<BOX type="0">//%w
+「……不，没什么」
+
+「小心点」
+
+<se id="1" src="僩乕儔僗婎杮憱峴" mode="normal" loop="off">
+
+　她点了点头，
+  于是我把她留在路边，又一次发动了Taurus。
+
+//> left street9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我心中悬着的石头，总算放了下来。
+
+　我想着刚刚叫她{ヒロイン}的时候，她那自信的样子。
+　被那样称呼，她没有表现出任何的抵触。
+
+　虽然那么微不足道的小事，可是现在却给了她莫大的勇气。
+
+　事情的进展，不是出乎意料地顺利吗？
+
+　在我感觉一点希望都没有的前路上，
+  出现了一线光明。
+
+　之后就是习惯的问题了，对于我们彼此都是。
+
+　{ヒロイン}。
+
+　从今以后，即使是在心中，自己也这么称呼她吧。
+
+　如果这种事变得自然，
+  说不定她的心可以提早得到治愈。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right street^c wide 255 elen1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+//<bgm src="shop" mode="fadein" old="fadeout" time="10" loop="on">//$ shop.swa 0 255
+<se id="1" src="暷崙岎嵎揰拫" mode="normal" loop="off">
+
+<BACKGROUND SRC="street^c">//
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　真是不可思议。
+
+　本应该还不习惯被那么叫的，
+  可为什么自己的反应会那么简单呢。
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{ヒロイン}……」
+
+<BOX type="0">//%w
+　她一遍又一遍的重复着。
+
+　她意识到自己的反应自然的有点不对劲的时候，
+  是在{名}的Taurus开走以后。
+
+为了伪装而使用假名字的事情，以前也有过好几次。
+ 如果所有精力都集中在任务上的话，不管怎样都会装得很自然……
+自己也对自己的这种演技很有自信。
+
+　可是在不经意间被这样呼唤，下意识地回头，
+  之前好象还没有过吧？
+
+　{ヒロイン}。
+　这是不可思议的声音。
+  简直就像是魔法的咒文一样。
+
+<se id="1" src="" mode="fadeout" time="30">
+//<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她太过投入地思考，
+  竟然没发现有人在跟踪她……
+  等意识到的时候，为时已晚。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+在她身后10米左右的地方，
+有着一个身穿深色西服，像是在附近经商的中年男子。
+
+　但是很明显，
+  从刚才开始他一直尾随着自己。
+
+　Inferno的追兵吗……
+  不过，从什么时候开始跟在后面的？
+
+　不可能是在这里提前设好了圈套，
+  应该在很早之前就被盯上了……
+　而且，肯定是在下车之前。
+
+　这么说，
+  {名}的车也已经……
+
+　必须要通知他，
+　必须要联络{名}，
+　可是，要怎么做呢？
+
+　跟踪者有几个人呢？
+　{名}被几个人追赶着呢？
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　恐慌慢慢地吞噬着少女的心。
+
+　穿西装的男人离得越来越近。
+
+　如果是单纯的跟踪，距离有点太近了，
+  他好象并不只是想知道她的行踪。
+
+　……想做的是，抓住她。
+
+  制定当下的策略……
+  现在已经没有时间供她冷静地做出判断了。
+
+<se id="1" src="傾僀儞憱傝3" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她推开人群，跑了起来。
+
+<A HREF="0270b.txt" OPERATOR="">//~ 0270b

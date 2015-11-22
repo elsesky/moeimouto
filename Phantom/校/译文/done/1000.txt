@@ -1,0 +1,228 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> after1 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<clear>
+<BACKGROUND SRC="1擭屻">////侾擭屻丄偺夋憸偑昁梫
+<WIPE EFFECT="fade" TIME="20">
+<wait time="500">
+<clear>
+<BACKGROUND SRC="black">//
+<WIPE EFFECT="fade" time="20">
+//$ 0 0 0
+<se id="1" src="僥儗價僲僀僘1" mode="normal" time="" loop="off" effect="">//!se radio
+<CLEAR><BACKGROUND SRC="sandstorm">//#! sandstorm 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<se id="1" src="" mode="fadeout" time="2">
+<CLEAR><BACKGROUND SRC="1000x1">//#! 1000x1 1
+<WIPE EFFECT="fade" TIME="0">
+<se id="2" src="news" mode="normal" time="" loop="off" effect="">//!se news
+<wait time="2000">
+<BOX type="3">//%m
+　目前，全美国的黑社会正陷入一片恐慌之中。
+
+　铁壁般的防卫措施包围下的犯罪大王，被迷一样的子弹击杀。
+
+　仅去年1年，就有超过20名黑道巨头在这种难以理解的清洗行动中成为牺牲品。
+
+　这一连串看起来没有丝毫关联的暗杀事件，被相关人士称为『Phantom狂潮』，引发了各式各样的揣测。
+
+　他究竟是谁？
+　他的目的是什么？
+
+　下面让我们听一听专家的意见。
+
+<CLEAR><BACKGROUND SRC="1000x2">//# 1000x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+『虽然社会上盛传这是政府机关的隐秘犯罪歼灭作战。但实际上，这样的假设是无稽之谈』
+
+『这种极具煽动性的阴谋论，只适用于小说中描绘的虚幻世界』
+
+『对于这些事件，媒体在近期给予了过分的重视』
+
+『现在，全美的犯罪组织中的内部抗争正朝着慢性化的方向发展，兴起了所谓的‘以下犯上’的潮流』
+
+『接连发生的组织干部暗杀事件，不过是这股血腥潮流引发的结果。将这些看做是偶然更为妥当』
+
+<CLEAR><BACKGROUND SRC="1000x1">//# 1000x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　虽然有这样的分析，但是“『Phantom狂潮』是由同一个人所为”这样的传言究竟还会持续多久，我们依旧不得而知。
+
+　暗杀者Phantom真的存在吗？
+
+<CLEAR><BACKGROUND SRC="1000x3">//# 1000x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　在一年前追逐着那个真相的独身记者，突然间音信全无。
+
+　他、克柯·爱德华兹。
+　究竟看到了什么？
+  究竟想要向我们传达什么？
+
+　今天的专题报道中，我们将根据克柯记者留下的不完全的记录，沿着他的足迹，逐步揭开迷之暗杀者Phantom的真相……
+
+<se id="1" src="僥儗價僲僀僘1" mode="normal" time="" loop="off" effect="">//!se radio
+<se id="2" src="" mode="fadeout" time="0">
+<CLEAR><BACKGROUND SRC="sandstorm">//#! sandstorm 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<CLEAR><BACKGROUND SRC="#000000">//#! sandstorm 1
+<WIPE EFFECT="fade" TIME="0">
+//> right 1000x5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="opera" mode="fadein" old="fadeout" time="10" loop="on">//$ opera.swa 0 255
+<BACKGROUND SRC="1000x5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="1">//%m
+『……让我们追求梦想，忘却烦恼，用这炽热的思念与强烈的愿望将我们二人紧紧地连在一起，让我们成为一体……』
+
+<CLEAR><BACKGROUND SRC="1000x4">//# 1000x4 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="2">//%w
+　舞台上，一部爱得死去活来的戏正演到最高潮，然而台下的德鲁克·雷托却有些坐立不安。
+
+　虽然是难得的放松时刻，可是他无论如何都无法忘掉工作上的事。
+
+　德鲁克是垄断纽约的五大家族中最大势力的冈宾诺家族的一员。
+
+　身为被称作“嫡系成员”的上级干部之一的他，同时还兼任着辅佐头领的顾问一职。
+
+　从一点上来看，他就是冈宾诺家族事实上的二把手。
+
+　即便不是这样，人们对于这个为家族奉献一切达30多年的老兵，还是怀着至高的敬意与畏惧。
+
+只要一听到“钢之德鲁克”这个名号，任谁也会退避三舍。
+
+　不过……
+
+<CLEAR><BACKGROUND SRC="1000x5">//# 1000x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="1">//%m
+『……与你一心一意地走下去，没有回头的余地，我已这样决定……』
+
+<CLEAR><BACKGROUND SRC="1000x4">//# 1000x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“毛头小子……”
+
+<box type="2">//%w
+　一想到刚刚成为“嫡系成员”的表弟迈尔那副桀骜不驯的态度，德鲁克就会非常恼火。
+
+　在昨天晚上聚餐的时候，他甚至当着其他家族成员的面逼迫自己退隐。
+
+　那个小子与传说中的Inferno有联系，这件事是不容置疑的。
+
+　华丽的立功方式也是，成为“嫡系成员”的方式也是，这一切都显得太不正常了。
+  那小子毫无疑问是那个臭名昭著的内奸同盟中的一员。
+
+　他对家族没有丝毫的忠诚。
+
+　他贡献给冈宾诺的利益，并不是他勇气和实力的证明。那只是他跟敌对家族在背地里联手，进行肮脏交易的结果。
+
+　总有一天会抓住他的把柄……
+
+　然后让他好好尝尝家族的血规。
+
+<CLEAR><BACKGROUND SRC="1000x5">//# 1000x5 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="2">//%w
+　渐渐焦躁起来的德鲁克，根本没有注意到舞台上发生的一切。
+
+<BOX type="1">//%m
+『……我发誓会永远和你在一起，来吧，克里斯蒂娜……』
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right white wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+
+//<wait time="900">
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="5">
+//$ 0 0 0
+<CLEAR><BACKGROUND SRC="1000loop">//#! 1000loop 1
+<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="900">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="5">//%sR
+「呀啊啊啊啊啊!!」
+
+<se id="2" src="恖乆偺斶柭" mode="normal" time="" loop="off" effect="">//
+<bgm src="l_fight2" mode="fadein" old="fadeout" time="0" loop="on">//$ fight.swa 255 255
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「顾、顾问!?」
+
+<CLEAR><BACKGROUND SRC="1000x7">//# 1000x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「在那里!在舞台上!!」
+<se id="1" src="攇巭応廵寕" mode="normal" time="" loop="on" effect="">//!se 
+
+<BOX type="5">//%sR
+「开灯!　快开灯!!」
+
+<se id="2" src="楁擇偺儅儞僩" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="1000x8">//# 1000x8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「可恶!!
+　一定不能让他跑了!!」
+
+<BOX type="5">//%sR
+「他跑进后台了!!
+  快派人过去!!」
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="5">
+
+//<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="4">//%sL
+「可恶啊!!　跑到哪里去了!?」
+
+<BOX type="5">//%sR
+「没人吗？
+  把守后门的家伙呢!?」
+
+<BOX type="4">//%sL
+「这个……」
+
+<BOX type="5">//%sR
+「算了，警察要来了。
+  快撤!」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1000x9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1000x9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「啊，顾问，
+  怎么会这样……」
+
+「……混蛋，究竟是谁干的……」
+
+<BOX type="4">//%sL
+「……是Phantom。
+  是Inferno的Phantom……」
+
+「……那家伙，真的是……」
+
+<A HREF="1010.txt" OPERATOR="">//~ 1010

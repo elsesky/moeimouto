@@ -1,0 +1,51 @@
+　异常寂静的街区上，什么动静都没有……
+
+<CLEAR><BACKGROUND SRC="1480x2">//# 1480x2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="2" loop="on">//$ 0 _1 0
+<BOX type="0">//%w
+　唯独在我家的门前停着一辆看起来很眼熟的奔驰车，车上的引擎还没关。
+
+　那是，之前死掉的兰迪和他的部下所乘的车。
+
+「……!」
+
+<se id="1" src="楁擇憱傝4" mode="normal" time="" loop="off" effect="">//
+　就在有人骂骂咧咧地走出阁楼之后，
+
+<se id="2" src="儘僼僩敋敪" mode="normal" time="" loop="off" effect="">//!se exprosion
+<se id="1" src="" mode="fadeout" time="5">
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1480x1">//#! 1480x1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　从阁楼的窗户中，迸发出了巨大的火焰和爆破声。
+
+<se id="3" src="burning" mode="normal" time="" loop="off" effect="">//!se burning
+<CLEAR><BACKGROUND SRC="streetsmoke">//# streetsmoke 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我被热浪和冲击波推着，不住地向后退却，随即失去平衡倒在了路边。
+
+　然而我的眼睛并没有离开那里。
+  我就像白痴一样，呆呆地看着滚滚而上的黑烟，束手无策。
+
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+　大脑在一瞬间停止了思考。
+  如果稍微思考一下的话，自己就会明白。
+
+<se id="1" src="儀儞僣憱傝弌偟" mode="normal" loop="off">
+　遭受了那样的爆炸，里面的人是不可能活下来的。
+
+　见证了爆破成果的奔驰车，缓缓地开走了。
+
+　到最后，他们也没注意到我……
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="" mode="fadeout" time="30">
+<CHOICE HREF="1480b.txt" TEXT="＊逃亡" OPERATOR="1330=1"></A>
+//{ ＊隠れる 1480b ＊皆殺しにする 1570a
+<CHOICE HREF="1570a.txt" TEXT="＊把他们全杀了" OPERATOR="1330=1"></A>
+//{ ＊隠れる 1480b ＊皆殺しにする 1570a
+
+<A HREF="1480c.txt" OPERATOR="">//~ 1480c

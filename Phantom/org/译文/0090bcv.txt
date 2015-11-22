@@ -1,0 +1,26 @@
+//> left 僈僶儊儞僩 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="僈僶儊儞僩">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　训练中，自己最顺手的枪……
+
+　我苦想了一会，拿起了柯尔特政府型M1911。
+
+　虽然它没有同为自动手枪的贝瑞塔容易驾驭，装弹数也更少，
+  但考虑到0.45口径那可以轻易打飞胶合板标靶的巨大威力，
+  这把枪果然还是比贝瑞塔更可靠啊。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="11_02">//
+<CALC WORKNAME="廵" OPERATOR="僐儖僩">//
+<CALC WORKNAME="廵夋憸" OPERATOR="僈僶儊儞僩">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="僈僶儊儞僩2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="">//
+<CALC WORKNAME="俧僈僶儊儞僩" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a
+

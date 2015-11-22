@@ -1,0 +1,71 @@
+//> left room0e1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0e1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……駄目だ」
+
+　必死の思いで、理性で自分を繋ぎ止め、言葉を吐いた。
+
+「今は……駄目だ、キャル」
+
+「お前は好きだ。たまらなく好きだ。でも殺し屋は嫌いだ」
+
+「……だから、お前を殺し屋の恋人になんて、したくない」
+
+<BUSTUP NAME="cyall2" face="8" MODE="on" zoom="" ALIGN="right">//# cyall2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな……」
+
+<BOX type="0">//%w
+「だから俺は、殺し屋をやめる」
+
+<BUSTUP NAME="cyall2" face="0" MODE="on" zoom="" ALIGN="right">//# cyall2^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　これほど簡単に、口を衝いて出る言葉とは思わなかった。
+　だが今はもう、迷いはない。
+
+「お前と一緒になるために、お前に相応しい男になるために、
+　まず俺は殺し屋をやめる」
+
+<BOX type="5">//%sR
+「{名}……」
+
+<BOX type="0">//%w
+「もちろん、簡単なことじゃない。
+　いろんな人間を騙して、裏切って……敵に廻すことになる」
+
+「準備がいる。慎重に、時間をかけて、後始末をしなきゃならない」
+
+「だから、それまでは……待ってくれ」
+
+「そして、全てにケリがついたら……
+　そのときは、キャル。俺の女になってくれ」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「危ないこと……する気なの？」
+
+<BOX type="0">//%w
+　さすがにキャルは察しが良かった。
+　皆まで語らずとも、
+　それがどれだけ危ない綱渡りになるかは、感じ取っている。
+
+「そうなるな」
+
+「だが心配はいらない。必ず俺は、帰ってくるから」
+
+<BOX type="5">//%sR
+「……本当に？」
+
+<BOX type="0">//%w
+「ああ、本当さ」
+
+<A HREF="1380.txt" OPERATOR="">//~ 1380

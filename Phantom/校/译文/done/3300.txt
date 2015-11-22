@@ -1,0 +1,413 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　礼拜六……
+　上午的第三节课结束后，今天的课程就算告一段落了。
+
+　2年B班、{姓}江漣的缺席，没有引起任何人的注意。
+
+　精力充沛的学生们吵吵嚷嚷地涌出了校门。
+
+　混在人群中的话，周围的交谈声就会不断传进耳朵。
+　学生们的话题基本上都是关于周末的预定，可谓是谈的不亦乐乎，就像是在讨论什么重大课题一样。
+
+「为什么大家都这么焦躁呢？」
+
+　我随口对走在身边的美绪这样问道。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「下下周一就要期末考试了哦」
+
+<BOX type="0">//%w
+　啊，对了。
+　能够利用的周末，只剩今明两天了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　期末考试……
+　如果{ヒロイン}的计划一切顺利，到那时，虚假的学生生活就将落下帷幕。
+
+　与大家一同紧张应考，享受逃离不及格的喜悦……
+  那样的事，已经与自己无缘了。。
+
+<CLEAR><BACKGROUND SRC="schoolway2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　总感觉好寂寞啊……
+　可是，自己现在没有时间沉浸于伤感之中。
+  相比争取及格，我们要做的是……保住性命。
+
+　{ヒロイン}现在正在未知的街道与走私商人交涉着。
+　不知道事情能够顺利……
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}同学，考试有危险吗？」
+
+<BOX type="0">//%w
+「嗯？还好啦……」
+
+　刚才自己光顾着考虑事情，似乎被美绪误解了。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我也稍稍有点危险呢」
+
+「新年的时候，由于感冒休息了一段时间」
+
+<BOX type="0">//%w
+「是吗……」
+
+　我应该更用心一点地回答她吧。
+　这样的回答，简直就是在告诉她自己的心现在不在这里。
+
+「明天，我们也……」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「？」
+
+<BOX type="0">//%w
+「……出去玩玩吧？」
+
+<BUSTUP NAME="mio1" face="3" MODE="on" zoom="" ALIGN="right">//# mio1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎!?」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　美绪大大地吃了一惊，马上红着脸低下了头。
+
+「啊，不是，抱歉啊」
+
+　好不容易才找到话题，偏偏自己又说出了没脑筋的话。
+  美绪也在为考试辛苦准备着，现在不是说这种话的时候吧。
+
+「抱歉啊，我有点太急了。你不方便的话就算了吧」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不会啊……」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「难得有时间，一起去吧」
+
+<BOX type="0">//%w
+　……美绪那纯净的笑脸，更加映照出了我的卑鄙与残酷。
+
+　自己为什么要欺骗她呢。
+
+　这次的约会……
+　说起来，{ヒロイン}曾经指示过，要我待在美绪身边。
+　为了防止在某处监视着我们的志贺一伙采取什么行动。
+
+　话虽如此，万一梧桐组的老大甘心舍弃私情、不顾私生女儿的安危而贸然出手怎么办？
+
+　那样的话，接近美绪不但没有任何意义，还会将她置于危险之中。
+
+　别在腰后的枪，变得异常地沉重。
+
+　不，多余的伤感还是收敛一下吧。
+
+　将这个谎言编织到最后，绝对不让美绪知道真相……自己早已这样决定了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left station_day wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="擔杮岎嵎揰拫" mode="fadein" old="fadeout" time="10" loop="on">//$ mob2.swa 0 120
+<BACKGROUND SRC="station_day">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　下午1点……
+　还有一会儿才到约定的时间。
+
+　我悠闲地走在人流中，享受着星期日的热闹与繁华。
+
+　说起来……
+　虽然好不容易才回到日本，可自己一次都没有像这样置身于日常的情景中。
+
+　传进耳朵的喧嚣声是全是日语……仅仅如此就能让我的心情安宁下来。
+
+　不经意间回头，我与朝这边小跑过来的美绪四目相对。
+
+　这是我第一次见到美绪穿便服的样子。
+  她依然是她，但她留给的我的印象却与以往完全不同。
+
+<bgm src="" mode="fadeout" time="40" loop="on">//> left 3300p1 wide 255
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……抱歉啊，等很久了吗？」
+
+<BOX type="0">//%w
+「没有，我只是早来了一会」
+
+　事实上，现在距离约好的时间还有10多分钟。
+
+「……总之，先去吃午饭吧」
+
+<BUSTUP NAME="mio2" face="9" MODE="on" zoom="" ALIGN="right">//# mio2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「说的也是呢」
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="捁偑偼偽偨偔" mode="normal" time="" loop="off" effect="">//
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="3300p1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　这样活泼的美绪，我还是第一次见到。
+
+　在学校的时候，美绪给人的印象是既客气而又怯生生的，从没有像今天这样有说有笑、表情活泼。
+  让我感觉她就像很久没有上过街一样。
+
+　这就是她开朗的一面吗。
+
+　在校园里，能与美绪亲密交谈的朋友不过寥寥数人。
+  作为一个女孩子，这样的交际圈实在是有点小。
+
+　不过……
+　要是她能在学校里露出这样开朗的表情，别人对待她的态度肯定会大为不同吧。
+
+　那张笑脸，会让人在不知不觉间变得想以笑脸相对。
+
+　突然间注意到，面对美绪的笑脸，自己的脸上也绽开了笑容。
+
+　这份平和，是什么呢。
+
+因为欺骗她、利用她而受到良心的谴责……自己不可能忘记这一切。
+由于这份罪恶感，待在美绪身旁的时候，自己应该一直感到十分痛苦才对。
+
+　可是，为什么？
+　现在，我的内心非常轻松，身体彻底融入了街道上的繁华之中。
+
+　Inferno的追踪也好，美绪背负着的梧桐组的秘密也好，对我来说全都像是另一个世界的故事一般虚无缥缈。
+
+　是因为……她的笑容吗。
+
+//> left coffeeshop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="coffeeshop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「电影，感觉有意思吗？」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徫婄">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　在购物途中，我们刚好赶上电影院在举行某部电影的首映活动……
+
+　直到电影结束、我们走进咖啡馆，美绪还是一副十分兴奋的样子。
+
+<se id="1" src="kitchen4" mode="normal" time="" loop="off" effect="">//!se kitchen4
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿捠忢">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天的{名}同学……感觉很不可思议呢」
+
+「好像比平时要更有活力哦」
+
+<BOX type="0">//%w
+「是这样……吗？」
+
+<BOX type="5">//%sR
+「是啊」
+<se id="1" src="" mode="fadeout" time="30">
+
+<BOX type="0">//%w
+　美绪天真无邪地笑着。
+  话说回来，她给人的感觉才是与平常截然不同。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我很愁拥挤的人群的……要是平时的话，一会就累得不行了」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今天却一点问题都没有哦」
+
+「总感觉，时间过得好快啊……真想就这样一直玩下去」
+
+<BOX type="0">//%w
+「是吗……」
+
+　时间在流逝。
+  结束的时刻，已经近在眼前了。
+
+　无论这场危机是否会延伸下去，最早下周，最迟月底……我们就将离开这个国家。
+
+　所剩无几的时间，要是能像这样度过的话，应该会是非常美妙的吧。
+
+　说不定，自己再也不会回到这个国家了……
+
+<CLEAR><BACKGROUND SRC="coffeeshop">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　突然间，自己意识到了……
+　自己现在享受着的时光，正是自己心中难以抹去的痛。
+
+如果自己能够理所当然地生活在这个国家，无忧无虑地度过每一天。
+那么，下周也是，下月也是，明年也是……像今天这样美好的日子应该会永远继续下去吧。
+
+　这简直就像是自己的另一次人生。
+
+　或许与4年前的自己所拥有的生活一样的……另一次的人生。
+
+　那一天，如果自己没有在洛杉矶的贫民窟里迷路……
+　如果自己没有受困于Inferno、走上满是鲜血的不归路……
+　说不定，自己就可以拥有这样美好的生活。
+
+　这样的安宁与幸福，说不定就不会结束。
+
+　那个时候，自己根本顾不上考虑这种事。
+　一成不变的日子，让人彻底失去了生活的信心……自己留下的只有这样的记忆。
+
+　时至今日，自己已经失去了一切……时间留下的伤口，还能被幸福所填平吗。
+
+　为什么？
+　为什么在一切都太迟了的现在……这份残酷的幸福会出现在我的眼前呢。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿嬃偒">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么了，{名}同学？」
+
+<BOX type="0">//%w
+　这时我才发现，美绪正一脸担心地窥视着我的表情。
+
+什么都不知道。
+什么都没有注意到。
+正因为如此，美绪才会感到不安，才会用那样纯洁而又无助的眼神望着我。
+
+「那个」
+
+「如果，我能以与现在完全不同的方式活着……普普通通地生活在日本」
+
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+「那样的话，我还能遇到藤枝同学……还能像今天这样与藤枝同学约会吗…………」
+
+　……自己究竟想说什么呢？
+　我不禁想要这样质问自己。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿崲榝2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那当然……大概……我想，应该可以吧」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿斶偟傒">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为，不管以怎样的方式生活，{姓}同学还是{姓}同学吧？」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以，不管是怎样的{姓}同学，我都会喜欢吧……」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徠傟2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，不过，那样的{姓}同学会不会同意与我交往，就是另外的事了」
+
+<BOX type="0">//%w
+「……」
+
+　听到我一时兴起的胡言乱语，不但没有感到奇怪，反而自然地接受下来，作出回应……
+
+　正因为她是美绪，这样的事才能实现。
+　她让我忘记了一切，沉浸在短暂却又无与伦比的幸福之中。
+
+　没有任何预兆。
+  我被一股强烈到几乎要让自己失去自我的冲动所驱使。
+
+　我想把一切都告诉她。
+　自己的真面目、过去犯下的罪行、如今的立场……关于自己的一切。
+
+　那样的话，美绪会宽恕我吗？
+
+　如果美绪在知道了真相以后，还能像这样微笑的话……无论是什么都将被治愈吧。
+
+　如果，无论是怎样的『{姓}{名}』她都能够接受……那么，即使在这个世界中作为异物而存在的自己，也一定可以在她那里找到归宿吧。
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿捠忢">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BOX type="0">//%w
+「藤枝同学，我……」
+
+<BOX type="5">//%sR
+「有什么不好说的话吗？」
+
+<BOX type="0">//%w
+「……不」
+
+　我苦笑了一下，同时下定了决心。
+　绝对不能让美绪知道这一切……自己的心愿，仅此而已。
+
+「要是我们能更早一点遇见就好了」
+
+<CLEAR><BACKGROUND SRC="媔拑揦旤弿徫婄">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……是啊」
+
+<BOX type="0">//%w
+　微笑着的美绪是那么的耀眼、那么的温柔，让人感到无比的温暖……
+　因为，她是纯洁无暇的。
+
+　为什么自己要说这种话？
+  这不是太任性了吗。
+
+　眺望着、憧憬着……保持着不会污染到她的距离，在那里停下来静静欣赏。
+  对我来说，这是可以被容许的奢侈。
+
+<A HREF="3310.txt" OPERATOR="">//~ 3310
+
+
+
+
+ dummy 20
+<BOX type="0">//%w
+　像这样努力劝导自己……能让我的心情稍稍舒缓一点吧。
+
+<A HREF="3310.txt" OPERATOR="">//~ 3310

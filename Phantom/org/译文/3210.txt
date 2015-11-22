@@ -1,0 +1,188 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage6b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_city" mode="fadein" old="fadeout" time="10" loop="on">//$ city.swa 0 255
+<BACKGROUND SRC="passage6b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「咦，今天美绪去哪儿了？」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哼哼哼。从今以后，那个孩子在中午是不会露面了」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「什么啊？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「她可是有男朋友了哦，男·朋·友。
+  对吧，江漣？」
+
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="right">//# elen3^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好像是呢」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不会吧!!　是谁是谁!?」
+
+<BUSTUP NAME="elen3" face="8" MODE="on" zoom="" ALIGN="right">//# elen3^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「貌似是我的老哥呢」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哎～!?
+　早苗的那个同班同学？」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="right">//# sanae1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sanae1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没错。就是那个呆头呆脑的家伙」
+
+<BUSTUP NAME="elen3" face="6" MODE="on" zoom="" ALIGN="left">//# elen3^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喂喂，在妹妹面前诋毁她的老哥不太好吧？」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对嘛，江漣的哥哥不是挺好的吗。让人感觉很单纯呢」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="left">//# sanae1^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「单纯啊……」
+
+「一定是那家伙的时差病还没治好罢了」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我还以为他一直都是早苗的目标呢」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……我要生气了哦」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过啊，江漣和她的哥哥一点都不像是双胞胎对吧？」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="left">//# elen3^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen3^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这是当然啦，我们是异卵双生子嘛」
+
+
+（注：异卵双生子，指母体内同时成熟的两个或两个以上的卵细胞形成的双胞胎或多胞胎。异卵双生子之间在遗传上的相似度与普通的兄弟姐妹一样，只有50%）
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，难不成江漣的哥哥从在美国那时起就非常受欢迎吗？」
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「啊，我很也想知道哦」
+
+「赶快把那家伙的妹妹带到食堂审问吧!」
+
+<BUSTUP NAME="elen3" face="8" MODE="on" zoom="" ALIGN="right">//# elen3^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说你们啊……」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="栻浒楲壓棊偪傞9儈儕1" mode="normal" loop="off">
+<BOX type="2">//%w
+　苦笑着的{姓}，突然注意到从窗外飞进来一个闪烁着黄铜色的东西。
+
+　那个东西在没人注意到的情况下，发出轻微的金属声，滚落在教室地面上……
+
+　恐怕没有人能够辨别出那个东西。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　江漣朝窗外看去，可是连一个人影都没有发现。
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么了？江漣」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="right">//# elen3^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊，不好意思」
+
+<BUSTUP NAME="elen3" face="7" MODE="on" zoom="" ALIGN="right">//# elen3^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「突然想起我还有急事要办」
+
+<BUSTUP NAME="hiro1" face="" MODE="on" zoom="" ALIGN="left">//# hiro1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# hiro1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「啊？」
+
+<BUSTUP NAME="elen3" face="5" MODE="on" zoom="" ALIGN="right">//# elen3^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen3^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我马上就去，你们帮我占座吧」
+
+<se id="1" src="傾僀儞憱傝3" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　没等美绪她们回答，江漣便一路小跑地冲出了教室。
+
+　中途，她装作若无其事的样子，将滚落在地上的9mm帕拉鲁姆弹的空弹壳踢到了废纸篓后面。
+  当然，这一举动没有被任何人发现。
+
+<A HREF="3230.txt" OPERATOR="">//~ 3230

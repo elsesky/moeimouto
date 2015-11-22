@@ -1,0 +1,161 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room1c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room1c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　感受到刺眼的阳光，我醒了过来。
+
+　黄昏时分，阳光从窗口照进屋内，正好照在我的脸上。
+  房间里谁都不在。
+
+　自己这样一觉睡到太阳西沉还是第一次。
+  Ein……昨夜出去了吧？
+
+//> left factory wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我来到外面，注意到环境有些异常。
+
+　移动射击的训练装置为什么被拆除了?
+　昨天晚上睡觉的时候应该还在的……
+
+　难道Ein回来过一次，然后又出门了吗？
+
+　我的胸中充满了谜团。
+  不管怎么说，看样子今天的训练不得不暂停了。
+
+//> left field wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="field">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　这样的生活，已经持续了多久呢。
+
+　几周？还是几个月？
+
+　难道说已经有半年以上……自己无法确认。
+　日期的感觉，已经完全丢失了。
+
+　我试着摸了摸手臂。
+　被晒黑的皮肤下，感受到了坚硬、结实的肌肉。
+　这着实令我吃了一惊。
+
+　这就是训练的成果吧。
+  如果说自己在这废墟中所度过的日子还没有脱离现实世界，
+  这些肌肉就是最好的证明。
+
+尽管如此……我依然如坠梦境，
+还是感觉得到，那种双脚触不到地面的漂浮感。
+
+　……这一切，真的是为了培育杀手吗。
+
+//> left sunset wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="sunset">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在我陷入沉思的时候，夕阳落下，天空的朱红色也渐渐褪去……
+
+//> left nightfield wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="nightfield">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　接着，静谧的夜晚降临。
+
+//> left nightfield wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="nightfield">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在夜风的吹拂中，我漫无目标地眺望着荒野，
+　没过多久，远方一束车灯的光芒闯入我的视野。
+
+　是Ein吗……？
+
+//もえらＳＥ追加
+<se id="1" src="ベンツ荒野停止" mode="normal" loop="off">
+
+　向着废工厂前的空地驶来的，是一辆双门跑车。
+  车上，Ein在握着方向盘。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+<BUSTUP NAME="elen1" face="6" MODE="on" zoom="" ALIGN="right">//# elen1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……有什么不对劲吗？」
+
+<BOX type="0">//%w
+　从车上下来的Ein，
+  见我愣愣地站着，用略带责备的语气说道。
+
+「不，没什么……」
+
+　虽然到如今自己才知道Ein还会开车……不过这种事应该没什么好惊讶的吧。
+
+　但是为什么，只在今天……？
+
+　一直以来，我都认为用车接送Ein，
+  是为了断绝她与外部的联系。
+
+　在荒野之中，连万分之一的逃脱机会都不给她，
+  让Ein过着孤独的生活……
+　这些家伙不正是这样打算的吗？
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「过来吧。
+　必须准备一下」
+
+<BOX type="0">//%w
+　……Ein没有进行任何说明，
+　就这么走进了工厂。
+
+//> left factory2  wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="factory2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……又是新的训练吗？」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不」
+
+「今天晚上是……考试」
+
+<A HREF="0090b.txt" OPERATOR="">//~ 0090b

@@ -1,0 +1,30 @@
+//> left デザートイーグル wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="デザートイーグル">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　迷うことなく手に取ったのは、デザートイーグル.50AEだった。
+
+　馴れた銃かといえば、嘘になる。
+　正直なところ、まだ持て余している感は否めない。
+
+　それでも、いざ選べと言われると、
+　異彩を放つこの一挺の存在感の前では、他のどの銃も霞んで見えた。
+
+　一体、これから何をさせられるのか知らないが、
+　多少、背伸びをしてでも、
+　折角なら最強と言われる銃を持っていくのに越したことはない。
+
+<CALC WORKNAME="射撃音" OPERATOR="20_01a">//
+<CALC WORKNAME="銃" OPERATOR="デザートイーグル">//
+<CALC WORKNAME="銃画像" OPERATOR="デザートイーグル">//
+<CALC WORKNAME="射撃画像" OPERATOR="デザートイーグル2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Ie">//
+<CALC WORKNAME="Ｇイーグル" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<CALC WORKNAME="0090bIe" OPERATOR="1">//
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a

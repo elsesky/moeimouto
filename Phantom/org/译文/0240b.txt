@@ -1,0 +1,370 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我不想让她死。
+
+　心里只有这样一个想法。
+
+　我抑制住冲动，让混乱的头脑冷静下来。
+　该做的事，已经非常明了了。
+
+　仔细想想的话，其实很简单。
+
+　想要保护她的话，可选择的路就只有一条。
+
+　不可思议的是，自己没有任何的迷惘与犹豫。
+
+　恐怕从昨天夜里为她冰冷的身体取暖时起，
+  这个想法就已经根深蒂固了吧
+
+「我明白了」
+
+　我抑制住内心的动摇，
+  用比Ein还要冷静的声音说道。
+
+「不过，冷静地考虑一下吧」
+
+「你受了这么重的伤，即使回到洛杉矶，也只有白白送死的份。
+  根本起不到搅局的作用」
+
+「相比之下，暂时先不要露面才是上策」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「如果让他们以为赛斯手里还有“Phantom”这张牌的话，
+  那些家伙们就不会轻举妄动」
+
+「如果你真的想帮助赛斯的话，现在就逃跑吧。
+  不要白白地去送死」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　好象有什么话要说的样子，Ein一直盯着我看了很久，
+  不过，最后还是无言地低下了头。
+
+　看来总算是接受了我的建议。
+
+「那辆车已经不能用了。开那辆Taurus吧」
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你……」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……那你要怎么办？」
+
+<BOX type="0">//%w
+「当然也要逃跑啊」
+
+「虽然车只有一台，但是座位却不止两个。
+  看来，我们暂时要同命相连了」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　我很清楚她心中的那份诧异。
+
+　货船在码头被袭击的时候，Zwei在克劳蒂娅的家里，跟袭击没有任何关系。
+  这一点她十分清楚。
+
+　所以现在Inferno真正在追捕的，
+  只有赛斯和Phantom而已。
+
+　可以说，这是Zwei逃离Inferno的大好时机。
+
+　为了把握这个机会，
+  他应该尽早远离Ein才对。
+
+「你如果这么简单就死掉的话，接下来被追杀的人就是我了。
+  我还不想这么快就死呢」
+
+　为了配合她那冷静的思考模式，
+  我抛出了这样冷酷的话语。
+
+「就算你要帮赛斯，至少给我留点逃命的时间吧」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　Ein迟疑了一会，最后还是点了点头。
+
+　在她的世界里，是没有因利害一致而产生的信赖关系的。
+  所以现在和她讲感情还为时过早。
+
+「决定了吧。那就上车吧」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left fieldWay wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="僩乕儔僗憱峴幒撪壒" mode="normal" loop="off">
+
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="fieldWay">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　向着遥远的地平线延伸的高速公路上，Taurus疾驰而去，
+  不知道要去往什么地方。
+
+<CLEAR><BACKGROUND SRC="0240p4">//# 0240p4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　一向十分坚强的Ein，这时也已经到了疲劳的极限。
+  坐上副驾驶席后，一直处于浅睡的状态中。
+
+　我看着她那柔和的侧脸，更加坚定了心中的想法。
+
+　这样真的好吗？
+  头脑中的另一个自己固执地问道。
+
+<CLEAR><BACKGROUND SRC="fieldWay">//# fieldWay 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　选择的余地……
+  这种东西我已经多久没有过了？
+
+　在美国度过的这半年时间里……
+  伴随我的只有无尽的痛苦、悲伤以及绝望。
+
+　我非常清楚能以自己的意志作出决定对于一个人来说有多么重要的意义。
+
+　没关系了。
+  我再也不会感到迷茫了。
+
+　愚蠢也好。
+  自取灭亡也罢。
+
+　我只想将这份仅存的自由和尊严一直守护到最后。
+
+　之后要做的，就是把这份意志传达给Ein吧，不过……
+
+在我考虑问题的同时，一块道路标识从视线边缘闪过。
+ 大概是用来说明到约塞米蒂还有多远的标识牌吧。
+
+（注：约塞米蒂，位于加利福尼亚州的国家公园）
+
+　我从后视镜中望向那块标识牌，
+  可是已经看不清写的是什么了。
+
+<BOX type="5">//%sR
+「晚上，我们就能到约塞米蒂了」
+
+<CLEAR><BACKGROUND SRC="0240p2">//# 0240p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　突然，从副驾驶传来了声音。
+  大概是Ein醒了吧。
+
+<BOX type="5">//%sR
+「你在那里停车。
+  然后我们就此分道扬镳吧」
+
+<BOX type="0">//%w
+「不」
+
+「还要走的更远」
+
+<CLEAR><BACKGROUND SRC="0240p3">//# 0240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……更远……到哪里？」
+
+<BOX type="0">//%w
+「到最后」
+
+<CLEAR><BACKGROUND SRC="fieldWay">//# fieldWay 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein没有回答。
+  她好象找不到合适的话语来回应我。
+
+　回答的时候被哽住，对她来说可真是罕见……
+　我一边想一边继续说道。
+
+「我们一起走吧，直到永远。
+  两个人一起逃跑吧」
+
+<CLEAR><BACKGROUND SRC="0240p3">//# 0240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……你疯了吗？」
+
+<BOX type="0">//%w
+　这个问题用不着她问，
+  几小时前我就已经问过自己。
+
+对于身为赛斯得力部下的Ein，组织恨不得撅地三尺也要把她找出来。
+只要跟她在一起，任何地方都不会安全。
+
+<CLEAR><BACKGROUND SRC="fieldWay">//# fieldWay 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「这可不是正常人会作出的决定哦」
+
+　我自嘲似地笑了起来，心情感觉异常舒畅。
+
+「对了，你以前好象说过吧。
+  在我死掉或者疯掉之前，这个梦永远都不会醒」
+
+「不过我在活着的时候已经从这个梦中醒来了。
+  所以做出什么疯狂的举动都不奇怪吧？」
+
+<CLEAR><BACKGROUND SRC="0240p5">//# 0240p5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「别开玩笑了」
+
+<BOX type="0">//%w
+　Ein的声音中毫无缘由地透出一股焦躁与不安。
+
+<BOX type="5">//%sR
+「……我是在说性命攸关的大事，
+  为什么你不肯认真和我说话？」
+
+<BOX type="0">//%w
+「有必要跟一个想着要去送死的傻瓜认真说话吗？」
+
+<CLEAR><BACKGROUND SRC="0240p2">//# 0240p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「我……」
+
+「我要是不按照主人的意志行事的话……」
+
+<CLEAR><BACKGROUND SRC="fieldWay">//# fieldWay 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「别傻了」
+
+　伴随着胸中涌出的怒气，我打断了Ein的话。
+
+「你说过，现在的我无法明白」
+
+「我确实无法明白。
+　为什么你在被赛斯抛弃后，还这么死心塌地效忠于他」
+
+「怎么想都觉得奇怪。
+  你不觉得自己太愚蠢了吗？」
+
+<CLEAR><BACKGROUND SRC="0240p4">//# 0240p4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……已经跟你没有关系了吧」
+
+<BOX type="0">//%w
+「……」
+
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我没有再说这些空洞的话，而是从怀中掏出了红色封皮的小册子。
+　这是克劳蒂娅还给我的护照。
+  是可以在日本的名义下享受权利和安全保护的证明书。
+
+「就因为有了这个小册子，
+  你对我的看法就完全改变了吗？」
+
+　Ein陷入了沉默。
+  她摆出一副什么都不要听的样子，低下头看着膝盖。
+
+「不过啊，这个东西已经没有意义了」
+
+<CLEAR><BACKGROUND SRC="0240p3">//# 0240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……唉？」
+
+<BOX type="0">//%w
+「我已经决定和你一起逃走了。
+  所以只是我一个人的话，就没有意义了」
+
+　说完……
+<se id="1" src="biriri" mode="normal" time="" loop="off" effect="">//!se biriri
+　我把{姓}{名}的护照一下子撕成两半，扔到了窗外。
+
+<se id="2" src="僷僗億乕僩旘傇" mode="normal" time="" loop="off" effect="">//!se biriri
+
+<CLEAR><BACKGROUND SRC="0240p6">//# 0240p6 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「你……你在干什么!?」
+
+<BOX type="0">//%w
+　Ein一下子变得惊慌失措，连声音都慌乱起来。
+  除了任务中的表演，这是我第一次看到她这样慌张的表情。
+
+　……自己这样从容地这样想着。
+
+<BOX type="5">//%sR
+「你……
+　知道自己做了什么吗？」
+
+「那是你身份的证明啊……」
+
+<BOX type="0">//%w
+「不，那只是几张废纸而已」
+
+虽然在说的时候满不在乎，可是不能否认，我确实是在逞能。
+ 这样一来，我又一次降格为身份不明的亚洲人。
+而且从今以后，再也得不到任何的保护。
+
+　可是，我还有已经取回的记忆，
+  这样就足够了。
+
+<CLEAR><BACKGROUND SRC="0240p3">//# 0240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……为什么？」
+
+「为什么你不惜这么做也要和我一起走？」
+
+<CLEAR><BACKGROUND SRC="fieldWay">//# fieldWay 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　为什么吗？
+  就算让我解释……
+  可我从一开始就没有准备好能符合她那冷漠逻辑的话语。
+
+　没办法，我只好将心中的想法直接说了出来。
+
+「大概是因为，这是我自己的决定……吧」
+
+「不是被什么人威胁，也不是被命令，
+  而是我凭自己的意志做出的决定」
+
+「我不想让你死。不想看到你死。
+　……这不是为了任何人，而是我自己的意志」
+
+「这才是，我存在的证据」
+
+「自己的存在，没有必要用印章和纸片来证明」
+
+<CLEAR><BACKGROUND SRC="0240p3">//# 0240p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein似乎愣住了，一脸茫然地听着。
+
+「好啦，既然同为没有避难之地的逃亡者，
+  我们从今以后也好好相处吧」
+
+<BOX type="5">//%sR
+「……」
+
+<A HREF="0250.txt" OPERATOR="">//~ 0250

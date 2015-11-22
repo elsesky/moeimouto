@@ -1,0 +1,524 @@
+<BOX type="0">//%w
+　开什么玩笑。
+
+　我不是刚刚才决定不能再让凯尔卷进这件事了吗。
+
+「她什么都不知道」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂喂，这话好象不对吧」
+
+「不是你说她知道一些什么的吗？」
+
+<BOX type="0">//%w
+　……糟糕。
+
+　维斯梅尔认为这个孩子掌握有关键的情报。
+
+　现在即使实话实说，告诉他凯尔其实什么都不知道，他也不会相信的。
+
+　在得到他认为满意的答案之前，他会不择手段地追问凯尔吧……
+
+「认为那个孩子是目击者是我的判断失误。实际上根本就没有这回事」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「给我识相点！Phantom」
+
+「我早就看出来了，你和克劳蒂娅一直在搞着什么阴谋」
+
+<BOX type="0">//%w
+　看起来，维斯梅尔已经听不进我的话了。
+
+　克劳蒂娅与她的手下和亲友们正在谋划什么诡计……
+　
+　他对此深信不疑。
+
+<BOX type="5">//%sR
+「那个丫头，跟你和克劳蒂娅说了些什么……」
+
+「如果你不告诉我，那我就只好亲自再问她一次了，用我的方法」
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　兰迪默不作声地将手向鼓鼓的怀中伸去。
+
+　他们无论如何也要带走凯尔么……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我没有惊慌，而是冷静将右手中被毛巾盖住的枪拉开枪栓。
+
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se rist
+　透过毛巾传出来的、微弱的金属声音。
+
+　但是，在场的所有人都被这声音镇住了。
+
+「如果你想拔枪的话，就随便你好了。我让你先拔出来」
+
+「不过……别指望你能先开枪」
+
+<BUSTUP NAME="randy" face="3" MODE="on" zoom="" ALIGN="left">//# randy^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　兰迪脸色大变，然而维斯梅尔却并没有被吓倒。
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔……不惜大开杀戒也要保护那个女孩吗？」
+
+<BOX type="0">//%w
+　维斯梅尔的笑中，藏着一股杀气。
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我越来越想见她了呢」
+
+<BOX type="0">//%w
+「维斯梅尔先生……」
+
+　我的话让一触即发的紧张感缓和了下来。
+
+「我向你保证，会将从那个少女口中得知的所有信息和盘托出」
+
+「但是，并不能只对你一个人说」
+
+<BOX type="5">//%sR
+「为什么？」
+
+<BOX type="0">//%w
+「因为你不值得信任」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　面目狰狞的维斯梅尔的眼中，跳动着愤怒的火焰。
+
+「你对我的老板麦肯宁小姐心存芥蒂，利用我泄露给你的情报陷害她也不是不可能」
+
+「我是不会对这样的家伙说半个字的」
+
+<BOX type="5">//%sR
+「……叫的不错啊，你这只走狗……」
+
+<BOX type="0">//%w
+「没错，我是克劳蒂娅忠实的看门狗，而不是你的狗」
+
+「如果你想对我下指示，请通过克劳蒂娅」
+
+「明天早上10点，我会去本部报告。如果马格维雅先生允许的话，我会全部都说出来的」
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　兰迪斜着眼向维斯梅尔看去，像是在等待他下指示。
+
+<BOX type="5">//%sR
+「……」
+
+「那好吧。反正我再在这个发霉的屋子里待下去也会恶心」
+
+「就等到明天好了」
+
+「……喂，我们走」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　维斯梅尔耸了耸肩膀走出了屋子。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　然后，默不作声的兰迪像影子一样跟在他后面离去了。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Phantom……」
+
+<BOX type="0">//%w
+　只剩下了一脸尴尬的莉兹。
+
+<BOX type="5">//%sR
+「……对不起啊。没能瞒过去……」
+
+<BOX type="0">//%w
+「没关系」
+
+<BOX type="5">//%sR
+「不要紧吗？跟维斯梅尔作对」
+
+<BOX type="0">//%w
+　真是的，怎么想都不会不要紧。
+
+　这样反而恶化了克劳蒂娅和维斯梅尔的关系，搞不好会使得克劳蒂娅的立场变得更糟糕。
+
+「我会尽力把事情解释得合理的」
+
+<BOX type="5">//%sR
+「……对了」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你捡回来的那个孩子……真的知道些什么吗？」
+
+<BOX type="0">//%w
+　我的回答有些犹豫，不过跟莉兹撒谎也是迫不得已。
+
+「……不，她什么都不知道」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　听我这样回答，莉兹意味深长地看了我一眼，然后走出了屋子。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="room0b1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　在这间人去楼空的屋子里，我将枪和毛巾往桌子上一扔，双手抱住了头。
+
+　该怎么办才好？
+
+　明天早上，无论如何都必须要说服维斯梅尔。
+
+　究竟该怎么解释才好呢……
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　不经意间，我与正从隔壁房间看向我的凯尔视线相对。
+
+　凯尔……
+
+　刚才的吵闹声把她吵醒了吗？
+
+<CLEAR><BACKGROUND SRC="room0f1">//# room0f1 1 cyall^2 20
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# room0f1 1 cyall^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「那个家伙，我认识……」
+
+「艾扎克·维斯梅尔……是‘布拉迪兹’的头儿吧？」
+
+<BOX type="0">//%w
+「……嗯」
+
+　在南部中央地区，暴力团伙的首领肯定不是一般的人物。
+
+<BOX type="5">//%sR
+「为什么他会跟你？」
+
+<BOX type="0">//%w
+　“把那丫头交出来”……维斯梅尔与我发生争执的声音，凯尔应该全部都听到了吧？
+
+「发生枪战的地方是他的地盘，所以他想知道详细的情况」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不对，{名}……不是那样的」
+
+「你为什么要包庇我呢」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　这是个难以回答的问题。
+　
+　足以致命的天真……
+　若是克劳蒂娅，肯定会这样说。
+
+「因为没有必要把你牵连进来」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔应该是真的害怕了吧。
+  自己说的谎话竟然让人人闻声色变的黑帮首领怒不可遏。
+
+　看到他们那么恐怖的样子，她会害怕也不是没有道理。
+
+<BOX type="5">//%sR
+「对不起」
+
+「我以前不相信{名}。因为你是日本人，所以我以为你是死在那里的家伙们的同伙……」
+
+<BOX type="0">//%w
+「……是吗？」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以，如果跟着你，说不定就能亲眼看到你为茱蒂报仇」
+
+<BOX type="0">//%w
+「于是你就编那样的谎话？」
+
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　……真是的，这是个怎样的孩子啊。
+  与其说她机灵，倒不如说她太鲁莽了。
+
+「我的谎话，你从一开始就识破了？」
+
+<BOX type="5">//%sR
+「嗯」
+
+<BOX type="0">//%w
+　凯尔一边擦了擦眼泪，一边忍不住笑了起来。
+
+<BOX type="5">//%sR
+「你很不擅长说谎呢，{名}」
+
+<BOX type="0">//%w
+　我没有回答。
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，{名}……」
+
+「大家都叫你Phantom是吧」
+
+<BOX type="0">//%w
+　她连这个都听到了吗。
+
+<BOX type="5">//%sR
+「……我知道的哦，Phantom什么的」
+
+「在电视上播过的。Phantom是CIA的杀手，专门在美国杀那些黑社会的人」
+
+（注：CIA，Central-Intelligence-Agency，中央情报局，俗称Company）
+
+<BOX type="0">//%w
+「电视里的东西都是骗人的」
+
+　凯尔的视线又落回到和毛巾放在一起的枪上。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是，你真的是杀手吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「你是打算用那把枪来杀维斯梅尔的吧？」
+
+「我知道的，你是真的想对他开枪」
+
+「那时的{名}，就像是另一个人……非常的可怕」
+
+「你是真正的杀手吧？」
+
+<BOX type="0">//%w
+　刚才她也说过我不擅长说谎，于是我放弃了用小聪明来掩饰过去。
+
+「没错」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「杀手Phantom……」
+
+<BOX type="0">//%w
+　凯尔的声音里充满了敬畏，很明显地被误解和幻想粉饰过的敬畏。
+
+　这不能不怪那些不负责任的媒体。
+
+<BOX type="5">//%sR
+「不是CIA的话，那是自由职业吗？你是为了钱而杀人吗？」
+
+<BOX type="0">//%w
+「嗯，算是吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我无心地随便回答了一句。
+  这个时候，我并没有注意到。
+
+　凯尔的眼神里有一股异常的冲动……
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　凯尔小跑着把放在屋子角落里的运动包拿了过来，使劲地扔到桌子上。
+
+<se id="1" src="嶥懇僶僢僌傪抲偔b" mode="normal" loop="off">
+
+　我被落在桌子上的运动包发出的重重的声音吸引住了。
+
+<se id="2" src="zipper" mode="normal" time="" loop="off" effect="">//!se zipper
+　凯尔拉开拉链，里面露出来的东西，是我做梦都想象不到的。
+
+　包内，一沓沓封好的钞票，正紧紧地排在一起。
+
+<BUSTUP NAME="cyall3" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这些全都给你。我数了一下，总共是500万美元」
+
+「我用这些钱请你为朱蒂报仇」
+
+<BOX type="0">//%w
+　我看着眼前的一切，简直无法相信自己的眼睛。
+
+「这是……」
+
+<BOX type="5">//%sR
+「这是那些黑社会们带的钱」
+
+<BOX type="0">//%w
+「是你……偷的吗？」
+
+<BUSTUP NAME="cyall3" face="3" MODE="on" zoom="" ALIGN="right">//# cyall^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我才没偷!」
+
+「这么肮脏的钱，我一分都没用」
+
+<BUSTUP NAME="cyall3" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我决定了，这些全部要用来为茱蒂报仇」
+
+「所以我没钱付房租给房东，也没有钱来买吃的」
+
+「我要用那些家伙的钱……杀了那些家伙」
+
+「我一直都在寻找像{名}这样的人，付钱就能帮助我的人」
+
+<BUSTUP NAME="cyall3" face="3" MODE="on" zoom="" ALIGN="right">//# cyall^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}，你是Phantom对吧？」
+
+「是能够杀掉那些黑社会的Phantom对吧!?」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「拜托了，帮我杀光他们吧」
+
+「昨天晚上在那暗巷的家伙……」
+
+「在那里开枪的家伙，命令他们开枪的家伙，本来要拿到这些钱的家伙」
+
+「把茱蒂害死的家伙，一个都不剩地全都杀掉吧！」
+
+<BOX type="0">//%w
+「冷静点，凯尔」
+
+　为什么我会这么冷静？
+  我对自己的冷静感到非常意外。
+
+「我不能马上给你答复，这种事情有一定的顺序」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你能……帮我吗？」
+
+<BOX type="0">//%w
+「我要考虑一下。明天再说吧」
+
+「今天太晚了，先睡觉吧」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+//> left room0f1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0f1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……{名}」
+
+<BOX type="0">//%w
+　再次躺到床上的凯尔，小声地说道。
+
+「我对你说了谎……对不起」
+
+<BOX type="0">//%w
+「彼此彼此」
+
+　凯尔怯怯地笑了笑，合上了眼睛。
+
+//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我不想将她卷进来……
+  这样想的时候，凯尔已经站在旋涡的正中心了吗。
+
+　袭击者的身上依旧迷雾重重，既然现在已经知道是别人拿走了钱，那袭击者的目的究竟是什么呢……
+
+　不过，事情还是有了进展。
+　我修正了之前错误的搜索方向……凶手想要的并不是钱。
+
+　如果把这些钱拿给Inferno的话，问题就解决一半了。
+
+　只要暂时先把钱拿回去，黑社会们在某种程度上也会安心。。
+
+　可是……我应该怎么解释呢？
+
+　没有发现袭击者，却把钱还了回去。这二者有点矛盾。
+
+　合情合理的解释……只有将实情说出来了。
+
+　明天早上10点……
+
+　我必须要向Inferno的干部汇报凯尔的事情……
+
+　Inferno肯定不会放过凯尔的吧。
+  毕竟她把组织的客人的钱抢走了，让组织的颜面尽失。
+
+　即使将钱还回去，而且还是小孩子搞的鬼，那些人也不可能对此一笑了之。
+
+　既然500万美元的现金已经摆在面前，我也没有办法再为凯尔辩护了。
+
+<A HREF="1090.txt" OPERATOR="">//~ 1090
+
+
+
+
+<A HREF="1090.txt" OPERATOR="">//~ 1090

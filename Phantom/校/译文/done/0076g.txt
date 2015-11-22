@@ -1,0 +1,27 @@
+<BOX type="0">//%w
+「……练习小刀吧」
+
+　我对射击训练已经差不多厌烦了。
+  每天晚上，枪声的回响都会残留在耳朵的最深处，久久不能散去。
+  再这样下去自己的脑袋肯定会坏掉。
+
+<BOX type="5">//%sR
+「明白了。
+  我需要准备一下，你先去外面等吧」
+
+<BOX type="0">//%w
+　……不知为何，训练好像要在户外进行。
+  我望向屋外，白色的沙砾上翻滚着热浪，
+  只是看着就让人发愁。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4b wide 255 dummy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_days" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4b">//
+<BUSTUP NAME="" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<A HREF="0076a.txt" OPERATOR="">//~ 0076a

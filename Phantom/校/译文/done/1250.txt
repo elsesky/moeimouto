@@ -1,0 +1,193 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel1 wide 255 godo^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="daylight" mode="fadein" old="fadeout" time="10" loop="on">//$ daylight.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="godo" face="2" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是吗……入学考试合格了啊」
+
+<box type="2">//%w
+　贴着话筒的脸颊放松着。现在的梧桐大辅，与平日里那个少头目简直判若两人。
+
+<BOX type="5">//%sR
+「太好了，美绪」
+
+<BOX type="4">//%sL
+『嗯，谢谢您，叔叔』
+
+<BOX type="3">//%w
+　太平洋彼岸的那个声音充满了喜悦。
+
+<BOX type="4">//%sL
+『我本来想马上告诉叔叔您的……不过，没有妨碍叔叔的工作吧？』
+
+<BOX type="5">//%sR
+「不会不会，我现在刚好在休息」
+
+<BOX type="4">//%sL
+『……很辛苦吧？贸易的工作』
+
+<BOX type="5">//%sR
+「啊，还好啦」
+
+<box type="2">//%w
+　为了向少女隐瞒这一切，梧桐大辅含糊地将这个话题一笔带过。
+
+<BOX type="5">//%sR
+「下个月我就可以回日本了。到那时候就又可以见面了」
+
+<BOX type="4">//%sL
+『嗯』
+
+<BOX type="5">//%sR
+「想要什么礼物吗？」
+
+<BOX type="4">//%sL
+『不了……总是麻烦您』
+
+<BOX type="3">//%w
+　美绪的声音非常客气，同时又夹杂着些许寂寞。
+
+<BOX type="4">//%sL
+『要是收您太多礼物……妈妈那边就要露馅了』
+
+<BOX type="5">//%sR
+「嗯……」
+
+<box type="2">//%w
+　尽管胸中一阵刺痛，梧桐大辅还是强忍着不让美绪听出异常。
+
+<BOX type="5">//%sR
+「说……说的也是啊」
+
+<BOX type="4">//%sL
+『我还可以给您打电话吗？』
+
+<BOX type="5">//%sR
+「这周和下周都会很忙，过了这阵子就没问题了」
+
+<BOX type="4">//%sL
+『嗯，我知道了』
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="2">//%w
+　放下电话，长出了一口气。梧桐大辅又恢复了以往严肃的表情。
+
+　自小生活在单亲家庭的美绪，说不定会从远亲的“大辅叔叔”身上窥见到父亲的样子。
+
+　正是预料到了这一点，梧桐大辅违背了双亲的决定，强忍着不在美绪的面前出现。
+
+　当然，美绪什么都不知道。
+
+“大辅叔叔”的职业不是贸易商，而是无恶不作的恶徒。
+
+　而且，梧桐大辅不是她的叔叔，而是年长她许多的亲哥哥。
+
+　自己是黑帮『梧桐組』组长的亲生女儿……这个真相美绪自然也是不知道的。
+
+对美绪来说，她没有知道这一切的必要。
+她只是一个在平安无事的日子中被幸福所包围的少女。
+
+　可是……
+　每次想起自己的妹妹，梧桐大辅都会从内心感到一丝不安。
+
+//> right hotel1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="hotel1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　从外面办事返回的志贺，发现梧桐大辅的表情非常阴沉。
+
+<BOX type="4">//%sL
+「怎么了？大哥」
+
+「是关于美绪小姐的事吧？」
+
+<BUSTUP NAME="godo" face="6" MODE="on" zoom="" ALIGN="right">//# godo^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「嗯……」
+
+<box type="2">//%w
+或许是由于状况的不容乐观，梧桐大辅的心中一反常态地涌出一股软弱的感慨。
+
+　如果我死了的话……
+
+说不定，自己真的应该提前将这些必要的话语托付给别人。
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呐，志贺啊」
+
+「……我想说说关于美绪的事」
+
+<BUSTUP NAME="siga" face="" MODE="on" zoom="" ALIGN="left">//# siga 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……出什么事了吗？这么突然」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然双亲已经离婚了，但美绪和我们的组长流着相同的血……梧桐之鬼的血，这一点是不会变的」
+
+「如果有人察觉到这点，打她的主意的话……」
+
+「一无所知的美绪根本保护不了自己」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="godo" face="" MODE="on" zoom="" ALIGN="right">//# godo 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「所以，要是……要是，呐」
+
+「要是我不能活着回到日本，到那个时候……」
+
+<BUSTUP NAME="siga" face="2" MODE="on" zoom="" ALIGN="left">//# siga^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# siga^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……我明白了，大哥」
+
+「美绪小姐前进的道路，就由我志贺来守护吧」
+
+<BUSTUP NAME="godo" face="2" MODE="on" zoom="" ALIGN="right">//# godo^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# godo^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……麻烦你了啊」
+
+<A HREF="1252.txt" OPERATOR="1230a=1">//~ 1252
+<A HREF="1254.txt" OPERATOR="">//~ 1254

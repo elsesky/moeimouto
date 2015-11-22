@@ -1,0 +1,146 @@
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="3">//%w
+　そして……その夜を迎えるまでに、いったいどれほどの夜を越えてきたのだろうか。
+
+//もえらＳＥ追加
+<se id="2" src="sea" mode="normal" loop="on">
+
+<CLEAR><BACKGROUND SRC="moon2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　打ち寄せる波に半身を洗われながら、彼女は月を眺めていた。
+
+　そんな風にただ漫然と月を見上げるなど、久しくなかったことだ。
+　記憶にある限りでは……そう、あの運命の日の前夜。
+
+　この砂浜から遠く離れた東洋の島国で、彼女は月を眺めて泣いたことがあった。
+　もう、ずいぶん昔の話になる。
+
+<CLEAR><BACKGROUND SRC="ドライ浜辺で死亡">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　寄せる波は冷ややかに彼女の体温を奪い、真紅に染まってから砂浜を退く。
+　処置しようのない致命傷なのは、自分でも判っていた。
+
+　気配さえなく、後ろから撃たれた。
+　他ならぬ彼女の不意を討つなど、
+　生半可なことではない。
+
+<BOX type="4">//%w
+「……ホント、大した腕前だな……」
+
+<CLEAR><BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="10">
+//もえらＳＥ追加
+<se id="1" src="砂浜歩く" mode="normal" loop="off">
+
+<BOX type="3">//%sR
+　砂を踏むかすかな足音に、ファントムは視線を向ける。
+
+　死に神に追いつかれるときは、きっとこんな姿で立ち現れるだろうと、そう彼女が予想していた通りの……それは黒い瞳の女だった。
+
+<BOX type="4">//%sR
+「……あれから、どのくらい経つ？」
+
+<BUSTUP NAME="アイン私服銃" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「2年よ」
+
+<BOX type="4">//%sR
+「そう……もう、そんなになるんだ……」
+
+<BUSTUP NAME="アイン私服銃" face="冷笑" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「長かったわ」
+
+「今夜、こうしてあなたを殺すこと……それだけを考えて、わたしは今日まで生きてきた」
+
+<CLEAR><BACKGROUND SRC="ドライ浜辺で死亡">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「そいつぁ羨ましい話だね……」
+
+「だって……そうだろ？　今日までのあんたには、ちゃんと自分を支えてくれるものがあったんだ」
+
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="ドライ浜辺で死亡笑い">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「でももう、それも今夜で終わりだよ」
+
+　冷ややかな黒い瞳に、ファントムは力ない冷笑を返す。
+
+「憎む相手さえ亡くした後は、そりゃもう……」
+
+「ふふ、マァいいさ。これから、たっぷり味わうんだからな。あんたも……」
+
+「せいぜい、余生を……愉しむこった」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//
+<CLEAR><BACKGROUND SRC="bearch">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%sR
+　不吉な微笑でそう言い捨てると、
+　それきりファントムは沈黙した。
+
+//もえらＳＥフェード
+<se id="2" src="" mode="fadeout" time="50">
+
+<BUSTUP NAME="アイン私服2横" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%sR
+　独り砂浜に取り残された{ヒロイン}は、ついに仕留めた標的の言い遺した言葉に想いを馳せる。
+
+　そう、今日までの日々は容易かった。
+　憎しみが彼女を強くした。
+
+　執念という、かつては想像もつかなかった感情の力を得て、{ヒロイン}は何の迷いもなく苛烈な日々を乗り越えてきた。
+
+<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="off">//$ tema.swa 0 255
+//<bgm src="Silence_s" mode="fadein" old="fadeout" time="0" loop="off">//$ tema.swa 0 255
+　だが、今日からは？
+　戦う意味がここに潰えて、
+　これより先の自分には、
+　いったい何が残されているのか。
+
+<BUSTUP NAME="アイン私服2横うつむき" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+　そう、何もない。
+
+　今の彼女は骸よりなお虚ろだった。
+　かつて名もなき暗殺者であった頃でさえ、これほどの虚無感に苛まれたことはない。
+
+<CLEAR><BACKGROUND SRC="moon2">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%sR
+　楚々と光る月を仰ぎ見て、{Gヒロイン}は声もなく涙に暮れた。
+
+<CLEAR><BACKGROUND SRC="アイン見上げ泣き">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“……助けて……{名}”
+
+“私、これから……どうすればいい？”
+
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+
+トルーエンド・月輝る夜に独り
+
+<BGM SRC="l_inferno" MODE="fadein" OLD="fadeout" TIME="20" Loop="on">
+<A HREF="recollection.nps">
+

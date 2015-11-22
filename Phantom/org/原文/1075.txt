@@ -1,0 +1,592 @@
+<BOX type="0">//%w
+　冗談じゃない。
+
+　キャルをこれ以上巻き込むまいと……
+　今、そう決めたばかりじゃないか。
+
+「彼女は何も知らない」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オイオイ、
+　随分と話が違うじゃないか」
+
+「何か知ってると言ったのは
+　オマエなんだろ？」
+
+<BOX type="0">//%w
+　……まずい。
+
+　ワイズメルは、あの子が鍵を握っているものと、すでに思い込んでいる。
+
+　今さらキャルが、実は何も知らなかったと白状しても、
+　ワイズメルは納得するまい。
+
+　満足のいく解答が出てくるまでは、どんな手を使ってでも、
+　キャルを追究するだろう……
+
+「あの子に目星をつけたのは、俺の見当違いだった。空振りだったんだ」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いい加減にしやがれ、
+　ファントム」
+
+「お見通しなんだよ。
+　オマエとクロウディアが
+　何か企んでるってのは」
+
+<BOX type="0">//%w
+　もうワイズメルは、聞く耳持たない様子だった。
+
+　クロウディアの側近と親友が、共謀して進めていた秘め事……
+　
+　その事実が、疑心暗鬼に輪をかけている。
+
+<BOX type="5">//%sR
+「あの娘が、オマエやクロウディアに何を喋ったか……」
+
+「オマエが教えてくれないんなら、もう一度、あの娘に訊いてみるしかねぇだろ？　俺なりのやり方でよ」
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ランディが無言のまま、いかつく膨らんだ懐に手を差し入れる。
+
+　どうあっても、連れていく気か……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我ながら、驚くほど冷静に、右手に被せたタオルの下で、
+　{銃}の撃鉄を引き起こす。
+
+<se id="1" src="13_06" mode="normal" time="" loop="off" effect="">//!se rist
+　タオルの布地ごしの、かすかな金属音。
+
+　だがそれは、その場にいる全員の動きを止めるだけの効果があった。
+
+「ここで抜きたければ、好きにするがいい。あんたらに先に抜かせてやる」
+
+「だが……先に撃てるとは思うなよ」
+
+<BUSTUP NAME="randy" face="3" MODE="on" zoom="" ALIGN="left">//# randy^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ランディは色を失ったが、この程度の恫喝で怯むワイズメルではない。
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ホホォ……
+　血の雨降らせてでも、守らなきゃ
+　ならねぇ娘ってワケか？」
+
+<BOX type="0">//%w
+　薄笑いに獰猛な気配を秘めて、ワイズメルが言う。
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ますます俺は、
+　会ってみたくなったぜ」
+
+<BOX type="0">//%w
+「ミスタ＝ワイズメル……」
+
+　一触即発の緊張感は、むしろ言葉の出方を滑らかにしてくれた。
+
+「あの少女から聞き出した情報は、すべてあんたにも教えよう。約束する」
+
+「だが、この場であんた一人にだけ聞かせるわけにはいかない」
+
+<BOX type="5">//%sR
+「なんでだ？」
+
+<BOX type="0">//%w
+「あんたが信用できないからさ」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　表情を押し殺したワイズメルの目の奥で、ギラリと怒りの炎が躍る。
+
+「あんたは俺のボスのミズ＝マッキェネンを快く思ってない。
+　俺の洩らした情報を使って、彼女をハメようとするかもしれない」
+
+「そんな奴には何ひとつ、俺の一存では喋れない」
+
+<BOX type="5">//%sR
+「……吠えやがったな。
+　犬コロが……」
+
+<BOX type="0">//%w
+「そう。俺はクロウディアの忠実な番犬だ。あんたの犬じゃないんだよ」
+
+「俺に指図をするなら、クロウディアを通せ」
+
+「明朝10時、そっちへ報告に出向く。
+　ミスタ＝マグワイヤの立ち会いがあるなら、洗いざらい喋るよ」
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　指示を仰ぐように、横目でワイズメルを窺うランディ。
+
+<BOX type="5">//%sR
+「……」
+
+「ま、いいだろ。
+　こんな黴臭ぇ部屋に長居するのも
+　胸糞悪い」
+
+「明日まで
+　待ってやろうじゃねぇか」
+
+「……おう、行くぜ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　肩を聳やかせて部屋を出ていくワイズメル。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　その後に、無言のランディが、影のように付き従っていく。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ファントム……」
+
+<BOX type="0">//%w
+　あとに残ったリズィは、いかにも面目ない様子だった。
+
+<BOX type="5">//%sR
+「……すまねぇ。
+　シラを切り通せなくって……」
+
+<BOX type="0">//%w
+「もういいさ」
+
+<BOX type="5">//%sR
+「マズくないか？
+　ワイズメル相手にあのタンカは」
+
+<BOX type="0">//%w
+　まったくだ。どう考えてもまずい。
+
+　いらない所で、クロウディアとワイズメルの対立を、
+　ますます煽ったようなものだ。
+　結果的にはクロウディアの立場まで悪くするかもしれない。
+
+「帳尻は……何とかして合わせるよ」
+
+<BOX type="5">//%sR
+「……そうかい」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「アンタの拾ってきた、
+　あの子だが……本当に、
+　何か知ってそうなのか？」
+
+<BOX type="0">//%w
+　返答には躊躇ったが、リズィに嘘をついても仕方ない。
+
+「……いいや、ガセだった」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^5 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そう答えると、リズィは、やりきれない表情でこっちを一瞥し、
+　それから部屋を出ていった。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="room0b1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　誰もいなくなったロフトで、銃とタオルをテーブルに投げ出し、
+　頭を抱える。
+
+　どうする？
+
+　明日の朝までには、どんな口八丁であれ、
+　ワイズメルたちを納得させる話を披露しなきゃならない。
+
+　いったい、どう説明すれば……
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ふと見ると、
+　隣室からこちらを窺う、怯えたように見開かれた瞳と目が合った。
+
+　キャル……
+
+　今の騒ぎで、目を覚ましていたのか？
+
+<CLEAR><BACKGROUND SRC="room0f1">//# room0f1 1 cyall^2 20
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# room0f1 1 cyall^2 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あいつ、知ってるよ……」
+
+「アイザック＝ワイズメル……
+　あの“ブラディーズ”の
+　リーダーでしょ？」
+
+<BOX type="0">//%w
+「……ああ」
+
+　サウスセントラルじゃ、ギャングスターは本物の芸能人と変わらない。
+
+<BOX type="5">//%sR
+「どうして、あたしを？」
+
+<BOX type="0">//%w
+　娘を渡せと、そう喚き立てるワイズメルの声を、
+　キャルは余さず聞き取っていたんだろう。
+　どう言い繕う？
+
+「撃ち合いがあったのが、彼の縄張りだったからだ。
+　詳しいことを知りたがってる」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「違うよ、{名}……
+　そうじゃなくて」
+
+「どうして、あたしのこと、
+　庇ってくれたの？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　それはそれで、説明の難しい質問だ。
+　
+　命取りになる甘さ……
+　クロウディアなら、そう言うことだろう。
+
+「巻き込む必要が、なかったからだ」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　キャルは本気で恐かったんだろう。
+　自分の嘘を真に受けて、泣く子も黙るギャングスターが、
+　目の色を変えて押し掛けてきたのだ。
+
+　連中の恐ろしさを心得ていれば、怯えるのも無理はない。
+
+<BOX type="5">//%sR
+「ごめんね」
+
+「あたし、{名}を疑ってた。日本人だから、あそこで死んでたヤクザの仲間かと思って……」
+
+<BOX type="0">//%w
+「……そうだったのか？」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だから、一緒について行けば、
+　ジュディの仇が
+　見つかるかもって」
+
+<BOX type="0">//%w
+「それで、あんな嘘を？」
+
+<BOX type="5">//%sR
+「うん」
+
+<BOX type="0">//%w
+　……まったく、なんて子だろうか。
+　度胸と機転を誉めるよりは、無鉄砲さを咎めるべきだった。
+
+「俺の嘘も、最初からお見通しだったか？」
+
+<BOX type="5">//%sR
+「うん」
+
+<BOX type="0">//%w
+　涙を拭きながら、キャルは無理に笑おうとする。
+
+<BOX type="5">//%sR
+「嘘、下手だよね。
+　{名}って」
+
+<BOX type="0">//%w
+　返す言葉もなかった。
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ね、{名}……」
+
+「みんな、あなたのこと
+　ファントムって呼んでたね」
+
+<BOX type="0">//%w
+　そんなことまで、聞き留めていたか。
+
+<BOX type="5">//%sR
+「……知ってるよ、
+　ファントムって」
+
+「テレビでやってた。CIAの殺し屋で、アメリカじゅうのギャングを殺して回ってるって」
+
+<BOX type="0">//%w
+「あれはテレビだ。大嘘さ」
+
+　だがキャルの視線は、テーブルの上……
+　タオルと一緒にぞんざいに置かれた{銃}に注がれていた。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも、殺し屋なのは本当？」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「その銃で、ワイズメルを撃つ
+　つもりだったんでしょ？」
+
+「あたし、判ったよ。
+　この人は撃つ気だ、って」
+
+「{名}、
+　別人みたいだった。
+　……すごく恐かった」
+
+「あなた、本物の殺し屋なのね？」
+
+<BOX type="0">//%w
+　嘘が下手だと指摘を受けた矢先である。
+　小賢しい言い逃れ方は、諦めた。
+
+「そうだよ」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「殺し屋ファントム……」
+
+<BOX type="0">//%w
+　キャルの呟きに、畏敬がこもる。
+　明らかに、誤解と幻想に粉飾された畏敬。
+
+　これほどマスメディアというやつの無責任さが、
+　苛立たしく思えたことはない。
+
+<BOX type="5">//%sR
+「CIAじゃないなら、フリーなの？　お金で殺すの？」
+
+<BOX type="0">//%w
+「まぁ、そんな所だ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　何気なくそう答えたが、そのときに、気がついておくべきだった。
+
+　キャルの眼差しの、異常な熱気に……
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャルは小走りで、
+　部屋の隅に放ってあったスポーツバッグを取ってくると、
+　振り上げるようにしてテーブルの上に乗せた。
+
+<se id="1" src="札束バッグを置くb" mode="normal" loop="off">
+
+　卓上に落ちたスポーツバッグの、見た目によらない重々しい音が、
+　ふと気にかかる。
+
+<se id="2" src="zipper" mode="normal" time="" loop="off" effect="">//!se zipper
+　確かに、キャルが引き開けたジッパーの下から露わになった中身は、
+　想像もしないものだった。
+
+　アイロンと糊をかけたように、きれいに束ねられた札束が、
+　ぎっしりと詰まっている。
+
+<BUSTUP NAME="cyall3" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これ全部あげるわ。
+　数えたら500万ドルあった」
+
+「これでジュディの仇を殺して」
+
+<BOX type="0">//%w
+　あまりのことに、
+　目に映るものと思考とが、なかなかうまく噛み合わない。
+
+「こいつは……」
+
+<BOX type="5">//%sR
+「ヤクザの奴らが持ってたお金」
+
+<BOX type="0">//%w
+「おまえが……盗んだのか？」
+
+<BUSTUP NAME="cyall3" face="3" MODE="on" zoom="" ALIGN="right">//# cyall^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「盗んでなんかない!」
+
+「こんな汚い金、あたしは
+　1セントだって使ってないよ」
+
+<BUSTUP NAME="cyall3" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「決めてたんだ。これは全部
+　ジュディの仇討ちに使うって」
+
+「だから大家さんにも払わなかったし、何も食べなかった」
+
+「奴らの金で……奴らを殺すの」
+
+「探してたのよ。
+　{名}みたいな人。
+　お金で手伝ってくれる人」
+
+<BUSTUP NAME="cyall3" face="3" MODE="on" zoom="" ALIGN="right">//# cyall^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だって{名}、
+　ファントムなんでしょ？」
+
+「マフィア殺しの
+　ファントムなんでしょ!?」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「お願い。ぜんぶ殺して」
+
+「ゆうべ、あの路地に来た奴……」
+
+「あそこで銃を撃った奴、
+　撃たせた奴、
+　この金を受け取るはずだった奴」
+
+「ジュディを死なせた奴らは
+　ぜんぶ、一人残らず殺して！」
+
+<BOX type="0">//%w
+「落ち着け、キャル」
+
+　どうして自分は、こうも落ち着き払って話せるんだろう？
+　自分自身の冷徹さが意外だった。
+
+「今すぐに、答えは出ない。こういうことには順序がある」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やって……くれるの？」
+
+<BOX type="0">//%w
+「見積もってやる。話は明日だ」
+
+「今夜は、遅い。もう寝るんだ」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……うん」
+
+//> left room0f1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0f1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「……{名}」
+
+<BOX type="0">//%w
+　再びベッドに横になったキャルに、細い声で呼ばれた。
+
+「嘘ついて……ごめんね」
+
+<BOX type="0">//%w
+「お互い様さ」
+
+　弱々しい笑顔を見せてから、キャルは瞼を下ろした。
+
+//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　巻き込みたくない……
+　そう思っていたときには、
+　もうすでにキャルは、渦の真ん中に立っていたのか。
+
+　依然、襲撃者は謎だし、金を持ち去ったのが別人だったと判った今、
+　さらに襲撃の目的まで謎になってしまったが……
+
+　ある意味では、進展なのだ。
+　これで、今までは見当違いだった探索の方向が修正できた。
+　敵の狙いは、金じゃない。
+
+　これをインフェルノに持ち込めば、事態の5割が収拾できることになる。
+
+　ひとまず金だけでも手元に戻れば、
+　ヤクザたちもある程度は安心するだろう。
+
+　だが……どう説明する？
+
+　襲撃者は見つからず、金だけが戻ったというこの矛盾。
+
+　筋の通った説明をするには……事実をありのままに話すしかない。
+
+　明日、朝10時……
+
+　そこでインフェルノの幹部に、キャルのことを報告しなきゃならない。
+
+　インフェルノはキャルを許さないだろう。
+　組織の賓客から金を奪い、面子を潰されたのだから。
+
+　たとえ金が全額戻っても、そして子供の仕業だったとしても、
+　それで笑って済ませてくれるような連中じゃない。
+
+　ここに、この500万ドルの札束がある以上、
+　もうキャルを庇う口実は見つけようがない。
+
+<A HREF="1090.txt" OPERATOR="">//~ 1090
+
+
+
+
+<A HREF="1090.txt" OPERATOR="">//~ 1090

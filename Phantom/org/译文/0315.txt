@@ -1,0 +1,110 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left Contena4 wide 255
+<clear>
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="" mode="fadeout" time="10">
+<se id="3" src="" mode="fadeout" time="10">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="Contena4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+　交错的枪声，渐渐变得散乱。
+<se id="1" src="" mode="fadeout" time="40">
+
+　莉兹小队的突击已经快要结束了。
+
+　先不管哪边占据了上风……
+  只要能尽早找到赛斯，就能给他们提供突袭的机会。
+
+<BUSTUP NAME="儕僘傿偺晹壓" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+「不许动!」
+
+<BOX type="0">//%w
+背后传来一声怒喝。
+我回过头，莉兹的一个部下已经将枪口对准了我。
+
+<BOX type="5">//%sR
+「你这家伙想逃走吗？
+  啊？」
+
+<BOX type="0">//%w
+　这里会有Inferno的士兵，
+　看来这场战斗是Inferno占了上风吗……
+
+　现在可不是悠闲地考虑这些的时候。
+　对手的视线，明显地充满了杀气。
+
+<BOX type="5">//%sR
+「去死吧，叛徒……」
+
+<BOX type="0">//%w
+　这种状况下自己根本逃不掉。
+  要怎么办……
+
+<se id="1" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire4">//#! bayFire4 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　突然，从旁边射来一发子弹，
+  没等我反应过来，
+  莉兹部下的右半边脸已经消失了，脑浆溅了一地。
+
+<CLEAR><BACKGROUND SRC="Contena2">//# Contena2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我立刻躲进了附近遮挡物的阴影中。
+
+刚才的不是普通手枪或步枪子弹的声音……
+恐怕是马格南左轮中的“手持加农”。
+  
+
+  虽然想确认一下狙击手是在什么地方，
+  但这也会暴露我的位置，如果傻呆呆地站在原地肯定会被射杀的。
+
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+　从码头那边轰隆着传来的，全是主战场上机关枪的扫射声。
+  刚才的狙击手始终没有动静。
+<se id="1" src="" mode="fadeout" time="30">
+　好象没有火力压制的意思……难道想绕过来偷袭吗？
+
+　如果是这样，被掌握了位置的一方就是输家。
+
+　我也必须提前行动。
+  下定决心，我从遮挡物里冲了出来。
+
+<CLEAR><BACKGROUND SRC="Contena3">//# Contena3 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bayFire4">//#! bayFire4 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　又是一声枪响，我的脚边火花四溅。
+
+　可恶，被看穿了!!
+　敌人没有动。正等着我主动现身!
+
+<CLEAR><BACKGROUND SRC="Contena3">//# Contena3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　这样的话，我就只能依靠自己的脚力了。
+
+　我一边不断变换着方向，一边朝下一个遮挡物冲去。
+
+<se id="1" src="01_02a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　又有一枪打在了脚边。
+  我不禁出了一身冷汗。
+
+<A HREF="0320.txt" OPERATOR="0280=1">//~ 0320
+<A HREF="0330.txt" OPERATOR="">//~ 0330

@@ -1,0 +1,209 @@
+「今天……去执行任務了吧？」
+  自己要怎么样问她才好呢？
+　战战兢兢地，我继续询问着她。
+
+「……把什么人给……杀掉了么？」
+
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是啊」
+
+<BOX type="0">//%w
+　她的回答快的让我有些沮丧。
+
+　为什么她回答的时候连眉毛都不动一下？
+　不在乎吗？　什么都感觉不到吗？
+
+　她已经习惯这种事了吧。
+
+「白天的时候……那个叫克劳蒂亚的女人来过」
+
+「我听说了关于你的事。为什么你会被称为phantom？」
+
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　Ein什么都没有回答，我甚至不知道她是不是听到了我说的话。
+
+「你真的是组织里最强的杀手吗？」
+
+<BUSTUP NAME="elen4" face="2" MODE="on" zoom="" ALIGN="right">//# elen4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好像是这样呢」
+
+<BOX type="0">//%w
+　Ein的口气就像是在讨论别人的事一样。
+
+　眼前伫立的、如同幻影般存在着的少女……
+
+　怎么想都无法把她与最强杀手这种血腥、夸张的头衔联系在一起。
+
+　话说回来，
+  虽然不知道已经和她一起住了多久，
+  但关于她的事自己却一点都不清楚。
+
+　她究竟是个怎样的女孩子呢？
+
+「你……为什么会成为杀手呢？」
+
+<BOX type="5">//%sR
+「不知道」
+
+<BOX type="0">//%w
+　Ein丢给我的冷淡的回答，就像从墙上反弹回来的皮球。
+
+「你说……不知道？」
+
+<BOX type="5">//%sR
+「变成这样之前的事，没有教给我」
+
+<BOX type="0">//%w
+　开始我并不明白她的意思，
+  正想着，脑中突然闪过一个念头。
+
+「没有教所以不知道……Ein，难道说你也……」
+
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没错」
+
+「我和你一样，
+  都失去了过去的记忆」
+
+<BOX type="0">//%w
+「那，你也是被那个叫塞斯·玛斯塔的男人给……？」
+
+<BUSTUP NAME="elen4" face="3" MODE="on" zoom="" ALIGN="right">//# elen4^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　就像在思索着什么，Ein抬头望着虚空。
+
+<BOX type="5">//%sR
+「我曾经说过的吧，
+  你是第二个的我」
+
+「我是主人成功制作的最初实验者，
+　接下来的第二号，就是你」
+
+<BOX type="0">//%w
+　这么说来……
+　从前好像在哪里听过的零星的知识，在头脑中一闪而过。
+
+“Ein”，然后是“Zwei”……
+　这不是德语中数字“1”和“2”的意思吗？
+
+「……从什么时候开始的？」
+
+<BOX type="5">//%sR
+「2年前，还是主人加入Inferno之前的事呢」
+
+<BOX type="0">//%w
+「不会感到痛苦吗？」
+
+<BUSTUP NAME="elen4" face="2" MODE="on" zoom="" ALIGN="right">//# elen4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不会啊」
+
+<BOX type="0">//%w
+「我可是……很痛苦啊」
+
+<BOX type="5">//%sR
+「过一段时间就会忘记了」
+
+「我是活在当下瞬间的杀手……仅此而已」
+
+「所以，过去的事也好，将来的事也好，
+  全都没有意义。
+　记忆什么的是不必要的」
+
+<BOX type="0">//%w
+　淡淡地说着这些话，不知为何，Ein的样子看上去非常悲伤。
+
+「这样真的可以吗？」
+
+<BOX type="5">//%sR
+「可以啊」
+
+<BUSTUP NAME="elen4" face="" MODE="on" zoom="" ALIGN="right">//# elen4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「迟早你也会变成那样。
+　为了忍耐下去，你别无选择」
+
+<BUSTUP NAME="elen4" face="2" MODE="on" zoom="" ALIGN="right">//# elen4^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……休息吧。
+　从明天起，你就要开始接受新的训练了。」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+
+//もえらＳＥ追加
+<se id="1" src="アイン寝る用意" mode="normal" loop="off">
+
+<BOX type="0">//%w
+  Ein再没有说话，她用睡袋把身体包住，横着躺了下来。
+
+　我仰面注视着天花板，回想起Ein的话。
+
+　和自己一样被夺去记忆，已经这样度过了2年。
+
+　她曾经也是体会到这样的寂寞与空虚……
+  然后将它们甩在身后了吗？
+
+　不过，对于这一切自己会与Ein有同感么……我不知道。
+
+　……是因为她身边有那种冰冷的氛围吗？
+
+　超然的感觉，丝毫不会动摇的冷静。
+
+　直面人的生死，毫不迟疑地动手……
+　为此，那份冰冷是必须的吧。
+
+　果然，她是生活在另一个世界，与我完全不是一个水平的人。
+　我无法效仿她，
+  持续地把情感抑制到她那样的程度，无论如何也做不到。
+
+　但是……
+
+<BOX type="5">//%sR
+“你迟早也会变成那样”
+
+<BOX type="0">//%w
+　……是这样吗？
+
+　话说回来，虽然学会了使用手枪，
+  但我还从未想过自己会陷入被枪口对准的窘境。
+
+　这么说，不管我怎么做，自己的心情和思考方式，终究都会改变吧。
+
+　虽然不喜欢冷酷……
+　最后，自己还是会变成那样吧。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　这里没有镜子。
+
+　但不管什么时候，
+  自己都像在与一面镜子相对……
+
+　在镜面的另一边，
+　Ein的目光一直在凝视着我吧？
+
+　那如寒冰一般、冰冷的双眼。
+
+<CALC WORKNAME="0070l" OPERATOR="1">//
+<A HREF="0076.txt" OPERATOR="">//~ 0076

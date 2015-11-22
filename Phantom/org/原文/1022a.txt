@@ -1,0 +1,192 @@
+//> left houseC wide 255
+<se id="1" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="houseC">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　クロウディアの邸宅に帰り着いたのは、夜半を過ぎた時刻だった。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いつも通り、警報機に異常がないかコンソールをチェックしている間に、
+　クロウディアはさっさとシャワールームへ向かう。
+
+　放っておかれても、それで途方に暮れることはない。
+<se id="1" src="liquor" mode="normal" time="" loop="off" effect="">//!se liquor
+　居間の明かりを灯し、バーでハイボールを作ってから、
+　今夜プレーヤーにかけるレコードを物色する。
+　勝手知ったる他人の家、というやつだ。
+
+　結局、迷ったときにいつも選ぶピアノジャズを取って、
+　ターンテーブルに載せた。
+　そろそろ、クロウディアがシャワーから出る頃合いだ。
+
+　気だるいピアノの旋律を背中で聞き流しながら、
+<se id="1" src="liquor" mode="normal" time="" loop="off" effect="">//!se liquor
+　バーに戻って彼女の分の飲み物を準備していると、
+
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　申し合わせたようなタイミングで、
+　濡れ髪にバスローブ姿のクロウディアが、居間に戻ってきた。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ソファに並んで腰を降ろして、グラスを渡す。
+
+<se id="1" src="コップに氷" mode="normal" time="" loop="off" effect="">//!se liquor
+
+<BUSTUP NAME="crou3" face="0a" MODE="on" zoom="" ALIGN="right">//# crou3^0a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ありがと」
+
+<BOX type="0">//%w
+　二人きりになった後も、クロウディアの言葉数は少なかった。
+　先の会合の気分を引きずっているんだろう。
+
+<BOX type="5">//%sR
+「ニューヨーク、どうだった？」
+
+<BOX type="0">//%w
+「退屈だったよ。仕事以外に、やることがある訳でもなし」
+
+「……あんたの方は？」
+
+「俺の留守中、何かあったか？」
+
+<BOX type="5">//%sR
+「別に、これといって何も」
+
+<BOX type="0">//%w
+「本当に？」
+
+<BUSTUP NAME="crou3a" face="" MODE="on" zoom="" ALIGN="right">//# crou3a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……どうしたのよ、急に」
+
+<BOX type="0">//%w
+「いつもより、ずっと疲れてるみたいだ」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「何をそんなに、焦ってるんだ？」
+
+「最近のやり方は、強引すぎる。クロウディアらしくない」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな風に、見える？」
+
+<BOX type="0">//%w
+「……」
+
+　どうあっても、はぐらかしたいんだろうか。
+
+「俺じゃ、相談にならないか？」
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　柔らかく笑って、クロウディアは肩に身を擦り寄せてきた。
+
+<BOX type="5">//%sR
+「……いつの間にか、
+　『俺』になったわね。あなた」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「一年前のあなたとは、別人ね。
+　ほんとに、逞しくなった」
+
+<BOX type="0">//%w
+「誰のせいだと思ってるんだ？」
+
+<BOX type="5">//%sR
+「あたしの、せい？」
+
+<BOX type="0">//%w
+「そうさ」
+
+<BUSTUP NAME="crou3" face="aa" MODE="on" zoom="" ALIGN="right">//# crou3^aa 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　あけすけな返事に、くすぐったそうに笑うクロウディア。
+
+　話を逸らしたがっているのは、判った。
+　だから、敢えて問い質すこともしなかった。
+
+　責任が増し、心配事が増えれば、それだけ秘密も増えていく。
+　嫌が応にも、慎重さと、口の重さを求められるようになる。
+
+　そんなことに苛立つほど、互いの立場を弁えていないわけじゃない。
+　当たり前のことだ。
+　誰あろう、彼女はインフェルノの幹部なのだから。
+
+　ただ、柄にもない感傷が、ふと胸を過ぎっただけだ。
+
+　もし二人が、ごく普通の、何の変哲もない男と女だったなら……
+　こんな風に、割り切れない秘密を持つこともなかっただろうに。
+
+<BUSTUP NAME="crou3" face="7a" MODE="on" zoom="" ALIGN="right">//# crou3^7a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いつか、話せる時が来たら」
+
+「そのときは、{名}、
+　真っ先にあなたに相談するわ」
+
+<BOX type="0">//%w
+「……そうか」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left roomC1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　いつしかクロウディアは、肩の上で静かな寝息を立て始めていた。
+　その身体を、そっと寝室のベッドに運んで寝かせる。
+
+　それから居間に戻り、まだ中身の残ったグラスを手に、テラスに出た。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left teras wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="teras">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　1年と、半年……
+
+　この国に来てから、まだ、それだけしか経っていない。
+
+　記憶を封じられ、自分を見失っていた時期もあったが、
+　それを差し引いても、遥かに長い年月が流れ去ったような気さえする。
+
+　今にして思えば、日本での平和な暮らしなど、
+　まるで前世の記憶のようだ。
+
+<CALC WORKNAME="1022a" OPERATOR="1">//
+<A HREF="1024b.txt" OPERATOR=""0280=1>//~ 1024b
+<A HREF="1024a.txt" OPERATOR="">//~ 1024a

@@ -1,0 +1,307 @@
+　裸体の満身に返り血を浴びながら……
+　それでもキャルは美しかった。
+　まるで生け贄の血を捧げられた、狩猟の女神の彫像のように。
+
+<CLEAR><BACKGROUND SRC="classroom1c">//# classroom1c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「キャル……」
+
+<BOX type="5">//%sR
+「脅かして、ごめんね」
+
+<BOX type="0">//%w
+　そう無垢な微笑みを返す顔には、
+　たった今、生き残りにとどめを刺した残忍さも獰猛さも、
+　片鱗も見当たらない。
+
+　何事もなかったかのように、脱ぎ散らした服を身につけていくキャル。
+
+　そんな彼女を前にして、ただ呆気にとられたまま、問う。
+
+「お前、もう諦めてたんじゃ……」
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、あれ？　やっぱりナシ。
+　あたし死ぬの嫌」
+
+<BOX type="0">//%w
+　S&Wの弾倉を換え、ホルスターに挿しながら、鼻の頭を掻くキャル。
+
+「嫌、って……」
+
+<BUSTUP NAME="drei" face="0" MODE="on" zoom="" ALIGN="right">//# drei^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「だって{名}、中で出すんだもん」
+
+<BOX type="0">//%w
+　照れくさそうに言いながら、キャルは引き締まった下腹に手を当てる。
+
+<BOX type="5">//%sR
+「赤ちゃん、
+　いるかもしれないじゃん？
+　ここ」
+
+<BOX type="0">//%w
+「……」
+
+　本気なのか、冗談なのか、判じかねていると、
+　キャルは真顔に戻って宣言した。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたしは死ねない。
+　{名}も死なせない」
+
+「やっと一緒になれたんだもん。
+　生き延びるよ。どうやっても」
+
+<BOX type="0">//%w
+「……お前……」
+
+<BUSTUP NAME="drei" face="0" MODE="on" zoom="" ALIGN="right">//# drei^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そんな神妙な顔しないでよ。
+　何とかなるって」
+
+<BOX type="0">//%w
+「逃げ切れる……のか？」
+
+　敵の人数も、武装も判らない。
+　よしんばこの校舎を脱したとしても、その後はどうする？
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="right">//# drei^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「う～ん、そうねぇ……」
+
+「細かいところは、
+　一通りブッ殺してから考えよ」
+
+「{名}は無理しないで、隠れてるだけでいいから」
+
+「ともかく、ここは動こ。
+　ホラ、さっさと服着て」
+
+<BOX type="0">//%w
+　キャルは殺した3人の持っていたカラシニコフを回収し、
+　状態をチェックして、うち一挺を選び取った。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さっきまで、さめざめと泣いて、我を忘れて愛し合って……
+　なのに今は、もう毅然と戦いに臨んでいる。
+
+　女というのは、ここまで雄々しく、猛々しく……
+　そして恐ろしくなれるものなのか？
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school5c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="school5c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　奇襲は失敗……
+　フェンフ、ゼクス、ズィーベの応答がない以上、疑念の余地はない。
+
+　校内の各所に散ったまま、
+　残る3人……
+　フィーア、アハト、ノインは、
+　歯を打ち鳴らす独自の信号で、
+　通信機越しに討議する。
+
+　標的が油断しきっていたために、西棟にいた3名だけで突入を決行したが、どうやらドライを甘く見ていたらしい。
+
+<CLEAR><BACKGROUND SRC="court3c">//# zs8 20 court3c 1
+<BUSTUP NAME="zs8" face="" MODE="on" zoom="" ALIGN="right">//# zs8 20 court3c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　……そこで、中庭に潜むアハトが、危急を意味する信号を打った。
+
+<BOX type="5">//%sR
+“渡り廊下をドライが横断中。
+　東棟へと移動する模様……”
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　奇妙だった。
+　死んだフィーアからの最後の通信では、ツヴァイも同伴していたはずだ。
+
+　罠か？　囮か？
+
+　だがどんな局面を迎えようと、画一化され、調整を受けた少女たちの戦術的思考は、即座に共通判断を導き出す。
+
+<CLEAR><BACKGROUND SRC="schooltop3">//# schooltop3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“フィーア、アハトは
+　ドライを追撃して東棟へ”
+
+“その間、ノインは西棟を掃討し、
+　ツヴァイの生死を確認した後、
+　別経路からドライを奇襲”
+
+“挟撃して殲滅する……”
+
+<BOX type="0">//%w
+　導き出された分担のままに、仮面の少女たちは行動を開始した。
+
+//> left classroom3c wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="classroom3c">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　キャル一人を戦わせるのは気が引けたが、
+　この怪我では、足を引っ張るのが関の山だ。
+　仕方なく彼女の指示に従い、
+　今いる西校舎の3階で、息を潜めていることにした。
+
+　その間、キャルは東校舎に場を移し、
+　残りの敵をおびき出して始末するという。
+
+<se id="1" src="18_02b" mode="normal" time="" loop="on" effect="">//!se 
+　……だが、目論見は甘すぎたようだ。
+　ひっきりなしに轟く銃声は、間違いなく階下から聞こえてくる。
+
+　室内戦のセオリー通り、
+　身を隠せそうな場所には片っ端からフルオート射撃を浴びせて
+　蜂の巣にしているのだろう。
+
+　少なくとも一人は、この西棟に留まって、念の入った掃討を続けている。
+
+　やむを得ない。
+　やはりここは、自力で活路を開くしかない。
+
+　だが、どうするか？
+　貫通力の高いライフル弾の前には、
+　机やロッカー程度では遮蔽物の役割を果たさない。
+　迂闊に待ち伏せなどしようものなら、潜伏場所もろとも蜂の巣にされる。
+
+　だが、敵が1階2階と順繰りに攻め上ってくるならば、
+　まだ小細工を弄する時間は、ある。
+
+<se id="1" src="" mode="fadeout" time="100">
+<CLEAR><BACKGROUND SRC="passage5d">//# passage5d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まず教室を片っ端から渡り歩いて、
+　掃除用具入れのロッカーからバケツとモップをかき集める。
+　それぞれ5組ずつ揃ったところで、
+　目についた黒板消しクリーナーを{銃}の銃底で叩き壊し、
+　壁に這わせてあった電源コードだけを回収した。
+
+<CLEAR><BACKGROUND SRC="passage7c">//# passage7c 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そして戦利品を抱えたまま、廊下に並ぶ男子、女子用のトイレを目指す。
+
+<CLEAR><BACKGROUND SRC="toilet">//# toilet 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　隣の女子トイレの方が、個室の数は多いのだが
+　先に掃討されるのは、より階段に近い男子トイレの方だろう。
+
+　蛇口という蛇口を動員して、5個のバケツに水を張り……
+　それをひとつずつ個室に持ち込んで、便器の上に乗せていく。
+
+　右腕一本での労働に、額に脂汗が浮き、傷がじくじくと疼きはじめる。
+　だが、構ってはいられない。
+
+　バケツを配置し終えたところで、内開きの扉に、
+　中からモップを凭れさせ、モップの柄の重みで扉を閉ざす。
+
+//<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+　こうして五つすべての個室の扉が閉ざされたところで、
+　最後に、奥にある換気扇から電源コードを引き抜いて、
+　教室から持ってきた分を寄り合わせ、
+　タイル張りの床まで垂れるだけの長さに延長する。
+
+　じつに簡素な罠だが、うまく引っかかれば一人は着実に殺せるだろう。
+　あとは、どこに身を隠すかだが……
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+　カラシニコフの咆吼は、着実に近づいてきている。
+　もう2階まで蹂躙し尽くした様子だ。
+
+　いよいよ……来る。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right passage8d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="30">
+<wait time="900">
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+<BACKGROUND SRC="passage8d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="drei4" face="4" MODE="on" zoom="" ALIGN="right">//# drei4^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“くそったれ”
+
+<se id="1" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　銃弾の交錯する東棟2階の廊下……
+　その一端で、キャルは目論見の外れた展開に歯噛みしていた。
+
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="18_02b" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　総勢6名のツァーレンシュヴェスタンのうち、さっき始末した連中を差し引いて、残るは3人。
+
+<se id="3" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　だがキャルの誘いに乗って東棟まで追ってきたのは、どうやら二人だけらしい。
+
+<se id="1" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　そして{名}を残してきた西校舎では、さっきから情け容赦ないフルオート掃射が、ひっきりなしに轟いている。
+
+<BUSTUP NAME="drei4" face="8" MODE="on" zoom="" ALIGN="right">//# drei4^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“まずい……まずいよ！”
+
+<BOX type="0">//%w
+　{名}は手負いだ。
+　突撃銃との一騎打ちは手に余る。
+
+　ぐずぐずしていられなかった。
+　ここで手間取っている場合じゃない。この二人を始末して……{名}を助けに向かわねば。
+
+カラシニコフの残弾も残り少ない。
+何か思い切った手を打つしかない。
+
+　だが、どうする？
+
+　焦燥に駆られたまま、とりあえずキャルは銃撃を切り上げて後退し、非常階段を駆け上がる。
+
+<se id="1" src="ドライ走り" mode="normal" time="" loop="off" effect="">//
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+　何か、ないのか？
+　奴らを一網打尽にするような手は……
+
+<A HREF="3760.txt" OPERATOR="">//~ 3760
+
+
+
+　

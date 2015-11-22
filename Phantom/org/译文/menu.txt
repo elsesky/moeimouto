@@ -1,0 +1,125 @@
+<! -------------コメント>
+<INCLUDE SRC="include.h">
+<BGM>
+//////////////////////////////////////////////////////////
+<コマンド メニュー>
+<wait time="300">
+<BACKGROUND SRC="title\media_a">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<BACKGROUND SRC="title\media_b">//
+<WIPE EFFECT="fade" TIME="30">
+<wait time="600">
+<clear>
+<WIPE EFFECT="fade" TIME="10">
+<wait time="300">
+// サウンドエフェクト？ <se id="1" src="デモンベイン登場" mode="normal" time="" loop="off" effect="">
+<MOVIE SRC="Nitro_LOGO.mpg" SKIP="off">
+//<BACKGROUND SRC="title\nitroplus_rogo">
+//<WIPE EFFECT="light" TIME="20">
+<wait time="3000">
+<clear>
+<WIPE EFFECT="light" TIME="20">
+
+
+//以下、ムービースキップ可能。
+
+<A HREF="#MOVIECHECKED" OPERATOR="movie_checked=1">
+
+<MOVIE SRC="intg_OP.mpg" SKIP="off">
+<CALC WORKNAME="movie_checked" OPERATOR="1" MODE="global">
+
+<A HREF="#ENDMOVIECHECK">
+
+<MARKER NAME="#MOVIECHECKED">
+<MOVIE SRC="intg_OP.mpg" SKIP="on">
+
+<A HREF="#ENDMOVIECHECK">
+
+
+<MARKER NAME="#ENDMOVIECHECK">
+
+<clear>
+<WIPE EFFECT="light" TIME="20">
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="10">
+<SYSTEM INIT="TRUE">
+<SYSTEM MENU="#10">
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+//選択画面
+//////////////////////////////////////////////////////////
+<MARKER NAME="#MAIN">
+
+<system cmd="savemode" mode="off">
+<BGM SRC="l_requiem" MODE="fadein" OLD="fadeout" TIME="20">
+<SYSTEM INIT="TRUE">
+<BACKGROUND SRC="title\title_back">
+<WIPE EFFECT="FADE" TIME="3">
+<LAYER SRC="title\game_logo_001"  NUM="0" X="0" Y="-197">
+<WIPE EFFECT="FADE" TIME="3">
+<LAYER SRC="title\game_logo_002"  NUM="0" X="0" Y="-197">
+<WIPE EFFECT="FADE" TIME="3">
+<LAYER SRC="title\game_logo_003"  NUM="0" X="0" Y="-197">
+<WIPE EFFECT="FADE" TIME="3">
+<LAYER SRC="title\game_logo_004"  NUM="0" X="0" Y="-197">
+<WIPE EFFECT="FADE" TIME="3">
+<LAYER SRC="title\game_logo_005"  NUM="0" X="0" Y="-197">
+<WIPE EFFECT="FADE" TIME="3">
+<LAYER SRC="title\game_logo_006"  NUM="0" X="0" Y="-197">
+<WIPE EFFECT="FADE" TIME="3">
+<WITE TIME="3">
+
+<MARKER NAME="#LOOP">			//この間でループする
+<コマンド メニュー>
+<CHOICE HREF="#START"  x="338" y="418" pushse="20_01a" FILE="cg\title\sw_start_001.png;cg\title\sw_start_002.png;cg\title\sw_start_002.png"   >
+<CHOICE HREF="#LOAD"   x="346" y="444" pushse="20_01a" FILE="cg\title\sw_load_001.png;cg\title\sw_load_002.png;cg\title\sw_load_002.png"      >
+<CHOICE HREF="#SYSTEM" x="320" y="470" pushse="20_01a" FILE="cg\title\sw_system_001.png;cg\title\sw_system_002.png;cg\title\sw_system_002.png">
+<CHOICE HREF="#EXTRA"  x="336" y="496" pushse="20_01a" FILE="cg\title\sw_extra_001.png;cg\title\sw_extra_002.png;cg\title\sw_extra_002.png" operator="スタッフロール=1">
+<CHOICE HREF="#END"    x="357" y="522" pushse="20_01a" FILE="cg\title\sw_exit_001.png;cg\title\sw_exit_002.png;cg\title\sw_exit_002.png"     >
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+
+
+<コマンド 通常>
+<A HREF="menu.txt" OPERATOR="">
+//////////////////////////////////////////////////////////
+
+<MARKER NAME="#START">
+<コマンド 通常>
+<bgm src="" mode="fadeout" time="50" loop="on">
+<clear>
+<WIPE EFFECT="fade" TIME="10">
+<A HREF="0010.txt" OPERATOR="">
+
+<MARKER NAME="#REPLAY">
+<コマンド 通常>
+<LOAD NO="new">
+<コマンド メニュー>
+<A HREF=#LOOP>
+
+
+<MARKER NAME="#EXTRA">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<BGM SRC="l_inferno" MODE="fadein" OLD="fadeout" TIME="20" Loop="on">
+<A HREF="extramenu.nps">
+
+<MARKER NAME="#SYSTEM">
+<SYSTEM CMD="mantarget">
+<A HREF=#LOOP>
+
+<MARKER NAME="#LOAD">
+<コマンド 通常>
+<LOAD>
+<コマンド メニュー>
+<A HREF=#LOOP>
+
+// -------------------------------------------
+<MARKER NAME="#END">
+<BGM MODE="fadeout" TIME="10">
+<WAIT TIME="1000">
+<END OPTION="CLOSE">
+
+//////////////////////////////////////////////////////////

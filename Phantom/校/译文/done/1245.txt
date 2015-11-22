@@ -1,0 +1,269 @@
+//> left room3 wide 255 inferuno2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「呦，兄弟，真是让我好等啊」
+
+<BOX type="0">//%w
+「你什么时候成了我的兄弟了？」
+
+<BOX type="5">//%sR
+「不要说这么无情的话嘛」
+
+「我可是一向看重你的哦，Phantom」
+
+<BOX type="0">//%w
+「到底有什么事？」
+
+「快说吧。明天我们可都是很忙的」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好吧。我也不喜欢兜圈子」
+
+「那我就直说了。
+　甩开克劳蒂娅跟我混吧，这才是你存在的价值」
+
+<BOX type="0">//%w
+　我吃了一惊，不明白维斯梅尔在打什么算盘。
+
+「这个玩笑可不怎么好笑啊」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不是玩笑哦，我是认真的」
+
+<BOX type="0">//%w
+「那你的话还真是荒唐啊」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是认为我所说的蠢话，那你才是真的蠢啊，Phantom」
+
+「事到如今，你也应该察觉到那个女人的本性了吧？」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「给我好好看清楚吧」
+
+「这样下去，你会重蹈罗梅洛的覆辙的」
+
+<BOX type="0">//%w
+「他是被你杀掉的吧」
+
+　我冷笑一声。
+　维斯梅尔这家伙，居然用这么老套的方法威胁我。
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是令我痛心啊，难不成你以为是我杀了罗梅洛吗」
+
+<BOX type="0">//%w
+「……？」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然我很讨厌他，不过可惜啊，下手的不是我」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「想知道吗？」
+
+「要是陪我聊一聊，你就都明白了」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「总之先坐下吧」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1240x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="1240x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+//<BOX type="4">//%w
+　这话要从5年前说起了。
+　……那还是在我和马格维雅一起奠定Inferno基础的时候。
+
+　那个时候，有一个强势地拓展着自己地盘的黑帮。
+
+　其实，那些家伙不过是一群乌合之众，但他们的首领的确非常优秀。
+
+　那是个西班牙裔的地痞与法国妓女所生的小鬼，年纪轻轻但却胆识过人。
+
+　他的名字是，罗梅洛·梅斯卡索。
+
+<CLEAR><BACKGROUND SRC="1240x2">//# 1240x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="1">//%m
+可事实上，罗梅洛的强大是由于身后有黑手党的支持。
+在当时洛杉矶的地下世界中占有一席之地的萨巴提尼家族一直在幕后支持着他。
+
+　萨巴提尼和我的『布拉迪兹』，可以称得上是宿敌了。
+
+　当时我的目标就是干掉所有的黑手党，成为洛杉矶的霸者。为了搞垮萨巴提尼家族我也算是不择手段了。
+  为此，罗梅洛也就成了与我势均力敌的对手。
+
+　顺便说一下，萨巴提尼家族的老大一直被他的年轻情妇所蛊惑。那个情妇是罗梅洛的姐姐，也就是你所熟悉的那个女人。
+
+<CLEAR><BACKGROUND SRC="1240x3">//# 1240x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="5">//%w
+　没错，她就是克劳蒂娅·麦肯宁。
+
+　我不知道克劳蒂娅是通过怎样的手段攀上萨巴提尼这棵大树的。
+
+　不知道她是为了帮助罗梅洛实现野心才去哄骗那位老爷爷，还是为了掌握萨巴提尼的实权而利用罗梅洛。
+
+　不过，不管是哪一个，罗梅洛的黑帮与萨巴提尼家族都已经连成一体。
+
+紧接着，罗梅洛开始入侵我的地盘，我们双方可谓是大打出手。
+然后，隐藏在暗处的萨巴提尼也杀了出来，终于演变成了全面战争。
+
+　这个时候，克劳蒂娅注意到了我的背景。
+
+　我和南美洲的毒品大王联手、打算建立名为Inferno的组织……不知怎么回事，这件事被这只母狗嗅到了。
+
+　想起来还真是高明。
+  那个女人用淫荡的身体导演了一出绝佳的剧目。
+
+　她无论如何都想从我们的计划里分一杯羹，为此不惜舍弃一切。
+
+<CLEAR><BACKGROUND SRC="1000x9">//# 1000x9 1
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">// dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="5">//%w
+　最后，那家伙站到了我和马格维雅这边。
+
+　她让我的手下躲进壁橱。
+  结果，可怜的老萨巴提尼在情人的卧室里被9mm子弹打成了蜂窝。
+
+<CLEAR><BACKGROUND SRC="1240x4">//# 1240x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+//<BOX type="5">//%w
+　作为弟弟的罗梅洛，则是被她叫到宾馆里直接射杀了。
+
+说起来还真是惊人。
+那个女人背地里还陪罗梅洛睡过。那小子连手下都没带，结果脑门上被开了一个大洞……
+
+　真是的，这算哪门子的姐弟啊。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room3 wide 255 inferuno2^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「我这么说，听起来就像在讲故事一样吧」
+
+「信不过的话，就去找马格维雅证实吧，这样你就什么都明白了」
+
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么样？有什么感想？」
+
+<BOX type="0">//%w
+「……恶心到快要吐了」
+
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是当然的吧」
+
+<BOX type="0">//%w
+「你这家伙的气味实在是太臭了，根本没办法和你长谈」
+
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="right">//# inferuno2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「要是没别的事，我就回去了」
+
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你一定会后悔的，Phantom」
+
+<BOX type="0">//%w
+　对于维斯梅尔的恶语，我只是冷笑了一下，接着就头也不回地离开了。
+
+　我不打算让兰迪送我回去，无论如何自己都不愿和这些家伙混在一起。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　维斯梅尔的话是没有根据的，可是……我也找不出否定它的证据。
+
+　他所打的算盘，就是将关于罗梅洛的话题当成自己的王牌吧。
+
+　如果是毫无根据的谎话，他是不可能那么自信的。
+
+　他的话实在太过荒唐，所以我没有一点动摇的意思。
+
+<BOX type="5">//%sR
+“我早就已经污秽不堪了……”
+
+<BOX type="0">//%w
+　克劳蒂娅曾经这样哭泣着说道。
+  她的泪水，说明了一切。
+
+　那个时候，我就下定了决心。
+  不去追问她的过去。
+
+　所以对我来说，维斯梅尔的话不过是耳旁风而已，没有验证真伪的价值。
+
+　等到时机成熟、要用这双手杀掉艾扎克·维斯梅尔的时候，估计自己不会有一丝的犹豫吧。
+
+　这并不是因为我对维斯梅尔中伤克劳蒂娅感到气愤。
+  说不定，维斯梅尔的故事是真的。
+  说不定，我真的会重蹈罗梅洛的覆辙。
+
+　说起来，我与维斯梅尔可谓无冤无仇，因而不会对他有怒气。
+  所以，我对他所怀有的，只是超越了愤怒的、单纯的杀意而已。
+
+　必须被埋葬在黑暗之中的、克劳蒂娅的过去。
+　他不但对此留有记忆，而且还曾经涉身其中。
+  这个男人还活着……这种事绝对不能容许。
+
+　他的存在，对于我爱的人是莫大的屈辱。
+
+<A HREF="1250.txt" OPERATOR="">//~ 1250

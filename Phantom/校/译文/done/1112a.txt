@@ -1,0 +1,14 @@
+<BOX type="0">//%w
+要说选择佩枪的话，当然是这把一直都在用的M29马格南左轮。把这家伙揣进怀里，果然给人不一样的安心感。
+
+　虽说带着落伍的左轮手枪可能会被莉兹笑话，不过对她这种偏好7毫米口径柯尔特政府型手枪的女人来说，实在是没什么解释的必要。
+  算了，人各有好吧。
+
+<CALC WORKNAME="幩寕壒" OPERATOR="03_01">//
+<CALC WORKNAME="廵" OPERATOR="M29">//
+<CALC WORKNAME="廵夋憸" OPERATOR="44儅僌僫儉">//
+<CALC WORKNAME="幩寕夋憸" OPERATOR="44儅僌僫儉2">//
+<CALC WORKNAME="峔偊夋憸" OPERATOR="庡恖岞廵幩寕斈梡Sm">//
+<CALC WORKNAME="1112a" OPERATOR="1">//
+<A HREF="1118.txt" OPERATOR="1100=1">//~ 1118
+<A HREF="1120.txt" OPERATOR="">//~ 1120

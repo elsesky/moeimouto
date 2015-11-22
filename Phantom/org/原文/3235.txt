@@ -1,0 +1,263 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left court2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="court2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　中庭のベンチに腰掛けた銀髪の異国人は、存分に注目を集めていた。
+
+　通りすがった学生はみな、一様に好奇の視線を残していく。
+
+　すでに相当数の学生に印象を焼きつけている筈だが、
+　本人は一向に気にした気配がない。
+　誰かと目が合うごとに、物怖じもせず屈託のない微笑を返す様は、
+　いかにも気さくな異邦人といった風だった。
+
+<CLEAR><BACKGROUND SRC="court3b">//# court3b 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　その様子を、物陰から窺いながら、時を待った。
+
+　昼休みの終わりを告げるチャイムが鳴り、他の学生が教室へと戻るのを。
+
+　奴と対峙するところを、無縁な他人に見られたくはない。
+
+//> left court2b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="noonchim" mode="normal" time="" loop="off" effect="">//!se noonchim
+<BACKGROUND SRC="court2b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+//<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　やがて、待ち受けていた鐘の音とともに、
+　ひとときの解放を楽しんでいた生徒たちは、
+　また億劫そうに、校舎の中へと姿を消していく。
+
+<se id="1" src="" mode="fadeout" time="5">
+//<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　そして中庭は、世界から忘れ去られたような静寂に包まれた。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　一体なにが可笑しいのか、
+　一人残ったサイスは依然、相好を崩して植木を眺めている。
+
+　もう既に、こちらの気配には気付いているだろう。
+
+　もう一度、周囲に視線を巡らし、どこにも人目がないのを確かめてから、
+　サイスの待つベンチへと歩を進めた。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……随分と、待たせてくれたな」
+
+<BOX type="0">//%w
+　返事はしない。
+　ただの一言も、こいつにかける言葉はない。
+
+　代わりに、ただ視線を刺し通す。
+　喉に、眉間に、動脈と臓器に……
+
+　知る限りの急所を、思いついた端から目で追っていく。
+
+　弾丸に頼るまでもない。
+　貫手の指で、振り上げた踵の一撃で、
+　嘲るような笑いを消して、ただの肉塊にしてやれる。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうだ。お前には私が殺せる」
+
+「命令でもなく、
+　追いつめられてでもなく、
+　ただ己が意志のみによって」
+
+「それがお前の、特筆すべき点だ。
+　ツヴァイ」
+
+<BOX type="0">//%w
+「……」
+
+　こちらの殺意を平然と受け止めて、サイスはまるで臆した様子がない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そもそもこいつは……いったい何をしに来た？
+
+　ベンチから腰を上げたサイスは、まるで演壇に立った講師のように、
+　見えざる受講者にむけて独演を続ける。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「純粋な殺意に支えられた君と、
+小手先の催眠で心を補強した
+アインとでは、輝きも硬度も違う」
+
+「喩えれば、ダイヤモンドのようなものだ。人工の模造品は、とうてい天然の結晶には及ばない」
+
+「君はある意味、失敗作なわけだが
+　それでも私の研究に、
+　新たな方向性を示唆してくれた」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そこで私は、
+　今度は憎悪というテーマについて
+　模索してみたんだよ」
+
+「見てくれたかね？
+　私の誇る第三作は？」
+
+<BOX type="0">//%w
+　第三作……だと？
+
+　こいつは性懲りもなく、また誰かを殺し屋に……
+
+　さして悩むまでもなく、思考の糸は繋がった。
+　鉛のように重い絶望が、下腹にのしかかる。
+
+　脳裏に蘇るのは、一昨日の……あの冷酷なキャルの眼差しだった。
+
+「……キャルに、何をした？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「結論から言うと、
+　何もしていない」
+
+「催眠もなし。暗示もなし。
+　記憶も情緒も
+　まったく操作していない」
+
+「ただ彼女の
+　持ち前の憎しみだけを、
+　徹底して磨き上げた」
+
+「……まさしくダイヤの原石と
+　言うべき素材だったからな」
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「探し出したのはお前だそうだが、
+感謝に堪えんよ。よくあれだけの
+逸材を、私の手元に残してくれた」
+
+<BOX type="0">//%w
+　怒りで目の前が暗くなる。
+
+　同じ道だけは歩ませたくない。
+　ただそれだけを願っていた筈なのに、
+
+　その結果が、これか？
+　よりによって、この男の手に……
+
+「貴様だけは……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「許し難いかね？　憎いかね？」
+
+<BOX type="0">//%w
+　忌々しい笑い皺を、さらに深くするサイス。
+
+<BOX type="4">//%sL
+「だがこの場では殺せまい？
+　あまりにリスクが大きすぎるぞ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……その通りだ。
+
+　殺すだけなら造作はない。
+　声を立てる暇さえ与えはしない。
+
+　だが、死体はどうする？
+
+　サイスの姿は、もう何人が目撃しているか知れない。
+　そしてサイスが誰に会いに来たかは、早苗がすでに知っている。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うむ、いいぞ。その自制」
+
+「お前は純粋な憎悪とともに、
+　冷静な判断力も兼ね備えている。
+　素晴らしいバランスだ」
+
+「正直なところ、
+　ドライはいささか
+　やりすぎた感がある」
+
+「憎悪のあまり、
+　まるきり制御のきかない代物に
+　なってしまったよ」
+
+「もしこの場に彼女がいれば、
+　後先考えず、お前やアインに
+　牙を剥くことだろうな」
+
+「だが、さすがに人目を忍ぶぐらいの知恵はある。さっきもアインを、どこかに誘導していたようだし」
+
+<BOX type="0">//%w
+　……何だと!?
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="right">//# sice2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「アインも逃げるかと思いきや、意外に肝が座っているな。人目を避けてドライと対面する気らしいぞ」
+
+<BOX type="0">//%w
+　{ヒロイン}……
+　一体どうして、そんな危険を？
+
+　他の人間に囲まれていれば、
+　まだ見つかっても手出しされることはなかっただろうに。
+
+　……それともまさか、やり合う気なのか？　キャルと。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「助勢に行くなら、急ぎたまえ。
+　校舎の裏の方角だったぞ」
+
+<BOX type="0">//%w
+「……」
+
+　結局、この男の目的が何だったのか、見当もつかないままだが、
+　今はそれどころじゃない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　サイスの忌々しいにやけ顔に背を向けると、
+<se id="1" src="玲二走り2" mode="normal" time="" loop="off" effect="">//
+　あとは後ろも見ずに駆け出した。
+
+　{ヒロイン}が、キャルを誘い込むような、
+　どこか人目につかない場所、となると……
+
+<se id="1" src="" mode="fadeout" time="20">
+<A HREF="3240.txt" OPERATOR="">//~ 3240

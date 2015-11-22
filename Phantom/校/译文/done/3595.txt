@@ -1,0 +1,453 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right ruins2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="ruins2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不知过了多久，美绪醒了过来。
+
+　睁开眼睛，意料之外的阳光映入眼帘。
+  太阳已经升的很高了。
+
+　抬起头，环顾四周。
+  房间里谁也不在。
+
+虽然不会被别人看到，不过美绪还是用毛毯裹住了身体。
+
+　凯尔……似乎从昨夜离开就再也没有回来。
+　从她说的那些话来看，她应该不会再回来这里了。
+
+　在这个没人会来的地方被铁链拴着……现在应该担心的是自己才对吧
+
+　这时，牵动美绪内心的，是昨夜偷听到的凯尔那令人不安的言语片段。
+
+<BOX type="5">//%sR
+“结束这一切吧……”
+
+<BOX type="0">//%w
+　和谁？
+　她要和谁做个了结呢？
+
+　虽然不愿这么想……可是，最初的那个晚上，凯尔曾经明明白白地说过。
+
+<BOX type="5">//%sR
+“我要和{名}决斗”
+
+“决出谁更强……”
+
+<BOX type="2">//%w
+　美绪不禁慌乱起来。
+
+　怎么办才好？
+　究竟要怎么办……
+
+　突然，她注意到了身后的视线，连忙回过身去。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　悄无声息……不知从什么时候开始，江漣站在了房间的入口那里。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「咦，江漣……」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是{ヒロイン}」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎？」
+
+<BOX type="2">//%w
+　样子还是江漣……
+　可是，面前的少女身上完全没有美绪熟悉的那种活泼、坦率的气氛。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「已经没必要再骗你了」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「所以叫我{ヒロイン}就行了」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　改换{ヒロイン}之名的少女，递给如同全裸的美绪一个纸袋。
+
+<BOX type="4">//%sL
+「我给你带替换的衣服来了，抱歉随便闯进你家里」
+
+<BOX type="3">//%m
+//<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+<se id="1" src="暈傪戃偐傜弌偡" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　里面装的是美绪的制服和内衣。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「到底是谁叫你来的……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是Drei」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……凯尔？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+「……这么称呼她也可以」
+
+<BOX type="3">//%m
+　看到美绪脚上的手铐，{ヒロイン}取出藏在裙子后面的手枪。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%w
+　她也……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%w
+　无视惊讶的美绪，{ヒロイン}蹲下来，抓住她的脚，用枪对准了手铐。
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+
+<BOX type="4">//%sL
+「不要动」
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!SE 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="5">//%w
+　虽然已经是第2次听到了，但枪声还是让美绪打了一个激灵。
+
+　3天来一直禁锢着美绪的冰冷手铐被彻底破坏，美绪非常简单地得到了解放。
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你们，到底是……」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你从Drei那里听说了吧？」
+
+<BUSTUP NAME="mio3" face="1" MODE="on" zoom="" ALIGN="right">//# mio3^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio3^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<CLEAR><BACKGROUND SRC="ruins3">//# drei^2 19 dummy 20 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">// ruins3 1
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20  ruins3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+“你被骗了哦……”
+
+<CLEAR><BACKGROUND SRC="ruins2">//#  dummy 19 dummy 20 ruins2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　虽然不想相信凯尔的话……
+
+　在见到江漣的骤变之后，美绪也不得不开始怀疑自己的认识。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　江漣……不，这样称呼她可以吗？
+　她的侧脸非常平静，没有任何的表情，与平时在班里见到的那个女孩判若两人。
+
+　她也和{名}、凯尔一样……是另一个世界的人吗？
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　现在还没到走投无路的地步。要是将事情告诉她，说不定她会有什么解决办法。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……凯尔在昨夜走了」
+
+「说要了结一切……大概是想杀{名}同学」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我知道」
+
+<BOX type="3">//%m
+　明明事关{名}的性命，江漣……{ヒロイン}却没有丝毫动摇。
+
+　倒不如说，自己的话她根本就没有听的必要。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+这时，美绪突然想到。
+为什么{ヒロイン}会为自己准备衣服呢？
+
+　昨天晚上，凯尔在电话中的交谈对象……难道是她吗。
+
+　这样的话，凯尔要“结束一切”的对象是……
+
+<BOX type="5">//%sR
+「你要……跟她战斗吗？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是的」
+
+<BOX type="3">//%m
+　{ヒロイン}的回答既简短又冰冷，简直像寒冰一般。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　……为什么？
+　几天前还一起欢笑、一起玩闹的她……为什么必须要去杀人呢？
+
+　自己无法相信。
+　自己不愿相信。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　每个人都将美绪排除在外。
+
+　{ヒロイン}也是，凯尔也是，
+  还有，{名}也是……
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我……」
+
+<BOX type="2">//%w
+　明明遭受了残酷的对待，
+  明明品尝了恐惧的滋味。
+
+　可是，美绪已经受够了一个人孤零零地被排除在外。
+
+<BOX type="5">//%sR
+「有什么我能做的吗？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「没有」
+
+<BOX type="3">//%m
+　{ヒロイン}没有任何商量余地地这样答道。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　……应该会是这样吧。
+　即使什么都不问、不说，自己也能明白。
+
+他们的世界没有美绪介入的余地。
+只是一介女学生的她，什么都做不到。
+
+　可是……
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^6 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我喜欢{名}同学」
+
+<BOX type="2">//%w
+　除此之外，美绪已经没有什么想说的了。
+
+<BOX type="5">//%sR
+「只要是为了他，我什么都做的到」
+
+「即使这样还不行吗？我不能跟他在一起吗？」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　面对含泪表白的美绪，{ヒロイン}的目光却没有一丝的动摇。
+
+　她的眼神冰冷而生硬，散发出如手枪的光泽一般的光亮。
+
+<BOX type="4">//%sL
+「你的心意或许是真真切切的，说不定你真的会为此竭尽全力」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「可是，仅仅这样是打不倒Drei的」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么会……」
+
+<BOX type="2">//%w
+　美绪找不出任何回应的话。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="left">//# elen7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「如果我不能杀了Drei，Drei就会杀了{名}」
+
+「你能代替我完成这件事吗？」
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="2">//%w
+　无话可说的美绪低下了头，任由泪水留下。
+
+<BOX type="5">//%sR
+「我再也不能见到他了吗……」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="left">//# elen7^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不可能了」
+
+<BOX type="3">//%m
+　没有任何的宽慰，{ヒロイン}的话中不含一丝的慈悲，仿佛要彻底打消美绪的希望。
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="left">//# elen7^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「无论如何都想帮上{名}的话」
+
+「就在这里继续待一会吧」
+
+「如果你的安全得到了保证，梧桐组和幕后的黑手就会行动起来，追杀{名}」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="left">//# elen7^7 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「过了今天，一切都将结束」
+
+「你躲在这里的话，{名}活下去的几率就能高些」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　接着，{ヒロイン}也转身背对美绪，就像昨夜的凯尔那样。
+
+<BUSTUP NAME="mio1" face="c" MODE="on" zoom="" ALIGN="right">//# mio1^c 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^c 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「至少……」
+
+<BOX type="2">//%w
+　望着即将离去的{ヒロイン}的背影，美绪最后这样说道。
+
+<BOX type="5">//%sR
+「至少，告诉我。
+　对{名}同学来说……我究竟算是什么人？」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　{ヒロイン}停下脚步……回头望了一眼美绪。
+
+<BOX type="4">//%sL
+「那就让我告诉你吧」
+
+「把你卷进来的，不是{名}，是我」
+
+「你会被Drei绑架，遭受如此的不幸，全都是我的错」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="left">//# elen7^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# elen7^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「另外，{名}不是能用演技表现哭和笑的人」
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="left">//# elen7^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「如果说你见过他的笑脸和眼泪的话……那一定是真的」
+
+<BOX type="3">//%m
+{ヒロイン}望着墙壁，脸上第一次有了表情。
+她的眼神就像是在悼念什么失去的东西，非常的寂寞。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="僪儔僀曕偒5" mode="normal" loop="off">
+<BOX type="3">//%m
+　接着，{ヒロイン}再没有对美绪说一句话，就这么走出了房间。
+<se id="1" src="" mode="fadeout" time="20">
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　没有人的废屋中，只剩下了美绪一人。
+
+<A HREF="3610.txt" OPERATOR="3590a=1">//~ 3610
+<A HREF="3800.txt" OPERATOR="3190=1">//~ 3800
+<A HREF="3800b.txt" OPERATOR="">//~ 3800b

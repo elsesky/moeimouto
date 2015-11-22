@@ -1,0 +1,189 @@
+<BUSTUP NAME="elen2" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　仿佛要用刃影覆盖我一样，少女用匕首往下突刺。
+<se id="1" src="swing" mode="normal" time="" loop="off" effect="">//!se swing
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　
+  发出不成声的惨叫，我在地上滚动着回避。
+
+<BUSTUP NAME="elen2" face="2" MODE="on" zoom="" ALIGN="right">//# elen2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　她是认真的，而且动作快得惊人。
+　用熟练的手法，灵活的挥舞着沉重的军刀，
+  简直就像，电视里出现的杀手一般。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　怎么回事，这些家伙究竟是什么人？
+  
+  什么都不清楚。
+  但确定的事，只有一件。 
+
+　现在，对这个女孩放松注意力的话……
+  如果分心考虑其他事情，就会被杀。
+
+　紧盯着女孩的眼睛，
+　将给我的匕首向前伸出，小心地站起来。
+
+　黑暗、深邃、冰冷的双瞳。 
+
+　……是这样啊。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<CLEAR><BACKGROUND SRC="傾僀儞僫僀僼捠忢">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+　终于明白了。
+  这是刚才那场梦的继续。
+
+  我，还在梦里……
+
+　追上来的黑色瞳孔……正是眼前的这个女孩 。
+
+　既然如此，再无犹豫的必要。
+  这只是一场梦而已 。
+
+　总之，只考虑怎么活下来，怎么逃走就行了。
+
+　如果真的逃不掉，到那个时候……
+
+  就只有杀了她…… 
+
+　不杀了她的话…… 
+  在被杀之前，如果不杀了她的话…… 
+
+　但是……到底要怎么做？
+
+　很显然，女孩对于匕首的使用非常熟练，不管怎么想自己都没有胜算。
+
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　房间的角落，传来了谁的偷笑声。
+  是刚才那个银发的外国人……
+  称呼女孩为“Phantom”的那个男人。
+
+　刚才，他好象用英语对女孩下达了什么命令，
+  如果是这样的话……
+
+　我一边测量着距离，一边慢慢地向旁边移动。
+
+　少女依旧站在原地，
+  只是悠然的架着刀，身体随着我的移动转变着方向。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　看到了……
+  眼角的余光，已经可以看到那个银发的外国人了。
+
+　银发男子好像十分的兴奋，
+  就这样望着手持匕首、互相凝视的两人，目光中带着灼热的气息。
+
+　一瞬间就够了，
+  只要能分散那个女孩的注意力……
+  大概，这是取胜的唯一方法。
+
+　伴随着危险，将目光从女孩那里移开，
+  然后，锁定银发的外国人。
+  一声大喊，我举起刀，做出要掷向他的架势。 
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　只有一瞬间，但很明显的，女孩动摇了。 
+
+<BUSTUP NAME="傾僀儞僫僀僼" face="" MODE="on" zoom="" ALIGN="right">//# elen2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　为了保护那个男人，她挡在了我们之间。
+
+　如我所期望的，一瞬的破绽，
+  
+  就是现在！！ 
+
+<se id="1" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 dummy 19 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="room1">//#! room1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　我保持掷刀的架势，突然向女孩扑了过去。 
+
+<se id="2" src="彴偵揮偑傞" mode="normal" time="" loop="off" effect="">//!se down
+　紧接着，两人一起滚倒。 
+　女孩彻底跌坐在地上，而我马上用膝盖起身， 
+　抓住这短短的瞬间，死死地按住倒在地上的女孩。 
+
+<CLEAR><BACKGROUND SRC="0010p1">//# 0010p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　为什么，自己完全感觉不到恐惧？
+  就算是在梦里，可毕竟是杀人……
+
+　仿佛不是自己，
+  而是手中的刀拥有意志似的。
+
+　而且，为什么，从这个女孩身上也完全看不到恐惧？ 
+
+　悲哀、怜悯……
+　她最后的目光，给我留下这样的感觉。
+
+//もえらＳＥ追加
+<se id="1" src="彎岥傪僫僀僼偱巋偡" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="傾僀儞僫僀僼巋偝傞">//
+<WIPE EFFECT="fade" TIME="10">
+
+
+<box type="0">
+　刀刺下的地方，确实地，看到了鲜红的血。
+
+<se id="2" src="shock" mode="normal" time="" loop="off" effect="">//!se shock
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="0">
+<clear>
+<CLEAR><BACKGROUND SRC="room1">//# room1 1
+<WIPE EFFECT="fade" TIME="0">
+<box type="0">
+　同时，似乎要贯穿头部一般，冲击从下颚传来。
+  女孩保持仰面倒地的姿势，就这样给了我一记强烈的上钩拳。
+  随即，眼前一片空白。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<BOX type="6">//%w
+<font color="#010101">
+　从遥远的某处，传来了银发外国人兴奋的声音。
+
+『“Zwei”……You are “Zwei”』
+　
+  ……在说什么？
+
+  还是一点都不明白。
+
+『这是你的名字』
+
+　不经意的，听到了声音。
+  那个目光哀戚的女孩的声音。
+
+『从今天开始，
+　你的名字就是“Zwei”……』
+
+　Zwei？
+  那是什么？
+  什么意思？
+
+  为什么这是我的……名字？
+
+  这里，究竟是什么地方……
+</font>
+
+<A HREF="0015.txt" OPERATOR="">//~ 0015

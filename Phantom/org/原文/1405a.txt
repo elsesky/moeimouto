@@ -1,0 +1,12 @@
+<BOX type="0">//%w
+　選ぶまでもなく、いつものデザートイーグルを手に取る。
+　こいつに代わる銃など、あろう筈もない。
+
+<CALC WORKNAME="射撃音" OPERATOR="20_01a">//
+<CALC WORKNAME="銃" OPERATOR="デザートイーグル">//
+<CALC WORKNAME="銃画像" OPERATOR="デザートイーグル">//
+<CALC WORKNAME="射撃画像" OPERATOR="デザートイーグル2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Ie">//
+<CALC WORKNAME="1405a" OPERATOR="1">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

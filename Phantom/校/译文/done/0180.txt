@@ -1,0 +1,378 @@
+<calc workname="gun28" operator="1" mode="global">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left street0d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="塉幒奜" mode="fadein" time="10" loop="off" effect="">//!se rain
+<BACKGROUND SRC="street0d">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　从傍晚开始，街上一直下着暴雨。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0b4 wide 255
+<clear>
+
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="" mode="fadeout" time="40">
+<se id="1" src="塉幒撪儖乕僾" mode="fadein" time="" loop="on" effect="">//!se rain
+
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="room0b4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　雨滴敲打着窗户，
+  窗外雷声滚滚。
+
+「……这下麻烦了啊」
+
+　我想到半夜的任务，不禁这样脱口而出。
+
+　原以为夜里的港口在工作灯的照射下会很明亮，可以确保清楚的视野。
+  然而这个如意算盘却意外地落空了。
+
+　如果有了明暗的对比，隐蔽处就会完全陷入黑暗之中，
+  辨认起来会很困难。
+
+　再加上这场雨。
+  今晚的任务，八成要夭折了。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein一声不吭，心无杂念地检查着枪械。
+
+<CLEAR><BACKGROUND SRC="aug_shorty_000">//# aug_shorty_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　被分解成零件的、高处狙击用的两把自动机枪……
+
+<CLEAR><BACKGROUND SRC="g3_000">//# g3_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　卡宾型AUG和狙撃用G3-Rifle，
+　组装完毕，瞄准部分也校正好了。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「这次，我们支援的奇袭小队是什么人？」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我不知道任何关于他们的消息」
+
+<BOX type="0">//%w
+　要与自己完全不了解的成员进行团队合作，
+  这实在让我提不起干劲，
+  不过，鉴于Inferno这样的组织结构，
+  这种支援任务，是理所当然要做的吧。
+
+<CLEAR><BACKGROUND SRC="street0d">//# dummy 20 street0d 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　加盟者中的某人出动私人武装的时候，
+  Inferno往往要主动提供支援。
+
+　虽然接受这种差事的一般都是克劳蒂亚指挥着的Inferno直属战斗部队，但偶尔也会派Phantom出动。
+  ……比如说像今夜这样。
+
+　不与其他成员碰面，
+  可能是为了确保Phantom存在的隐秘性。
+
+　不过……
+　在今晚这样恶劣的视野状况下强制行动……
+  这样缺乏计划的作战，令人有些不安。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「看样子，这场雨在半夜之前是不会停了」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「还是不要期待的好」
+
+<BOX type="0">//%w
+　Ein还是一如既往地冷淡。
+  算了，反正今夜的主角是她，应该没问题吧。
+
+<CLEAR><BACKGROUND SRC="room0b4">//# room0b4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="knock" mode="normal" time="" loop="off" effect="">//!se knock
+<BOX type="0">//%w
+　阁楼的门口响起了咚咚的敲门声，
+  起初自己还是误以为那是雷声。
+
+<CLEAR><BACKGROUND SRC="room0a4">//# room0a4 1 elen1 20
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# room0a4 1 elen1 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　Ein立刻把AUG和G3藏了起来。
+　确认无误之后，我起身前去开门。
+
+<CLEAR><BACKGROUND SRC="room0d1">//# room0d1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……是谁？」
+
+<se id="2" src="door4" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="room0c1">//# room0c1 1 rizy 19
+<WIPE EFFECT="fade" TIME="10">
+<wait time="800">
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# room0c1 1 rizy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「打扰你们了吧？」
+
+<BOX type="0">//%w
+「莉兹……」
+
+　昏暗的走廊中，一个修长的身影立在那里，
+  她是克劳蒂娅的保镖——莉兹。
+
+<BOX type="4">//%sL
+「克劳蒂娅让我传话给你，
+  Zwei，今天晚上8点，
+  你到克劳蒂娅的家里去」
+
+<BOX type="0">//%w
+　我一时间呆住了，开始怀疑起自己的耳朵。
+
+「怎么这么急……是什么事情？」
+
+<BOX type="4">//%sL
+「位置调换了。我今天晚上必须要去参与一起货物交易」
+
+「真是令人不爽啊」
+
+「所以，由你代替我担当护卫」
+
+「这可是麦肯宁小姐亲自点名的哦」
+
+<BOX type="0">//%w
+「请等一下，
+  我们今天晚上还有别的任务」
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什么？我可没听说啊。
+  谁下的指示」
+
+<BOX type="0">//%w
+「……赛斯·玛斯塔」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「什么嘛……
+　那是赛斯私自下的命令吧。
+　肯定没错」
+
+「没关系，
+  克劳蒂娅的命令优先执行」
+
+<BOX type="0">//%w
+「可是……」
+
+　我刚想反驳，莉兹的脸色明显地变得不悦。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我说啊，再怎么说我们的上司都是克劳蒂娅吧」
+
+「赛斯不过是个参谋。 最近，这家伙还真是有些嚣张啊」
+
+「想陪那个家伙做游戏是你们的自由，不过至少应该优先完成工作吧」
+
+「明白了吗？」
+
+<BOX type="0">//%w
+「……」
+
+　什么做游戏啊。每次都是关乎生死的任务啊。
+
+　可是正当我想反驳的时候，Ein打断了我。
+
+<CLEAR><BACKGROUND SRC="room0b4">//# elen1^2 20 dummy 19 room0b4 1
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20 dummy 19 room0b4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「去吧，Zwei」
+
+<BOX type="0">//%w
+「Ein……？」
+
+<BOX type="5">//%sR
+「主人安排的任务，我一个人执行就够了」
+
+「你就按照克劳蒂娅小姐的指示去做吧」
+
+<BOX type="0">//%w
+「那怎么行……太危险了」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不要紧，不会有问题的」
+
+<CLEAR><BACKGROUND SRC="room0c1">//# rizy 19 dummy 20 room0c1 1
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20 room0c1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「就是啊。 Zwei，你不要自作多情，自讨没趣了」
+
+<BOX type="0">//%w
+　说完，莉兹把写着克劳蒂娅住址的纸条递给了我。
+
+<BOX type="4">//%sL
+「8点，别忘了啊」
+
+
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="2" src="door2" mode="normal" loop="off">
+<BACKGROUND SRC="room0d1">//
+<WIPE EFFECT="fade" time="7">
+<BOX type="0">//%w
+　然后，不给我回话的时间，
+  带着那修长的身形，莉兹转身离开了。
+
+//> left room0a4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「今晚的任务，一个人太危险了」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「是这样呢，
+  必须要重新安排作战计划了」
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不用担心。我会顺利完成的」
+
+<BOX type="0">//%w
+「可是……」
+
+　如果只是掩护射击的话，是很容易的任务，
+  可是要持续掩护到袭击部队撤退的话，
+  最后就会陷入孤立无援的境地。
+
+　最后撤退的她，得不到任何人的支援。
+
+「这样不行啊，Ein」
+
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">//# elen1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「选择权不在我手上」
+
+<BUSTUP NAME="elen1" face="5" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我所能做的，只是利用分配给我的器材和人员，完成分配给我的任务……仅此而已」
+
+<BOX type="0">//%w
+　虽然自己已经身陷绝境，
+  可是Ein依然还是那种冰冷平淡的语气。
+  就像是在说别人的事情一样。
+
+　还是说……即使是在这样的境况下，她还是留有余力吗。
+
+　的确，她有着超出常人的能力……
+
+　无论是缺乏表情的脸庞，还是被虚空占据的目光，
+  从哪里都解读不出Ein真实的想法。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你差不多该走了。
+  不然要迟到了」
+
+<BOX type="0">//%w
+　像往常一样，
+  她没有给我犹豫的时间。
+
+　无论何时，
+  她都会不带丝毫迟疑地、就这样冲向眼前的现实。
+
+<BUSTUP NAME="elen1" face="" MODE="on" zoom="" ALIGN="right">//# elen1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我要带的东西很多，
+  所以要使用停在下面的高尔夫」
+
+「你就开藏在5号街的Taurus吧」
+  
+（Taurus，福特车型，诞生于1985年，由于造型新颖，被人称作“豆型软糖”、“飞翔的土豆”。1992年成为了美国年度最畅销汽车）
+
+<BOX type="0">//%w
+「……我明白了」
+
+　除此之外，我们再也没有说一句话。
+  取而代之的，是选择今夜所要携带的枪械。
+
+<se id="1" src="" mode="fadeout" time="30">
+
+
+//> top dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+//仸廵慖戰
+<CLEAR>
+<BACKGROUND SRC="廵\対廵慖戰back">
+
+// 廵傾僯儊乕僔儑儞 TYPE="97" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="34" y="396" TYPE="97" FILE="cg\廵\3D柍偟.jpg">
+
+// 廵愢柧 TYPE="98" FILE偱巜掕偡傞偺偼丄廵慖戰偵儅僂僗僆乕僶乕偟偰偄側偄偲偒偵昞帵偡傞夋憸
+<CHOICE HREF="dummy"  DISABLE="TRUE" x="276" y="396" TYPE="98" FILE="cg\廵\愢柧柍偟.png">
+
+// 廵慖戰丂TYPE="99" FILE偱巜掕偡傞偺偼丄"捠忢昞帵夋憸 ; 儅僂僗僆乕僶乕帪夋憸 ; 儅僂僗僆乕僶乕僄儕傾夋憸 ; 廵愢柧僥僉僗僩夋憸 ; 廵傾僯儊乕僔儑儞夋憸 亊 24枃"偲側偭偰傑偡丅
+// 儅僥僶
+<CHOICE HREF="ta001.txt"   x="127" y="8" TYPE="99" FILE="cg\廵\儅僥僶.png;cg\廵\儅僥僶.png;cg\廵\儅僥僶a.png;cg\廵\儅僥僶s.png;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_00.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_01.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_02.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_03.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_04.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_05.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_06.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_07.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_08.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_09.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_10.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_11.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_12.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_13.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_14.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_15.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_16.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_17.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_18.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_19.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_20.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_21.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_22.jpg;cg\廵\廵夞揮_楢斣\儅僥僶楢斣\儅僥僶_23.jpg" OPERATOR="M2006=1">
+// 僨僓乕僩僀乕僌儖
+<CHOICE HREF="0180Ie.txt"   x="235" y="13" TYPE="99" FILE="cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖.png;cg\廵\僨僓乕僩僀乕僌儖a.png;cg\廵\僨僓乕僩僀乕僌儖s.png;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_00.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_01.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_02.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_03.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_04.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_05.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_06.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_07.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_08.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_09.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_10.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_11.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_12.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_13.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_14.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_15.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_16.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_17.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_18.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_19.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_20.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_21.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_22.jpg;cg\廵\廵夞揮_楢斣\僨僓乕僩僀乕僌儖楢斣\僨僓乕僩僀乕僌儖_23.jpg" OPERATOR="50AE=1">
+// 僔僌
+<CHOICE HREF="ta001.txt"   x="485" y="30" TYPE="99" FILE="cg\廵\僔僌.png;cg\廵\僔僌.png;cg\廵\僔僌a.png;cg\廵\僔僌s.png;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_00.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_01.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_02.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_03.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_04.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_05.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_06.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_07.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_08.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_09.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_10.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_11.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_12.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_13.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_14.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_15.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_16.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_17.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_18.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_19.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_20.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_21.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_22.jpg;cg\廵\廵夞揮_楢斣\僔僌楢斣\僔僌_23.jpg" OPERATOR="P226=1">
+// 儀儗僢僞
+<CHOICE HREF="0180BS.txt"   x="0" y="139" TYPE="99" FILE="cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞.png;cg\廵\儀儗僢僞a.png;cg\廵\儀儗僢僞s.png;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_00.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_01.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_02.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_03.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_04.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_05.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_06.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_07.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_08.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_09.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_10.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_11.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_12.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_13.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_14.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_15.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_16.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_17.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_18.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_19.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_20.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_21.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_22.jpg;cg\廵\廵夞揮_楢斣\儀儗僢僞楢斣\儀儗僢僞_23.jpg" OPERATOR="M92F=1">
+// 僷僀僜儞
+<CHOICE HREF="0180Cm.txt"   x="218" y="151" TYPE="99" FILE="cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞.png;cg\廵\僷僀僜儞a.png;cg\廵\僷僀僜儞s.png;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_00.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_01.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_02.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_03.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_04.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_05.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_06.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_07.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_08.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_09.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_10.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_11.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_12.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_13.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_14.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_15.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_16.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_17.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_18.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_19.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_20.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_21.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_22.jpg;cg\廵\廵夞揮_楢斣\僷僀僜儞楢斣\僷僀僜儞_23.jpg" OPERATOR="pyson=1">
+// M29
+<CHOICE HREF="0180Sm.txt"   x="439" y="81" TYPE="99" FILE="cg\廵\M29.png;cg\廵\M29.png;cg\廵\M29a.png;cg\廵\M29s.png;cg\廵\廵夞揮_楢斣\M29楢斣\M29_00.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_01.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_02.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_03.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_04.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_05.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_06.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_07.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_08.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_09.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_10.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_11.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_12.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_13.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_14.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_15.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_16.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_17.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_18.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_19.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_20.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_21.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_22.jpg;cg\廵\廵夞揮_楢斣\M29楢斣\M29_23.jpg" OPERATOR="SWM29=1">
+// H_K USP
+<CHOICE HREF="ta001.txt"   x="206" y="238" TYPE="99" FILE="cg\廵\h_k.png;cg\廵\h_k.png;cg\廵\h_ka.png;cg\廵\h_ks.png;cg\廵\廵夞揮_楢斣\USP楢斣\USP_00.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_01.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_02.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_03.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_04.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_05.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_06.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_07.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_08.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_09.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_10.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_11.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_12.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_13.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_14.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_15.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_16.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_17.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_18.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_19.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_20.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_21.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_22.jpg;cg\廵\廵夞揮_楢斣\USP楢斣\USP_23.jpg" OPERATOR="hkUSP=1">
+// 僈僶儊儞僩
+<CHOICE HREF="0180CV.txt"   x="476" y="206" TYPE="99" FILE="cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩.png;cg\廵\僈僶儊儞僩a.png;cg\廵\僈僶儊儞僩s.png;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_00.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_01.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_02.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_03.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_04.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_05.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_06.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_07.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_08.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_09.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_10.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_11.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_12.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_13.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_14.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_15.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_16.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_17.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_18.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_19.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_20.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_21.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_22.jpg;cg\廵\廵夞揮_楢斣\僈僶儊儞僩楢斣\僈僶儊儞僩_23.jpg" OPERATOR="M1911=1">
+
+<WIPE EFFECT="FADE" TIME="10">
+<SELECT>
+<A HREF="0190.txt" OPERATOR="">//~ 0190

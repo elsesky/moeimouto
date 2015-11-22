@@ -1,0 +1,37 @@
+<clear>
+<BACKGROUND SRC="street0b">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「我们出去吃晚饭吧」
+
+<BUSTUP NAME="cyall2" face="7" MODE="on" zoom="" ALIGN="right">//# cyall2^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎!?　真的吗!?」
+
+<BOX type="0">//%w
+　与给她买衣服的时候不同，凯尔立刻就变得开心起来。
+　看样子，与吃饭有关的事似乎是不需要客气的。
+
+或许这也是合情合理的价值观吧。
+跟送东西不一样，吃饭的快乐不是只有被请的一方才会独占，而是两个人一起分享。
+
+「好不容易买了新衣服，就让更多的人看看吧」
+
+<BOX type="5">//%sR
+「嗯!!」
+
+<BOX type="0">//%w
+克劳蒂娅曾经告诉过我几家不错的店。
+凯尔虽然有点不太适应这样成人式的地方，不过，这种气氛或许也能成为令女孩子开心的一种刺激。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+「……今天，你想吃什么都可以哦」
+
+<A HREF="1135.txt" OPERATOR="">//~ 1135

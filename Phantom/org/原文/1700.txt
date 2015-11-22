@@ -1,0 +1,806 @@
+//> left 1700x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1700x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+「フェラーリは、目立ちすぎる。こっちのシヴィックに乗り換えよう」
+
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……こんな所に乗り捨てて
+　行くなんて、悲しいわね」
+
+<BOX type="0">//%w
+「どのみちティワナより先には、持っていけないんだから……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　言いかけて、気付いた。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<se id="1" src="BMWブレーキ" mode="normal" time="" loop="off" effect="">//!se brake
+<CLEAR><BACKGROUND SRC="1700x20">//#! 1700x2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　尋常ではないスピードで、
+　強引なハンドルワークで駐車場へと突入してくる、1台のマスタング。
+<se id="2" src="BMW急発進走行" mode="normal" time="" loop="off" effect="">//!se brake
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+「伏せろ!!」
+
+<se id="1" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="ムスタングから銃撃">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　咄嗟にクロウディアの肩を抱き、
+　シヴィックの影に転がり込んだその瞬間、
+　マスタングの車内から、銃撃が始まった。
+
+<se id="1" src="" mode="fadeout" time="5">
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="シビック弾痕">//# m3_000 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="1200">
+
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="m3_000">//# m3_000 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　打ち砕かれた安全ガラスの破片を頭から浴びつつも、
+　助手席側のドアを開け、跳弾の飛び交う車内から、
+　ナビシートに放り出してあったM3ショットガン――
+　クロウディアの家でやり合った連中から奪ってきた得物だ
+　――を掴み出す。
+
+//<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<se id="3" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<CLEAR><BACKGROUND SRC="M3射撃">//# m3_000 1
+<WIPE EFFECT="fade" TIME="0">
+　敵の弾幕の途切れた瞬間を見計らい、フェンダーから半身を乗り出して、
+　今度はM3のセミオート連射をお見舞いした。
+
+<se id="2" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+//<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+//<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="0">//%w
+　すでにクロウディアはシヴィックの影から掛け出て、
+<se id="3" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　奥に停めてあるフェラーリに向かって走っている。
+
+<se id="1" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　その背中を撃たせまじと、
+<se id="2" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　間断なくマスタングに弾幕を浴びせ、リアシートの射手を制圧する。
+
+<se id="3" src="04_07" mode="normal" time="" loop="off" effect="">//!se shotG2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="駐車場汎用">//
+<WIPE EFFECT="fade" TIME="0">
+　弾倉のＯＯバック散弾をありったけ叩き込んだところで、
+　ようやくマスタングの連中は沈黙した。
+
+<se id="1" src="BMWブレーキ" mode="normal" time="" loop="off" effect="">//!se brake
+<CLEAR><BACKGROUND SRC="1700x3">//#! 1700x3 1
+<WIPE EFFECT="fade" TIME="0">
+
+<BOX type="0">//%w
+　だが間髪入れず、さらにもう一台、今度は反対車線から、
+　ベンツが駐車場に突っ込んできた。
+<se id="2" src="BMW急発進走行" mode="normal" time="" loop="off" effect="">//!se brake
+
+　今度の敵は、
+　銃撃よりも車体の剛性と重量にものを言わせるつもりらしい。
+　蜂の巣になったシヴィック目掛け、一直線に突っ込んでくる。
+
+　シヴィックもろとも押し潰す気か!?
+
+<se id="3" src="ベンツフル加速" mode="normal" time="" loop="off" effect="">//!se brake
+
+　弾倉を代えている暇はない。M3は投げ捨てて懐から{銃}を抜き、
+　フロントグラス目がけて連射を放つ。
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+<se id="2" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　1発、2発……
+
+<se id="3" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<BOX type="0">//%w
+　3発目でドライバーを撃ち倒した手応えがあった……
+　が、ベンツの突進は止まらない。
+
+<se id="1" src="ベンツフル加速" mode="normal" time="" loop="off" effect="">//!se brake
+<CLEAR><BACKGROUND SRC="ベンツ突進レイジ身構え">//# 1700x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　横に飛んでも間に合わない。
+　意を決し、シヴィックのボンネットの上に跳び乗って、
+　眼前まで迫ったベンツのアッパーライトに身構える。
+
+<se id="2" src="crash2" mode="normal" time="" loop="off" effect="">//!se crash2
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="dummy">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+　横合いから激突され、シヴィックが紙箱のように潰れるその寸前、
+　ボンネットを蹴り、ベンツの屋根を目掛けて身体を投げ出していた。
+
+<se id="3" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+　硬い屋根へと肩からぶち当たり、そのままリアウィンドウ、トランクと、
+　身体を丸めて転がりながら、ベンツの後方へと落ちる。
+
+<se id="1" src="throwed" mode="normal" time="" loop="off" effect="">//!se throwed
+<CLEAR><BACKGROUND SRC="ベンツクラッシュ">//# bmw_crash 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　背中といわず腰と言わず、いたるところを強烈に打ったが、
+　骨に異常はなさそうだった。
+　だがそれよりも、ベンツの上で受け身を取ったとき、
+　右手の{銃}を取り落としてしまったらしい。
+
+　幸い、シヴィックを潰して停止したベンツから、
+　乗員が降りてくることはなかった。
+　すでに{銃}の連射で絶命しているだろう。
+
+　こちらの居場所は、もう知れている。
+　今の2台は序の口だ。
+　すぐにも追っ手は、続々と駆けつけてくるだろう……
+
+<wait time="800">
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="1" src="F40accel2" mode="normal" time="" loop="off" effect="">//!se F40accel2
+<CLEAR><BACKGROUND SRC="F40走り込んでくる">//# bmw_crash 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　弱気を吹き飛ばすように、雄々しく頼もしいV8エンジンの息吹が、
+　すぐ背中で轟いた。
+
+<BOX type="4">//%sL
+「乗って、{名}!」
+
+<BOX type="0">//%w
+　{銃}は……多分、残骸になった2台の下へ
+　転がり込んでしまったんだろう。見回しても、すぐには見つからない。
+
+<CLEAR><BACKGROUND SRC="mp5_000">//# mp5_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　仕方なく、シヴィックの車内からMP5と予備弾倉を回収する。
+　手当たり次第に武器を持ちだしておいて正解だった。
+
+<BOX type="4">//%sL
+「{名}、早く!!」
+
+<BOX type="0">//%w
+「ああ!」
+
+<CLEAR><BACKGROUND SRC="1700x4">//# 1700x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　助手席に飛び乗ると、
+<se id="1" src="F40急発進" mode="normal" time="" loop="off" effect="">//!se F40go1
+　ドアを閉める暇も与えず、クロウディアはF40を発進させる。
+
+　見つかった以上……もはや目立とうが構いはしない。
+　むしろ機動力こそ重要だった。
+
+　結局、
+　このV8ツインターボの化け物の、潜在力に頼ることになりそうだ。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0140n6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="3" src="F40走行150室内" mode="normal" loop="off">
+
+<wait time="900">
+<bgm src="speed2" mode="fadein" old="fadeout" time="10" loop="on">//$ speed2.swa 0 255
+<BACKGROUND SRC="クロウディア車中">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「最期の走りは……
+　相当、楽しめるわね!」
+
+<BOX type="0">//%w
+　追いつめられたこの状況にも関わらず……
+　いや、そんな窮地であるが故か、クロウディアは躁的で不敵な笑顔で、
+　眼前のハイウェイを睨んでいた。
+
+<BOX type="4">//%sL
+「そんじょそこいらの
+　ポンコツじゃ、
+　もう追いつけないわよ」
+
+<CLEAR><BACKGROUND SRC="MP_5_膝の上">//# mp5_000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="06_01" mode="normal" time="" loop="off" effect="">//!se 
+　彼女が嘯く傍らで、MP5のボルトを引き起こし、初弾を装填する。
+
+「リズィの銃は？」
+
+<BOX type="4">//%sL
+「ダッシュボードよ」
+
+<CLEAR><BACKGROUND SRC="HB_0000">//# HB_0000 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　{銃}をなくした今、
+　このハードボーラーも当てにするしかない。
+
+<se id="2" src="13_01" mode="normal" time="" loop="off" effect="">//!se 
+　弾倉と薬室を確認し、セイフティをかけて、ベルトの前に挿す。
+
+<se id="3" src="" mode="fadeout" time="15">
+<CLEAR><BACKGROUND SRC="1700x5">//# 1700x5 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="F40連続追い抜き" mode="normal" time="" loop="off" effect="">//!se F40run
+<BOX type="0">//%w
+　着々とギアをシフトアップし、
+　禁断の領域へとF40を駆り立てていくクロウディア。
+
+　無理な追い越しに抗議するクラクションさえ、耳に届く暇もなく、
+　ドップラー効果で置き去りにされていった。
+
+　加速に乗った時点で、もうどんな追撃も及ばない。
+
+「空力限界でも試す気かい？」
+
+<BOX type="4">//%sL
+「離陸するのは、まだ先よ」
+
+<BOX type="0">//%w
+　マリーナ＝デル＝レイを過ぎる頃には、
+　そんな軽口をたたく余裕さえあった。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　離陸、か……
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40走行150室内" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="moon2">//# moon 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ふと窓の外の夜空に目をやったのは、不吉な直感に駆られたせいか。
+
+　視野の隅で、月輪の前を掠め過ぎる黒い影。
+
+「……」
+
+　何だ？　今のは。
+
+<BOX type="4">//%sL
+「この勢いで飛ばせれば、
+　日の出より前に
+　ティワナに着くわね」
+
+<BOX type="0">//%w
+「ああ……」
+
+　生返事をしながらも、車外の闇を、慎重に透かし見る。
+
+　このまま、終わるのか……
+
+<CLEAR><BACKGROUND SRC="MP_5_膝の上">//# 1700x7 1
+<WIPE EFFECT="fade" TIME="10">
+　不吉な予感に、
+　気がつくと、握りしめたMP5の銃把が、汗にぬめっていた。
+
+<se id="2" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1700x6 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1700x6">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="chopper" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x7">//# 1700x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ジェファーソン＝ブルーヴァードとの交差点に、その死神は浮いていた。
+
+　夜空に溶け込んだ無灯火のシルエットを、土壇場で視認できたのは、
+　機体前面を占める風防から、朧に発していた機内灯のせいだ。
+
+「クロウディ……」
+
+<se id="2" src="F40車線変更" mode="normal" loop="off">
+　警告するより早くクロウディアも気づき、咄嗟に車体を横に振る。
+　夜空に突撃ライフルの銃口炎が閃いたのは、それとほとんど同時だった。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<se id="3" src="18_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xg">//#! 1700xg 1
+<WIPE EFFECT="fade" TIME="0">
+　闇を裂いた銃弾の雨が、間一髪、アスファルトを抉って火花を散らす。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+　やはりさっきの……ヘリコプターか!!
+
+<se id="1" src="ヘリ巡航" mode="normal" time="" loop="on" effect="">//!se chopper
+<se id="2" src="F40急発進" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="1700x9">//# 1700x9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ホバリング中だったヘリは、一瞬でバックミラーの点になったが……
+
+　すぐに、F40の加速など歯牙にもかけず、じりじりと背後に迫ってくる。
+
+　まさか、あんなものまで持ち出してくるとは……
+　すでにリンカーン＝ブルーヴァードはLA国際空港の敷地内である。
+　今頃、深夜の管制塔はパニックに陥っているだろう。
+
+　どうやらインフェルノの連中も、
+　なりふり構っていられなくなったようだ。
+
+<BOX type="4">//%sL
+「掴まっていて!」
+
+<se id="3" src="F40ドリフト" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="1700xg">//# 1700xg 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　叫ぶやいなや、
+　クロウディアは車体を小刻みに蛇行させ、敵の射線をずらそうとする。
+
+<se id="2" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　左右の窓を、流星のように飛び過ぎる曳光弾の輝線。
+
+　銃撃の狙いの甘さが、せめてもの幸いだった。
+　本物の攻撃ヘリならいざ知らず、敵は非武装のチョッパーに、
+　ライフルを携えた射手を載せているだけらしい。
+　照準が安定しないのも当然だ。
+
+//<se id="2" src="ヘリ巡航" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x4">//# 1700x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だからといって、いつまで保つ……？
+
+　轟々たるV8エンジンの咆吼を圧してなお聞こえるローター音。
+　今度は、外さない距離まで肉薄する気だ。
+
+「開けるぞ!」
+
+<BOX type="4">//%sL
+「え？」
+
+<BOX type="0">//%w
+　開閉ハンドルなど回している暇はない。
+　畳んだMP5の台尻で、サイドウィンドウを叩き割る。
+<se id="2" src="grass" mode="normal" time="" loop="off" effect="">//!se grass
+
+　即座に時速200kmの猛烈な突風が、F40のコックピットを蹂躙した。
+　髪を吹き散らされたクロウディアが、声にならない悲鳴を上げる。
+
+//<se id="3" src="ヘリ巡航" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x8">//# 1700x8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ヘリはこちらと併走するポジションについていた。
+　ハーネスで身体を釣り、機外に半身を乗り出した射手。
+　その手の中で鈍く光るAR15の銃口までもが、
+　間近に見て取れるほど近く……
+
+<se id="3" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//# 1700x8 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="主人公ＭＰ５射撃">//# 1700x8 1
+<WIPE EFFECT="fade" TIME="0">
+　刃物のような気流に目を眇めながら、
+　割った窓の外に腕だけを突き出して、MP5の弾幕を浴びせる。
+
+<se id="2" src="19_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ほとんどの9mm弾は虚空に散り、
+　わずか数発がヘリの機体で跳弾の火花を散らしたが、
+　それだけで致命打を与えられるはずもない。
+
+　敵もこちらも、条件は同じだ。
+　両者ともども、手持ちの火器で必中を狙えるスピードではない。
+
+//<se id="1" src="ヘリ巡航" mode="normal" time="" loop="off" effect="">//!se chopper
+<CLEAR><BACKGROUND SRC="1700x9">//# 1700x9 1
+<WIPE EFFECT="fade" TIME="10">
+　臆したわけでもなかろうが、それでも用心するかのように、
+　ヘリはF40から距離を取った。
+　頭上の敵には、獲物を嬲りものにする余裕さえ見てとれる。
+
+　……当然だ。いかに地上で最速を誇ろうと、
+　天駆ける猛禽から見れば、所詮は地を這う獲物である。
+　駿馬も地虫も違いはない。
+
+　くそう、どうすれば……
+
+<se id="1" src="" mode="fadeout" time="30">
+<se id="2" src="F40カーブ" mode="normal" time="" loop="off" effect="">//!se driftOut
+<CLEAR><BACKGROUND SRC="1700x0">//# 1700x0 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　歯噛みしたところで、強烈な横殴りのGに襲われた。
+
+　得意のドリフトワークで、クロウディアはF40を、
+　リンカーン＝ブルーヴァードからセパルヴェーダ＝ブルーヴァードへと
+　乗り入れる。
+
+<se id="1" src="F40走行150室内" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="1120n1">//# 1120n1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「あと1キロ少し、我慢して」
+
+<BOX type="0">//%w
+　固い声で、クロウディアが呟いた。
+
+　ここから、1000m……？
+
+　脳裏に道路地図を思い描き、クロウディアの意図を理解した。
+
+<se id="1" src="" mode="fadeout" time="15">
+<se id="3" src="F40走行250" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="1700x5">//# 1700x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　この先、道は南北に一直線だが、
+　滑走路を横断する長さ500m余りのトンネルがある。
+
+　当然、ヘリは中まで追ってこれまい。
+　あのヘリのサイズとパイロットの腕前なら、
+　トンネルの中にまで侵入してくることも出来ただろうが、
+　それだと思い切ったスピードは出せない。
+　F40の加速なら、決定的な距離を開けられる。
+
+<se id="2" src="ヘリ飛び去り" mode="normal" time="" loop="off" effect="">//!se chopper2
+　まるで断末魔の獲物が息絶えるのを待つハゲタカのように、
+　つかず離れずF40の頭上についてきたヘリは、
+　そこでやおら速度を上げて、前方に飛び去っていった。
+
+　……そうか。
+　奴らは奴らで、トンネルの出口に先回りして、
+　待ち構える腹づもりなんだろう。
+　トンネルの出口はひとつしかない。
+
+　何か、敵を出し抜く策はないのか？
+
+<se id="2" src="" mode="fadeout" time="20">
+<clear>
+<BACKGROUND SRC="black">//
+<WIPE EFFECT="fade" time="7">
+<wait time="1000">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="Tunnel1">//# Tunnel1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　知恵を絞っている間に、トンネルに突入した。
+<se id="1" src="F40走行80" mode="normal" time="" loop="off" effect="">//!se F40down
+　……だが、そこで何を思ったか、クロウディアはF40を減速させる。
+
+<CLEAR><BACKGROUND SRC="Tunnel3">//# Tunnel3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……車を捨てるわよ」
+
+<BOX type="0">//%w
+「え!?」
+
+<BOX type="4">//%sL
+「この長さのトンネルなら、どこかに待避路があるわ。そこから空港の中に逃げ込みましょう」
+
+「連中だって、まさか
+　滑走路の上空で長居はできない。
+　ここでなら撒けるわ」
+
+<BOX type="0">//%w
+「……その後は？」
+
+<BOX type="4">//%sL
+「考えてないわ」
+
+「でも、このままじゃ、どのみち
+　ヘリからは逃げきれないわ」
+
+<CLEAR><BACKGROUND SRC="Tunnel2">//# Tunnel2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　V8の唸りを鎮め、路肩に寄って徐行しながら、
+　がら空きの一直線のトンネル内を見渡して、待避路の蛍光掲示を探す。
+
+<se id="1" src="" mode="fadeout" time="20">
+<se id="2" src="F40低速停止" mode="normal" time="" loop="off" effect="">//!se F40idol
+
+<BOX type="4">//%sL
+「……あそこね」
+
+<BOX type="0">//%w
+　あった。
+　アイドリングのまま、クロウディアは車体を静止させる。
+　だが、問題はこの後だ。空港に逃げ込んでからはどうする？
+　離陸前の旅客機を探して、カーゴルームにでも忍び込むか？
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+<CLEAR><BACKGROUND SRC="searchlight">//# searchlight 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だがそんな思惑も、
+　トンネルの遙か前方で瞬いたサーチライトの白光に中断された。
+
+//<se id="1" src="chopper" mode="normal" time="" loop="off" effect="">//!se chopper
+　……近づいて、くる？
+
+　どうやら敵も途中から、こちらの思惑に気付いたらしい。
+
+　車を捨てて逃げるより前に決着をつけようと……
+　トンネルの反対側から、内部に突入してきたのだ。
+
+　数少ない一般車は恐れをなして、突っ込んでくるヘリに道を空けようと、
+　路肩に寄って急停車する。
+
+　万事休す……
+　車を降りて待避路に逃げ込むまでの間に、
+　ヘリは二人を射程に収めるだろう。
+
+　反転して逃げるか？
+　だが、どうせ後方には、後続の追っ手が詰めかけているに違いない。
+
+<se id="1" src="" mode="fadeout" time="20">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<CLEAR><BACKGROUND SRC="1120n1">//# 1120n1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　わずかに視線を合わせただけで、意志の疎通は事足りた。
+
+<se id="1" src="19_05" mode="normal" loop="off">
+　残り少ないMP5の弾倉を新しいものと交換し、
+　ついでにベルトに挿していたハードボーラーも、左手に携える。
+
+<se id="2" src="F40空吹かし" mode="normal" time="" loop="off" effect="">//!se accel
+<CLEAR><BACKGROUND SRC="0130x5">//# 0130x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　クロウディアはニュートラルギアのまま、
+　スロットルを加減して、タコメーターの針を震わせる。
+
+<se id="1" src="" mode="fadeout" time="8">
+　退かず、止まらず、ただ……前へ。
+　そうやって彼女は生きてきた。
+　そんな彼女についてきた。
+
+　わざわざ示し合わさなくても、二人の心は同じだった。
+　迷うようなら、そのときは、
+　いつものように進めばいい。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 0 255
+　誰よりも速く、ただ……前へ。
+
+<CLEAR><BACKGROUND SRC="searchlight">//# searchlight 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　サーチライトの光線が、F40の車内を照らし出す。
+
+<se id="1" src="F40シフト" mode="normal" loop="off">
+　最期に、晴れやかな微笑みだけを交わし合い……
+　そしてクロウディアは、ギアを1速に突き入れた。
+
+<se id="2" src="F40ホイルスピン" mode="normal" time="" loop="off" effect="">//!se F40go1
+<CLEAR><BACKGROUND SRC="1700xa">//# 1700xa 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　過剰なトルクを注ぎ込まれ、白煙を吹いて空転する後輪。
+　だがタイヤは路面にゴムを擦り込みながらも、グリップを取り戻し、
+　猛り狂ったような勢いで、ロケットスタートを切る。
+
+<se id="1" src="F40加速4" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="1700xc">//# 1700xc 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　タコメーターが4000を突破。
+　耳をつんざく怒号とともに、ツインターボが覚醒する。
+
+<se id="3" src="F40走行250" mode="normal" loop="off">
+
+　サングラスを填めて、
+　サーチライトの光輪の向こう側の、ヘリのシルエットを見据えた。
+
+<CLEAR><BACKGROUND SRC="1700xb">//# 1700xb 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　さらに加速しながら、発砲を始めるヘリ。
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　敵の速度も時速100キロは下るまい。
+
+<se id="3" src="" mode="fadeout" time="15">
+<se id="2" src="F40加速4" mode="normal" time="" loop="off" effect="">//!se F40accel
+<CLEAR><BACKGROUND SRC="1700xc">//# 1700xc 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　周囲に雨あられと降り注ぎ、飛び散る跳弾を目に留めながら、
+　なおも平静に判断する余裕はあった。
+
+　もっと引き付けなければ駄目だ。
+　もっと近く、
+　あのばかでかいキャノピーに、
+　間違いなく撃ち込んでやれるまで、近く……
+
+　果てしなく音階を上げるターボチャージャーのソプラノが、
+　まるで禍々しい賛美歌のように……
+
+<se id="3" src="F40走行250" mode="normal" loop="off">
+　相対速度、あわせて時速300キロオーバー。
+
+　もう神様に出番はない。
+　ふさわしい祈りの言葉など、思い出してる暇はない。
+
+　だが悪魔に祈る言葉なら、いますぐにでも思いつく。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xb">//# 1700xb 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　願わくば、あの敵を地獄の業火で焼くために……
+　どうかサタンよ、この50発に必中の加護を。
+　我が手の9mmと.45口径に、一撃必殺の祝福を。
+
+　V8エンジンに負けじと鬨の声を上げながら、
+　右手のMP5と左手のハードボーラーを、あわせて同時に発砲した。
+
+<se id="2" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xh">//#! 1700xh 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　フロントグラスを内から突き破る第一発。
+//<se id="2" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+　崩壊したガラスは風圧に負け、罅を目に留める隙もなく、
+　一瞬で車内に雪崩れ込む。
+
+　粉微塵になった珪素の礫が、車内の二人に、霙のように降り注ぐ。
+
+<se id="3" src="19_03_roop" mode="normal" time="" loop="on" effect="">//!se 
+<se id="1" src="11_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="1700xe">//#! 1700xe 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　そのガラス片の吹雪を焼き払う、2発目のマズルフラッシュ。
+
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<se id="2" src="11_02_HB5連射" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　疾風、ガラス片、空薬莢……そして敵の弾丸が、
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　ハリケーンのように車内を席巻する。
+
+//<se id="1" src="15_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　視界に映るのは、ただ白の一色。
+　サーチライトと銃口炎……網膜を焼く輝きだけが、
+　この世の全てを覆い隠す。
+　
+//<se id="1" src="15_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　銃声、V8ターボとローターと、そして、囂々と唸る風。
+
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="3" src="" mode="fadeout" time="30">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<se id="2" src="" mode="normal" time="" loop="off" effect="">//!se 0
+
+<BOX type="0">//%w
+　そして、すべてが消失した。
+　銃声も、両手の引き金の手応えも、目もあやな白光の世界も……
+　すべてが同時に、沈黙に呑み込まれた。
+
+　死んだのか……
+　唐突な静寂の中、そう、自分に問いかける。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left F40explosion wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="VER3" mode="normal" time="" loop="off" effect="">//!se exprosion
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="F40explosion">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　次の瞬間、背後で爆音が轟いた。
+　紅蓮の光と、灼熱の衝撃波が、背後からF40を追い抜いていく。
+
+　刹那、バックミラーに映ったのは……
+　火の海と化したトンネル内の惨状だった。
+
+　MP5とハードボーラー……どちらの銃の、はたして何発目の弾丸が、
+　パイロットの身体を貫いたのかは判らない。
+
+　その直後、微妙なコントロールを失ったヘリのローターを、
+　トンネルの壁面が捕らえ……
+　瞬時にヘリは浮力を失い、ニュートン力学の虜の鉄屑と化した。
+
+　落下するヘリが路面へと叩きつけられる寸前に、
+　F40はその下を擦り抜けて、背後へと抜けていたのだ。
+
+<se id="2" src="F40走行80室内" mode="normal" loop="off">
+<CLEAR><BACKGROUND SRC="Tunnel1">//# Tunnel1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　隣を見ると、クロウディアもまた生きていた。
+　呆然とした眼差しのまま、ステアリングを握って硬直している。
+
+　すでにF40は蜂の巣だった。
+　およそ1弾倉ぶんの.223アーマライト弾を浴びて、乗員もエンジンも、
+　タイヤまでもが無事とは……まるきり奇跡に等しいだろう。
+
+「……クロウディア？」
+
+<BOX type="4">//%sL
+「……!?」
+
+<BOX type="0">//%w
+　呼びかけて、やっと彼女はショック状態から回復した。
+
+<se id="2" src="" mode="fadeout" time="20">
+<se id="1" src="F40低速停止" mode="normal" loop="off">
+
+<CLEAR><BACKGROUND SRC="1700xf">//# 1700xf 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　アクセルを踏む足を緩め、傷ついたF40を停止させる。
+
+　墜落炎上したヘリの残骸は、もう遥か後方に過ぎ去り、
+　すぐ目の前にはトンネルの出口が、見果てぬ夜闇へと口を開けていた。
+
+<BOX type="4">//%sL
+「勝った……の？」
+
+<BOX type="0">//%w
+「どうやら、そういうことらしい」
+
+
+<calc workname="gun16" operator="1" mode="global">
+<A HREF="1750.txt" OPERATOR="">//~ 175050

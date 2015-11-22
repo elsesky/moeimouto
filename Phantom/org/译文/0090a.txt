@@ -1,0 +1,269 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4BZ wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="factory4bn">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　我被Ein带到废工厂外面。
+　不知什么时候，一辆黑色的轿车停在了围墙外。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　第一次见到的男人。
+
+　……是谁呢？　应该是与Inferno有关的人吧。
+　他正用一种奇怪的目光望向这边。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　他的身边，跟随着一位身材高大的黑人女性。
+
+　……夹克下面是一个单肩挎包。
+　里面装的，恐怕是大型的自动手枪。
+
+　按照Ein交给我的辨别方式来看，
+  她应该是保镖吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　过了一会，黑暗的荒野上，
+  又出现了一束车灯的光芒。
+
+　那是……
+　每次Ein外出时，前来接她的车。
+
+　那辆车停在了黑色轿车的边上，
+  从车上下来了3个人。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# crou^2 19 sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　……克劳蒂亚，还有赛斯·玛斯塔。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles 19
+<BUSTUP NAME="woles" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　还有一个我不认识的男人。
+　不知为何，他看上去比在场的任何一个人都要狼狈。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「马格维雅先生。
+　这位是美国海军的沃列斯大尉」
+
+「他是常年为我们Inferno提供武器，尽全力协助我们的大功臣」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles 19
+<BUSTUP NAME="woles" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喂，不是应该去飞机场才对吗！
+　这到底是怎么回事？」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# dummy 19 sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这是你最后活跃的舞台，
+　这样解释可以吗」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……你说什么」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 sice 20
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# dummy 19 sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「与我们Inferno合作，
+  维持秘密是永远的铁则」
+
+「非常遗憾，沃列斯大尉。你已经被FBI盯上了，我们不能就这样放你走」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles^2 19
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你、你们，不守信用！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 rizy^3 20
+<BUSTUP NAME="rizy" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 rizy^3 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="0">//%w
+　想去抓赛斯的沃列斯被黑人女性用枪抵住。
+
+　好快……究竟是什么时候拔的枪？
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「遗憾啊。真是太遗憾了」
+
+「如果你只是跟我们交易，
+  事情是不会败露的吧」
+
+「但是，你太贪得无厌了，居然将恐怖分子都作为走私的对象」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 woles^2 19
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 woles^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「畜生……无耻！
+　我、我可一直都是为了Inferno……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……说的也是，就这样把你抹杀掉，的确有违骑士道精神」
+
+「好吧，大尉，我们就给你一个机会，想逃走的话也可以哦」
+
+<BUSTUP NAME="woles" face="" MODE="on" zoom="" ALIGN="left">//# woles 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「给你10分钟时间，之后我们会派人追杀你，如果能逃掉的话就是你赢了」
+
+「……啊，对了，如果需要的话，这座建筑物的里面有武器库」
+
+「你可以选择自己擅长的武器」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……你们想怎么样？」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我说过了吧，
+  这是骑士道精神」
+
+「我们为身为武者的你，提供了一个靠你自己的双手获得自由和生命的机会」
+
+「对于一位军人而言，这已经是仁至义尽了吧？」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……假慈悲……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# sice 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「好了，从现在开始10分钟，请你自便吧」
+
+「……怎么了？
+　应该没有时间可以浪费吧？」
+
+<BUSTUP NAME="woles" face="2" MODE="on" zoom="" ALIGN="left">//# woles^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# woles^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……可恶!!」
+
+<BOX type="0">//%w
+　这个男人用充满杀气的眼神看了在场的众人最后一眼，
+<se id="1" src="嵒敊憱傝嫀傞" mode="normal" time="" loop="off" effect="">//
+　之后转身飞奔而去，消失在废弃的工厂中。
+
+//> left factory4 wide 255 sice 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="30">
+
+<wait time="900">
+<BACKGROUND SRC="factory4bn">//
+<BUSTUP NAME="sice" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「好了……事情的大概你应该听到了吧。Zwei」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="right">//# sice3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+「给你第一个任务。
+  去杀了那个男的」
+
+<BOX type="0">//%w
+　……什么？
+
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　是的，的确是这样……
+
+　到今天为止我所做的，都是为了成为暗杀者而进行的训练。
+
+　不知什么时候，自己可能也会像Ein一样，
+  去夺取那些不曾相识的人的性命……
+
+　这种事情，自己早就清楚。
+
+　但，为什么偏偏是现在？
+
+　太早了。
+　我还没有做好心理准备。
+
+　在场的众人，对我施加着沉重而严厉的目光。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　大家的视线，
+  简直就像对猛兽所使用的鞭子，痛打着我的背。
+  每一个人，都像在叱责我一样。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+  快去，杀了那个男人……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　不要……
+　再等一下……
+
+<A HREF="#選択肢" OPERATOR="0060a=1">
+<A HREF="0090d.txt" OPERATOR="">//~ 0090d
+<MARKER NAME="#選択肢">
+　有谁在吗？
+　有谁能理解我吗？
+
+<calc workname="gun18" operator="1" mode="global">
+<CHOICE HREF="0090d.txt" TEXT="＊Ein" OPERATOR=""></A>//{ ＊アイン 0090d ＊クロウディア 0090c
+<CHOICE HREF="0090c.txt" TEXT="＊克劳蒂娅" OPERATOR=""></A>//{ ＊アイン 0090d ＊クロウディア 0090c

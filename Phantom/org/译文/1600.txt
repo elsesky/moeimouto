@@ -1,0 +1,301 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　我决定法拉利留给克劳蒂娅，自己驾驶一辆从路边偷来的本田Civic。
+
+//> left houseC3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="houseC3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　穿过夜深人静的玛丽坞，到达克劳蒂娅豪宅的时候，正是凌晨1点。
+
+　我先从房子外面开过，在确定附近没有人以后，便将车停在了车库前面。
+
+　我检查了一下车库中的警备终端机，发现克劳蒂娅不在的期间并没有人入侵这里。
+
+　虽然我一直担心Inferno会抢先在这里设伏，不过似乎还是自己更快一步。
+
+　但是，被包围也只是时间问题，我必须赶快行动了。
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　为了营造屋内无人的假象，我没有开灯，只是靠着在夜间练就的眼力向卧室跑去。
+
+<CLEAR><BACKGROUND SRC="bedRoom2">//# bedRoom2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我将手伸进梳妆台的后面，马上就找到了光碟。
+
+<CLEAR><BACKGROUND SRC="MO">//# MO 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　就因为这一张光碟，纽约又会有不知多少人要遭殃吧。
+
+　上个月我与莉兹奔走在纽约所完成的工作，这下全都要泡汤了吧。
+
+　昨天的敌人就是今天的朋友……吗
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+<se id="1" src="寈曬僒僀儗儞" mode="normal" time="" loop="off" effect="">//!se phone2
+　当我正打算穿过客厅的时候，突然响起了刺耳的警报声。
+
+　自己单凭声调就可以判断警报的种类。
+　被启动的是……设置在庭院的传感器。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　来了么……
+
+　我先是掏出枪来，之后想了想，又带上了酒吧间的冰镐。
+
+　敌人的人数与武装状况都不清楚，但也不能因为以寡敌众就判定自己处于劣势。
+
+　黑暗和寂静可是站在我这边的。
+　凭借自己长期与他们打交道所积累的经验，再也没有比这两位更可靠的盟友了。
+
+//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+　隐藏在吧台后面的时候，我连空气的流动都能清楚地感知到。
+
+　第一个……
+
+　当这个家伙从吧台前面经过的时候，我偷偷从身后跟了上去，就像影子一样与他共同进退。
+
+　听着他的呼吸声，看着他的每一个动作。
+  他的心跳、他思想的走向，全都在自己的体内再现、同调。
+
+　……我就这样等待着那个绝妙瞬间的到来。
+  那个快速切实地结束这个男人生命的、绝妙的瞬间。
+
+　不久，男人为了缓解过分的紧张，做了一个长长的深呼吸……紧接着，他的动作出现了一瞬间的停滞。
+
+　就在这个瞬间，早就等在一旁的我贴了上去，用胳膊勒住了他。
+
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+　我先是用左手捂住他的鼻孔和嘴巴，
+<se id="2" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+　接着用冰镐从他的后脑部凿了进去，一下子贯穿了他的小脑。
+
+　没有哀嚎，也没有临死前的痉挛。
+  这个男人就像切断了线的人偶一样，失去力气当场毙命。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 255 255
+　在他就要倒在地上的时候，我抱住了他，并将他轻轻地放下。
+
+　我不知道这个男人有着怎样的人生，不过这应该是最佳的死法了吧。
+  还没等他发觉，死亡就降临了。
+
+　我麻利地检查着尸体上的装备。
+　H&K生产的MP5冲锋枪与备用弹夹，还有，正传出静电音与细微交谈声的耳机型通话机。
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……在车库里发现了汽车，发动机还热着。
+  错不了，一定有人在这里』
+
+//<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……二楼搜索完毕，一个人都没有发现。
+  下面怎么样？』
+
+//<se id="2" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="5">//%sR
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……喂，奇科？出什么事了？
+  快回答……』
+
+//<se id="3" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="4">//%sL
+<se id="1" src="radiotalk" mode="normal" time="" loop="off" effect="">//!se radiotalk
+『……该死……』
+
+<se id="1" src="radioend" mode="normal" time="" loop="off" effect="">//!se radioend
+
+
+<BOX type="0">//%w
+　通过耳机中传出的对话，我大致了解了状况。
+  从声音判断，敌人还剩3名。
+  他们很快就会注意到卧室的异常而过来检查吧。
+
+　我不慌不忙地躲到通往走廊的门边，背贴墙耐心地等待着。
+
+//> left roomC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="roomC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　不一会，第2个男人小心地进入了走廊。
+
+　他拿着的是伯奈利M3霰弹枪。
+　这把抢可以通过半自动传输装置发射散弹，在近战中是近乎于无敌的最强武器。
+  不仅如此，这家伙手中的M3上还加装了激光瞄准器。
+
+（注：伯奈利M3霰弹枪，产自伯奈利公司，枪长1040mm，空枪重3.4kg，装弹量8发。该枪采用双装填系统，枪手可以用泵动工作方式射击低压弹，如非致命的橡胶弹或催泪弹；或在半自动工作方式下快速射击全威力的战斗弹药，如大号铅弹或独头弹）
+
+　割裂黑暗的红色斑点，像在寻找猎物一样游走着。
+
+　不过，通过观察他的样子，我判断出没有人援护他。
+  这家伙也是在单独行动。
+
+　时不我待，我马上采取了行动。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　我俯身冲了出去，先用左手反扭敌人手中的枪，之后闪到他的肋下，从下往上直接攻击他的头部。
+
+<se id="1" src="murder" mode="normal" time="" loop="off" effect="">//!se murder
+　冰镐从下巴和喉咙的交界点直接刺进了进去。
+
+　在我一气呵成地干掉第2个男人的时候，还不忘看一眼走廊的情况。
+
+<BOX type="5">//%sR
+「……奇科？」
+
+<BOX type="0">//%w
+　糟糕。
+  最后的那个家伙正站在台阶那里，朝这边伸出头来。
+
+<bgm src="l_fight" mode="fadein" old="fadeout" time="10" loop="on">//$ fight.swa 255 255
+<CLEAR><BACKGROUND SRC="passage4">//# passage4 1
+<WIPE EFFECT="fade" TIME="10">
+　我马上抱着第2个男人的尸体冲出了走廊。
+
+<BOX type="5">//%sR
+「!!」
+
+<BOX type="0">//%w
+　见到突然从走廊中冲出的人影，
+<se id="2" src="22_01" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　楼梯那里的第3个男人立即毫不留情地举枪扫射。
+
+　不过，他只是在盲目地乱射，况且我还有尸体作为盾牌，所以并不会感到害怕。
+
+　我将冰镐叼在嘴里，一手拿起霰弹枪，一手从怀中拔出枪来。
+
+<se id="2" src="" mode="fadeout" time="5">
+
+<CLEAR><BACKGROUND SRC="{廵夋憸}">//# gun 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="{幩寕夋憸}">//#! gun2 1
+<WIPE EFFECT="fade" TIME="0">
+  我对准楼梯那里冒出的发射炎连开2枪。
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="10">
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<CLEAR><BACKGROUND SRC="passage4">//# passage4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　伴随着一声惨叫，枪口的火光消失了。
+  剩下的敌人，还有1个……
+
+　从身后的玄关那里，传来了慌张奔跑的脚步声。
+
+　来不及隐蔽身体了。
+
+　我抱着尸体转过身来，左手拿起夺过的M3严阵以待。
+
+　最后的那个家伙刚冲进走廊，
+<se id="1" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+　我便把他同伴的尸体扔了出去。
+
+　突然被满身是血的同伴抱住，第4个男人被吓了一跳。
+  趁着他胆怯的瞬间，我左右开弓，毫不留情地连开数枪。
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="2" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<se id="1" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　第4个家伙也在惊慌中倒地身亡了。
+<se id="2" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　在这么近的距离内，尸体是无法充当盾牌的。
+<se id="3" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　贯穿了尸体的子弹，无情地击中了他。
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<se id="2" src="20_01a" mode="normal" time="" loop="off" effect="">//!se shotG2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　伴随着惨叫声的消失，
+<se id="3" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun2
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　我手中的两把枪也停止了怒号。
+
+　枪声与悲鸣声编织的协奏曲消失后，取而代之的是真空般的寂静。
+
+　这样就……全灭了吧。
+
+　我扔掉M3，为手枪换上弹夹……然后取下了嘴上叼着的冰镐。
+
+　风，在轻轻吹着。
+
+<CLEAR><BACKGROUND SRC="roomC2">//# roomC2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我检查了一下客厅，发现阳台窗子上的窗帘正在夜风的吹拂下像亡灵一样舞动着。
+  窗子，开着。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BUSTUP NAME="elen6" face="6" MODE="on" zoom="" ALIGN="right">//# elen6^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　窗边淡淡的月光中，一个纤细柔和的影子正伫立在那里。
+  那冰冷、尖利的视线，简直就像是一把利刃。
+  而她的样子则显得十分静谧，完全看不出封于其内的阵阵杀意。
+
+<calc workname="gun03" operator="1" mode="global">
+<calc workname="gun04" operator="1" mode="global">
+<A HREF="#暘婒" OPERATOR="0260=1">
+<A HREF="1630.txt" OPERATOR="">//~ 1630
+<MARKER NAME="#暘婒">
+<A HREF="1620.txt" OPERATOR="1450b">//~ 1620
+<A HREF="1610.txt" OPERATOR="">//~ 1610
+
+
+
+630

@@ -1,0 +1,108 @@
+//<コマンド メニュー>
+//<system cmd="savemode" mode="on">
+
+//テスト用
+//<calc workname="クロウディア初Ｈ" operator="0">
+//<BACKGROUND SRC="#000000">
+<WIPE EFFECT="fade" TIME="8">
+
+// ---------------------------------------------------
+<MARKER NAME="#main">
+
+<BACKGROUND SRC="extra\GUN_back">
+
+<CHOICE HREF="#ステアーAUG"         disable="gun14=0"   FILE="data\gunextra\021_ステアーAUG.png;data\unindicate.png"    x="130" y="90"  TYPE="2">
+<CHOICE HREF="#M16"                 disable="gun16=0"   FILE="data\gunextra\022_M16.png;data\unindicate.png"            x="240" y="90"  TYPE="2">
+<CHOICE HREF="#AK74"                disable="gun01=0"   FILE="data\gunextra\023_AK74.png;data\unindicate.png"           x="350" y="90"  TYPE="2">
+<CHOICE HREF="#MP5"                 disable="gun03=0"   FILE="data\gunextra\024_MP5.png;data\unindicate.png"            x="460" y="90"  TYPE="2">
+<CHOICE HREF="#スコーピオン"        disable="gun09=0"   FILE="data\gunextra\025スコーピオン.png;data\unindicate.png"    x="570" y="90"  TYPE="2">
+<CHOICE HREF="#UZI"                 disable="gun02=0"   FILE="data\gunextra\026_UZI.png;data\unindicate.png"            x="130" y="175" TYPE="2">
+<CHOICE HREF="#イングラムM11"       disable="gun13=0"   FILE="data\gunextra\027_イングラムM11.png;data\unindicate.png"  x="240" y="175" TYPE="2">
+<CHOICE HREF="#ベネリM3"            disable="gun04=0"   FILE="data\gunextra\028_ベネリM3.png;data\unindicate.png"       x="350" y="175" TYPE="2">
+<CHOICE HREF="#クリスリーブ"        disable="gun24=0"   FILE="data\gunextra\029_クリスリーブ.png;data\unindicate.png"   x="460" y="175" TYPE="2">
+
+<CHOICE HREF="#back" FILE="data\back_sw_001.png;data\back_sw_002.png;data\back_sw_003.png" x="447" y="25">
+//<CHOICE HREF="#next" FILE="data\next_sw_001.png;data\next_sw_002.png;data\next_sw_003.png" x="545" y="25">
+<CHOICE HREF="#menu" FILE="data\menu_sw_001.png;data\menu_sw_002.png;data\menu_sw_003.png" x="698" y="25">
+//<system cmd="exmode" count="回想WORK" total="6">
+// ---------------------------------------------------
+<WIPE EFFECT="fade" TIME="10">
+<SELECT>
+
+<MARKER NAME="#menu">
+<clear>
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="extramenu" OPERATOR="">
+
+<MARKER NAME="#back">
+<clear>
+<A HREF="gun1" OPERATOR="">
+
+//<MARKER NAME="#next">
+//<clear>
+//<A HREF="gun2" OPERATOR="">
+
+// ---------------------------------------------------
+<MARKER NAME="#ステアーAUG">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+
+<A HREF="kaisetu.txt#gun14">
+// ---------------------------------------------------
+<MARKER NAME="#M16">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun16">
+// ---------------------------------------------------
+<MARKER NAME="#AK74">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun01">
+// ---------------------------------------------------
+<MARKER NAME="#MP5">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun03">
+// ---------------------------------------------------
+<MARKER NAME="#スコーピオン">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun09">
+// ---------------------------------------------------
+<MARKER NAME="#UZI">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun02">
+// ---------------------------------------------------
+<MARKER NAME="#イングラムM11">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun13">
+// ---------------------------------------------------
+<MARKER NAME="#ベネリM3">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun04">
+// ---------------------------------------------------
+<MARKER NAME="#クリスリーブ">
+//<BGM MODE="fadeout" TIME="10">
+<CLAER>
+<BACKGROUND SRC="#000000">
+<WIPE EFFECT="FADE" TIME="8">
+<A HREF="kaisetu.txt#gun24">

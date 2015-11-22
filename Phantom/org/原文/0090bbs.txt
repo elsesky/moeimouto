@@ -1,0 +1,27 @@
+//> left ベレッタ wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="ベレッタ">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　訓練で、いちばん馴れた銃……
+
+　アインの言葉に従うなら、やはりこのベレッタだった。
+
+　他の銃に比べれば反動も小さく、
+　15連発という装弾数にも安心感がある。
+
+　一体なにをさせられるのか知らないが、
+　腕試しめいたことなら、この銃を選ぶのが堅実に思えた。
+
+<CALC WORKNAME="銃" OPERATOR="ベレッタ">//
+<CALC WORKNAME="銃画像" OPERATOR="ベレッタ3">//
+<CALC WORKNAME="射撃画像" OPERATOR="ベレッタ2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用BS">//
+<CALC WORKNAME="射撃音" OPERATOR="02_01">//
+<CALC WORKNAME="Ｇベレッタ" OPERATOR="1" MODE="global">//
+//$ 0 0 0
+<A HREF="0090a.txt" OPERATOR="">//~ 0090a

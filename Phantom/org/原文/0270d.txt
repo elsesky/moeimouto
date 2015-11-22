@@ -1,0 +1,119 @@
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……わかった」
+
+　立ち去る彼女を見送って、トーラスを再発進させた。
+
+//> left street9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　一抹の不安は残るが、
+　アインの挙措には普段と何ら変わるところがない。
+
+　一晩泣き明かして、少しは吹っ切れたんだろうか？
+　そうであってくれれば、いいんだが。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right street^c wide 255 elen1^2 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="shop" mode="fadein" old="fadeout" time="10" loop="on">//$ shop.swa 0 255
+<BACKGROUND SRC="street^c">//
+<BUSTUP NAME="elen1" face="2" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　アインは、迷っていた。
+
+　気がつけば、{名}の行動と歩調を合わせている自分がいる。
+
+　責任感……
+　自分の心の機微になど、ついぞ目を向けたことのないアインだったが
+
+　今、重く心にのしかかる感慨を、名状するならば、それだろう。
+
+　自分さえいなければ……そう、
+　アインは苦く昨日を回想する。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　{名}は、パスポートを破ったりしなかった。
+　単独で、何ら惑うことなく故国へと逃亡していただろう。
+
+　依然、生きることには何の希望も見出せないが、これ以上、{名}の決意に水を挿したくはない。
+
+　せめて{名}には、
+　活路を見出してほしかった。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　尾行の存在に気付くのが、
+　致命的なほど遅れたのは……
+　そんな、とりとめのない思考に
+　没頭していたせいだった。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+　およそ10メートルほど後方、
+　冴えないスーツ姿の、いかにも
+　外回りの営業といった風体の
+　中年男。
+
+　だが明らかに、
+　さっきから自分を追尾している。
+
+　インフェルノの、追手……
+　だが、いつから？
+
+　こんな場所に
+　網を張っていたわけがない。
+　マークされたのは、ずっと前……
+　きっと、車を降りるより以前。
+
+　ということは、
+　すでに{名}の車も……
+
+　知らせなければ。
+　{名}と連絡を取らなければ。
+　だが、どうやって？
+
+　尾行は何人いる？
+　{名}は何人に追われている？
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　恐慌が、じわじわと
+　少女の心を蝕んでいく。
+
+　スーツの男は、
+　さらに距離を詰めてきた。
+
+　ただ尾けるだけにしては、
+　近すぎる。
+　もう行き先を探ろうと
+　いうんじゃない。
+
+　……捕縛する気だ。
+
+策を練って捲こう……など、
+そういう冷静な判断を下す余裕は、
+もう今の彼女にはなかった。
+
+<se id="1" src="アイン走り3" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　人混みを押し割って、
+　彼女は走り出していた。
+
+<A HREF="0270b.txt" OPERATOR="">//~ 0270b

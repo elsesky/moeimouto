@@ -1,0 +1,33 @@
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BOX type="0">//%w
+「……这个……莫非是……」
+
+<BOX type="5">//%sR
+「没错。这是你的护照。
+  真正的你，就在这上面」
+
+「今晚，我就是为了把这个交给你才把你叫来的」
+
+<BOX type="0">//%w
+　我用颤抖的手打开了护照，
+  上面是从未听过的名字。
+
+　照片上，是与镜子里看到的一样的脸
+
+　这是……真的吗？
+
+<BOX type="5">//%sR
+「你用手写一下试试看」
+
+<BOX type="0">//%w
+　说着，克劳蒂娅把钢笔和笔记本递了过来。
+
+　用手书写汉字，
+  说起来真的很久都没有试过了……
+
+<NAMEENTRY FAMILY="姓" NAME="名" FAMILYDEF="吾妻" DEF="玲二">
+<calc workname="G姓" operator="姓" mode="global">
+<calc workname="G名" operator="名" mode="global">
+<A HREF="0210b.txt" OPERATOR="">//

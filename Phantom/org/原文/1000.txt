@@ -1,0 +1,291 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> after1 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="1500">
+<clear>
+<BACKGROUND SRC="1年後">////１年後、の画像が必要
+<WIPE EFFECT="fade" TIME="20">
+<wait time="500">
+<clear>
+<BACKGROUND SRC="black">//
+<WIPE EFFECT="fade" time="20">
+//$ 0 0 0
+<se id="1" src="テレビノイズ1" mode="normal" time="" loop="off" effect="">//!se radio
+<CLEAR><BACKGROUND SRC="sandstorm">//#! sandstorm 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<se id="1" src="" mode="fadeout" time="2">
+<CLEAR><BACKGROUND SRC="1000x1">//#! 1000x1 1
+<WIPE EFFECT="fade" TIME="0">
+<se id="2" src="news" mode="normal" time="" loop="off" effect="">//!se news
+<wait time="2000">
+<BOX type="3">//%m
+　いま全米の暗黒街を、
+　戦慄が駆け抜けています。
+
+　鉄壁の警護に守られた犯罪王を、
+　突如として襲う謎の凶弾。
+
+　昨年1年間だけで、すでに
+　20人を超える大物ギャングが、
+　この不可解な粛正の
+　犠牲となっているのです。
+
+　この一見、何ら関連性のない
+　一連の暗殺事件は、関係者の間で
+　『ファントム＝アソシネート』
+　と呼ばれ、
+　様々な憶測を呼んでいます。
+
+　はたして誰が？
+　何のために？
+
+　ここで専門家の意見を
+　聞いてみましょう。
+
+<CLEAR><BACKGROUND SRC="1000x2">//# 1000x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+『巷で噂されているような、
+　政府機関による秘密裏の
+　犯罪撲滅作戦という仮説は、
+　まったくのナンセンスと
+　言わざるを得ませんなぁ』
+
+『その手のセンセーショナルな
+　陰謀説は、フィクションの世界
+　でしか通用しないのです』
+
+『これらの事件について、
+　マスコミは時期的な連続性に
+　注目しすぎています』
+
+『現在、全米の犯罪組織では、
+　内部抗争が慢性化しています。
+　いわゆる下克上ブームですな』
+
+『組織幹部の暗殺が連鎖的に起きたのも、単にこの血生臭い流行が波及した結果であり、偶然と見なすのがもっとも妥当です』
+
+<CLEAR><BACKGROUND SRC="1000x1">//# 1000x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　このような分析の一方で、依然、
+『ファントム＝アソシネート』が
+　同一犯による犯行であるという
+　風聞は、とどまるところを
+　知りません。
+
+　はたして暗殺者ファントムは、
+　実在するのでしょうか？
+
+<CLEAR><BACKGROUND SRC="1000x3">//# 1000x3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%m
+　一年前、その真相を追っていた
+　一人の記者が、突如、
+　消息を絶ちました。
+
+　彼、カーク＝エドワーズは、
+　はたして何を見て、そして何を
+　我々に伝えようとしたのか？
+
+　今日の特集では、カーク記者の
+　残した断片的な記録をもとに、
+　彼の足取りを辿り、謎の暗殺者
+　ファントムの真相に迫りま……
+
+<se id="1" src="テレビノイズ1" mode="normal" time="" loop="off" effect="">//!se radio
+<se id="2" src="" mode="fadeout" time="0">
+<CLEAR><BACKGROUND SRC="sandstorm">//#! sandstorm 1
+<WIPE EFFECT="fade" TIME="0">
+<wait time="900">
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<CLEAR><BACKGROUND SRC="#000000">//#! sandstorm 1
+<WIPE EFFECT="fade" TIME="0">
+//> right 1000x5 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="opera" mode="fadein" old="fadeout" time="10" loop="on">//$ opera.swa 0 255
+<BACKGROUND SRC="1000x5">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="1">//%m
+『……夢に身を任せ
+　悩みを捨てよう
+　燃える　この想いが
+　熱い　この願いが
+　いま二人をひとつに……』
+
+<CLEAR><BACKGROUND SRC="1000x4">//# 1000x4 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="2">//%w
+　三度の飯より愛して止まぬ
+　観劇の最中でありながら、
+　デルーカ＝レッツォは
+　苛立っていた。
+
+　たまの息抜きだというのに、
+　どうしても仕事が
+　頭から離れない。
+
+　ニューヨークに根を張る五大ファミリーの、うち最大勢力を誇るガンビーノ一家で、デルーカは相談役を務めている。
+
+　デルーカは、メイド＝メンバーと
+　呼ばれる上級幹部の一員、
+　それも頭領を補佐する
+　コンシリエーリ（相談役）
+　の任を担っていた。
+
+　言うなれば、ガンビーノの
+　実質的なナンバー2である。
+
+　それでなくても、
+　かれこれ30余年に渡り、
+　ガンビーノに献身してきた老兵は
+　常に敬意と畏怖をもって
+　遇されてきた。
+
+“鋼のデルーカ”の渾名を聞けば、
+　誰もが竦み上がった頃もあった。
+
+　しかし……
+
+<CLEAR><BACKGROUND SRC="1000x5">//# 1000x5 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="1">//%m
+『……行く手には一筋の道
+　もはや退けない
+　もう決して戻れない……』
+
+<CLEAR><BACKGROUND SRC="1000x4">//# 1000x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+“若造が……”
+
+<box type="2">//%w
+　新たにメイド＝メンバーに加わった従兄弟のマルの、傲岸不遜な態度を思い出すたび、デルーカは腸の煮えくり返る思いがする。
+
+　昨夜の会食では、
+　他のファミリーの面前で、
+　ぬけぬけと隠居まで迫ってきた。
+
+　あの餓鬼が、噂のインフェルノと繋がっているのは、間違いない。
+
+　華々しすぎる功績の立て方も、
+メイド＝メンバーに収まった経緯も
+そうでなければ不自然すぎる。
+　あの若造は間違いなく、悪名高い内通者同盟の一員だ。
+
+　奴にはファミリーへの忠誠心など欠片もない。
+
+　奴がガンビーノに献上した収益は、勇気と実力の証などではなく、
+敵対ファミリーと裏で手を組んで、薄汚い筋書きを用意した結果でしかない。
+
+　いつか必ず、尻尾を掴んで……
+
+　そしてファミリーの血の掟を、
+　その身に思い知らせてやる。
+
+<CLEAR><BACKGROUND SRC="1000x5">//# 1000x5 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="2">//%w
+　だが何にも増して、
+　デルーカを苛立たせるのは、
+　苛立ちのあまり、折角の舞台に
+　集中できないことだった。
+
+<BOX type="1">//%m
+『……この誓いこそ永遠
+　君とともに二人
+　さあ、クリスティーヌ……』
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right white wide 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+
+//<wait time="900">
+<BACKGROUND SRC="white">//
+<WIPE EFFECT="fade" TIME="5">
+//$ 0 0 0
+<CLEAR><BACKGROUND SRC="1000loop">//#! 1000loop 1
+<WIPE EFFECT="fade" TIME="0">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="900">
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="5" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+
+<BOX type="5">//%sR
+「キャァァァァッ!!」
+
+<se id="2" src="人々の悲鳴" mode="normal" time="" loop="off" effect="">//
+<bgm src="l_fight2" mode="fadein" old="fadeout" time="0" loop="on">//$ fight.swa 255 255
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「コ、コンシリエーリ!?」
+
+<CLEAR><BACKGROUND SRC="1000x7">//# 1000x7 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「あそこだ!　舞台の上!!」
+<se id="1" src="波止場銃撃" mode="normal" time="" loop="on" effect="">//!se 
+
+<BOX type="5">//%sR
+「ライトっ!　ライト点けろぉ!!」
+
+<se id="2" src="玲二のマント" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="1000x8">//# 1000x8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+「くそったれッ!!
+　絶対に逃がすな!!」
+
+<BOX type="5">//%sR
+「舞台袖から回り込め!
+　誰か楽屋へ!!」
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="" mode="fadeout" time="5">
+
+//<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+<BOX type="4">//%sL
+「畜生!!　どこに消えた!?」
+
+<BOX type="5">//%sR
+「誰かいないのか？
+　裏口を張ってた奴は!?」
+
+<BOX type="4">//%sL
+「それが……」
+
+<BOX type="5">//%sR
+「もういい、警察が来る。
+　早く退け!」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 1000x9 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1000x9">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「あぁ、コンシリエーリ、
+　こんな……」
+
+「……畜生、いったい
+　どこのどいつが……」
+
+<BOX type="4">//%sL
+「……ファントムだ。
+インフェルノのファントムだ……」
+
+「……奴は、本当に……」
+
+<A HREF="1010.txt" OPERATOR="">//~ 1010

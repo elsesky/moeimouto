@@ -1,0 +1,77 @@
+「不能将美绪……置于危险之中」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「可是……」
+
+<BOX type="0">//%w
+「她不是能用常理判断的对手」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔的行动不是单纯的威胁。
+　如果无视她的话，不知道她会做出什么。刺激她无疑是最危险。
+
+「凯尔的目的只是为了掌握主导权，除此之外她不会再利用美绪做什么」
+
+「Inferno、梧桐组，还有我们……如果所有的人都按照她的想法行动着，她会得到满足」
+
+「只要达成了最终的目的，凯尔就会放了美绪」
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最终的目的？」
+
+<BOX type="0">//%w
+　我想起在咖啡店的时候凯尔对我的挑衅。
+
+「应该是……和我决斗」
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「她现在还是打算玩弄我」
+
+「不过，一旦她为了干掉我而现身……到那时，美绪就可以得到解放」
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们要等待那个时机的到来吗？」
+
+<BOX type="0">//%w
+「没错」
+
+　除此之外，别无他法。
+
+　事到如今，只能放弃原定的走私船逃亡路线了。
+　接下来就看凯尔想怎么做了。
+　在礼拜一之前结束这件事的可能性可谓是微乎其微。
+
+<BUSTUP NAME="elen7" face="3" MODE="on" zoom="" ALIGN="right">//# elen7^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「要是我没有把美绪卷进来的话……」
+
+<BOX type="0">//%w
+「不要这么说」
+
+　现在就算后悔也来不及了。
+
+「让凯尔发狂到如此地步的……是我。和你没有关系」
+
+<BOX type="5">//%sR
+「……」
+
+<A HREF="3540.txt" OPERATOR="">//~ 3540
+
+
+c」
+
+<A HREF="3540.txt" OPERATOR="">//~ 3540

@@ -1,0 +1,353 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right Contena4 wide 255 sice4 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="サイス走り" mode="normal" time="" loop="off" effect="">//
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="Contena4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%m
+　コンテナの谷間の迷路を駆け抜けながら、サイスは己の汗の冷たさを感じていた。
+
+　このプレッシャー。
+　この恐怖。
+　予想だにしないものだった。
+
+　背後からは、必殺の殺気の塊が、
+　影のように追いすがってくる。
+
+　自我は、
+　剥奪されているはずなのに……
+　迫り来るツヴァイの、
+　この気迫は何だ？
+
+　信じがたい事態だが、
+　今のツヴァイは、
+　殺意に駆られて動いている。
+
+　殺人マシンとしての冷徹さで、
+　己の才能を引き出すのでなく、
+　飢えた獣の情動で、
+　狩猟者の性を剥き出しにしている。
+
+　これが、本物のツヴァイか？
+　天性の素養とは、
+　これほどのものか？
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%m
+　コンテナ集配所を抜けて、
+　サイスは船着き場の岸に出た。
+
+　迎えの船が待つ桟橋までは、
+　おおよそ50メートル。
+
+　死の短距離走だった。
+　が、選択の余地はない。
+
+<se id="1" src="サイス走り" mode="normal" time="" loop="off" effect="">//
+祈る言葉もないままに、
+サイスは最後の全力疾走を始めた。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<se id="1" src="" mode="fadeout" time="20">
+<wait time="200">
+<box type="3">
+　どこにいる？
+
+　マスターは？
+　{名}は？
+
+//> right 0320p1 wide 255
+<clear>
+<BACKGROUND SRC="0320p1">//
+<WIPE EFFECT="fade" TIME="20">
+<box type="3">//%w
+　ようやくリズィの銃撃を振り切れたものの、{ヒロイン}は二人を見失っていた。
+
+　視界が霞む。
+　足元が揺れる。
+
+　下肢に力が入らない。
+
+　それでも、
+　{ヒロイン}は走った。
+
+　マスターは殺されるだろう。
+　{名}の手は血に染まるだろう。
+
+　それだけは、やめて……
+　
+　名も姿も知らない神に、
+　{ヒロイン}は
+　必死に懇願した。
+
+　お願いです。
+　どうか、そんな結末だけは……
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<box type="3">//%w
+　視界が、不意に開ける。
+　気がつくと、
+　そこは船着き場だった。
+
+　逃げるマスターと、
+　追う{名}。
+
+<CLEAR><BACKGROUND SRC="0310p1">//# 0310p1 1
+<WIPE EFFECT="fade" TIME="10">
+<box type="3">//%w
+　脚だ。脚を狙え。
+　たとえ当たらなくても、
+　注意さえ逸らせればいい。
+
+　焦燥のあまり
+　{ヒロイン}は……
+　すでに自分の目の焦点が合って
+　いないことさえ気付かなかった。
+
+<se id="1" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay4">//#! bay4 1
+<WIPE EFFECT="fade" TIME="0">
+<box type="3">//%w
+　もはや反動にも耐えられず、
+　{ヒロイン}の身体は
+　バランスを失ってコンクリートの
+　地面に叩きつけられる。
+
+　存在さえ忘れていた脇腹の傷を、
+　ふたたび火を噴くような
+　激痛が見舞う。
+
+　弾は、まるきり見当違いの方向に
+　飛んだらしい。
+　{名}は
+　意にも介していない。
+
+半身を起こして、
+なおもオートマグを構えようとした
+{ヒロイン}を、
+絶望が打ちのめした。
+
+　ローラーロッキングボルトの
+　遊底が、中途半端な位置で
+　止まっている。
+
+つねにブローバックを強制的に制止して、排莢不良に備えていたにも
+関わらず……
+
+　慌てていた彼女は、今の射撃で、
+　ついスライドストップを押し上げそこなった。
+
+　よりによって、
+　その一発がいきなり、恐れ続けていたジャムを招くとは……
+
+　{名}の手にしたグロッグが、
+　逃げるマスターの背中へと、
+　吸い付くように照準を向ける。
+
+<BUSTUP NAME="elen1" face="4" MODE="on" zoom="" ALIGN="right">//# elen1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<box type="3">//%w
+　駄目……
+　それだけは……駄目！
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="オートマグ落とす" mode="normal" loop="off">
+
+<box type="3">//%w
+故障したオートマグを投げ捨てて、彼女は最後の力を振り絞り、地を蹴った。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left グロッグ wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="グロッグ狙い定める">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　チャンスは、ただ一発かぎり。
+
+　貴様さえ、いなければ……
+　憎悪が、さらなる力になって全身を駆けめぐる。
+
+　人生を狂わされ、玩具にされたことの……二人分の怒り。
+
+　銃把を握りしめる手には、{ヒロイン}への想いまでこもっていた。
+
+　恐怖はない。
+　ためらいも、ない。
+
+　この次に銃を撃つときは、自分自身の意志でトリガーを引く……
+　
+　そう{ヒロイン}に誓った通り、いま全身の血流が、
+　獲物の死を求めて猛っていた。
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　サイス＝マスター、貴様なら撃てる。
+
+　たとえこの身が地獄で焼かれようと、貴様だけは、この手で殺してやる。
+
+<CLEAR><BACKGROUND SRC="0340x1">//# 0340x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　反撃を狙ったか、それとも死を悟ってか……
+　サイスは走る足を止めて振り向こうとした。
+
+　その顔が恐怖に引きつる。
+
+　すでにグロッグの虚ろな銃口は、奴の心臓を睨み据えていた。
+
+　この距離、このタイミング、
+　決して外しようがない。
+
+　聞けよ、サイス
+　死神が貴様を呼んでるぞ。
+
+「サァァァァィス!!!!」
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+<se id="1" src="02_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0340p2">//#! 0340p2 1
+<WIPE EFFECT="fade" TIME="0">
+//> dream white dream 0
+<clear>
+<BACKGROUND SRC="#FFFFFF">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　いつか必ず、
+　君を笑わせてみせると……
+　そう、約束したよね、
+　{ヒロイン}
+
+　約束を守らせてくれ。
+　だから、目を、開けてくれ……
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0340p3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="lonely" mode="fadein" old="fadeout" time="10" loop="on">//$ lonely.swa 0 255
+<BACKGROUND SRC="0340p3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="4">//%sL
+「ハーッハッハッハッ!!」
+
+<BOX type="0">//%w
+　真っ白く焼き切れた空白の思考に、サイスの哄笑が響きわたる。
+　楯になった{ヒロイン}の身体を、背後から抱き止めたサイスは、
+　身を捩って笑っていた。
+
+<BOX type="4">//%sL
+「どうしたツヴァイ、
+　その腑抜けた顔は？」
+
+<BOX type="0">//%w
+　力の抜けた膝と、ホールドオープンしたグロッグが、
+　同時に固い地面に落ちる。
+
+　何も、考えられなかった。
+
+　ただ、血に濡れた{ヒロイン}の頬を、
+　見つめていることしかできなかった。
+
+<BOX type="4">//%sL
+「あれだけの意気で迫っておいて、
+　ただの一発で終わりか？」
+
+<BOX type="0">//%w
+　サイスのルガーの銃口が、
+　ゆっくり鎌首をもたげるように、こちらを向く。
+
+<BOX type="4">//%sL
+「残念だよ、ツヴァイ。
+　君には大いに期待したのだがな」
+
+<BOX type="0">//%w
+　鈍く輝くルガーの銃口……
+　その照準が身体を這い上り、
+　ぴたりと眉間に据えられたのが感じ取れた。
+
+<CLEAR><BACKGROUND SRC="bay4">//# bay4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　意識の抜け落ちた身体が、そのとき、どうして動いたのか解らない。
+
+　まるでバネ仕掛けのからくりが、仕込まれていたかのようだった。
+
+　跪いていた下肢が、たわめた筋肉にありったけの勢いを込めて、
+　身体を横へと跳ね飛ばす。
+
+　海へ……コンクリートの岸辺が途切れる方向へ。
+
+<se id="1" src="ルガー2連射" mode="normal" time="" loop="off" effect="">//!se 
+
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="2" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　意図するところを察し、すかさずルガーを連射するサイス。
+
+　銃火の閃きは目に入らず、
+　ただ銃弾の唸り飛ぶ音だけが、耳元を掠めすぎていく。
+
+　跳躍の勢いを殺さぬままに、身体は鞠のように地を転がって、
+　やがて再び宙に浮いた。
+
+　今度は、横へではなく、下へ。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　暗く冷たい水面へと落ちる、
+　ほんの一瞬の無重力の間、
+
+　今日まで目に
+　焼きつけてきた光景が、
+　閉ざした瞼の裏を
+　駆け過ぎていった。
+
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0110p1">//#! 0110p1 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0240p2">//#! 0240p2 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="#ffffff">//#! dummy 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0230p2">//#! 0230p2 1
+<WIPE EFFECT="fade" TIME="5">
+<CLEAR><BACKGROUND SRC="#000000">//#! dummy 1
+<WIPE EFFECT="fade" TIME="10">
+
+　……何故だ？
+　……何故なんだ、
+　{ヒロイン}……
+
+<se id="1" src="intoSea" mode="normal" time="" loop="off" effect="">//!se intoSea
+<A HREF="0350.txt" OPERATOR="">//~ 0350

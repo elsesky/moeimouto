@@ -1,0 +1,74 @@
+//> right bay8 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay8">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="" mode="fadeout" time="10">
+<se id="2" src="" mode="fadeout" time="10">
+<se id="3" src="" mode="fadeout" time="10">
+<wait time="200">
+<BOX type="3">//%w
+　Ein也和罗修棱克大佐的私人卫队一起加入了战斗。
+
+　她采取的是以主力部队作为诱饵的迂回战术。
+
+　她在集装箱的阴影中来回奔跑，不断变化着自己的位置，同时准确地击杀着Inferno的枪手。
+
+<se id="1" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="0310p1">//#! 0310p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="3">//%w
+由于AUTO-MAG在连射时的不稳定性，Ein打算将它作为单发手枪使用。
+
+　每次射击都必须先将枪身左侧的枪栓拉到后面，然后再扣下扳机。
+
+<se id="2" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　这样一来，AUTO-MAG就不会自动装填下一发子弹。每打一枪，枪机都会停在后置的位置上。
+
+　如果弹壳顺利弹出也就罢了，即使由于工作不良使空弹壳卡在药室内，也不会因为下一发子弹的自动装填而导致装弹不良。
+
+　到那时只要用手指把弹壳取出，
+  将枪机复位就行了。
+
+<se id="3" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　即使从一开始就不把AUTO-MAG当成自动手枪来用，可是每3枪中依然会有1枪出现这种卡弹问题。
+  
+ 对于实战，不能不说是个极大的挑战。
+
+　可是，即便这把枪无法像预期的那样工作，Ein还是游刃有余地驾驭着它。
+
+<se id="1" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　AUTO-MAG拥有同步枪一样的枪机结构，虽然Ein能够抑制这种程度的后坐力，可是……
+
+　0.44口径马格南子弹带来的强烈的后坐力，对于腹部的伤势还未痊愈的Ein，简直是无法忍受的折磨。
+
+　每经受一次后坐力的冲击，腹部的伤口都会有剧痛袭来。
+
+每次剧痛过后，痛感的余波就像是拖长的尾巴一样挥之不去。
+伤口处一跳一跳地隐隐作痛，不管怎样都无法停止。
+
+　再这样下去，
+  伤口什么时候裂开都不稀奇。
+
+<CLEAR><BACKGROUND SRC="bay8">//# bay8 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="3">//%w
+　不管怎么努力，在配备了机关枪的对手面前，Ein还是处于压倒性不利的地位。
+  
+ 可是，她不会对武器的缺陷有任何的想法。
+
+<se id="2" src="20_03a" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+不管什么样的任务，她都能用给予自己的武器完成。
+如果装备上处于劣势，就用战术来弥补。
+
+　对于赛斯·玛斯塔的最高杰作——Ein来说，这种事是理所当然的。
+
+<A HREF="0315.txt" OPERATOR="">//~ 0315

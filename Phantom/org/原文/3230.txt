@@ -1,0 +1,376 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left schooltop1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 120
+<BACKGROUND SRC="schooltop1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　適当な場所となると、結局、ここしかなかった。
+
+　休み時間の屋上に、人影はまばらだ。
+　日差しは温んできているものの、
+　吹きつける風はむしろ、春の勢いに乗って容赦なく、
+　ここで寛いで昼休みを過ごすには、まだ時期が早い。
+
+　ぐるりと周囲に見渡せる春霞の景観には、
+　しかし心が和むどころか、先刻以上の緊張がつきまとう。
+
+　ここは、窓辺どころの騒ぎじゃない……
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうか、しました？」
+
+<BOX type="0">//%w
+「……いや」
+
+　春の日差しを、そのままに内に宿したような、
+　美緒の明るい笑顔の前で……
+
+　つい想像してしまう。
+　突然の銃弾に狙撃され、脳症を撒き散らして倒れる自分の姿を。
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　大きく息をして、不吉な想像を振り払った。
+
+　今はまだ、人目のある場所で襲われる恐れはない。
+　……そんな理詰めの判断で、恐怖心を克服するしかない。
+
+「……この辺に、しようか」
+
+　春風を遮ってくれる場所を求めて、
+　結局、二人は昇降口の影に腰を降ろした。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あの……本当に味とか、
+　自信がないんですけど……」
+
+<BOX type="0">//%w
+「藤枝さんの、手製なんだ？」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……はい」
+
+<BOX type="0">//%w
+　手作り弁当、か……
+
+　告白を果たした昨日の今日で、ずいぶん大胆にも思えるが、
+　もちろん美緒の発想であるわけがない。
+　きっとまた早苗の無責任な作戦指令だろう。
+
+　……まったく、完全に玩具にされてるな。二人とも。
+
+<CLEAR><BACKGROUND SRC="3190p1">//# 3190p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「よく作るのかい？　弁当」
+
+　味付けといい、具の詰め方といい、
+　美緒の作った弁当は明らかに手慣れていた。
+
+<BOX type="5">//%sR
+「母が外で働いてるんで、
+　炊事はわたしがやってるんです」
+
+「作るっていっても、
+　前の日の残り物ですから」
+
+<BOX type="0">//%w
+　そう言ってから、美緒は慌てて付け足した。
+
+<BOX type="5">//%sR
+「あ……今日のは、違いますよ」
+
+<BOX type="0">//%w
+「判ってるって。ちゃんと作ってあるもんな」
+
+「すごく美味しいよ。ありがとう」
+
+<CLEAR><BACKGROUND SRC="schooltop1">//# mio1^b 20 schooltop1 1
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20 schooltop1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　表情を、笑み崩れる一歩手前でこらえて、美緒は照れたように横を向く。
+
+　キャルの時とは、まるで逆だな……
+　ふと脳裏を過ぎった回想で、途端に気分が沈み込んだ。
+
+　そういえば、手料理なんて食べるのは……
+　キャルと一緒に暮らしていた、あの頃以来だ。
+
+　幸福の中に、畏れがあった。
+　こんな分不相応な幸せを手に入れて、
+　いつか報いを受けるんじゃないかと……
+　そんな予感に、いつも秘かに怯えていた、あの頃。
+
+　やめよう。
+　今は、忘れよう。
+
+　美緒の彼氏を装う以上、
+　せめて美緒の側にいるときだけは、美緒のことにだけ心を砕くべきだ。
+
+//> left  schooltop1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="schooltop1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　しばらく他愛もない話をしながら、漫然と、時を過ごす。
+
+「5限まで、まだ時間あるよね」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ええと……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　何気ない問いかけに、美緒は懐に手を入れた。
+　そういえば彼女は、腕時計をしていない。
+
+　だが懐中時計かと思いきや……
+　美緒が取り出した時計を見て唖然とした。
+
+　どぎつく黄金に輝く、男物のロレックス。
+　高級感よりむしろ、
+　趣味の悪さが先に立つほどの、けばけばしい腕時計だ。
+　どう考えても美緒の私物じゃない。
+
+「……ものすごい時計だね」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、これ」
+
+「変ですよね？
+　こんな時計、使ってるなんて」
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっと腕には巻けないから、
+いつもポケットに入れてるんです」
+
+<BOX type="0">//%w
+「しかし、何でそんな時計を？」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「叔父の形見なんです」
+
+<BOX type="0">//%w
+　叔父……
+
+　即座に、{ヒロイン}から受けた衝撃的な説明を思い出した。
+
+　美緒が叔父だと……そう思い込んでいる男。
+　梧桐、大輔か。
+
+「……その叔父さんとは、仲が良かったのかい？」
+
+　同様を気取られないよう、平静を装って言葉に穂を接ぐ。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ええ……」
+
+「貿易の仕事で、
+　いつも外国にいる人だったんで、
+　滅多に会えなかったんだけれど」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私には色々と、
+　すごく良くしてくれました」
+
+<BOX type="0">//%w
+「そう……」
+
+　本当に……美緒は、何一つ知らないのだ。
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「私、まだ赤ん坊だった頃に、
+　父を亡くしたんです」
+
+「その後、母は、父の実家とそりが合わなかったらしくて、すぐに藤枝の家に戻ってしまって」
+
+「だから私、父のことは全然
+　知らなかったんです。
+　母も話してくれないし」
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも叔父さんは、父のこと、
+　色々教えてくれました」
+
+「話し方とか、癖とか、
+　好きだった食べ物だとか……」
+
+<BUSTUP NAME="mio1" face="5" MODE="on" zoom="" ALIGN="right">//# mio1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「会ってるのは、
+　母には内緒だったんですけどね」
+
+<BOX type="0">//%w
+「ふぅん……」
+
+　さも今はじめて聞いたかのように、関心を装ってはいたが……
+　すべて事前に、{ヒロイン}から聞かされていた事だ。
+　言うなれば、これで裏付けが取れたわけだが……
+
+<BUSTUP NAME="mio1" face="8" MODE="on" zoom="" ALIGN="right">//# mio1^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「父の家系の人たちとは、
+　今も全然、交流がないんです」
+
+「だから私、
+　お墓参りもできないんです」
+
+「どこで父や叔父が
+眠っているのかさえ、知らなくて」
+
+<BOX type="0">//%w
+「でも……じゃあ、その時計は？」
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これは、
+　叔父の部下だったっていう人が
+　届けてくれました」
+
+<BOX type="0">//%w
+「……」
+　
+　志賀、か……
+
+<BOX type="5">//%sR
+「出張先で、
+　事故に遭ったんだそうです」
+
+「……もう、
+　2年くらい前になるのかな」
+
+<BOX type="0">//%w
+　2年前……ロサンゼルス＝ハーバーの夜霧の中で、
+　壮絶な最期を遂げた梧桐大輔。
+　闇を裂くマズルフラッシュが、瞼の裏に蘇る。
+
+　あの夜、AKライフルの掃射を浴びせて梧桐とその一味を葬ったのは、
+　今は美緒が友達と信じて疑わない、
+　あの{ヒロイン}だというのに……
+
+　美緒には、決して知らすまい。
+　事実はあまりに残酷すぎる。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left  schooltop1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="schooltop1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ああ、いたいた」
+
+<BOX type="0">//%w
+　不意に現れた闖入者に、重い思考が中断された。
+
+<BUSTUP NAME="sanae1" face="3" MODE="on" zoom="" ALIGN="left">//# sanae1^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……あちゃぁ、お取り込み中？」
+
+<BUSTUP NAME="mio1" face="a" MODE="on" zoom="" ALIGN="right">//# mio1^a 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^a 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BOX type="0">//%w
+　早苗が、なぜここに……
+　こいつ、まさか出歯亀でもしていたか？
+
+「けしかけた後で、今度は邪魔するのか？　お前」
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="left">//# sanae1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sanae1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そりゃ、あたしだって
+　不本意なんだけどさぁ」
+
+「海の向こうからのお客さんじゃ、
+　仕方ないでしょ？」
+
+<BOX type="0">//%w
+　……何だと？
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="left">//# sanae1^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「恩師の
+　ギュゼッペ先生がお見えよ。
+　いま中庭にいるわ」
+
+<BOX type="0">//%w
+「……」
+
+　昨日のキャルに引き続き、今度は一体、どこのどいつが……
+
+　いや、考えるまでもない。
+　こういうプロらしからぬ外連をやりたがる者といえば、
+　心当たりは、一人しかいない。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio1^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{姓}さん、
+　行かないと」
+
+<BOX type="0">//%w
+　そうは言っているものの、美緒は落胆を隠しきれていない。
+　せっかくの弁当は、まだ半分も食べていなかった。
+
+「ごめんな……残りは、あとで貰うから」
+
+　謝って、美緒に食べかけの弁当を返す。
+　だが正直なところ、食欲は完全に失せていた。
+
+<A HREF="3235.txt" OPERATOR="">//~ 3235
+
+
+5

@@ -1,0 +1,64 @@
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不去道歉……可以吗？」
+
+<BOX type="0">//%w
+「已经过去2年了，况且对凯尔来说，这2年发生的一切已经无可挽回了」
+
+「我的过失不是靠道歉就能补偿的了的。
+　而且，她也不打算让这件事就此打住」
+
+<BUSTUP NAME="mio2" face="2" MODE="on" zoom="" ALIGN="right">//# mio2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　带着无能为力的表情，美绪低下了头。
+
+　温柔的美绪一定从没见过如此之深的仇恨吧。
+　所以，她没法对我说出任何鼓励的话。
+
+<BUSTUP NAME="mio2" face="a" MODE="on" zoom="" ALIGN="right">//# mio2^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……我可能帮不了什么大忙……」
+
+「不过，有什么……是我能做的吗？」
+
+<BOX type="0">//%w
+「你已经帮了我很大忙哦」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「？」
+
+<BOX type="0">//%w
+「……没事」
+
+「能陪我说话真是谢谢了，我真的很开心啊」
+
+<BUSTUP NAME="mio2" face="6" MODE="on" zoom="" ALIGN="right">//# mio2^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「没什么……」
+
+<BOX type="0">//%w
+　美绪的脸一下子变红了。她赶忙又低下了头
+
+　暂且这样就好了吧。
+
+　不过，刚放下心来的我，马上又产生了自责的念头。
+
+　有什么好的。
+　方才自己的坦白中，有多少是真相呢……
+
+　最后，我告诉她的只是拼凑出的情报。
+
+　张开嘴的话，从里面传出的只有谎言与欺骗。到最后，我还是只能用谎言来面对美绪吗？
+  自己所做的一切，又和凯尔那时候一样了吗……
+
+<A HREF="3360.txt" OPERATOR="1330=1">//~ 3360
+<A HREF="3365.txt" OPERATOR="">//~ 3365

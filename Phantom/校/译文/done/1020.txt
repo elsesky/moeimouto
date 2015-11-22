@@ -1,0 +1,276 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right room3 wide 255 inferuno1 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「作为中枢核心的德鲁克已经不在了」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2 19
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这样一来，冈宾诺也没落了啊……」
+
+「接下来就看迈尔他们的了。
+　……东海岸也被我们拿下了啊」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「克劳蒂娅……这都是你与Phantom的功劳」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽说先代的Phantom也让我佩服……不过那个少年似乎更胜一筹」
+
+「竟取得这样的成果……
+　甚至让我有些畏惧啊」
+
+「亏你能把他调教成这样」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「并不是调教」
+
+「他对Inferno的献身都出于他自己的意志」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2 20
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喔，是这样吗？」
+
+「我还以为他是为了吸你的奶子才那么拼命的呢」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^2 20
+<BUSTUP NAME="inferuno2" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂喂，我只是开玩笑哦」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……话说回来，马格维雅先生」
+
+「之前那个‘梧桐组’的情况，已经调查完毕」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔，是那个想加盟我们的日本犯罪集团吗」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「他们是一个完全值得信赖的集团」
+
+「已经在日本国内独自开拓了市场，取得了很好的收益」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不过，插手那种岛国的市场，会为我们带来什么利益吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我们不能轻视日本的毒品市场」
+
+「如今的远东，是一个急速成长中的市场」
+
+「这一次，梧桐组希望跟我们进行合作……」
+
+「是因为他们的商品供应源——东南亚系的经销商遭受到了毁灭性的打击」
+
+「相对于巨大的市场需求，梧桐组的库存却极为不足」
+
+「如果能在此时确立与梧桐组的合作关系」
+
+「我们就有可能独占日本的毒品市场」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「唔……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这个周末，我将会在洛杉矶招待梧桐组的少头目梧桐大辅及其一行人」
+
+「为了表示我方的诚意，我们最初商定的交易额是500万美元」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「如果能在下周之前准备好货物的话……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这倒是没什么问题……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2^4 19
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「给我等一下」
+
+<BOX type="3">//%m
+　冷不丁插入话题的，是之前一直保持沉默的艾扎克·维斯梅尔。
+
+<BOX type="4">//%sL
+「事情进行得这么急，没问题吗？」
+
+「喂，克劳蒂娅，你这家伙什么时候成了生意的中间人了？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「因为对方可以带来丰厚的利润，所以我才把他介绍给组织」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2 19
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「这可难说啊」
+
+「连交涉都是你去，你到底打的什么算盘？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^2 20
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我已经和梧桐先生建立了私人的信赖关系」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2^4 19
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「就是这个啊」
+
+「你从一开始就打算将日本人引进组织吧？」
+
+「无视我们的想法吗？」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「算了吧，艾扎克」
+
+<box type="2">//%w
+　为了打消剑拔弩张的氛围，马格维雅出面进行调停。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「今后还是多慎重一些比较好。始终还是要进行有价值的商谈才行」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 inferuno2 19
+<BUSTUP NAME="inferuno2" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 inferuno2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「克劳蒂娅也要注意一下。
+  独断专行是违反组织规定的」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^8 19
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「是。十分抱歉」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这件事确实超出了克劳蒂娅的职权范围」
+
+「不过我和艾扎克都没有那么多的时间」
+
+「如果谈判可以顺利进行的话，让克劳蒂娅来担任中介人也可以」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou 19
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「非常感谢」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　克劳蒂娅干脆利落地从会议室里走了出来。
+
+　虽然在旁人看来，克劳蒂娅依旧保持着平常的那份冷静。但在常伴她左右的人的眼中，她那面具下的憔悴的样子是无法隐藏的。
+
+「辛苦了，克劳蒂娅小姐」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　由于边上有其他的干部，我改换态度，对她行了个礼。
+
+<BOX type="5">//%sR
+「回来的还真是早啊」
+
+「纽约那件事的报告我已经从莉兹那里收到了。
+　看起来很顺利嘛」
+
+<BOX type="0">//%w
+「您过奖了」
+
+「马上为您备好车……驾驶呢？」
+
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「交给你了」
+
+<BOX type="0">//%w
+　一般情况下她都是自己把握方向盘的……
+　看来，她好像真的是累了。
+
+<A HREF="1020a.txt" OPERATOR="0150=1">//~ 1020a
+<A HREF="1020b.txt" OPERATOR="">//~ 1020b

@@ -1,0 +1,18 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left shop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="shop" mode="fadein" old="fadeout" time="10" loop="on">//$ shop.swa 0 255
+<BACKGROUND SRC="shop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="0">
+<CALC WORKNAME="Ｇパイソン" OPERATOR="1" MODE="global">//
+<CALC WORKNAME="射撃音" OPERATOR="05_02">//
+<CALC WORKNAME="銃" OPERATOR="パイソン">//
+<CALC WORKNAME="銃画像" OPERATOR="パイソン3">//
+<CALC WORKNAME="射撃画像" OPERATOR="python_射撃">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用Cm">//
+<CALC WORKNAME="0100Cm" OPERATOR="1">//
+<A HREF="0110.txt" OPERATOR="">//~ 0110

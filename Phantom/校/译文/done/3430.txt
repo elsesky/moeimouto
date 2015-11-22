@@ -1,0 +1,188 @@
+　为了赶走睡意，转换气氛，好想喝一杯咖啡……可想到这里，美绪又变得有点慵懒了。
+
+　平常的话，她会将咖啡豆认真地磨煮。不过，现在家里只有美绪一个人在家。
+
+　身为女强人的妈妈如今正出差在外。
+　要为了满足自己一个人喝咖啡的愿望而特意用上咖啡壶吗。
+
+<BUSTUP NAME="mio2" face="9" MODE="on" zoom="" ALIGN="right">//# mio2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+“……罐装咖啡就行了吧”
+
+<BOX type="2">//%w
+　幸运的是，家门前的十字路口那里就有一台自动贩卖机。
+
+　由于家里只有自己，几天以来，美绪也渐渐变得懒散了。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+　手里拿着零钱，美绪走出了家门。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right mio_house3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="mio_house3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<CLEAR><BACKGROUND SRC="帺斕婡慜">//# dummy 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　自动贩卖机前，一台自己曾有印象的摩托车正停在那里。
+
+　深红色的车身，让人感受到强烈的攻击性。
+
+之所以会对摩托车留有如此深的印象，是因为它曾经出现在不应出现的地方。
+不过……
+
+　真正的原因，是站在一旁的摩托车手在美绪的记忆中留下了深深的刻痕。
+
+<BUSTUP NAME="drei" face="1" MODE="on" zoom="" ALIGN="left">//# drei^1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「呦」
+
+<BOX type="3">//%m
+　就像这样的会面是理所当然的一样……金发少女非常自然地朝美绪打了个招呼。
+
+　时值半夜，她在这夜深人静的住宅街中心做什么呢？
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那个……」
+
+<BOX type="2">//%w
+　美绪尽可能地回想起在国外留宿时学到的英语对话，战战兢兢地对凯尔说道。
+
+<BOX type="5">//%sR
+「你……为什么会在这里？」
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「喔，会说英语吗？那就好办了」
+
+「我有点事找你」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+<BOX type="2">//%w
+　冰冷的金属音阻止了正打算询问的美绪。
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「虽然在这个国家可能不常见，但这可是真家伙哦」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　受到惊吓的美绪连一句话都说不出来。
+　……手枪？
+
+<BOX type="5">//%sR
+「等、等一下……」
+
+<BUSTUP NAME="drei2" face="2" MODE="on" zoom="" ALIGN="left">//# drei2^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「待会再做那些麻烦的说明吧」
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　说完，持枪的少女露出闪着凶光的笑容。
+
+<BOX type="4">//%sL
+「……会全都告诉你的哦。梧桐的大小姐」
+
+<BUSTUP NAME="mio2" face="3" MODE="on" zoom="" ALIGN="right">//# mio2^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　梧桐？
+　大小姐？
+
+　越来越不明白了。
+
+梧桐……
+那是2年前死于事故的叔父的姓。
+为什么会从这个女孩子的口中说出来？
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「上来吧」
+
+<BOX type="3">//%m
+　少女用枪指着美绪，示意她坐到摩托车的后座上来。
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　这个孩子……好可怕。
+　事到如今，美绪已经深深地感受到了。
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　与外国人的身份无关。
+
+　美绪自己也曾有过在国外留宿的经验。
+　只要了解了国情与文化，大家就同为十来岁的少男少女，没有什么区别。
+
+　可是，面前的迷之少女，很明显是一个异类。
+
+　她身上散发出的，是暴力的气息。
+
+　伤害别人、使别人屈服、感受不到任何的抵抗……
+　少女还没有做什么，她身上那份冷酷就已经传了过来。
+
+　她不是和自己一样的人类。
+　简直就像懂得人类语言的肉食动物，让人本能地产生恐惧感。
+
+　她的右手非常熟练地拿着的手枪……虽然难以相信，但那应该不是玩具。
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你要……带我去哪里？」
+
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="left">//# drei^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「去你们的学校附近」
+
+<BUSTUP NAME="mio2" face="1" MODE="on" zoom="" ALIGN="right">//# mio2^1 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# mio2^1 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　虽然到最后还是一点都不明白她的意图……可是，害怕的美绪根本没有办法反抗或逃跑。
+
+<A HREF="3440.txt" OPERATOR="">//~ 3440

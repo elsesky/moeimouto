@@ -1,0 +1,125 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right hotel4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="hotel4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="door2" mode="normal" time="" loop="off" effect="">//!se door2
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「赛斯!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+莉兹猛地踹开房门闯了进来。
+看到她那咄咄逼人的态度，赛斯马上明白了这次大概又是Drei的事，不过他仍然装成不露声色的样子。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="right">//# rizy^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「Phantom呢!?
+　你不会又在谋划什么吧!」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「Phantom？」
+
+「唉？我还以为她今天一直和你在一起呢」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「她不见了。
+  可恶，稍不留神就……」
+
+<BOX type="2">//%w
+　几天前，那个令人捉摸不定的少女也曾擅自离开过酒店。所幸的是，半夜的时候她便平安无事地回来了……
+
+　但这次不同。
+  莉兹已经预想到了最坏的情况。
+
+　不管怎么说，酒店房间里消失的武器弹药的数量实在是非比寻常。
+  这一次，她明摆着要把事情闹大。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哦，这可危险了」
+
+「放任不管的话……连我都不知道她会做出什么事来」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy^7 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「她去的地方我大概也能想到……」
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你去联络马格维雅和志贺，我现在要马上动身去追她」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　冷冷地扔下这样的指示，莉兹像来的时候一样风风火火地冲出了房间。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「让我去劝说那两位大人吗？
+  真是……」
+
+<BOX type="3">//%m
+　故作无奈之后，赛斯的脸上露出了笑意。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「状况开始了……吗」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right mio_room3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BACKGROUND SRC="mio_room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="mio2" face="4" MODE="on" zoom="" ALIGN="right">//# mio2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……呼」
+
+<BOX type="2">//%w
+　美绪把头从笔记本上抬起来看了一眼表，同时打了一个哈欠。
+
+　由于学得过于努力，睡魔比平时来的要更早。
+
+可是，还有一整页的句法必须要在今天记住才行。
+
+<BOX type="5">//%sR
+“注意力集中不起来啊”
+
+<BOX type="2">//%w
+　平常的话，美绪在考试前的准备中是不会遇到这样的问题的。
+
+她也清楚自己的注意力正在逐渐流失。
+尽管现在已经到了关键时刻，可她还是忍不住分心去想别的事情。
+
+<A HREF="3410.txt" OPERATOR="3345=1">//~ 3410
+<A HREF="3420.txt" OPERATOR="">//~ 3420

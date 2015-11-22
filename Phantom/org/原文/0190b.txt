@@ -1,0 +1,41 @@
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「ま……待って下さい」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　いくら何でも、唐突すぎる。
+　こっちにはまだ、心の準備も何もできてないのに……
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　ソファの端まで、腰をずらして退いてから、
+　どうしようもない敗北感にとらわれた。
+
+　年上の上司とはいえ、仮にも女性である。
+　その前で、こうも無様な怯み方を見せてしまった羞恥心。
+
+　何もこんなに取り乱さなくても、
+　もっと毅然とした応対の仕方だってあった筈なのに。
+
+<BUSTUP NAME="crou3" face="a" MODE="on" zoom="" ALIGN="right">//# crou3^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だがクロウディアは、
+　気にした風もなく微笑んで、またガウンの裾を直した。
+
+<BUSTUP NAME="crou3" face="0" MODE="on" zoom="" ALIGN="right">//# crou3^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ごめんなさい。
+　ちょっと冗談が過ぎたわね」
+
+<se id="1" src="引き出し" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="0">//%w
+　そう言って彼女は、
+　サイドテーブルの引き出しから、赤い装丁の手帳を取り出した。
+
+　最初から、そこに用意してあったんだろう。
+
+<A HREF="0210a.txt" OPERATOR="">//~ 0210a

@@ -1,0 +1,231 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1252scoop wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="1252scoop">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　14時50分。
+　まだ郵政省ビル屋上に動きはない。
+
+　……おかしい。
+　敵も、もうポジションにつき、
+　体勢を整えておかねばならない頃合いなのに。
+
+　漣のような不安が、心を騒がせる。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　まずい。
+　いったん瞼を下ろし、闇の中で心を静める。
+
+<CLEAR><BACKGROUND SRC="rooftop2">//# rooftop2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　狙撃手の敵は、誰でもない。
+　距離でもなく、風でもなく、クロスラインの上の標的ですらもない。
+　敵はつねに、己の中に潜む。
+
+　それは心臓の脈動であり、胸腔を押し広げては縮む肺であり、
+　血圧と呼吸である。
+　肉体と精神の端境にある器官、循環器系。
+
+　つまりは心のありようが、脈拍と呼吸に形を変えて、
+　即座にライフルの銃身に訴えかけてくる。
+
+　真の敵は、おのれ自身。
+
+　この絶対の孤独の中で、ただそれだけと対峙する。
+
+　集中力がすべてだ。
+　今は余計なことを考えてはいけない。
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だが、瞼の裏の闇の中で、心に平静を呼び込もうとしても、
+　得体の知れない不安は、どういうわけか募る一方だった。
+
+<CLEAR><BACKGROUND SRC="rooftop2">//# rooftop2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　仕方ない。
+　まだ猶予はある。
+　忘れることができないのなら、せめて見極めてみるがいい。
+
+　思考の乱れを整理して、不安の正体を確かめろ……
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　自分はミスを恐れているのか？
+
+　いや、自信はある。外すような距離ではないし、条件にも恵まれている。
+　標的は、スコープに映り次第、確実に仕留められるだろう。
+　それが……あの郵政省ビルの屋上であれば。
+
+<CLEAR><BACKGROUND SRC="city7">//# city7 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　場所の特定に、不安があるのか？
+
+　探し求める敵が今、どこか別の、まるきり見当違いの場所で、
+　狙撃体勢に入っているとすれば……
+
+<CLEAR><BACKGROUND SRC="city^a">//# city^a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いや、それもない。
+　ありとあらゆる物証が、あのポイントを示唆していた。
+
+　間違いなく、梧桐を狙うスナイパーは、あそこから狙撃を試みる。
+
+　……それを思うと、また心が騒ぐ。
+　いっそ、このまま何事もなく時が過ぎてくれれば。
+
+　……まさか……
+
+　敵と出会うこと、そのものを……
+　今、自分は恐れているのか？
+
+　そんな感覚は、とうの昔に麻痺してしまった筈なのに。
+
+　なぜ……今日に限って？
+
+<CLEAR><BACKGROUND SRC="1252scoop">//# 1252scoop 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　敵に、現れてほしくない。
+　この十字線が誰かの影を捉える瞬間が、たまらなく恐い。
+
+　いっそ任務が失敗であってほしい。
+
+　敵の出現位置が、こちらの予測を裏切っていたならば、
+　どれほど幸いなことか。
+
+　無能者とそしられてもいい。
+　責任を問われる羽目になってもいい。
+
+　引き金をひくのに比べれば……
+
+<BOX type="5">//%sR
+「……{名}!!」
+
+<BOX type="0">//%w
+　短く切迫したキャルの声が、意識を郵政省ビルの屋上に引き戻した。
+
+<BOX type="5">//%sR
+「誰か、いるよ。
+　あそこ……給水塔の向こう側!」
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャルが言い終わるより早く、こちらのスコープもその影を捉えていた。
+
+　意図してかどうかは定かでないが、
+　その人影は給水塔の支柱の向こう側に、
+　半身を隠すような姿勢で蠢いていた。
+
+　ここからでは、後頭部と背中の一部しか見えないが、
+　それでも肩と首の隙間からは、
+　がっしりと抱え込まれたライフルの銃床が覗いている。
+
+　あれが、梧桐を狙うスナイパー……
+
+　何者なんだ？
+　容姿はもちろんのこと、男か女かもわからない。
+
+<bgm src="" mode="fadein" old="fadeout" time="5" loop="on">//$ 0 _1 0
+　男か……女かも。
+
+　そのとき、雷に打たれたように、理解した。
+　さっきまで責め苛まれていた恐怖の正体を。
+
+<se id="1" src="heart" mode="normal" time="" loop="on" effect="">//!se heart
+<CLEAR><BACKGROUND SRC="1170p1">//# 1170p1 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　あれが、{ヒロイン}だとしたら？
+
+　ラスベガスで室戸を殺したのと同じ、彼女だとしたら？
+
+<CLEAR><BACKGROUND SRC="rooftop">//# rooftop 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そうだ。ボナベンチャーホテルまで800ヤード。
+　並のスナイパーであれば、最初からこんな距離には挑みはしない。
+　諦めて別の手段を考じるだろう。
+
+　だが彼女なら、やる。躊躇なく。
+　かつてファントムと呼ばれた彼女なら……
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　違う!
+　絶対に違う!!
+　{ヒロイン}であるわけがない!
+
+　早く撃て。あいつがクロウディアの敵だ。
+　キャルの姉を死に至らしめた敵なんだ。
+
+　殺せる。
+　今この瞬間なら、確実に当てられる。
+
+　言い切れるのか？
+　確証があるのか？　{ヒロイン}でないと。
+
+<CLEAR><BACKGROUND SRC="0320p1">//# 0320p1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　それとも、もう一度、撃つか？
+　あの時のように{ヒロイン}を撃つか？
+
+<CLEAR><BACKGROUND SRC="1170p1">//# 1170p1 1
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　幻だ。
+　あのとき見たのは、幻だ……
+
+<CLEAR><BACKGROUND SRC="1260x1">//# 1260x1 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そうとも。
+　そう思っておかなければ、耐えられなかっただろうからな。
+　再びこうして、{ヒロイン}と戦わなきゃならないという現実に……
+
+　違う!!
+
+「違う……違う……違う……」
+
+<BOX type="5">//%sR
+「……{名}？」
+
+<BOX type="0">//%w
+　クロスラインの彼方の景色が、蜃気楼のように揺れ動く。
+
+　早鐘のような鼓動と、荒い呼吸が、8倍の震度で視界を揺する。
+
+「{ヒロイン}じゃない。あれは……{ヒロイン}じゃ……」
+
+<BOX type="5">//%sR
+「{名}!!」
+
+<BOX type="0">//%w
+　遙かな彼方で、キャルの叫ぶ声がする。
+
+<BOX type="5">//%sR
+「早く撃って!　間に合わない!!」
+
+<BOX type="0">//%w
+<CHOICE HREF="1280a.txt" TEXT="＊撃つ" OPERATOR=""></A>//{ ＊撃つ 1280a ＊確かめる 1280b
+<CHOICE HREF="1280b.txt" TEXT="＊確かめる" OPERATOR=""></A>//{ ＊撃つ 1280a ＊確かめる 1280b

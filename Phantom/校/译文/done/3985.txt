@@ -1,0 +1,359 @@
+　化学试验室里的两人肯定当场死亡了。
+　可是，敌方还剩一个人……
+
+　对了，美绪……
+　美绪现在很危险。
+
+　正当我打算站起身来的时候，
+<se id="1" src="07_02" mode="normal" time="" loop="off" effect="">//!se 
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+　伴随着一声尖锐的枪响，花坛的黑土被打的四处飞溅。
+
+<BOX type="5">//%sR
+「到此为止了」
+
+<BOX type="0">//%w
+　一个颀长的身影从暗处走了出来。
+
+「赛斯……!!」
+
+<se id="2" src="" mode="fadeout" time="60">
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="right">//# sice5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「又是和过去一样的对峙啊」
+
+<BOX type="0">//%w
+　带着令人厌恶的笑容，赛斯将鲁格举在腰间。
+
+　枪……
+　这时我才发现，别在腰间的枪不见了。
+　是在跃出实验室的时候掉了吗。
+
+　卡拉什尼科夫也被我留在了化作火海的实验室里。
+　现在的自己……可谓是赤手空拳。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「真是精彩的战斗啊，Zwei」
+
+「面对我培养出的少女……居然能够以一敌五」
+
+<BOX type="0">//%w
+「将你亲爱的女儿们斩尽杀绝，还是真是抱歉啊」
+
+<BOX type="5">//%sR
+「虽然代价很大，不过我也欣赏了一场精彩绝伦的战斗。
+算了，这样也不错」
+
+「这样一来，我的研究终于能够得出最终的答案了」
+
+<BOX type="0">//%w
+　对他来说……那些假面少女也不过是他个人兴趣的试验品吗。
+
+<BOX type="5">//%sR
+「你果然是最强的，Zwei」
+
+「不管经历怎样的锻炼，最终决定战士品质的果然还是『动机』」
+
+「强大的信念、想要守护的东西、想要活下去的不屈意志……英雄主义并不是幻想啊」
+
+<BOX type="0">//%w
+　虽然赛斯在陶醉地说着，但他手中的鲁格却没有因此大意。
+　自己……没有逃走的可能。
+
+<BUSTUP NAME="sice5" face="" MODE="on" zoom="" ALIGN="right">//# sice5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「现在想起来真是可惜啊。你在寻找『动机』的道路上完全走错了」
+
+「作为我的敌人迎来生命的终结，真是遗憾啊，Zwei」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　我会……死在这里吗？
+　我熬过了一连串残酷的战斗，最后却要死在这家伙的手中吗……
+
+「总有一天会有人打倒你的」
+
+　在绝望的驱使下，怨恨的言语不断从心底涌出。
+
+「被你夺走一切、当成玩具戏耍的某个人，一定会……」
+
+「别忘了。{ヒロイン}和凯尔都还活着……」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="right">//# sice 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　可是，听到我的滑稽之言，赛斯只是冷笑了一下。
+
+<BOX type="5">//%sR
+「呵……过去的失败作根本不值一提」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+<bgm src="" mode="fadein" old="fadeout" time="1" loop="on">//$ 0 _1 0
+「哎，是这样吗」
+
+<BUSTUP NAME="sice4" face="" MODE="on" zoom="" ALIGN="right">//# sice4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「!?」
+
+<se id="1" src="02_07" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="court^c">//#! court^c 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　赛斯愕然回头，
+  在他眼前闪现的发射炎的闪光撕裂了黑暗。
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　手中的鲁格掉落在地。
+  赛斯难以置信地望着子弹穿胸而过留下的枪眼。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^4 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「稍微放着不管，居然就嚣张到如此地步」
+
+「你说谁是失败作？啊？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　赛斯的嘴一张一合，仿佛在抗议着什么。
+　可是，从里面冒出来的不是声音，而是粘稠的黑血。
+
+<BUSTUP NAME="drei2" face="3" MODE="on" zoom="" ALIGN="left">//# drei2^3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# drei2^3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「好了，赶快像你平常那样笑起来吧」
+
+「还是说，你打算带着这样的表情死掉吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<se id="1" src="巰懱棊壓壒" mode="normal" loop="off">
+<BOX type="0">//%w
+　对凯尔的讥讽没有任何反应的赛斯仰面倒地，眼中的意志之光消失了。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔走上前去，用脚尖踢踢了赛斯的尸体，在确认对方已经死亡后，她将视线转移到了我这边。
+  手中举着的S&W还在冒着硝烟。
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+「凯尔……」
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# drei2^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不用慌张。
+　剩下的那个家伙也已经死了，美绪现在平安无事」
+
+<BOX type="0">//%w
+　安心感开始在内心蔓延……但同时，新的不安也涌现了出来。
+
+　凯尔还想在这里将礼拜堂内的生死决斗延续下去吗。
+
+<BUSTUP NAME="drei2" face="4" MODE="on" zoom="" ALIGN="left">//# drei2^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「有一件事我不能理解」
+
+<BOX type="0">//%w
+　面无表情的凯尔一字一句地说道。
+
+<BOX type="4">//%sL
+「那个倔强的小姑娘为什么扔下你一个人先逃了？」
+
+<BOX type="0">//%w
+　我想起在离别之际与美绪定下的口头约定。
+　为了让美绪安心离开，我和志贺上演了一出双簧，虽然残酷，但这也是不得已的。
+　毕竟，我根本不认为自己能活下来履行诺言。
+
+「因为我答应她了」
+
+「一定会……回去接她」
+
+<BOX type="4">//%sL
+「……」
+
+<BOX type="0">//%w
+　用几乎要看穿内心的目光仔细打量我之后，凯尔像累了一样移开了视线。
+
+<BUSTUP NAME="drei2" face="8" MODE="on" zoom="" ALIGN="left">//# drei2^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「算了，你走吧」
+
+<BOX type="0">//%w
+「……」
+
+<se id="1" src="廵傑傢偡" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="drei" face="8" MODE="on" zoom="" ALIGN="left">//# drei^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔像往常那样将S&W在指尖绕了几圈之后收进枪套，接着便背对我转过身去。
+
+<BOX type="4">//%sL
+「这笔账暂且记下。
+　我先把你……借给美绪好了」
+
+<BOX type="0">//%w
+「凯尔……」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　凯尔回过头，狠狠地瞪了我一眼。
+
+<BOX type="4">//%sL
+「先说好，这一次我是看在美绪的面子上才放过你」
+
+「下次见面的时候,我一定会杀了你和Ein」
+
+<BOX type="0">//%w
+「……」
+
+「从今以后……你打算怎么办？」
+
+　背叛Inferno的凯尔也是逃亡者了。
+　如今的她已经无处可去。
+
+<BUSTUP NAME="drei" face="2" MODE="on" zoom="" ALIGN="left">//# drei^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　但凯尔却用一声冷笑回应了我的多管闲事。
+
+<BOX type="4">//%sL
+「你没有必要知道」
+
+<BOX type="0">//%w
+「……可是……」
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="left">//# drei^4 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……听好。
+　舍弃美绪逃跑的念头趁早给我打消」
+
+「要是敢打破与她的约定，你应该知道会有怎样的下场吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　说完，凯尔便头也不回地离开了。
+
+　她就像抗拒着整个世界一样孤独地走着，红色的夹克衫渐渐消失在校园另一侧的黑暗中……不久，校门那里响起了摩托车猛烈的排气声。
+  而后，寂静降临了。
+
+　我独自一人待在原地，回想着凯尔的话。
+
+<BOX type="4">//%sL
+“下次见面的时候，一定……”
+
+<BOX type="0">//%w
+　最后自己还是没有得到原谅吗。
+　想一想的话，这也是理所当然的吧。
+
+　可是，为什么凯尔会为了美绪……？
+
+<BUSTUP NAME="elen7" face="5" MODE="on" zoom="" ALIGN="right">//# elen7^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……暂且告一段落了啊」
+
+<BOX type="0">//%w
+　耳边响起喃喃细语。我回过头，看到{ヒロイン}正站在那里。
+　她也还没离开吗。
+
+<BUSTUP NAME="elen7" face="" MODE="on" zoom="" ALIGN="right">//# elen7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我们也尽快离开吧」
+
+「长时间呆在这里就麻烦了」
+
+<BOX type="0">//%w
+「……是啊」
+
+　今夜不知有多少次枪声震动山谷，不知有多少具尸体散落地面。
+  如果巡逻的警车赶到现场，不难想象将引发多大的骚动。
+
+<BUSTUP NAME="elen7" face="2" MODE="on" zoom="" ALIGN="right">//# elen7^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你还记得我告诉你的集合地点吧？」
+
+<BOX type="0">//%w
+「……哎？」
+
+<BOX type="5">//%sR
+「我先走一步，在那里等你」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「在那之前，你应该还有一个地方要去吧」
+
+<BOX type="0">//%w
+「……」
+
+　我原本还发愁要怎么对她开口，不过看样子{ヒロイン}似乎听到了刚才的那番话。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　本来无法实现的约定，现在可以实现了。
+
+　……可是，犹豫让我的双脚倍感沉重。
+
+　再一次见到美绪……可是，这意味着自己将再一次与她分别。
+
+　仅仅为了告别而与她相会……
+　这样做是否会进一步扩大她内心的伤口呢。
+
+「……真的可以吗？这样的事」
+
+<BUSTUP NAME="elen7" face="6" MODE="on" zoom="" ALIGN="right">//# elen7^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我同意的话你就会去了吧？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="elen7" face="7" MODE="on" zoom="" ALIGN="right">//# elen7^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「早上出发的话，时间还来得及」
+
+「你尽快动身吧，不要浪费时间」
+
+<BOX type="0">//%w
+「……我知道了」
+
+<A HREF="3990.txt" OPERATOR="">//~ 3990
+
+<A HREF="3990.txt" OPERATOR="">//~ 3990

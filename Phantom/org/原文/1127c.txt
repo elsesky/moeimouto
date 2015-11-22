@@ -1,0 +1,54 @@
+「悪いんだが、キャル……」
+
+　どうにも、この子には嘘ばかりついている。
+　気は咎めたが、仕方がない。
+
+「俺、急用を思い出した」
+
+<BUSTUP NAME="cyall2" face="8" MODE="on" zoom="" ALIGN="right">//# cyall2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え～？」
+
+「せっかく、晩ゴハンはご馳走にしようと思ってたのに……」
+
+<BOX type="0">//%w
+「すまん。ちょっと出かけてくる」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「すぐ戻る？」
+
+<BOX type="0">//%w
+「ん？　ああ、多分……」
+
+　さしたる考えもないままに、生返事を返してしまう。
+
+<BUSTUP NAME="cyall2" face="" MODE="on" zoom="" ALIGN="right">//# cyall2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「オッケー。じゃ、
+　ちゃんと晩ゴハン用意しとくね」
+
+「本当に早く帰って来てよ。
+　冷めたら台無しなんだから」
+
+<BOX type="0">//%w
+「ああ……」
+
+//> left street0b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street0b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ゴルフのキーを手に、ロフトを出ながら……思った。
+
+　一体どうして、こんなことで、
+　またキャルに嘘をつかなきゃならなかったんだろうか。
+
+<A HREF="1133.txt" OPERATOR="">//~ 1133

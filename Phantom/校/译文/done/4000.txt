@@ -1,0 +1,51 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right school1b wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="school1b">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="2">//%w
+　第二天……
+
+　令众多学生头痛不已的期末考试，由于谁也想不到的原因被延后一天。
+
+　在周末开始的旧礼拜堂拆除工程中，发现了战争时的未爆弹。
+
+　当然，大多数人都是第一次听说拆除礼拜堂的工程计划。
+
+　由于在战争年代，这里还是未开发的山林，所以出现未爆弹的说法可谓疑点重重，引起了众人的疑问。
+
+<CLEAR><BACKGROUND SRC="schoolway2">//# schoolway2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　不管怎么说，由于拆除工程而封锁学校的事还是受到了学生们热烈欢迎。
+
+　而同样在这个周末遭遇不明火灾的化学试验室也在春假期间被暗中修复了。
+
+　十多年来一直被废置的礼拜堂，在仅仅数日内就变成了一片平地。
+
+　这场发生在这座山中学院、仅仅持续了一天的骚动事件没有引起没有人的追究，不久便被人们忘记了。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 0235x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="days3" mode="fadein" old="fadeout" time="10" loop="on">//$ days3.swa 0 255
+<BACKGROUND SRC="0235x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+　新学期。
+　迎接新学年的学子们，每个人都怀着新的感想……
+　这样的他们，不会有时间去怀念过去的日子。
+
+　毫无预兆便“转校”离开的归国兄妹，并没有引起他人的揣测。
+
+　爱情、学业、未来……需要考虑的事，可谓无穷无尽。
+
+<A HREF="4002.txt" OPERATOR="3990=1">//~ 4002
+<A HREF="4004.txt" OPERATOR="">//~ 4004

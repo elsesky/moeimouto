@@ -1,0 +1,128 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right roomC1 wide 255 crou^8 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<BACKGROUND SRC="roomC1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="2">//%w
+在自家豪宅的客厅中放松着的克劳蒂娅，正看着面前的一本红色小册子。
+
+<CLEAR><BACKGROUND SRC="0078x1">//# 0078x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+日本发行的护照……设计的复杂程度与印刷的精度，远远超出一般的美国制品。
+
+被修剪出椭圆轮廓的正面半身照片，边缘处由外向内逐渐变淡。
+ 这是为了防止伪造而进行的大胆设计。
+经过这样处理的照片，相比于证明照，更像是潇洒的肖像。
+
+在照片上映现的，是一张克劳蒂娅见过的脸。
+
+这是几日前去见的那个少年。
+ 照片上的他，有着一张不带表情、但透露出平静与满足的脸。
+
+　在废工厂遇到他的时候……他那没有退路的、快被打垮的表情，与照片上的相去甚远。
+
+　他现在还在那个地方忍受着沙漠的寒气吧。
+
+　护照是两个月前发下的。
+　他好像是第一次出国旅行。
+　根据出生日期判断，
+  他的年龄是……
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# roomC1 1 crou^8 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　弟弟罗梅洛离开家加入暴力团伙的时候，刚好也是他这个年纪。
+
+　在酒精的帮助下，被牢牢封在内心深处的东西，开始从封印的缝隙中漏出。
+
+<CLEAR><BACKGROUND SRC="1240x1">//# 1240x1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　尘封已久的记忆……阴沉的目光中隐藏着熊熊怒火，如同战败的野兽一般的弟弟……罗梅洛。
+
+明明小的时候，他还是个温柔的孩子。 连吵架都不会，动不动就哭起来……
+
+　尽管如此，每当脾气暴躁的父亲要殴打克劳蒂娅的时候，罗梅洛都会挺身而出保护她。
+
+　贫穷与贫民街弱肉强食的法则毁了他……
+　如此善良的罗梅洛走上了一条畸形的成长之路。
+
+　为了得出财富与权力的答案，他闯入了充斥着性、压榨与暴力的方程式中。
+
+在每一天的数学演算中，
+年轻的罗梅洛成长了起来，变得无时无处都异常强悍、凶恶和无情。
+
+<CLEAR><BACKGROUND SRC="roomC1">//# roomC1 1 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# roomC1 1 crou^9 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　护照照片上少年柔和的面孔，与克劳蒂娅弟弟的面庞重叠在了一起。
+
+　如果不是生在这个国家的话……
+　罗梅洛也会拥有如此安稳的表情吧。
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么了？ 这家伙」
+
+<BOX type="3">//%m
+正在吧台准备酒的莉兹，放下手中的玻璃杯。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou 20
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「怎么样，不觉得这个孩子很帅吗？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　莉兹看了看递过来的护照，皱起了眉。
+
+<BOX type="4">//%sL
+「……我对东洋人的脸可是分辨不了」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「不过这小子可真是长了一张悠闲的脸啊。估计连吵架都没吵过吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你觉得这个孩子能杀人吗？」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="left">//# rizy^6 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^6 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「哈哈，开玩笑的吧。
+　我看他连虫子都不敢杀吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……是这样呢」
+
+<BOX type="2">//%w
+拿起莉兹还回来的护照，
+克劳蒂娅再一次地凝视起来。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^9 20
+<BUSTUP NAME="crou" face="9" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「果然，都是这样想的啊……」
+
+<A HREF="0079.txt" OPERATOR="">//~ 0079

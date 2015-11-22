@@ -1,0 +1,151 @@
+<se id="1" src="18_01" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1430x1">//# 1430x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「……你先走吧」
+
+<BOX type="4">//%sL
+「Phantom!?」
+
+<BOX type="0">//%w
+　不等莉兹回答，我已经冲进了集装箱群。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bayFire3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<se id="1" src="18_01b" mode="normal" time="" loop="off" effect="">//!se 
+<BACKGROUND SRC="bayFire3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　她在那上面。
+　她就在那上面……
+
+　我绕到集装箱的背后，开始一面寻找，一面向上攀爬。
+<se id="1" src="" mode="fadeout" time="40">
+
+　集装箱的另一侧，枪声与男人的悲鸣声都开始变得断断续续。
+  看样子，独角的屠杀剧就要落下帷幕了。
+
+　总算够得到集装箱的顶端了。
+
+　就在我即将要登上顶端的时候，
+<se id="2" src="throwing" mode="normal" time="" loop="off" effect="">//!se throwing
+　突然感觉有风刮过。
+  一个影子越过我的头顶，跳到了我身后数米处的另一个集装箱上……
+
+　糟了!
+
+　我用左手吊住身体，
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　同时用空出来的右手掏出枪，对准了身后的集装箱。
+
+<CLEAR><BACKGROUND SRC="1450p1">//# 1450p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　码头照明灯的刺眼光芒中，那个幻影就站在那里。
+  这次我没有看错，她的确有着实体。
+
+　{ヒロイン}……
+　你果然还活着……
+
+「为什么!!」
+
+　面对时隔1年的再回，我不禁这样喊道。
+
+「为什么啊{ヒロイン}!
+　为什么你要这么做!?」
+
+<BOX type="5">//%sR
+「不要叫我{ヒロイン}」
+
+<BOX type="0">//%w
+　这是我们时隔1年后再次见面。可是，她却像一个木头人一样，用干巴巴的声音回答我。
+
+<BOX type="5">//%sR
+「我是Ein。
+不管是以前，还是现在，都只是Ein……」
+
+<BOX type="0">//%w
+没有感情的声音、冰冷的眼神。
+她已经不再是那个失去一切、痛哭流涕的少女了……而是，被冠以最强之名的杀手。
+
+<BOX type="5">//%sR
+「快逃吧」
+ 
+
+「Inferno马上就会来追杀你，这次会彻底地……」
+
+<CLEAR><BACKGROUND SRC="bayFire3">//# bayFire3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　留下这样的话，她转身离开了。
+
+「{ヒロイン}……」
+
+　等等，
+　不要走……
+
+　要追上她，首先必须要爬上集装箱，从那里像她一样跳到另一个集装箱上。
+
+　可是，当我这么做的时候……
+
+<CLEAR><BACKGROUND SRC="dummy">//# dummy 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　顾不得多想，我把枪扔到集装箱上，用双臂将身体向上拉。
+
+　但是，由于刚才一直用单臂吊着身体，现在左臂根本使不上力。
+
+　快一点!
+　不然的话，{ヒロイン}就……
+
+<CLEAR><BACKGROUND SRC="bay^a">//# bay^a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我总算爬上集装箱的顶端。放眼看去，到处都没有了她的身影。
+
+　周围只有散落的空弹壳，以及一把打光了子弹的AK47突击步枪……
+
+　刚刚听到的虚幻之音，再次在耳中响起。
+
+<BOX type="5">//%sR
+“我是Ein，不管是以前，还是现在……”
+
+<BOX type="0">//%w
+　现在总算是真相大白了。
+
+　既然她被冠以Ein之名，那肯定还有继续用这个名字称呼她的家伙存在。
+
+　赛斯·玛斯塔……
+　一切都是他一手操纵的。
+
+　所有发生的事情，都是他所导演的完美的复仇剧。
+
+　梧桐大辅、克劳蒂娅、还有维斯梅尔……他煽动这三个人互相猜忌、勾心斗角，然后让这些曾经陷害过自己的仇敌们一个个地自取灭亡。
+　怎么看这都是他的做事风格。
+
+　我不知道他究竟是如何打探到Inferno和梧桐组的内部情报、然后秘密进行谋划的。
+  不过，除了这个疑问，其他的一切都指明他就是罪魁祸首。　
+
+　是赛斯搞的鬼。
+　现在Inferno应该已经知道真相了吧。
+
+现在这个时候，Inferno肯定已经开始行动了。
+追杀真正的背叛者克劳蒂娅·麦肯宁，以及她的得力部下Phantom……
+
+　已经一刻也不能犹豫了。
+
+<CALC WORKNAME="1450b" OPERATOR="1">//
+<A HREF="1445b.txt" OPERATOR="1150=1">//~ 1445b
+<A HREF="1455.txt" OPERATOR="1127=1">//~ 1455
+<A HREF="1445b.txt" OPERATOR="">//~ 1445b
+
+
+
+
+<A HREF="1445b.txt" OPERATOR="">//~ 1445b
+<A HREF="1460.txt" OPERATOR="">//~ 1460

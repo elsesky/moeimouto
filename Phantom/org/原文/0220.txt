@@ -1,0 +1,257 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+//$ 0 0 0
+　いつの間にか、
+　雨は止んでいた。
+
+　だが……どこに行けばいい？
+　そう、
+　握ったハンドルに問いかける。
+
+//> left nightWay wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="トーラス走行室内音" mode="normal" loop="off">
+
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="nightWay">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　何をぐずぐずしているんだ？
+　……頭の中で、そう狂ったように叫ぶ声がする。
+
+　今ならもう、日本に帰れるんだぞ。
+　本当の自分に戻れるんだぞ。
+
+　何のために今日まで、歯を食いしばって耐えてきた？
+　すべての悪夢を終わりにできる、最初で最後のチャンスなんだ。
+
+　今を逃せば……
+　記憶を取り戻したことが組織に知れれば、すべてが御破算だ。
+
+<se id="1" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="slum9">//# slum9 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　確実に逃げ延びるなら、今しかない。
+
+　誰かが気付いた時にはもう、この血なまぐさい国とはおさらばだ。
+　二度と戻ることはない。
+
+　そうだ。どうしてこんな所でモタモタしている？
+
+　今すぐに、一人で大使館に駆け込んで、
+　保護してもらえばいいじゃないか。
+　事情は何とでも言い繕える。記憶喪失だったと言い張ればいい。
+　あながち嘘じゃないんだから。
+
+　……だが……
+
+<CLEAR><BACKGROUND SRC="0210x1">//# 0210x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　日本に戻ることはできても、かつての日常に戻ることができるのか？
+
+　一介の学生として安穏と送ってきた、平和で凡庸な日々。
+
+　取り返した記憶の中の情景は、しかし、まるで絵空事のように心許ない。
+
+　あんなに平和で安穏とした世界が、ほんとうに実在するんだろうか？
+　今となってはすべてが嘘に思えてくる。
+
+　些細なことで泣いて、笑って、
+　希望を懐き、幸福な夢のために計画を立て、
+　明日の日が訪れることを、当然のことのように信じて眠りに就く……
+
+　どうしてそんな生き方ができるんだろう？
+
+<CLEAR><BACKGROUND SRC="0090x1">//# 0090x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　なぜなら、みんな知らないからだ。
+
+　ナイフが心臓を貫けばどうなるか。
+　眉間に鉛弾が当たればどうなるか。
+
+　どれほど脆く簡単に、人生が終わってしまうか知らないからだ。
+
+<CLEAR><BACKGROUND SRC="nightWay2">//# nightWay2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　もう、あの懐かしい無垢な人達からは、
+　取り返しがつかないほど、かけ離れた所まで来てしまったんだ。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　どうすればいい？
+　これから、どこに行けばいい？
+
+　ともかく、
+　あのロフトに帰りたくはない。
+　考えをまとめる時間がほしい。
+
+　じっくりと、
+　静かに考えられる場所に行きたい。
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left fieldWay2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="トーラス走行室内音" mode="normal" loop="off">
+<wait time="900">
+<BACKGROUND SRC="fieldWay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　気がつけばトーラスは市街を離れ、
+　砂漠のフリーウェイを疾走していた。
+
+　凪いだ海のような静寂。見渡す限りの闇。
+
+　自分が無意識のうちに、どこを目指して車を駆っているのか、
+　ようやく見当がついた。
+
+<se id="1" src="" mode="fadeout" time="30">
+<bgm src="" mode="fadeout" time="20" loop="on">//> left factory4 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="2" src="トーラス停止" mode="normal" loop="off">
+
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="factory4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　夜半には、あの廃工場に着いていた。
+　ここなら、邪魔は入らない。
+
+　決断するには、うってつけの場所だろう。
+　すべては、ここから始まったのだから。
+
+<se id="2" src="" mode="fadeout" time="30">
+<CLEAR><BACKGROUND SRC="factory2">//# factory2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ここで厳しい訓練を受けた日々は、
+　昨日のことのようでもあり、遠い昔のことのようにも思えた。
+　なにひとつ、変わっていない。
+
+　めまぐるしく変化するロスの喧噪と、地続きの場所とは思えない。
+
+　ここは、時の流れの外側にある場所なんだ……
+　そういえば以前にも、そう感じたことがある。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　寝起きしていた
+　半地下の部屋を目指した。
+
+//> left room1d wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="doorOpen" mode="normal" time="" loop="off" effect="">//!se doorOpen
+<BACKGROUND SRC="room1d">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="0">//%w
+　軋む鉄扉を押し開けたところで……
+　手が止まった。
+
+　血の臭いがする。
+
+　……誰かがいる。
+　部屋の奥の暗がりに、息を潜めて。
+
+<BOX type="5">//%sR
+「……ツヴァイ？」
+
+<BOX type="0">//%w
+　囁くような声には、聞き覚えがあった。
+
+<CLEAR><BACKGROUND SRC="0220p1">//#! 0220p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="0220x1">//#! 0220x1 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="0220y1">//#! 0220y1 1
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="0220p1">//#! 0220p1 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　アインだ。
+　一体、どうして……
+
+<BOX type="5">//%sR
+「……なぜ、あなたがここに？」
+
+<BOX type="0">//%w
+　それを訊きたいのはこっちも同じなのだが、
+　先に問いかけられてしまった。
+
+「帰るところだったんだ。ミズ＝マッキェネンの家から」
+
+「……ちょっと考え事がしたくて、ここに寄ったんだが」
+
+<CLEAR><BACKGROUND SRC="0220p2">//# 0220p2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「そう……」
+
+<BOX type="0">//%w
+　緊張を緩めて、アインは銃口を床に下ろす。
+
+<BOX type="5">//%sR
+「何も聞いてないのね？　まだ」
+
+<BOX type="0">//%w
+「……？」
+
+　どうも様子がおかしい。
+　アインの顔色、妙に蒼いが……
+　月明かりのせいか？
+
+<BOX type="5">//%sR
+「ここにいちゃ……駄目……」
+
+<BOX type="0">//%w
+「え？」
+
+<BOX type="5">//%sR
+「早く、戻りなさい。
+　あなた一人なら、まだ……」
+
+<CLEAR><BACKGROUND SRC="0220p3">//# 0220p3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「アイン!?」
+
+
+　彼女の右の脇腹が、黒々と濡れて月光に光る。
+　この血の匂いは、まさか……
+<se id="1" src="床に転がる" mode="normal" loop="off">
+<calc workname="gun27" operator="1" mode="global">
+
+<wait time="800">
+<A HREF="0220a.txt" OPERATOR="">//~ 0220a
+a

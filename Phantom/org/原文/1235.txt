@@ -1,0 +1,104 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 1480x2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="1480x2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　そのベンツは、まるで不吉な影のように、ロフトの前に停まっていた。
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「{名}、あの車……」
+
+<BOX type="0">//%w
+「ああ、わかってる」
+
+　キャルの肩に手を置いて安心させ、
+　歩調も変えずに、素知らぬふりでロフトを目指しつつも、
+　目だけで油断なく車内の人間を確認する。
+
+　ワイズメルの用心棒たち。
+　一度は、部屋にまで押し掛けてきたこともある。
+　ランディと、もう一人は名も知らない男だが、
+　ブラディーズのメンバーなのは確かだ。
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# randy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ファントム、
+　悪いが、ご同行願いたい。
+　ミスタ＝ワイズメルがお呼びだ」
+
+<BOX type="0">//%w
+　滅多なことでは喋らないランディが、珍しく口を開く。
+　言葉の物腰は柔らかいものの、有無を言わさぬ凄みが込めてある。
+
+「用件は？」
+
+<BOX type="4">//%sL
+「ボスから直々に、話がある」
+
+<BOX type="0">//%w
+「なら直々に出向いてこい」
+
+　もはやこの期に及んで、ワイズメルとその一派の機嫌を慮ることはない。
+
+<BUSTUP NAME="randy" face="2" MODE="on" zoom="" ALIGN="left">//# randy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　だがランディは顔色ひとつ変えず、冷酷な微笑みを返してきた。
+
+<BOX type="4">//%sL
+「ボスが出向いて、構わないのか？　この娘のところにまで」
+
+<BOX type="0">//%w
+　ジャケットの裾を掴むキャルの手に、力がこもるのがわかる。
+
+　どうやら、ここで押し問答を始めても、埒があきそうにない
+
+「キャル、先に部屋に戻ってろ」
+
+<BUSTUP NAME="cyall2" face="8" MODE="on" zoom="" ALIGN="right">//# cyall2^8 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# cyall2^8 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「でも……」
+
+<BOX type="0">//%w
+「いつか教えた電話番号、憶えてるか」
+
+<BUSTUP NAME="cyall2" face="2" MODE="on" zoom="" ALIGN="right">//# cyall2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……うん」
+
+<BOX type="0">//%w
+「3時間して俺が戻らなかったら、その番号に電話しろ」
+
+「リズィって女の人が出るから、
+　事情を全部話すんだ。そうすれば何も問題ない」
+
+<BUSTUP NAME="randy" face="2" MODE="on" zoom="" ALIGN="left">//# randy^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# randy^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　さも呆れたと言わんばかりに、ランディがかぶりを振る。
+
+<BUSTUP NAME="randy" face="" MODE="on" zoom="" ALIGN="left">//# randy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「同じ組織の仲間同士で、
+　そこまで信用ないとはね」
+
+<BOX type="0">//%w
+「あんたのボスにも、そう言ってやれば良かったかな？」
+
+「さあ、急げよ。くれてやるのは3時間までだ」
+
+<A HREF="1245.txt" OPERATOR="">//~ 1245

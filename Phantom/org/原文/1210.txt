@@ -1,0 +1,453 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0c1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0d1">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="door2" mode="normal" loop="off">
+
+<wait time="200">
+<BOX type="0">//%w
+「ただいま」
+
+　つい先月までは、まさかこのロフトの玄関口で、
+　こんな言葉を口にするとは思っていなかった。
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「おっかえりー」
+
+<BOX type="0">//%w
+　キャルは部屋の掃除に余念がない。
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　暇さえあれば……
+　と言っても、ここ数日の彼女は暇を持て余しているのだが……
+　キャルは甲斐甲斐しく住まいの手入れに精を出していた。
+
+　皺ひとつないベッドメイク。
+　曇りを拭われ、透き通る窓。
+　きちんと畳んで仕分けされた下着。
+
+　些細な変化のひとつひとつが積み重なって、
+　日々の暮らしに快適さというものが伴っていく様は、
+　どこか信じられない魔法を見ているような気がする。
+
+　ただ眠るための穴蔵に過ぎなかった場所が、
+　着実に、人の住処に近づいていく。
+
+　悪い気は、しない。
+　なにせ快適なことに違いはないのだから。
+
+「……？」
+
+　テーブルの下に、機械油に濡れた小さな部品が転がっているのが、
+　ふと目に留まった。
+
+　さすがに一目で何だと見抜くことはできなかったが、
+　それでも、どういう類のものかは一目で理解できた。
+　銃の部品……撃針だ。
+
+「おい、キャル」
+
+「こいつは？」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あ……」
+
+<BOX type="0">//%w
+　まるで悪戯の現場を押さえられた悪童のような面持ちで、
+　キャルがその場に凍りつく。
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……怒らない？」
+
+<BOX type="0">//%w
+「事と次第による」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「黙っていたら、怒る」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　諦めたように、キャルはベッドの下から、物騒なものを引っぱり出した。
+　何かと思えば……天井裏に隠してあったはずの、アゥグ＝ライフルだ。
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「たぶん、これの部品」
+
+「部屋、
+　片づけてたら、見つけたの」
+
+<BOX type="0">//%w
+　まあ、ついうっかり目に留めてしまったというだけなら、
+　悪気があったわけでもなし、咎めるようなことでもない。
+　どのみち、今さら隠し立てすることでもないのだから。
+
+　問題は、どうして撃針だけが外れて転がっているのか、だ。
+
+「……分解、したのか？」
+
+<BUSTUP NAME="cyall3" face="8" MODE="on" zoom="" ALIGN="right">//# cyall^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ごめんなさい」
+
+「中、開けて掃除するの
+大事だって、この前教わったから」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「これも、できるかなぁと思って」
+
+<BOX type="0">//%w
+　たしかに、あのAMTのポケットオートについては、
+　清掃の仕方まで教えたが……
+　当然、突撃銃ではまるで勝手が違う。
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ちょっと待って。
+　すぐに直すから」
+
+<se id="1" src="01_03" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="1210p1">//# dummy 20 1210p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+<se id="1" src="feeldstrip" mode="normal" time="" loop="off" effect="">//!se feeldstrip
+　言うが早いが、キャルは床に座り込み、
+　その場でいきなりアゥグの分解を再演しはじめた。
+
+<BOX type="4">//%sL
+「えぇと、これを捻ってから、
+　これ引っこ抜いて……
+　あ、違った」
+
+<BOX type="0">//%w
+　馴れた手つきとは言えないものの、
+　着実に機構を分解していく手つきの確かさは、
+　明らかに構造を理解している。
+
+「おまえ、機械とか、強いのか？」
+
+<se id="1" src="13_04" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="4">//%sL
+「う～ん」
+
+「一時期、目に付くものは
+　片っ端から分解しまくってたよ。
+　目覚まし時計とか」
+
+「みんな、なんで動いてるのか
+　確かめたくなっちゃって」
+
+「で、ドライバーとレンチが
+　あれば、大抵のもんは
+　どーにかこ－にかなるなって」
+
+「……車のドアとかもね」
+
+<BOX type="0">//%w
+　そう付け足して、悪びれた風もなく笑うキャル。
+
+<se id="1" src="04_02" mode="normal" time="" loop="off" effect="">//!se 
+<BOX type="4">//%sL
+「うちのビデオデッキなんか、オンボロで、4回に1回はバラしてテープ救出する羽目になってたもん」
+
+「レンタル屋の親父には
+　内緒だったけど」
+
+<CLEAR><BACKGROUND SRC="room0a1">//# room0a1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sL
+<se id="1" src="" mode="normal" time="" loop="off" effect="">//!se 0
+「はい、貸して」
+
+<BOX type="0">//%w
+　ボルトを剥き出しにしたところで、
+　キャルは手を差し出して、撃針を引き取った。
+
+<se id="1" src="16_01" mode="normal" time="" loop="off" effect="">//!se 
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<se id="1" src="feeldstrip" mode="normal" time="" loop="off" effect="">//!se feeldstrip
+「この鉄砲、なんか中まで
+プラスチックだらけなんだね。
+最初はオモチャかと思っちゃった」
+
+<BOX type="0">//%w
+「銃とビデオデッキじゃ、勝手が違うだろう」
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「そうでもないよ」
+
+「道具って何でもさ、外れるように出来てるところって、いかにも外してほしそうに見えるじゃん？」
+
+<BOX type="0">//%w
+　無駄口を交えながらも、まるで手だけが自律しているかのように、
+　キャルは的確に作業を進めていく。
+
+<se id="1" src="23_02" mode="normal" time="" loop="off" effect="">//!se 
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「はい、できた」
+
+<BOX type="0">//%w
+　気がつけばアゥグは、もとの姿に戻っていた。
+
+　本当なら、勝手に銃を弄ったことを叱るべきだろうが、
+　正直なところ、キャルの手際の良さに舌を巻いていたせいで、
+　戒めにふさわしい言葉が出てこない。
+
+「……後でちゃんと、元の場所に戻しておけよ」
+
+<BOX type="5">//%sR
+「うん。わかった」
+
+//> left room0a1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="room0a1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　複雑な心境だったが、
+<se id="1" src="mapOpen" mode="normal" time="" loop="off" effect="">//!se mapOpen
+　気を取り直し、床の上に、ロス市街地の地図を拡げる。
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何やってんの？」
+
+<BOX type="0">//%w
+「あー、つまりだな、クイズみたいなもんさ」
+
+「このホテルの5階、北西向きの部屋にいる人間を、
+　ライフルで撃つと仮定する」
+
+<BUSTUP NAME="cyall3" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「うんうん」
+
+<BOX type="0">//%w
+「はたしてどこから撃つのがベストか、っていう問題だ」
+
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ふ～ん」
+
+<clear>
+<BACKGROUND SRC="キャル地図をみる">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　床に頬杖をつき、地図を見下ろすキャル。
+
+「当然、そこそこの高さがあって、人目につかないところがいい」
+
+<BOX type="5">//%sR
+「ビルの屋上とか、でしょ？」
+
+「でも、近きゃ近いほどいい……
+　ってワケじゃ、ないよね？」
+
+<BOX type="0">//%w
+「そうだな」
+
+「半径400ヤード以下は、見張りの人間がうろうろしてる、と思っていい」
+
+　当日インフェルノが動員できる人数で、防衛戦を張るとすれば、
+　大体その程度だろう。
+
+<clear>
+<BACKGROUND SRC="room0a1">//
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「400ヤードなんて……
+　見えないじゃん。人間なんか」
+
+<BOX type="0">//%w
+「そこから先がスナイパーの世界だ。
+　高精度のライフルと高倍率の照準スコープ、
+　それに一級の腕前があれば、700や800でも射程圏内さ」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「800ヤードって……半マイル？」
+
+<clear>
+<BACKGROUND SRC="キャル地図をみる">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　呆気にとられつつも、キャルは地図上を指でたどる。
+
+//<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「このホテルから半マイル……
+　ゴルフ＝センターまで
+　着いちゃうよ」
+
+<BOX type="0">//%w
+　そう。そこが頭の痛いところだ。
+　ダウンタウンの官庁街が、まるごと射程圏内に収まる。
+
+「つまり狙撃地点はよりどりみどり、というわけだ。
+　カタログショッピングより質が悪い」
+
+<clear>
+<BACKGROUND SRC="room0a1">//
+<BUSTUP NAME="cyall3" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「でも……さぁ。この辺の
+　ビルって、高すぎるとこ
+　ばっかりじゃない？」
+
+<BOX type="0">//%w
+　高さ……そうか。
+　狙撃手としての基本事項を忘れていた。たしかに高さの問題がある。
+
+　だが……
+
+　背筋に薄ら寒いものを感じたのは、
+　そんな自分の迂闊さに慌てたからじゃない。
+
+　狙撃の鉄則に繋がるセオリーを、何も知らないキャルが指摘したからだ。
+
+「……高すぎると、どうしていけないんだ？」
+
+　内心の動揺を窺わせないよう、表情を殺してキャルに訊く。
+
+<BUSTUP NAME="cyall3" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「え？　え～と、うぅん……」
+
+<BOX type="0">//%w
+　まるで揚げ足を取られたかのように、キャルは答えに窮してしまった。
+　やはり、解って言っているわけではないのだ。
+　……理屈では。
+
+<BOX type="5">//%sR
+「いやだって、
+　あのさ、たとえばこう、
+　ライフルを構えてみてね」
+
+<BOX type="0">//%w
+　膝の上のアゥグを、もどかしく抱え上げるキャル。
+
+<BOX type="5">//%sR
+「5階の窓を狙うんだよね？
+屋上から。だとすると、こう、
+銃を下向きに構えるわけじゃん？」
+
+<BOX type="0">//%w
+「それで？」
+
+<BOX type="5">//%sR
+「それで……いや、えぇっと、
+　なんかこういう構え方って……」
+
+「撃つときにイヤな感じが
+　しないかなって……」
+
+<BUSTUP NAME="cyall3" face="2" MODE="on" zoom="" ALIGN="right">//# cyall^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……ごめんなさい。あたし
+　ワケわかんないこと言ってるね。
+　関係ないか」
+
+<BOX type="0">//%w
+　黙って地図を睨んでいるのは、呆れ果てているからだと、
+　どうやらキャルは勘違いしたらしい。
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　そんなキャルが、照れ隠しのつもりか無邪気な笑い声を立てるのを、
+　そっと畏怖の眼差しで窺った。
+
+　……おまえは正しいんだよ、キャル。
+
+　高い場所ほど狙撃に適するというのは素人考えだ。
+　たしかに高所は広い視野が得られるが、
+　過剰に高すぎる射撃位置は、射撃自体の難度が上がる。
+
+　下向きの射撃では、重力の弾道に及ぼす影響が、通常より大きくなる。
+　とくに長距離射撃の場合は、これが思わぬ誤差となる。
+
+　一撃必中を期するなら、極端に下向きになるような射撃体勢は、
+　可能な限り避けるべきなのだ。
+
+　もちろん、そんな高度な射撃理論をキャルに教えたことは一度もない。
+　なのに……
+
+“イヤな感じ……”
+　戯れにライフルを構えてみただけで、
+　キャルは直感的に感じ取ったというのか？
+　スナイパーの不文律を……
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どうかしたの？」
+
+<BOX type="0">//%w
+「ああ、いや」
+
+　皮肉にもキャル自身の声が、当座の問題を思い出させてくれた。
+
+「うん、確かに、高すぎる建物は除外していいな」
+
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「やっぱり、そうなの？」
+
+<BOX type="0">//%w
+　そうなると、意外に絞り込めてくる。
+　林立するビル群の中から、射線が通るギリギリの高さのものを、
+　探し出せばいい。
+
+「……あとは、散歩してみるしかないか」
+
+<calc workname="gun14" operator="1" mode="global">
+<A HREF="1210b.txt" OPERATOR="">//~ 1210b
+
+
+<A HREF="1210b.txt" OPERATOR="">//~ 1210b
+<A HREF="1220b.txt" OPERATOR="">//~ 1220b

@@ -1,0 +1,11 @@
+<BOX type="0">//%w
+　別段、ガバメントでも良かったのだが、折角の貰い物だ。
+　たまにはこのUSPを使ってみるのも悪くない。
+
+<CALC WORKNAME="射撃音" OPERATOR="10_01">//
+<CALC WORKNAME="銃" OPERATOR="USP">//
+<CALC WORKNAME="銃画像" OPERATOR="h&k_usp_0000">//
+<CALC WORKNAME="射撃画像" OPERATOR="USP2">//
+<CALC WORKNAME="構え画像" OPERATOR="主人公銃射撃汎用UP">//
+<A HREF="1410.txt" OPERATOR="1127=1">//~ 1410
+<A HREF="1420.txt" OPERATOR="">//~ 1420

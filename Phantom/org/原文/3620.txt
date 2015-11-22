@@ -1,0 +1,269 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left INchurch2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="INchurch2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="0">//%w
+　ステンドグラスから射し込む七色の斜陽を見上げながら、
+　過ぎた日々を想った。
+
+　皮肉な話だ。
+　あの時、あれほどキャルの死を嘆いておきながら、
+　生き延びたキャルと再会してみれば、今度は彼女を殺そうとしている。
+
+　一体どうして、ここまで二人の人生は狂ってしまったんだろうか？
+
+　あの日、なぜすぐにキャルの生存を確かめられなかったのか。
+
+　思えば出だしから、こうだった。
+
+　早計と、思い込みと、
+　ことごとく裏目に出た言い逃れと、
+
+　そんな間違いの連続が、二人の関係を紡いできた。
+
+　こんな男に出会わなければ、
+　こんな男を愛さなければ、
+　キャルには、別の人生があったんだ。
+
+//もえらＳＥ追加
+<se id="1" src="ドライ歩き3" mode="normal" loop="off">
+
+　背後で、静寂を蹴散らす高らかな靴音。
+
+<CLEAR><BACKGROUND SRC="INchurch3">//# drei3^4 20 INchurch3 1
+<BUSTUP NAME="drei3" face="4" MODE="on" zoom="" ALIGN="right">//# drei3^4 20 INchurch3 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　振り向くと、キャルは訝しむような眼差しで、冷たく見返してきた。
+
+「{ヒロイン}は、来ない」
+
+<BOX type="5">//%sR
+「何で……あんたが」
+
+<BOX type="0">//%w
+「俺の務めだからだ」
+
+<BOX type="5">//%sR
+「あの娘を守るのが、かい？」
+
+<BOX type="0">//%w
+「違う」
+
+「キャル……お前を殺すのが、だ」
+
+<BUSTUP NAME="drei3" face="6" MODE="on" zoom="" ALIGN="right">//# drei3^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　眼差しの冷ややかな侮蔑が、一転して燃えるような憎悪に切り替わる。
+
+「今日まで、多くの人を犠牲にしてきた」
+
+「何人も……数え切れないほどの人を騙して、利用して、殺してきた。
+　ただ、俺が生き残るためだけに」
+
+「お前も、その一人だよ。キャル」
+
+<BOX type="5">//%sR
+「よくもまぁ、ぬけぬけと……」
+
+<BOX type="0">//%w
+「ああ、許されることとは思ってない」
+
+「お前は正しいよ。キャル。その怒りは正義だ。誰に訴える必要もない」
+
+　憎悪を込めて引金を引く、その正当な権利がキャルにはある。
+
+「その銃で俺を裁け。誰にも委ねず、自分に賭けろ」
+
+「お前が俺より強いなら……俺は報いを受けるだろう」
+
+<BUSTUP NAME="drei3" face="3" MODE="on" zoom="" ALIGN="right">//# drei3^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……上等じゃねぇか」
+
+<BOX type="0">//%w
+　緑に燃える相貌は、
+　礼拝堂の薄闇で、自ら光を放っているかのように見えた。
+
+<BOX type="5">//%sR
+「で、どうやる？」
+
+<BOX type="0">//%w
+「何でもいい。お前が納得できるやり方で、来い」
+
+<BOX type="5">//%sR
+「ハン……余裕じゃないの」
+
+//もえらＳＥ追加
+<se id="1" src="15-03" mode="normal" loop="off">
+
+<bgm src="" mode="fadeout" time="20" loop="on">
+<CLEAR><BACKGROUND SRC="INchurch4">//# dummy 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　鼻で笑って、
+　キャルは担いでいたアゥグ＝ライフルを、側廊の裏に投げ捨てた。
+　そして懐から、真鍮の輝きを取り出す。
+
+　オルゴール仕掛けの懐中時計……
+　追憶が胸を過ぎった。
+
+　まだ、持っていたのか……
+
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「拳銃勝負だ。
+　曲が終わったら、抜く。いいな」
+
+<se id="1" src="pin" mode="normal" time="" loop="off" effect="">//!se pin
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そう言ってキャルは、
+　祭壇の真ん中に懐中時計置き、指先で弾いて蓋を開けた。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="calling" mode="fadein" old="fadeout" time="10" loop="on">//$ calling.swa 255 255
+　聞き覚えのある、か細い調べが、
+　重い沈黙の中で囁くように、演奏を始める。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^3 20 INchurch4 1
+<BUSTUP NAME="drei" face="3" MODE="on" zoom="" ALIGN="right">//# drei^3 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="5">//%sR
+「この曲を聴かせて、
+　殺してないのは……」
+
+「そういや、あんた一人だよ。
+　{名}」
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# dummy 20 inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　後ろ足に、祭壇から退くキャル。
+　軽く広げた右手は、いつでもホルスターに跳ぶ位置に。
+
+　こちらも、それに倣って退がりながら、
+　制服の前ボタンをはだけ、キャルから見えるよう、
+　{銃}をベルトの前に挿む。
+
+<BOX type="0">//%w
+　聖歌隊席の傍らで、足を止めた。
+　キャルもまた、神父室の前で立ち止まる。
+
+　距離は……おおよそ10メートル。
+　お互いに、撃てば外しようのない間合いだった。
+　抜くスピードだけで勝負がつく。
+
+　在りし日の賛美歌の残響のように。
+　旋律は、細く、優しく、薄闇の世界を満たしていく。
+
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　勝った者は今日を生きながらえ、
+　敗者には永遠の死が。
+　だが……それを分かつのは一刹那。
+
+　改めて、思い知った。
+　この、限りなく非情な世界の理を。
+
+　必ず勝つと、そう誓った{ヒロイン}への言葉も、
+　今は何の意味も持ちはしなかった。
+
+　祈ろうと、誓おうと、それで勝敗が決するわけではない。
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　済まない、{ヒロイン}……
+　胸の中でそう呟いて、そしてすべてを忘れた。
+
+　{ヒロイン}の声も、面影も、
+　細くたおやかな身体の感触も。
+
+　生きて帰ると、
+　そして共に故郷を探そうと、
+　彼女に固く誓った言葉も。
+
+<CLEAR><BACKGROUND SRC="INchurch4">//# drei^4 20 INchurch4 1
+<BUSTUP NAME="drei" face="4" MODE="on" zoom="" ALIGN="right">//# drei^4 20 INchurch4 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　今は、ただ……
+　キャルだけに、
+　ただキャルの右手だけに、
+
+　そして腹の上の{銃}と、
+　伽藍の静寂をささやかに乱す、オルゴールの調べだけに、
+　全身全霊を集中する。
+
+　高く、細く、粛々と、
+　オルゴールは旋律を奏でる。
+　まるで秘めやかな宇宙の鼓動のように……
+
+<bgm src="calling" mode="fadeout" old="" time="50" loop="on">//$ calling.swa 255 50
+<CLEAR><BACKGROUND SRC="1210x4">//# 1210x4 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　そのリズムが、ゆるやかに鈍りはじめる。
+　曲の終わりが……近い。
+
+　空っぽの心のままに、
+　宇宙の静止する時を待つ。
+　潰えゆくしらべの、最後の音を。
+　生と死の境目を。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+　そして……静寂に世界が凍る。
+
+<CLEAR><BACKGROUND SRC="inchurch1">//# inchurch1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　キャルの右手がホルスターに飛ぶ間に……
+　{銃}の銃把は、掌の中にあった。
+
+　だが抜き放つスピードで遅れた。
+　{銃}の銃身が虚空を裂く間に、疾るS&Wに追いつかれる。
+
+　{銃}の銃口でキャルを指し、
+　そしてS&Wの銃口を覗き込む。
+
+　黒く、深く、奈落のような……
+　キャルの手の中の銃口を。
+
+　引き金に指を掛けたのは、いったい、どちらが先だったのか……
+
+<se id="1" src="{射撃音}" mode="normal" time="" loop="off" effect="">//!se gun2
+<CLEAR><BACKGROUND SRC="white">//#! dummy 20 white 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　轟いた銃声は、ただ一発。
+　何万分の一の刹那ぶん、先んじた一発だけだった。
+
+<A HREF="3625.txt" OPERATOR="1340=0">
+<A HREF="#マテバ" OPERATOR="3160MM=1">
+<CLEAR><BACKGROUND SRC="{射撃画像}">//# gun2 1
+<WIPE EFFECT="fade" TIME="10">
+<A HREF="#合流">
+
+<MARKER NAME="#マテバ">
+<CLEAR><BACKGROUND SRC="マテバb2">//# マテバb2 1
+<WIPE EFFECT="fade" TIME="10">
+<MARKER NAME="#合流">
+<BOX type="0">//%w
+　腕から肩へと走り抜ける衝撃……
+　その{銃}の反動を、いつになくもどかしく感じながら、
+　乾いた意識の片隅で、何の感情も、感慨もなく、ただ理解した。
+
+　勝利を……
+
+<A HREF="3630.txt" OPERATOR="">//~ 3630

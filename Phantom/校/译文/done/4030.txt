@@ -1,0 +1,503 @@
+<bgm src="" mode="fadeout" time="40" loop="on">//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> after1 dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="1擭屻">//
+<WIPE EFFECT="fade" TIME="20">
+<BOX type="7">//%w
+<k>
+
+//仸堦擭屻
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right boss_room wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="boss_room">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　梧桐海典无言地望着摆在面前的数张照片。
+
+　……这些小心地偷拍下来的照片上的内容全都是关于一位平凡生活着的少女。
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「为了不暴露她的身份，我只拍了背影，真是不容易啊」
+
+<BOX type="3">//%m
+　虽然笑声还是一如既往地卑屈……但头目·本庄冰冷的眼神中明显地透露出恫吓之意。
+
+<BOX type="4">//%sL
+「放心吧，这份材料目前只掌握在我和我的兄弟手里」
+
+「不过，仅仅是目前而已」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……你想要什么？」
+
+<BOX type="2">//%w
+　梧桐海典用低沉、冷静地声音问道。
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「梧桐的家徽」
+
+<BOX type="3">//%m
+　本庄还不畏惧地笑言道。
+
+<BOX type="4">//%sL
+「你身居组长宝座也够久了，差不多也该让位了吧」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这就是你造反的理由吗？」
+
+<BOX type="2">//%w
+　梧桐海典轻蔑地哼了一声。
+
+<BOX type="5">//%sR
+「你打算背叛梧桐组、篡位夺权吗？本庄」
+
+<BUSTUP NAME="honjyo" face="" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「本庄我虽然不济，但总比你这个被小丫头牵制住的老头子强多了」
+
+「这也是为了梧桐组好。
+　要是过分在意那个小丫头的性命，梧桐组还怎么在道上混啊」
+
+「大家迟早都会注意到的」
+
+「幸好是本庄我先发现了」
+
+「要是其他的组员对她出手怎么办？」
+
+「你打算为了一个小丫头将梧桐组弄得四分五裂吗？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+//> left boss_room wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="boss_room">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……越听越觉得这家伙的话下作。
+　到最后，事情的发展还是和我想的没什么两样。
+
+　听到这里，自己已经掌握了足够多的情报，不必再谋划下去了。<se id="1" src="傆偡傑奐偗傞" mode="normal" loop="off">
+　于是，我无言地拉开隔扇，走进了客厅。
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!?」
+
+<BUSTUP NAME="honjyo" face="2" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你、你是什么人!?」
+
+<BOX type="0">//%w
+　本庄的样子狼狈的一塌糊涂。
+　居然被这种程度的小混混威胁，梧桐组的头目也不过如此啊。
+
+「茶会结束了，本庄先生」
+
+「你已经……不可能再对美绪做任何事了」
+
+<BOX type="4">//%sL
+「什、什么？」
+
+<BOX type="0">//%w
+「美绪的周围已经没有你的人了」
+
+「监视的家伙也好，跟踪的家伙也好……已经被我一个不剩地干掉了。
+  你的计划已经泡汤了」
+
+<BOX type="4">//%sL
+「混蛋！」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# siga^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　本庄将手伸进怀中企图掏枪。
+　可是，没有经过训练的他动作缓慢到让我郁闷。
+
+　他的枪柄刚刚露出前襟，
+<se id="1" src="rist" mode="normal" time="" loop="off" effect="">//!se rist
+　我手中的枪已经对准了他。
+
+「说起来……我居然忘了。
+  还剩一个人在啊」
+
+<BOX type="4">//%sL
+「什……不、不要……」
+
+<BOX type="0">//%w
+　我不想再听他的乞命之言了。
+　这家伙居然敢打美绪的主意……我绝不能放过他。
+
+<se id="1" src="{幩寕壒}" mode="normal" time="" loop="off" effect="">//!se gun
+<FLASH SRC="#FFFFFF" WAIT="1" COUNT="1" BEFORE="" AFTER="" TIME="1" OPTION="">//*
+<wait time="500">
+<se id="2" src="down" mode="normal" time="" loop="off" effect="">//!se down
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 20
+<WIPE EFFECT="fade" TIME="5">
+
+<BOX type="5">//%sR
+「……唔」
+
+<BOX type="0">//%w
+　虽然我当着梧桐海典的面杀了他的手下，但这位老人的态度却没有任何改变，依旧保持着骇人的威严。
+
+<BOX type="5">//%sR
+「闯进别人的屋子也不打声招呼吗？」
+
+<BOX type="0">//%w
+「我没有能够自报家门的名字」
+
+<BOX type="5">//%sR
+「……我明明听说你已经逃离日本了」
+
+<BOX type="0">//%w
+「我闻到这里有阴谋的味道，于是就回来了」
+
+<BOX type="5">//%sR
+「……为了杀他吗？」
+
+<BOX type="0">//%w
+「这只是第一步」
+
+<BOX type="5">//%sR
+「……然后呢？」
+
+<BOX type="0">//%w
+「将他所说的继续下去」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「引退吧，梧桐海典」
+
+<BOX type="5">//%sR
+「……什么？」
+
+<BOX type="0">//%w
+　老组长的眼中冒出了锐利的光。
+
+「只要你还身居组长的宝座，就会将美绪置于危险之中」
+
+「……本庄说的没错，美绪的事迟早会被别人发现的」
+
+<BOX type="5">//%sR
+「少给我开玩笑了，小子」
+
+「你以为这是你能够插手的事吗？」
+
+<BOX type="0">//%w
+「我无意插手，不过事情是明摆着的」
+
+「连本庄这样的家伙都敢觊觎头目的宝座，如今的梧桐组真是没落了啊」
+
+「你要是不引退的话，梧桐组搞不好真的会垮台哦」
+
+<BOX type="5">//%sR
+「……没规矩的小鬼」
+
+「你以为我梧桐海典会被你吓倒吗？我的肩上可是背负着梧桐一家3000人的性命」
+
+<BOX type="0">//%w
+「我的肩上只背负着1个人的性命……」
+
+「为此，我会不惜将你那3000人全部杀掉」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「我给你1周的时间，梧桐海典，在那之前做出选择吧」
+
+「要是你执迷不悟的话……我就亲手击溃梧桐组」
+
+<BOX type="5">//%sR
+「天真的家伙」
+
+「你打算与整个关东地区为敌吗？」
+
+<BOX type="0">//%w
+「你最好期望不会变成那样」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> right 0235x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0235x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BOX type="2">//%w
+　樱花再次飘落。
+
+<CLEAR><BACKGROUND SRC="sakuraED">//# sakuraED 1
+<WIPE EFFECT="fade" TIME="10">
+<bgm src="mio" mode="fadein" old="fadeout" time="10" loop="on">//$ mio.swa 0 255
+<BOX type="2">//%w
+　缭乱飞舞的花瓣中，美绪彷徨地走着。
+
+　这片号称武藏野第一的墓地被壮丽的樱树群包围着。
+　与其说是死者的安眠之所，倒更像是一座广阔的庭院。
+
+　由于这片墓地过于广阔，美绪花了将近一个小时才看到自己要找的墓碑。
+
+<CLEAR><BACKGROUND SRC="4030x2">//# 4030x2 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　和她想的一样，墓碑既高大又严肃。
+
+这里的墓碑就像一座城寨。
+如同是世世代代长眠在这里的男人们曾经活过的象征。
+
+『梧桐家』……美绪确认着墓碑上的碑铭。
+
+　这是她第一次造访父亲和兄长的墓。
+
+　当然，她没有告诉母亲。
+　美绪是在参加毕业式以后顺便来到这所陵园的。
+
+　手中的纸筒里装着刚刚发下的毕业证书。
+
+　考入蓧仓学院的时候自己就是第一个向他报告的……这一次，美绪依旧打算这样做。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「最后我想告诉您，大学的入学考试合格了……」
+
+「今天我顺利毕业了。
+自从您逝世已经过去3年了啊，大辅叔父……」
+
+<BUSTUP NAME="mio1" face="6" MODE="on" zoom="" ALIGN="right">//# mio1^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……还是说，我应该叫您一声哥哥呢」
+
+<BOX type="2">//%w
+　高大肃穆而又默默无言的墓碑不禁让她联想起那个男人健壮的身躯。
+
+<BOX type="5">//%sR
+「果然……还是叫不出口啊。
+　因为，叔父就是叔父啊」
+
+<BOX type="2">//%w
+经历了如梦一般刺激的数日以后，美绪又回到了平和的日常生活中。
+
+从那以后，暴力的世界再也没有侵入她的生活。
+回头看去，过去发生的一切就像是幻象一般。
+
+　自己与黑社会的头目有着血缘关系，对此美绪至今都没有实感。
+
+<BUSTUP NAME="mio1" face="2" MODE="on" zoom="" ALIGN="right">//# mio1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「对了，这个……」
+
+<BOX type="2">//%w
+　美绪从怀中取出一个用丝带包裹着的细长盒子。
+
+<BOX type="5">//%sR
+「这是我得到的毕业纪念」
+
+<BOX type="2">//%w
+　这是蓧仓学院送给毕业生的纪念品。
+  一块精美的手表。
+
+表盘上刻着校徽的浮雕。
+整块表的设计也与女子很是相配，非常的小巧别致。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「虽然是好不容易得到的……但我还是决定这样做」
+
+<BOX type="2">//%w
+　美绪将纪念手表放在墓碑上……摆在线香的旁边。
+
+<BOX type="5">//%sR
+「因为，这块表是我要送给叔父的东西」
+
+<BOX type="2">//%w
+　这是美绪第一次送给梧桐大辅礼物。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+美绪拿出表看了一眼，劳力士的指针正准确地显示着时间。
+虽然是块很重的表，但它的准确性是值得自豪的。
+
+　毕业聚会的时间快要赶不上了。
+　早苗一定又会责备自己吧。
+
+<BUSTUP NAME="mio1" face="b" MODE="on" zoom="" ALIGN="right">//# mio1^b 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「我要走了」
+
+<BOX type="2">//%w
+明明是自己第一次扫墓，时间却如此紧迫，这令美绪有些遗憾。
+
+<BOX type="5">//%sR
+「不过，我已经记住了这里……还会再来的」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　鞠了一个躬后，美绪离开了墓碑。
+
+<BUSTUP NAME="mio1" face="1" MODE="on" zoom="" ALIGN="right">//# mio1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……？」
+
+<BUSTUP NAME="kumicho" face="" MODE="on" zoom="" ALIGN="left">//# kumicho 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# kumicho 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+是从什么时候开始的呢。
+ 这个一脸威严的老人一直带着复杂的表情注视着美绪。
+
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　可是，两人的视线刚一对上，老人便移开眼，一言不发地从美绪身边走了过去。
+
+美绪也轻轻地点了点头，之后便和他擦身而过。
+但在这期间，美绪一直在心里探寻着过去的记忆。
+
+<BUSTUP NAME="mio1" face="4" MODE="on" zoom="" ALIGN="right">//# mio1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　自己在什么地方见过他吗？
+　总感觉他的身上有一种令人怀念的氛围。
+
+　不过……不管怎么想，他都只是位初次见到的老人吧。
+
+<BUSTUP NAME="mio1" face="9" MODE="on" zoom="" ALIGN="right">//# mio1^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……认错人了吧？」
+
+<BOX type="2">//%w
+　大概是因为美绪长得像他的孙女什么的，才会引起他的注意吧。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="2">//%w
+　再没有多想的美绪回到了墓园大门口的樱树群下。
+
+<CLEAR><BACKGROUND SRC="4030p1">//# 4030p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　漫天飞舞的花瓣仿佛在祝福着她、呼唤着她。
+  将她的前路妆点得无比绚烂。
+
+　新的生活。
+　新的日常。
+　从现在开始美绪将要面对的，肯定是她从未想象过的新鲜世界。
+
+　未来，在她面前敞开了大门。
+
+<CLEAR><BACKGROUND SRC="sakuraED">//# sakuraED 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="2">//%w
+　缭乱飞舞的花瓣中，美绪轻巧地走在浅桃色的花道上。
+
+<bgm src="" mode="fadeout" time="40" loop="on">//> left sakuraED wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="sakuraED">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+//$ 0 0 0
+<BUSTUP NAME="傾僀儞巹暈2" face="" MODE="on" zoom="" ALIGN="right">//# elen1^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……真的不去见她吗？」
+
+<BOX type="0">//%w
+　我站在樱树的树阴里，远远地望着美绪的背影……
+　不知什么时候，{ヒロイン}站在了我的身边。
+
+「现在……还不行」
+
+「现在的我还没有真正熟悉这个国家的生活」
+
+//<bgm src="tema" mode="fadein" old="fadeout" time="10" loop="on">//$ tema.swa 0 255
+<bgm src="flyshort1.ogg" mode="fadein" old="fadeout" time="3" loop="off">//$ tema.swa 0 255
+<CLEAR><BACKGROUND SRC="0235x1">//# dummy 20 0235x1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　我抬起头，只见春天的青空被淡淡的云所包围，显得无比柔和。
+
+　就像美绪的笑脸一样，仿佛要将一切都包容进去。
+
+「……再包容一阵吧」
+
+　必须结束的事，
+  必须诀别的事。
+  自己要做的事还很多。
+
+　抱歉啊，美绪。
+　前方的路……似乎还很长啊。
+
+<CLEAR><BACKGROUND SRC="sakuraED">//# sakuraED 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+「我们走吧」
+
+<BUSTUP NAME="傾僀儞巹暈2偆偮傓偒旝徫傒" face="" MODE="on" zoom="" ALIGN="right">//# elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……嗯」
+
+<CALC WORKNAME="旤弿僄儞僪" OPERATOR="1" MODE="global">//
+<A HREF="1550.txt" OPERATOR="">//~ 1550

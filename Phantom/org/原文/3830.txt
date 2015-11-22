@@ -1,0 +1,28 @@
+　放っておけば、間違いなく、
+　キャルは{ヒロイン}の投げるナイフの前に身を曝す。
+
+　アインが投じるナイフの驚異……それをどうキャルに伝えるか？
+
+<se id="1" src="05_02" mode="normal" time="" loop="off" effect="">//!se 
+<CLEAR><BACKGROUND SRC="white">//#! white 1
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="INchurch2">//#! INchurch2 1 elen5^3 20
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="0">//%w
+　判断のつかないままに、パイソンが6度目の咆吼を放ち、沈黙する。
+
+<CLEAR><BACKGROUND SRC="3720p1">//# 3720p1 1 dummy 20
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　即座に、告悔席から身を乗り出そうとするキャル。
+　憑かれたような凄絶な笑みで、勝利を確信して……
+
+　だがそれに先んじて、{ヒロイン}のナイフは
+　投擲のモーションに入っている。
+
+　駄目だ。
+　飛来するナイフに気付いてからでは、
+　もうキャルに避けるゆとりはない……
+
+<A HREF="3830a.txt" OPERATOR="3160MM=1">//~ 3830a
+<A HREF="3830b.txt" OPERATOR="">//~ 3830b

@@ -1,0 +1,215 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left houseC2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert3" mode="fadein" old="fadeout" time="10" loop="on">//$ days.swa 0 255
+<BACKGROUND SRC="houseC2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　ひとまずF40でクロウディアの邸宅へ戻り、車庫のゴルフと交換する。
+
+　クロウディアには悪いが、
+　今日の帰りはリズィがヴァイパーで足になってくれるだろう。
+
+<CLEAR><BACKGROUND SRC="city1">//# city1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　フリーウェイに乗る途中で、
+　ダウンタウンの花屋に寄って、一束の白百合を買った。
+
+　もし死人の縁者と出くわすようなら、使える小道具になるかもしれない。
+
+//> left street2a wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="street2a">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　昼間でも、うらぶれたスラム街には、人の気配はない。
+
+　現場に近づいたところで、車を徐行させ、
+　停める場所を探している風を装いながら、様子を窺う。
+
+　空薬莢と壁の弾丸は鑑識が持っていったようだが、
+　路面の血痕は洗われもせず、そのままに放置されている。
+　どのみち誰も気にしないだろうが。
+
+　……案の定、というべきか。
+　ジュディの死体があった辺りに誰かいる。
+　いまさら野次馬の類ではあるまい。
+
+　ゴルフを路肩で停め、花束を手に車を降りた。
+
+<CLEAR><CLEAR><BACKGROUND SRC="1050p1">//# 1050p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　膝を抱え、壁に背を預けて座った少女……
+
+　ジュディの遺骸を象ったチョークの輪郭を、暗い眼差しがなぞっている。
+
+　風体はホームレスのようだが、路上生活している様子じゃない。
+　服はくたびれた着古しだが、垢じみてはいなかったし、
+　血色もそう悪くはない。
+
+　隣には、特大の旅行カバン。市外のフリーウェイで見かけたら、
+　家出少女のヒッチハイカーと思うだろう。
+
+<CLEAR><BACKGROUND SRC="street2a">//# street2a 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　すぐ傍らで足を止めると、少女は顔を上げ、大きな瑠璃色の瞳を見せた。
+
+　訝しむように見上げてくる視線を受け止めながら、
+　即興で組み立てた筋書きを、頭の中で再確認する。
+
+「ジュディ＝ディヴェンスが死んだのは、ここかい？」
+
+<BUSTUP NAME="cyall" face="6" MODE="on" zoom="" ALIGN="right">//# cyall^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……あんたは？」
+
+<BOX type="0">//%w
+　低くかすれた、細い声。
+　声が枯れるほど泣いた後は、誰でもこんな声になる。
+
+「届け物を、持ってきた」
+
+　花束を、そっと道端に添える。
+
+　幾重にもスモッグを被った上に、昨夜は鮮血まで吸ったアスファルト。
+　そこに添えられた百合の花弁は、浮き立つように白く映えた。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんた、誰なの？」
+
+<BOX type="0">//%w
+「そういう君は、ジュディの知り合いか？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　少女は答えず、視線をジュディの輪郭に戻した。
+　答えるのが億劫だとでもいう風に。
+
+「俺は、ジュディに恩義があった」
+
+　根も葉もない嘘だが、この子には色々と訊かなきゃならない。
+　そのためには、信用を得る必要がある。
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あんた、
+　ジュディのお得意さん？」
+
+<BOX type="0">//%w
+「……そんなところだ」
+
+「でも、そういう関係で終わりたくはなかった。……もう、遅いが」
+
+　再び沈黙。
+　彼方のハーバー＝フリーウェイから、喧噪が風に乗って運ばれてくる。
+
+「君も、ジュディの友達だったのか？」
+
+<BOX type="5">//%sR
+「……妹だよ」
+
+<BOX type="0">//%w
+　ややあって、そう呟く少女。
+　今度はこっちが訝しむ番だった。
+
+　昨夜、ここで死んでいた女は黒人だった。
+　が、この少女は白人だ。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……なにさ、色の違う妹が
+　いちゃおかしいの？」
+
+<BOX type="0">//%w
+「いや……」
+
+　それ以上、追求するのはやめた。
+　そういえばリズィが言っていた。
+　……ジュディにはルームメイトがいた筈だ。
+　この娘のことだろうか？
+
+　確かなことは……この娘が故人を悲しんでること。
+　そして、押さえ込んではいるものの、
+　胸にやり場のない怒りを抱えていること。
+
+　揺さぶるならば、その辺か。
+
+　性急すぎるかもしれないが、いきなり話を核心に向けてみた。
+
+「誰がジュディを殺った？」
+
+<BUSTUP NAME="cyall" face="a" MODE="on" zoom="" ALIGN="right">//# cyall^a 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あたしが知ってるとでも
+　思うわけ？」
+
+<BOX type="0">//%w
+「心当たりさえ、ないか？」
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……撃たれる理由が
+　あったっていうの？
+　ジュディに」
+
+<BOX type="0">//%w
+　少女の目が据わり、声のトーンが一段、落ちる。　
+
+　その目に顕れた怒りは本物だった。
+
+　ジュディは何の咎もなく殺された……
+　少なくとも、この子はそう信じている。
+
+　やはり、死んだ娼婦は、無辜の通行人だったのか。
+　そうでないとしても、この“妹”は何も知らないということになる。
+
+　どちらにしても、これ以上、彼女から得られるものはない。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+「……悪かった。馬鹿なこと訊いたな」
+
+　薄く笑って、疑うような少女の視線をやり過ごす。
+
+　長居は無用だ。無駄足になったが、どだい空振り覚悟の探索だ。
+
+　最後に、縁もゆかりもない娼婦への黙祷を捧げてから、
+　その場を立ち去ろうとした。
+
+<BUSTUP NAME="cyall" face="4" MODE="on" zoom="" ALIGN="right">//# cyall^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……待って」
+
+「撃った奴を見つけて、
+　あんた、どうするつもり？」
+
+<BOX type="0">//%w
+<A HREF="#スルー" OPERATOR="1022a=1">
+<A HREF="#スルー" OPERATOR="0350=1">
+
+<A HREF="1050a.txt" OPERATOR="">//~ 1050a
+
+<MARKER NAME="#スルー">
+<CHOICE HREF="1050a.txt" TEXT="＊答える" OPERATOR=""></A>//{ ＊答える 1050a ＊無視する 1050b
+<CHOICE HREF="1050b.txt" TEXT="＊無視する" OPERATOR=""></A>//{ ＊答える 1050a ＊無視する 1050b
+　

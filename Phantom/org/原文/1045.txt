@@ -1,0 +1,225 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> right room3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="intriguer" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="room3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「どえらい騒ぎを持ち込んでくれたもんだな、えぇおい？」
+
+「死体がなくても、
+　辺りの弾痕は100発以上、血糊は
+　ペットボトルで1ダースぶん…」
+
+「市警の連中は大騒ぎだぞ!」
+
+「パトロールのポリ公どもは
+　殺気立つし、売人も女どもも
+　脅えちまって仕事にならねぇ」
+
+「俺の縄張りを、
+　滅茶苦茶にしてくれたな、
+　クロウディア」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「それは責任逃れのつもりですか？　ミスタ＝アイザック」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^4 20
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何ィ？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20 crou^2 19
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# dummy 20 crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「いかにもLAは貴方の縄張り。
+　いわば貴方の管轄地域です。
+　保守の責任は貴方にある」
+
+「そこで現金500万ドルが奪われ、
+　4人の客人が殺された。ミスタ＝アイザック、貴方の庭でだ!」
+
+<BUSTUP NAME="crou" face="6" MODE="on" zoom="" ALIGN="left">//# crou^6 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「誰が罵倒されるべきなのか、
+　よく考えていただきたい」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^3 20
+<BUSTUP NAME="inferuno2" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「手前ェ、
+　いつからそんな口を……」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「やめろ、見苦しい」
+
+<BOX type="3">//%m
+　不毛な言い争いに、
+　マグワイヤの一喝が割り込む。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「クロウディア、
+　日本人の反応は？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「激怒していますが、
+　抑えは効いているようです」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「よし、連中の接待は任せる。
+　できるだけ機嫌をとっておけ」
+
+「早急に、客人の金を
+　手元に戻してやらねばならん。
+　奪った奴らの死体を添えて、な」
+
+「君の仕事だぞ。アイザック」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^4 20
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「待てよ」
+
+「あのジャップ共が客人だと？
+　俺はまだ納得してねぇぞ」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「沽券の問題だ。アイザック」
+
+「インフェルノの門を叩いている者
+　が襲われた。それが客であろうと
+　物乞いであろうと、違いはない」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「我々の門前で、
+　そんな狼藉を許す気か？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 inferuno2^4 20
+<BUSTUP NAME="inferuno2" face="4" MODE="on" zoom="" ALIGN="right">//# dummy 19 inferuno2^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……オーケイ。当たってみるよ」
+
+//> left passage1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="passage1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　分厚い扉を通してなお、会議室の中の剣呑な気配は伝わってくる。
+
+　夜中の内に召集され、朝一番で開かれた緊急会議は、
+　出だしから紛糾している様子だった。
+
+　見ようによっては、今回の一件、クロウディアが独断で
+　いらぬトラブルを持ち込んだという捉え方もできるのだ。
+
+　最悪の場合は、
+　クロウディアとワイズメルの対立が表面化することになるかもしれない。
+
+　あるいは、もう既に……
+
+　だが、わからない。
+　なぜクロウディアはあそこまで、日本のヤクザに執心する？
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="right">//# rizy^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「中の様子は、相変わらずかい？」
+
+<BOX type="0">//%w
+　外から戻ってきたリズィに、さもうんざりという口調で訊かれた。
+　頷く代わりに肩を竦めてみせる。
+
+<BOX type="5">//%sR
+「さっきの話、調べはついたよ」
+
+<BOX type="0">//%w
+　渡されたFAX用紙には、現場にあった5番目の死体……
+　頭を撃たれていた若い女についての情報が記されていた。
+
+　リズィのコネで、情報屋に探りを入れてもらったのだ。
+
+「すまない。手間をかけた」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「いいって」
+
+「他の、いま頭に血が昇ってる御仁たちには頼めなかったんだろ？」
+
+<BOX type="0">//%w
+　たった数時間のうちに集まった情報にしては、内容は詳細だった。
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　遺体の身元は……ジュディ＝ディヴェンス。26歳。
+　あの辺じゃ古顔のコールガールだったらしい。
+
+　キナ臭い繋がりは一切ない。ポン引きには頼らず、自立してやっていた。
+
+「彼女の部屋は？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「当たらせたよ。ハジキもナイフも一切なし。ルームメイトがいた様子だが、こっちはまだ捕まらない」
+
+「しかし、こりゃどう考えても、
+流れ弾くらった不幸な通行人だぜ」
+
+<BOX type="0">//%w
+「……」
+
+　そうなると、このジュディという女の遺体にコートを被せたのは誰だ？
+
+　あの襲撃は間違いなくプロの仕業……
+　死者を悼むような感傷とは無縁だろう。
+　無関係な相手であれば尚更だ。
+
+　やはり、引っかかる。もう一度、現場を見ておきたい。
+
+「……この場は任せていいかい？」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ったく、注文の多い男だねぇ」
+
+「行ってきな。もうポリもブン屋も引き払った頃合いだ」
+
+<A HREF="1050.txt" OPERATOR="">//~ 1050

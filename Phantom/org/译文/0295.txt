@@ -1,0 +1,151 @@
+//> right bay2 wide 255 elen1^3 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay2">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「主人……」
+
+「主人为什么要这样……？」
+
+<se id="1" src="binta" mode="normal" time="" loop="off" effect="">//!se binta
+<CLEAR><BACKGROUND SRC="white">//#! white 1 dummy 20
+<WIPE EFFECT="fade" TIME="0">
+<CLEAR><BACKGROUND SRC="bay2">//#! bay2 1
+<WIPE EFFECT="fade" TIME="0">
+<BOX type="2">//%m
+赛斯马上用手背打了Ein一个耳光。
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="left">//# sice3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「怎么回事？　Ein」
+
+「你从何时开始学会提问题了？」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 elen1^3 20
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# dummy 19 elen1^3 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+「……非常……抱歉」
+
+<BUSTUP NAME="sice3" face="" MODE="on" zoom="" ALIGN="left">//# sice3 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice3 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="3">//%m
+　很明显，Ein的样子非常奇怪。
+
+　简直就像胡乱调音后的乐器，
+  只能发出音调以外的声音。
+
+对她的战斗能力而言最为重要的、绝对的冷静，正在产生破绽。
+
+　事实上……
+　她正在逐渐丢失这份沉着。
+
+原因，就是那个致命的失败之夜。这一点毫无疑问。
+
+　本来，Ein如果像以往那样，按照赛斯设定好的思考模式作出判断的话，应该是活不到现在的。
+
+　在因负伤而失去战斗能力的那个时候，她本应采取行动进行自我消亡。
+
+　可是，Ein不但没有那样做，而且还开始受到Zwei不可理解的行为的影响。
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+“难道是……寿命到头了？”
+
+<BOX type="3">//%m
+　虽然赛斯一直以Ein无与伦比的完成度而自豪，但是他并不认为她的性能可以永久维持下去。
+
+　即使是用钢铁打造的枪械，经过实战的洗礼，零件也免不了会磨损。
+
+况且，人体的精神构造更加精密，因而有着既定的使用年限。
+
+除了对Ein过早地到达使用寿命感到惋惜，赛斯没有任何其他的感慨。
+
+　他的兴趣，开始转向那个让Ein的性能急速劣化的原因。
+
+　Zwei……那个少年的骤变，确实让人很有兴趣。
+
+　如果可能的话，他很想再一次遇见那个少年。
+
+　任何实验的成果，都没有这个意外结果所带来的资料更有价值。
+
+　不过，
+  现在还不到做那种事的时候。
+
+<BUSTUP NAME="sice2" face="" MODE="on" zoom="" ALIGN="left">//# sice2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「看样子，你在这个国家还有最后的任务要做啊」
+
+<BOX type="3">//%m
+　赛斯一边把身体转向Ein，
+  一边在心中这样想着。
+
+<BOX type="4">//%sL
+“……或许，这将是你最后的任务吧？”
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你有枪吗？」
+
+<BUSTUP NAME="elen1" face="3" MODE="on" zoom="" ALIGN="right">//# elen1^3 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# elen1^3 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「不」
+
+<BUSTUP NAME="sice" face="1" MODE="on" zoom="" ALIGN="left">//# sice 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# sice 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「唔……」
+
+<BOX type="3">//%m
+　虽说向大佐的部下借枪也未尝不可，不过那实在是有些不像样子。
+
+　实际上，自己还是有枪的。
+
+　自己带着的4个旅行箱中，装着严格挑选出的枪械藏品。各枪专用的子弹也有少量的储备。
+
+　虽然说，这样野蛮地对待贵重的藏品，实在是有些过分。
+
+　不过……
+
+　喜爱凶器、懂得凶器之美的赛斯，知道这份美丽将在哪个瞬间放射出光辉。
+
+　毫无疑问……那是吸吮猎物鲜血的瞬间。
+
+<CLEAR><BACKGROUND SRC="0295p1">//# 0295p1 1 dummy 19
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="4">//%sR
+「用这个」
+
+<BOX type="3">//%w
+　赛斯选择了AUTO-MAG作为装饰今夜舞台的小道具。
+（注：AUTO-MAG，M180高标准0.44马格南自动手枪）
+
+<BOX type="4">//%sR
+「备用的弹夹有两个，
+  要小心使用」
+
+「如你所知，这是把易坏的枪，
+  要尽量避免连射」
+
+<BOX type="5">//%sL
+「……是」
+
+<A HREF="0300.txt" OPERATOR="">//~ 0300

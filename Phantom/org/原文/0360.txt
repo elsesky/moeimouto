@@ -1,0 +1,403 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left 0350x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="wind" mode="fadein" old="fadeout" time="10" loop="on">//$ wind.swa 0 255
+<BACKGROUND SRC="0350x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　瞼の裏に、ほのかな朱色が染み込んでくる。
+
+　頬に当たる風には、
+　だがもう、夜霧の冷たさはなく、かすかな温もりを孕んでいた。
+
+　夜が、明けたらしい。
+
+//> black dummy center 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<wait time="200">
+<box type="0">
+　ツヴァイ……
+
+　聞き飽きたドイツ語を、
+　また誰かが叫んでいる。
+
+　ツヴァイ……
+
+　どうやら、呼ばれているらしい。
+
+//> left 0350x1 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="0350x1">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　参ったな。
+　いい加減にしてくれよ。
+　そんな名前じゃ、ないっていうのに。
+
+<BOX type="5">//%sR
+「ツヴァイ!
+　おい、ツヴァイ!!」
+
+「生きてるんなら返事しろ!
+　おいったら!!」
+
+<bgm src="" mode="fadeout" time="20" loop="on">//> left bay0 wide 255 rizy^5 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_desert2" mode="fadein" old="fadeout" time="10" loop="on">//$ days2.swa 0 255
+<BACKGROUND SRC="bay0">//
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　……リズィ、か？
+　終わったのか、もう……
+
+<BOX type="5">//%sR
+「馬鹿野郎……」
+
+<BOX type="0">//%w
+　聞き慣れたつもりのリズィの罵倒だが、今はまるきり力がなかった。
+
+<BOX type="5">//%sR
+「てっきり、
+死んでるのかと思ったじゃねぇか」
+
+<BOX type="0">//%w
+「……」
+
+「……生きてる、よな？　まだ」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ああ、そのようだぜ」
+
+「安心しろ。弾は抜けてる。
+　気張れば何てことはない傷だ」
+
+「じきにクロウディアと
+　マグワイヤが援軍を連れてくる。
+　それまでの辛抱だからな」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ったく、
+　何をモタモタしてたんだか」
+
+<BOX type="0">//%w
+「サイスは？」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="right">//# rizy^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　リズィは苦虫を噛み潰したような顔で、水平線を睨んでから、
+
+<BOX type="5">//%sR
+「逃がしたよ」
+
+<BOX type="0">//%w
+　と、吐き捨てた。
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">//# rizy^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「済まねぇ……」
+
+「最初からアンタを信用してりゃ、
+　こんなことには……」
+
+<BOX type="0">//%w
+「……いいさ」
+
+「格好つけてみたかったんだよ。たまには」
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「馬鹿野郎……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　苦く、短い笑いだったが、
+　お互いの蟠りを洗い流すには、それで充分だった。
+
+<BUSTUP NAME="rizy" face="6" MODE="on" zoom="" ALIGN="right">//# rizy^6 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「しかし、本当に凄ぇなアンタ。
+　あの化け物みたいな人形娘を、
+　一発で仕留めるなんて」
+
+<BOX type="5">//%sR
+「まぁ今回は、
+　ファントムを殺れただけでも、
+　良しとしようや」
+
+「サイスの奴ぁ、
+　あの娘っ子がいなけりゃ
+　何もできないんだろ？」
+
+<BOX type="0">//%w
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　確信を持って、言える。
+
+　あのときアインには、先に撃てたはずだ。
+　先に背後をとっておきながら、
+　なぜ、すぐに撃たなかった？
+
+　……情け、か？
+
+<CLEAR><BACKGROUND SRC="0230p2">//# 0230p2 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　確かに、命を救ったこともある。
+　目の前で死にかかっている彼女を、見殺しにできずに。
+
+　その甘さのせいで、窮地に追い込まれもした。
+
+　それでも、お互い、判りきってたはずじゃないか。
+　次に会うときは、敵同士だと……
+　別れ際に、そう言ったじゃないか。
+
+<CLEAR><BACKGROUND SRC="bay0">//# bay0 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　だが……
+　苦い思いで、自問する。
+
+　そういう自分は、どうなのだ？
+　もし、相手がアインだと判っていても、
+　あのとき、ためらわずに撃てたのか？
+
+　前と同じ感傷に捕らわれて、命を落としていたのは、
+　或いは、こちらだったかもしれない。
+
+<CLEAR><BACKGROUND SRC="0320p1">//# 0320p1 1 
+<LAYER SRC="#99cc44" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　ともあれ、彼女は……助かるまい。
+
+　あの場で即死していなくても、
+　それに先んじて、彼女は腹を撃たれている。
+
+　傷を癒す猶予もなしに、二度目の銃弾を耐えられたわけがない。
+
+//> left bay0 wide 255 rizy 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="bay0">//
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「お、ようやく来たか……」
+
+<se id="1" src="独米車集団走行音" mode="normal" time="" loop="off" effect="">//
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　見ると、集配所の向こう側から、
+　十指に余る台数の車が、猛スピードで回り込んでくるところだった。
+
+<wait time="800">
+
+<se id="1" src="" mode="fadeout" time="20">
+
+<se id="2" src="独車ドア閉＆足音" mode="normal" time="" loop="off" effect="">//
+<CLEAR><BACKGROUND SRC="bayMob">//# bayMob 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　いずれの車からも、武装した男たちが、
+　停まるのも待たずに転がり降りては、
+　無駄のない動きで周囲に散開していく。
+
+　いまさら張り切られても、もう片はついているのだが。
+
+　やや遅れて乗り入れてきたリムジンから、二人の幹部が降り立った。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「首尾はどうなっている？
+　サイスは？」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「面目ねぇ。
+　取り逃がしちまいました」
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1^2 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「遅かったか……」
+
+<BUSTUP NAME="crou2" face="5" MODE="on" zoom="" ALIGN="left">//# crou2^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# crou2^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……ツヴァイ!　撃たれたの!?」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 20 dummy 19
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 20 dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「あぁ、この程度、
+　どうってことないよ」
+
+「なぁツヴァイ、
+　男の子だもんな？」
+
+<BOX type="0">//%w
+　馬鹿を言うな……
+
+<BOX type="5">//%sR
+「名誉の負傷ってやつですよ」
+
+「こいつ、ファントムを
+　サシの勝負で仕留めたんですよ」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="left">//# inferuno1 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「ほう？」
+
+<BUSTUP NAME="crou2" face="9" MODE="on" zoom="" ALIGN="right">//# crou2^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「本当なの？　ツヴァイ」
+
+<BOX type="0">//%w
+「……ええ、まあ」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　アイン……
+
+<CLEAR><BACKGROUND SRC="0010p2">//# 0010p2 1 
+<LAYER SRC="#ffffff" TRANSPARENT="50" NUM="1">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　最後まで、本当の笑顔を刻むことのなかった、怜悧な横顔を思い出す。
+
+　最初は師として、次は相棒として、
+　そして最後には、敵として……
+
+　まさか、こんな形で終わりになるとは。
+
+<CLEAR><BACKGROUND SRC="bayMob">//# bayMob 1 
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　誰かの手が、肩の上に載せられた。
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「詫びておかねばならんな。
+　君を疑ったことを」
+
+「なにぶん、状況が状況だけに、
+　慎重な判断が必要だった。
+　理解してほしい」
+
+「君の組織への忠誠を認めよう。
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+　今後とも、インフェルノに
+　尽力してほしい」
+
+「頼んだぞ、ファントム」
+
+<BUSTUP NAME="rizy" face="5" MODE="on" zoom="" ALIGN="left">//# rizy^5 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^5 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……え？」
+
+<BUSTUP NAME="crou2" face="2" MODE="on" zoom="" ALIGN="right">//# crou2^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……!!」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　聞き違いだろうと、最初は思った。
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「何か不思議かね？」
+
+「あれだけ凄まじい腕前を誇った
+　先代のファントムを、彼は、
+　たった一人で屠り去った」
+
+「今この場から、
+　彼をファントムと呼ぶことに、
+　何の支障がある？」
+
+<BUSTUP NAME="rizy" face="" MODE="on" zoom="" ALIGN="left">//# rizy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「そりゃ、まぁ、確かに」
+
+<BUSTUP NAME="crou2" face="8" MODE="on" zoom="" ALIGN="right">//# crou2^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……襲名させるのですね。彼に」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# dummy 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="0">//%w
+　あまりのことに、言葉もなかった。
+
+　ファントム……だと？
+
+　よりによって、この自分が？
+
+<BUSTUP NAME="inferuno1" face="2" MODE="on" zoom="" ALIGN="right">//# inferuno1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「改めて、祝福しよう。
+　今日より君は頂点に立て」
+
+<BUSTUP NAME="inferuno1" face="" MODE="on" zoom="" ALIGN="right">//# inferuno1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「ファントムの名を、轟かすのだ。
+　闇の世界に、恐怖とともに」
+
+<A HREF="1000.txt" OPERATOR="">//~ 1000

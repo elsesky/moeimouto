@@ -1,0 +1,41 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left nightWay3 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_dream" mode="fadein" old="fadeout" time="10" loop="on">//$ dream.swa 0 255
+<BACKGROUND SRC="nightWay3">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　今この1分1秒の決断で、おそらく生死が分かたれるんだろう。
+
+　もちろん、命が惜しいなら、今からロフトに戻るなど愚の骨頂だが……
+
+　だから、何だというんだ？
+　そんなことが、キャルを見捨てる理由になるものか。
+
+　標識も信号もすべて無視し、
+　邪魔な車は対向車線から追い抜いて、ノルマンディ通りを目指した。
+
+　パトカーと行き会って邪魔されるようなら、
+　撃ち合いだって辞さなかっただろう。
+
+//> left dummy wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="dummy">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　幸い、クラクションと野次を浴びただけで、
+　無事にノルマンディ通りまで戻れた。
+
+　ここからは、敵地と思っていい。
+
+　2ブロックほど離れた場所にゴルフを停めて降り、
+　意識を針にして、周囲の気配を窺いつつ歩く。
+
+<A HREF="1480a.txt" OPERATOR="">//~ 1480a

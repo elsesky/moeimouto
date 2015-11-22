@@ -1,0 +1,76 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left room0a2 wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="school" mode="fadein" old="fadeout" time="10" loop="on">//$ school.swa 0 255
+<BACKGROUND SRC="room0a2">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="door2" mode="normal" loop="off">
+
+<wait time="200">
+<BUSTUP NAME="cyall3" face="c" MODE="on" zoom="" ALIGN="right">//# cyall^c 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊？　欢迎回来。
+　今天回来的好早啊」
+
+<BOX type="0">//%w
+　昨天买的衣服在回到阁楼以后就被凯尔脱掉了，现在她穿的还是那件做工粗糙的旧衣服。
+
+　看来凯尔是把那件新衣服当成出门才穿的正装了。早知道就应该把她的居家服也一起买回来。
+
+「我们要出去一下，快准备准备」
+
+<BUSTUP NAME="cyall3" face="0" MODE="on" zoom="" ALIGN="right">//# cyall^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哎？　去哪里？」
+
+<BOX type="0">//%w
+「……去练枪」
+
+<BUSTUP NAME="cyall3" face="7" MODE="on" zoom="" ALIGN="right">//# cyall^7 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「哇哦!!」
+
+<BOX type="0">//%w
+　仿佛是得到了什么惊喜一样，凯尔高兴地跳了起来。
+
+「不过提前说好，我们不是去玩的」
+
+「即使是练习，枪就是枪，如果当玩具使的话是会受伤的哦」
+
+<BUSTUP NAME="cyall3" face="9" MODE="on" zoom="" ALIGN="right">//# cyall^9 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「知道啦。我会认真练习的」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+<BOX type="0">//%w
+　我能相信她吗？
+  总感觉内心有些不安。
+
+<BUSTUP NAME="cyall" face="" MODE="on" zoom="" ALIGN="right">//# cyall 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「那，我们快点走吧」
+
+<BOX type="0">//%w
+「……不用换衣服吗？」
+
+<BOX type="5">//%sR
+「嗯？　没关系的，就这样吧」
+
+<BUSTUP NAME="cyall" face="5" MODE="on" zoom="" ALIGN="right">//# cyall^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「这样的话弄脏了也没关系」
+
+<BOX type="0">//%w
+　……果然应该尽快多给她准备几件衣服。
+
+<A HREF="1160a.txt" OPERATOR="">//~ 1160a

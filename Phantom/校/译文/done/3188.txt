@@ -1,0 +1,64 @@
+<bgm src="" mode="fadeout" time="20" loop="on">//> left diningHall wide 255
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="mob" mode="fadein" old="fadeout" time="10" loop="on">//$ mob.swa 0 255
+<BACKGROUND SRC="diningHall">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　学生食堂里一如既往地热闹，简直就像一个菜市场。
+
+　众多精力旺盛的少男少女们自发集中在如此狭小的空间内，使得这里充斥着迫人的喧嚣。
+
+　争先恐后地杀到即将售空的小卖部前的学生们，个个都是一副暴徒的姿态。
+
+　由于面食、咖哩饭等自助餐的价格比较高，所以排在这里的队伍也相对舒缓一些。
+
+<A HREF="#僗儖乕" OPERATOR="3080a=0">
+虽说这只是我敷衍美绪的一时之言，
+<MARKER NAME="#僗儖乕">
+不过，我解决午餐一直都是靠食堂而非小卖部。
+为了区区一百日元的差额而让自己卷入那样的骚动中，实在是不值得。
+
+<BUSTUP NAME="sanae1" face="2" MODE="on" zoom="" ALIGN="right">//# sanae1^2 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「喂，我说」
+
+<BOX type="0">//%w
+　一个略带严厉的声音在我的身后响起。
+
+<BOX type="5">//%sR
+「你怎么会在这里？」
+
+<BOX type="0">//%w
+　早苗明显很不高兴，可我并不明白她这样问的意图。
+
+「我为什么……就不能在这里？」
+
+<BUSTUP NAME="sanae1" face="4" MODE="on" zoom="" ALIGN="right">//# sanae1^4 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「啊啊啊，真受不了，你个食堂候补生!」
+
+<BOX type="0">//%w
+　早苗感觉快要抓狂了。
+
+<BOX type="5">//%sR
+「算了，反正今天你还有其他事情」
+
+<BOX type="0">//%w
+「究竟是什么事啊？」
+
+<BUSTUP NAME="sanae1" face="1" MODE="on" zoom="" ALIGN="right">//# sanae1^1 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「有客人找你」
+
+「是个我不认识的人，但他自我介绍说是你在美国学校里的老师」
+
+「名字好象叫做盖瑟培」
+
+<A HREF="3235.txt" OPERATOR="">//~ 3235

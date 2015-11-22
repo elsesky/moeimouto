@@ -1,0 +1,282 @@
+<CALC WORKNAME="僸儘僀儞" OPERATOR="傾僀儞">//
+<bgm src="" mode="fadeout" time="20" loop="on">//> left tortureroom wide 255 dummy 20 dummy 19
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="l_inferno" mode="fadein" old="fadeout" time="10" loop="on">//$ dark.swa 0 255
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="0">//%w
+　返回Inferno以后……
+　等待我的是无休止的审问。
+
+<BUSTUP NAME="rizy" face="8" MODE="on" zoom="" ALIGN="left">//# rizy^8 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「到现在，你还是说自己什么都不知道吗？」
+
+<BOX type="0">//%w
+「这句话我说过很多次了吧？」
+　
+　看来现在只能装傻了。
+
+<BUSTUP NAME="rizy" face="2" MODE="on" zoom="" ALIGN="left">//# rizy^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……记不起来了吗」
+
+「昨晚你从克劳蒂亚的家里出来以后，没有急着去兜风吧」
+
+「既然这样，你为什么要开车去沙漠」
+
+<BOX type="0">//%w
+「因为我喜欢沙漠呀」
+
+<BOX type="4">//%sL
+「……那么，后来你和Phantom在沙漠中心汇合了，简直就像事先商量好了一样」
+
+<BOX type="0">//%w
+「只是偶然碰见，不是汇合哦」
+
+<BOX type="4">//%sL
+「你给我闭嘴」
+
+「就算Phantom能够在那个射击场里自己处理枪伤」
+
+「你为什么不立即向组织报告？」
+
+<BOX type="0">//%w
+「手机没电了」
+
+<BOX type="0">//%w
+　莉兹握着的拳头上青筋暴起，一副要暴打我的样子。
+　不过，看样子她总算还是放弃了。
+
+<BOX type="4">//%sL
+「好吧，
+  再问你最后一个问题」
+
+「你把到手的Phantom放走以后，
+  为什么还要一个人回来？」
+
+<BOX type="0">//%w
+「为了遵照她的指示」
+
+　无视莉兹的怒火，我摆出一副不以为然的脸，这样答道。
+
+「……『已经没事了，马上返回洛杉矶向Inferno报告』，
+  她是这样说的」
+
+「这是没办法的吧？　Phantom背叛组织、与你拔枪对射，
+  这之后的事，我可是一点都不知道」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19 crou^8 20
+<BUSTUP NAME="crou" face="8" MODE="on" zoom="" ALIGN="right">//# dummy 19 crou^8 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「莉兹，今晚就到这里吧」
+
+<BOX type="0">//%w
+　看到莉兹快要忍耐到极限，克劳蒂亚马上介入进来。
+
+<BOX type="5">//%sR
+「就算是你，审了这么久也很累了吧。上去喝一杯吧」
+
+<BUSTUP NAME="rizy" face="7" MODE="on" zoom="" ALIGN="left">//# rizy^7 19 dummy 20
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="right">//# rizy^7 19 dummy 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「……」
+
+<BUSTUP NAME="dummy" face="" MODE="on" zoom="" ALIGN="left">//# dummy 19
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="doorslam" mode="normal" time="" loop="off" effect="">//!se doorslam
+<BOX type="0">//%w
+　砰的一声，门被重重地摔上，莉兹走了出去
+
+<clear>
+<BACKGROUND SRC="恞栤傪庴偗傞儗僀僕">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　狭窄的地下室中，只剩下了我和克劳蒂娅。
+
+　这一次看来是瞒不过去了。
+　她可是什么都知道。
+
+//<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="right">//# crou^2 20
+//<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「你的立场可不太妙哦」
+
+<BOX type="0">//%w
+「……」
+
+<BOX type="5">//%sR
+「说起返回，
+  我是说让你马上返回的吧？」
+
+「要是你能把Phantom带回来」
+
+「说不定身价还能上涨，可是……」
+
+<BOX type="0">//%w
+「她……什么都不知道」
+
+<BOX type="5">//%sR
+「所以就逃走了吗？」
+
+<BOX type="0">//%w
+「……」
+
+<clear>
+<BACKGROUND SRC="tortureroom">//
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　似乎要排遣内心的焦虑一般，克劳蒂亚站起来，
+  开始在房间里走来走去。
+
+<BUSTUP NAME="crou" face="2" MODE="on" zoom="" ALIGN="left">//# crou^2 19
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="4">//%sL
+「你的这份温柔，并不值得钦佩」
+
+「总有一天会让你丧命的」
+
+<bgm src="" mode="fadein" old="fadeout" time="30" loop="on">//$ 0 0 0
+<BOX type="0">//%w
+　正是如此。
+　而且，这次的事……一定也给克劳蒂亚添了不少麻烦。
+
+「非常抱歉，麦肯宁小……」
+
+<bgm src="" mode="fadein" old="fadeout" time="0" loop="on">//$ 0 _1 0
+<bgm src="croudia" mode="fadein" old="fadeout" time="10" loop="on">//$ croudia.swa 0 255
+<CLEAR><BACKGROUND SRC="0255p1">//# dummy 19 0255p1 1
+<WIPE EFFECT="fade" TIME="10">
+<BOX type="0">//%w
+　可是没等我说完，克劳蒂亚伸出双臂抱住了我，
+  把我拉到了她丰满的胸前。
+
+<BOX type="5">//%sR
+「欢迎回来。{名}」
+
+<BOX type="0">//%w
+　如同大变样一般，她的声音非常温柔。
+  我因为这一连串的事情而积累的疲劳，全都被温暖地治愈了。
+
+「麦肯宁小姐……」
+
+<BOX type="5">//%sR
+「只有我们两人的时候，
+  叫我克劳蒂亚就好了」
+
+「你也不是Zwei，而是{名}。
+　这是我们两个人的秘密，好吗？」
+
+<BOX type="0">//%w
+「……嗯」
+
+//> eins tortureroom wide 255 crou 20
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="tortureroom">//
+<BUSTUP NAME="crou" face="" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BOX type="5">//%sR
+「你暂时还将处于困境之中，在抓住赛斯之前，你都要忍耐下去哦」
+
+<BOX type="0">//%w
+「赛斯的行踪确定了吗？」
+
+<BOX type="5">//%sR
+「想要追捕他已经很难了……」
+
+「不过，我们已经布好了陷阱，就等他自投罗网了」
+
+「赛斯一定会逃往国外……」
+
+「因此，我们正监视着他有可能联系的组织」
+
+<BUSTUP NAME="crou" face="0" MODE="on" zoom="" ALIGN="right">//# crou^0 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「只要他有所行动，
+  我们总是能先他一步」
+
+「对于赛斯而言，最紧迫的就是时间。他不可能按兵不动」
+
+「那个时候，
+  你证明自己清白的机会就来了」
+
+<BOX type="0">//%w
+「证明……清白？」
+
+<BOX type="5">//%sR
+「你要用行动来证明自己的伙伴是谁，自己的敌人是谁」
+
+「在所有人的面前，用你的手把赛斯杀掉吧」
+
+<BOX type="0">//%w
+「不被信任的我，会被列入追击者名单中吗？」
+
+<BOX type="5">//%sR
+「我会尽力帮你的」
+
+<BUSTUP NAME="crou" face="5" MODE="on" zoom="" ALIGN="right">//# crou^5 20
+<WIPE EFFECT="fade" TIME="5">
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+「……怎么了？」
+
+　我注意到，克劳蒂亚的表情突然间变得阴沉。
+
+<BOX type="5">//%sR
+「现在的你，已经不是Zwei了」
+
+「即便如此，你还能做到吗？」
+
+<BOX type="0">//%w
+　我能理解克劳蒂亚的担心。
+
+　现在的自己，已经不再是被称作Zwei的杀人机器。
+　而是名为{姓}{名}，
+　拥有个人的判断力并为自己而战的人。
+
+　尽管如此，如果我再次遵从命令、许下杀人承诺的话，
+  那么这一次，我将真真正正地让双手沾满鲜血。
+
+　终于，我将以自己的意志杀人……
+
+<BOX type="0">//%w
+「能做到」
+
+<BOX type="5">//%sR
+「……」
+
+<BOX type="0">//%w
+　我让脸颊尽量放松下来，
+  最后，总算在克劳蒂亚的眼中展现出一副无畏的笑脸。
+
+　不过，似乎察觉到了这一切，
+  克劳蒂亚的脸上依然透露出紧张与忧虑。
+
+「没有问题」
+
+「无论是至今为止，还是从今以后。
+  我都是一个杀手」
+
+「经过一夜的考虑，我决定了。
+  自己将这样活下去」
+
+<BOX type="5">//%sR
+「……这样吗」
+
+<CALC WORKNAME="0255" OPERATOR="1">//
+<A HREF="0290.txt" OPERATOR="">//~ 0290
